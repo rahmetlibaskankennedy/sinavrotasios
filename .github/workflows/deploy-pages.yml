@@ -1,0 +1,30 @@
+name: Deploy DEV web assets to GitHub Pages
+
+# Sadece www/ klasöründe değişiklik olduğunda tetiklenir.
+# Bu Pages ortamı SADECE geliştirme (Live Reload) IPA'sı içindir —
+# App Store'a gidecek release build'i buna dokunmaz (bkz. capacitor.config.json,
+# server.url ayarı yok / yerel www gömülü).
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'www/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Publish www/ to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./www
+          publish_branch: gh-pages
+          force_orphan: true
