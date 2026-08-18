@@ -1,0 +1,33 @@
+[
+  {
+    "id": "general-culture",
+    "title": "Ortak Alan Bilgisi",
+    "subtitle": "Dilbilgisi, Tarih, Coğrafya, Yurttaşlık ve Güncel Bilgiler",
+    "icon": "landmark",
+    "icon_class": "blue",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-06T08:12:16.518339+00:00"
+  },
+  {
+    "id": "general-legislation",
+    "title": "Genel Mevzuat",
+    "subtitle": "Anayasa, Devlet Memurları ve Kamu Yönetimi Kanunları",
+    "icon": "scale",
+    "icon_class": "",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "meb-legislation",
+    "title": "MEB Mevzuatı",
+    "subtitle": "Millî Eğitim Bakanlığı Özel Mevzuatı ve Düzenlemeleri",
+    "icon": "schoolbook",
+    "icon_class": "red",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  }
+]
+

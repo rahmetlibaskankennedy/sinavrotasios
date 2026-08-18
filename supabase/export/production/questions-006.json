@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "t-protokol-kurallari-807r5-msg0c7uk-8-qjbe",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokol kurallarına göre bir kamu görevlisinin resmî ortamda kıyafet seçimi öncelikle hangi ilkeye uygun olmalıdır?",
+    "options": [
+      "Moda akımlarına",
+      "Kişisel tercihlere",
+      "Görevin ciddiyeti ve temsil sorumluluğuna",
+      "Sosyal medya eğilimlerine",
+      "Diğer katılımcılardan farklı olmaya"
+    ],
+    "answer_index": 2,
+    "explanation": "Resmî kıyafet, temsil edilen makamın saygınlığına uygun olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:32:25.44611+00:00",
+    "updated_at": "2026-08-05T11:32:25.44611+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0c7uk-9-lmc3",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Aşağıdakilerden hangisi protokol kurallarının temel amaçlarından biri değildir?",
+    "options": [
+      "Kurumsal saygınlığı korumak",
+      "İletişimde düzeni sağlamak",
+      "Kamu hizmetlerinde nezaketi geliştirmek",
+      "Kişiler arasında gereksiz üstünlük oluşturmak",
+      "Temsil görevini usulüne uygun yürütmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Protokolün amacı kişisel üstünlük oluşturmak değil; kurumsal düzeni, saygınlığı ve nezaketi sağlamaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:32:25.44611+00:00",
+    "updated_at": "2026-08-05T11:32:25.44611+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-0-cuhz",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir valinin ev sahipliğinde gerçekleştirilen resmî törende, protokol sıralamasında daha alt sırada bulunan bir yönetici konuşma yapmak istediğini belirtmiştir. Protokol kurallarına göre en uygun uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "İsteyen herkes istediği zaman konuşabilir.",
+      "Konuşma sırası protokol programına uygun olarak belirlenir.",
+      "Yaşı büyük olan önce konuşur.",
+      "En uzun süre görev yapan konuşur.",
+      "Katılımcılar oylama yaparak karar verir."
+    ],
+    "answer_index": 1,
+    "explanation": "Resmî törenlerde konuşma sırası kişisel taleplere göre değil, önceden belirlenen protokol programına göre uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-1-twia",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir toplantıda kurum amiri, konuşma yapan katılımcının sözünü sık sık keserek açıklama yapmaktadır. Bu durum öncelikle hangi protokol ilkesine aykırıdır?",
+    "options": [
+      "Temsil",
+      "Nezaket ve iletişim",
+      "Kılık kıyafet",
+      "Araç protokolü",
+      "Bayrak düzeni"
+    ],
+    "answer_index": 1,
+    "explanation": "Resmî toplantılarda konuşmacının sözü kesilmez, söz hakkına saygı gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-2-sngu",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir ziyarette makam sahibi, misafirini bina girişinde karşılamış ve görüşme sonunda aracına kadar eşlik etmiştir. Bu davranış aşağıdakilerden hangisinin göstergesidir?",
+    "options": [
+      "Ast-üst ilişkisini kaldırma",
+      "Protokol nezaketi ve temsil sorumluluğu",
+      "Yetki devri",
+      "İmza yetkisi",
+      "Kurumsal hiyerarşinin sona ermesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Karşılama ve uğurlama, resmî protokolün temel nezaket kurallarındandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-3-x5xe",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir toplantıda cep telefonunun çalması üzerine görevlinin telefonu kapatmadan salonda konuşmaya başlaması aşağıdakilerden hangisine aykırıdır?",
+    "options": [
+      "Toplantı disiplini ve protokol kuralları",
+      "İmza düzeni",
+      "Hitap şekli",
+      "Araç protokolü",
+      "Bayrak kullanımı"
+    ],
+    "answer_index": 0,
+    "explanation": "Toplantı sırasında telefonla konuşmak toplantı düzenini ve resmiyetini bozar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-4-105m",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir resmî yemekte ev sahibi konuşmasını tamamlamadan misafirlerin masadan ayrılması aşağıdakilerden hangisi açısından uygun değildir?",
+    "options": [
+      "Yazışma kuralları",
+      "Telefon protokolü",
+      "Sofra ve davet protokolü",
+      "İmza yetkisi",
+      "Araç düzeni"
+    ],
+    "answer_index": 2,
+    "explanation": "Resmî davetlerde ev sahibinin programı tamamlaması beklenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-5-tb10",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokol kurallarına göre resmî bir törende bayrağın bulunduğu alanda aşağıdaki davranışlardan hangisi uygun değildir?",
+    "options": [
+      "Bayrağa saygılı davranmak",
+      "Tören düzenine uymak",
+      "Bayrağın önünde uygunsuz hareketlerde bulunmak",
+      "Resmî duruşu korumak",
+      "Tören yönlendirmelerine uymak"
+    ],
+    "answer_index": 2,
+    "explanation": "Türk Bayrağı bulunan resmî alanlarda saygı ve ciddiyet esastır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-6-c8d8",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir kamu yöneticisinin yaptığı konuşmada temsil ettiği kurum yerine sürekli kişisel görüşlerini ön plana çıkarması aşağıdakilerden hangisine aykırıdır?",
+    "options": [
+      "Temsil sorumluluğuna",
+      "Kılık kıyafet kurallarına",
+      "Oturma düzenine",
+      "Telefon protokolüne",
+      "Hitap sırasına"
+    ],
+    "answer_index": 0,
+    "explanation": "Resmî görevlerde yapılan açıklamalarda kurumun görüşü esas alınmalı, kişisel değerlendirmeler ön plana çıkarılmamalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-7-jcx7",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokolde hitap edilirken aşağıdakilerden hangisinin esas alınması en doğrudur?",
+    "options": [
+      "Kişinin yaşı",
+      "Kişinin eğitim durumu",
+      "Kişinin makamı ve resmî unvanı",
+      "Kişinin memleketi",
+      "Kişinin siyasi görüşü"
+    ],
+    "answer_index": 2,
+    "explanation": "Resmî ortamlarda hitaplarda makam ve resmî unvan esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-8-gko5",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir program sırasında protokol listesinde yer almayan bir kişinin ön sıraya oturmak istemesi durumunda aşağıdaki uygulamalardan hangisi doğrudur?",
+    "options": [
+      "İstediği yere oturmasına izin verilir.",
+      "Boş yer varsa ön sıraya alınır.",
+      "Protokol listesine uygun oturma düzeni korunur.",
+      "En yaşlı kişinin yanına oturtulur.",
+      "Kura çekilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Oturma düzeni önceden belirlenen protokol listesine göre uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-msg0cyvh-9-7iff",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokol kurallarının kamu yönetimindeki temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Makamlar arasında kişisel üstünlük oluşturmak",
+      "Kurumsal düzeni, saygınlığı ve resmiyeti sağlamak",
+      "Yalnızca üst düzey yöneticileri korumak",
+      "Vatandaşların yönetime katılımını sınırlandırmak",
+      "Kurumlar arasında rekabet oluşturmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Protokol kuralları kişisel ayrıcalık sağlamak için değil, kamu yönetiminde düzen, saygınlık ve temsilin doğru yürütülmesi için uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:33:00.541517+00:00",
+    "updated_at": "2026-08-05T11:33:00.541517+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-0-7xwe",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM hangi tarihte açılmıştır?",
+    "options": [
+      "23 Nisan 1920",
+      "19 Mayıs 1919",
+      "16 Mart 1920",
+      "20 Ocak 1921",
+      "29 Ekim 1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye Büyük Millet Meclisi, 23 Nisan 1920'de Ankara'da açılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-1-65s2",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılışında ilk meclis başkanı kim seçilmiştir?",
+    "options": [
+      "İsmet İnönü",
+      "Mustafa Kemal",
+      "Rauf Orbay",
+      "Celal Bayar",
+      "Kazım Karabekir"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM'nin açılışında Mustafa Kemal, meclis başkanlığına seçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-2-eprw",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılmasının temel gerekçelerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "İstanbul'un işgali ve Mebusan Meclisi'nin dağıtılması",
+      "Sevr Antlaşması'nın imzalanmış olması",
+      "Lozan görüşmelerinin başlaması",
+      "Saltanatın kaldırılmış olması",
+      "Cumhuriyetin ilan edilmiş olması"
+    ],
+    "answer_index": 0,
+    "explanation": "16 Mart 1920'de İstanbul'un resmen işgali ve Mebusan Meclisi'nin kapatılması üzerine milli iradeyi temsil edecek yeni bir meclis Ankara'da açılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-3-ifm0",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılışıyla birlikte 'kuvvetler birliği' ilkesinin benimsenmesinin temel nedeni nedir?",
+    "options": [
+      "Hızlı ve etkili karar alma zorunluluğu",
+      "Padişahın isteği",
+      "İtilaf Devletleri'nin baskısı",
+      "Anayasa gereği",
+      "Halifelik makamının talebi"
+    ],
+    "answer_index": 0,
+    "explanation": "Olağanüstü savaş şartlarında hızlı karar alabilmek amacıyla TBMM'de yasama, yürütme ve yargı yetkileri mecliste toplanmış, kuvvetler birliği ilkesi benimsenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-4-asgv",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ve Mustafa Kemal'i 'asi' ilan eden fetva kim tarafından yayımlanmıştır?",
+    "options": [
+      "Anadolu uleması",
+      "Şeyhülislam Dürrizade Abdullah",
+      "Halife Vahdettin",
+      "İstanbul Mebusan Meclisi",
+      "Damat Ferit Paşa"
+    ],
+    "answer_index": 1,
+    "explanation": "İstanbul Hükümeti'nin Şeyhülislamı Dürrizade Abdullah Efendi, Mustafa Kemal ve arkadaşlarını 'asi' ilan eden bir fetva yayımlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-5-iejl",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin ilk anayasası olan Teşkilat-ı Esasiye Kanunu hangi yıl kabul edilmiştir?",
+    "options": [
+      "1921",
+      "1920",
+      "1923",
+      "1924",
+      "1922"
+    ],
+    "answer_index": 0,
+    "explanation": "20 Ocak 1921'de kabul edilen Teşkilat-ı Esasiye Kanunu, TBMM döneminin ilk anayasasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-6-sjtn",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Teşkilat-ı Esasiye Kanunu'na göre egemenlik anlayışı ile ilgili doğru ifade hangisidir?",
+    "options": [
+      "Egemenlik kayıtsız şartsız millete aittir",
+      "Egemenlik padişaha aittir",
+      "Egemenlik halifeye aittir",
+      "Egemenlik meclise ve padişaha ortak aittir",
+      "Egemenlik İtilaf Devletleri'ne devredilmiştir"
+    ],
+    "answer_index": 0,
+    "explanation": "1921 Anayasası, 'Egemenlik kayıtsız şartsız milletindir' ilkesini benimseyerek milli egemenlik anlayışını hukuki temele oturtmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-7-3sp2",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaların bastırılmasında görev alan düzenli kuvvet aşağıdakilerden hangisidir?",
+    "options": [
+      "Kuvayımilliye birlikleri",
+      "Kuvayıseyyare",
+      "Halife ordusu",
+      "Damat Ferit birlikleri",
+      "İngiliz kuvvetleri"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM'ye karşı çıkan iç isyanların bastırılmasında Çerkez Ethem komutasındaki Kuvayıseyyare birlikleri önemli rol oynamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfu0o3s-8-jxv5",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı ilk açılan isyanlardan biri olan ve İstanbul Hükümeti destekli ayaklanma aşağıdakilerden hangisidir?",
+    "options": [
+      "Ali Batı İsyanı",
+      "Bozkır İsyanı",
+      "Milli Aşiret İsyanı",
+      "Kuvayı İnzibatiye (Hilafet Ordusu) hareketi",
+      "Nesimi İsyanı"
+    ],
+    "answer_index": 3,
+    "explanation": "İstanbul Hükümeti'nin desteklediği Kuvayı İnzibatiye (Hilafet Ordusu), TBMM'ye karşı Düzce ve çevresinde ayaklanmalar çıkarmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:28.770536+00:00",
+    "updated_at": "2026-08-05T08:35:28.770536+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-0-gt69",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin 23 Nisan 1920'de Ankara'da açılmasının temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Saltanat yönetimini güçlendirmek",
+      "Millî iradeye dayalı yeni bir yönetim oluşturmak",
+      "İstanbul Hükûmeti'ni yeniden düzenlemek",
+      "Sevr Antlaşması'nı onaylamak",
+      "Halifeliği güçlendirmek"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM, millet iradesini esas alan yeni bir yönetim oluşturmak amacıyla açılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-1-1twl",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılmasıyla birlikte aşağıdaki ilkelerden hangisi fiilen uygulanmaya başlanmıştır?",
+    "options": [
+      "Mutlak monarşi",
+      "Millî egemenlik",
+      "Teokrasi",
+      "Mandacılık",
+      "Meşrutiyet"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM'nin açılmasıyla egemenliğin millete ait olduğu anlayışı uygulamaya geçirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-2-8g13",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılmasından kısa süre sonra kabul edilen 'Hıyanet-i Vataniye Kanunu'nun temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Vergi gelirlerini artırmak",
+      "İç isyanları önlemek ve Meclis otoritesini korumak",
+      "Dış borçları düzenlemek",
+      "Düzenli orduyu kaldırmak",
+      "Kapitülasyonları kaldırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanun, TBMM'ye karşı çıkan isyanları bastırmak ve Millî Mücadele'yi korumak amacıyla çıkarılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-3-zhdu",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Aşağıdakilerden hangisi TBMM'ye karşı çıkarılan ayaklanmalardan biri değildir?",
+    "options": [
+      "Anzavur Ayaklanması",
+      "Düzce Ayaklanması",
+      "Konya (Delibaş Mehmet) Ayaklanması",
+      "Şeyh Sait Ayaklanması",
+      "Yozgat Ayaklanması"
+    ],
+    "answer_index": 3,
+    "explanation": "Şeyh Sait Ayaklanması 1925 yılında Cumhuriyet döneminde meydana gelmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-4-en0i",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "İstanbul Hükûmeti'nin Anadolu'daki Millî Mücadele'yi engellemek amacıyla kurduğu kuvvet aşağıdakilerden hangisidir?",
+    "options": [
+      "Kuva-yı Milliye",
+      "Düzenli Ordu",
+      "Kuva-yı İnzibatiye",
+      "Müdafaa-i Hukuk",
+      "Redif Birlikleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuva-yı İnzibatiye (Hilafet Ordusu), İstanbul Hükûmeti tarafından Millî Mücadele'yi bastırmak amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-5-miqa",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaların ortak amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhuriyeti ilan etmek",
+      "Millî Mücadele'yi desteklemek",
+      "TBMM'nin otoritesini zayıflatmak",
+      "Lozan Antlaşması'nı kabul ettirmek",
+      "Düzenli orduyu güçlendirmek"
+    ],
+    "answer_index": 2,
+    "explanation": "İsyanların ortak amacı TBMM'nin otoritesini sarsmak ve Millî Mücadele'yi başarısızlığa uğratmaktı.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-6-v4qd",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin ayaklanmalarla mücadelede İstiklal Mahkemelerini kurmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Vergi toplamak",
+      "Yargılamaları hızlı gerçekleştirerek devlet otoritesini sağlamak",
+      "Yeni anayasa hazırlamak",
+      "İstanbul Hükûmeti ile birleşmek",
+      "Dış borçları denetlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "İstiklal Mahkemeleri, isyanları hızlı şekilde yargılayarak kamu düzenini sağlamak amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-7-wgsr",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaların Millî Mücadele'ye verdiği zarar aşağıdakilerden hangisidir?",
+    "options": [
+      "Dış cephelerdeki askerî gücün iç güvenliğe kaydırılmasına neden olması",
+      "Lozan Antlaşması'nın imzalanmasını sağlaması",
+      "İşgallerin sona ermesini hızlandırması",
+      "Kuva-yı Milliye'nin güçlenmesini sağlaması",
+      "TBMM'nin uluslararası tanınırlığını artırması"
+    ],
+    "answer_index": 0,
+    "explanation": "İsyanlar nedeniyle cephelerde kullanılacak asker ve kaynakların bir kısmı iç güvenliğe ayrılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-msfztdgd-8-qv8u",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılışı ve sonrasında çıkan ayaklanmalar birlikte değerlendirildiğinde aşağıdaki sonuçlardan hangisine ulaşılabilir?",
+    "options": [
+      "TBMM'nin otoritesi hiçbir zaman sorgulanmamıştır.",
+      "Millî egemenliğe geçiş süreci önemli iç sorunlarla birlikte yürütülmüştür.",
+      "İstanbul Hükûmeti Millî Mücadele'yi desteklemiştir.",
+      "Ayaklanmalar yalnızca dış devletler tarafından çıkarılmıştır.",
+      "TBMM'nin açılmasıyla bütün askerî mücadele sona ermiştir."
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM, hem işgal güçleriyle hem de iç isyanlarla aynı anda mücadele ederek millî egemenlik anlayışını yerleştirmeye çalışmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:17:46.140134+00:00",
+    "updated_at": "2026-08-05T11:17:46.140134+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-0-tsm8",
+    "topic_id": "topic-cografya",
+    "prompt": "Tarihte kralın yetkilerini sınırlandıran ve insan hakları alanında ilk anayasal belge olarak kabul edilen 1215 tarihli belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Haklar Bildirgesi (Bill of Rights)",
+      "Magna Carta Libertatum",
+      "Habeas Corpus Act",
+      "Virginia Haklar Bildirgesi",
+      "Sened-i İttifak"
+    ],
+    "answer_index": 1,
+    "explanation": "1215 yılında İngiltere'de Kral Yurtsuz John ile soylular arasında imzalanan Magna Carta, kralın yetkilerini sınırlayan ilk belgedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-1-cxjx",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının 'kuşaklara' ayrılarak incelenmesi (Birinci, İkinci ve Üçüncü Kuşak Haklar) fikrini ilk kez ortaya atan hukukçu kimdir?",
+    "options": [
+      "John Locke",
+      "Karel Vasak",
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "Montesquieu"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan haklarını üç kuşak halinde sınıflandıran ilk kişi Çek asıllı Fransız hukukçu Karel Vasak'tır (1979).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-10-018i",
+    "topic_id": "topic-cografya",
+    "prompt": "Türkiye, Avrupa İnsan Hakları Mahkemesi'ne (AİHM) 'Bireysel Başvuru' hakkını hangi yıl kabul etmiştir?",
+    "options": [
+      "1950",
+      "1954",
+      "1987",
+      "1990",
+      "2010"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, AİHS'yi 1954'te onaylamış ancak AİHM'ye bireysel başvuru hakkını 1987 yılında, Mahkemenin zorunlu yargı yetkisini ise 1990 yılında kabul etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-11-2b7a",
+    "topic_id": "topic-cografya",
+    "prompt": "Türkiye'de Anayasa Mahkemesine (AYM) bireysel başvuru hakkı hangi anayasa değişikliği ile hukuk sistemimize girmiştir?",
+    "options": [
+      "1995 Değişikliği",
+      "2001 Değişikliği",
+      "2004 Değişikliği",
+      "2010 Değişikliği",
+      "2017 Değişikliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa Mahkemesine bireysel başvuru hakkı, 2010 Anayasa değişikliği (referandumu) ile getirilmiş ve 2012 yılında uygulanmaya başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-12-o5u4",
+    "topic_id": "topic-cografya",
+    "prompt": "1982 Anayasası'na göre, temel hak ve hürriyetlerin sınırlandırılmasında aşağıdakilerden hangisi bir sınırlandırma kriteri olamaz?",
+    "options": [
+      "Kanunla yapılması",
+      "Anayasanın sözüne ve ruhuna uygun olması",
+      "Demokratik toplum düzeninin gereklerine uygun olması",
+      "Cumhurbaşkanlığı Kararnamesi ile yapılması",
+      "Ölçülülük ilkesine uygun olması"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa'nın 13. maddesine göre temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak KANUNLA sınırlanabilir. Olağan dönem CB Kararnamesi ile temel haklar sınırlandırılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-13-8i6y",
+    "topic_id": "topic-cografya",
+    "prompt": "Savaş, seferberlik veya olağanüstü hallerde bile dokunulamayan haklara ne ad verilir?",
+    "options": [
+      "Pozitif Haklar",
+      "Çekirdek Haklar",
+      "Siyasi Haklar",
+      "Katılma Hakları",
+      "Sosyal Haklar"
+    ],
+    "answer_index": 1,
+    "explanation": "1982 Anayasası'nın 15. maddesine göre; savaş, seferberlik ve OHAL'de dahi dokunulamayan mutlak haklara 'Çekirdek Haklar' denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-14-r5hd",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi 1982 Anayasası'na göre 'Çekirdek Haklar' kapsamında yer almaz?",
+    "options": [
+      "Yaşama hakkı",
+      "Kişinin maddi ve manevi bütünlüğü",
+      "Din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamama",
+      "Suçluluğu mahkeme kararı ile saptanıncaya kadar kimsenin suçlu sayılamaması (Masumiyet karinesi)",
+      "Yerleşme ve seyahat hürriyeti"
+    ],
+    "answer_index": 4,
+    "explanation": "Yerleşme ve seyahat hürriyeti bir çekirdek hak değildir; OHAL veya savaş gibi durumlarda, hatta genel asayiş gibi nedenlerle kanunla durdurulabilir/sınırlandırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-15-pjac",
+    "topic_id": "topic-cografya",
+    "prompt": "Halkın kendi kendini doğrudan doğruya, aracı olmadan yönettiği demokrasi modeline ne ad verilir?",
+    "options": [
+      "Temsili Demokrasi",
+      "Yarı Doğrudan Demokrasi",
+      "Doğrudan Demokrasi",
+      "Çoğulcu Demokrasi",
+      "Çoğunlukçu Demokrasi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğrudan demokraside, yasama ve yürütme faaliyetleri temsilciler aracılığıyla değil, halkın doğrudan katılımıyla (örneğin eski Yunan site devletlerinde olduğu gibi) gerçekleştirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-16-etrw",
+    "topic_id": "topic-cografya",
+    "prompt": "Halkın egemenlik hakkını seçtiği temsilciler aracılığıyla kullandığı, günümüzde Türkiye dâhil pek çok ülkede uygulanan demokrasi türü hangisidir?",
+    "options": [
+      "Doğrudan Demokrasi",
+      "Temsili Demokrasi",
+      "Yarı Doğrudan Demokrasi",
+      "Sosyal Demokrasi",
+      "Katılımcı Demokrasi"
+    ],
+    "answer_index": 1,
+    "explanation": "Seçmenlerin karar alma sürecine seçtikleri vekiller/milletvekilleri aracılığıyla katıldığı sisteme 'Temsili Demokrasi' denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-17-svpf",
+    "topic_id": "topic-cografya",
+    "prompt": "Temsili demokrasi ile doğrudan demokrasinin birleşimi olan; referandum, halk vetosu ve halk teşebbüsü gibi araçlarla halkın yönetime katıldığı model aşağıdakilerden hangisidir?",
+    "options": [
+      "Yarı Doğrudan Demokrasi",
+      "Temsili Demokrasi",
+      "Çoğulcu Demokrasi",
+      "Sosyal Demokrasi",
+      "Mutlak Demokrasi"
+    ],
+    "answer_index": 0,
+    "explanation": "Yarı doğrudan demokraside, temsili sistem esastır ancak önemli konularda son sözü halk (referandum vb. araçlarla) söyler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-18-hvbw",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi yarı doğrudan demokrasinin araçlarından biri değildir?",
+    "options": [
+      "Halk Oylaması (Referandum)",
+      "Halk Vetosu",
+      "Halk Teşebbüsü (Girişimi)",
+      "Temsilcilerin Azli (Geri Çağırma)",
+      "Kanun Hükmünde Kararname"
+    ],
+    "answer_index": 4,
+    "explanation": "Kanun Hükmünde Kararname (veya günümüzde CB Kararnamesi), yürütme organının bir işlemidir; halkın yönetime doğrudan katılım aracı değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-19-7yen",
+    "topic_id": "topic-cografya",
+    "prompt": "Demokrasilerde herkesin hiçbir ayrım gözetilmeksizin (din, dil, ırk, cinsiyet, servet vb.) oy kullanabilme hakkına ne ad verilir?",
+    "options": [
+      "Eşit Oy İlkesi",
+      "Genel Oy İlkesi",
+      "Gizli Oy İlkesi",
+      "Tek Dereceli Seçim",
+      "Açık Sayım ve Döküm"
+    ],
+    "answer_index": 1,
+    "explanation": "Servet, cinsiyet, öğrenim durumu vb. hiçbir ayrım yapılmaksızın tüm vatandaşların oy hakkına sahip olmasına 'Genel Oy' ilkesi denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-2-8yyf",
+    "topic_id": "topic-cografya",
+    "prompt": "Kişinin devlet tarafından aşılamayacak ve dokunulamayacak özel alanının sınırlarını çizen haklara ne ad verilir?",
+    "options": [
+      "Negatif Statü Hakları (Koruyucu Haklar)",
+      "Pozitif Statü Hakları (İsteme Hakları)",
+      "Aktif Statü Hakları (Katılma Hakları)",
+      "Dayanışma Hakları",
+      "Sosyal ve Ekonomik Haklar"
+    ],
+    "answer_index": 0,
+    "explanation": "Negatif statü hakları (birinci kuşak haklar), devlete 'gölge etme, karışma' diyen ve kişiyi devlete ve topluma karşı koruyan haklardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-20-xu69",
+    "topic_id": "topic-cografya",
+    "prompt": "Her seçmenin yalnızca bir oy hakkına sahip olmasını ifade eden demokratik seçim ilkesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Genel Oy",
+      "Eşit Oy",
+      "Gizli Oy",
+      "Serbest Seçim",
+      "Tek Dereceli Seçim"
+    ],
+    "answer_index": 1,
+    "explanation": "Eşit oy ilkesi; zengin-fakir, eğitimli-eğitimsiz ayrımı yapmadan her bireyin oyunun aynı ağırlığa (bir oy) sahip olmasını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-21-6iiv",
+    "topic_id": "topic-cografya",
+    "prompt": "Türkiye'de 'Gizli Oy - Açık Sayım ve Döküm' ilkesine dayalı ilk genel seçimler hangi yıl yapılmıştır?",
+    "options": [
+      "1923",
+      "1946",
+      "1950",
+      "1961",
+      "1982"
+    ],
+    "answer_index": 2,
+    "explanation": "1946'da çok partili hayata geçilmiş (açık oy-gizli sayım), ancak gerçek manada demokratik usullere (Gizli oy, açık sayım) ilk kez 1950 seçimlerinde geçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-22-0i6g",
+    "topic_id": "topic-cografya",
+    "prompt": "Türkiye'de kadınlara 'milletvekili seçme ve seçilme hakkı' (genel seçimlere katılma) hangi yıl verilmiştir?",
+    "options": [
+      "1926",
+      "1930",
+      "1933",
+      "1934",
+      "1946"
+    ],
+    "answer_index": 3,
+    "explanation": "Kadınlara 1930'da belediye, 1933'te muhtarlık, 1934'te ise milletvekili seçme ve seçilme hakkı tanınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-23-3khd",
+    "topic_id": "topic-cografya",
+    "prompt": "Yasama, yürütme ve yargı güçlerinin farklı organlarda toplanmasını öngören 'Kuvvetler Ayrılığı' ilkesini ilk kez sistemleştiren düşünür kimdir?",
+    "options": [
+      "Aristoteles",
+      "John Locke",
+      "Montesquieu",
+      "Jean-Jacques Rousseau",
+      "Karl Marx"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuvvetler ayrılığı teorisi günümüzdeki klasik haliyle ilk kez Fransız düşünür Montesquieu tarafından 'Kanunların Ruhu Üzerine' adlı eserinde sistemleştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-24-jquo",
+    "topic_id": "topic-cografya",
+    "prompt": "Kamu hizmetlerinin işleyişinde idarenin her türlü eylem ve işlemini, insan haklarına dayalı adalet anlayışı içinde incelemek ve idareye önerilerde bulunmak üzere TBMM'ye bağlı olarak kurulan denetim organı hangisidir?",
+    "options": [
+      "Sayıştay",
+      "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK)",
+      "Devlet Denetleme Kurulu",
+      "Kamu Denetçiliği Kurumu (Ombudsmanlık)",
+      "Danıştay"
+    ],
+    "answer_index": 3,
+    "explanation": "2010 Anayasa değişikliği ile kurulan ve 2012'de faaliyete geçen Kamu Denetçiliği Kurumu, TBMM'ye bağlı olarak idarenin eylem ve işlemlerini hakkaniyet ölçüsünde inceler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-25-s616",
+    "topic_id": "topic-cografya",
+    "prompt": "Başdenetçi (Ombudsman) kim tarafından seçilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Halk oylaması ile",
+      "Hakimler ve Savcılar Kurulu"
+    ],
+    "answer_index": 1,
+    "explanation": "Kamu Başdenetçisi, TBMM Genel Kurulu tarafından gizli oyla dört yıl için seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-26-w9dy",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan onurunu temel alarak insan haklarının korunması, geliştirilmesi ve ayrımcılıkla mücadele edilmesi amacıyla 2016 yılında kurulan kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "TBMM İnsan Haklarını İnceleme Komisyonu",
+      "Kamu Denetçiliği Kurumu",
+      "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK)",
+      "İl ve İlçe İnsan Hakları Kurulları",
+      "Devlet Denetleme Kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "2016 tarihli kanun ile kurulan TİHEK (Türkiye İnsan Hakları ve Eşitlik Kurumu), ayrımcılıkla mücadele, ulusal önleme mekanizması ve insan haklarının geliştirilmesi görevlerini yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-27-gsdt",
+    "topic_id": "topic-cografya",
+    "prompt": "TİHEK (Türkiye İnsan Hakları ve Eşitlik Kurumu) Kurul üyeleri kim tarafından seçilir/atanır?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Adalet Bakanı",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "TİHEK Kurulu, biri Başkan, biri İkinci Başkan olmak üzere 11 üyeden oluşur ve üyelerin tamamı Cumhurbaşkanı tarafından atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-28-k5xu",
+    "topic_id": "topic-cografya",
+    "prompt": "Uluslararası sözleşmelerde yer alan 'Geri Göndermeme İlkesi' (Non-Refoulement) neyi ifade eder?",
+    "options": [
+      "İltica talebi reddedilenlerin kendi ülkelerine zorla geri gönderilmesini",
+      "Mültecilerin ve sığınmacıların zulüm veya işkence görecekleri bir ülkeye zorla geri gönderilememesini",
+      "Uluslararası suçluların iade edilmemesini",
+      "Büyükelçilerin istenmeyen adam ilan edilememesini",
+      "Mahkumların sınır dışı edilememesini"
+    ],
+    "answer_index": 1,
+    "explanation": "Geri göndermeme ilkesi; sığınmacı ve mültecilerin hayatlarının veya özgürlüklerinin tehlike altında olacağı, işkence görebileceği topraklara zorla gönderilmemesini garanti altına alan bir uluslararası insan hakları kuralıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-29-vb0o",
+    "topic_id": "topic-cografya",
+    "prompt": "TBMM bünyesinde yer alan 'İnsan Haklarını İnceleme Komisyonu' hangi yıl kurulmuştur?",
+    "options": [
+      "1982",
+      "1990",
+      "2001",
+      "2010",
+      "2016"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM İnsan Haklarını İnceleme Komisyonu 1990 yılında çıkarılan kanunla kurulmuş, Meclis içindeki daimi bir ihtisas komisyonudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-3-lucw",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi 'Aktif Statü (Katılma) Hakları'ndan biri değildir?",
+    "options": [
+      "Seçme ve seçilme hakkı",
+      "Siyasi parti kurma hakkı",
+      "Dilekçe hakkı",
+      "Kamu hizmetine girme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "answer_index": 4,
+    "explanation": "Mülkiyet hakkı, kişinin maddi varlığı ile ilgili olup 'Negatif Statü (Koruyucu)' haklarındandır. Diğerleri siyasi (katılma) haklardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-30-i82p",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi Birleşmiş Milletler (BM) sisteminde insan haklarını korumakla görevli asli denetim organlarından biri değildir?",
+    "options": [
+      "İnsan Hakları Konseyi",
+      "İnsan Hakları Yüksek Komiserliği",
+      "Uluslararası Adalet Divanı",
+      "Avrupa İnsan Hakları Mahkemesi (AİHM)",
+      "Ekonomik ve Sosyal Konsey (ECOSOC)"
+    ],
+    "answer_index": 3,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi (AİHM), Birleşmiş Milletler'in değil, Avrupa Konseyi'nin (Council of Europe) yargı organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-31-nijo",
+    "topic_id": "topic-cografya",
+    "prompt": "İl ve İlçe İnsan Hakları Kurullarına illerde sırasıyla kim başkanlık eder?",
+    "options": [
+      "Belediye Başkanı - Kaymakam",
+      "Vali - Belediye Başkanı",
+      "Cumhuriyet Başsavcısı - Kaymakam",
+      "Vali - Kaymakam",
+      "İl Emniyet Müdürü - İlçe Emniyet Müdürü"
+    ],
+    "answer_index": 3,
+    "explanation": "İl İnsan Hakları Kuruluna Vali veya görevlendireceği bir Vali Yardımcısı, İlçe İnsan Hakları Kuruluna ise Kaymakam başkanlık eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-32-5fjn",
+    "topic_id": "topic-cografya",
+    "prompt": "Bir ülkede yasaların anayasaya, idari işlemlerin de yasalara uygun olmasını ve idarenin yargısal denetime tabi tutulmasını ifade eden demokrasi güvencesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Sosyal Devlet İlkesi",
+      "Hukuk Devleti İlkesi",
+      "Laik Devlet İlkesi",
+      "Demokratik Devlet İlkesi",
+      "Üniter Devlet İlkesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Hukuk devleti; yönetenlerin de hukuk kurallarıyla bağlı olduğu, idarenin her türlü eylem ve işleminin yargı denetimine açık olduğu devlet modelidir. Temel hakların en büyük güvencesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-33-amso",
+    "topic_id": "topic-cografya",
+    "prompt": "AİHM'ye bireysel başvuru yapabilmek için gerekli olan en temel ön şart aşağıdakilerden hangisidir?",
+    "options": [
+      "Doğrudan AİHM'ye başvurmuş olmak",
+      "Davanın bir ceza davası olması",
+      "İç hukuk yollarının tüketilmiş olması",
+      "Başvuranın vatandaşlık bağı taşıması",
+      "Başvurunun bir avukat aracılığıyla yapılması"
+    ],
+    "answer_index": 2,
+    "explanation": "Uluslararası yargı organlarına (ve AYM'ye bireysel başvuruya) gidebilmek için öncelikle ulusal düzeydeki tüm idari ve yargısal başvuru yollarının (iç hukuk) tüketilmiş olması şarttır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-34-23pv",
+    "topic_id": "topic-cografya",
+    "prompt": "Avrupa Konseyi'nin, Avrupa çapında işkence ve insanlık dışı veya onur kırıcı muameleyi önlemek amacıyla kurduğu komitenin kısa adı nedir?",
+    "options": [
+      "GRECO",
+      "CPT",
+      "VENEDİK KOMİSYONU",
+      "ECRI",
+      "AGİT"
+    ],
+    "answer_index": 1,
+    "explanation": "CPT (Avrupa İşkenceyi Önleme Komitesi - European Committee for the Prevention of Torture), Avrupa Konseyi bünyesinde cezaevleri ve nezarethaneleri denetleyerek işkenceyi önlemeye çalışan bir organdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-35-pcj6",
+    "topic_id": "topic-cografya",
+    "prompt": "Irkçılığa ve Hoşgörüsüzlüğe Karşı Avrupa Komisyonu (ECRI) hangi kurum bünyesinde faaliyet göstermektedir?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Avrupa Birliği",
+      "Avrupa Konseyi",
+      "Uluslararası Af Örgütü",
+      "İslam İşbirliği Teşkilatı"
+    ],
+    "answer_index": 2,
+    "explanation": "ECRI, Avrupa Konseyi'nin ırkçılık, yabancı düşmanlığı, antisemitizm ve hoşgörüsüzlükle mücadele eden uzmanlaşmış bağımsız bir denetim organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-36-ktyd",
+    "topic_id": "topic-cografya",
+    "prompt": "Anayasa'nın 'Sosyal ve Ekonomik Haklar ve Ödevler' bölümünde yer alan, ancak devletin mali kaynaklarının yeterliliği ölçüsünde yerine getirebileceği belirtilen hak türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Kişi hürriyeti ve güvenliği",
+      "Seçme ve seçilme hakkı",
+      "Mülkiyet hakkı",
+      "Çalışma hakkı, sağlık hizmetleri, eğitim gibi isteme hakları",
+      "Din ve vicdan hürriyeti"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa m.65'e göre devlet, sosyal ve ekonomik alanlarda anayasa ile belirlenen görevlerini mali kaynaklarının yeterliliği ölçüsünde yerine getirir. Bu kural 'isteme hakları' olan sosyal/ekonomik haklar için geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-37-0tn3",
+    "topic_id": "topic-cografya",
+    "prompt": "1982 Anayasasına göre, suçluluğu hükmen sabit oluncaya kadar kimsenin suçlu sayılamayacağını ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanunsuz suç ve ceza olmaz ilkesi",
+      "Masumiyet (Suçsuzluk) Karinesi",
+      "Cezaların şahsiliği ilkesi",
+      "Habeas Corpus",
+      "Adil yargılanma hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Masumiyet karinesi, bir kişinin kesinleşmiş bir mahkeme kararı (hüküm) ile suçluluğu ispat edilene kadar masum kabul edilmesidir. (Anayasa m.38)",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-38-fk0q",
+    "topic_id": "topic-cografya",
+    "prompt": "Toplantı ve gösteri yürüyüşü düzenleme hakkı ile ilgili olarak 1982 Anayasasındaki temel kural nedir?",
+    "options": [
+      "İzin alma şartına bağlıdır",
+      "Önceden izin almadan, silahsız ve saldırısız olarak düzenlenebilir",
+      "Sadece siyasi partiler düzenleyebilir",
+      "Ancak kapalı alanlarda yapılabilir",
+      "Valiliğin daveti üzerine yapılabilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Anayasa m.34'e göre; herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir. (Ancak kanunla bildirim şartı getirilmiştir, izin değil).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-39-id81",
+    "topic_id": "topic-cografya",
+    "prompt": "Herhangi bir kişinin yasa dışı olarak alıkonulmasına karşı, tutukluluğun yasallığının bir yargıç tarafından denetlenmesini sağlayan ve 1679'da İngiltere'de kabul edilen tarihi belge hangisidir?",
+    "options": [
+      "Magna Carta",
+      "Habeas Corpus Act",
+      "Bill of Rights",
+      "İnsan ve Yurttaş Hakları Bildirisi",
+      "Sened-i İttifak"
+    ],
+    "answer_index": 1,
+    "explanation": "Habeas Corpus Act, keyfi tutuklamalara karşı yargı güvencesi getiren, kişi güvenliği ve hürriyetinin temel belgelerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-4-x2t3",
+    "topic_id": "topic-cografya",
+    "prompt": "Sosyal ve ekonomik haklar olarak da bilinen, devletten olumlu bir müdahale (hizmet) beklenen haklar hangi kuşak insan haklarıdır?",
+    "options": [
+      "Birinci Kuşak",
+      "İkinci Kuşak",
+      "Üçüncü Kuşak",
+      "Dördüncü Kuşak",
+      "Beşinci Kuşak"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışma hakkı, eğitim hakkı, sağlık hakkı gibi devletten hizmet istenen pozitif statü hakları İkinci Kuşak Haklar (İsteme Hakları) grubundandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-40-b9pj",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının evrenselliği ilkesi neyi ifade eder?",
+    "options": [
+      "Sadece demokratik ülkelerde uygulanmasını",
+      "İnsan haklarının zamanla değişebileceğini",
+      "Tüm insanların, sırf insan oldukları için bu haklara yer ve zaman ayrımı gözetmeksizin sahip olmasını",
+      "Hakların sadece uluslararası mahkemelerde savunulabileceğini",
+      "Her devletin kendi kültürüne göre insan haklarını değiştirebileceğini"
+    ],
+    "answer_index": 2,
+    "explanation": "Evrensellik ilkesi; din, dil, ırk, kültür veya coğrafya fark etmeksizin dünyadaki her insanın insan haklarına eşit şekilde sahip olmasını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-41-s8lg",
+    "topic_id": "topic-cografya",
+    "prompt": "Hangisi çoğulcu (pluralist) demokrasinin temel özelliklerinden biridir?",
+    "options": [
+      "Sadece çoğunluğun isteklerinin dikkate alınması",
+      "Azınlığın haklarının da güvence altına alınması ve ifade özgürlüğü",
+      "Tek parti sisteminin bulunması",
+      "Kuvvetler birliğinin olması",
+      "Muhalefetin yasaklanması"
+    ],
+    "answer_index": 1,
+    "explanation": "Çoğulcu demokrasi, sandıktan çıkan çoğunluğun her istediğini yapamadığı, azınlıkta kalanların ve farklı görüşlerin temel hak ve özgürlüklerinin anayasal güvence altında olduğu modeldir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-42-aavz",
+    "topic_id": "topic-cografya",
+    "prompt": "Seçimlerde herkesin oyunu, başkalarının baskısı ve etkisi altında kalmadan gizlice kullanmasını öngören ilke hangisidir?",
+    "options": [
+      "Eşit Oy",
+      "Gizli Oy",
+      "Açık Sayım",
+      "Genel Oy",
+      "Serbest Seçim"
+    ],
+    "answer_index": 1,
+    "explanation": "Gizli oy ilkesi, seçmenin tercihini kimseye göstermeden kapalı bir kabinde ve zarf içinde kullanarak baskıdan korunmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-43-gk86",
+    "topic_id": "topic-cografya",
+    "prompt": "Bireylerin devlet memuru olma (kamu hizmetine girme) hakkı 1982 Anayasası'nda hangi hak kategorisinde düzenlenmiştir?",
+    "options": [
+      "Kişi Hakları ve Ödevleri",
+      "Sosyal ve Ekonomik Haklar",
+      "Siyasi Haklar ve Ödevler",
+      "Çekirdek Haklar",
+      "Dayanışma Hakları"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu hizmetine girme hakkı ve vatan hizmeti (askerlik), vergi ödevi, dilekçe hakkı, seçme seçilme hakkı gibi haklar Siyasi Haklar (Aktif Statü) bölümünde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-44-8gcs",
+    "topic_id": "topic-cografya",
+    "prompt": "Sendika kurma hakkı, toplu iş sözleşmesi ve grev hakkı hangi kuşak haklar kapsamındadır?",
+    "options": [
+      "Birinci Kuşak",
+      "İkinci Kuşak",
+      "Üçüncü Kuşak",
+      "Siyasi Haklar",
+      "Koruyucu Haklar"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışma hayatı, sendika, grev ve toplu sözleşme hakları, ekonomik ve sosyal haklar olan İkinci Kuşak Haklar grubuna girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-45-58j6",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdaki yargı organlarından hangisi 1982 Anayasası'nda yer alan Yüksek Mahkemelerden biri değildir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "Uyuşmazlık Mahkemesi",
+      "Sayıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Sayıştay, mali yargı görevini yerine getiren bir hesap denetim organıdır ancak Anayasa'nın 'Yüksek Mahkemeler' başlığı altında (AYM, Yargıtay, Danıştay, Uyuşmazlık) sayılmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-46-y4p2",
+    "topic_id": "topic-cografya",
+    "prompt": "Uluslararası sözleşmeler ile kanunların aynı konuda farklı hükümler içermesi durumunda temel hak ve özgürlüklere ilişkin usul nasıldır? (Anayasa m.90)",
+    "options": [
+      "Kanun hükümleri esas alınır.",
+      "Uluslararası sözleşme hükümleri esas alınır.",
+      "Anayasa Mahkemesi'ne başvurulur.",
+      "Cumhurbaşkanı karar verir.",
+      "İkisi de iptal olur."
+    ],
+    "answer_index": 1,
+    "explanation": "2004 değişikliği ile; usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların çatışması halinde milletlerarası andlaşma hükümleri esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-47-h65j",
+    "topic_id": "topic-cografya",
+    "prompt": "1789 Fransız İhtilali'nin ardından yayımlanan ve insan haklarının evrenselleşmesinde büyük rol oynayan belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Magna Carta",
+      "İnsan ve Yurttaş Hakları Bildirisi",
+      "BM İnsan Hakları Evrensel Bildirgesi",
+      "Bağımsızlık Bildirgesi",
+      "Habeas Corpus"
+    ],
+    "answer_index": 1,
+    "explanation": "1789 Fransız Devrimi'nden sonra yayımlanan 'İnsan ve Yurttaş Hakları Bildirisi', hürriyet, eşitlik ve mülkiyet gibi birinci kuşak hakları tüm insanlar için evrensel düzeyde ilan etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-48-89pf",
+    "topic_id": "topic-cografya",
+    "prompt": "Demokratik toplumlarda sivil toplum kuruluşlarının (STK) temel işlevi aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "Kamuoyu oluşturmak",
+      "İktidarı denetlemek ve etkilemek",
+      "Bireylerin katılımını artırmak",
+      "Kanun yapmak",
+      "Toplumsal sorunlara çözüm üretmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Kanun yapmak münhasıran Yasama organının (Türkiye'de TBMM) yetkisindedir. STK'lar kanun yapıcı değil, karar alıcıları etkileyen baskı/çıkar gruplarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-49-lma0",
+    "topic_id": "topic-cografya",
+    "prompt": "Temel hak ve hürriyetlerin yabancılar için sınırlandırılması 1982 Anayasası'na göre ne şekilde yapılabilir?",
+    "options": [
+      "Hiçbir şekilde sınırlandırılamaz.",
+      "Sadece Cumhurbaşkanlığı kararnamesi ile sınırlandırılır.",
+      "Milletlerarası hukuka uygun olarak kanunla sınırlandırılabilir.",
+      "Valilik genelgeleri ile sınırlandırılabilir.",
+      "İçişleri Bakanlığı talimatı ile sınırlandırılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Anayasa m.16'ya göre; temel hak ve hürriyetler, yabancılar için, milletlerarası hukuka uygun olarak KANUNLA sınırlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-5-f9l4",
+    "topic_id": "topic-cografya",
+    "prompt": "Çevre hakkı, barış hakkı, gelişme hakkı ve insanlığın ortak malvarlığından yararlanma hakkı gibi haklar hangi kuşak haklar içerisinde yer alır?",
+    "options": [
+      "Birinci Kuşak Haklar",
+      "İkinci Kuşak Haklar",
+      "Üçüncü Kuşak (Dayanışma) Hakları",
+      "Siyasi Haklar",
+      "Negatif Statü Hakları"
+    ],
+    "answer_index": 2,
+    "explanation": "Küreselleşme ve teknolojik gelişmelerle ortaya çıkan, ancak devletlerin ve toplumların dayanışması ile gerçekleşebilecek haklara Üçüncü Kuşak (Dayanışma) Hakları denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-6-5crg",
+    "topic_id": "topic-cografya",
+    "prompt": "Osmanlı Devleti'nde padişahın yetkilerinin kendi iradesiyle ilk kez sınırlandırıldığı ve kanun üstünlüğünün kabul edilmeye başlandığı 1839 tarihli belge hangisidir?",
+    "options": [
+      "Sened-i İttifak",
+      "Islahat Fermanı",
+      "Tanzimat Fermanı",
+      "Kanun-i Esasi",
+      "Teşkilat-ı Esasiye"
+    ],
+    "answer_index": 2,
+    "explanation": "1839 Gülhane Hatt-ı Hümayunu (Tanzimat Fermanı), padişahın kendi yetkilerini kanun gücüyle sınırladığı ilk belgedir. (Sened-i İttifak ayanlarla yapılmış bir sözleşmedir).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-7-g5k2",
+    "topic_id": "topic-cografya",
+    "prompt": "Osmanlı'da gayrimüslimlere devlet memuru olabilme, kendi okul ve ibadethanelerini açabilme gibi geniş hakların verildiği belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Tanzimat Fermanı",
+      "Islahat Fermanı",
+      "Sened-i İttifak",
+      "Fatih Kanunnamesi",
+      "Kanun-i Esasi"
+    ],
+    "answer_index": 1,
+    "explanation": "1856 tarihli Islahat Fermanı, özellikle gayrimüslim tebaaya yönelik geniş haklar ve eşitlik getiren önemli bir insan hakları belgesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-8-5wuh",
+    "topic_id": "topic-cografya",
+    "prompt": "Birleşmiş Milletler (BM) İnsan Hakları Evrensel Bildirgesi hangi tarihte kabul edilmiştir?",
+    "options": [
+      "10 Aralık 1948",
+      "4 Kasım 1950",
+      "24 Ekim 1945",
+      "26 Ağustos 1789",
+      "12 Ağustos 1949"
+    ],
+    "answer_index": 0,
+    "explanation": "BM Genel Kurulu, İnsan Hakları Evrensel Bildirgesi'ni 10 Aralık 1948'de kabul etmiştir. Bu nedenle 10 Aralık Dünya İnsan Hakları Günü olarak kutlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-9-k91i",
+    "topic_id": "topic-cografya",
+    "prompt": "Avrupa İnsan Hakları Sözleşmesi (AİHS) hangi uluslararası örgütün bünyesinde hazırlanmış ve imzaya açılmıştır?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Avrupa Birliği",
+      "Avrupa Konseyi",
+      "Avrupa Güvenlik ve İşbirliği Teşkilatı",
+      "NATO"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa İnsan Hakları Sözleşmesi (AİHS), 1950 yılında Avrupa Konseyi üyesi devletler tarafından imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.02532+00:00",
+    "updated_at": "2026-08-04T21:11:05.02532+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-0-7spf",
+    "topic_id": "topic-cografya",
+    "prompt": "1982 Anayasası'na göre temel hak ve hürriyetlerin kötüye kullanılamayacağını düzenleyen anayasa hükmünün temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Temel hakların tamamen sınırlandırılmasını sağlamak",
+      "Hak ve özgürlüklerin demokratik düzeni ortadan kaldıracak şekilde kullanılmasını önlemek",
+      "Yargı bağımsızlığını güçlendirmek",
+      "Siyasi partilerin faaliyetlerini sınırlamak",
+      "Cumhurbaşkanına olağanüstü yetkiler tanımak"
+    ],
+    "answer_index": 1,
+    "explanation": "Anayasa'nın 14. maddesi, temel hak ve özgürlüklerin devletin ülkesi ve milletiyle bölünmez bütünlüğünü veya demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayacak şekilde kullanılmasını yasaklamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-1-4yzk",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi hukuk devletinin temel özelliklerinden biri değildir?",
+    "options": [
+      "İdarenin yargı denetimine açık olması",
+      "Kanun önünde eşitlik",
+      "Yasama işlemlerinin yargı denetimine tabi olması",
+      "Temel hakların güvence altına alınması",
+      "Belirlilik ve hukuki güvenlik ilkesi"
+    ],
+    "answer_index": 2,
+    "explanation": "TBMM'nin kanunları Anayasa Mahkemesi tarafından anayasal denetime tabi tutulabilir; ancak yasama işlemlerinin tamamı yargısal denetime açık değildir. Seçenek bu yönüyle doğru bir hukuk devleti özelliği değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-2-69ej",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının 'devredilemez' olması aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Hakların yalnızca devlet tarafından kullanılabilmesini",
+      "Hakların kişiden kişiye satılamamasını veya devredilememesini",
+      "Hakların yalnızca vatandaşlara tanınmasını",
+      "Hakların uluslararası sözleşmelerle kaldırılabilmesini",
+      "Hakların mahkeme kararıyla sona ermesini"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan hakları kişiye sıkı sıkıya bağlıdır; başkasına devredilemez veya satılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-3-xlpf",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi çoğunlukçu demokrasi ile çoğulcu demokrasi arasındaki temel farklardan biridir?",
+    "options": [
+      "Çoğunlukçu demokrasi seçim yapılmasını kabul etmez.",
+      "Çoğulcu demokrasi azınlık haklarını da anayasal güvence altına alır.",
+      "Çoğunlukçu demokrasi yalnızca yerel yönetimlerde uygulanır.",
+      "Çoğulcu demokrasi siyasi partileri yasaklar.",
+      "İki demokrasi anlayışı arasında hiçbir fark yoktur."
+    ],
+    "answer_index": 1,
+    "explanation": "Çoğulcu demokraside yalnızca çoğunluğun iradesi değil, azınlık hakları ve temel özgürlükler de korunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-4-mr56",
+    "topic_id": "topic-cografya",
+    "prompt": "Bir ülkede seçimlerin belirli aralıklarla yapılması aşağıdaki demokratik ilkelerden hangisinin doğal sonucudur?",
+    "options": [
+      "Milliyetçilik",
+      "Hukuk devleti",
+      "Millî egemenlik",
+      "Temsilcilerin belirli sürelerle halk tarafından yeniden değerlendirilmesi",
+      "Kuvvetler ayrılığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Demokratik sistemlerde temsilciler belirli sürelerle halkın yeniden onayına sunulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-5-be5m",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının bölünmezliği ilkesi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Sadece siyasi hakların önemli olduğunu",
+      "Hakların birbirinden tamamen bağımsız olduğunu",
+      "Bütün hakların birbirini tamamlayan bir bütün oluşturduğunu",
+      "Ekonomik hakların ertelenebileceğini",
+      "Sadece anayasal hakların korunacağını"
+    ],
+    "answer_index": 2,
+    "explanation": "Medeni, siyasi, ekonomik, sosyal ve kültürel haklar birbirini tamamlayan bir bütündür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-6-sfvt",
+    "topic_id": "topic-cografya",
+    "prompt": "1982 Anayasası'na göre temel hak ve hürriyetlerin özüne dokunulmaması ilkesi aşağıdakilerden hangisini amaçlamaktadır?",
+    "options": [
+      "Hakların tamamen kaldırılmasını",
+      "Hakların kullanılmasını anlamsız hâle getirecek sınırlamaların önlenmesini",
+      "Cumhurbaşkanının yetkilerinin artırılmasını",
+      "Siyasi partilerin kapatılmasını kolaylaştırmayı",
+      "OHAL ilanını zorlaştırmayı"
+    ],
+    "answer_index": 1,
+    "explanation": "Bir hak sınırlandırılabilir; ancak kullanılmasını imkânsız hâle getirecek şekilde özüne dokunulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-7-pyom",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi katılımcı demokrasinin gelişmesine doğrudan katkı sağlayan uygulamalardan biridir?",
+    "options": [
+      "Tek parti sistemi",
+      "Sansür uygulamaları",
+      "Sivil toplum kuruluşlarının karar süreçlerine katkı sunabilmesi",
+      "Seçimlerin kaldırılması",
+      "Yargının yürütmeye bağlanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Katılımcı demokrasi, vatandaşların ve sivil toplumun karar alma süreçlerine aktif katılımını esas alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-8-fere",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi insan haklarının temel özelliklerinden biri değildir?",
+    "options": [
+      "Evrenseldir.",
+      "Doğuştan kazanılır.",
+      "Vazgeçilemez niteliktedir.",
+      "Devlet tarafından verildiği için devlet tarafından tamamen kaldırılabilir.",
+      "İnsan onurunu korumayı amaçlar."
+    ],
+    "answer_index": 3,
+    "explanation": "İnsan hakları devletin lütfu değil, insan olmaktan kaynaklanan temel haklardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-9-8zuu",
+    "topic_id": "topic-cografya",
+    "prompt": "Bir kamu görevlisinin görevini yerine getirirken herkese dil, din, ırk ve cinsiyet ayrımı yapmaksızın eşit davranması öncelikle hangi ilkenin gereğidir?",
+    "options": [
+      "Liyakat",
+      "Tarafsızlık ve eşitlik",
+      "Yerinden yönetim",
+      "İdarenin bütünlüğü",
+      "Hizmette açıklık"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan haklarına dayalı kamu yönetiminde eşitlik ve tarafsızlık temel ilkeler arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-05T11:25:14.650097+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-0-mawl",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının korunmasında 'pozitif yükümlülük' kavramı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Devletin hak ihlallerine hiç müdahale etmemesini",
+      "Devletin yalnızca kanun çıkarmasını",
+      "Devletin hakların kullanılmasını sağlamak için gerekli tedbirleri almasını",
+      "Hakların yalnızca mahkemeler tarafından korunmasını",
+      "Uluslararası kuruluşların devlet yerine karar vermesini"
+    ],
+    "answer_index": 2,
+    "explanation": "Pozitif yükümlülük, devletin yalnızca ihlal etmemesini değil, hakların etkin şekilde kullanılabilmesi için gerekli önlemleri almasını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-1-bx7l",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi sosyal devlet ilkesinin bir gereği olarak değerlendirilebilir?",
+    "options": [
+      "Devletin ekonomik hayata hiç müdahale etmemesi",
+      "Yalnızca seçimlerin yapılması",
+      "Eğitim, sağlık ve sosyal güvenlik hizmetlerinin sunulması",
+      "Yargının bağımsız olması",
+      "Kuvvetler ayrılığı ilkesinin uygulanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Sosyal devlet; eğitim, sağlık ve sosyal güvenlik gibi hizmetleri sunarak sosyal adaleti sağlamayı amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-2-fdls",
+    "topic_id": "topic-cografya",
+    "prompt": "Bir kamu görevlisinin aynı durumda bulunan kişilere farklı uygulamalarda bulunması öncelikle hangi insan hakları ilkesini ihlal eder?",
+    "options": [
+      "Ölçülülük",
+      "Eşitlik",
+      "Şeffaflık",
+      "Katılımcılık",
+      "Hesap verebilirlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Aynı hukuki durumda bulunan kişilere farklı muamele yapılması eşitlik ilkesine aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-3-e44j",
+    "topic_id": "topic-cografya",
+    "prompt": "Demokratik toplumlarda sivil toplum kuruluşlarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Yasama yetkisini kullanmak",
+      "Mahkeme kararı vermek",
+      "Vatandaşların yönetime katılımını ve kamuoyu oluşumunu desteklemek",
+      "Vergi toplamak",
+      "Kanunları yürürlüğe koymak"
+    ],
+    "answer_index": 2,
+    "explanation": "Sivil toplum kuruluşları demokratik katılımı güçlendirir ve kamuoyu oluşmasına katkı sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-4-roem",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin sınırlandırılmasında gözetilen ölçülülük ilkesinin unsurlarından biri değildir?",
+    "options": [
+      "Elverişlilik",
+      "Gereklilik",
+      "Orantılılık",
+      "Keyfilik",
+      "Meşru amaç"
+    ],
+    "answer_index": 3,
+    "explanation": "Keyfilik hukuk devletiyle bağdaşmaz. Ölçülülük; elverişlilik, gereklilik ve orantılılık unsurlarından oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-5-ob66",
+    "topic_id": "topic-cografya",
+    "prompt": "Aşağıdakilerden hangisi ifade özgürlüğünün demokratik toplum açısından önemini en doğru şekilde açıklar?",
+    "options": [
+      "Devletin eleştirilememesini sağlar.",
+      "Farklı düşüncelerin serbestçe açıklanmasına imkân tanır.",
+      "Yalnızca basın kuruluşlarına tanınan bir haktır.",
+      "Sadece seçim dönemlerinde kullanılabilir.",
+      "Kamu görevlileri için geçerli değildir."
+    ],
+    "answer_index": 1,
+    "explanation": "İfade özgürlüğü, demokratik toplumun temel unsurlarından biridir ve farklı düşüncelerin açıklanmasını güvence altına alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-6-r3x7",
+    "topic_id": "topic-cografya",
+    "prompt": "Hak arama özgürlüğünün etkili biçimde kullanılabilmesinin ön koşulu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yargının bağımsız ve tarafsız olması",
+      "Tek parti yönetimi",
+      "Siyasi yasakların artırılması",
+      "Basının devlet denetiminde olması",
+      "Yerel yönetimlerin kaldırılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Hak arama özgürlüğü ancak bağımsız ve tarafsız yargı sistemiyle etkin şekilde korunabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-7-ues2",
+    "topic_id": "topic-cografya",
+    "prompt": "Bir ülkede kamu yönetiminin işlemlerini gerekçeli olarak açıklaması ve denetime açık olması öncelikle hangi yönetim anlayışının gereğidir?",
+    "options": [
+      "Mutlak monarşi",
+      "Kapalı yönetim",
+      "Şeffaf ve hesap verebilir yönetim",
+      "Tek parti sistemi",
+      "Otoriter yönetim"
+    ],
+    "answer_index": 2,
+    "explanation": "Şeffaflık ve hesap verebilirlik, demokratik kamu yönetiminin temel ilkelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-8-axfp",
+    "topic_id": "topic-cografya",
+    "prompt": "İnsan haklarının evrenselliği ilkesi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Hakların yalnızca gelişmiş ülkelerde uygulanmasını",
+      "Hakların yalnızca vatandaşlara tanınmasını",
+      "Hakların din, dil, ırk ve milliyet ayrımı yapılmaksızın herkes için geçerli olmasını",
+      "Hakların devlet tarafından istenildiğinde kaldırılabilmesini",
+      "Hakların sadece anayasal güvence altında olmasını"
+    ],
+    "answer_index": 2,
+    "explanation": "İnsan hakları evrenseldir ve tüm insanlar için ayrım gözetilmeksizin geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-9-u1ps",
+    "topic_id": "topic-cografya",
+    "prompt": "Demokratik bir hukuk devletinde kamu gücünü kullanan makamların işlemlerinin yargı denetimine tabi olması öncelikle hangi amacı gerçekleştirir?",
+    "options": [
+      "Yürütmeyi güçlendirmek",
+      "İdarenin keyfi davranmasını önlemek",
+      "Seçimleri kaldırmak",
+      "Yargının yürütmeye bağlanmasını sağlamak",
+      "Siyasi partileri sınırlandırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Yargı denetimi, idarenin hukuka uygun hareket etmesini sağlayarak keyfiliği önleyen en önemli güvencelerden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-05T11:25:47.243698+00:00"
+  }
+]
+

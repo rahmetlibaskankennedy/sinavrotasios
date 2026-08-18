@@ -1,0 +1,263 @@
+[
+  {
+    "id": 101,
+    "deneme_id": 2,
+    "prompt": "Bir öğretim yılı hangi tarihler arasındaki süreyi ifade eder?",
+    "options": [
+      "1 Ocak ile 31 Aralık arasını",
+      "Derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadar olan süreyi",
+      "Sadece iki yarıyıl tatili arasındaki süreyi",
+      "Yalnızca derslerin fiilen işlendiği günleri"
+    ],
+    "answer_index": 1,
+    "sort_order": 41
+  },
+  {
+    "id": 102,
+    "deneme_id": 2,
+    "prompt": "Güncel 222 sayılı Kanun metninde Madde 69 için hangi ifade doğrudur?",
+    "options": [
+      "Mülgadır",
+      "İlköğretim haftasını düzenler",
+      "Kayıt süresini düzenler",
+      "Öğrenci devamsızlık iznini düzenler"
+    ],
+    "answer_index": 0,
+    "sort_order": 42
+  },
+  {
+    "id": 103,
+    "deneme_id": 2,
+    "prompt": "Hastalık, sel, kar, deprem veya yangın gibi sebeplerle okula gelemeyen öğrenci için hangi işlem uygulanır?",
+    "options": [
+      "Devamsız sayılır",
+      "İzinli sayılır",
+      "Kaydı silinir",
+      "Sınava alınmaz"
+    ],
+    "answer_index": 1,
+    "sort_order": 43
+  },
+  {
+    "id": 104,
+    "deneme_id": 2,
+    "prompt": "652 sayılı KHK sonrasında MEB teşkilat yapısı hangi düzenlemeyle güncellenmiştir?",
+    "options": [
+      "1 Sayılı Cumhurbaşkanlığı Kararnamesi ile",
+      "Sadece yönetmeliklerle",
+      "Sadece genelgelerle",
+      "Değişmemiştir"
+    ],
+    "answer_index": 0,
+    "sort_order": 44
+  },
+  {
+    "id": 105,
+    "deneme_id": 2,
+    "prompt": "4982 sayılı Kanun'un amacı nedir?",
+    "options": [
+      "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+      "Sadece basın mensuplarına bilgi vermek",
+      "Ticari sırları korumak",
+      "Kamu ihalelerini düzenlemek"
+    ],
+    "answer_index": 0,
+    "sort_order": 45
+  },
+  {
+    "id": 106,
+    "deneme_id": 2,
+    "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
+    "options": [
+      "Evet, tamamen kapsamdadır",
+      "Hayır, kapsam dışıdır",
+      "Sadece mahkeme kararıyla açıklanır",
+      "Sadece basına açıklanır"
+    ],
+    "answer_index": 1,
+    "sort_order": 46
+  },
+  {
+    "id": 107,
+    "deneme_id": 2,
+    "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
+      "Sadece Cumhurbaşkanlığına",
+      "Sadece Sayıştaya",
+      "Sadece Danıştaya"
+    ],
+    "answer_index": 0,
+    "sort_order": 47
+  },
+  {
+    "id": 108,
+    "deneme_id": 2,
+    "prompt": "İlçe idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Muhtar",
+      "İl Müdürü"
+    ],
+    "answer_index": 1,
+    "sort_order": 48
+  },
+  {
+    "id": 109,
+    "deneme_id": 2,
+    "prompt": "5442 sayılı Kanun'a göre il idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Belediye Başkanı",
+      "Kaymakam",
+      "İl Genel Meclisi Başkanı"
+    ],
+    "answer_index": 0,
+    "sort_order": 49
+  },
+  {
+    "id": 110,
+    "deneme_id": 2,
+    "prompt": "İl idare şube başkanları kime karşı sorumludur?",
+    "options": [
+      "Bakanlıklarına doğrudan",
+      "Valiye",
+      "Kaymakama",
+      "Belediye Başkanına"
+    ],
+    "answer_index": 1,
+    "sort_order": 50
+  },
+  {
+    "id": 111,
+    "deneme_id": 2,
+    "prompt": "Yer değiştirme suretiyle atamalarda esas alınan ilkelerden biri nedir?",
+    "options": [
+      "Hizmetin gereği ve personelin mazereti gibi hususların birlikte değerlendirilmesi",
+      "Sadece kıdem",
+      "Sadece kura",
+      "Sadece unvan"
+    ],
+    "answer_index": 0,
+    "sort_order": 51
+  },
+  {
+    "id": 112,
+    "deneme_id": 2,
+    "prompt": "Aday memurluk süresi genel olarak ne kadardır?",
+    "options": [
+      "1 yıldan az, 2 yıldan çok olamaz",
+      "Sadece 6 ay",
+      "Sadece 3 yıl",
+      "Süre yoktur"
+    ],
+    "answer_index": 0,
+    "sort_order": 52
+  },
+  {
+    "id": 113,
+    "deneme_id": 2,
+    "prompt": "MEB Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği'nin temel amacı nedir?",
+    "options": [
+      "Liyakat ve kariyer ilkeleri çerçevesinde atama usul/esaslarını belirlemek",
+      "Sadece maaş zammını düzenlemek",
+      "Sadece izin sürelerini belirlemek",
+      "Sadece disiplin cezalarını belirlemek"
+    ],
+    "answer_index": 0,
+    "sort_order": 53
+  },
+  {
+    "id": 114,
+    "deneme_id": 2,
+    "prompt": "Aday memur, temel ve hazırlayıcı eğitimlerde başarısız olursa ne olur?",
+    "options": [
+      "Kanunda öngörülen usule göre işlemleri yapılır (gerekirse ilişiği kesilebilir)",
+      "Otomatik olarak asalet tasdik edilir",
+      "Hiçbir işlem yapılmaz",
+      "Doğrudan terfi eder"
+    ],
+    "answer_index": 0,
+    "sort_order": 54
+  },
+  {
+    "id": 115,
+    "deneme_id": 2,
+    "prompt": "Zorunlu yer değiştirme hangi durumlarda söz konusu olabilir?",
+    "options": [
+      "Hizmet ihtiyacı, sağlık veya kanunda sayılan hallerde",
+      "Hiçbir zaman",
+      "Sadece personelin isteğiyle",
+      "Sadece emeklilikte"
+    ],
+    "answer_index": 0,
+    "sort_order": 55
+  },
+  {
+    "id": 116,
+    "deneme_id": 2,
+    "prompt": "Görevde yükselme sınavına başvuru şartlarından biri değildir?",
+    "options": [
+      "İlgili unvan için öngörülen hizmet süresini tamamlamış olmak",
+      "Disiplin cezası almamış olmak (kanunda aranan hallerde)",
+      "Gerekli eğitim şartını taşımak",
+      "Sadece nüfusa kayıtlı olmak"
+    ],
+    "answer_index": 3,
+    "sort_order": 56
+  },
+  {
+    "id": 117,
+    "deneme_id": 2,
+    "prompt": "Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği hangi konuyu düzenler?",
+    "options": [
+      "Öğretmenlerin atanma ve yer değiştirme usul/esaslarını",
+      "Sadece maaş bordrosunu",
+      "Sadece izin haklarını",
+      "Sadece emeklilik işlemlerini"
+    ],
+    "answer_index": 0,
+    "sort_order": 57
+  },
+  {
+    "id": 118,
+    "deneme_id": 2,
+    "prompt": "MEB Personeli İzin Yönergesi'ne göre yıllık izin süresi temel olarak neye göre değişir?",
+    "options": [
+      "Hizmet süresine göre",
+      "Sadece unvana göre",
+      "Sadece cinsiyete göre",
+      "Sadece medeni duruma göre"
+    ],
+    "answer_index": 0,
+    "sort_order": 58
+  },
+  {
+    "id": 119,
+    "deneme_id": 2,
+    "prompt": "Görevde yükselme sınavı hangi yöntemle yapılır?",
+    "options": [
+      "Yazılı sınav (ve gerekirse sözlü sınav) ile",
+      "Sadece kıdeme göre",
+      "Sadece mülakatla",
+      "Kura ile"
+    ],
+    "answer_index": 0,
+    "sort_order": 59
+  },
+  {
+    "id": 120,
+    "deneme_id": 2,
+    "prompt": "Aday memurların yetiştirilmesindeki temel eğitim aşamalarından biri değildir?",
+    "options": [
+      "Temel eğitim",
+      "Hazırlayıcı eğitim",
+      "Staj",
+      "Emeklilik eğitimi"
+    ],
+    "answer_index": 3,
+    "sort_order": 60
+  }
+]
+

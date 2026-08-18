@@ -1,0 +1,18 @@
+{
+  "cards": [
+    { "question": "4982 sayılı Bilgi Edinme Hakkı Kanunu hangi tarihte kabul edilmiştir?", "answer": "9 Ekim 2003" },
+    { "question": "Kanun'un amacı hangi maddede düzenlenir?", "answer": "Madde 1" },
+    { "question": "Kanun'un amacı nedir?", "answer": "Demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun şekilde bilgi edinme hakkını düzenlemek" },
+    { "question": "Bilgi edinme başvurusu ne şekilde yapılabilir?", "answer": "Yazılı olarak veya elektronik ortamda ya da diğer iletişim araçlarıyla" },
+    { "question": "Kurum ve kuruluşlar başvurulara normal şartlarda en geç kaç iş günü içinde cevap verir?", "answer": "En geç 15 iş günü" },
+    { "question": "Başka bir birimden görüş alınmasını gerektiren başvurularda cevap süresi ne kadardır?", "answer": "En geç 30 iş günü" },
+    { "question": "Bilgi edinme başvurusunun reddi hangi hallerde mümkündür?", "answer": "Devlet sırrı, ticari sır, özel hayatın gizliliği gibi istisnalar kapsamına giren bilgiler için" },
+    { "question": "Başvurusu reddedilen kişi hangi kurula itiraz edebilir?", "answer": "Bilgi Edinme Değerlendirme Kurulu'na" },
+    { "question": "Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?", "answer": "9 üye" },
+    { "question": "Bilgi edinme hakkı kimlere tanınmıştır?", "answer": "Bilgi edinme hakkı; gerçek ve tüzel kişilere (Türk vatandaşları, Türkiye'de ikamet eden yabancılar ve karşılıklılık ilkesi çerçevesinde yabancı gerçek/tüzel kişiler) tanınmıştır" },
+    { "question": "Devlet sırrı niteliğindeki bilgiler kanun kapsamında mıdır?", "answer": "Hayır, istisna kapsamındadır ve verilmez" },
+    { "question": "Kurum içi düzenlemeler niteliğindeki bilgi ve belgeler kanun kapsamında mıdır?", "answer": "Kurum içi düzenleme niteliğindeki ve sadece kurum personelini ilgilendiren belgeler istisna kapsamındadır" },
+    { "question": "Başvuru dilekçesinde hangi bilgiler bulunmalıdır?", "answer": "Başvuranın adı-soyadı, imzası, oturma yeri veya iş adresi, başvurulan kurum ve istenen bilgi/belgenin açık şekilde belirtilmesi" },
+    { "question": "Bilgi edinme başvurusunda bulunmak için herhangi bir gerekçe gösterme zorunluluğu var mıdır?", "answer": "Hayır, gerekçe gösterme zorunluluğu yoktur" }
+  ]
+}

@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "yonetim-liderlik-msftfbwx-6-b4vi",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların yaptıkları işin tekdüzeliğini kırmak ve can sıkıntısını önlemek için, aynı zorluk derecesindeki farklı işler arasında belirli aralıklarla yer değiştirmelerine ne ad verilir?",
+    "options": [
+      "İş Zenginleştirme",
+      "İş Genişletme",
+      "İş Rotasyonu (İş Değişimi)",
+      "İş Tasarımı",
+      "İş Değerlemesi"
+    ],
+    "answer_index": 2,
+    "explanation": "İş rotasyonu, personelin çapraz eğitimini sağlamak ve monotonluğu kırmak amacıyla işler arasında yatay ve geçici olarak döndürülmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:18:53.400124+00:00",
+    "updated_at": "2026-08-05T08:18:53.400124+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftfbwx-7-d4au",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin personeline görevle birlikte o görevi yerine getirebilmesi için gerekli olan bütçe, ekipman ve inisiyatif alma hakkını da vermesi yönetimde hangi kavramla ifade edilir?",
+    "options": [
+      "Merkezileşme",
+      "Yetki Göçerimi (Devri)",
+      "Sorumluluk Devri",
+      "Hiyerarşik Kontrol",
+      "Bürokratikleşme"
+    ],
+    "answer_index": 1,
+    "explanation": "Yetki devri, amirin karar verme ve kaynak kullanma hakkını belirli sınırlar dâhilinde astına devretmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:18:53.400124+00:00",
+    "updated_at": "2026-08-05T08:18:53.400124+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftfbwx-8-efg9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik planlama sürecinde yer alan PESTLE analizi, kurumun hangi çevresini değerlendirmek için kullanılır?",
+    "options": [
+      "İç Çevresini",
+      "Yakın Rekabet Çevresini",
+      "Müşteri Çevresini",
+      "Makro (Geniş/Dış) Çevresini",
+      "Tedarikçi Çevresini"
+    ],
+    "answer_index": 3,
+    "explanation": "PESTLE (Politik, Ekonomik, Sosyo-kültürel, Teknolojik, Yasal, Çevresel); kurumun kontrolü dışındaki makro çevresel faktörleri analiz etme aracıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:18:53.400124+00:00",
+    "updated_at": "2026-08-05T08:18:53.400124+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftfbwx-9-h9ik",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Daniel Goleman'ın 'Duygusal Zeka' (EQ) modeline göre aşağıdakilerden hangisi duygusal zekanın temel bileşenlerinden biri değildir?",
+    "options": [
+      "Özbilinç (Kendini Tanıma)",
+      "Özyönetim (Duyguları Kontrol)",
+      "Empati",
+      "Sosyal Beceriler",
+      "Analitik Matematik Becerisi"
+    ],
+    "answer_index": 4,
+    "explanation": "Analitik matematik becerisi Bilişsel Zekanın (IQ) bir konusudur, Duygusal Zekanın (EQ) değil.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:18:53.400124+00:00",
+    "updated_at": "2026-08-05T08:18:53.400124+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-0-5g9c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel Adalet kavramının boyutlarından olan; kararların alınma sürecindeki yöntemlerin, kuralların ve prosedürlerin ne kadar tarafsız ve dürüst olduğunu ifade eden adalet türü hangisidir?",
+    "options": [
+      "Dağıtımsal Adalet",
+      "İşlemsel (Prosedürel) Adalet",
+      "Etkileşimsel Adalet",
+      "Sosyal Adalet",
+      "Hukuki Adalet"
+    ],
+    "answer_index": 1,
+    "explanation": "İşlemsel adalet, ödül veya cezaların 'nasıl' dağıtıldığına, yani sürecin işleyişindeki hakkaniyete odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-1-1iyt",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Tuckman'ın 'Grup Gelişim Aşamaları' modeline göre, grup üyeleri arasında çatışmaların yaşandığı, rollerin sorgulandığı ve liderlik mücadelesinin görüldüğü aşama hangisidir?",
+    "options": [
+      "Hazırlık (Forming)",
+      "Fırtına (Storming)",
+      "Düzenleme (Norming)",
+      "Performans (Performing)",
+      "Dağılma (Adjourning)"
+    ],
+    "answer_index": 1,
+    "explanation": "Fırtına aşaması, bireylerin kendi fikirlerini dayattığı ve grup içi direncin/çatışmanın en yüksek olduğu evredir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-10-a7f1",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin, kurumun kıdemli çalışanlarını, yeni başlayan personelin gelişimine yardımcı olmaları ve onlara rehberlik etmeleri için görevlendirmesine ne ad verilir?",
+    "options": [
+      "Koçluk (Coaching)",
+      "Mentörlük (Mentoring)",
+      "Yetki Devri",
+      "Rotasyon",
+      "İş Genişletme"
+    ],
+    "answer_index": 1,
+    "explanation": "Mentörlük, deneyimli birinin (mentör) daha az deneyimli birine (mentee) bilgi birikimi ve tecrübe aktarmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-11-ht6k",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel iletişimde 'Tekerlek' (Wheel) iletişim ağının temel özelliği nedir?",
+    "options": [
+      "Herkesin herkesle eşit iletişim kurması",
+      "İletişimin tek bir merkezde (liderde) toplanması",
+      "Bilginin sırayla birbirine aktarılması",
+      "Hiçbir hiyerarşinin bulunmaması",
+      "Bilginin sadece yatay olarak yayılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Tekerlek modelinde tüm iletişim merkezdeki tek bir kişi üzerinden döner; hızlı karar alınır ancak çalışan tatmini genellikle düşüktür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-12-zp37",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bireyin bir gruba veya kuruma karşı duyduğu, oraya ait olma ve orada kalma arzusunu ifade eden kavram hangisidir?",
+    "options": [
+      "Örgütsel Özdeşleşme",
+      "Örgütsel Sosyalleşme",
+      "Örgütsel Bağlılık",
+      "Örgütsel Güven",
+      "Örgütsel Adalet"
+    ],
+    "answer_index": 2,
+    "explanation": "Örgütsel bağlılık, çalışanın örgütün amaç ve değerlerini kabul etmesi ve örgüt üyeliğini sürdürme isteğidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-13-3008",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Eisenhower Matrisi’ne göre, 'Acil ama Önemli Olmayan' işler (örneğin bazı e-postalar, bazı gereksiz toplantılar) için izlenecek en iyi yol hangisidir?",
+    "options": [
+      "Hemen kendin yap",
+      "Planla ve sonra yap",
+      "Başkasına devret (Delege et)",
+      "Asla yapma ve sil",
+      "En sona bırak"
+    ],
+    "answer_index": 2,
+    "explanation": "Bu tür işler zaman hırsızıdır; yöneticinin odağını kaybetmemesi için bu işleri mümkünse başkalarına devretmesi gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-14-fjus",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim bilimi literatüründe 'Etkililik' (Effectiveness) kavramı neyi ifade eder?",
+    "options": [
+      "Kaynakları en az maliyetle kullanmayı",
+      "Doğru işleri yaparak hedeflere ulaşma derecesini",
+      "Hızlı çalışmayı",
+      "Çalışan sayısını azaltmayı",
+      "Bürokrasiyi artırmayı"
+    ],
+    "answer_index": 1,
+    "explanation": "Verimlilik (Efficiency) 'işleri doğru yapmayı' (kaynak tasarrufu), etkililik ise 'doğru işleri yapmayı' (hedeflere ulaşma) ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-15-mk0e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu yöneticisinin, astlarına karşı 'Sizi çok iyi anlıyorum, haklısınız' diyerek dinlemesi ama sonunda yine kendi bildiği kararı uygulaması hangi dinleme engeline girer?",
+    "options": [
+      "Filtreleme",
+      "Savunucu Dinleme",
+      "Seçici Algılama",
+      "Yüzeysel/Sahte Dinleme",
+      "Zihinsel Meşguliyet"
+    ],
+    "answer_index": 3,
+    "explanation": "Sahte dinlemede kişi dinliyormuş gibi görünür ama zihninde mesajı işlemez veya önemsemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-16-uxfd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Organizasyonel değişime direnci kırmada kullanılan 'Eğitim ve İletişim' yöntemi hangi durumda en etkilidir?",
+    "options": [
+      "Zaman kısıtı çok fazlaysa",
+      "Değişim çok büyük bir maliyet getiriyorsa",
+      "Direnç, bilgi eksikliğinden ve belirsizlikten kaynaklanıyorsa",
+      "Direnç gösterenler çok güçlü bir sendikaysa",
+      "Hiçbir seçenek işe yaramadığında"
+    ],
+    "answer_index": 2,
+    "explanation": "Eğer çalışanlar değişimin nedenini ve sonuçlarını bilmedikleri için korkuyorlarsa, eğitim ve şeffaf iletişim en sağlıklı yoldur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-17-dj3j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Hersey ve Blanchard’ın modelinde, personelin hem yetenekli hem de istekli (Yüksek Olgunluk) olduğu durumda liderin takınması gereken tarz hangisidir?",
+    "options": [
+      "Talimat Verme (Anlatıcı)",
+      "İkna Etme (Satıcı)",
+      "Katılım Sağlama",
+      "Yetki Devretme (Delegasyon)",
+      "Denetleme"
+    ],
+    "answer_index": 3,
+    "explanation": "Personel işi biliyor ve yapmak istiyorsa, liderin en az müdahaleyi yaparak yetkiyi devretmesi en uygun yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-18-bp1m",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu kurumlarında belirli bir dönemde gerçekleştirilmesi planlanan faaliyetlerin finansal dökümünü içeren ve yönetim fonksiyonlarından olan 'Bütçeleme' aslında hangi temel fonksiyonun bir parçasıdır?",
+    "options": [
+      "Örgütleme",
+      "Yöneltme",
+      "Planlama",
+      "Koordinasyon",
+      "Karar Verme"
+    ],
+    "answer_index": 2,
+    "explanation": "Bütçe, gelecekteki kaynakların nasıl kullanılacağının rakamsal planıdır, dolayısıyla planlama fonksiyonunun altındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-19-w78f",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel Politika kavramı aşağıdakilerden hangisini en iyi açıklar?",
+    "options": [
+      "Kurumun resmi disiplin yönetmeliğini",
+      "Çalışanların kendi çıkarlarını korumak için kullandıkları resmi olmayan güç ve etki çabalarını",
+      "Kurumun vizyon belgesini",
+      "Hükümetin kamu personeli politikalarını",
+      "Devlet memurları kanununu"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel politika, birey veya grupların kurum içindeki güçlerini artırmak veya çıkarlarını korumak için yürüttükleri gayriresmi faaliyetlerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-2-5n8o",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların kurum içindeki sorunları veya yanlış uygulamaları bildikleri halde, yönetimin tepkisinden çekindikleri ya da bir şeyin değişmeyeceğine inandıkları için bilinçli olarak susmalarına ne ad verilir?",
+    "options": [
+      "Örgütsel Bağlılık",
+      "Örgütsel Sessizlik",
+      "Örgütsel Vatandaşlık",
+      "Örgütsel Adalet",
+      "Örgütsel Sapma"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel sessizlik, çalışanların fikirlerini ve endişelerini paylaşmaktan kaçınması durumudur ve genellikle kurumsal gelişimi engeller.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-20-6o4o",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Altı Sigma (Six Sigma) kalite yönetim yaklaşımında hedeflenen hata oranı nedir?",
+    "options": [
+      "Yüzde 1 hata",
+      "Yüzde 5 hata",
+      "Milyonda 3,4 hata",
+      "Binde 10 hata",
+      "On binde 1 hata"
+    ],
+    "answer_index": 2,
+    "explanation": "Altı Sigma, istatistiksel olarak mükemmele yakın bir kaliteyi (milyonda 3.4 hata payı) hedefleyen bir süreç iyileştirme metodolojisidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-21-vz3g",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin, astının yanlış bir davranışını düzeltmek için yaptığı görüşmede 'Sen her zaman işleri berbat ediyorsun' demesi, geri bildirim ilkelerinden hangisine aykırıdır?",
+    "options": [
+      "Zamanındalık",
+      "Somutluk ve Davranışa Odaklılık",
+      "Gelecek Odaklılık",
+      "Geri bildirimin gizliliği",
+      "Hiyerarşik uyum"
+    ],
+    "answer_index": 1,
+    "explanation": "Geri bildirim kişiliğe yönelik ('Sen şöylesin') değil, somut bir davranışa yönelik ('Bu rapordaki veriler hatalı') olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-22-vwvy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlikte 'Özellikler Kuramı'na (Traits Theory) getirilen en büyük eleştiri aşağıdakilerden hangisidir?",
+    "options": [
+      "Liderin sadece fiziksel özelliklerini incelemesi",
+      "Hangi özelliklerin hangi durumda daha önemli olduğunu açıklayamaması",
+      "Liderin davranışlarını tamamen yok sayması",
+      "Sadece başarılı liderleri örnek alması",
+      "Çok eski bir kuram olması"
+    ],
+    "answer_index": 1,
+    "explanation": "Özellikler kuramı, liderliği sadece kişisel niteliklere bağlar ancak aynı özelliklere sahip birinin neden her durumda başarılı olmadığını (durumsallığı) açıklayamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-23-5her",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumlarda yetkinin en üstte toplandığı, kural ve prosedürlerin çok sıkı uygulandığı, görevlerin net tanımlandığı yapılar hangi isimle anılır?",
+    "options": [
+      "Organik Yapılar",
+      "Mekanik (Bürokratik) Yapılar",
+      "Yatay Yapılar",
+      "Esnek Yapılar",
+      "Adokratik Yapılar"
+    ],
+    "answer_index": 1,
+    "explanation": "Mekanik yapılar, durağan çevrelerde verimlilik sağlamak için tasarlanmış, katı hiyerarşili ve kuralcı yapılardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-24-y2xf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Grup üyelerinin bir karar alırken, liderin veya grubun baskın üyelerinin görüşüne sessizce onay vermesi ve kendi fikirlerini bastırmasıyla ortaya çıkan duruma ne denir?",
+    "options": [
+      "Beyin Fırtınası",
+      "Abilene Paradoksu",
+      "Sinerji",
+      "Katılımcı Yönetim",
+      "Çapraz Denetim"
+    ],
+    "answer_index": 1,
+    "explanation": "Abilene Paradoksu, grup üyelerinin aslında istemedikleri bir şeye, sadece diğerlerinin istediğini sandıkları için itiraz etmeden onay vermeleri durumudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-25-puv0",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İnsan Kaynakları Yönetimi'nde, boşalan bir pozisyon için öncelikle kurum içindeki mevcut personelin değerlendirilmesi yöntemine ne ad verilir?",
+    "options": [
+      "Dış Kaynaklardan Tedarik",
+      "İç Kaynaklardan Tedarik",
+      "Kamu Personel Seçme Sınavı",
+      "Mülakat",
+      "Rotasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "İç kaynaklardan tedarik; terfi, nakil veya ilan yoluyla kurum içindeki personelin üst görevlere getirilmesidir; motivasyonu artırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-26-escd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi bir yöneticinin 'Karizmatik Gücü'nü (Referent Power) besleyen unsurdur?",
+    "options": [
+      "Yasal yetkileri",
+      "Sahip olduğu diplamalar",
+      "Kişilik özellikleri ve personelin ona duyduğu hayranlık/saygı",
+      "Cezalandırma yetkisi",
+      "Bütçe kullanma yetkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Karizmatik (Benzeşim) güç, liderin kişiliği ve karakteri nedeniyle personelin onunla özdeşleşmek ve ona benzemek istemesinden doğar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-27-0ycd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Etik yaklaşımlardan 'Haklar Yaklaşımı'na göre bir yöneticinin karar alırken temel kriteri ne olmalıdır?",
+    "options": [
+      "En büyük kârı sağlamak",
+      "Kanunlara tam uyum sağlamak",
+      "Bireylerin ifade özgürlüğü, özel hayatın gizliliği gibi temel haklarını ihlal etmemek",
+      "Herkesin eşit puan almasını sağlamak",
+      "Kurumun imajını korumak"
+    ],
+    "answer_index": 2,
+    "explanation": "Haklar yaklaşımı, ahlaki açıdan doğru kararın, etkilenen kişilerin temel insan haklarını koruyan karar olduğunu savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-28-42dd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetimde 'İstisnalarla Yönetim' (Management by Exception) ilkesi neyi ifade eder?",
+    "options": [
+      "Yöneticinin her işe müdahale etmesini",
+      "Yöneticinin sadece planlardan sapma olan (sorunlu) durumlara müdahale etmesini",
+      "Kuralların her personel için farklı uygulanmasını",
+      "Hiçbir kuralın uygulanmamasını",
+      "Sadece üst düzey kararların alınmasını"
+    ],
+    "answer_index": 1,
+    "explanation": "Bu ilkeye göre işler yolunda gittiği sürece yönetici müdahale etmez; sadece standartlardan önemli bir sapma (istisna) olduğunda devreye girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-29-7j7z",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel gelişimin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Kurumun sadece fiziksel binasını yenilemek",
+      "Kurumun beşeri (insan) kaynaklarını ve süreçlerini iyileştirerek etkinliğini artırmak",
+      "Çalışan sayısını azaltarak tasarruf etmek",
+      "Kurum ismini değiştirmek",
+      "Hiyerarşik basamak sayısını artırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel gelişim (OD), davranış bilimlerini kullanarak kurumun problem çözme ve yenilenme kapasitesini uzun vadede artırma sürecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-3-mhj6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme sırasında yöneticilerin, karşılarına çıkan ilk olumlu bilginin etkisinde kalarak (çapa atarak) diğer olasılıkları yeterince değerlendirmemesi hatasına ne ad verilir?",
+    "options": [
+      "Hale Etkisi",
+      "Demirleme (Anchoring) Yanlılığı",
+      "Doğrulama Yanlılığı",
+      "Aşırı Özgüven",
+      "Çerçeveleme Etkisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Demirleme, kararda kullanılan ilk verinin (sayı, fiyat, fikir vb.) zihinde bir referans noktası oluşturup kararı o yöne çekmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-4-6pn7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Sistem teorisinde, bir sistemin bozulmaya, düzensizliğe ve ölüme gitme eğilimini ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Sinerji",
+      "Entropi",
+      "Negatif Entropi",
+      "Homeostasi (Denge)",
+      "Geri Bildirim"
+    ],
+    "answer_index": 1,
+    "explanation": "Entropi, tüm kapalı sistemlerin zamanla düzensizliğe gitmesidir. Açık sistemler çevrelerinden enerji alarak 'negatif entropi' ile hayatta kalırlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-5-weo3",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderin astlarıyla kurduğu ilişkinin niteliğine odaklanan ve liderin her astla farklı bir ilişki seviyesi geliştirdiğini savunan kuram hangisidir?",
+    "options": [
+      "Özellikler Kuramı",
+      "Lider-Üye Etkileşimi (LMX) Kuramı",
+      "Yol-Amaç Kuramı",
+      "Liderlik Çizelgesi",
+      "Karizmatik Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "LMX kuramı, liderin bazı astlarla 'iç grup' (yüksek güvenli), bazılarıyla 'dış grup' (resmi) ilişkisi kurduğunu açıklar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-6-ud1x",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, astının başarılı bir davranışı sonrası ona takdir belgesi vermesi, Skinner'ın 'Sonuçsal Şartlanma' kuramına göre hangi kavramla ifade edilir?",
+    "options": [
+      "Olumsuz Pekiştirme",
+      "Olumlu Pekiştirme",
+      "Ceza",
+      "Sönme",
+      "Kaçınma"
+    ],
+    "answer_index": 1,
+    "explanation": "Olumlu pekiştirme, istenen bir davranışın tekrarlanma ihtimalini artırmak için ortama hoş bir uyarıcı (ödül, takdir) eklenmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-7-ooyx",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi bir organizasyonda 'Yatay Çatışma'ya örnektir?",
+    "options": [
+      "Bir memur ile şube müdürü arasındaki anlaşmazlık",
+      "İki farklı şube müdürü arasındaki yetki tartışması",
+      "Bölge müdürlüğü ile genel müdürlük arasındaki bütçe krizi",
+      "Genel müdür ile yardımcısı arasındaki strateji farkı",
+      "Bir şef ile kendisine bağlı memur arasındaki iletişim kopukluğu"
+    ],
+    "answer_index": 1,
+    "explanation": "Yatay çatışma, hiyerarşik olarak aynı kademede bulunan birimler veya kişiler arasında gerçekleşen çatışmadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-8-0m3x",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kotter’in 8 Adımlı Değişim Modeli’ne göre, değişimin başarılı olması için ilk atılması gereken adım hangisidir?",
+    "options": [
+      "Vizyon oluşturmak",
+      "Aciliyet hissi uyandırmak",
+      "Kısa vadeli başarılar elde etmek",
+      "Güçlü bir koalisyon kurmak",
+      "Değişimi kurumsallaştırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Kotter'e göre değişim, mevcut durumun neden sürdürülemez olduğunu anlatarak 'aciliyet/ivedilik duygusu' yaratmakla başlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftifjm-9-42ue",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Performans yönetiminde 'Balanced Scorecard' (Kurumsal Karne) yönteminin dört temel boyutu aşağıdakilerden hangisidir?",
+    "options": [
+      "Maaş, Eğitim, Kıdem, Yetki",
+      "Finansal, Müşteri/Vatandaş, İç Süreçler, Öğrenme ve Gelişim",
+      "Üretim, Satış, Pazarlama, Ar-Ge",
+      "Planlama, Örgütleme, Yöneltme, Denetim",
+      "Hız, Kalite, Maliyet, Güvenlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Kaplan ve Norton tarafından geliştirilen bu yöntem, kurum performansını sadece finansal değil, çok boyutlu olarak ölçer.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:21:18.08322+00:00",
+    "updated_at": "2026-08-05T08:21:18.08322+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-0-vqn2",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Peter Senge’nin 'Beşinci Disiplin' kitabında belirttiği 'Öğrenen Organizasyonlar'ın beş temel disiplini arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kişisel Ustalık",
+      "Zihinsel Modeller",
+      "Paylaşılan Vizyon",
+      "Sıkı Hiyerarşik Denetim",
+      "Sistem Düşüncesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Öğrenen organizasyonlarda katı hiyerarşi yerine takım halinde öğrenme ve sistem düşüncesi esastır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-1-zjsy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim süreçlerinde 'SMART' hedef belirleme kriterindeki 'M' harfi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Mantıklı (Logical)",
+      "Maliyet Odaklı (Cost-oriented)",
+      "Ölçülebilir (Measurable)",
+      "Merkezi (Central)",
+      "Mükemmel (Perfect)"
+    ],
+    "answer_index": 2,
+    "explanation": "SMART; Specific (Belirgin), Measurable (Ölçülebilir), Achievable (Ulaşılabilir), Relevant (İlgili) ve Time-bound (Süreli) kelimelerinin kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-10-wuek",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik yönetimde, kurumun gelecekteki fırsatları değerlendirmek ve tehditlerden korunmak için belirlediği uzun vadeli yol haritasına ne ad verilir?",
+    "options": [
+      "Operasyonel Plan",
+      "Taktik Plan",
+      "Strateji",
+      "Bütçe",
+      "İş Tanımı"
+    ],
+    "answer_index": 2,
+    "explanation": "Strateji, kurumun temel amaçlarına ulaşmak için kaynaklarını nasıl kullanacağını belirleyen kapsamlı ve uzun vadeli plandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-11-yo26",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Toplam Kalite Yönetimi’nde 'Kıyaslama' (Benchmarking) yapılırken örnek alınan kuruma ne ad verilir?",
+    "options": [
+      "Rakip Kurum",
+      "Paydaş Kurum",
+      "Referans (Kıyas) Kurumu",
+      "Alt Kurum",
+      "Denetçi Kurum"
+    ],
+    "answer_index": 2,
+    "explanation": "Benchmarking sürecinde, alanında en iyi uygulamalara sahip olan ve örnek alınan kuruluşa referans/benchmark kurumu denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-12-q3nv",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Gresham Kanunu’nun yönetim bilimindeki karşılığı olan 'Kötü iş iyi işi kovar' sözü neyi ifade eder?",
+    "options": [
+      "Yeteneksiz yöneticilerin yeteneklileri kurumdan uzaklaştırmasını",
+      "Ucuz malzemelerin kaliteli olanların yerini almasını",
+      "Rutin işlerin stratejik işlere vakit bırakmamasını",
+      "Hatalı kararların doğru kararları engellemesini",
+      "Eski personelin yeni personeli istememesini"
+    ],
+    "answer_index": 2,
+    "explanation": "Yönetsel anlamda bu kanun, acil ve rutin işlerin yoğunluğundan dolayı yöneticilerin stratejik ve önemli işlere vakit ayıramamasını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-13-678c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda çalışanların birbirlerine duydukları güvenin, yardımlaşma duygusunun ve sosyal bağların toplamına ne ad verilir?",
+    "options": [
+      "Beşeri Sermaye",
+      "Entelektüel Sermaye",
+      "Sosyal Sermaye",
+      "Finansal Sermaye",
+      "Fiziksel Sermaye"
+    ],
+    "answer_index": 2,
+    "explanation": "Sosyal sermaye, grup içindeki işbirliğini sağlayan ilişkiler ağı, güven ve ortak değerler bütünüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-14-xnjh",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin 'Bırakın yapsınlar' (Laissez-Faire) tarzını benimsemesinin en büyük riski aşağıdakilerden hangisidir?",
+    "options": [
+      "Çalışanların çok fazla yorulması",
+      "Kararların çok hızlı alınması",
+      "Kurumda başıboşluk, koordinasyon eksikliği ve hedeflerden sapma yaşanması",
+      "Yöneticinin çok sevilmesi",
+      "Yaratıcılığın tamamen yok olması"
+    ],
+    "answer_index": 2,
+    "explanation": "Denetimin ve yönlendirmenin olmadığı serbest bırakıcı tarzda, kurum hedeflerinden uzaklaşma ve karmaşa riski yüksektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-15-u0ck",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Organizasyonel öğrenme döngüsünde 'Tek Döngülü Öğrenme' (Single-loop learning) ne anlama gelir?",
+    "options": [
+      "Kurumun temel değerlerini sorgulayarak değişmesi",
+      "Hataların sadece sonuçlarına bakıp mevcut yöntemlerle düzeltilmeye çalışılması",
+      "Grup halinde öğrenme",
+      "Dış çevreden bilgi alınması",
+      "Sadece üst yönetimin öğrenmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Tek döngülü öğrenmede, temel politikalar sorgulanmaz; sadece mevcut sistem içindeki hatalar giderilir (rutin düzeltme).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-16-u4cy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi örgütsel değişime gösterilen 'Bireysel' direnç nedenlerinden biri değildir?",
+    "options": [
+      "Ekonomik kaygılar (Maaşın azalacağı korkusu)",
+      "Alışkanlıkların bozulması",
+      "Bilinmezliğe duyulan korku",
+      "Örgütsel yapının katılığı",
+      "Güvenlik ihtiyacı"
+    ],
+    "answer_index": 3,
+    "explanation": "Örgütsel yapının katılığı veya hiyerarşi, bireysel bir direnç nedeni değil, 'Örgütsel' düzeyde bir direnç nedenidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-17-nzp8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticinin sahip olduğu 'Hukuki Güç'ün (Meşru Güç) sınırı aşağıdakilerden hangisi ile çizilir?",
+    "options": [
+      "Yöneticinin isteğiyle",
+      "Astların onayıyla",
+      "Yasal mevzuat ve iş tanımlarıyla",
+      "Ekonomik imkanlarla",
+      "Toplumsal geleneklerle"
+    ],
+    "answer_index": 2,
+    "explanation": "Meşru güç, yöneticinin atandığı makama yasalar ve yönetmelikler tarafından verilen resmi yetkidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-18-1fbv",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Zaman yönetiminde 'Zaman Hırsızları' olarak nitelendirilen unsurlar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Gereksiz ve uzun toplantılar",
+      "Aniden gelen randevusuz ziyaretçiler",
+      "Net olmayan yetki devri ve belirsiz görevler",
+      "Stratejik planlama ve hazırlık çalışmaları",
+      "Telefon ve sosyal medya bildirimleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Stratejik planlama, zaman hırsızı değil; zamanın en verimli kullanıldığı 'önemli ve acil olmayan' faaliyet alanıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-19-tvat",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Etik dışı bir durumu (örneğin yolsuzluk veya rüşvet) kurumsal hiyerarşiyi aşarak yetkili makamlara veya kamuoyuna bildiren kişiye ne ad verilir?",
+    "options": [
+      "Lobi Faaliyetçisi",
+      "Bilgi Uçuran (Whistleblower)",
+      "Arabulucu",
+      "Denetçi",
+      "Danışman"
+    ],
+    "answer_index": 1,
+    "explanation": "Whistleblowing, kurum içindeki yasa dışı veya etik dışı uygulamaların ifşa edilmesi eylemidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-2-yqj5",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, kurumsal kaynakları (personel, araç, bütçe) kişisel çıkarları doğrultusunda kullanması, kamu yönetimi etiğinde hangi kavramla ifade edilir?",
+    "options": [
+      "Liyakat",
+      "Sadakat",
+      "Yozlaşma (Yolsuzluk)",
+      "Kırtasiyecilik",
+      "Hizmet Kayırmacılığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamusal gücün ve kaynakların özel çıkarlar için kötüye kullanılması genel olarak yozlaşma/yolsuzluk kapsamında değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-20-38fy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin personeline karşı sergilediği 'Beklenti Etkisi' (Pygmalion Etkisi) aşağıdakilerden hangisini açıklar?",
+    "options": [
+      "Yöneticinin personeli cezalandıracağını söylemesi",
+      "Yöneticinin personeline olan yüksek inancının, personelin performansını gerçekten artırması",
+      "Personelin yöneticiden korkması",
+      "Yöneticinin personeli kıskanması",
+      "Yöneticinin personeline hiç güvenmemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Pygmalion etkisi, kişinin başkalarının kendisine yönelik yüksek beklentilerini karşılamak için performansını artırmasıdır (Kendini gerçekleştiren kehanet).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-21-40o4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi 'Dikey İletişim'in bir parçasıdır?",
+    "options": [
+      "Personel Müdürü ile Muhasebe Müdürü arasındaki yazışma",
+      "Müdürün şefe verdiği talimat",
+      "İki memurun öğle yemeğindeki sohbeti",
+      "Hukuk müşavirinin müdüre bilgi vermesi",
+      "Aynı şubedeki memurların iş paylaşımı yapması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dikey iletişim, farklı hiyerarşik kademeler (üst-ast) arasındaki bilgi akışıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-22-4y4l",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Toplam Kalite Yönetimi’nde 'Müşteri' kavramı kamu kurumları için öncelikle kimi ifade eder?",
+    "options": [
+      "Sadece vergi ödeyenleri",
+      "Hizmet alan vatandaşları ve diğer birimleri",
+      "Bakanlık müfettişlerini",
+      "Özel sektör şirketlerini",
+      "Yabancı yatırımcıları"
+    ],
+    "answer_index": 1,
+    "explanation": "Modern yönetimde 'müşteri' hem dış müşteriyi (vatandaş) hem de iç müşteriyi (kurum içindeki diğer birimler/çalışanlar) kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-23-k2b8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme aşamasında 'Veto' yetkisi neyi ifade eder?",
+    "options": [
+      "Kararı onaylama hakkını",
+      "Alınan bir kararı tek başına durdurma veya reddetme hakkını",
+      "Karar sürecini hızlandırmayı",
+      "Kararı başkasına devretmeyi",
+      "Kararı gizli tutmayı"
+    ],
+    "answer_index": 1,
+    "explanation": "Veto, bir kararın yürürlüğe girmesini engelleme yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-24-zlpu",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel bağlılığın 'Normatif Bağlılık' boyutu aşağıdakilerden hangisine dayanır?",
+    "options": [
+      "Maddi çıkarlara",
+      "Korku ve cezaya",
+      "Ahlaki bir görev ve sadakat duygusuna",
+      "Başka iş bulamamaya",
+      "Yöneticinin yakışıklılığına/güzelliğine"
+    ],
+    "answer_index": 2,
+    "explanation": "Normatif bağlılık, çalışanın kurumda kalmayı bir 'etik borç' veya 'sorumluluk' olarak görmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-25-vt33",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi bir organizasyonda 'İş Genişletme' (Job Enlargement) uygulamasıdır?",
+    "options": [
+      "Memura daha zor ve karmaşık işler verme",
+      "Memurun mevcut görev sayısını yatay olarak artırma (farklı ama benzer işler ekleme)",
+      "Memuru başka bir ile tayin etme",
+      "Memurun maaşını artırma",
+      "Memuru müdür yapma"
+    ],
+    "answer_index": 1,
+    "explanation": "İş genişletme, işin zorluğunu artırmadan görev çeşitliliğini yatay olarak artırmaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-26-p47i",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin 'İnsani (Beşeri) Becerileri' en çok hangi aşamada önem kazanır?",
+    "options": [
+      "Bütçe hazırlarken",
+      "Makine arızasını giderirken",
+      "Çalışanları motive ederken ve çatışmaları çözerken",
+      "Stratejik plan yazarken",
+      "Bilgisayar programı kullanırken"
+    ],
+    "answer_index": 2,
+    "explanation": "İnsani beceriler, başkalarıyla birlikte çalışma, iletişim kurma, anlama ve motive etme yeteneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-27-rhyx",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Modern yönetim yaklaşımlarından 'Z Kuramı' (William Ouchi) hangi iki kültürün yönetim sentezini ifade eder?",
+    "options": [
+      "Alman ve Fransız",
+      "Amerikan ve Japon",
+      "Türk ve Arap",
+      "İngiliz ve İtalyan",
+      "Çin ve Rus"
+    ],
+    "answer_index": 1,
+    "explanation": "Z kuramı, Amerikan yönetim tarzı ile Japon yönetim tarzının güçlü yönlerini birleştiren bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-28-k9px",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumsal sosyal sorumluluk bağlamında 'Etik Sorumluluk' neyi ifade eder?",
+    "options": [
+      "Sadece kâr etmeyi",
+      "Sadece yasalara uymayı",
+      "Yasal zorunluluğun ötesinde, toplumun doğru ve adil bulduğu davranışları sergilemeyi",
+      "Çalışanlara en az maaşı vermeyi",
+      "Vergi ödemeyi"
+    ],
+    "answer_index": 2,
+    "explanation": "Etik sorumluluk, yasalarda yazılı olmasa bile ahlaki normlara ve toplumsal beklentilere uygun davranmaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-29-uxzb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu kurumunun web sitesinde vatandaşların başvurularını takip edebilmesi, yönetim ilkelerinden hangisine hizmet eder?",
+    "options": [
+      "Gizlilik",
+      "Tarafsızlık",
+      "Şeffaflık (Açıklık)",
+      "Hiyerarşi",
+      "Liyakat"
+    ],
+    "answer_index": 2,
+    "explanation": "Şeffaflık, kurumun faaliyetlerinin ve kararlarının vatandaşlar tarafından izlenebilir ve denetlenebilir olmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-3-8uef",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme modellerinden olan 'Çöp Kutusu Modeli' (Garbage Can Model) hangi tür organizasyonlardaki karar süreçlerini açıklar?",
+    "options": [
+      "Çok disiplinli ve düzenli kurumlar",
+      "Belirsizliğin çok yüksek olduğu 'Örgütsel Anarşi' durumundaki kurumlar",
+      "Askeri hiyerarşiye sahip kurumlar",
+      "Küçük ölçekli aile işletmeleri",
+      "Sadece kâr amacı güden şirketler"
+    ],
+    "answer_index": 1,
+    "explanation": "Bu modelde problemler, çözümler ve katılımcılar rastgele bir araya gelir; net hedeflerin olmadığı karmaşık yapılar için kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-4-3c0p",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İşletmelerde verimliliği artırmak için kullanılan 'Tam Zamanında Üretim' (Just-In-Time) sisteminin temel amacı nedir?",
+    "options": [
+      "Stokları en üst düzeye çıkarmak",
+      "İsrafı önlemek ve stok maliyetlerini sıfıra yaklaştırmak",
+      "Çalışan sayısını artırmak",
+      "Hatalı ürünleri biriktirmek",
+      "Sadece üst yönetimi bilgilendirmek"
+    ],
+    "answer_index": 1,
+    "explanation": "JIT sistemi, sadece ihtiyaç duyulan miktarın, ihtiyaç duyulan zamanda üretilmesini hedefleyerek her türlü israfı ve stok fazlasını elemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-5-bofz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu yöneticisinin, çalışanların önerilerini toplamak için kullandığı 'Dilek ve Öneri Kutuları' iletişimin hangi yönünü temsil eder?",
+    "options": [
+      "Yukarıdan Aşağıya İletişim",
+      "Aşağıdan Yukarıya İletişim",
+      "Yatay İletişim",
+      "Çapraz İletişim",
+      "Dış İletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışanların (astların) fikirlerini üst yönetime iletmesi aşağıdan yukarıya doğru gerçekleşen bir iletişim sürecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-6-9rz2",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlikte 'Karanlık Üçlü' (Dark Triad) olarak adlandırılan kişilik özellikleri hangi seçenekte doğru verilmiştir?",
+    "options": [
+      "Dürüstlük - Şeffaflık - Empati",
+      "Narsisizm - Makyavelizm - Psikopati",
+      "Cesaret - Bilgelik - Adalet",
+      "Çalışkanlık - Sadakat - Uyum",
+      "Zeka - Duygusallık - Disiplin"
+    ],
+    "answer_index": 1,
+    "explanation": "Karanlık üçlü; aşırı özseverlik (narsisizm), manipülasyon ve çıkar odaklılık (makyavelizm) ile empati yoksunluğunu (psikopati) ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-7-olw8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumsal imajı korumak ve paydaşlarla güven ilişkisi kurmak amacıyla yürütülen faaliyetlerin bütününe ne ad verilir?",
+    "options": [
+      "Pazarlama",
+      "Lobicilik",
+      "Halkla İlişkiler (PR)",
+      "Propaganda",
+      "Reklamcılık"
+    ],
+    "answer_index": 2,
+    "explanation": "Halkla ilişkiler, bir kurumun hedef kitleleri ve paydaşları ile karşılıklı anlayış ve güvene dayalı ilişkiler kurma sürecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-8-ty6i",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi örgütsel çatışmanın nedenlerinden biri olan 'Rol Çatışması'na örnektir?",
+    "options": [
+      "İki çalışanın aynı bilgisayarı kullanmak istemesi",
+      "Bir çalışanın amiri tarafından verilen iki farklı emrin birbiriyle çelişmesi",
+      "Bütçe yetersizliği nedeniyle eğitimin iptal edilmesi",
+      "Ofis ortamının çok gürültülü olması",
+      "Kurumun yeni bir binaya taşınması"
+    ],
+    "answer_index": 1,
+    "explanation": "Rol çatışması, kişiden beklenen davranışların veya görevlerin birbiriyle tutarsız olması durumunda yaşanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msftryig-9-zl61",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kriz yönetiminde 'Kriz Masası' kurulması, krizin hangi evresinde gerçekleştirilen bir faaliyettir?",
+    "options": [
+      "Kriz öncesi (Hazırlık)",
+      "Kriz anı (Müdahale)",
+      "Kriz sonrası (Değerlendirme)",
+      "Kriz sinyallerini alma",
+      "Normale dönme"
+    ],
+    "answer_index": 1,
+    "explanation": "Kriz masası, kriz anında koordinasyonu sağlamak ve hızlı karar almak için müdahale aşamasında oluşturulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:28:43.000385+00:00",
+    "updated_at": "2026-08-05T08:28:43.000385+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-0-vqhk",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt kültürünün görünen, elle tutulan ve duyulan unsurlarını (fiziksel yerleşim, giyim kuşam, törenler, kullanılan dil vb.) ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Temel Varsayımlar",
+      "Değerler",
+      "Artefaktlar (Gözlemlenebilir Ögeler)",
+      "İnançlar",
+      "Normlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Edgar Schein'e göre kültürün en üst katmanı olan artefaktlar, dışarıdan bir gözlemcinin bir kuruma girdiğinde kolayca fark edebileceği her türlü somut göstergedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-1-cge4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Thomas-Kilmann Çatışma Yönetimi Modeli’ne göre, taraflardan birinin kendi çıkarlarından tamamen vazgeçerek karşı tarafın isteklerine boyun eğdiği tarz hangisidir?",
+    "options": [
+      "Rekabet (Zorlama)",
+      "Uzlaşma (Compromising)",
+      "Kaçınma (Avoiding)",
+      "Uyma/Ödün Verme (Accommodating)",
+      "İşbirliği (Collaborating)"
+    ],
+    "answer_index": 3,
+    "explanation": "Uyma tarzında birey, ilişkileri korumak adına kendi amaçlarını feda eder ve karşı tarafın memnuniyetini önceler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-10-31ca",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Mintzberg’e göre, bir yöneticinin törenlere katılması, ziyaretçileri ağırlaması ve kurumu temsil etmesi hangi rolü kapsamında değerlendirilir?",
+    "options": [
+      "Bilgi Toplayıcı Rolü",
+      "Sözcü Rolü",
+      "Sözde Başkan (Figür) Rolü",
+      "Girişimci Rolü",
+      "Müzakereci Rolü"
+    ],
+    "answer_index": 2,
+    "explanation": "Figür (Temsil) rolü, yöneticinin sembolik ve sosyal görevlerini (kurumu temsil etme vb.) kapsayan kişilerarası bir roldür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-11-q89q",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi kamu kurumlarında 'Stratejik Planlama' yapmanın temel faydalarından biri değildir?",
+    "options": [
+      "Geleceği öngörmeyi sağlar.",
+      "Kaynakların verimli kullanılmasını sağlar.",
+      "Hiyerarşiyi tamamen ortadan kaldırır.",
+      "Hesap verebilirliği artırır.",
+      "Kurumsal vizyonu netleştirir."
+    ],
+    "answer_index": 2,
+    "explanation": "Stratejik planlama hiyerarşiyi ortadan kaldırmaz; aksine hiyerarşik kademelerin aynı hedefe odaklanmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-12-2roz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Vroom’un 'Beklenti Kuramı'na göre, bir çalışanın 'Bu işi başarırsam sonunda bir ödül alacak mıyım?' sorusuna verdiği yanıt hangi kavramla ifade edilir?",
+    "options": [
+      "Beklenti (Expectancy)",
+      "Araçsallık (Instrumentality)",
+      "Valans (Valence)",
+      "Doyum",
+      "Algılama"
+    ],
+    "answer_index": 1,
+    "explanation": "Araçsallık, performansın bir ödülle sonuçlanacağına dair duyulan inançtır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-13-9221",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda 'Resmi Olmayan Organizasyon'un (İnformal Grup) ortaya çıkmasının temel nedeni nedir?",
+    "options": [
+      "Yasaların zorunlu kılması",
+      "Yöneticilerin emirleri",
+      "Çalışanların sosyal etkileşim, yardımlaşma ve psikolojik ihtiyaçları",
+      "Bütçe tasarrufu",
+      "Hiyerarşiyi güçlendirmek"
+    ],
+    "answer_index": 2,
+    "explanation": "İnformal yapılar, resmi yapının karşılayamadığı sosyal ve psikolojik ihtiyaçlar sonucunda doğal olarak oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-14-1po2",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Modern yönetimde 'Güçlendirme' (Empowerment) kavramı neyi ifade eder?",
+    "options": [
+      "Yöneticinin kas gücünü",
+      "Kurumun fiziksel güvenliğini artırmayı",
+      "Çalışanlara karar verme yetkisi ve sorumluluk vererek inisiyatif almalarını sağlamayı",
+      "Çalışanlara daha fazla disiplin cezası vermeyi",
+      "Yöneticinin yetkilerini tek başına toplamasını"
+    ],
+    "answer_index": 2,
+    "explanation": "Güçlendirme, çalışanların kendi işleriyle ilgili kararları alabilmesi için bilgi, kaynak ve yetki ile desteklenmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-15-huwq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme sürecinde 'Rasyonel Karar Verme Modeli'nin en temel varsayımı nedir?",
+    "options": [
+      "Karar verici her zaman duygusal davranır.",
+      "Karar verici tüm alternatifleri bilir ve en kârlı/faydalı olanı seçer.",
+      "Bilgi her zaman eksiktir.",
+      "Zaman kısıtı en önemli engeldir.",
+      "İnsanlar sadece alışkanlıklarıyla karar verir."
+    ],
+    "answer_index": 1,
+    "explanation": "Klasik rasyonel model, 'ekonomik insan' varsayımıyla, karar vericinin tam bilgiye sahip olduğunu ve en optimal seçimi yapacağını savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-16-vusq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Organizasyon şemalarında 'Kontrol Alanı' (Span of Control) neyi ifade eder?",
+    "options": [
+      "Kurumun kaç m² alana kurulu olduğunu",
+      "Bir amirin doğrudan yönetebileceği ast sayısını",
+      "Üst yönetimin toplam çalışma saatini",
+      "Kurumdaki toplam bilgisayar sayısını",
+      "Müfettişlerin denetim yetkisini"
+    ],
+    "answer_index": 1,
+    "explanation": "Kontrol alanı, bir yöneticinin etkin bir şekilde denetleyebileceği ve koordine edebileceği personel sayısını tanımlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-17-69fr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların yaptıkları katkı ile (emek, eğitim) elde ettikleri sonucu (maaş, statü) diğer çalışanlarla kıyaslamalarına dayanan motivasyon kuramı hangisidir?",
+    "options": [
+      "Maslow'un İhtiyaçlar Hiyerarşisi",
+      "Adams'ın Hakkaniyet (Eşitlik) Kuramı",
+      "Skinner'ın Şartlanma Kuramı",
+      "Aldefer'in ERG Kuramı",
+      "Locke'un Hedef Belirleme Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Eşitlik kuramına göre bireyler, kendi girdi/çıktı oranlarını başkalarıyla kıyaslar ve adaletsizlik hissederlerse motivasyonları düşer.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-18-8975",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin personeline sürekli 'Nasıl olsa yapamazsın' demesi sonucunda personelin gerçekten başarısız olması durumu hangi kavramla açıklanır?",
+    "options": [
+      "Pygmalion Etkisi",
+      "Golem Etkisi",
+      "Halo Etkisi",
+      "Kıskançlık Etkisi",
+      "Kelebek Etkisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Düşük beklentilerin düşük performansa yol açmasına 'Golem Etkisi' denir (Pygmalion'un tam tersidir).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-19-s4i7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik yönetimde 'VİZYON' ifadesi neyi tanımlar?",
+    "options": [
+      "Kurumun şu an ne yaptığını",
+      "Kurumun yasal dayanağını",
+      "Kurumun gelecekte ulaşmak istediği ideal durumu ve resmi",
+      "Kurumun bütçe kalemlerini",
+      "Kurumun personel sayısını"
+    ],
+    "answer_index": 2,
+    "explanation": "Vizyon, kurumun gelecekte nerede olmak istediğine dair çizdiği ufuk ve uzun vadeli hedeftir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-2-b45e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Herzberg'in 'Çift Faktör Kuramı'na göre, aşağıdakilerden hangisi bir 'Motivasyonel (Güdüleyici)' faktördür?",
+    "options": [
+      "Ücret ve Maaş",
+      "Çalışma Koşulları",
+      "İş Güvenliği",
+      "İşin Kendisi ve Başarı Duygusu",
+      "Kurum Politikası"
+    ],
+    "answer_index": 3,
+    "explanation": "Maaş ve çalışma koşulları 'Hijyen Faktörleri'dir (yokluğu mutsuz eder ama varlığı tek başına motive etmez). İşin içeriği ve başarı ise doğrudan motivasyon sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-20-bde7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi örgütsel iletişimin 'Filtreleme' (Ayıklama) engeline örnektir?",
+    "options": [
+      "Alıcının mesajı yanlış anlaması",
+      "Gürültü nedeniyle mesajın duyulmaması",
+      "Bir memurun müdüre sadece duymak istediği iyi haberleri vermesi, kötüleri gizlemesi",
+      "E-postaların teknik sorun nedeniyle iletilememesi",
+      "Yöneticinin çok sert bir ses tonu kullanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Filtreleme, mesajın alıcıya ulaştırılırken bilinçli olarak çarpıtılması veya sadece belli kısımlarının gönderilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-21-3xcl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu yönetiminde 'Yatay Koordinasyon' neyi ifade eder?",
+    "options": [
+      "Bakanın müsteşara emir vermesini",
+      "Valinin kaymakamı denetlemesini",
+      "Aynı düzeydeki iki farklı kurum veya birimin iş birliği yapmasını",
+      "Vatandaşın kuruma dilekçe vermesini",
+      "Memurun istifa etmesini"
+    ],
+    "answer_index": 2,
+    "explanation": "Yatay koordinasyon, aralarında hiyerarşik bağ bulunmayan, aynı seviyedeki birimlerin ortak hedefler için uyumlu çalışmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-22-wtbf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Zaman yönetiminde 'Parkinson Kanunu' neyi savunur?",
+    "options": [
+      "Çok çalışanın çok kazanacağını",
+      "İşin, bitirilmesi için ayrılan sürenin tamamını kapsayacak şekilde yayılacağını",
+      "Teknolojinin zaman kazandıracağını",
+      "Toplantıların gereksiz olduğunu",
+      "Sabah saatlerinin en verimli saatler olduğunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Parkinson Kanunu'na göre, bir iş için ne kadar süre verirseniz, o iş o sürenin tamamını doldurana kadar uzar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-23-g9j5",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda köklü bir değişim yapılacağında, yöneticinin değişimi destekleyen ve karşı çıkan güçleri analiz etmesine ne ad verilir?",
+    "options": [
+      "SWOT Analizi",
+      "PESTLE Analizi",
+      "Güç Alanı Analizi (Lewin)",
+      "Balık Kılçığı Diyagramı",
+      "Pareto Analizi"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurt Lewin’in Güç Alanı Analizi, değişimi iten güçler ile değişime direnç gösteren güçlerin dengesini inceleyen bir tekniktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-24-e5uf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Etik dışı davranışların önlenmesinde 'Hizmet Kusuru' yerine 'Hizmet Gerekleri'nin ön plana çıkarılması hangi temel ilke ile ilgilidir?",
+    "options": [
+      "Tarafsızlık",
+      "Sorumluluk",
+      "Hizmet Odaklılık",
+      "Nezaket",
+      "Şeffaflık"
+    ],
+    "answer_index": 2,
+    "explanation": "Hizmet odaklılık, kamu görevlisinin temel amacının vatandaşın ihtiyacını en etkin ve etik şekilde karşılamak olduğunu vurgular.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-25-gd6y",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar vermede 'Sınırlı Rasyonalite' (Bounded Rationality) kavramını ortaya atan ve insanların 'en iyiyi' değil 'yeterince iyi olanı' seçtiğini savunan bilim insanı kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Max Weber",
+      "Herbert Simon",
+      "Henri Fayol",
+      "Douglas McGregor"
+    ],
+    "answer_index": 2,
+    "explanation": "Herbert Simon, insanların zihinsel kapasiteleri ve zaman kısıtı nedeniyle 'en iyi' kararı değil, tatmin edici olan ilk kararı seçtiklerini belirtmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-26-syhl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu kurumunda personelin performansını değerlendirirken, 'herkese ortalama puan verme' eğilimi hangi değerlendirme hatasıdır?",
+    "options": [
+      "Halo Etkisi",
+      "Yakın Zaman Etkisi",
+      "Merkezi Eğilim Hatası",
+      "Müsamaha Hatası",
+      "Kontrast Hatası"
+    ],
+    "answer_index": 2,
+    "explanation": "Merkezi eğilim hatası, yöneticinin çok düşük veya çok yüksek not vermekten kaçınarak tüm personeli orta seviyede puanlamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-27-riz8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumlarda çatışmanın 'Yıkıcı' değil 'Yaratıcı' (Yapıcı) olması için ne gereklidir?",
+    "options": [
+      "Çatışmanın tamamen yok edilmesi",
+      "Çatışmanın kişisel saldırılara dönüşmeden, fikir alışverişine ve sorun çözümüne odaklanması",
+      "Liderin baskın çıkması",
+      "Çatışanların cezalandırılması",
+      "Kura çekilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Görev odaklı çatışmalar, doğru yönetilirse yaratıcılığı artırır ve kurumun gelişimine katkı sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-28-m16i",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin astlarına 'Ne yapacaklarını, nasıl yapacaklarını' tek tek söylemesi ve çok sıkı denetlemesi, McGregor’un hangi kuramına sahip olduklarını gösterir?",
+    "options": [
+      "X Kuramı",
+      "Y Kuramı",
+      "Z Kuramı",
+      "Sistem Kuramı",
+      "Durumsallık Kuramı"
+    ],
+    "answer_index": 0,
+    "explanation": "X Kuramı, insanların tembel olduğunu ve ancak baskı/denetim ile çalıştırılabileceğini varsayan klasik yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-29-e0hm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu kurumunda yeni bir bilgisayar sistemine geçildiğinde, personelin 'Ben eski sistemi daha iyi kullanıyordum, yenisine gerek yok' demesi hangi direnç türüne örnektir?",
+    "options": [
+      "Ekonomik direnç",
+      "Alışkanlık ve Bilinmeyene Karşı Korku",
+      "Politik direnç",
+      "Yasal direnç",
+      "Dışsal direnç"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsanlar genellikle alışık oldukları yöntemleri güvenli bulurlar; yeni bir yöntem belirsizlik ve öğrenme çabası gerektirdiği için direnç oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-3-yu7f",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, astına yetki devrederken yaptığı en temel hata, sorumluluğu da devrettiğini düşünmesidir. Yönetim hukukuna göre sorumluluk devri hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yetki devredildiğinde sorumluluk tamamen biter.",
+      "Sorumluluk devredilebilir bir kavramdır.",
+      "Yetki devredilse bile amirin gözetim ve nihai sorumluluğu devam eder.",
+      "Sorumluluk sadece yazılı olursa devredilir.",
+      "Yetki devri memurun sorumluluğunu ortadan kaldırır."
+    ],
+    "answer_index": 2,
+    "explanation": "Yönetimde yetki devredilebilir ancak nihai sorumluluk (hesap verebilirlik) her zaman yetkiyi devreden amirin üzerindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-4-vkln",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "McClelland’ın 'Başarı İhtiyacı Kuramı'na göre, aşağıdakilerden hangisi insanların temel üç ihtiyacından biri değildir?",
+    "options": [
+      "Başarı İhtiyacı",
+      "Güç/Erk İhtiyacı",
+      "İlişki Kurma (Bağlanma) İhtiyacı",
+      "Fizyolojik İhtiyaçlar",
+      "Etki Etme İhtiyacı"
+    ],
+    "answer_index": 3,
+    "explanation": "McClelland; Başarı, Güç ve İlişki kurma ihtiyaçlarına odaklanır. Fizyolojik ihtiyaçlar Maslow'un kuramının temelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-5-q3bm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme sürecinde 'Grup Düşün' (Groupthink) tehlikesini önlemek için kullanılan, bir grup üyesinin sürekli karşıt görüşleri savunarak kararın zayıf yönlerini ortaya çıkarması yöntemine ne ad verilir?",
+    "options": [
+      "Beyin Fırtınası",
+      "Nominal Grup Tekniği",
+      "Şeytanın Avukatlığı",
+      "Delphi Tekniği",
+      "Balık Kılçığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Şeytanın avukatlığı, grubun aşırı uyum içinde hatalı karar vermesini engellemek için mevcut fikirlere sistematik olarak itiraz etme yöntemidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-6-56j7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İletişimde 'Halo Etkisi' (Hale Etkisi) aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Bir kişinin tek bir olumlu özelliğinden yola çıkarak o kişinin tüm özelliklerinin iyi olduğunu varsaymak",
+      "Kişiyi sadece ait olduğu gruba göre değerlendirmek",
+      "Bilgiyi kasıtlı olarak değiştirmek",
+      "Kendi hatalarını başkasına yüklemek",
+      "Sadece işine gelen bilgiyi duymak"
+    ],
+    "answer_index": 0,
+    "explanation": "Halo etkisi, tek bir olumlu izlenimin kişinin tüm karakterine genellenmesidir. Olumsuz bir özelliğin genellenmesine ise 'Horns (Boynuz) Etkisi' denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-7-tgd3",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi kamu yönetiminde 'Liyakat' ilkesinin temel amaçlarından biridir?",
+    "options": [
+      "Siyasi bağlılığı ödüllendirmek",
+      "Görevlerin işin ehli olan kişilere verilmesini sağlamak",
+      "Hiyerarşiyi azaltmak",
+      "Kurum içindeki sendikalaşmayı engellemek",
+      "Harcamaları kısıtlamak"
+    ],
+    "answer_index": 1,
+    "explanation": "Liyakat sistemi, kamu hizmetine girmede ve yükselmede bilgi, yetenek ve başarıyı esas alan sistemdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-8-s7az",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel Adalet boyutlarından 'Etkileşimsel Adalet' aşağıdakilerden hangisine odaklanır?",
+    "options": [
+      "Maaşların dağılımına",
+      "Terfi prosedürlerine",
+      "Yöneticinin personele karşı sergilediği nezaket, saygı ve dürüstlüğe",
+      "Bütçe paylarına",
+      "Kurumun vizyonuna"
+    ],
+    "answer_index": 2,
+    "explanation": "Etkileşimsel adalet, kararlar uygulanırken kişilere ne kadar saygılı ve adil davranıldığı (iletişim kalitesi) ile ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfucm7l-9-ymqa",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş tasarımında, çalışanın yaptığı işin kontrolünü, planlamasını ve değerlendirmesini de üstlenerek işin derinliğinin artırılmasına ne ad verilir?",
+    "options": [
+      "İş Genişletme",
+      "İş Zenginleştirme",
+      "İş Rotasyonu",
+      "İş Analizi",
+      "İş Tanımı"
+    ],
+    "answer_index": 1,
+    "explanation": "İş zenginleştirme (Job Enrichment), dikey bir büyümedir; çalışana daha fazla sorumluluk ve özerklik verilmesini ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:44:46.191277+00:00",
+    "updated_at": "2026-08-05T08:44:46.191277+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-0-7g6f",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Mintzberg’in yönetsel roller sınıflandırmasına göre; yöneticinin kurum dışındaki kişi ve kuruluşlarla iletişim kurması, bilgi alışverişinde bulunması ve bir 'bağlantı ağı' oluşturması hangi rol grubuna girer?",
+    "options": [
+      "Karar Alıcı Rolleri",
+      "Bilgi Sağlayıcı Rolleri",
+      "Kişilerarası Roller",
+      "Operasyonel Roller",
+      "Girişimci Rolleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Bağlantı (Liaison) rolü, yöneticinin hem kurum içi hem de kurum dışı çevrelerle ilişkiler geliştirdiği kişilerarası bir roldür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-1-ri1o",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Hem fonksiyonel hem de ürün/proje temelli bölümlendirme yapısının birleştirildiği, çalışanların iki farklı amire (birim müdürü ve proje müdürü) rapor verdiği karmaşık organizasyon yapısı hangisidir?",
+    "options": [
+      "Hiyerarşik Yapı",
+      "Şebeke (Network) Yapısı",
+      "Matris Yapı",
+      "Yatay Yapı",
+      "Fonksiyonel Yapı"
+    ],
+    "answer_index": 2,
+    "explanation": "Matris yapı, uzmanlık alanları ile projeleri birleştirerek esneklik sağlar ancak 'komuta birliği' ilkesini ihlal ettiği için çatışmalara açıktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-10-5gqe",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Elton Mayo ve arkadaşlarının yürüttüğü 'Hawthorne Deneyleri'nin yönetim bilimine en büyük katkısı aşağıdakilerden hangisidir?",
+    "options": [
+      "Maaş artışının tek motivasyon kaynağı olduğunun kanıtlanması",
+      "Fiziksel koşulların verimliliği tek başına belirlediği",
+      "İş yerindeki sosyal ilişkilerin ve 'insan' faktörünün verimlilik üzerindeki etkisinin anlaşılması",
+      "Hiyerarşinin gereksiz olduğunun ortaya çıkması",
+      "Planlamanın öneminin vurgulanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Hawthorne deneyleri, klasik yaklaşımın aksine 'İnsan İlişkileri Yaklaşımı'nın doğmasını sağlamış, çalışanın psikolojik durumunun önemini vurgulamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-11-aakm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Pareto İlkesi (80/20 kuralı) zaman yönetimine uygulandığında aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "İşlerin %80'ini sabah yapmalıyız.",
+      "Zamanımızın %80'ini toplantılara ayırmalıyız.",
+      "Sonuçların %80'i, harcadığımız çabaların %20'sinden kaynaklanır.",
+      "Her gün 80 dakika dinlenmeliyiz.",
+      "Hataların %20'si yönetici kaynaklıdır."
+    ],
+    "answer_index": 2,
+    "explanation": "Pareto ilkesine göre, en önemli %20'lik işlere odaklanmak, toplam başarının %80'ini getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-12-zf0e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların, kurumun hedeflerine ulaşması için resmi iş tanımlarının ötesine geçerek gönüllü olarak yaptıkları olumlu davranışlara (yardımlaşma, kurumu savunma vb.) ne ad verilir?",
+    "options": [
+      "Örgütsel Adalet",
+      "Örgütsel Vatandaşlık Davranışı",
+      "Örgütsel Bağlılık",
+      "İş Tatmini",
+      "Örgütsel Politika"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel vatandaşlık, zorunlu olmadığı halde kurumun sosyal ve psikolojik ortamına katkı sağlayan özverili davranışlardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msfuf2ch-13-13oo",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Daniel Goleman’ın 'Duygusal Zeka' modelinde, kişinin kendi duygularını anlama ve tanıma yeteneğine ne ad verilir?",
+    "options": [
+      "Özbilinç (Özfarkındalık)",
+      "Özyönetim",
+      "Empati",
+      "Sosyal Beceriler",
+      "Motivasyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Özbilinç, kişinin ruh halini, duygularını ve bunların başkaları üzerindeki etkisini anlama yeteneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:46:40.636585+00:00",
+    "updated_at": "2026-08-05T08:46:40.636585+00:00"
+  }
+]
+

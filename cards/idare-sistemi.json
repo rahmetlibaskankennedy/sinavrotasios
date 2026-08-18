@@ -1,0 +1,6 @@
+{
+  "questions": [
+    { "id": "is1", "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?", "options": ["Yerinden yönetim", "Yetki genişliği", "Özerklik", "Federasyon"], "answerIndex": 1 },
+    { "id": "is2", "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?", "options": ["Valilik", "Kaymakamlık", "Belediye", "Bakanlık"], "answerIndex": 2 }
+  ]
+}

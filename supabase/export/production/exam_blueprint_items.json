@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "kadro": "memur",
+    "topic_id": "turkce",
+    "question_count": 6,
+    "sort_order": 1
+  },
+  {
+    "id": 2,
+    "kadro": "memur",
+    "topic_id": "insan-haklari",
+    "question_count": 2,
+    "sort_order": 2
+  },
+  {
+    "id": 3,
+    "kadro": "memur",
+    "topic_id": "idare-sistemi",
+    "question_count": 2,
+    "sort_order": 3
+  },
+  {
+    "id": 4,
+    "kadro": "memur",
+    "topic_id": "protokol",
+    "question_count": 2,
+    "sort_order": 4
+  },
+  {
+    "id": 5,
+    "kadro": "memur",
+    "topic_id": "ataturk",
+    "question_count": 4,
+    "sort_order": 5
+  },
+  {
+    "id": 6,
+    "kadro": "memur",
+    "topic_id": "genel-kultur-diger",
+    "question_count": 5,
+    "sort_order": 6
+  },
+  {
+    "id": 7,
+    "kadro": "memur",
+    "topic_id": "anayasa",
+    "question_count": 6,
+    "sort_order": 7
+  },
+  {
+    "id": 8,
+    "kadro": "memur",
+    "topic_id": "657-kanun",
+    "question_count": 6,
+    "sort_order": 8
+  },
+  {
+    "id": 9,
+    "kadro": "memur",
+    "topic_id": "1739-kanun",
+    "question_count": 6,
+    "sort_order": 9
+  },
+  {
+    "id": 10,
+    "kadro": "memur",
+    "topic_id": "222-kanun",
+    "question_count": 4,
+    "sort_order": 10
+  },
+  {
+    "id": 11,
+    "kadro": "memur",
+    "topic_id": "652-khk",
+    "question_count": 1,
+    "sort_order": 11
+  },
+  {
+    "id": 12,
+    "kadro": "memur",
+    "topic_id": "4982-kanun",
+    "question_count": 3,
+    "sort_order": 12
+  },
+  {
+    "id": 13,
+    "kadro": "memur",
+    "topic_id": "5442-kanun",
+    "question_count": 3,
+    "sort_order": 13
+  },
+  {
+    "id": 14,
+    "kadro": "memur",
+    "topic_id": "bagli-mevzuat-memur",
+    "question_count": 10,
+    "sort_order": 14
+  },
+  {
+    "id": 32,
+    "kadro": "sayman",
+    "topic_id": "turkce",
+    "question_count": 5,
+    "sort_order": 1
+  },
+  {
+    "id": 33,
+    "kadro": "sayman",
+    "topic_id": "yonetim-insan-iliskileri",
+    "question_count": 1,
+    "sort_order": 2
+  },
+  {
+    "id": 34,
+    "kadro": "sayman",
+    "topic_id": "yonetim-liderlik",
+    "question_count": 1,
+    "sort_order": 3
+  },
+  {
+    "id": 35,
+    "kadro": "sayman",
+    "topic_id": "insan-haklari",
+    "question_count": 1,
+    "sort_order": 4
+  },
+  {
+    "id": 36,
+    "kadro": "sayman",
+    "topic_id": "yonetimde-etik",
+    "question_count": 1,
+    "sort_order": 5
+  },
+  {
+    "id": 37,
+    "kadro": "sayman",
+    "topic_id": "idare-sistemi",
+    "question_count": 1,
+    "sort_order": 6
+  },
+  {
+    "id": 38,
+    "kadro": "sayman",
+    "topic_id": "protokol",
+    "question_count": 1,
+    "sort_order": 7
+  },
+  {
+    "id": 39,
+    "kadro": "sayman",
+    "topic_id": "ataturk",
+    "question_count": 2,
+    "sort_order": 8
+  },
+  {
+    "id": 40,
+    "kadro": "sayman",
+    "topic_id": "genel-kultur-diger",
+    "question_count": 4,
+    "sort_order": 9
+  },
+  {
+    "id": 41,
+    "kadro": "sayman",
+    "topic_id": "anayasa",
+    "question_count": 3,
+    "sort_order": 10
+  },
+  {
+    "id": 42,
+    "kadro": "sayman",
+    "topic_id": "657-kanun",
+    "question_count": 2,
+    "sort_order": 11
+  },
+  {
+    "id": 43,
+    "kadro": "sayman",
+    "topic_id": "1739-kanun",
+    "question_count": 2,
+    "sort_order": 12
+  },
+  {
+    "id": 44,
+    "kadro": "sayman",
+    "topic_id": "222-kanun",
+    "question_count": 2,
+    "sort_order": 13
+  },
+  {
+    "id": 45,
+    "kadro": "sayman",
+    "topic_id": "652-khk",
+    "question_count": 1,
+    "sort_order": 14
+  },
+  {
+    "id": 46,
+    "kadro": "sayman",
+    "topic_id": "4483-kanun",
+    "question_count": 2,
+    "sort_order": 15
+  },
+  {
+    "id": 47,
+    "kadro": "sayman",
+    "topic_id": "5018-kanun",
+    "question_count": 7,
+    "sort_order": 16
+  },
+  {
+    "id": 48,
+    "kadro": "sayman",
+    "topic_id": "2886-kanun",
+    "question_count": 6,
+    "sort_order": 17
+  },
+  {
+    "id": 49,
+    "kadro": "sayman",
+    "topic_id": "4734-kanun",
+    "question_count": 6,
+    "sort_order": 18
+  },
+  {
+    "id": 50,
+    "kadro": "sayman",
+    "topic_id": "4735-kanun",
+    "question_count": 6,
+    "sort_order": 19
+  },
+  {
+    "id": 51,
+    "kadro": "sayman",
+    "topic_id": "4982-kanun",
+    "question_count": 1,
+    "sort_order": 20
+  },
+  {
+    "id": 52,
+    "kadro": "sayman",
+    "topic_id": "5442-kanun",
+    "question_count": 1,
+    "sort_order": 21
+  },
+  {
+    "id": 53,
+    "kadro": "sayman",
+    "topic_id": "4688-kanun",
+    "question_count": 2,
+    "sort_order": 22
+  },
+  {
+    "id": 54,
+    "kadro": "sayman",
+    "topic_id": "5580-kanun",
+    "question_count": 2,
+    "sort_order": 23
+  },
+  {
+    "id": 15,
+    "kadro": "sef",
+    "topic_id": "turkce",
+    "question_count": 6,
+    "sort_order": 1
+  },
+  {
+    "id": 16,
+    "kadro": "sef",
+    "topic_id": "yonetim-insan-iliskileri",
+    "question_count": 2,
+    "sort_order": 2
+  },
+  {
+    "id": 17,
+    "kadro": "sef",
+    "topic_id": "yonetim-liderlik",
+    "question_count": 3,
+    "sort_order": 3
+  },
+  {
+    "id": 18,
+    "kadro": "sef",
+    "topic_id": "insan-haklari",
+    "question_count": 1,
+    "sort_order": 4
+  },
+  {
+    "id": 19,
+    "kadro": "sef",
+    "topic_id": "yonetimde-etik",
+    "question_count": 1,
+    "sort_order": 5
+  },
+  {
+    "id": 20,
+    "kadro": "sef",
+    "topic_id": "idare-sistemi",
+    "question_count": 2,
+    "sort_order": 6
+  },
+  {
+    "id": 21,
+    "kadro": "sef",
+    "topic_id": "protokol",
+    "question_count": 1,
+    "sort_order": 7
+  },
+  {
+    "id": 22,
+    "kadro": "sef",
+    "topic_id": "ataturk",
+    "question_count": 2,
+    "sort_order": 8
+  },
+  {
+    "id": 23,
+    "kadro": "sef",
+    "topic_id": "genel-kultur-diger",
+    "question_count": 5,
+    "sort_order": 9
+  },
+  {
+    "id": 24,
+    "kadro": "sef",
+    "topic_id": "anayasa",
+    "question_count": 6,
+    "sort_order": 10
+  },
+  {
+    "id": 25,
+    "kadro": "sef",
+    "topic_id": "657-kanun",
+    "question_count": 5,
+    "sort_order": 11
+  },
+  {
+    "id": 26,
+    "kadro": "sef",
+    "topic_id": "1739-kanun",
+    "question_count": 4,
+    "sort_order": 12
+  },
+  {
+    "id": 27,
+    "kadro": "sef",
+    "topic_id": "222-kanun",
+    "question_count": 4,
+    "sort_order": 13
+  },
+  {
+    "id": 28,
+    "kadro": "sef",
+    "topic_id": "652-khk",
+    "question_count": 1,
+    "sort_order": 14
+  },
+  {
+    "id": 29,
+    "kadro": "sef",
+    "topic_id": "4982-kanun",
+    "question_count": 2,
+    "sort_order": 15
+  },
+  {
+    "id": 30,
+    "kadro": "sef",
+    "topic_id": "5442-kanun",
+    "question_count": 3,
+    "sort_order": 16
+  },
+  {
+    "id": 31,
+    "kadro": "sef",
+    "topic_id": "bagli-mevzuat-sef",
+    "question_count": 12,
+    "sort_order": 17
+  },
+  {
+    "id": 55,
+    "kadro": "sube-mudur",
+    "topic_id": "turkce",
+    "question_count": 5,
+    "sort_order": 1
+  },
+  {
+    "id": 56,
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-insan-iliskileri",
+    "question_count": 2,
+    "sort_order": 2
+  },
+  {
+    "id": 57,
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-liderlik",
+    "question_count": 3,
+    "sort_order": 3
+  },
+  {
+    "id": 58,
+    "kadro": "sube-mudur",
+    "topic_id": "insan-haklari",
+    "question_count": 1,
+    "sort_order": 4
+  },
+  {
+    "id": 59,
+    "kadro": "sube-mudur",
+    "topic_id": "yonetimde-etik",
+    "question_count": 1,
+    "sort_order": 5
+  },
+  {
+    "id": 60,
+    "kadro": "sube-mudur",
+    "topic_id": "idare-sistemi",
+    "question_count": 2,
+    "sort_order": 6
+  },
+  {
+    "id": 61,
+    "kadro": "sube-mudur",
+    "topic_id": "protokol",
+    "question_count": 1,
+    "sort_order": 7
+  },
+  {
+    "id": 62,
+    "kadro": "sube-mudur",
+    "topic_id": "ataturk",
+    "question_count": 2,
+    "sort_order": 8
+  },
+  {
+    "id": 63,
+    "kadro": "sube-mudur",
+    "topic_id": "genel-kultur-diger",
+    "question_count": 5,
+    "sort_order": 9
+  },
+  {
+    "id": 64,
+    "kadro": "sube-mudur",
+    "topic_id": "anayasa",
+    "question_count": 5,
+    "sort_order": 10
+  },
+  {
+    "id": 65,
+    "kadro": "sube-mudur",
+    "topic_id": "657-kanun",
+    "question_count": 4,
+    "sort_order": 11
+  },
+  {
+    "id": 66,
+    "kadro": "sube-mudur",
+    "topic_id": "1739-kanun",
+    "question_count": 4,
+    "sort_order": 12
+  },
+  {
+    "id": 67,
+    "kadro": "sube-mudur",
+    "topic_id": "222-kanun",
+    "question_count": 4,
+    "sort_order": 13
+  },
+  {
+    "id": 68,
+    "kadro": "sube-mudur",
+    "topic_id": "652-khk",
+    "question_count": 1,
+    "sort_order": 14
+  },
+  {
+    "id": 69,
+    "kadro": "sube-mudur",
+    "topic_id": "4483-kanun",
+    "question_count": 2,
+    "sort_order": 15
+  },
+  {
+    "id": 70,
+    "kadro": "sube-mudur",
+    "topic_id": "5018-kanun",
+    "question_count": 3,
+    "sort_order": 16
+  },
+  {
+    "id": 71,
+    "kadro": "sube-mudur",
+    "topic_id": "2886-kanun",
+    "question_count": 2,
+    "sort_order": 17
+  },
+  {
+    "id": 72,
+    "kadro": "sube-mudur",
+    "topic_id": "4734-kanun",
+    "question_count": 2,
+    "sort_order": 18
+  },
+  {
+    "id": 73,
+    "kadro": "sube-mudur",
+    "topic_id": "4735-kanun",
+    "question_count": 1,
+    "sort_order": 19
+  },
+  {
+    "id": 74,
+    "kadro": "sube-mudur",
+    "topic_id": "4982-kanun",
+    "question_count": 1,
+    "sort_order": 20
+  },
+  {
+    "id": 75,
+    "kadro": "sube-mudur",
+    "topic_id": "5442-kanun",
+    "question_count": 3,
+    "sort_order": 21
+  },
+  {
+    "id": 76,
+    "kadro": "sube-mudur",
+    "topic_id": "4688-kanun",
+    "question_count": 3,
+    "sort_order": 22
+  },
+  {
+    "id": 77,
+    "kadro": "sube-mudur",
+    "topic_id": "5580-kanun",
+    "question_count": 3,
+    "sort_order": 23
+  }
+]
+

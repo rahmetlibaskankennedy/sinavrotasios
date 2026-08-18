@@ -1,0 +1,113 @@
+[
+  {
+    "id": "4483-sayili-kanun",
+    "title": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/4483.json"
+  },
+  {
+    "id": "4982-sayili-kanun",
+    "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/4982.json"
+  },
+  {
+    "id": "5442-sayili-kanun",
+    "title": "5442 Sayılı İl İdaresi Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/5442.json"
+  },
+  {
+    "id": "657-sayili-kanun",
+    "title": "657 Sayılı Devlet Memurları Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/657.json"
+  },
+  {
+    "id": "anayasa",
+    "title": "T.C. Anayasası",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/anayasa.json"
+  },
+  {
+    "id": "ataturk",
+    "title": "Atatürk İlkeleri ve İnkılap Tarihi",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/ataturk.json"
+  },
+  {
+    "id": "genel-kultur",
+    "title": "Genel Kültür",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/genel-kultur.json"
+  },
+  {
+    "id": "idare-sistemi",
+    "title": "Türk İdare Sistemi",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/idare-sistemi.json"
+  },
+  {
+    "id": "insan-haklari",
+    "title": "İnsan Hakları ve Demokrasi",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/insan-haklari.json"
+  },
+  {
+    "id": "protokol",
+    "title": "Protokol Kuralları",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/protokol.json"
+  },
+  {
+    "id": "turkce",
+    "title": "Türkçe Dilbilgisi",
+    "deck_type": "quiz",
+    "category_id": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/turkce.json"
+  }
+]
+

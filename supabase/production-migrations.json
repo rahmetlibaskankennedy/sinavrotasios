@@ -1,0 +1,31 @@
+{
+  "projectRef": "zrlsllbgqrllwgjyqbfv",
+  "capturedAt": "2026-08-15",
+  "strategy": "production-history-mirror-with-reconciled-clean-baseline",
+  "files": [
+    "20260807095409_add_show_in_catalog_to_topics.sql",
+    "20260807202502_protect_profiles_admin_role_columns.sql",
+    "20260807202517_add_missing_performance_indexes.sql",
+    "20260807202536_add_profiles_admin_policies.sql",
+    "20260807203502_create_question_feedback_table.sql",
+    "20260808083609_remove_3071_deck_not_meb_gys_topic.sql",
+    "20260808230006_lock_profiles_sensitive_columns.sql",
+    "20260809081148_protect_privileged_profile_columns.sql",
+    "20260809090533_fix_set_updated_at_search_path.sql",
+    "20260809091749_gate_denemeler_behind_premium.sql",
+    "20260809091755_fix_denemeler_admin_visibility.sql",
+    "20260810064014_drop_stale_protect_admin_trigger.sql",
+    "20260810080949_limit_free_flashcard_preview.sql",
+    "20260810195839_prod_reconciliation_snapshot.sql",
+    "20260811165814_disable_premium_gating.sql",
+    "20260812080845_fix_is_premium_function.sql",
+    "20260812110139_add_progress_optimistic_lock.sql",
+    "20260813185859_enforce_canonical_root_in_free_quota.sql",
+    "20260813202523_harden_feedback_and_function_surface.sql",
+    "20260813203501_optimize_rls_and_foreign_keys.sql",
+    "20260814081802_admin_bypass_on_content_read.sql",
+    "20260815090000_lock_topic_question_counts_view.sql",
+    "20260815090500_harden_get_question_counts.sql",
+    "20260815120000_add_play_billing_schema.sql"
+  ]
+}

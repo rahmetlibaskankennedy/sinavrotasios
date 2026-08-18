@@ -1,0 +1,903 @@
+[
+  {
+    "id": 71,
+    "deck_id": "4483-sayili-kanun",
+    "question": "4483 sayılı Kanun hangi tarihte kabul edilmiştir?",
+    "answer": "2 Aralık 1999",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 72,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Kanun'un amacı nedir?",
+    "answer": "Memurlar ve diğer kamu görevlilerinin görevleri sebebiyle işledikleri suçlardan dolayı yargılanabilmeleri için izin vermeye yetkili mercileri ve izlenecek usulü düzenlemek",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 73,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Kanun'un amacı hangi maddede düzenlenir?",
+    "answer": "Madde 1",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 74,
+    "deck_id": "4483-sayili-kanun",
+    "question": "4483 sayılı Kanun, hangi eski kanunu yürürlükten kaldırmıştır?",
+    "answer": "1913 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 75,
+    "deck_id": "4483-sayili-kanun",
+    "question": "İlçede görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "answer": "Kaymakam",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 76,
+    "deck_id": "4483-sayili-kanun",
+    "question": "İlde görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "answer": "Vali",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 77,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Bakanlık merkez teşkilatındaki memurlar için izin vermeye yetkili merci kimdir?",
+    "answer": "İlgili bakan",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 78,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Yetkili merci, soruşturma izni konusundaki kararını normal şartlarda kaç gün içinde verir?",
+    "answer": "En geç 30 gün içinde",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 79,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Bakanlıklarda soruşturma izni kararı için öngörülen süre kaç gündür?",
+    "answer": "En geç 60 gün",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 80,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Soruşturma izni verilmesi veya verilmemesi kararına karşı nereye itiraz edilir?",
+    "answer": "Yetkili merciin bağlı bulunduğu bölge idare mahkemesine",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 81,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Soruşturma izni kararına itiraz süresi kaç gündür?",
+    "answer": "10 gün",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 82,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Ön inceleme yapmakla görevlendirilen kişi(ler) kimler olabilir?",
+    "answer": "Denetim elemanları veya hakkında inceleme yapılanın üstü konumundaki memurlar",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 83,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Kanun kapsamında memurlar dışında kimler de yer alır?",
+    "answer": "Diğer kamu görevlileri",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 84,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Kanun, hangi tür suçlarla ilgili yargılanma usulünü düzenler?",
+    "answer": "Görevleri sebebiyle işlenen suçlar",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 85,
+    "deck_id": "4483-sayili-kanun",
+    "question": "İzin vermeye yetkili merciin kararı kimlere bildirilir?",
+    "answer": "Hakkında inceleme yapılan memura, varsa şikayetçiye ve Cumhuriyet başsavcılığına",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 86,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Zamanaşımı süreleri işlemeye devam eder mi, yoksa durur mu?",
+    "answer": "Soruşturma izni sürecinde zamanaşımı işlemeye devam eder",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 87,
+    "deck_id": "4483-sayili-kanun",
+    "question": "Kanun kapsamı dışında tutulan bazı suçlar var mıdır?",
+    "answer": "Evet, bazı ağır suçlar (örneğin bazı Ceza Kanunu'nda sayılan suçlar) kanun kapsamı dışında tutulmuştur",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 88,
+    "deck_id": "4483-sayili-kanun",
+    "question": "4483 sayılı Kanun kaç maddeden oluşur?",
+    "answer": "17 madde (ek ve geçici maddelerle birlikte)",
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 106,
+    "deck_id": "4982-sayili-kanun",
+    "question": "4982 sayılı Bilgi Edinme Hakkı Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "9 Ekim 2003",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 107,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kanun'un amacı hangi maddede düzenlenir?",
+    "answer": "Madde 1",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 108,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kanun'un amacı nedir?",
+    "answer": "Demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun şekilde bilgi edinme hakkını düzenlemek",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 109,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusu ne şekilde yapılabilir?",
+    "answer": "Yazılı olarak veya elektronik ortamda ya da diğer iletişim araçlarıyla",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 110,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum ve kuruluşlar başvurulara normal şartlarda en geç kaç iş günü içinde cevap verir?",
+    "answer": "En geç 15 iş günü",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 111,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başka bir birimden görüş alınmasını gerektiren başvurularda cevap süresi ne kadardır?",
+    "answer": "En geç 30 iş günü",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 112,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusunun reddi hangi hallerde mümkündür?",
+    "answer": "Devlet sırrı, ticari sır, özel hayatın gizliliği gibi istisnalar kapsamına giren bilgiler için",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 113,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başvurusu reddedilen kişi hangi kurula itiraz edebilir?",
+    "answer": "Bilgi Edinme Değerlendirme Kurulu'na",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 114,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?",
+    "answer": "9 üye",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 115,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme hakkı kimlere tanınmıştır?",
+    "answer": "Bilgi edinme hakkı; gerçek ve tüzel kişilere (Türk vatandaşları, Türkiye'de ikamet eden yabancılar ve karşılıklılık ilkesi çerçevesinde yabancı gerçek/tüzel kişiler) tanınmıştır",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 116,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Devlet sırrı niteliğindeki bilgiler kanun kapsamında mıdır?",
+    "answer": "Hayır, istisna kapsamındadır ve verilmez",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 117,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum içi düzenlemeler niteliğindeki bilgi ve belgeler kanun kapsamında mıdır?",
+    "answer": "Kurum içi düzenleme niteliğindeki ve sadece kurum personelini ilgilendiren belgeler istisna kapsamındadır",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 118,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başvuru dilekçesinde hangi bilgiler bulunmalıdır?",
+    "answer": "Başvuranın adı-soyadı, imzası, oturma yeri veya iş adresi, başvurulan kurum ve istenen bilgi/belgenin açık şekilde belirtilmesi",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 119,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusunda bulunmak için herhangi bir gerekçe gösterme zorunluluğu var mıdır?",
+    "answer": "Hayır, gerekçe gösterme zorunluluğu yoktur",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 89,
+    "deck_id": "5442-sayili-kanun",
+    "question": "5442 sayılı İl İdaresi Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "10 Haziran 1949",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 90,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kanun'un 1. maddesi neyi düzenler?",
+    "answer": "Türkiye'nin merkezi idare kuruluşu bakımından illere, illerin de ilçelere bölünmesini",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 91,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bir ilin sınırlarının değiştirilmesi nasıl yapılır?",
+    "answer": "Kanunla",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 92,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl idaresinin başında kim bulunur?",
+    "answer": "Vali",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 93,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali'nin hukuki konumu nedir?",
+    "answer": "İlin ve ilin merkez ilçesinin en büyük mülki amiri, hükümetin ve ayrı ayrı her bakanlığın temsilcisi",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 94,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali hangi makam tarafından atanır?",
+    "answer": "Cumhurbaşkanı kararıyla",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 95,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçe idaresinin başında kim bulunur?",
+    "answer": "Kaymakam",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 96,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam kimin emrindedir?",
+    "answer": "Valinin",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 97,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak nedir?",
+    "answer": "İlçelerin, coğrafya durumu ve iş hacmi bakımından ayrıldığı idari birimlerden biri",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 98,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl idare şube başkanları kimlere denir?",
+    "answer": "İl müdürleri (bakanlıkların illerdeki teşkilat başkanları)",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 99,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl İdare Kurulu kimlerden oluşur?",
+    "answer": "Vali başkanlığında, hukuk işleri müdürü, defterdar ve il idare şube başkanlarından",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 100,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali'nin genel olarak sahip olduğu yetki türü nedir?",
+    "answer": "Hem genel idare hem de mahalli idareler üzerinde idari vesayet yetkisi",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 101,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl genel idaresi ile ilgili kararlar nasıl alınır?",
+    "answer": "Vali başkanlığında toplanan il idare kurulunca",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 102,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Olağanüstü hallerde valinin yetkileri nasıl değişir?",
+    "answer": "Kanunlarla kendisine verilen ek yetkileri kullanabilir (örn. kamu düzeni, güvenlik tedbirleri)",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 103,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçelerin kurulması, kaldırılması veya birleştirilmesi nasıl olur?",
+    "answer": "Kanunla",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 104,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali, ilçe kaymakamları üzerinde ne tür bir yetkiye sahiptir?",
+    "answer": "Hiyerarşik amirlik ve denetim yetkisi",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 105,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kanun'da illerin idaresi hangi ilkeye dayanır?",
+    "answer": "Yetki genişliği ve idarenin bütünlüğü ilkesi",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 41,
+    "deck_id": "657-sayili-kanun",
+    "question": "657 sayılı Devlet Memurları Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "14 Temmuz 1965",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 42,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kanun'un amacı hangi maddede düzenlenir?",
+    "answer": "Madde 1",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 43,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kanun'un temel ilkeleri (sınıflandırma, kariyer, liyakat) hangi maddede sayılır?",
+    "answer": "Madde 3",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 44,
+    "deck_id": "657-sayili-kanun",
+    "question": "Devlet memurluğuna alınacaklarda aranan genel şartlar hangi maddede düzenlenir?",
+    "answer": "Madde 48",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 45,
+    "deck_id": "657-sayili-kanun",
+    "question": "Devlet memuru olabilmek için gereken asgari yaş kaçtır?",
+    "answer": "18 yaşını tamamlamış olmak",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 46,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların hizmet sınıfları kaç tanedir?",
+    "answer": "10 hizmet sınıfı",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 47,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmet sınıfları hangi maddede sayılır?",
+    "answer": "Madde 36",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 48,
+    "deck_id": "657-sayili-kanun",
+    "question": "Aday memurluk süresi ne kadardır?",
+    "answer": "En az 1 yıl, en çok 2 yıl",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 49,
+    "deck_id": "657-sayili-kanun",
+    "question": "Aday memurluk hangi maddede düzenlenir?",
+    "answer": "Madde 54",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 50,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların haftalık çalışma süresi kaç saattir?",
+    "answer": "40 saat",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 51,
+    "deck_id": "657-sayili-kanun",
+    "question": "Çalışma saatleri hangi maddede düzenlenir?",
+    "answer": "Madde 99",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 52,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmeti 1-10 yıl arası olan memura yıllık kaç gün izin verilir?",
+    "answer": "20 gün",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 53,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmeti 10 yıldan fazla olan memura yıllık kaç gün izin verilir?",
+    "answer": "30 gün",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 54,
+    "deck_id": "657-sayili-kanun",
+    "question": "Yıllık izin hangi maddede düzenlenir?",
+    "answer": "Madde 102",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 55,
+    "deck_id": "657-sayili-kanun",
+    "question": "Mazeret izni hangi maddede düzenlenir?",
+    "answer": "Madde 104",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 56,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hastalık izni hangi maddede düzenlenir?",
+    "answer": "Madde 105",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 57,
+    "deck_id": "657-sayili-kanun",
+    "question": "Disiplin cezaları kaç türdür?",
+    "answer": "5 tür",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 58,
+    "deck_id": "657-sayili-kanun",
+    "question": "Disiplin cezaları hangi maddede sayılır?",
+    "answer": "Madde 125",
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 59,
+    "deck_id": "657-sayili-kanun",
+    "question": "En hafif disiplin cezası hangisidir?",
+    "answer": "Uyarma",
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 60,
+    "deck_id": "657-sayili-kanun",
+    "question": "En ağır disiplin cezası hangisidir?",
+    "answer": "Devlet memurluğundan çıkarma",
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 61,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kademe ilerlemesi hangi maddede düzenlenir?",
+    "answer": "Madde 64",
+    "sort_order": 21,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 62,
+    "deck_id": "657-sayili-kanun",
+    "question": "Derece yükselmesi hangi maddede düzenlenir?",
+    "answer": "Madde 68",
+    "sort_order": 22,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 63,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların ödev ve sorumlulukları hangi bölümde düzenlenir?",
+    "answer": "Kanun'un dördüncü kısmında",
+    "sort_order": 23,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 64,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların tarafsızlığı ve devlete bağlılığı hangi maddede düzenlenir?",
+    "answer": "Madde 7",
+    "sort_order": 24,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 65,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların siyasi partiye üye olması yasak mıdır?",
+    "answer": "Evet, madde 7 uyarınca yasaktır",
+    "sort_order": 25,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 66,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların grev yapması hakkında ne öngörülür?",
+    "answer": "Madde 27 uyarınca grev yasağı vardır",
+    "sort_order": 26,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 67,
+    "deck_id": "657-sayili-kanun",
+    "question": "Emeklilik yaş haddi ile ilgili hüküm hangi maddede yer alır?",
+    "answer": "Madde 98 (yaş haddi 65 olarak belirlenmiştir)",
+    "sort_order": 27,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 68,
+    "deck_id": "657-sayili-kanun",
+    "question": "Sicil ve disiplin amirleri kavramı hangi kısımda düzenlenir?",
+    "answer": "Kanun'un disiplin hükümleri bölümünde",
+    "sort_order": 28,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 69,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurluğun sona erme halleri arasında hangileri sayılır?",
+    "answer": "Çekilme, emeklilik, ölüm, memurluktan çıkarılma gibi haller",
+    "sort_order": 29,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 70,
+    "deck_id": "657-sayili-kanun",
+    "question": "657 sayılı Kanun ilk kez hangi Resmi Gazete'de yayımlanmıştır?",
+    "answer": "23 Temmuz 1965 tarihli Resmi Gazete'de",
+    "sort_order": 30,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 1,
+    "deck_id": "anayasa",
+    "question": "1982 Anayasası hangi tarihte halkoylamasıyla kabul edilmiştir?",
+    "answer": "7 Kasım 1982",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 2,
+    "deck_id": "anayasa",
+    "question": "1982 Anayasası'nın kanun numarası kaçtır?",
+    "answer": "2709",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 3,
+    "deck_id": "anayasa",
+    "question": "Anayasa kaç kısımdan oluşur?",
+    "answer": "7 kısım (Başlangıç hariç)",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 4,
+    "deck_id": "anayasa",
+    "question": "Anayasa'nın 2. maddesinde Türkiye Cumhuriyeti nasıl tanımlanır?",
+    "answer": "Toplumun huzuru, millî dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, demokratik, laik ve sosyal bir hukuk devleti",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 5,
+    "deck_id": "anayasa",
+    "question": "Anayasa'nın 3. maddesine göre Türkiye Devleti'nin bütünlüğü nasıldır?",
+    "answer": "Ülkesi ve milletiyle bölünmez bir bütündür; dili Türkçedir",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 6,
+    "deck_id": "anayasa",
+    "question": "Anayasa'nın 4. maddesi hangi maddeleri değiştirilemez ve değiştirilmesi teklif edilemez kabul eder?",
+    "answer": "1, 2 ve 3. maddeler",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 7,
+    "deck_id": "anayasa",
+    "question": "Egemenlik kayıtsız şartsız kime aittir? (Madde 6)",
+    "answer": "Millete",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 8,
+    "deck_id": "anayasa",
+    "question": "Yasama yetkisi kime aittir? (Madde 7)",
+    "answer": "Türk Milleti adına Türkiye Büyük Millet Meclisine",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 9,
+    "deck_id": "anayasa",
+    "question": "Yürütme yetkisi ve görevi kime aittir? (Madde 8)",
+    "answer": "Cumhurbaşkanına",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 10,
+    "deck_id": "anayasa",
+    "question": "Yargı yetkisi kim adına kullanılır? (Madde 9)",
+    "answer": "Türk Milleti adına bağımsız mahkemelerce",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 11,
+    "deck_id": "anayasa",
+    "question": "Madde 10 hangi ilkeyi düzenler?",
+    "answer": "Kanun önünde eşitlik",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 12,
+    "deck_id": "anayasa",
+    "question": "Temel hak ve hürriyetlerin sınırlanması hangi maddede düzenlenir?",
+    "answer": "Madde 13",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 13,
+    "deck_id": "anayasa",
+    "question": "Yaşama hakkı ile kişinin maddi ve manevi varlığı hangi maddede güvence altındadır?",
+    "answer": "Madde 17",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 14,
+    "deck_id": "anayasa",
+    "question": "Zorla çalıştırma yasağı hangi maddede düzenlenir?",
+    "answer": "Madde 18",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 15,
+    "deck_id": "anayasa",
+    "question": "Kişi hürriyeti ve güvenliği hangi maddede düzenlenir?",
+    "answer": "Madde 19",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 16,
+    "deck_id": "anayasa",
+    "question": "Özel hayatın gizliliği hangi maddede düzenlenir?",
+    "answer": "Madde 20",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 17,
+    "deck_id": "anayasa",
+    "question": "Konut dokunulmazlığı hangi maddede düzenlenir?",
+    "answer": "Madde 21",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 18,
+    "deck_id": "anayasa",
+    "question": "Haberleşme hürriyeti hangi maddede düzenlenir?",
+    "answer": "Madde 22",
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 19,
+    "deck_id": "anayasa",
+    "question": "Yerleşme ve seyahat hürriyeti hangi maddede düzenlenir?",
+    "answer": "Madde 23",
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 20,
+    "deck_id": "anayasa",
+    "question": "Din ve vicdan hürriyeti hangi maddede düzenlenir?",
+    "answer": "Madde 24",
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 21,
+    "deck_id": "anayasa",
+    "question": "Düşünce ve kanaat hürriyeti hangi maddede düzenlenir?",
+    "answer": "Madde 25",
+    "sort_order": 21,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  }
+]
+

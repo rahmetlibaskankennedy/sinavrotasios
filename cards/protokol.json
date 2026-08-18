@@ -1,0 +1,6 @@
+{
+  "questions": [
+    { "id": "pr1", "prompt": "Resmi yazışmalarda üst makama yazılan yazıların bitiriş ifadesi hangisi olmalıdır?", "options": ["Rica ederim", "Arz ve rica ederim", "Arz ederim", "Bilgilerinize sunarım"], "answerIndex": 2 },
+    { "id": "pr2", "prompt": "Protokolde makam arabasında en onur verici (baş) köşe neresidir?", "options": ["Şoför yanı", "Makam şoförünün arkası", "Makam şoförünün çapraz arkası", "Arka orta"], "answerIndex": 2 }
+  ]
+}

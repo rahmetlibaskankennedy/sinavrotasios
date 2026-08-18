@@ -1,0 +1,1603 @@
+[
+  {
+    "id": "1739-01",
+    "topic_id": "law-1739",
+    "prompt": "1739 sayılı Milli Eğitim Temel Kanunu'nun 2. maddesine göre Türk Milli Eğitiminin genel amacı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Atatürk ilke ve inkılaplarına, Atatürk milliyetçiliğine bağlı yurttaşlar yetiştirmek",
+      "Beden, zihin, ahlak, ruh ve duygu bakımından dengeli ve sağlıklı gelişmiş bir kişilik kazandırmak",
+      "Bireyleri yalnızca belirli bir mesleğe yönlendirip diğer alanlara kapatmak",
+      "İlgi, istidat ve kabiliyetlerini geliştirerek hayata ve üst öğrenime hazırlamak"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-02",
+    "topic_id": "law-1739",
+    "prompt": "Kanunun 4. maddesinde düzenlenen 'Genellik ve Eşitlik' ilkesine göre eğitim kurumları kimlere açıktır?",
+    "options": [
+      "Yalnızca Türk vatandaşı erkeklere",
+      "Dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese",
+      "Sadece belirli bir gelir düzeyinin üzerindeki ailelerin çocuklarına",
+      "Yalnızca örgün eğitim çağındaki öğrencilere"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-03",
+    "topic_id": "law-1739",
+    "prompt": "'Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz' hükmü hangi temel ilke ile ilgilidir?",
+    "options": [
+      "Süreklilik",
+      "Genellik ve eşitlik",
+      "Yöneltme",
+      "Bilimsellik"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-04",
+    "topic_id": "law-1739",
+    "prompt": "Fertlerin ilgi, istidat ve kabiliyetlerinin eğitim sürecinde belirlenerek yöneltilmesi hangi temel ilkenin konusudur?",
+    "options": [
+      "Yöneltme",
+      "Fırsat ve imkan eşitliği",
+      "Planlılık",
+      "Karma eğitim"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-05",
+    "topic_id": "law-1739",
+    "prompt": "Milli eğitimde kadın erkek herkese aynı eğitim imkanının sağlanması esas olarak hangi ilkeyle ilgilidir?",
+    "options": [
+      "Fırsat ve imkan eşitliği",
+      "Demokrasi eğitimi",
+      "Süreklilik",
+      "Bilimsellik"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-06",
+    "topic_id": "law-1739",
+    "prompt": "'Fertlerin genel eğitimi belli başlı bir yaş ve devre ile sınırlı olmayıp hayat boyunca devam eder' ifadesi hangi ilkenin özüdür?",
+    "options": [
+      "Süreklilik",
+      "Genellik ve eşitlik",
+      "Yöneltme",
+      "Karma eğitim"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-07",
+    "topic_id": "law-1739",
+    "prompt": "Milli eğitim hizmetinin Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine dayanması hangi ilke kapsamında düzenlenmiştir?",
+    "options": [
+      "Atatürk İnkılap ve İlkeleri, Atatürk Milliyetçiliği",
+      "Laiklik",
+      "Bilimsellik",
+      "Planlılık"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-08",
+    "topic_id": "law-1739",
+    "prompt": "Eğitim sistemimizde 'demokrasi eğitimi' ilkesine göre okullarda öncelikle hangisi kazandırılmaya çalışılır?",
+    "options": [
+      "Yalnızca sınav başarısı",
+      "Toplum yaşayışına aktif katılım ve demokratik değerlere bağlılık bilinci",
+      "Yalnızca ezber bilgi aktarımı",
+      "Sadece mesleki beceriler"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-09",
+    "topic_id": "law-1739",
+    "prompt": "Milli eğitimimizde her derece ve türdeki eğitim müfredat ve ders programlarının, çağdaş bilim ve teknolojinin gereklerine göre sürekli yenileştirilmesi hangi ilkenin gereğidir?",
+    "options": [
+      "Bilimsellik",
+      "Karma eğitim",
+      "Genellik ve eşitlik",
+      "Süreklilik"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-10",
+    "topic_id": "law-1739",
+    "prompt": "Milli eğitim hizmetinin, hedeflere uygun olarak öğretmen, öğrenci, bina ve donatım gibi unsurları göz önünde bulundurularak planlı bir şekilde yürütülmesi hangi ilkeyle açıklanır?",
+    "options": [
+      "Planlılık",
+      "Yöneltme",
+      "Süreklilik",
+      "Fırsat ve imkan eşitliği"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-11",
+    "topic_id": "law-1739",
+    "prompt": "Kanunun 15. maddesine göre kız ve erkek çocuklara aynı eğitim kurumlarında birlikte eğitim verilmesi esası aşağıdakilerden hangisidir?",
+    "options": [
+      "Karma eğitim",
+      "Yöneltme",
+      "Demokrasi eğitimi",
+      "Genellik ve eşitlik"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-12",
+    "topic_id": "law-1739",
+    "prompt": "'Okul ile aile işbirliği' ilkesine göre okulların temel görevlerinden biri nedir?",
+    "options": [
+      "Ailelerin eğitimle ilgili görüş ve isteklerini dikkate almak ve gerekli işbirliğini sağlamak",
+      "Aile ile hiçbir bağlantı kurmamak",
+      "Sadece velilerden mali destek talep etmek",
+      "Öğrenci başarısını sadece okul yönetimine bildirmek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-13",
+    "topic_id": "law-1739",
+    "prompt": "Ülkenin her köşesinde ihtiyaç duyulan eğitim ve öğretim faaliyetlerinin devlet imkanları ölçüsünde götürülmesi hangi ilke ile ilgilidir?",
+    "options": [
+      "Her yerde eğitim",
+      "Süreklilik",
+      "Bilimsellik",
+      "Demokrasi eğitimi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-14",
+    "topic_id": "law-1739",
+    "prompt": "1739 sayılı Kanun'un 18. maddesine göre Türk milli eğitim sistemi kaç ana bölümden oluşur?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-15",
+    "topic_id": "law-1739",
+    "prompt": "Türk milli eğitim sisteminin örgün eğitim bölümü aşağıdaki kurum gruplarından hangisini kapsar?",
+    "options": [
+      "Sadece ilköğretim ve ortaöğretim",
+      "Okul öncesi eğitim, ilköğretim, ortaöğretim ve yükseköğretim kurumları",
+      "Sadece yaygın eğitim kurumları",
+      "Sadece yükseköğretim kurumları"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-16",
+    "topic_id": "law-1739",
+    "prompt": "Örgün eğitim sistemi dışında kalmış veya belli bir eğitim kademesini tamamlamış kişilere yönelik düzenlenen, örgün eğitimin yanında veya dışında yürütülen eğitim faaliyetlerine ne ad verilir?",
+    "options": [
+      "Yaygın eğitim",
+      "Zorunlu eğitim",
+      "Mesleki eğitim",
+      "Uzaktan eğitim"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-17",
+    "topic_id": "law-1739",
+    "prompt": "Kanuna göre resmi, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri hangi makamın denetimine tabidir?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Milli Eğitim Bakanlığı",
+      "Valilik",
+      "Devlet Personel Başkanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-18",
+    "topic_id": "law-1739",
+    "prompt": "1739 sayılı Kanun'a göre bu kanunda sözü geçen yönetmelikler, kanunun yürürlüğe girmesinden itibaren en geç ne kadar sürede çıkarılır?",
+    "options": [
+      "1 ay içinde",
+      "6 ay içinde",
+      "1 yıl içinde",
+      "2 yıl içinde"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-19",
+    "topic_id": "law-1739",
+    "prompt": "1739 sayılı Milli Eğitim Temel Kanunu kabul tarihi ve niteliği bakımından hangi ifadeyle tanımlanır?",
+    "options": [
+      "14/6/1973 tarihli, Türk eğitim sisteminin temel amaç ve ilkelerini belirleyen çerçeve kanundur",
+      "1961 tarihli, sadece ilköğretimi düzenleyen özel bir kanundur",
+      "1982 tarihli, yalnızca yükseköğretimi düzenleyen bir kanundur",
+      "1997 tarihli, sadece zorunlu eğitim süresini belirleyen bir kanundur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "1739-20",
+    "topic_id": "law-1739",
+    "prompt": "Aşağıdakilerden hangisi 1739 sayılı Kanun'un 4-17. maddelerinde sayılan Türk milli eğitiminin temel ilkelerinden biri değildir?",
+    "options": [
+      "Laiklik",
+      "Bilimsellik",
+      "Merkeziyetçilik",
+      "Süreklilik"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-01",
+    "topic_id": "law-222",
+    "prompt": "Okul arsası ve uygulama bahçesi için gerekli toprağı seçen komisyona kim başkanlık eder?",
+    "options": [
+      "Bölge ilköğretim müfettişi veya ilçe eğitim müdürü",
+      "Belediye başkanı",
+      "Okul aile birliği başkanı",
+      "İl genel meclisi başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 34,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-02",
+    "topic_id": "law-222",
+    "prompt": "Okul binalarının yeri belirlenirken aşağıdakilerden hangisi göz önünde bulundurulur?",
+    "options": [
+      "Sağlık, eğitim-öğretim ve ulaşım bakımından elverişlilik",
+      "Yalnızca arsanın piyasa değeri",
+      "Sadece nüfus yoğunluğu",
+      "Yalnızca belediye sınırı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 35,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-03",
+    "topic_id": "law-222",
+    "prompt": "Okul için gerekli toprak tahsis yoluyla sağlanamadığında gerçek veya tüzel kişilere ait arazi hangi koşulla satın alınabilir?",
+    "options": [
+      "Sahiplerinin rızasıyla",
+      "Sadece mahkeme kararıyla",
+      "Herhangi bir onay aranmadan",
+      "Yalnızca belediye kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 36,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-04",
+    "topic_id": "law-222",
+    "prompt": "Her köy okulunun bitişiğinde veya yakınında bulunacak uygulama bahçesi kaç dekardan az ve çok olamaz?",
+    "options": [
+      "1-5 dekar",
+      "2-10 dekar",
+      "5-15 dekar",
+      "10-20 dekar"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 37,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-05",
+    "topic_id": "law-222",
+    "prompt": "Okullar için tahsis, satın alma veya kamulaştırma yoluyla sağlanan toprak ve tesisler kural olarak kimin adına tapuya tescil edilir?",
+    "options": [
+      "Bulundukları yere göre köy veya özel idareler adına",
+      "Yalnızca Millî Eğitim Bakanlığı adına",
+      "Okul müdürü adına",
+      "Her durumda Hazine adına"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 38,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-arsa-06",
+    "topic_id": "law-222",
+    "prompt": "Okulların uygulama bahçesinde hangi dersin uygulaması yapılır?",
+    "options": [
+      "Tarım dersleri",
+      "Müzik dersleri",
+      "Yabancı dil dersleri",
+      "Beden eğitimi dersleri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 39,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-01",
+    "topic_id": "law-222",
+    "prompt": "Özrü nedeniyle okula gidemeyen çocuğun durumu veli, vasi veya aile başkanı tarafından en geç kaç gün içinde okul idaresine bildirilmelidir?",
+    "options": [
+      "Bir gün",
+      "İki gün",
+      "Üç gün",
+      "Beş gün"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 27,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-02",
+    "topic_id": "law-222",
+    "prompt": "Çocuğun mecburi ilköğretim kurumuna düzenli devamını sağlama yükümlülüğü öncelikle kime aittir?",
+    "options": [
+      "Veli, vasi veya aile başkanına",
+      "Sadece sınıf öğretmenine",
+      "Yalnızca okul aile birliğine",
+      "Belediyeye"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 28,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-03",
+    "topic_id": "law-222",
+    "prompt": "Okula devam etmeyen öğrencilerin devamsızlık sebepleri bakımından okul idaresi ve ilköğretim müfettişlerinin görevi nedir?",
+    "options": [
+      "Sebep araştırması yapıp engelleri gidermeye çalışmak",
+      "Öğrenciyi doğrudan kayıttan silmek",
+      "Sadece veliyi aramak",
+      "Her durumda disiplin cezası vermek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 29,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-04",
+    "topic_id": "law-222",
+    "prompt": "Ailede ölüm, yaralanma, düğün veya tarımsal zorunluluk gibi nedenlerle öğrenciye bir yıl içinde en çok kaç gün izin verilebilir?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 30,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-05",
+    "topic_id": "law-222",
+    "prompt": "Hastalık, sel, kar, deprem veya yangın gibi sebeplerle okula gelemeyen öğrenci için hangi işlem uygulanır?",
+    "options": [
+      "Devamsız sayılır",
+      "İzinli sayılır",
+      "Kaydı silinir",
+      "Sınava alınmaz"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 31,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-06",
+    "topic_id": "law-222",
+    "prompt": "İlköğrenim çağında olup mecburi ilköğretim kurumlarına devam etmeyen çocuklar için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Resmî veya özel iş yerlerinde ücretli ya da ücretsiz çalıştırılamazlar",
+      "Sadece yarı zamanlı çalıştırılabilirler",
+      "Yalnızca aile işletmesinde çalışabilirler",
+      "Okul müdürünün izniyle çalıştırılabilirler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 32,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-devam-07",
+    "topic_id": "law-222",
+    "prompt": "Tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye, her gün için verilecek idari para cezası tutarı nedir?",
+    "options": [
+      "5 Türk Lirası",
+      "10 Türk Lirası",
+      "15 Türk Lirası",
+      "50 Türk Lirası"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 33,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-01",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanunda geçen ilköğretim müdürü deyimi hangi deyimle değiştirilmiştir?",
+    "options": [
+      "İlçe eğitim müdürü",
+      "İl millî eğitim müdürü",
+      "Okul müdürü",
+      "Eğitim denetmeni"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 56,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-02",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanunda geçen öğretmenevi deyimi hangi deyimle değiştirilmiştir?",
+    "options": [
+      "Öğretmen lojmanı",
+      "Öğretmen odası",
+      "Eğitim merkezi",
+      "Hizmet binası"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 57,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-03",
+    "topic_id": "law-222",
+    "prompt": "Öğretmen bulunmaması hâlinde geçici öğretmen olarak atanabilecekler için aranan alt yaş sınırı nedir?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 58,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-04",
+    "topic_id": "law-222",
+    "prompt": "Millî Eğitim Bakanlığı, Kanunun yürürlüğe girmesinden itibaren mecburi öğrenim çağındaki öğrencileri tamamen okula kavuşturmak için en geç kaç yıl içinde gerekli hazırlıkları tamamlamakla yükümlü tutulmuştur?",
+    "options": [
+      "5 yıl",
+      "8 yıl",
+      "10 yıl",
+      "15 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 59,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-05",
+    "topic_id": "law-222",
+    "prompt": "Kanunun mali hükümleri hangi tarihte yürürlüğe girer?",
+    "options": [
+      "1 Ocak 1961",
+      "1 Mart 1961",
+      "28 Şubat 1961",
+      "12 Ocak 1961"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 60,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-ek-06",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanunu yürütme görevi kime verilmiştir?",
+    "options": [
+      "Bakanlar Kuruluna",
+      "Millî Eğitim Bakanına",
+      "TBMM Başkanlığına",
+      "Danıştaya"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 61,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-01",
+    "topic_id": "law-222",
+    "prompt": "İlköğretim için Devlet bütçesinden yapılacak yardım, Devlet gelirlerinin en az yüzde kaçı olmalıdır?",
+    "options": [
+      "Yüzde 1",
+      "Yüzde 2",
+      "Yüzde 3",
+      "Yüzde 5"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 45,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-02",
+    "topic_id": "law-222",
+    "prompt": "Özel idare bütçelerine ilköğretim için yıllık gelirlerinin en az yüzde kaçı oranında ödenek konulması öngörülür?",
+    "options": [
+      "Yüzde 10",
+      "Yüzde 15",
+      "Yüzde 20",
+      "Yüzde 25"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 46,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-03",
+    "topic_id": "law-222",
+    "prompt": "Köy bütçelerine, köy okullarına gelir sağlamak üzere genel gelirlerinin en az yüzde kaçı oranında ödenek konulması öngörülmüştür?",
+    "options": [
+      "Yüzde 5",
+      "Yüzde 10",
+      "Yüzde 15",
+      "Yüzde 20"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 47,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-04",
+    "topic_id": "law-222",
+    "prompt": "İlköğretime ayrılan gelir ve ödenekler, kanunda gösterilen giderler dışında başka bir yere sarf edilebilir mi?",
+    "options": [
+      "Evet, okul müdürünün onayıyla",
+      "Evet, valilik kararıyla",
+      "Hayır, başka fasıllara da nakledilemez",
+      "Sadece yaz tatilinde edilebilir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 48,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-05",
+    "topic_id": "law-222",
+    "prompt": "Millî Eğitim Bakanlığı, köy, kasaba ve şehir ilköğretim okulları yapımı hakkında her yıl bütçe kanununa nasıl bir plan ekler?",
+    "options": [
+      "Bir yıllık genel plan",
+      "Üçer yıllık tafsilatlı plan",
+      "On yıllık mali plan",
+      "Sadece il bazlı liste"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 49,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-06",
+    "topic_id": "law-222",
+    "prompt": "İlköğretimin gelirleri ve belirli giderleri, personel masrafları hariç, hangi mali yükümlülüklerden muaftır?",
+    "options": [
+      "Her türlü resim ve vergiden",
+      "Sadece emlak vergisinden",
+      "Sadece motorlu taşıtlar vergisinden",
+      "Hiçbir mali yükümlülükten"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 50,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gelir-07",
+    "topic_id": "law-222",
+    "prompt": "Belirli okul yapım, donatım ve planlama işleri için Millî Eğitim veya Bayındırlık Bakanlıkları en çok kaç yıla kadar gelecek yıllara geçici yüklenmeye girebilir?",
+    "options": [
+      "Bir yıl",
+      "İki yıl",
+      "Üç yıl",
+      "Beş yıl"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 51,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-genel-01",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanuna göre ilköğretim, kadın ve erkek bütün Türklerin hangi gelişimlerine hizmet eden temel eğitim ve öğretimdir?",
+    "options": [
+      "Bedeni, zihni ve ahlaki gelişmelerine",
+      "Sadece mesleki gelişimlerine",
+      "Yalnızca ekonomik gelişimlerine",
+      "Yükseköğretime hazırlanmalarına"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-genel-02",
+    "topic_id": "law-222",
+    "prompt": "İlköğretimle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Öğrenim çağındaki çocuklar için isteğe bağlıdır",
+      "Devlet okullarında ücretlidir",
+      "Öğrenim çağındaki kız ve erkek çocuklar için mecburi, Devlet okullarında parasızdır",
+      "Yalnızca yatılı okullarda verilir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-genel-03",
+    "topic_id": "law-222",
+    "prompt": "Mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+    "options": [
+      "5-12 yaş",
+      "6-14 yaş",
+      "7-15 yaş",
+      "6-16 yaş"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-genel-04",
+    "topic_id": "law-222",
+    "prompt": "İlkokul birinci sınıfa kayıt için çocuğun ilgili yılın 31 Aralık tarihinde kaç ayını doldurmuş olması esastır?",
+    "options": [
+      "60 ay",
+      "66 ay",
+      "69 ay",
+      "72 ay"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-genel-05",
+    "topic_id": "law-222",
+    "prompt": "Mecburi öğretim çağında olup okul bulunmaması veya sağlık durumu nedeniyle okula devam edemeyen ve özel öğretim gören vatandaşlar için hangi yol öngörülmüştür?",
+    "options": [
+      "Doğrudan öğrenimden muaf tutulmaları",
+      "İmtihanla ve yaşlarına göre uygun sınıf veya mezuniyet imtihanına alınmaları",
+      "Sadece açık öğretime kaydedilmeleri",
+      "Bir sonraki öğretim yılını beklemeleri"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gorevli-01",
+    "topic_id": "law-222",
+    "prompt": "Aşağıdakilerden hangisi ilköğretim kurumlarında bulunabilecek görevlilerden biri değildir?",
+    "options": [
+      "Rehberlik uzmanı",
+      "Müdür yardımcısı",
+      "Noter",
+      "Gezici öğretmen"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gorevli-02",
+    "topic_id": "law-222",
+    "prompt": "İlköğretim kurumlarındaki görevlilerin nitelikleri, görev ve yetkileri ile atanma esasları neyle tespit edilir?",
+    "options": [
+      "Yönetmelikle",
+      "Sadece okul aile birliği kararıyla",
+      "Muhtarlık genelgesiyle",
+      "Her okulun kendi iç yönergesiyle"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-gorevli-03",
+    "topic_id": "law-222",
+    "prompt": "Kanuna göre öğretmenler grubu içinde aşağıdakilerden hangisi sayılmıştır?",
+    "options": [
+      "Sadece sınıf öğretmenleri",
+      "Sadece branş öğretmenleri",
+      "Sınıf, branş, okul öncesi, özel eğitim ve gezici öğretmenler ile usta öğreticiler",
+      "Yalnızca rehberlik uzmanları"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-01",
+    "topic_id": "law-222",
+    "prompt": "Her çocuk mecburi ilköğretim çağına girdiği öğretim yılı başında hangi işleme tabi tutulur?",
+    "options": [
+      "İlköğretim okuluna kayıt ve kabule",
+      "Yalnızca seviye tespitine",
+      "Ortaokula nakle",
+      "Açık öğretime kayda"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-02",
+    "topic_id": "law-222",
+    "prompt": "Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretimi bitiremeyen çocuklara en çok kaç öğretim yılı daha devam izni verilebilir?",
+    "options": [
+      "Bir",
+      "İki",
+      "Üç",
+      "Dört"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 21,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-03",
+    "topic_id": "law-222",
+    "prompt": "Bir öğretim yılı hangi tarihler arasındaki süreyi ifade eder?",
+    "options": [
+      "1 Ocak ile 31 Aralık arasını",
+      "Derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadar olan süreyi",
+      "Sadece iki yarıyıl tatili arasındaki süreyi",
+      "Yalnızca derslerin fiilen işlendiği günleri"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 22,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-04",
+    "topic_id": "law-222",
+    "prompt": "Muhtarlar, mecburi öğrenim çağındaki çocuklara ilişkin çizelgeyi dersler başlamadan en az kaç gün önce hazırlar?",
+    "options": [
+      "7",
+      "10",
+      "15",
+      "30"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 23,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-05",
+    "topic_id": "law-222",
+    "prompt": "Madde 48'de öngörülen çizelge kaç nüsha hazırlanır?",
+    "options": [
+      "Bir",
+      "İki",
+      "Üç",
+      "Dört"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 24,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-06",
+    "topic_id": "law-222",
+    "prompt": "Nüfus cüzdanı olmayan veya nüfus kaydı yapılmamış çocukların yaşlarının tespitinde kim görevlidir?",
+    "options": [
+      "İhtiyar kurulları",
+      "Sadece okul müdürü",
+      "İlçe belediyesi",
+      "Nüfus müdürlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 25,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kayit-07",
+    "topic_id": "law-222",
+    "prompt": "Birleştirilmiş sınıflar da dahil olmak üzere bir öğretmene düşen öğrenci sayısı en fazla kaç olabilir?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 26,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kurul-01",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanunda İlköğretim Kurulları başlığı altında yer alan Madde 26'nın güncel hukuki durumu nedir?",
+    "options": [
+      "Yürürlüktedir",
+      "Mülgadır",
+      "Geçici maddedir",
+      "Yönetmeliğe dönüştürülmüştür"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-kurul-02",
+    "topic_id": "law-222",
+    "prompt": "Bir kanun maddesinin mülga olması ne anlama gelir?",
+    "options": [
+      "Maddenin uygulama alanının genişletilmesi",
+      "Maddenin yürürlükten kaldırılması",
+      "Maddenin geçici olarak askıya alınması",
+      "Maddenin yalnızca köylerde uygulanması"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-tatiller-01",
+    "topic_id": "law-222",
+    "prompt": "İlköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları hangi usulle düzenlenir?",
+    "options": [
+      "Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle",
+      "Her okulun öğretmenler kurulunca",
+      "İlçe belediye meclisince",
+      "Sadece valilik kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-tatiller-02",
+    "topic_id": "law-222",
+    "prompt": "İlköğretim okullarında yaz tatili genel olarak hangi dönem arasındadır?",
+    "options": [
+      "Yarıyıl tatilinden ikinci döneme kadar",
+      "Sınavların bitiminden yeni öğretim yılının başına kadar",
+      "Eylül ayının ilk haftasından sonuna kadar",
+      "Yalnızca Ramazan Bayramı süresince"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-tatiller-03",
+    "topic_id": "law-222",
+    "prompt": "Güncel metinde Madde 45 için hangi ifade doğrudur?",
+    "options": [
+      "Mülgadır",
+      "Yalnızca yaz tatilini düzenler",
+      "Öğretmen atamalarını düzenler",
+      "Okul ücretlerini düzenler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-01",
+    "topic_id": "law-222",
+    "prompt": "Aşağıdakilerden hangisi 222 sayılı Kanuna göre isteğe bağlı ilköğretim kurumları arasında yer alır?",
+    "options": [
+      "Okul öncesi eğitim kurumları",
+      "Gezici ilköğretim okulları",
+      "Özel eğitime muhtaç çocuklar için kurulan okullar",
+      "Yatılı ilköğretim okulları"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-02",
+    "topic_id": "law-222",
+    "prompt": "Aşağıdakilerden hangisi mecburi ilköğretim kurumlarından biridir?",
+    "options": [
+      "Yalnızca okul öncesi eğitim kurumları",
+      "Özel eğitime muhtaç çocuklar için kurulacak okul ve sınıflar",
+      "Sadece yaz kursları",
+      "Yalnızca yetişkin kursları"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-03",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı Kanuna göre ilköğretim hangi iki zorunlu okul kademesinden oluşur?",
+    "options": [
+      "Üç yıllık ilkokul ve beş yıllık ortaokul",
+      "Dört yıllık ilkokul ve dört yıllık ortaokul",
+      "Beş yıllık ilkokul ve üç yıllık lise",
+      "İki yıllık okul öncesi ve altı yıllık ilkokul"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-04",
+    "topic_id": "law-222",
+    "prompt": "İlkokul ve ortaokulların kuruluşuna ilişkin temel yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      "Yalnızca aynı binada kurulabilir",
+      "Sadece köylerde ayrı kurulabilir",
+      "Bağımsız okullar hâlinde kurulmaları esastır",
+      "Yalnızca yatılı olarak kurulabilir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-05",
+    "topic_id": "law-222",
+    "prompt": "Yetiştirici ve tamamlayıcı sınıf ve kursların temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Yükseköğretim kontenjanı belirlemek",
+      "Zamanında öğrenim göremeyen çocuklara kısa yoldan ilköğrenim vermek",
+      "Sadece öğretmenlere hizmet içi eğitim vermek",
+      "Okul binalarının bakımını yürütmek"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-teskilat-06",
+    "topic_id": "law-222",
+    "prompt": "Mecburi ilköğrenim çağındaki engelli çocuklar bakımından kanunun yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Özel eğitim ve öğretim görmeleri sağlanır",
+      "Yalnızca evde eğitim alabilirler",
+      "Okula kayıtları ertelenir",
+      "İlköğretim hükümlerinden muaftırlar"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-turlu-01",
+    "topic_id": "law-222",
+    "prompt": "Köylerde bu kanunla ilgili çeşitli hizmetler hangi kanunla mecburi sayılan işlerdendir?",
+    "options": [
+      "Köy Kanunu",
+      "Belediye Kanunu",
+      "İl İdaresi Kanunu",
+      "Devlet Memurları Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 52,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-turlu-02",
+    "topic_id": "law-222",
+    "prompt": "Mecburi ilköğretim kurumlarına kayıt olacak veya devam eden öğrencilere verilecek belgeler bakımından hangi ifade doğrudur?",
+    "options": [
+      "Damga Resmine tabi değildir",
+      "Sadece noter onayıyla geçerlidir",
+      "Her belge için harç alınır",
+      "Yalnızca e-belge düzenlenebilir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 53,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-turlu-03",
+    "topic_id": "law-222",
+    "prompt": "Köylerde bulunan öğretmen konutları öğretmenlere nasıl tahsis edilir?",
+    "options": [
+      "Parasız olarak",
+      "Rayicin yarısı bedelle",
+      "Sadece lojman sırası gelince",
+      "Yalnızca yaz aylarında"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 54,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-turlu-04",
+    "topic_id": "law-222",
+    "prompt": "Madde 89'un düzenleme alanı aşağıdakilerden hangisidir?",
+    "options": [
+      "Bazı önceki kanun hükümlerinin yürürlükten kaldırılması",
+      "Öğretmen izinleri",
+      "Okul kayıt ücretleri",
+      "Ders yılı süresi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 55,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-yapim-01",
+    "topic_id": "law-222",
+    "prompt": "Köy veya kasaba içinden okul ihtiyaçları için sağlanacak taş, kum ve kireç gibi yapı gereçlerinden hangi mali yük alınmaz?",
+    "options": [
+      "Hiçbir resim",
+      "Yalnızca gelir vergisi",
+      "Yalnızca damga vergisi",
+      "Yalnızca KDV"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 40,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-yapim-02",
+    "topic_id": "law-222",
+    "prompt": "Okul yapımı için gerekli kereste ihtiyacı hangi kurum tarafından en iyi şartlarla ve öncelikle karşılanır?",
+    "options": [
+      "Tarım Bakanlığı Orman Genel Müdürlüğü",
+      "İlçe belediyesi",
+      "Okul aile birliği",
+      "Tapu müdürlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 41,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-yapim-03",
+    "topic_id": "law-222",
+    "prompt": "Devlet İktisadi Teşekküllerinde üretilen yapı malzemeleri, ilgili makamların istemi üzerine nasıl verilir?",
+    "options": [
+      "Diğer isteklere tercihan ve bedeli karşılığında",
+      "Ücretsiz ve önceliksiz",
+      "Yalnızca ihale yoluyla",
+      "Sadece belediyelere"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 42,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-yapim-04",
+    "topic_id": "law-222",
+    "prompt": "Okul yapımı ve donatımı işlerinde yurttaşların yapacağı ayni yardımlar ile nakdi yardımlar için hangi işlem yapılır?",
+    "options": [
+      "Kabul edilir ve değerlendirilir",
+      "Kesinlikle reddedilir",
+      "Sadece nakdi yardımlar kabul edilir",
+      "Yalnızca belediye kararıyla kabul edilir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 43,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "222-yapim-05",
+    "topic_id": "law-222",
+    "prompt": "Güncel 222 sayılı Kanun metninde Madde 69 için hangi ifade doğrudur?",
+    "options": [
+      "Mülgadır",
+      "İlköğretim haftasını düzenler",
+      "Kayıt süresini düzenler",
+      "Öğrenci devamsızlık iznini düzenler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 44,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-01",
+    "topic_id": "2886-kanun",
+    "prompt": "2886 sayılı Kanun temel olarak neyi düzenler?",
+    "options": [
+      "Devlete ait taşınır/taşınmaz malların satım, kira, yapım gibi ihale usullerini",
+      "Sadece personel alımını",
+      "Sadece bütçe hazırlığını",
+      "Sadece vergi tahsilatını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-02",
+    "topic_id": "2886-kanun",
+    "prompt": "Kanun'a göre ihale usullerinden biri değildir?",
+    "options": [
+      "Kapalı teklif usulü",
+      "Açık teklif usulü",
+      "Pazarlık usulü",
+      "Doğrudan atama usulü"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-03",
+    "topic_id": "2886-kanun",
+    "prompt": "İhale komisyonu en az kaç kişiden oluşur?",
+    "options": [
+      "3 kişi",
+      "5 kişi",
+      "7 kişi",
+      "2 kişi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-04",
+    "topic_id": "2886-kanun",
+    "prompt": "Geçici teminat oranı ihale bedelinin genel olarak yüzde kaçıdır?",
+    "options": [
+      "%3",
+      "%1",
+      "%10",
+      "%25"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-05",
+    "topic_id": "2886-kanun",
+    "prompt": "İhaleye katılamayacaklar arasında kimler sayılmaz?",
+    "options": [
+      "İhaleyi yapan idarenin ihale yetkilisi kişiler",
+      "Herkes",
+      "Şirketler",
+      "Vatandaşlar"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-06",
+    "topic_id": "2886-kanun",
+    "prompt": "Kesin teminat oranı genel olarak ihale bedelinin yüzde kaçıdır?",
+    "options": [
+      "%6",
+      "%1",
+      "%15",
+      "%20"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-07",
+    "topic_id": "2886-kanun",
+    "prompt": "İhale kararının onaylanması kaç iş günü içinde yapılmalıdır?",
+    "options": [
+      "15 iş günü",
+      "5 iş günü",
+      "30 iş günü",
+      "3 iş günü"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "2886-kanun-08",
+    "topic_id": "2886-kanun",
+    "prompt": "Kanun kapsamında 'açık eksiltme' hangi tür ihalelerde kullanılabilir?",
+    "options": [
+      "Kanunda belirtilen tür ihalelerde teklif usulü olarak",
+      "Sadece kira ihalelerinde",
+      "Sadece satış ihalelerinde",
+      "Kullanılmaz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-01",
+    "topic_id": "law-4483",
+    "prompt": "4483 sayılı Kanun'un temel amacı nedir?",
+    "options": [
+      "Memurların yargılanmasında izin usulünü düzenlemek",
+      "Memurların maaşlarını belirlemek",
+      "Disiplin cezalarını düzenlemek",
+      "Memur atamalarını düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-02",
+    "topic_id": "law-4483",
+    "prompt": "İlçede görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "İçişleri Bakanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-03",
+    "topic_id": "law-4483",
+    "prompt": "İlde görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Bakan",
+      "Başbakan"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-04",
+    "topic_id": "law-4483",
+    "prompt": "Yetkili merci, soruşturma izni konusundaki kararını kaç gün içinde vermek zorundadır?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-05",
+    "topic_id": "law-4483",
+    "prompt": "Hakkında soruşturma izni verilmeyen memur için itiraz edilebilecek merci neresidir?",
+    "options": [
+      "Danıştay",
+      "Bölge İdare Mahkemesi",
+      "Yargıtay",
+      "Sayıştay"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4483-kanun-06",
+    "topic_id": "law-4483",
+    "prompt": "4483 sayılı Kanun kapsamında ön inceleme yapmakla görevlendirilen kişi kimdir?",
+    "options": [
+      "Müfettiş veya denetime yetkili kişi",
+      "Herhangi bir memur",
+      "Sendika temsilcisi",
+      "Avukat"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4688-kanun-01",
+    "topic_id": "4688-kanun",
+    "prompt": "4688 sayılı Kanun temel olarak neyi düzenler?",
+    "options": [
+      "Kamu görevlilerinin sendika kurma ve toplu sözleşme haklarını",
+      "Sadece işçi sendikalarını",
+      "Sadece grev hakkını",
+      "Sadece maaş zamlarını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4688-kanun-02",
+    "topic_id": "4688-kanun",
+    "prompt": "Kamu görevlileri hangi amaçla sendika kurabilir?",
+    "options": [
+      "Üyelerinin ekonomik, sosyal ve mesleki hak/menfaatlerini korumak ve geliştirmek",
+      "Sadece siyasi faaliyet yürütmek",
+      "Sadece ticari faaliyet yürütmek",
+      "Sadece burs dağıtmak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4688-kanun-03",
+    "topic_id": "4688-kanun",
+    "prompt": "Toplu sözleşme görüşmeleri sonucunda uyuşmazlık halinde başvurulan kurul hangisidir?",
+    "options": [
+      "Kamu Görevlileri Hakem Kurulu",
+      "Yargıtay",
+      "Danıştay",
+      "Sayıştay"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4688-kanun-04",
+    "topic_id": "4688-kanun",
+    "prompt": "Sendika üyeliği kamu görevlisi için nasıldır?",
+    "options": [
+      "İsteğe bağlıdır",
+      "Zorunludur",
+      "Yasaktır",
+      "Sadece yöneticiler için serbesttir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4688-kanun-05",
+    "topic_id": "4688-kanun",
+    "prompt": "Kanun'a göre sendikaların en üst çatı kuruluşu nasıl adlandırılır?",
+    "options": [
+      "Konfederasyon",
+      "Federasyon",
+      "Birlik",
+      "Vakıf"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  }
+]
+

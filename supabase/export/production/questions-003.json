@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "657-01",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun temel ilkeleri hangisinde tam olarak verilmiştir?",
+    "options": [
+      "Eşitlik - Adalet - Tarafsızlık",
+      "Sınıflandırma - Kariyer - Liyakat",
+      "Kıdem - Eğitim - Verimlilik",
+      "Hiyerarşi - Sadakat - Güvence"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-02",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurlarının yaptıkları hizmetler için liyakat ilkesinin esası nedir?",
+    "options": [
+      "Sadece yükseköğrenim mezunu olmak",
+      "Sınıfı içinde en yüksek dereceye kadar yükselme imkanı",
+      "Giriş ve ilerleyişin liyakat sistemine dayandırılması",
+      "Kurum amirinin takdiriyle terfi etmek"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-03",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Kanun'a göre kamu hizmetleri aşağıdaki istihdam şekillerinden hangileri eliyle gördürülür?",
+    "options": [
+      "Memurlar ve İşçiler",
+      "Memurlar, Sözleşmeli Personel ve İşçiler",
+      "Memurlar, Geçici Personel, Sözleşmeli Personel, İşçiler",
+      "Memurlar, Stajyerler ve Taşeronlar"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-04",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Kanun kapsamındaki kurumlar dördüncü maddede sayılan istihdam şekilleri dışında personel çalıştırabilir mi?",
+    "options": [
+      "Kurum amiri onayıyla çalıştırabilir",
+      "Bütçe imkânı varsa çalıştırabilir",
+      "Çalıştıramazlar",
+      "Valilik izniyle çalıştırabilir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-05",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurlarının Anayasa ve kanunlara bağlılık ilkesi neyi ifade eder?",
+    "options": [
+      "Görev saatinde uyumu",
+      "Sadakat ödevini",
+      "Tarafsız kalma hakkını",
+      "Hiyerarşik düzeni"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-06",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurlarının siyasi partilere üye olmalarına ilişkin hüküm hangisidir?",
+    "options": [
+      "Kurum izniyle serbesttir",
+      "Siyasi partilere üye olamazlar",
+      "Görev dışı saatlerde serbesttir",
+      "Sadece yerel partilere üye olabilirler"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-07",
+    "topic_id": "law-657",
+    "prompt": "Devlet memuru amirinden aldığı emri Anayasa veya kanuna aykırı bulursa ne yapmak zorundadır?",
+    "options": [
+      "Emri derhal yerine getirir",
+      "Emri yerine getirmez ve durumu emri verene bildirir",
+      "Polise haber verir",
+      "İstifa eder"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-08",
+    "topic_id": "law-657",
+    "prompt": "Anayasaya veya kanuna aykırı emrin amir tarafından yazılı olarak ısrar edilmesi halinde memur ne yapar?",
+    "options": [
+      "Yine de yapmaz",
+      "Emri yerine getirir ve sorumluluk emri verene ait olur",
+      "Cevap vermez",
+      "Mahkemeye başvurur"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-09",
+    "topic_id": "law-657",
+    "prompt": "Konusu suç teşkil eden emir hakkında memurun tutumu ne olmalıdır?",
+    "options": [
+      "Yazılı verilirse yapılır",
+      "Hiçbir suretle yerine getirilmez",
+      "Amir sorumluluğu alırsa yapılır",
+      "Kısmen yapılır"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-10",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurlarının ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı kapsamında hangisi doğrudur?",
+    "options": [
+      "Anonim şirkette yönetim kurulu üyesi olabilir",
+      "Esnaf veya tüccar sayılacak faaliyetlerde bulunamazlar",
+      "Limited şirket ortağı olamazlar",
+      "Kendi adına dükkan açabilirler"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-11",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurlarının toplu olarak görevden çekilmeleri (grev) yasak mıdır?",
+    "options": [
+      "Serbesttir",
+      "Sendika kararıyla yapılabilir",
+      "Kesinlikle yasaktır",
+      "Yalnızca hafta sonu serbesttir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-12",
+    "topic_id": "law-657",
+    "prompt": "Aşağıdakilerden hangisi devlet memurlarına tanınan genel haklardan biridir?",
+    "options": [
+      "Siyasete atılma hakkı",
+      "Güvenlik ve emeklilik hakkı",
+      "Grev yapma hakkı",
+      "Ticaret yapma hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-13",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Kanuna göre disiplin cezaları kaç grupta toplanır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-14",
+    "topic_id": "law-657",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Kanunda sayılan disiplin cezalarından biri değildir?",
+    "options": [
+      "Uyarma",
+      "Kınama",
+      "Aylıktan kesme",
+      "Sürgün"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-15",
+    "topic_id": "law-657",
+    "prompt": "Memurun görevinde ve davranışlarında daha dikkatli olması gerektiğinin yazı ile bildirilmesi hangi cezadır?",
+    "options": [
+      "Uyarma",
+      "Kınama",
+      "Aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-16",
+    "topic_id": "law-657",
+    "prompt": "Aylıktan kesme cezasında memurun brüt aylığından ne oranda kesinti yapılır?",
+    "options": [
+      "1/10 - 1/5",
+      "1/30 - 1/8",
+      "1/2 - 1/4",
+      "1/50 - 1/100"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-17",
+    "topic_id": "law-657",
+    "prompt": "Savunması alınmadan devlet memuruna disiplin cezası verilebilir mi?",
+    "options": [
+      "Verilebilir",
+      "Verilemez (En az 7 gün süre verilir)",
+      "Kurum amiri isterse verebilir",
+      "Acil durumlarda verilir"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-18",
+    "topic_id": "law-657",
+    "prompt": "Devlet memurluğundan çıkarma cezasını vermeye yetkili organ hangisidir?",
+    "options": [
+      "Disiplin Amiri",
+      "İl Disiplin Kurulu",
+      "Yüksek Disiplin Kurulu",
+      "Valilik"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-19",
+    "topic_id": "law-657",
+    "prompt": "Disiplin cezalarına karşı idari yargı yolu açık mıdır?",
+    "options": [
+      "Açıktır",
+      "Sadece çıkarma cezasına açıktır",
+      "Kapalıdır",
+      "Cumhurbaşkanı kararına bağlıdır"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "657-20",
+    "topic_id": "law-657",
+    "prompt": "Adaylık süresi içinde disiplin cezası alan aday memurların durumu ne olur?",
+    "options": [
+      "Adaylıkları uzatılır",
+      "İlişikleri kesilir",
+      "Cezaları ertelenir",
+      "Maaşları düşürülür"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-01",
+    "topic_id": "law-anayasa",
+    "prompt": "1982 Anayasası'nın kabul tarihi hangisidir?",
+    "options": [
+      "7 Kasım 1982",
+      "9 Eylül 1980",
+      "12 Eylül 1982",
+      "20 Ekim 1981"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-02",
+    "topic_id": "law-anayasa",
+    "prompt": "Anayasa'ya göre Türkiye Devleti'nin şekli nedir?",
+    "options": [
+      "Cumhuriyettir",
+      "Monarşidir",
+      "Federasyondur",
+      "Konfederasyondur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-03",
+    "topic_id": "law-anayasa",
+    "prompt": "Anayasa'nın 'değiştirilemez ve değiştirilmesi teklif dahi edilemez' maddeleri hangi maddededir?",
+    "options": [
+      "Madde 1, 2 ve 3",
+      "Madde 4",
+      "Madde 10",
+      "Madde 11"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-04",
+    "topic_id": "law-anayasa",
+    "prompt": "Kanun önünde eşitlik ilkesi Anayasa'nın hangi maddesinde düzenlenir?",
+    "options": [
+      "Madde 5",
+      "Madde 10",
+      "Madde 12",
+      "Madde 90"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-05",
+    "topic_id": "law-anayasa",
+    "prompt": "Yasama yetkisi Anayasa'ya göre kime aittir?",
+    "options": [
+      "Cumhurbaşkanına",
+      "Türk Milleti adına TBMM'ye",
+      "Bakanlar Kuruluna",
+      "Anayasa Mahkemesine"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-06",
+    "topic_id": "law-anayasa",
+    "prompt": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-07",
+    "topic_id": "law-anayasa",
+    "prompt": "Temel hak ve hürriyetlerin sınırlanması hangi maddede düzenlenmiştir?",
+    "options": [
+      "Madde 13",
+      "Madde 14",
+      "Madde 15",
+      "Madde 16"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "anayasa-08",
+    "topic_id": "law-anayasa",
+    "prompt": "Cumhurbaşkanının görev süresi kaç yıldır?",
+    "options": [
+      "4 yıl",
+      "5 yıl",
+      "6 yıl",
+      "7 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-01",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "MEB Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği'nin temel amacı nedir?",
+    "options": [
+      "Liyakat ve kariyer ilkeleri çerçevesinde atama usul/esaslarını belirlemek",
+      "Sadece maaş zammını düzenlemek",
+      "Sadece izin sürelerini belirlemek",
+      "Sadece disiplin cezalarını belirlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-02",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Görevde yükselme sınavı hangi yöntemle yapılır?",
+    "options": [
+      "Yazılı sınav (ve gerekirse sözlü sınav) ile",
+      "Sadece kıdeme göre",
+      "Sadece mülakatla",
+      "Kura ile"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-03",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Aday memurların yetiştirilmesindeki temel eğitim aşamalarından biri değildir?",
+    "options": [
+      "Temel eğitim",
+      "Hazırlayıcı eğitim",
+      "Staj",
+      "Emeklilik eğitimi"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-04",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Aday memurluk süresi genel olarak ne kadardır?",
+    "options": [
+      "1 yıldan az, 2 yıldan çok olamaz",
+      "Sadece 6 ay",
+      "Sadece 3 yıl",
+      "Süre yoktur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-05",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği hangi konuyu düzenler?",
+    "options": [
+      "Öğretmenlerin atanma ve yer değiştirme usul/esaslarını",
+      "Sadece maaş bordrosunu",
+      "Sadece izin haklarını",
+      "Sadece emeklilik işlemlerini"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-06",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "MEB Personeli İzin Yönergesi'ne göre yıllık izin süresi temel olarak neye göre değişir?",
+    "options": [
+      "Hizmet süresine göre",
+      "Sadece unvana göre",
+      "Sadece cinsiyete göre",
+      "Sadece medeni duruma göre"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-07",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Zorunlu yer değiştirme hangi durumlarda söz konusu olabilir?",
+    "options": [
+      "Hizmet ihtiyacı, sağlık veya kanunda sayılan hallerde",
+      "Hiçbir zaman",
+      "Sadece personelin isteğiyle",
+      "Sadece emeklilikte"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-08",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Görevde yükselme sınavına başvuru şartlarından biri değildir?",
+    "options": [
+      "İlgili unvan için öngörülen hizmet süresini tamamlamış olmak",
+      "Disiplin cezası almamış olmak (kanunda aranan hallerde)",
+      "Gerekli eğitim şartını taşımak",
+      "Sadece nüfusa kayıtlı olmak"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-09",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Aday memur, temel ve hazırlayıcı eğitimlerde başarısız olursa ne olur?",
+    "options": [
+      "Kanunda öngörülen usule göre işlemleri yapılır (gerekirse ilişiği kesilebilir)",
+      "Otomatik olarak asalet tasdik edilir",
+      "Hiçbir işlem yapılmaz",
+      "Doğrudan terfi eder"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-memur-10",
+    "topic_id": "bagli-mevzuat-memur",
+    "prompt": "Yer değiştirme suretiyle atamalarda esas alınan ilkelerden biri nedir?",
+    "options": [
+      "Hizmetin gereği ve personelin mazereti gibi hususların birlikte değerlendirilmesi",
+      "Sadece kıdem",
+      "Sadece kura",
+      "Sadece unvan"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-01",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği'nin amacı nedir?",
+    "options": [
+      "Disiplin amirlerini ve disiplin cezası vermeye yetkili makamları belirlemek",
+      "Sadece maaşları belirlemek",
+      "Sadece izinleri belirlemek",
+      "Sadece atamaları belirlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-02",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Bir personelin ilk disiplin amiri genel olarak kimdir?",
+    "options": [
+      "Doğrudan bağlı olduğu birim amiri",
+      "Bakan",
+      "Vali",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-03",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "MEB Merkez Teşkilatı İmza Yetkileri Yönergesi neyi düzenler?",
+    "options": [
+      "Bakanlık makamınca hangi yazıların hangi düzeyde imzalanacağını",
+      "Sadece bütçe onaylarını",
+      "Sadece atama kararlarını",
+      "Sadece izin onaylarını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-04",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Şef kadrosuna görevde yükselme yoluyla atanabilmek için genel şartlardan biri nedir?",
+    "options": [
+      "Yönetmelikte öngörülen hizmet süresi ve sınav şartlarını taşımak",
+      "Sadece kıdemli olmak",
+      "Sadece lisans mezunu olmak yeterlidir, sınav aranmaz",
+      "Hiçbir şart aranmaz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-05",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Disiplin cezasına itiraz nereye yapılabilir?",
+    "options": [
+      "Kanunda belirtilen disiplin kuruluna veya idare mahkemesine",
+      "Sadece Cumhurbaşkanlığına",
+      "Sadece Sayıştaya",
+      "İtiraz edilemez"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-06",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Aylıktan kesme cezasını vermeye yetkili disiplin amiri genel olarak kimdir?",
+    "options": [
+      "Yönetmelikte belirlenen disiplin amiri",
+      "Sadece Bakan",
+      "Sadece Vali",
+      "Sadece Cumhurbaşkanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-07",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "MEB Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği'nde 'zorunlu hizmet bölgesi' kavramı neyi ifade eder?",
+    "options": [
+      "Hizmet ihtiyacı nedeniyle öncelikli atama yapılan bölgeleri",
+      "Sadece büyükşehirleri",
+      "Sadece sınır illerini",
+      "Kavram yoktur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-08",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Aday memurun asaletinin tasdiki için gerekli koşullardan biri nedir?",
+    "options": [
+      "Temel ve hazırlayıcı eğitim ile staj döneminde başarılı olmak",
+      "Sadece bir yıl beklemek",
+      "Sadece emeklilik yaşına gelmek",
+      "Hiçbir koşul yoktur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-09",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "MEB Personeli İzin Yönergesi'ne göre mazeret izni hangi hallerde verilebilir?",
+    "options": [
+      "Yönergede sayılan haklı ve mazur sebeplerle",
+      "Hiçbir zaman",
+      "Sadece hastalıkta",
+      "Sadece doğumda"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-10",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Disiplin soruşturmasında savunma hakkı ile ilgili temel ilke nedir?",
+    "options": [
+      "İlgiliye savunmasını yapabilmesi için süre verilmesi zorunludur",
+      "Savunma alınmadan da ceza verilebilir",
+      "Savunma sadece yazılı olmalıdır",
+      "Savunma hakkı yoktur"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-11",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Görevde yükselme eğitimine katılma şartlarından biri nedir?",
+    "options": [
+      "Duyurulan kadro için öngörülen öğrenim ve hizmet süresi şartını taşımak",
+      "Sadece dilekçe vermek yeterlidir",
+      "Sadece kıdem yeterlidir",
+      "Şart aranmaz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "bagli-mevzuat-sef-12",
+    "topic_id": "bagli-mevzuat-sef",
+    "prompt": "Şeflik görevinin temel niteliği nedir?",
+    "options": [
+      "Kendisine bağlı birimin iş ve işlemlerini yönetmek/koordine etmek",
+      "Sadece evrak kaydı tutmak",
+      "Sadece temizlik işlerini yönetmek",
+      "Sadece arşiv işleriyle ilgilenmek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-0-jljh",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Saltanat hangi tarihte kaldırılmıştır?",
+    "options": [
+      "1 Kasım 1922",
+      "29 Ekim 1923",
+      "3 Mart 1924",
+      "20 Nisan 1924",
+      "17 Kasım 1922"
+    ],
+    "answer_index": 0,
+    "explanation": "TBMM, 1 Kasım 1922'de aldığı kararla saltanatı kaldırmış, son padişah Vahdettin ülkeyi terk etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-1-lm0u",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türkiye Cumhuriyeti hangi tarihte ilan edilmiştir?",
+    "options": [
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "3 Mart 1924",
+      "1 Kasım 1922",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Cumhuriyet, 29 Ekim 1923'te ilan edilmiş ve Mustafa Kemal ilk Cumhurbaşkanı seçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-10-olnu",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Halkçılık' ilkesinin temel anlamı aşağıdakilerden hangisidir?",
+    "options": [
+      "Egemenliğin kayıtsız şartsız millete ait olması ve sınıf ayrımı gözetilmemesi",
+      "Devletin ekonomik alanda tamamen çekilmesi",
+      "Dini kuralların devlet işlerine hâkim olması",
+      "Belirli bir sınıfın öncelikli olması",
+      "Yalnızca köylülerin desteklenmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Halkçılık ilkesi, egemenliğin millete ait olduğunu, kanun önünde herkesin eşit ve sınıf ayrımı gözetilmeksizin bir bütün olduğunu esas alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-11-wla2",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Laiklik' ilkesinin temel anlamı aşağıdakilerden hangisidir?",
+    "options": [
+      "Din ve devlet işlerinin birbirinden ayrılması",
+      "Dinin tamamen yasaklanması",
+      "Devletin belirli bir dini desteklemesi",
+      "Halifeliğin güçlendirilmesi",
+      "Şeriat hukukunun uygulanması"
+    ],
+    "answer_index": 0,
+    "explanation": "Laiklik ilkesi, din ve devlet işlerinin birbirinden ayrılmasını, devlet yönetiminde ve hukukta dini kuralların değil akıl ve bilimin esas alınmasını öngörür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-12-crh4",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'İnkılapçılık (Devrimcilik)' ilkesi neyi ifade eder?",
+    "options": [
+      "Toplumu çağdaş uygarlık seviyesine taşımak için sürekli yenilenme ve gelişmeyi esas almak",
+      "Geçmişe dönük gelenekleri korumak",
+      "Değişime kapalı olmak",
+      "Sadece askeri alanda yenilik yapmak",
+      "Din temelli bir düzeni sürdürmek"
+    ],
+    "answer_index": 0,
+    "explanation": "İnkılapçılık ilkesi, yapılan devrimlerin korunmasını ve toplumun çağdaş uygarlık seviyesine ulaşması için sürekli yenilenmeyi esas alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-13-o0e0",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Devletçilik' ilkesinin ortaya çıkmasında etkili olan temel neden aşağıdakilerden hangisidir?",
+    "options": [
+      "Özel sermayenin yetersiz olduğu alanlarda devletin ekonomiye öncülük etmesi gerekliliği",
+      "Serbest piyasa ekonomisinin tamamen reddedilmesi",
+      "Yabancı sermayenin ülkeye girmesinin istenmesi",
+      "Tarımın tamamen devletleştirilmesi",
+      "Özel mülkiyetin yasaklanması"
+    ],
+    "answer_index": 0,
+    "explanation": "Devletçilik ilkesi, sermaye birikiminin yetersiz olduğu dönemde devletin sanayileşmeyi ve ekonomik kalkınmayı hızlandırmak için bizzat girişimci rolü üstlenmesini ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-14-j0d1",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Milliyetçilik' ilkesinin Türk milliyetçiliği anlayışındaki temel özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Irkçılığa dayanmayan, birlikte yaşama iradesini esas alan bir anlayış olması",
+      "Yalnızca soy birliğine dayanması",
+      "Diğer milletlere düşmanlık içermesi",
+      "Dini birliğe dayanması",
+      "Yalnızca dil birliğine dayanması"
+    ],
+    "answer_index": 0,
+    "explanation": "Atatürk milliyetçiliği, ırk veya soy temelli değil; ortak tarih, kültür ve birlikte yaşama iradesine dayanan, akılcı ve birleştirici bir anlayıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-2-4njh",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Halifelik hangi tarihte kaldırılmıştır?",
+    "options": [
+      "3 Mart 1924",
+      "29 Ekim 1923",
+      "1 Kasım 1922",
+      "20 Nisan 1924",
+      "17 Şubat 1926"
+    ],
+    "answer_index": 0,
+    "explanation": "Halifelik, 3 Mart 1924'te çıkarılan bir yasa ile kaldırılmış, aynı gün Tevhid-i Tedrisat Kanunu da kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-3-aibo",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Öğretimin birleştirilmesini sağlayan ve 3 Mart 1924'te kabul edilen kanun hangisidir?",
+    "options": [
+      "Tevhid-i Tedrisat Kanunu",
+      "Medeni Kanun",
+      "Teşkilat-ı Esasiye Kanunu",
+      "Şapka Kanunu",
+      "Tekke ve Zaviyelerin Kapatılması Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Tevhid-i Tedrisat Kanunu (Öğretim Birliği Yasası), eğitimdeki ikiliği kaldırarak tüm eğitim kurumlarını Milli Eğitim Bakanlığı çatısı altında birleştirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-4-9m0w",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Medeni Kanunu hangi ülkenin medeni kanunu esas alınarak hazırlanmıştır?",
+    "options": [
+      "İsviçre",
+      "Almanya",
+      "Fransa",
+      "İtalya",
+      "İngiltere"
+    ],
+    "answer_index": 0,
+    "explanation": "1926'da kabul edilen Türk Medeni Kanunu, İsviçre Medeni Kanunu esas alınarak hazırlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-5-1r1b",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Kadınlara milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+    "options": [
+      "1934",
+      "1926",
+      "1930",
+      "1933",
+      "1924"
+    ],
+    "answer_index": 0,
+    "explanation": "Kadınlara milletvekili seçme ve seçilme hakkı 1934 yılında yapılan anayasa değişikliğiyle tanınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-6-8wp7",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Latin esasına dayalı yeni Türk alfabesi hangi yıl kabul edilmiştir?",
+    "options": [
+      "1928",
+      "1924",
+      "1925",
+      "1926",
+      "1930"
+    ],
+    "answer_index": 0,
+    "explanation": "Yeni Türk Harfleri Kanunu 1 Kasım 1928'de kabul edilerek Latin esaslı alfabeye geçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-7-hgfe",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Şapka İktisası Hakkında Kanun (Şapka Kanunu) hangi yıl kabul edilmiştir?",
+    "options": [
+      "1925",
+      "1924",
+      "1926",
+      "1928",
+      "1934"
+    ],
+    "answer_index": 0,
+    "explanation": "Şapka Kanunu, 25 Kasım 1925'te kabul edilerek kılık kıyafette çağdaşlaşma yönünde önemli bir adım atılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-8-iybn",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Tekke, zaviye ve türbelerin kapatılmasını öngören kanun hangi yıl çıkarılmıştır?",
+    "options": [
+      "1925",
+      "1924",
+      "1926",
+      "1928",
+      "1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Tekke ve Zaviyelerle Türbelerin Şeddine Dair Kanun, 30 Kasım 1925'te kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfu15kf-9-4amx",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
+    "options": [
+      "1934",
+      "1928",
+      "1926",
+      "1930",
+      "1935"
+    ],
+    "answer_index": 0,
+    "explanation": "Soyadı Kanunu 21 Haziran 1934'te kabul edilmiş, TBMM Mustafa Kemal'e 'Atatürk' soyadını vermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:51.404395+00:00",
+    "updated_at": "2026-08-05T08:35:51.404395+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-0-lbf7",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Cumhuriyetçilik' ilkesinin temel dayanağı aşağıdakilerden hangisidir?",
+    "options": [
+      "Millî egemenlik",
+      "Laiklik",
+      "Devletçilik",
+      "Milliyetçilik",
+      "İnkılapçılık"
+    ],
+    "answer_index": 0,
+    "explanation": "Cumhuriyetçilik ilkesi, egemenliğin kayıtsız şartsız millete ait olması anlayışına dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-1-b6wx",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdaki inkılaplardan hangisi doğrudan laiklik ilkesi doğrultusunda gerçekleştirilmiştir?",
+    "options": [
+      "Soyadı Kanunu'nun çıkarılması",
+      "Halifeliğin kaldırılması",
+      "Kabotaj Kanunu'nun kabul edilmesi",
+      "Aşar Vergisi'nin kaldırılması",
+      "İzmir İktisat Kongresi'nin toplanması"
+    ],
+    "answer_index": 1,
+    "explanation": "Halifeliğin kaldırılması, din ve devlet işlerinin ayrılması yönünde atılan en önemli adımlardan biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-10-fxlc",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Harf İnkılabı'nın gerçekleştirilmesindeki temel amaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Okuryazarlık oranını artırmak",
+      "Vergi gelirlerini yükseltmek",
+      "Tarımı geliştirmek",
+      "Sanayileşmeyi hızlandırmak",
+      "Askerî eğitimi güçlendirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Latin esaslı Türk alfabesine geçilerek okuma yazmanın kolaylaştırılması hedeflenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-11-qmmp",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'İnkılapçılık' aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Yapılan yenilikleri koruyup geliştirmeyi",
+      "Eski kurumlara geri dönmeyi",
+      "Saltanatı güçlendirmeyi",
+      "Yalnızca ekonomik reform yapmayı",
+      "Yerel yönetimleri kaldırmayı"
+    ],
+    "answer_index": 0,
+    "explanation": "İnkılapçılık, çağdaşlaşma amacıyla yapılan yeniliklerin korunmasını ve geliştirilmesini ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-12-4dl0",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "1934 yılında çıkarılan Soyadı Kanunu ile aşağıdakilerden hangisi yasaklanmıştır?",
+    "options": [
+      "Kadınların çalışması",
+      "Ağa, Bey, Paşa gibi ayrıcalık belirten unvanların soyadı olarak kullanılması",
+      "Latin alfabesinin kullanılması",
+      "Yabancı dil öğrenimi",
+      "Resmî nikâh uygulaması"
+    ],
+    "answer_index": 1,
+    "explanation": "Soyadı Kanunu ile toplumsal ayrıcalık ifade eden unvanların kullanımı kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-13-ssnb",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk ilkeleri ile gerçekleştirilen inkılaplar arasındaki doğru eşleştirmedir?",
+    "options": [
+      "Halifeliğin kaldırılması - Laiklik",
+      "Şapka Kanunu - Devletçilik",
+      "Türk Tarih Kurumu - Halkçılık",
+      "Medeni Kanun - Milliyetçilik",
+      "Aşar Vergisi'nin kaldırılması - Cumhuriyetçilik"
+    ],
+    "answer_index": 0,
+    "explanation": "Halifeliğin kaldırılması laiklik ilkesinin en önemli uygulamalarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-14-kaki",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk İlkeleri ve İnkılapları bir bütün olarak değerlendirildiğinde temel hedef aşağıdakilerden hangisidir?",
+    "options": [
+      "Osmanlı yönetim anlayışını yeniden kurmak",
+      "Çağdaş, bağımsız ve millî egemenliğe dayalı bir devlet oluşturmak",
+      "Saltanat yönetimini güçlendirmek",
+      "Din kurallarını devlet yönetimine hâkim kılmak",
+      "Yalnızca ekonomik kalkınmayı sağlamak"
+    ],
+    "answer_index": 1,
+    "explanation": "Atatürk ilke ve inkılaplarının ortak amacı; çağdaş, bağımsız, demokratik ve millî egemenliğe dayalı bir Türkiye oluşturmaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-2-4701",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Medeni Kanunu'nun kabul edilmesiyle aşağıdakilerden hangisi amaçlanmıştır?",
+    "options": [
+      "Askerî düzenlemeleri değiştirmek",
+      "Ekonomik bağımsızlığı sağlamak",
+      "Aile ve toplum yaşamını çağdaş hukuk kurallarına göre düzenlemek",
+      "Yerel yönetimleri güçlendirmek",
+      "Kapitülasyonları kaldırmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Türk Medeni Kanunu ile aile hukuku ve toplumsal yaşam çağdaş esaslara göre yeniden düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-3-fctr",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Kadınlara milletvekili seçme ve seçilme hakkının tanınması aşağıdaki ilkelerden hangisiyle en yakından ilişkilidir?",
+    "options": [
+      "Devletçilik",
+      "Halkçılık",
+      "Milliyetçilik",
+      "Cumhuriyetçilik",
+      "İnkılapçılık"
+    ],
+    "answer_index": 1,
+    "explanation": "Halkçılık ilkesi, kanun önünde eşitliği esas aldığı için kadınlara siyasi haklar tanınması bu ilkeyle doğrudan ilişkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-4-s3ab",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk'ün toplumsal alanda gerçekleştirdiği inkılaplardan biridir?",
+    "options": [
+      "Teşvik-i Sanayi Kanunu",
+      "Kabotaj Kanunu",
+      "Şapka Kanunu",
+      "İzmir İktisat Kongresi",
+      "Aşar Vergisi'nin kaldırılması"
+    ],
+    "answer_index": 2,
+    "explanation": "Şapka Kanunu, toplumsal yaşamı çağdaşlaştırmaya yönelik inkılaplardan biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-5-tlq0",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Soyadı Kanunu'nun çıkarılması aşağıdaki amaçlardan hangisine yöneliktir?",
+    "options": [
+      "Ekonomik kalkınmayı sağlamak",
+      "Toplumdaki isim karmaşasını ortadan kaldırmak",
+      "Vergi sistemini düzenlemek",
+      "Seçim sistemini değiştirmek",
+      "Askerî düzenlemeleri yenilemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Soyadı Kanunu ile kişi adlarının karışıklığı giderilmiş ve nüfus kayıtları düzenli hâle getirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-6-szan",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinden 'Devletçilik' aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Ekonominin tamamen özel sektöre bırakılmasını",
+      "Devletin gerekli alanlarda ekonomiye yön vermesini",
+      "Bütün üretim araçlarının kamulaştırılmasını",
+      "Yabancı sermayenin yasaklanmasını",
+      "Tarımın devlet tekeline alınmasını"
+    ],
+    "answer_index": 1,
+    "explanation": "Atatürk dönemindeki devletçilik anlayışı, özel girişimi destekleyen ancak gerekli alanlarda devletin ekonomiye öncülük ettiği karma bir modeli ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-7-ohny",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Milliyetçilik ilkesi doğrultusunda gerçekleştirilen çalışmalardan biridir?",
+    "options": [
+      "Türk Tarih Kurumunun kurulması",
+      "Şapka Kanunu",
+      "Medeni Kanun",
+      "Tekke ve Zaviyelerin kapatılması",
+      "Kabotaj Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Türk Tarih Kurumu, millî tarih bilincini geliştirmek amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-8-cu15",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Dil Kurumunun kurulması aşağıdaki amaçlardan hangisine yöneliktir?",
+    "options": [
+      "Askerî eğitimi geliştirmek",
+      "Türkçeyi bilim dili hâline getirmek ve geliştirmek",
+      "Vergi sistemini düzenlemek",
+      "Dış ticareti artırmak",
+      "Yerel yönetimleri güçlendirmek"
+    ],
+    "answer_index": 1,
+    "explanation": "Türk Dil Kurumu, Türk dilini araştırmak, geliştirmek ve yabancı etkilerden arındırmak amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-msfzw1ct-9-7v0t",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdaki inkılaplardan hangisi eğitim alanında gerçekleştirilen yeniliklerden biridir?",
+    "options": [
+      "Tevhid-i Tedrisat Kanunu",
+      "Kabotaj Kanunu",
+      "Soyadı Kanunu",
+      "Şapka Kanunu",
+      "Aşar Vergisi'nin kaldırılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Tevhid-i Tedrisat Kanunu ile eğitim birleştirilmiş ve Millî Eğitim Bakanlığına bağlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:19:50.66665+00:00",
+    "updated_at": "2026-08-05T11:19:50.66665+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-0-h4d1",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Osmanlı Devleti I. Dünya Savaşı'na hangi ittifak grubunun yanında girmiştir?",
+    "options": [
+      "İtilaf Devletleri",
+      "İttifak Devletleri",
+      "Tarafsızlar Bloku",
+      "Balkan İttifakı"
+    ],
+    "answer_index": 1,
+    "explanation": "Osmanlı Devleti, Almanya ve Avusturya-Macaristan'ın içinde bulunduğu İttifak (Bağlaşma) Devletleri yanında savaşa girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T09:32:34.251069+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-1-b2qe",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Osmanlı Devleti'nin I. Dünya Savaşı'na fiilen girmesine neden olan olay aşağıdakilerden hangisidir?",
+    "options": [
+      "Goeben ve Breslau adlı Alman gemilerinin Rus limanlarını bombalaması",
+      "İngiltere'nin Çanakkale'yi bombalaması",
+      "Rusya'nın Doğu Anadolu'yu işgali",
+      "İtalya'nın Oniki Ada'yı işgali",
+      "Bulgaristan'ın Osmanlı'ya saldırması"
+    ],
+    "answer_index": 0,
+    "explanation": "Yavuz ve Midilli adlarını alan Alman gemilerinin Karadeniz'e açılıp Rus limanlarını bombalaması (Ekim 1914) Osmanlı'yı fiilen savaşa sokmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-10-cj7f",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı'nda Yıldırım Orduları Grup Komutanlığı'na kim atanmıştır?",
+    "options": [
+      "Mustafa Kemal",
+      "Liman von Sanders",
+      "Enver Paşa",
+      "Vehip Paşa",
+      "Ali İhsan Sabis"
+    ],
+    "answer_index": 1,
+    "explanation": "Yıldırım Orduları Grup Komutanlığı önce Alman General Liman von Sanders'e verilmiş, Mustafa Kemal ise bu grup içinde 7. Ordu Komutanlığı yapmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-11-nwt7",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı, Osmanlı Devleti açısından hangi antlaşma ile fiilen sona ermiştir?",
+    "options": [
+      "Mondros Ateşkes Antlaşması",
+      "Sevr Antlaşması",
+      "Versay Antlaşması",
+      "Brest-Litovsk Antlaşması",
+      "Lozan Antlaşması"
+    ],
+    "answer_index": 0,
+    "explanation": "30 Ekim 1918'de imzalanan Mondros Ateşkes Antlaşması ile Osmanlı Devleti I. Dünya Savaşı'ndan fiilen çekilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-12-urjz",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı sonunda Osmanlı Devleti'nin de içinde bulunduğu İttifak Devletleri'nin yenilgisinde etkili olan gelişmelerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "ABD'nin savaşa İtilaf Devletleri yanında girmesi",
+      "Rusya'nın savaştan çekilmemesi",
+      "İtalya'nın İttifak Devletleri'nde kalması",
+      "Osmanlı ordusunun tüm cephelerde zafer kazanması",
+      "Almanya'nın donanma üstünlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": "ABD'nin 1917'de İtilaf Devletleri yanında savaşa girmesi, güç dengesini İtilaf Devletleri lehine çevirerek savaşın sonucunu belirlemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-13-w2vg",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı'nın Osmanlı Devleti açısından en ağır sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Devletin toprak bütünlüğünü kaybederek işgale uğraması",
+      "Sınırların genişlemesi",
+      "Ekonomik olarak güçlenmesi",
+      "Balkanlar'daki toprakları geri alması",
+      "Halifeliğin güçlenmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Savaş sonunda imzalanan Mondros Ateşkesi ile Osmanlı toprakları İtilaf Devletleri tarafından işgal edilmeye başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-14-2osx",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Rusya'da 1917'de gerçekleşen Bolşevik İhtilali'nin Osmanlı Devleti açısından sonucu ne olmuştur?",
+    "options": [
+      "Rusya'nın savaştan çekilerek Kafkas Cephesi'nin ortadan kalkması",
+      "Rusya'nın Osmanlı'ya savaş açması",
+      "Kafkasya'nın tamamen Osmanlı'ya bırakılması",
+      "Boğazlar'ın Rusya'ya verilmesi",
+      "Osmanlı'nın savaştan çekilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Bolşevik İhtilali sonrası Rusya savaştan çekilmiş, Brest-Litovsk Antlaşması ile Kafkas Cephesi Osmanlı lehine ortadan kalkmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-15-tmny",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Mondros Ateşkes Antlaşması hangi tarihte imzalanmıştır?",
+    "options": [
+      "30 Ekim 1918",
+      "10 Ağustos 1920",
+      "24 Temmuz 1923",
+      "19 Mayıs 1919",
+      "3 Mart 1924"
+    ],
+    "answer_index": 0,
+    "explanation": "Mondros Ateşkes Antlaşması, 30 Ekim 1918'de Limni Adası'nın Mondros Limanı'nda Bahriye Nazırı Rauf Bey başkanlığındaki heyet ile İtilaf Devletleri arasında imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-16-llhk",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Mondros Ateşkes Antlaşması'nın hangi maddesi İtilaf Devletleri'ne, güvenliklerini tehdit eden durumlarda herhangi bir stratejik noktayı işgal etme hakkı tanımıştır?",
+    "options": [
+      "1. Madde",
+      "7. Madde",
+      "24. Madde",
+      "12. Madde",
+      "15. Madde"
+    ],
+    "answer_index": 1,
+    "explanation": "Mondros'un 7. maddesi, İtilaf Devletleri'ne güvenliklerini tehdit eden durumlarda herhangi bir stratejik noktayı işgal etme hakkı tanımış ve işgallerin hukuki dayanağı olarak kullanılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-2-6npi",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Osmanlı Devleti'nin I. Dünya Savaşı'na girmesiyle ilgili gizli ittifak antlaşması hangi devletle imzalanmıştır?",
+    "options": [
+      "İngiltere",
+      "Fransa",
+      "Almanya",
+      "Rusya",
+      "İtalya"
+    ],
+    "answer_index": 2,
+    "explanation": "Ağustos 1914'te Osmanlı Devleti, Almanya ile gizli bir ittifak antlaşması imzalayarak İttifak Devletleri saflarında yer almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-3-qbg2",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı'nda Osmanlı Devleti'nin savaştığı cephelerden biri olmayan aşağıdakilerden hangisidir?",
+    "options": [
+      "Kafkas Cephesi",
+      "Kanal Cephesi",
+      "Çanakkale Cephesi",
+      "Galiçya Cephesi",
+      "Somme Cephesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Somme Muharebesi, Batı Cephesi'nde İngiliz-Fransız kuvvetleriyle Almanya arasında yaşanmış olup Osmanlı kuvvetlerinin doğrudan yer aldığı bir cephe değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-4-xj5y",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Çanakkale Cephesi'nin açılmasındaki temel amaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Rusya'ya yardım ulaştırmak ve İstanbul'u ele geçirmek",
+      "Mısır'ı işgal etmek",
+      "Kafkasya'yı ele geçirmek",
+      "Suriye'yi savunmak",
+      "Irak petrollerini kontrol etmek"
+    ],
+    "answer_index": 0,
+    "explanation": "İtilaf Devletleri, Boğazları geçerek İstanbul'u ele geçirmeyi, Osmanlı'yı savaş dışı bırakmayı ve müttefikleri Rusya'ya yardım ulaştırmayı amaçlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-5-ur18",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Çanakkale Savaşları'nın kara harekâtında Anafartalar Grup Komutanlığı'nı kim üstlenmiştir?",
+    "options": [
+      "Fevzi Çakmak",
+      "Mustafa Kemal",
+      "Liman von Sanders",
+      "Enver Paşa",
+      "Cemal Paşa"
+    ],
+    "answer_index": 1,
+    "explanation": "Mustafa Kemal, Anafartalar Grup Komutanı olarak Çanakkale Savaşları'nda büyük başarı göstermiş ve ününü pekiştirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-6-22wz",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Çanakkale Savaşları'nın sonuçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "İtilaf Devletleri'nin Rusya'ya yardım ulaştırması kolaylaşmıştır",
+      "Rusya'da Bolşevik İhtilali hızlanmıştır",
+      "Osmanlı Devleti savaş dışı kalmıştır",
+      "Boğazlar İtilaf Devletleri'nin eline geçmiştir",
+      "Savaş kısa sürede sona ermiştir"
+    ],
+    "answer_index": 1,
+    "explanation": "Çanakkale'de Rusya'ya yardım ulaştırılamaması, Rusya'nın içeride yaşadığı sıkıntıları derinleştirmiş ve Bolşevik İhtilali'nin koşullarını hızlandırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-7-hvds",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı sırasında Kafkas Cephesi'nde Osmanlı ordusunun Ruslara karşı giriştiği ve ağır kayıplarla sonuçlanan harekât hangisidir?",
+    "options": [
+      "Sarıkamış Harekâtı",
+      "Kanal Harekâtı",
+      "Gazze Muharebeleri",
+      "Kut'ül-Amare Kuşatması",
+      "Galiçya Harekâtı"
+    ],
+    "answer_index": 0,
+    "explanation": "Enver Paşa'nın komuta ettiği Sarıkamış Harekâtı (1914-1915), ağır kış koşulları nedeniyle Osmanlı ordusunun büyük kayıplar vermesiyle sonuçlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-8-mzx0",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı'nda Osmanlı Devleti'nin Irak Cephesi'nde İngilizlere karşı kazandığı önemli zafer hangisidir?",
+    "options": [
+      "Kut'ül-Amare Zaferi",
+      "Sarıkamış Zaferi",
+      "Çanakkale Zaferi",
+      "Gazze Zaferi",
+      "Medine Savunması"
+    ],
+    "answer_index": 0,
+    "explanation": "Kut'ül-Amare Kuşatması sonunda (1916) İngiliz kuvvetleri Osmanlı ordusuna teslim olmuş, bu önemli bir zafer olarak tarihe geçmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfu06dj-9-i8x0",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı sırasında Kanal ve Filistin cephelerinde Osmanlı kuvvetleri hangi devlete karşı savaşmıştır?",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "Rusya",
+      "İtalya",
+      "Yunanistan"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanal (Süveyş) ve Filistin cephelerinde Osmanlı kuvvetleri, Mısır'ı elinde tutan İngiltere'ye karşı savaşmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:35:05.790712+00:00",
+    "updated_at": "2026-08-05T08:35:05.790712+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfzp6ke-0-3ef8",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Osmanlı Devleti'nin I. Dünya Savaşı'na girmesine neden olan ve Rus limanlarını bombalayan Alman savaş gemileri Goeben ve Breslau'ya Osmanlı donanmasına katıldıktan sonra hangi isimler verilmiştir?",
+    "options": [
+      "Ertuğrul ve Nusret",
+      "Hamidiye ve Mecidiye",
+      "Yavuz ve Midilli",
+      "Barbaros ve Turgut Reis",
+      "Mesudiye ve Asar-ı Tevfik"
+    ],
+    "answer_index": 2,
+    "explanation": "İngiliz donanmasından kaçarak Osmanlı'ya sığınan Goeben'e 'Yavuz', Breslau'ya ise 'Midilli' adı verilmiş ve bu gemilerin Rus limanlarını bombalamasıyla Osmanlı Devleti resmen savaşa girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:14:31.173552+00:00",
+    "updated_at": "2026-08-05T11:14:31.173552+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfzp6ke-1-osjk",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "I. Dünya Savaşı'nda Osmanlı Devleti'nin 'Turan' (Büyük Türk İmparatorluğu) hedefini gerçekleştirmek ve Bakü petrollerini ele geçirmek amacıyla Enver Paşa komutasında açtığı taarruz cephesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Çanakkale Cephesi",
+      "Kafkas Cephesi",
+      "Kanal Cephesi",
+      "Suriye-Filistin Cephesi",
+      "Irak-İran Cephesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Kafkas Cephesi, Ruslara karşı açılmış bir taarruz cephesidir. Sarıkamış Harekatı bu cephede gerçekleşmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:14:31.173552+00:00",
+    "updated_at": "2026-08-05T11:14:31.173552+00:00"
+  },
+  {
+    "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40-msfzp6ke-10-bc0b",
+    "topic_id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
+    "prompt": "Mondros Ateşkes Antlaşması'nın imzalanmasından sonra, İtilaf Devletleri tarafından Osmanlı topraklarında gerçekleştirilen 'ilk işgal' neresidir?",
+    "options": [
+      "İzmir (Yunanistan)",
+      "Antalya (İtalya)",
+      "Urfa (Fransa)",
+      "Musul (İngiltere)",
+      "İstanbul (Ortak İşgal)"
+    ],
+    "answer_index": 3,
+    "explanation": "Mondros'tan sonra işgal edilen ilk Osmanlı toprağı zengin petrol yataklarına sahip olan Musul'dur (İngilizler tarafından). Anadolu'daki ilk işgal ise Fransızlar tarafından Hatay/Dörtyol'dur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:14:31.173552+00:00",
+    "updated_at": "2026-08-05T11:14:31.173552+00:00"
+  }
+]
+

@@ -1,0 +1,9 @@
+{
+  "questions": [
+    { "id": "gk1", "prompt": "Türkiye'nin en yüksek dağı hangisidir?", "options": ["Erciyes", "Süphan", "Ağrı", "Kaçkar"], "answerIndex": 2 },
+    { "id": "gk2", "prompt": "İstiklal Marşı'nın şairi kimdir?", "options": ["Namık Kemal", "Mehmet Akif Ersoy", "Yahya Kemal Beyatlı", "Ziya Gökalp"], "answerIndex": 1 },
+    { "id": "gk3", "prompt": "Dünyanın en uzun nehri hangisidir?", "options": ["Amazon", "Nil", "Yangtze", "Mississippi"], "answerIndex": 1 },
+    { "id": "gk4", "prompt": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?", "options": ["Orhan Pamuk", "Yaşar Kemal", "Aziz Nesin", "Elif Şafak"], "answerIndex": 0 },
+    { "id": "gk5", "prompt": "Avrupa Birliği'nin başkenti olarak kabul edilen şehir hangisidir?", "options": ["Paris", "Berlin", "Brüksel", "Strazburg"], "answerIndex": 2 }
+  ]
+}

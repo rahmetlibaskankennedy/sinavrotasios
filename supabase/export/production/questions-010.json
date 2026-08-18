@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "topic-guncel-msf49ik9-72-zubm",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO Parlamenter Asamblesi'nin işlevi nedir?",
+    "options": [
+      "Üye ülke parlamentoları arasında NATO konularında istişare ve işbirliği sağlamak",
+      "Bağlayıcı askeri kararlar almak",
+      "NATO bütçesini onaylamak",
+      "Genel Sekreteri seçmek",
+      "Üyelik başvurularını doğrudan onaylamak"
+    ],
+    "answer_index": 0,
+    "explanation": "NATO Parlamenter Asamblesi, üye ülke parlamentoları arasında istişare sağlayan ancak bağlayıcı karar alma yetkisi olmayan bir organdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-73-1phl",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun 75. kuruluş yıl dönümü hangi yılda kutlanmıştır?",
+    "options": [
+      "2019",
+      "2020",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "answer_index": 3,
+    "explanation": "NATO, 1949'da kurulduğu için 75. yılını 2024'te kutlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-74-6hqz",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin yürütme organı olarak kabul edilen kurum hangisidir?",
+    "options": [
+      "Avrupa Parlamentosu",
+      "Avrupa Komisyonu",
+      "Avrupa Konseyi",
+      "AB Konseyi (Bakanlar Konseyi)",
+      "Avrupa Adalet Divanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Komisyonu, AB'nin yürütme organı olarak yasa tekliflerini hazırlar ve politikaları uygular.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-75-a5a7",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin yasama sürecinde Avrupa Parlamentosu ile birlikte karar alan organ hangisidir?",
+    "options": [
+      "Avrupa Komisyonu",
+      "AB Konseyi (Bakanlar Konseyi)",
+      "Avrupa Adalet Divanı",
+      "Avrupa Merkez Bankası",
+      "Avrupa Sayıştayı"
+    ],
+    "answer_index": 1,
+    "explanation": "AB Konseyi (Bakanlar Konseyi), çoğu yasama alanında Avrupa Parlamentosu ile birlikte ortak karar alma sürecinde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-76-xiqv",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği Adalet Divanı'nın (CJEU) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Strazburg",
+      "Lüksemburg",
+      "Lahey",
+      "Frankfurt"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa Birliği Adalet Divanı, Lüksemburg'da konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-77-5fy7",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'ye aday ülke statüsünde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Türkiye",
+      "Norveç",
+      "İsviçre",
+      "Birleşik Krallık",
+      "İzlanda (güncel olarak değil)"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye, uzun süredir AB'ye aday ülke statüsünde bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-78-ffoj",
+    "topic_id": "topic-guncel",
+    "prompt": "Ukrayna'nın AB üyelik sürecindeki durumu 2022 sonrası nasıl gelişmiştir?",
+    "options": [
+      "Başvurusu reddedilmiştir",
+      "Aday ülke statüsü kazanmış ve müzakerelere başlanmıştır",
+      "Hiç başvurmamıştır",
+      "Tam üye olmuştur",
+      "Üyelik talebini geri çekmiştir"
+    ],
+    "answer_index": 1,
+    "explanation": "Ukrayna, Rusya'nın saldırısının ardından 2022'de AB aday ülke statüsü kazanmış, sonrasında üyelik müzakerelerine başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-79-ajvr",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin ortak tarım politikasının (CAP) temel amaçlarından biri nedir?",
+    "options": [
+      "Çiftçilere destek sağlamak ve gıda güvenliğini korumak",
+      "Sadece sanayi ürünlerini desteklemek",
+      "Askeri harcamaları artırmak",
+      "Turizmi sınırlamak",
+      "Enerji ithalatını yasaklamak"
+    ],
+    "answer_index": 0,
+    "explanation": "Ortak Tarım Politikası, AB çiftçilerine destek sağlayarak gıda güvenliğini ve kırsal kalkınmayı teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-8-e51w",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İnsani İşler Koordinasyon Ofisi'nin (OCHA) temel görevi nedir?",
+    "options": [
+      "Askeri operasyonları koordine etmek",
+      "İnsani yardım müdahalelerini koordine etmek",
+      "Ticaret anlaşmazlıklarını çözmek",
+      "Para politikası belirlemek",
+      "Fikri mülkiyeti korumak"
+    ],
+    "answer_index": 1,
+    "explanation": "OCHA, doğal afet ve çatışma bölgelerindeki insani yardım çalışmalarını koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-80-01re",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin çok yıllık bütçe çerçevesi hangi terimle anılır?",
+    "options": [
+      "Multiannual Financial Framework (MFF)",
+      "Single Market Fund",
+      "European Recovery Plan",
+      "Cohesion Budget Act",
+      "Common Fiscal Union"
+    ],
+    "answer_index": 0,
+    "explanation": "AB'nin uzun vadeli bütçe planlaması, Multiannual Financial Framework (Çok Yıllık Mali Çerçeve) olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-81-1owx",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Parlamentosu üyeleri kaç yılda bir seçilir?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa Parlamentosu üyeleri, 5 yılda bir doğrudan halk oyuyla seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-82-h2nr",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Bölgesel Kalkınma Fonu'nun (ERDF) temel amacı nedir?",
+    "options": [
+      "Bölgeler arası ekonomik eşitsizlikleri azaltmak",
+      "Askeri harcamaları finanse etmek",
+      "Sadece tarımı desteklemek",
+      "Turizmi vergilendirmek",
+      "Enerji fiyatlarını sabitlemek"
+    ],
+    "answer_index": 0,
+    "explanation": "ERDF, AB içindeki bölgesel ekonomik farklılıkları azaltmaya yönelik yatırımları destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-83-h51o",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin dış sınırlarının korunmasından sorumlu ajansı hangisidir?",
+    "options": [
+      "Europol",
+      "Frontex",
+      "Eurojust",
+      "ECDC",
+      "EASO"
+    ],
+    "answer_index": 1,
+    "explanation": "Frontex, AB'nin dış sınır güvenliğinden sorumlu ajansıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-84-b0dy",
+    "topic_id": "topic-guncel",
+    "prompt": "Europol'ün temel görevi nedir?",
+    "options": [
+      "AB üyeleri arasında polis işbirliğini kolaylaştırmak",
+      "Askeri operasyonlar yürütmek",
+      "Ticaret anlaşmazlıklarını çözmek",
+      "Para politikası belirlemek",
+      "Çevre denetimi yapmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Europol, AB üye devletlerinin kolluk kuvvetleri arasında sınır ötesi suçlarla mücadelede işbirliğini kolaylaştırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-85-fh11",
+    "topic_id": "topic-guncel",
+    "prompt": "AB üyesi olmayan ancak Euro'yu kullanan mikro devletlerden biri hangisidir?",
+    "options": [
+      "Monako",
+      "Norveç",
+      "İsviçre",
+      "Andorra (AB üyesi değildir ama euro kullanır)",
+      "Hepsi doğru olabilir (Monako ve Andorra)"
+    ],
+    "answer_index": 4,
+    "explanation": "Monako, San Marino, Vatikan ve Andorra gibi mikro devletler AB üyesi olmamalarına rağmen anlaşmalarla Euro kullanmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-86-znyb",
+    "topic_id": "topic-guncel",
+    "prompt": "Cenevre Sözleşmeleri temel olarak hangi konuyu düzenler?",
+    "options": [
+      "Uluslararası insancıl hukuk ve savaş kurbanlarının korunması",
+      "Uluslararası ticaret kuralları",
+      "Fikri mülkiyet hakları",
+      "Deniz hukuku",
+      "İklim değişikliği"
+    ],
+    "answer_index": 0,
+    "explanation": "Cenevre Sözleşmeleri, savaş zamanında sivillerin, yaralıların ve esirlerin korunmasını düzenleyen temel insancıl hukuk metinleridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-87-cbwr",
+    "topic_id": "topic-guncel",
+    "prompt": "Cenevre Sözleşmeleri kaç ana sözleşmeden oluşur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer_index": 2,
+    "explanation": "Cenevre Sözleşmeleri, 1949'da kabul edilen 4 ana sözleşmeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-88-c76g",
+    "topic_id": "topic-guncel",
+    "prompt": "Lahey Sözleşmeleri temel olarak hangi konuyu ele alır?",
+    "options": [
+      "Savaş hukuku ve silahlı çatışma yöntemleri",
+      "Uluslararası ticaret",
+      "Çevre koruma",
+      "Fikri mülkiyet",
+      "Sağlık standartları"
+    ],
+    "answer_index": 0,
+    "explanation": "Lahey Sözleşmeleri, savaşın yürütülme yöntemlerini ve silahlı çatışma kurallarını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-89-oeir",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa İnsan Hakları Sözleşmesi'ni denetleyen mahkeme nerede bulunur?",
+    "options": [
+      "Lahey",
+      "Strazburg",
+      "Lüksemburg",
+      "Brüksel",
+      "Cenevre"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi, Fransa'nın Strazburg şehrinde faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-9-jigt",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Genel Kurulu'nun olağan oturumları genellikle hangi ayda başlar?",
+    "options": [
+      "Ocak",
+      "Mart",
+      "Haziran",
+      "Eylül",
+      "Kasım"
+    ],
+    "answer_index": 3,
+    "explanation": "BM Genel Kurulu'nun yıllık olağan oturumu genellikle Eylül ayında başlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-90-83hk",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası insancıl hukukun temel ilkelerinden biri değildir?",
+    "options": [
+      "Ayrım gözetme (sivil-asker ayrımı)",
+      "Orantılılık",
+      "Askeri gereklilik",
+      "Serbest ticaret",
+      "İnsanlık"
+    ],
+    "answer_index": 3,
+    "explanation": "Serbest ticaret, uluslararası insancıl hukukun temel ilkeleri arasında yer almaz; bu ilkeler savaş hukukuyla ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-91-fc5l",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Deniz Hukuku Sözleşmesi'nin (UNCLOS) temel konusu nedir?",
+    "options": [
+      "Denizlerin ve okyanusların kullanımını düzenlemek",
+      "Hava sahası kurallarını belirlemek",
+      "Uzay hukuku",
+      "Nehir sularının paylaşımı",
+      "Kara sınırlarının belirlenmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "UNCLOS, kıta sahanlığı, münhasır ekonomik bölge gibi deniz hukuku konularını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-92-ilfi",
+    "topic_id": "topic-guncel",
+    "prompt": "CERN'in (Avrupa Nükleer Araştırma Merkezi) merkezi hangi ülkede bulunur?",
+    "options": [
+      "Fransa",
+      "İsviçre",
+      "Almanya",
+      "İtalya",
+      "Belçika"
+    ],
+    "answer_index": 1,
+    "explanation": "CERN, İsviçre'nin Cenevre yakınlarında, Fransa sınırında konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-93-96ab",
+    "topic_id": "topic-guncel",
+    "prompt": "ITER projesi hangi alanda uluslararası bir işbirliğidir?",
+    "options": [
+      "Füzyon enerjisi araştırması",
+      "Uzay keşfi",
+      "İklim modellemesi",
+      "Yapay zeka geliştirme",
+      "Deniz araştırmaları"
+    ],
+    "answer_index": 0,
+    "explanation": "ITER, dünyanın en büyük uluslararası füzyon enerjisi araştırma projesidir ve Fransa'da inşa edilmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-94-amzn",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Uzay Ajansı'nın (ESA) merkezi hangi şehirdedir?",
+    "options": [
+      "Londra",
+      "Paris",
+      "Berlin",
+      "Roma",
+      "Madrid"
+    ],
+    "answer_index": 1,
+    "explanation": "ESA'nın genel merkezi Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-95-dwkj",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Telekomünikasyon Birliği'nin (ITU) temel görev alanlarından biri hangisidir?",
+    "options": [
+      "Küresel telekomünikasyon standartlarını belirlemek",
+      "Askeri iletişimi yönetmek",
+      "Uluslararası ticareti düzenlemek",
+      "Sağlık politikaları oluşturmak",
+      "Fikri mülkiyet haklarını korumak"
+    ],
+    "answer_index": 0,
+    "explanation": "ITU, telekomünikasyon ve bilgi teknolojileri alanında küresel standartları koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-96-xwlo",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Uzay İstasyonu'nu (ISS) yöneten temel işbirliği hangi ülkeler arasındadır?",
+    "options": [
+      "Sadece ABD ve Rusya",
+      "ABD, Rusya, Avrupa, Japonya, Kanada",
+      "Sadece Çin ve Rusya",
+      "Sadece AB üyeleri",
+      "Sadece G7 ülkeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "ISS, ABD (NASA), Rusya (Roscosmos), Avrupa (ESA), Japonya (JAXA) ve Kanada (CSA) arasındaki uluslararası işbirliğiyle yönetilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-97-l5az",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Fikri Mülkiyet Örgütü'nün (WIPO) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "Brüksel",
+      "Viyana",
+      "New York"
+    ],
+    "answer_index": 0,
+    "explanation": "WIPO'nun genel merkezi Cenevre'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-98-gm6m",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Elektroteknik Komisyonu'nun (IEC) temel görevi nedir?",
+    "options": [
+      "Elektrikli ve elektronik teknolojiler için uluslararası standartlar hazırlamak",
+      "Uluslararası ticareti düzenlemek",
+      "Askeri teçhizat üretmek",
+      "Sağlık politikaları belirlemek",
+      "Fikri mülkiyeti korumak"
+    ],
+    "answer_index": 0,
+    "explanation": "IEC, elektrik ve elektronik alanında küresel standardizasyon çalışmaları yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-guncel-msf49ik9-99-dd3m",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Standart Kitap Numarası (ISBN) sistemini yöneten kuruluş hangi kategoriye girer?",
+    "options": [
+      "Uluslararası standardizasyon kuruluşu",
+      "Askeri örgüt",
+      "Ticaret bloğu",
+      "Sağlık örgütü",
+      "Çevre örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "ISBN sistemi, yayıncılık alanında kullanılan uluslararası bir standardizasyon uygulamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:34:31.287614+00:00",
+    "updated_at": "2026-08-04T20:34:31.287614+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-0-54xf",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde hem ünlü düşmesi hem de ünsüz yumuşaması (değişimi) vardır?",
+    "options": [
+      "Aklına gelen her fikri toplantıda dile getirirdi.",
+      "Kaybolan evrakları bulmak için tüm büroyu aradı.",
+      "Sınıftaki öğrencilerin sessizliği dikkat çekiyordu.",
+      "Genç adam, burnunun dikine gitmeye devam etti.",
+      "Şehrin merkezinde büyük bir hareketlilik vardı."
+    ],
+    "answer_index": 1,
+    "explanation": "'Kaybolan' sözcüğünde 'kayıp' kelimesinden 'ı' ünlü düşmüş, 'p' sesi 'b' sesine dönüşerek ünsüz yumuşaması gerçekleşmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-1-gnk1",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?",
+    "options": [
+      "Kamu Denetçiliği Kurumuna yapılan başvurular değerlendirildi.",
+      "Resmî Gazete'de yayımlanan yönetmelik yürürlüğe girdi.",
+      "Herşey kanunlara ve mevzuata uygun şekilde yürütüldü.",
+      "Türk Dil Kurumunun son çalışmalarını takip ediyor.",
+      "29 Ekim 1923'te Cumhuriyet ilan edildi."
+    ],
+    "answer_index": 2,
+    "explanation": "'Her şey' belgisiz zamiri her zaman ayrı yazılır; 'herşey' şeklindeki birleşik yazım yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-10-uo88",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "Kurumun yeni binası önümüzdeki ay hizmete açılacak.",
+      "Adayların sınav başvuru şartlarını ve koşullarını dikkatle okuması gerekmektedir.",
+      "Toplantıda sunulan öneriler yönetim kurulu tarafından reddedildi.",
+      "Görevli memur, evrakları zamanında teslim etmek için çabaladı.",
+      "Sınav saatinde salonda hazır bulunmanız rica olunur."
+    ],
+    "answer_index": 1,
+    "explanation": "'Şart' ve 'koşul' sözcükleri eş anlamlı olduğu için bir arada kullanılması anlatım bozukluğuna yol açmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-11-xoru",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sözcüğün yanlış anlamda kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "Başarılı çalışmalarıyla kurumun büyümesine katkı sağladı.",
+      "Bu kadar dikkatsiz davranması sınavı kaybetmesine yol açtı.",
+      "Bölgedeki kuraklık, bu yıl rekoltenin yüksek olmasını sağladı.",
+      "İki kurum arasındaki iş birliği protokolü yarın imzalanacak.",
+      "Yapılan araştırmalar konunun önemini ortaya koyuyor."
+    ],
+    "answer_index": 2,
+    "explanation": "Kuraklık olumsuz bir durumdur; 'yüksek olmasını sağladı' yerine 'neden oldu / sebep oldu' denilmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-12-f0t2",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "Toplantıya katılan komite üyeleri tek tek düşüncelerini dile getirdiler.",
+      "Kararlar dün akşam alındı ve yürürlüğe girdi.",
+      "Biz ve siz bu projede birlikte çalışacağız.",
+      "Gözlerim uzun süre ekrana bakmaktan yoruldular.",
+      "Öğrenciler kütüphanede sessizce ders çalışıyorlar."
+    ],
+    "answer_index": 3,
+    "explanation": "İnsan dışı varlıklar çoğul özne olduğunda yüklem tekil olmalıdır ('Gözlerim yoruldu').",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-13-sn0d",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde öge eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "Çalışanlarına her zaman değer verir ve her konuda desteklerdi.",
+      "Müdür Bey raporları inceledi ve onayladı.",
+      "Proje detayları tartışıldı ve kabul edildi.",
+      "Gelen evraklar kaydedildi ve ilgili birime gönderildi.",
+      "Konuşmacı sahneden indi ve izleyicileri selamladı."
+    ],
+    "answer_index": 0,
+    "explanation": "İkinci cümlede 'kimi desteklerdi?' sorusuna yanıt verecek nesne ('çalışanlarını') eksiktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-14-mx73",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sözcüğün yanlış yerde kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "İzinsiz bina inşaatına girmek tehlikeli ve yasaktır.",
+      "Yeni yapılan düzenleme tüm kamu personelini ilgilendiriyor.",
+      "Sınav sonuçları hafta başında ilan edilecek.",
+      "Yönetmelik değişiklikleri resmî web sitesinde yayımlandı.",
+      "Alınan kararlar tüm birimlere yazıyla bildirildi."
+    ],
+    "answer_index": 0,
+    "explanation": "'İzinsiz bina' şeklinde değil, 'bina inşaatına izinsiz girmek' şeklinde ifade edilmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-2-hofs",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde noktalama işareti yanlışlığından kaynaklanan bir hata vardır?",
+    "options": [
+      "Müdür Bey, odasına giren memura dikkatle baktı.",
+      "Ankara'dan İstanbul'a saat 10.30'da hareket edecek.",
+      "Sınav başvuruları 15-20 Mayıs tarihleri arasında alınacaktır.",
+      "Hem çalışıyor, hem de sınavlara hazırlanıyordu.",
+      "Açıklamayı yapan memur: 'Evraklar tamam.' dedi."
+    ],
+    "answer_index": 3,
+    "explanation": "'Hem... hem...' tekrarlı bağlaçlarından önce veya sonra virgül kullanılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-3-ywim",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde yer alan koyu yazılmış sözcük hem yapım eki hem de çekim eki almıştır?",
+    "options": [
+      "Yazarlarımız bu konuda farklı görüşler ortaya koymuştur.",
+      "Masanın üzerindeki dosyaları tek tek düzenledi.",
+      "Gözlükçü dün akşam saatlerinde kapalıydı.",
+      "Evlerden yükselen sesler sokakta yankılandı.",
+      "Çocuklar bahçede neşeyle koşuşuyorlardı."
+    ],
+    "answer_index": 0,
+    "explanation": "'Yazarlarımız' sözcüğü 'yaz-' kökünden '-ar' yapım eki ile 'yazar' olmuş, ardından '-lar' çoğul ve '-ımız' iyelik çekim eklerini almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-4-fzr2",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde zincirleme isim tamlaması yer almaktadır?",
+    "options": [
+      "Devlet memurlarının görevleri kanunla belirlenir.",
+      "Mavi kapaklı dosyayı masanın üzerine bıraktı.",
+      "Günün ilk ışıklarıyla birlikte yola çıktılar.",
+      "Okul bahçesinin kapısı sabah saatlerinde kilitlendi.",
+      "Eski binanın ahşap pencereleri yenilendi."
+    ],
+    "answer_index": 3,
+    "explanation": "'Okul bahçesinin kapısı' tamlaması en az üç isimden oluşan bir zincirleme isim tamlamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-5-jscp",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'bu' sözcüğü diğerlerinden farklı bir türde (gramer işlevinde) kullanılmıştır?",
+    "options": [
+      "Bu raporu yarın sabaha kadar tamamlamam gerekiyor.",
+      "Bu konuyu detaylıca ele almamız lazım.",
+      "Bu, toplantıda alınan en önemli karardı.",
+      "Bu kararın sonuçlarını hep birlikte göreceğiz.",
+      "Bu evrakların arşivlenmesi gerekmektedir."
+    ],
+    "answer_index": 2,
+    "explanation": "C şıkkında 'Bu' sözcüğü ismin yerini tutarak işaret zamiri olarak kullanılmıştır; diğer şıklarda ise işaret sıfatıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-6-y3sr",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde üç farklı fiilimsi türü de (isim-fiil, sıfat-fiil, zarf-fiil) yer almaktadır?",
+    "options": [
+      "Evrakları inceleyip imzalamak üzere gelen görevliye sundu.",
+      "Koşarak odaya girdi ve masadaki belgeleri aldı.",
+      "Gelen konukları karşılamak için kapıya yöneldi.",
+      "Okuduğu kitapları bir kenara ayırıp kütüphaneye koydu.",
+      "Ağlayarak derdini anlatmaya çalışan çocuğu dinledi."
+    ],
+    "answer_index": 0,
+    "explanation": "'İnceleyip' (zarf-fiil), 'imzalamak' (isim-fiil), 'gelen' (sıfat-fiil) olmak üzere üç fiilimsi türü de bir arada yer almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-7-c1qr",
+    "topic_id": "topic-turkce",
+    "prompt": "'Kurumumuza sunulan dilekçeler, ilgili birim tarafından titizlikle incelendi.' cümlesinin öge dizilişi aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+    "options": [
+      "Özne - Zarf Tümleci - Nesne - Yüklem",
+      "Özne - Zarf Tümleci - Zarf Tümleci - Yüklem",
+      "Dolaylı Tümleç - Özne - Zarf Tümleci - Yüklem",
+      "Nesne - Zarf Tümleci - Yüklem",
+      "Özne - Dolaylı Tümleç - Yüklem"
+    ],
+    "answer_index": 1,
+    "explanation": "'Kurumumuza sunulan dilekçeler' (Özne), 'ilgili birim tarafından' (Zarf Tümleci), 'titizlikle' (Zarf Tümleci), 'incelendi' (Yüklem).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-8-va5h",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerden hangisi yapısı bakımından 'bağımsız sıralı' bir cümledir?",
+    "options": [
+      "Yazı işleri müdürü odadan çıktı, memurlar çalışmaya devam etti.",
+      "Sınavı kazandı fakat mülakata katılamadı.",
+      "Aşırı yağış nedeniyle yollar kapanınca trafik durdu.",
+      "Müdür toplantıyı bitirdi ve dışarı çıktı.",
+      "Hava karardı ama hiç kimse yerinden kıpırdamadı."
+    ],
+    "answer_index": 0,
+    "explanation": "İki ayrı cümle virgülle bağlanmış ve aralarında hiçbir öge ortaklığı bulunmamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "topic-turkce-msglbhxi-9-oiz7",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde yüklem, çatısı bakımından hem 'edilgen' hem de 'geçişsiz'dir?",
+    "options": [
+      "Sınav sonuçları dün akşam açıklandı.",
+      "Kayıp belgeler sonunda bulundu.",
+      "Yeni yönetmelik yürürlüğe konuldu.",
+      "Bu sıcak havada dışarı çıkılmaz.",
+      "Raporlar süresi içinde teslim edildi."
+    ],
+    "answer_index": 3,
+    "explanation": "'Çıkılmaz' fiili edilgen çatılıdır (-ıl eki) ve nesne alamadığı ('onu çıkılmaz' denemediği) için geçişsizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T21:19:44.811806+00:00",
+    "updated_at": "2026-08-05T21:19:44.811806+00:00"
+  },
+  {
+    "id": "turkce-01",
+    "topic_id": "topic-turkce",
+    "prompt": "'Kalemlik, evimizin en güzel köşesindeydi.' cümlesinde altı çizili sözcüğün ('kalemlik') yapım eki hangi tür sözcük türetmiştir?",
+    "options": [
+      "İsimden isim yapım eki ile isim türetilmiştir",
+      "Fiilden isim yapım eki ile isim türetilmiştir",
+      "İsimden fiil yapım eki ile fiil türetilmiştir",
+      "Fiilden fiil yapım eki ile fiil türetilmiştir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-02",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde büyük ünlü uyumuna aykırı bir sözcük vardır?",
+    "options": [
+      "Kardeşim yarın okula erken gidecek.",
+      "Kitaplığa yeni kitaplar geldi.",
+      "Televizyon programını izledik.",
+      "Bahçedeki güller açmış."
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-03",
+    "topic_id": "topic-turkce",
+    "prompt": "'Kitab-kitabı, ağaç-ağacı' örneklerinde görülen ses olayı aşağıdakilerden hangisidir?",
+    "options": [
+      "Ünlü daralması",
+      "Ünsüz benzeşmesi",
+      "Ünsüz yumuşaması",
+      "Ünlü düşmesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-04",
+    "topic_id": "topic-turkce",
+    "prompt": "'Öğretmenimiz bize çok değerli bilgiler öğretti ve bizi bilgilendirdi.' cümlesindeki anlatım bozukluğunun türü nedir?",
+    "options": [
+      "Özne eksikliği",
+      "Anlamca çelişen (gereksiz tekrar/eş anlamlı sözcük) kullanımı",
+      "Yüklem eksikliği",
+      "Zaman uyuşmazlığı"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-05",
+    "topic_id": "topic-turkce",
+    "prompt": "'Sınava hazırlanan ve başarılı olmak isteyen öğrenciler, düzenli çalışmalı.' cümlesinde 'öğrenciler' sözcüğü cümlenin hangi ögesidir?",
+    "options": [
+      "Nesne",
+      "Özne",
+      "Dolaylı tümleç",
+      "Zarf tümleci"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-06",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde noktalama işareti yanlış kullanılmıştır?",
+    "options": [
+      "Ali, sınavdan yüksek not aldı.",
+      "\"Yarın geleceğim\" dedi.",
+      "Kitabı okudum ve; çok beğendim.",
+      "Ankara, Türkiye'nin başkentidir."
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-07",
+    "topic_id": "topic-turkce",
+    "prompt": "'Bu konuda sana katılmıyorum, çünkü sen olayın sadece bir yönünü görüyorsun.' cümlesinde 'çünkü' bağlacı cümleye ne tür bir anlam katar?",
+    "options": [
+      "Karşılaştırma",
+      "Sebep-sonuç",
+      "Amaç",
+      "Koşul"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-08",
+    "topic_id": "topic-turkce",
+    "prompt": "'Gel-mek, koş-mak' örneklerindeki '-mek, -mak' eki fiilin hangi çekim biçimini oluşturur?",
+    "options": [
+      "Fiilimsi (mastar)",
+      "Şahıs eki",
+      "Zaman eki",
+      "Kip eki"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-09",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdakilerden hangisi bir isim tamlaması (belirtili isim tamlaması) örneğidir?",
+    "options": [
+      "Yaz tatili",
+      "Öğrencinin kalemi",
+      "Demir kapı",
+      "Güzel çiçek"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-10",
+    "topic_id": "topic-turkce",
+    "prompt": "'Eve gidip biraz dinlendikten sonra ödevlerimi yapacağım.' cümlesi yapı bakımından nasıl bir cümledir?",
+    "options": [
+      "Basit cümle",
+      "Birleşik cümle",
+      "Sıralı cümle",
+      "Bağlı cümle"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-11",
+    "topic_id": "topic-turkce",
+    "prompt": "'Öğretmen, öğrencilere ödevlerini vermeyi unutmadı.' cümlesindeki 'vermeyi' sözcüğü hangi fiilimsi türüdür?",
+    "options": [
+      "Sıfat-fiil (partisip)",
+      "Zarf-fiil (gerundium)",
+      "İsim-fiil (mastar)",
+      "Bunların hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-12",
+    "topic_id": "topic-turkce",
+    "prompt": "'Kapıyı kilitlemeyi unutan hırsız, polislere yakalandı.' cümlesinde altı çizili söz öbeği ('kilitlemeyi unutan') cümlenin hangi ögesini nitelemektedir?",
+    "options": [
+      "Yüklemi",
+      "Nesneyi",
+      "Özneyi ('hırsız')",
+      "Zarf tümlecini"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-13",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde pekiştirme sıfatı kullanılmıştır?",
+    "options": [
+      "Masmavi bir gökyüzü vardı.",
+      "Uzun bir yoldan geldik.",
+      "Kırmızı elbise giydi.",
+      "Yeni bir araba aldı."
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-14",
+    "topic_id": "topic-turkce",
+    "prompt": "'Sokakta oynayan çocuklar, akşam olunca evlerine döndüler.' cümlesinde zarf tümleci hangisidir?",
+    "options": [
+      "Sokakta oynayan",
+      "Çocuklar",
+      "Akşam olunca",
+      "Evlerine döndüler"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-15",
+    "topic_id": "topic-turkce",
+    "prompt": "'Kitap okumak, insanı hem eğlendirir hem de bilgilendirir.' cümlesindeki 'hem...hem de' bağlacı sözcükler/söz öbekleri arasında nasıl bir ilişki kurar?",
+    "options": [
+      "Karşıtlık",
+      "Eş zamanlılık/birliktelik",
+      "Neden-sonuç",
+      "Amaç-sonuç"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-16",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu yoktur?",
+    "options": [
+      "Bu kitabı okumamı ve incelememi istedi.",
+      "Sınıfın en çalışkan ve tembel öğrencisiydi.",
+      "Öğrenciler soruları hem çözdü hem de bitirdi.",
+      "Kapıyı açtı ve girdi, sonra da kapıyı kapattı."
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-17",
+    "topic_id": "topic-turkce",
+    "prompt": "'Sen de mi bu işe karıştın?' cümlesindeki 'de' bağlacının yazımıyla ilgili kural nedir?",
+    "options": [
+      "Bağlaç olan 'de/da' her zaman ayrı yazılır",
+      "Bağlaç olan 'de/da' her zaman bitişik yazılır",
+      "Bağlaç 'de/da' ünlü uyumuna göre bitişik yazılır",
+      "Bağlaç 'de/da' cümle sonunda yazılmaz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-18",
+    "topic_id": "topic-turkce",
+    "prompt": "'Öğretmenin anlattığı konuyu tam olarak anlayamadım.' cümlesinde 'anlattığı' sözcüğündeki '-dığı' eki hangi fiilimsi grubuna aittir?",
+    "options": [
+      "Zarf-fiil",
+      "Sıfat-fiil",
+      "İsim-fiil",
+      "Bağ-fiil"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-19",
+    "topic_id": "topic-turkce",
+    "prompt": "Aşağıdakilerden hangisinde ünlü daralmasına örnek bir kullanım vardır?",
+    "options": [
+      "Diyorum ki (de-i-yorum yerine)",
+      "Geliyorum",
+      "Bakıyorum",
+      "Okuyorum"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "turkce-20",
+    "topic_id": "topic-turkce",
+    "prompt": "'Yağmur yağdığı için maç ertelendi.' cümlesinde altı çizili yan cümlecik ('yağmur yağdığı için') temel cümleye ne tür bir anlam katar?",
+    "options": [
+      "Amaç",
+      "Sebep",
+      "Zaman",
+      "Koşul"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-0-w4kh",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İnsan ihtiyaçlarını hiyerarşik bir piramit olarak ele alan ve en alt basamağa fizyolojik ihtiyaçları yerleştiren motivasyon kuramcısı aşağıdakilerden hangisidir?",
+    "options": [
+      "Frederick Herzberg",
+      "Abraham Maslow",
+      "Douglas McGregor",
+      "David McClelland",
+      "Clayton Alderfer"
+    ],
+    "answer_index": 1,
+    "explanation": "İhtiyaçlar hiyerarşisi kuramı Abraham Maslow tarafından geliştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-1-kxt2",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının duygu ve düşüncelerini onu yargılamadan, onun bakış açısıyla anlamaya çalışmasına iletişimde ne ad verilir?",
+    "options": [
+      "Sempati",
+      "Motivasyon",
+      "Otokontrol",
+      "Empati",
+      "Güdüleme"
+    ],
+    "answer_index": 3,
+    "explanation": "Kişinin kendisini karşısındakinin yerine koyarak onun duygu ve düşüncelerini, niyetini doğru olarak anlamasına empati denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-10-97es",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Hawthorne Araştırmaları ile çalışma ortamındaki fiziksel şartlardan ziyade, sosyal ve psikolojik faktörlerin (insan ilişkilerinin) verimliliği artırdığını kanıtlayan ve Neoklasik yönetim yaklaşımına öncülük eden düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Elton Mayo",
+      "Mary Parker Follett",
+      "Kurt Lewin",
+      "Rensis Likert"
+    ],
+    "answer_index": 1,
+    "explanation": "Hawthorne araştırmaları Elton Mayo ve ekibi tarafından yürütülmüş, insan ilişkileri yaklaşımının temelini oluşturmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-11-e3aq",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Dinleyicinin, konuşanın söylediklerini anlamaya odaklandığı, onu bölmeden dinlediği ve gerektiğinde anladığını teyit eden sorular sorduğu dinleme türü hangisidir?",
+    "options": [
+      "Yüzeysel dinleme",
+      "Savunucu dinleme",
+      "Seçici dinleme",
+      "Aktif (Etkin) dinleme",
+      "Tuzak kurucu dinleme"
+    ],
+    "answer_index": 3,
+    "explanation": "Aktif dinleme, karşıdaki kişiye tam odaklanarak ve geri bildirim vererek gerçekleştirilen en etkili dinleme türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-12-bwvj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çatışma yönetimi stratejilerinde, hem kendi isteklerini hem de karşı tarafın isteklerini en üst düzeyde tatmin etmeyi amaçlayan, 'Kazan-Kazan' ilkesine dayanan yaklaşım hangisidir?",
+    "options": [
+      "Rekabet etme (Zorlama)",
+      "Kaçınma",
+      "İşbirliği yapma (Problem Çözme)",
+      "Uyum sağlama",
+      "Uzlaşma"
+    ],
+    "answer_index": 2,
+    "explanation": "İşbirliği stratejisi, her iki tarafın da ihtiyaçlarını tam olarak karşılayacak ortak çözümler bulmayı hedefler (Kazan-Kazan).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-13-rq0d",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde kullanılan kelimelerin, sembollerin veya dilin kaynak ve alıcı tarafından farklı algılanması sonucu oluşan iletişim engeline ne ad verilir?",
+    "options": [
+      "Fiziksel gürültü",
+      "Anlamsal (Semantik) gürültü",
+      "Psikolojik gürültü",
+      "Fizyolojik gürültü",
+      "Kültürel gürültü"
+    ],
+    "answer_index": 1,
+    "explanation": "Kelimelerin farklı anlamlarda yorumlanmasından kaynaklanan pürüzlere anlamsal (semantik) gürültü denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-14-jooq",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Liderin yetkilerini astlarına devrettiği, onların kendi amaçlarını belirleyip hedeflerine ulaşmalarında tam serbestlik tanıdığı liderlik tarzı hangisidir?",
+    "options": [
+      "Otokratik liderlik",
+      "Demokratik liderlik",
+      "Dönüşümcü liderlik",
+      "Karizmatik liderlik",
+      "Tam serbesti tanıyan (Laissez-Faire) liderlik"
+    ],
+    "answer_index": 4,
+    "explanation": "Laissez-faire (bırakınız yapsınlar) liderlik tarzında, lider gruba minimum müdahalede bulunur ve inisiyatifi astlara bırakır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-15-82bf",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sırasında kişilerin birbirlerine olan fiziksel uzaklığını ve bu alanın (mahremiyet alanı, kişisel alan, sosyal alan vb.) kullanımını inceleyen çalışma alanına ne denir?",
+    "options": [
+      "Kinesik",
+      "Paralinguistik",
+      "Proksemik",
+      "Kronemik",
+      "Haptik"
+    ],
+    "answer_index": 2,
+    "explanation": "Proksemik (Proxemics), insanların mekanları ve birbirleri arasındaki fiziksel mesafeyi nasıl kullandıklarını inceleyen iletişim dalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-16-3332",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Astın bir problemi amirine iletmeden önce, doğrudan amirinin amirine (bir üst kademeye) giderek sorunu anlatması iletişim ağlarında hangi tür bir iletişim akışıdır?",
+    "options": [
+      "Çapraz iletişim",
+      "Silsile (hiyerarşi) atlama",
+      "Yatay iletişim",
+      "İnformal iletişim",
+      "Merkezi iletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Hiyerarşik kademelerin atlanarak bir üst kademedeki yöneticiyle iletişime geçilmesine silsile atlama veya hiyerarşiyi aşma denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-17-hkya",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Maslow'un ihtiyaçlar hiyerarşisini üç temel kategoriye (Var olma, Ait olma, Gelişme) indirgeyerek ERG Kuramı'nı ortaya koyan düşünür kimdir?",
+    "options": [
+      "Victor Vroom",
+      "Clayton Alderfer",
+      "David McClelland",
+      "J. Stacy Adams",
+      "John Locke"
+    ],
+    "answer_index": 1,
+    "explanation": "Alderfer, ERG (Existence, Relatedness, Growth) kuramıyla Maslow'un teorisini basitleştirerek üç ana gruba ayırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-18-j0yo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde yönergelerin, prosedürlerin ve hedeflerin üst yönetimden alt kademe çalışanlara doğru iletilmesine ne ad verilir?",
+    "options": [
+      "Aşağıdan yukarıya dikey iletişim",
+      "Yukarıdan aşağıya dikey iletişim",
+      "Yatay iletişim",
+      "Çapraz iletişim",
+      "Dış iletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Yöneticilerden astlara doğru akan emir, talimat ve bilgilendirme şeklindeki iletişime yukarıdan aşağıya dikey iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-19-029v",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin başarısızlıklarını kişisel özelliklerine (tembellik, yeteneksizlik), başarılarını ise dışsal faktörlere (şans, kolay iş) bağlama eğilimine ne denir?",
+    "options": [
+      "Hale (Halo) Etkisi",
+      "Kalıp Yargı (Stereotip)",
+      "Temel Yükleme Hatası",
+      "Zıtlık Etkisi",
+      "Boynuz Etkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "İnsanların başkalarının davranışlarını açıklarken çevresel faktörleri göz ardı edip kişisel özelliklere atıf yapması Temel Yükleme Hatası (Fundamental Attribution Error) olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-2-s3gk",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurumlarda resmi olmayan, dedikodu ve söylenti şeklinde hızla yayılan iletişim türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Çapraz İletişim",
+      "Yatay İletişim",
+      "Üzüm Salkımı İletişimi",
+      "Dikey İletişim",
+      "Formal İletişim"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurumlarda resmi hiyerarşiye bağlı olmayan, gayriresmi (informal) iletişim ağına üzüm salkımı (grapevine) iletişimi adı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-20-xhm5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Farklı departmanlardaki ve farklı hiyerarşik düzeylerdeki çalışanların (örneğin İnsan Kaynakları Şefinin, Muhasebe Müdürüne bilgi vermesi) hiyerarşik kanalları beklemeden iletişim kurmasına ne denir?",
+    "options": [
+      "Dikey iletişim",
+      "Yatay iletişim",
+      "Dışsal iletişim",
+      "Çapraz iletişim",
+      "Sözsüz iletişim"
+    ],
+    "answer_index": 3,
+    "explanation": "Farklı birimlerde ve farklı yetki düzeylerindeki kişiler arasında, formal kanalları hızlandırmak amacıyla yapılan iletişime çapraz iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-21-jqzi",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışanların kuruma karşı yaşadığı duygusal tükenme, duyarsızlaşma ve kişisel başarı hissinde düşüş olarak tanımlanan sendrom aşağıdakilerden hangisidir?",
+    "options": [
+      "Mobbing",
+      "Tükenmişlik (Burnout) Sendromu",
+      "Cam Tavan Sendromu",
+      "Yabancılaşma",
+      "Kronik Yorgunluk"
+    ],
+    "answer_index": 1,
+    "explanation": "Tükenmişlik sendromu (Burnout), uzun süreli iş stresinin yol açtığı duygusal tükenme ve duyarsızlaşma halidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-22-x4as",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütlerde bir yöneticinin sahip olduğu karar verme ve iş yapma hakkının bir kısmını kendi isteğiyle belirli şartlar altında bir astına devretmesine ne ad verilir?",
+    "options": [
+      "Yetki devri",
+      "Sorumluluk devri",
+      "Merkezileşme",
+      "Hesap verebilirlik",
+      "Güçlendirme"
+    ],
+    "answer_index": 0,
+    "explanation": "Yetki devri (delegasyon), yöneticinin bazı görevleri ve bu görevleri yerine getirme yetkisini astlarına aktarmasıdır. Sorumluluk devredilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-23-kcws",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "J. Stacy Adams'ın 'Eşitlik Kuramı'na göre, bir çalışanın motivasyonu aşağıdakilerden en çok hangisine bağlıdır?",
+    "options": [
+      "İhtiyaçlarının ne kadar hızlı karşılandığına",
+      "İşin ne kadar zor olduğuna",
+      "Kendi çaba ve ödüllerini, aynı kurumdaki diğer çalışanların çaba ve ödülleriyle kıyaslamasına",
+      "Yöneticinin kendisine gösterdiği şefkate",
+      "Çalışma ortamının fiziksel konforuna"
+    ],
+    "answer_index": 2,
+    "explanation": "Eşitlik kuramına göre çalışanlar, işe kattıkları ile elde ettikleri sonuçları, referans aldıkları diğer çalışanların girdileri ve çıktılarıyla kıyaslayarak adalet algısı oluştururlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-24-mo3d",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi yazılı iletişimin sözlü iletişime göre sağladığı avantajlardan biri değildir?",
+    "options": [
+      "Kalıcı bir belge olması",
+      "Karmaşık bilgilerin aktarılmasında daha etkili olması",
+      "Yasal bir geçerliliğinin ve kanıt niteliğinin olması",
+      "Anında geri bildirim (dönüt) alma imkanı sağlaması",
+      "Alıcıya mesajı tekrar okuma şansı vermesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Anında geri bildirim almak sözlü (yüz yüze/telefon) iletişimin avantajıdır. Yazılı iletişimde dönüt süreci daha yavaştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-25-ykhu",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Grupların karar alma sürecinde, grup üyelerinin dışlanma korkusuyla veya uyum sağlamak amacıyla farklı görüşleri dile getirmekten çekinip hatalı kararlara ortak olması durumuna ne ad verilir?",
+    "options": [
+      "Sinerji",
+      "Grup dinamizmi",
+      "Grup düşüncesi (Groupthink)",
+      "Sosyal kaytarma",
+      "Beyin fırtınası"
+    ],
+    "answer_index": 2,
+    "explanation": "Grup düşüncesi (Groupthink), grup içindeki uyum ve uzlaşma arzusunun, mantıklı karar verme ve alternatifleri değerlendirme süreçlerini bastırmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-26-2hk6",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Daniel Goleman tarafından popülerleştirilen, kişinin kendi duygularını ve başkalarının duygularını tanıma, anlama ve yönetme yeteneğine ne isim verilir?",
+    "options": [
+      "Analitik Zeka (IQ)",
+      "Sosyal Sermaye",
+      "Bilişsel Esneklik",
+      "Kültürel Zeka",
+      "Duygusal Zeka (EQ)"
+    ],
+    "answer_index": 4,
+    "explanation": "Duygusal Zeka, kişinin kendisinin ve başkalarının duygularının farkında olması ve bu duyguları etkili bir biçimde yönetebilme kapasitesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-27-7323",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde, alıcının geçmiş deneyimleri, inançları ve kültürel birikimi nedeniyle mesaja sadece kendi istediği ve duymaya alışık olduğu şekilde anlam yüklemesine ne denir?",
+    "options": [
+      "Seçici algılama",
+      "Aktarımsal bozulma",
+      "Geri bildirim",
+      "Fiziksel gürültü",
+      "Kinesik bariyer"
+    ],
+    "answer_index": 0,
+    "explanation": "Seçici algılama, bireylerin iletilen mesajları kendi ihtiyaç, değer, inanç ve beklentilerine uygun olanlarını seçerek algılamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-28-nz22",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası iletişimde 'Ben Dili'ni kullanmanın temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Karşı tarafı yargılayarak savunmaya geçirmek",
+      "Kişinin kendi duygu ve düşüncelerini karşı tarafı suçlamadan ifade etmesi",
+      "Otorite kurarak emir vermek",
+      "Sorumluluğu tamamen karşı tarafa yüklemek",
+      "İletişimi tamamen sonlandırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Ben dili, karşı tarafı suçlamadan davranışın bizde yarattığı hissi ve etkiyi açıklayarak iletişimi açık tutan yapıcı bir ifade şeklidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-29-vi2d",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurumlarda bir kişinin sırf bir gruba (ırk, cinsiyet, meslek) ait olmasından dolayı, o grubun genel özelliklerinin o kişide de kesin olarak bulunduğunu varsayma eğilimine ne ad verilir?",
+    "options": [
+      "Seçici Gözlem",
+      "Kontrast Etkisi",
+      "Kalıp Yargı (Stereotiplendirme)",
+      "Pygmalion Etkisi",
+      "Yansıtma"
+    ],
+    "answer_index": 2,
+    "explanation": "İnsanları aidiyet hissettikleri gruplara göre kategorize ederek hepsinin aynı özelliklere sahip olduğunu varsaymak stereotiplendirme (kalıp yargı) olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-3-wm6i",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde kaynağın gönderdiği mesajın alıcı tarafından doğru anlaşılıp anlaşılmadığını kontrol etmek için kaynağa geri dönen bilgi akışına ne ad verilir?",
+    "options": [
+      "Kanal",
+      "Kodlama",
+      "Geri Bildirim (Dönüt)",
+      "Gürültü",
+      "Bağlam"
+    ],
+    "answer_index": 2,
+    "explanation": "Geri bildirim (dönüt), mesajın alıcı üzerindeki etkisini kaynağa ileten ve iletişimi çift yönlü kılan süreçtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-4-be0v",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yönetimde, çalışanların doğuştan işi sevmediğini, tembel olduğunu ve ancak zorlanarak, tehdit edilerek çalıştırılabileceğini savunan McGregor'un kuramı aşağıdakilerden hangisidir?",
+    "options": [
+      "Y Kuramı",
+      "Z Kuramı",
+      "Beklenti Kuramı",
+      "X Kuramı",
+      "Çift Faktör Kuramı"
+    ],
+    "answer_index": 3,
+    "explanation": "McGregor'un X Kuramı çalışanların tembel olduğunu, Y Kuramı ise tam tersine çalışmanın doğal bir ihtiyaç olduğunu savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-5-r919",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi sözsüz iletişim unsurlarından biri değildir?",
+    "options": [
+      "Ses tonu",
+      "Beden duruşu (Postür)",
+      "Yazılı raporlar",
+      "Göz teması",
+      "Jest ve mimikler"
+    ],
+    "answer_index": 2,
+    "explanation": "Yazılı raporlar sözlü/yazılı iletişim kategorisine girerken, jestler, mimikler, ses tonu ve beden duruşu sözsüz iletişimin (beden dili) unsurlarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-6-te7c",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası iletişimde 'Johari Penceresi' modeline göre; kişinin kendisi tarafından bilinen fakat başkaları tarafından bilinmeyen alan aşağıdakilerden hangisidir?",
+    "options": [
+      "Açık Alan",
+      "Kör Alan",
+      "Bilinmeyen Alan",
+      "Karanlık Alan",
+      "Gizli Alan"
+    ],
+    "answer_index": 4,
+    "explanation": "Johari Penceresi'nde kişinin bildiği ama başkalarından sakladığı özelliklerinin bulunduğu alan 'Gizli Alan'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-7-u1ca",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İş ortamında hijyen faktörleri (maaş, çalışma koşulları) ve motive edici faktörler (başarı, tanınma) ayrımını yaparak 'Çift Faktör Kuramı'nı geliştiren bilim insanı kimdir?",
+    "options": [
+      "Frederick Herzberg",
+      "Victor Vroom",
+      "Elton Mayo",
+      "Henri Fayol",
+      "Max Weber"
+    ],
+    "answer_index": 0,
+    "explanation": "Çift Faktör Kuramı (Motivasyon-Hijyen Kuramı) Frederick Herzberg'e aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-8-ll4m",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aynı hiyerarşik düzeyde bulunan, örneğin iki farklı daire başkanının veya iki şube müdürünün birbiriyle kurduğu iletişim türü hangisidir?",
+    "options": [
+      "Yukarıdan aşağıya dikey iletişim",
+      "Aşağıdan yukarıya dikey iletişim",
+      "Çapraz iletişim",
+      "Dış iletişim",
+      "Yatay iletişim"
+    ],
+    "answer_index": 4,
+    "explanation": "Örgütlerde aynı yetki ve sorumluluk düzeyindeki kişi ve birimler arasındaki iletişime yatay iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfz9x1c-9-tecj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının sadece bir olumlu özelliğine (örneğin diksiyonunun düzgün olması) bakarak onun tüm iş performansının mükemmel olduğunu düşünmesi hangi algısal yanılgıdır?",
+    "options": [
+      "Stereotipleştirme",
+      "Halo Etkisi",
+      "Seçici Algı",
+      "Projeksiyon (Yansıtma)",
+      "Pygmalion Etkisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Halo (Hale) etkisi, kişinin bir tek olumlu özelliğinden yola çıkarak o kişi hakkında genel bir olumlu yargıya varılmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:02:38.493485+00:00",
+    "updated_at": "2026-08-05T11:02:38.493485+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4t-0-com0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "French ve Raven tarafından tanımlanan güç türlerinden biri olan, yöneticinin sahip olduğu uzmanlık bilgisinden ve tecrübesinden kaynaklanan güç aşağıdakilerden hangisidir?",
+    "options": [
+      "Yasal Güç",
+      "Ödüllendirme Gücü",
+      "Uzmanlık Gücü",
+      "Zorlayıcı Güç",
+      "Karizmatik Güç"
+    ],
+    "answer_index": 2,
+    "explanation": "Uzmanlık gücü, yöneticinin sahip olduğu bilgi, beceri ve deneyimin astlar tarafından kabul edilmesine dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4t-1-zchc",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Thomas-Kilmann modeline göre, kişinin kendi hedeflerinden tamamen vazgeçerek karşı tarafın isteklerini kabul etmesi hangi çatışma yönetimi tarzıdır?",
+    "options": [
+      "Kaçınma",
+      "Rekabet",
+      "Uzlaşma",
+      "Uyum Sağlama (Ödün Verme)",
+      "İşbirliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Uyum sağlama stratejisinde kişi, ilişkileri korumak adına kendi çıkarlarını feda ederek karşı tarafın taleplerini kabul eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-11-gur0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Sözlü iletişimde konuşmacının ses tonu, hızı, vurgulamaları ve duraklamalarını inceleyen dal aşağıdakilerden hangisidir?",
+    "options": [
+      "Kinesik",
+      "Paralinguistik",
+      "Proksemik",
+      "Haptik",
+      "Kronemik"
+    ],
+    "answer_index": 1,
+    "explanation": "Paralinguistik (dil ötesi), kelimelerin kendisinden ziyade nasıl söylendiğiyle (ses özellikleri) ilgilenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-12-kbho",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütlerde 'Cam Tavan' (Glass Ceiling) kavramı neyi ifade eder?",
+    "options": [
+      "Ofislerin fiziksel olarak şeffaf tasarlanmasını",
+      "Yöneticilerin her şeyi görmesini",
+      "Kadınların ve azınlıkların üst yönetim kademelerine gelmesini engelleyen görünmez engelleri",
+      "Personelin işten ayrılma sürecini",
+      "Maaşların gizli tutulmasını"
+    ],
+    "answer_index": 2,
+    "explanation": "Cam tavan, liyakata bakılmaksızın belirli grupların kariyer basamaklarında yükselmesini engelleyen önyargılardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-13-p3sq",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "McClelland'ın Başarı İhtiyacı Teorisi'nde yer alan üç temel ihtiyaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Yemek, Su, Barınma",
+      "Başarı, Güç, Bağlanma (Ait Olma)",
+      "Maaş, Güvenlik, Statü",
+      "Eğitim, Sağlık, Eğlence",
+      "Saygınlık, Özerklik, Adalet"
+    ],
+    "answer_index": 1,
+    "explanation": "McClelland'a göre insanlar başarı (achievement), güç (power) ve bir gruba ait olma (affiliation) ihtiyaçları ile motive olurlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  }
+]
+

@@ -1,0 +1,1653 @@
+[
+  {
+    "id": "4734-kanun-01",
+    "topic_id": "4734-kanun",
+    "prompt": "4734 sayılı Kanun'un temel amacı nedir?",
+    "options": [
+      "Kamu hukukuna tabi idarelerin mal/hizmet alımı ve yapım ihalelerinde uygulanacak esasları düzenlemek",
+      "Sadece taşınmaz satışını düzenlemek",
+      "Sadece personel atamasını düzenlemek",
+      "Sadece vergi mevzuatını düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-02",
+    "topic_id": "4734-kanun",
+    "prompt": "Kanun'a göre temel ihale usulleri nelerdir?",
+    "options": [
+      "Açık ihale usulü ve belli istekliler arasında ihale usulü (esas usuller)",
+      "Sadece pazarlık usulü",
+      "Sadece doğrudan temin",
+      "Sadece kapalı zarf usulü"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-03",
+    "topic_id": "4734-kanun",
+    "prompt": "Kamu İhale Kurumu'nun temel görevi nedir?",
+    "options": [
+      "İhale mevzuatının uygulanmasını izlemek ve itirazen şikâyetleri incelemek",
+      "Sadece bütçe onaylamak",
+      "Sadece personel atamak",
+      "Sadece vergi toplamak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-04",
+    "topic_id": "4734-kanun",
+    "prompt": "İhalelerde temel ilkelerden biri değildir?",
+    "options": [
+      "Saydamlık",
+      "Rekabet",
+      "Güvenirlik",
+      "Kayırmacılık"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-05",
+    "topic_id": "4734-kanun",
+    "prompt": "Yaklaşık maliyet neyi ifade eder?",
+    "options": [
+      "İdarece gerçekleştirilecek alımın tahmini bedelini",
+      "Kesin ihale bedelini",
+      "Teminat tutarını",
+      "Ceza miktarını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-06",
+    "topic_id": "4734-kanun",
+    "prompt": "Doğrudan temin usulü ne zaman kullanılabilir?",
+    "options": [
+      "Kanunda sayılan istisnai ve acil hallerde",
+      "Her zaman serbestçe",
+      "Sadece büyük alımlarda",
+      "Kullanılamaz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-07",
+    "topic_id": "4734-kanun",
+    "prompt": "İhalelere katılamayacak olanlar arasında hangisi sayılır?",
+    "options": [
+      "İhaleyi yapan idarede görevli kişiler ile bunların yakınları (kanunda sayılanlar)",
+      "Tüm gerçek kişiler",
+      "Tüm tüzel kişiler",
+      "Yabancı firmalar"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4734-kanun-08",
+    "topic_id": "4734-kanun",
+    "prompt": "Şikâyet başvurusu hangi süre içinde yapılmalıdır?",
+    "options": [
+      "Kanunda belirtilen süreler içinde (ihale sürecine göre değişir)",
+      "Süre sınırı yoktur",
+      "1 yıl içinde",
+      "6 ay içinde"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-01",
+    "topic_id": "4735-kanun",
+    "prompt": "4735 sayılı Kanun neyi düzenler?",
+    "options": [
+      "4734 sayılı Kanun'a göre yapılan ihaleler sonucu düzenlenen sözleşmelerin uygulanmasını",
+      "Sadece ihale sürecini",
+      "Sadece teminat oranlarını",
+      "Sadece cezaları"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-02",
+    "topic_id": "4735-kanun",
+    "prompt": "Sözleşmelerde 'süre uzatımı' hangi hallerde verilebilir?",
+    "options": [
+      "Kanunda sayılan mücbir sebep ve idareden kaynaklanan nedenlerle",
+      "Her istekte",
+      "Hiçbir zaman",
+      "Sadece yüklenici isterse"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-03",
+    "topic_id": "4735-kanun",
+    "prompt": "Sözleşmenin devri kural olarak nasıldır?",
+    "options": [
+      "İdarenin yazılı izni ile ve kanunda belirtilen şartlarla mümkündür",
+      "Serbestçe yapılabilir",
+      "Hiçbir şekilde yapılamaz",
+      "Sadece idare devredebilir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-04",
+    "topic_id": "4735-kanun",
+    "prompt": "Kesin teminat sözleşme bedeli üzerinden genel olarak ne kadardır?",
+    "options": [
+      "%6",
+      "%1",
+      "%10",
+      "%20"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-05",
+    "topic_id": "4735-kanun",
+    "prompt": "Sözleşmenin feshi hangi hallerde söz konusu olabilir?",
+    "options": [
+      "Yüklenicinin taahhüdünü ihlali gibi kanunda sayılan hallerde",
+      "Sadece idarenin keyfi kararıyla",
+      "Sadece yüklenicinin isteğiyle",
+      "Hiçbir zaman"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-06",
+    "topic_id": "4735-kanun",
+    "prompt": "Kabul işlemleri neyi ifade eder?",
+    "options": [
+      "Yapım/mal/hizmetin sözleşmeye uygunluğunun idarece tespit edilmesini",
+      "Sadece ödemenin yapılmasını",
+      "Sadece ihalenin sonuçlanmasını",
+      "Sadece teminatın iadesini"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-07",
+    "topic_id": "4735-kanun",
+    "prompt": "Gecikme cezası ne zaman uygulanır?",
+    "options": [
+      "Yüklenicinin işi süresinde tamamlamaması halinde",
+      "Her durumda",
+      "Sadece idare isterse",
+      "Hiçbir zaman"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4735-kanun-08",
+    "topic_id": "4735-kanun",
+    "prompt": "Fiyat farkı ödenmesi hangi hallerde söz konusu olabilir?",
+    "options": [
+      "Sözleşmede veya mevzuatta öngörülen şartlarda",
+      "Her zaman serbestçe",
+      "Hiçbir zaman",
+      "Sadece yüklenici talep ederse otomatik"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-01",
+    "topic_id": "law-4982",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun amacı nedir?",
+    "options": [
+      "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+      "Sadece basın mensuplarına bilgi vermek",
+      "Ticari sırları korumak",
+      "Kamu ihalelerini düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-02",
+    "topic_id": "law-4982",
+    "prompt": "Bilgi edinme başvurularına kurumların yanıt vermesi gereken azami süre nedir?",
+    "options": [
+      "15 iş günü",
+      "30 iş günü",
+      "10 gün",
+      "60 gün"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-03",
+    "topic_id": "law-4982",
+    "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
+    "options": [
+      "Evet, tamamen kapsamdadır",
+      "Hayır, kapsam dışıdır",
+      "Sadece mahkeme kararıyla açıklanır",
+      "Sadece basına açıklanır"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-04",
+    "topic_id": "law-4982",
+    "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
+      "Sadece Cumhurbaşkanlığına",
+      "Sadece Sayıştaya",
+      "Sadece Danıştaya"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-05",
+    "topic_id": "law-4982",
+    "prompt": "Bilgi edinme başvurusunun reddi halinde başvurulacak üst mercii nedir?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu",
+      "Belediye Meclisi",
+      "İl Genel Meclisi",
+      "Sendika"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-06",
+    "topic_id": "law-4982",
+    "prompt": "4982 sayılı Kanun'a göre hangi bilgi/belge bilgi edinme hakkı kapsamı dışındadır?",
+    "options": [
+      "Kurum içi düzenlemeler niteliğindeki kararlar ile tavsiye, mütalaa ve öneriler",
+      "Kurumun görev alanına giren tüm belgeler",
+      "Kamuoyunu ilgilendiren tüm kararlar",
+      "Bütçe belgeleri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-kanun-01",
+    "topic_id": "4982-kanun",
+    "prompt": "4982 sayılı Kanun'un amacı nedir?",
+    "options": [
+      "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+      "Sadece basın mensuplarına bilgi vermek",
+      "Ticari sırları korumak",
+      "Kamu ihalelerini düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-kanun-02",
+    "topic_id": "4982-kanun",
+    "prompt": "Bilgi edinme başvurularına kurumların yanıt vermesi gereken azami süre nedir?",
+    "options": [
+      "15 iş günü",
+      "30 iş günü",
+      "10 gün",
+      "60 gün"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-kanun-03",
+    "topic_id": "4982-kanun",
+    "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
+    "options": [
+      "Evet, tamamen kapsamdadır",
+      "Hayır, kapsam dışıdır",
+      "Sadece mahkeme kararıyla açıklanır",
+      "Sadece basına açıklanır"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-kanun-04",
+    "topic_id": "4982-kanun",
+    "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
+      "Sadece Cumhurbaşkanlığına",
+      "Sadece Sayıştaya",
+      "Sadece Danıştaya"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "4982-kanun-05",
+    "topic_id": "4982-kanun",
+    "prompt": "Bilgi edinme başvurusunun reddi halinde başvurulacak üst mercii nedir?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu",
+      "Belediye Meclisi",
+      "İl Genel Meclisi",
+      "Sendika"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-01",
+    "topic_id": "law-5018",
+    "prompt": "5018 sayılı Kanun'un temel amacı nedir?",
+    "options": [
+      "Kamu kaynaklarının etkili, ekonomik ve verimli kullanılmasını sağlamak",
+      "Sadece vergi toplamak",
+      "Sadece maaş ödemelerini düzenlemek",
+      "Sadece ihale usullerini belirlemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-02",
+    "topic_id": "law-5018",
+    "prompt": "Kanun'a göre bütçe türlerinden biri değildir?",
+    "options": [
+      "Merkezi yönetim bütçesi",
+      "Sosyal güvenlik kurumları bütçesi",
+      "Mahallî idareler bütçesi",
+      "Şirket bilançosu"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-03",
+    "topic_id": "law-5018",
+    "prompt": "Harcama yetkilisi kimdir?",
+    "options": [
+      "Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi",
+      "Sadece Bakan",
+      "Sadece Sayıştay Başkanı",
+      "Sadece Maliye Bakanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-04",
+    "topic_id": "law-5018",
+    "prompt": "Ön mali kontrol görevi temel olarak kime aittir?",
+    "options": [
+      "Strateji Geliştirme Birimlerine",
+      "Sadece Sayıştaya",
+      "Sadece Bakanlar Kuruluna",
+      "Sadece TBMM'ye"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-05",
+    "topic_id": "law-5018",
+    "prompt": "5018 sayılı Kanun'a göre stratejik plan hazırlama yükümlülüğü kimlere aittir?",
+    "options": [
+      "Kamu idarelerine",
+      "Sadece belediyelere",
+      "Sadece üniversitelere",
+      "Sadece bakanlıklara"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-06",
+    "topic_id": "law-5018",
+    "prompt": "Kamu mali yönetiminin temel ilkelerinden biri değildir?",
+    "options": [
+      "Malî saydamlık",
+      "Hesap verebilirlik",
+      "Stratejik planlama",
+      "Kişisel takdir yetkisi"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-07",
+    "topic_id": "law-5018",
+    "prompt": "Bütçe kesin hesap kanunu hangi organca kabul edilir?",
+    "options": [
+      "TBMM",
+      "Bakanlar Kurulu",
+      "Sayıştay",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-08",
+    "topic_id": "law-5018",
+    "prompt": "Taşınır mal yönetiminden kim sorumludur?",
+    "options": [
+      "Harcama yetkilisi ve taşınır kayıt yetkilisi",
+      "Sadece Maliye Bakanlığı",
+      "Sadece Sayıştay",
+      "Sadece TBMM"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5018-kanun-09",
+    "topic_id": "law-5018",
+    "prompt": "İç denetim faaliyeti hangi amaçla yürütülür?",
+    "options": [
+      "Kurumun risk yönetimi, kontrol ve yönetim süreçlerini değerlendirmek",
+      "Sadece personel sicilini tutmak",
+      "Sadece bütçe hazırlamak",
+      "Sadece ihale açmak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-01",
+    "topic_id": "law-5442",
+    "prompt": "5442 sayılı Kanun'a göre il idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Belediye Başkanı",
+      "Kaymakam",
+      "İl Genel Meclisi Başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-02",
+    "topic_id": "law-5442",
+    "prompt": "İlçe idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Muhtar",
+      "İl Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-03",
+    "topic_id": "law-5442",
+    "prompt": "Vali, ilde hangi organın temsilcisidir?",
+    "options": [
+      "Sadece İçişleri Bakanlığının",
+      "Devletin ve ayrı ayrı her bakanlığın",
+      "Sadece Cumhurbaşkanının",
+      "Belediyenin"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-04",
+    "topic_id": "law-5442",
+    "prompt": "İl idare şube başkanları kime karşı sorumludur?",
+    "options": [
+      "Bakanlıklarına doğrudan",
+      "Valiye",
+      "Kaymakama",
+      "Belediye Başkanına"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-05",
+    "topic_id": "law-5442",
+    "prompt": "Kaymakam, ilçesinde hangi sıfatla görev yapar?",
+    "options": [
+      "Hükümetin temsilcisi ve ilçenin en büyük mülki amiri",
+      "Sadece belediye temsilcisi",
+      "İl Genel Meclisi üyesi",
+      "Muhtarların amiri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5442-kanun-06",
+    "topic_id": "law-5442",
+    "prompt": "İl idare kurulu kimlerden oluşur?",
+    "options": [
+      "Vali başkanlığında ilgili il müdürlerinden",
+      "Sadece Vali'den",
+      "Belediye meclisinden",
+      "Kaymakamlardan"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5580-kanun-01",
+    "topic_id": "law-5580",
+    "prompt": "5580 sayılı Kanun neyi düzenler?",
+    "options": [
+      "Özel okul, kurs ve öğretim kurumlarının açılış/işleyiş esaslarını",
+      "Sadece devlet okullarını",
+      "Sadece üniversiteleri",
+      "Sadece meslek odalarını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5580-kanun-02",
+    "topic_id": "law-5580",
+    "prompt": "Özel öğretim kurumu açma izni kim tarafından verilir?",
+    "options": [
+      "Millî Eğitim Bakanlığı (il/ilçe müdürlükleri aracılığıyla)",
+      "Ticaret Odası",
+      "Belediye Meclisi",
+      "Maliye Bakanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5580-kanun-03",
+    "topic_id": "law-5580",
+    "prompt": "Özel öğretim kurumlarının denetimini kim yapar?",
+    "options": [
+      "Millî Eğitim Bakanlığı",
+      "Ticaret Bakanlığı",
+      "Belediye",
+      "Sayıştay"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5580-kanun-04",
+    "topic_id": "law-5580",
+    "prompt": "Kanun'a göre özel okullardaki eğitim-öğretim ücretleri nasıl belirlenir?",
+    "options": [
+      "Kanun ve ilgili mevzuat çerçevesinde kurum tarafından belirlenip ilan edilir",
+      "Serbestçe, hiçbir kurala tabi değildir",
+      "Sadece Bakanlar Kurulu belirler",
+      "Sadece belediye belirler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "5580-kanun-05",
+    "topic_id": "law-5580",
+    "prompt": "Özel öğretim kurumlarında görev yapacak öğretmenlerde aranan temel şart nedir?",
+    "options": [
+      "İlgili alanda öğretmenlik formasyonu/atama şartlarını taşımak",
+      "Hiçbir şart aranmaz",
+      "Sadece tecrübe yeterlidir",
+      "Sadece yabancı dil bilmek yeterlidir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "652-khk-01",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK tarihsel olarak neyi düzenlemek üzere çıkarılmıştır?",
+    "options": [
+      "Millî Eğitim Bakanlığının teşkilat ve görevlerini",
+      "Sadece öğretmen maaşlarını",
+      "Sadece sınav sistemini",
+      "Sadece ders kitaplarını"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "652-khk-02",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK sonrasında MEB teşkilat yapısı hangi düzenlemeyle güncellenmiştir?",
+    "options": [
+      "1 Sayılı Cumhurbaşkanlığı Kararnamesi ile",
+      "Sadece yönetmeliklerle",
+      "Sadece genelgelerle",
+      "Değişmemiştir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "652-khk-03",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'nın kapsamına giren temel konu hangisidir?",
+    "options": [
+      "Bakanlığın merkez ve taşra teşkilatının görev, yetki ve sorumlulukları",
+      "Sadece bütçe kalemleri",
+      "Sadece disiplin cezaları",
+      "Sadece sendikal haklar"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "652-khk-msf54j3z-0-vymj",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK kapsamında sözleşmeli öğretmen olarak atananlar, atandıkları yerde kaç yıl süreyle başka bir yere atanamazlar?",
+    "options": [
+      "1 Yıl",
+      "2 Yıl",
+      "3 Yıl",
+      "4 Yıl",
+      "5 Yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "652 sayılı KHK'nın ek 4. maddesine göre, sözleşmeli öğretmenler üç yıl süreyle başka bir yere atanamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-1-374s",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenler, üç yıllık çalışma sürelerini tamamlayıp öğretmen kadrolarına atandıktan sonra aynı yerde en az kaç yıl daha görev yapmak zorundadırlar?",
+    "options": [
+      "6 Ay",
+      "1 Yıl",
+      "2 Yıl",
+      "3 Yıl",
+      "Hemen tayin isteyebilirler"
+    ],
+    "answer_index": 1,
+    "explanation": "Kadrolara atananlar, aynı yerde en az bir yıl daha görev yaptıktan sonra yer değiştirme isteğinde bulunabilirler (3+1 kuralı).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-10-ixhn",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'ya göre, sözleşmeli öğretmenlerin can güvenliği mazeretine dayalı yer değişikliği talepleri nasıl değerlendirilir?",
+    "options": [
+      "Asla kabul edilmez",
+      "3 yıl dolmadan yapılamaz",
+      "Hizmet süresi şartı aranmaksızın değerlendirilir",
+      "Sadece kadroya geçince değerlendirilir",
+      "Valilik onayı ile 2 yıl sonra yapılır"
+    ],
+    "answer_index": 2,
+    "explanation": "Can güvenliği ve sağlık mazeretleri gibi istisnai durumlar 3 yıllık süre şartına tabi olmaksızın mevzuat çerçevesinde değerlendirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-11-s82o",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlık teşkilatındaki en üst danışma birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Talim ve Terbiye Kurulu",
+      "Milli Eğitim Şurası",
+      "Bakanlık Müşavirliği",
+      "Teftiş Kurulu",
+      "Strateji Geliştirme Başkanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Talim ve Terbiye Kurulu Başkanlığı, Bakanlığın en yakın bilimsel danışma ve karar organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-12-xl8u",
+    "topic_id": "652-khk",
+    "prompt": "Talim ve Terbiye Kurulu Başkanlığı kaç üyeden oluşur?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "10 (Başkan dahil)",
+      "15"
+    ],
+    "answer_index": 3,
+    "explanation": "Kurul, bir başkan ve dokuz üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-13-li1y",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlerin askerlik hizmeti nedeniyle sözleşmeleri ne olur?",
+    "options": [
+      "Feshedilir ve bir daha atanamazlar",
+      "Askerlik süresince maaşları ödenmeye devam eder",
+      "Sözleşmeleri askıya alınır, terhis sonrası görevlerine dönerler",
+      "Askerlik süresi 3 yıllık çalışma süresinden sayılır",
+      "Yarım maaş alırlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Muvazzaf askerlik hizmeti için görevinden ayrılan sözleşmeli personelin sözleşmesi askıya alınır ve terhisini müteakip başvuru üzerine görevine başlatılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-14-ettu",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlıkça belirlenen hizmet bölgelerindeki eğitim kurumlarında görev yapan sözleşmeli öğretmenlere, görev yaptıkları bölgeye göre ne kadar ek tazminat ödenebilir?",
+    "options": [
+      "Maaşın %10'u",
+      "Maaşın %20'si",
+      "Maaşın %50'sine kadar ek ödeme",
+      "Hizmet tazminatı oranında",
+      "Ek tazminat ödenmez"
+    ],
+    "answer_index": 3,
+    "explanation": "KHK kapsamında güçlük zammı veya kalkınmada öncelikli yöre tazminatı gibi ek ödemeler sözleşmeli öğretmenlere de şartları dahilinde ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-15-bjvq",
+    "topic_id": "652-khk",
+    "prompt": "Destek Hizmetleri Genel Müdürlüğü'nün görev alanına girmeyen seçenek hangisidir?",
+    "options": [
+      "Ders kitaplarını bastırmak",
+      "Taşıma yoluyla eğitime erişim hizmetleri",
+      "Sosyal tesislerin yönetimi",
+      "Öğretmenlerin maaş bordrolarını hazırlamak",
+      "İhale iş ve işlemleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Maaş bordroları ve personel özlük işleri Personel Genel Müdürlüğü sorumluluğundadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-16-rxam",
+    "topic_id": "652-khk",
+    "prompt": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü'nün (YEĞİTEK) kısa adı nedir?",
+    "options": [
+      "YETGM",
+      "YETEK",
+      "YEĞİTEK",
+      "EGİTEK",
+      "YENİTEK"
+    ],
+    "answer_index": 2,
+    "explanation": "Birim yaygın olarak YEĞİTEK kısaltmasıyla bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-17-wxrf",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlik başvurusu için KPSS puanının geçerlilik süresi ne kadardır?",
+    "options": [
+      "1 Yıl",
+      "2 Yıl",
+      "3 Yıl",
+      "Süresiz",
+      "Sadece sınavın yapıldığı yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Öğretmenlik atamalarında KPSS puanı mevcut mevzuat gereği 1 yıl geçerlidir (Bazı geçiş dönemlerinde 2 yıl kabul edilmiştir ancak genel kural 1'dir).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-18-zt85",
+    "topic_id": "652-khk",
+    "prompt": "Okul öncesi, ilköğretim ve ortaöğretim düzeyindeki özel okulların açılmasına izin verme yetkisi hangi birimdedir?",
+    "options": [
+      "Valilikler",
+      "İl Milli Eğitim Müdürlükleri",
+      "Özel Öğretim Kurumları Genel Müdürlüğü",
+      "Temel Eğitim Genel Müdürlüğü",
+      "Bakanlık Müşavirliği"
+    ],
+    "answer_index": 2,
+    "explanation": "Özel öğretim kurumlarının açılması, devri ve kapatılması Özel Öğretim Kurumları Genel Müdürlüğü tarafından yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-19-h7q6",
+    "topic_id": "652-khk",
+    "prompt": "Strateji Geliştirme Başkanlığı'nın temel görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Müfredat hazırlamak",
+      "Öğretmenlerin disiplin işlerine bakmak",
+      "Bakanlığın bütçesini hazırlamak ve performans kriterlerini belirlemek",
+      "Yurt dışındaki Türk çocuklarının eğitimini takip etmek",
+      "FATİH projesini yürütmek"
+    ],
+    "answer_index": 2,
+    "explanation": "Strateji Geliştirme Başkanlığı bütçe, performans, yatırım programı ve stratejik planlama işlerinden sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-2-o3n5",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlerin sözleşmeleri aşağıdakilerden hangisi tarafından feshedilir?",
+    "options": [
+      "Okul Müdürü",
+      "İlçe Milli Eğitim Müdürü",
+      "Atamayı yapan amir",
+      "Vali",
+      "Bakanlık Müfettişi"
+    ],
+    "answer_index": 2,
+    "explanation": "Sözleşmeli personelin sözleşmesi, atamayı yapan amir tarafından feshedilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-20-actq",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'ya göre Bilgi İşlem Genel Müdürlüğü'nün görevleri arasındadır?",
+    "options": [
+      "Okullara bilgisayar dağıtmak",
+      "Bakanlık projelerinin veri tabanlarını oluşturmak ve güvenliğini sağlamak",
+      "EBA portalını yönetmek",
+      "Öğretmenlerin bilişim eğitimlerini vermek",
+      "Hepsi"
+    ],
+    "answer_index": 4,
+    "explanation": "Bilgi İşlem Genel Müdürlüğü bakanlığın tüm dijital altyapı ve yazılım süreçlerini yönetir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-21-hs79",
+    "topic_id": "652-khk",
+    "prompt": "Talim ve Terbiye Kurulu üyelerinin görev süresi kaç yıldır?",
+    "options": [
+      "2 Yıl",
+      "3 Yıl",
+      "4 Yıl",
+      "5 Yıl",
+      "Ömür boyu"
+    ],
+    "answer_index": 2,
+    "explanation": "Talim ve Terbiye Kurulu üyeleri dört yıl süreyle atanır; süresi bitenler tekrar atanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-22-feih",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenler hangi sosyal güvenlik kurumuna tabidirler?",
+    "options": [
+      "Emekli Sandığı (4/C)",
+      "Bağ-Kur (4/B)",
+      "Sosyal Sigortalar Kurumu (4/A)",
+      "Hiçbiri",
+      "Oyak"
+    ],
+    "answer_index": 2,
+    "explanation": "Sözleşmeli öğretmenler 5510 sayılı Kanun kapsamında 4/A (işçi statüsü benzeri sigorta) statüsünde değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-23-07hq",
+    "topic_id": "652-khk",
+    "prompt": "652 Sayılı KHK uyarınca, öğretmenlerin emeklilik işlemleri hangi ayda yapılır?",
+    "options": [
+      "Ocak",
+      "Mart",
+      "Haziran ve Temmuz",
+      "Eylül",
+      "Aralık"
+    ],
+    "answer_index": 2,
+    "explanation": "Öğretmenlerin emeklilik işlemleri, eğitim-öğretim yılının aksamaması için genellikle Haziran ve Temmuz aylarında yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-24-1v7j",
+    "topic_id": "652-khk",
+    "prompt": "Yurt dışındaki Türk vatandaşlarının eğitim hizmetlerini yürütmekle görevli birim hangisidir?",
+    "options": [
+      "Hukuk Hizmetleri Genel Müdürlüğü",
+      "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü",
+      "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü",
+      "Din Öğretimi Genel Müdürlüğü",
+      "Mesleki ve Teknik Eğitim Genel Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Yurt dışı eğitim ve burs işlemlerinden Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-25-jdvx",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlık personeline ait her türlü disiplin, ödül ve sicil işlerini hangi birim koordine eder?",
+    "options": [
+      "Teftiş Kurulu Başkanlığı",
+      "Hukuk Hizmetleri Genel Müdürlüğü",
+      "Personel Genel Müdürlüğü",
+      "Strateji Geliştirme Başkanlığı",
+      "Bakanlık Müşavirliği"
+    ],
+    "answer_index": 2,
+    "explanation": "Personel Genel Müdürlüğü, personelin özlük, disiplin ve atama gibi tüm süreçlerini yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-26-0fx3",
+    "topic_id": "652-khk",
+    "prompt": "Milli Eğitim Bakanlığı'nın merkez teşkilatında kaç adet 'Genel Müdürlük' seviyesinde birim vardır?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18",
+      "22"
+    ],
+    "answer_index": 3,
+    "explanation": "Bakanlık teşkilat şemasında (Cumhurbaşkanlığı Kararnamesi ile güncellenen halleri dahil) yaklaşık 18 ana hizmet birimi/genel müdürlük bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-27-fql4",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'da yer alan 'Sözleşmeli öğretmenlerin sözlü sınavı' kimler tarafından yapılır?",
+    "options": [
+      "Sadece Müfettişler",
+      "Sözlü Sınav Komisyonu",
+      "İl Milli Eğitim Müdürleri",
+      "Üniversite Hocaları",
+      "Bakanlık Müşavirleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Atamalar öncesinde oluşturulan 'Sözlü Sınav Komisyonları' sınavı gerçekleştirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-28-l83r",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmen olarak atananlar, göreve başlamadıkları takdirde kaç yıl süreyle tekrar sözleşmeli öğretmenliğe başvuramazlar?",
+    "options": [
+      "6 Ay",
+      "1 Yıl",
+      "2 Yıl",
+      "3 Yıl",
+      "Asla"
+    ],
+    "answer_index": 1,
+    "explanation": "Ataması yapıldığı halde göreve başlamayanlar 1 yıl süreyle bu kapsamda istihdam edilemezler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-29-jc49",
+    "topic_id": "652-khk",
+    "prompt": "Eğitim kurumu yöneticilerinin görevlendirilme usulleri hangi KHK maddesinde düzenlenmiştir?",
+    "options": [
+      "Ek Madde 1",
+      "Madde 37",
+      "Madde 41",
+      "Madde 10",
+      "Geçici Madde 10"
+    ],
+    "answer_index": 1,
+    "explanation": "652 sayılı KHK'nın 37. maddesi öğretmen atama ve yönetici görevlendirme esaslarını içerir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-3-1fu4",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenliğe atanacaklarda aşağıdaki hangi kanundaki genel şartlar aranır?",
+    "options": [
+      "657 Sayılı Devlet Memurları Kanunu",
+      "1739 Sayılı Milli Eğitim Temel Kanunu",
+      "4483 Sayılı Kanun",
+      "222 Sayılı Kanun",
+      "5442 Sayılı Kanun"
+    ],
+    "answer_index": 0,
+    "explanation": "652 sayılı KHK uyarınca, 657 sayılı Devlet Memurları Kanunu'nun 48. maddesindeki genel şartlar aranır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-30-20od",
+    "topic_id": "652-khk",
+    "prompt": "Özel Öğretim Kurumları Genel Müdürlüğü'nün denetimindeki kurumlar hangisini kapsamaz?",
+    "options": [
+      "Özel Etüt Merkezleri",
+      "MTSK (Sürücü Kursları)",
+      "Özel Yurtlar",
+      "Devlet Hastaneleri Sınıfları",
+      "Özel Okullar"
+    ],
+    "answer_index": 3,
+    "explanation": "Devlet hastanelerindeki sınıflar Milli Eğitim Bakanlığı'nın örgün eğitim birimlerine bağlıdır, özel öğretim kapsamında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-31-657t",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK kapsamında kurulan 'Teftiş Kurulu Başkanlığı' kime bağlıdır?",
+    "options": [
+      "Bakan",
+      "Bakan Yardımcısı",
+      "Personel Genel Müdürü",
+      "Talim Terbiye Başkanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Teftiş Kurulu Başkanlığı doğrudan Bakana bağlı olarak çalışır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-32-c4sg",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlerin eş durumu mazereti tayini için eşinin hangi statüde olması gerekir?",
+    "options": [
+      "Özel sektör çalışanı",
+      "Sadece devlet memuru",
+      "Herhangi bir sigortalı iş",
+      "Eşinin de öğretmen olması",
+      "Statü fark etmeksizin (belli şartlarla)"
+    ],
+    "answer_index": 4,
+    "explanation": "Eşin kamu görevlisi veya sigortalı olması durumunda mazeret tayini istenebilir, ancak sözleşmeli öğretmenler için bu hak ancak kadroya geçişten 1 yıl sonra aktif olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-33-33s5",
+    "topic_id": "652-khk",
+    "prompt": "Talim ve Terbiye Kurulu'nun aldığı kararlar ne zaman yürürlüğe girer?",
+    "options": [
+      "Karar alındığı gün",
+      "Bakan onayından sonra",
+      "Resmi Gazete'de yayımlandığında",
+      "Müsteşar onayladığında",
+      "Eğitim yılı başında"
+    ],
+    "answer_index": 1,
+    "explanation": "Kurulun hazırladığı kararlar Bakanın onayı ile kesinleşir ve yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-34-uq5j",
+    "topic_id": "652-khk",
+    "prompt": "652 Sayılı KHK'ya göre öğretmenlerin yer değiştirme dönemleri neye göre belirlenir?",
+    "options": [
+      "İlçe müdürlüklerinin isteğine göre",
+      "Öğretmenin kıdemine göre",
+      "Ders yılının bitimi ve başlangıç tarihlerine göre",
+      "Sadece Ocak ayında",
+      "Rastgele"
+    ],
+    "answer_index": 2,
+    "explanation": "Eğitim öğretim faaliyetlerinin kesintiye uğramaması adına yer değiştirmeler yaz tatili dönemlerine denk getirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-35-zabr",
+    "topic_id": "652-khk",
+    "prompt": "Aşağıdakilerden hangisi Milli Eğitim Bakanlığı'nın 'Yardımcı Birimlerinden' biridir?",
+    "options": [
+      "Özel Eğitim Genel Müdürlüğü",
+      "Destek Hizmetleri Genel Müdürlüğü",
+      "Ortaöğretim Genel Müdürlüğü",
+      "Temel Eğitim Genel Müdürlüğü",
+      "Mesleki Eğitim Genel Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Destek Hizmetleri, Personel, Hukuk ve Strateji gibi birimler yardımcı/destek birimlerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-36-r2jk",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlerin sözleşme süreleri ne kadardır?",
+    "options": [
+      "6 Ay",
+      "1 Mali Yıl",
+      "2 Yıl",
+      "3 Yıl",
+      "5 Yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "Sözleşmeler kural olarak mali yıl ile sınırlıdır ve her yıl yenilenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-37-d69m",
+    "topic_id": "652-khk",
+    "prompt": "Mesleki ve Teknik Eğitim Genel Müdürlüğü'nün sorumluluğu aşağıdakilerden hangisidir?",
+    "options": [
+      "Fen Liseleri",
+      "Anadolu Liseleri",
+      "Endüstri Meslek Liseleri",
+      "İmam Hatip Liseleri",
+      "Anaokulları"
+    ],
+    "answer_index": 2,
+    "explanation": "Adı üzerinde mesleki ve teknik liseler bu genel müdürlüğün yetki alanındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-38-gsps",
+    "topic_id": "652-khk",
+    "prompt": "Din Öğretimi Genel Müdürlüğü hangi okulların müfredat ve yönetiminden sorumludur?",
+    "options": [
+      "Tüm özel okullar",
+      "Sadece İlahiyat Fakülteleri",
+      "İmam Hatip Ortaokulları ve Liseleri",
+      "Tüm ilk okullar",
+      "Yabancı dil kursları"
+    ],
+    "answer_index": 2,
+    "explanation": "Din Öğretimi Genel Müdürlüğü İmam Hatip okullarından ve diğer okullardaki din derslerinden sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-39-to31",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlıkta toplam kaç Bakan Yardımcısı bulunur?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "Sayı sınırlaması yoktur"
+    ],
+    "answer_index": 3,
+    "explanation": "Cumhurbaşkanlığı Teşkilat yapısı gereği MEB'de 4 Bakan Yardımcısı görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-4-0q5j",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'ya göre, sözleşmeli öğretmenlerde aile birliği mazeretine dayalı yer değiştirme hakkı ne zaman doğar?",
+    "options": [
+      "Sözleşme imzalandığı an",
+      "Adaylık kalktığında",
+      "3 yıllık çalışma süresi bittiğinde",
+      "Kadrolu olduktan 1 yıl sonra",
+      "5. yılın sonunda"
+    ],
+    "answer_index": 3,
+    "explanation": "Sözleşmeli öğretmenler kadrolu olduktan sonra 1 yıl daha çalışmak zorundadırlar; aile birliği hakkı bu sürenin sonunda (toplam 4 yıl) mümkün olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-40-206m",
+    "topic_id": "652-khk",
+    "prompt": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü hangi öğrencilere yönelik hizmet sunar?",
+    "options": [
+      "Sadece üstün zekalılar",
+      "Sadece engelli bireyler",
+      "Özel eğitime ihtiyacı olan tüm bireyler ve rehberlik hizmetleri",
+      "Yurt dışındaki öğrenciler",
+      "Mülteci çocuklar"
+    ],
+    "answer_index": 2,
+    "explanation": "Hem engelli/özel gereksinimli bireyler hem de rehberlik ve psikolojik danışma hizmetleri bu birimin kapsamındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-41-qm6h",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlikte güvenlik soruşturması ve arşiv araştırması ne zaman yapılır?",
+    "options": [
+      "Emekli olurken",
+      "Atama yapılmadan önce",
+      "Göreve başladıktan 1 yıl sonra",
+      "Sadece müdür olurken",
+      "Her yıl yenilenir"
+    ],
+    "answer_index": 1,
+    "explanation": "Devlet memurluğuna ve sözleşmeli pozisyonlara girişte ilk şartlardan biri güvenlik soruşturmasının olumlu sonuçlanmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-42-fpq7",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlığın Avrupa Birliği ile olan ilişkilerini ve projelerini hangi birim yürütür?",
+    "options": [
+      "YEĞİTEK",
+      "Strateji Geliştirme Başkanlığı",
+      "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü",
+      "Personel Genel Müdürlüğü",
+      "Hukuk Hizmetleri Genel Müdürlüğü"
+    ],
+    "answer_index": 2,
+    "explanation": "Dış ilişkiler ve AB projeleri Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü tarafından yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-43-s6f2",
+    "topic_id": "652-khk",
+    "prompt": "KHK'ya göre 'Eğitim-Bir-Sen' gibi sendika temsilcileri Talim Terbiye Kurulu toplantılarına katılabilir mi?",
+    "options": [
+      "Asla katılamazlar",
+      "Sadece izleyici olarak katılabilirler",
+      "Görüş bildirmek üzere davet edilebilirler",
+      "Oy kullanma hakları vardır",
+      "Zorunlu üyedirler"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurul, gerekli gördüğü durumlarda sivil toplum kuruluşları ve sendika temsilcilerini görüş almak üzere davet edebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-44-1e2q",
+    "topic_id": "652-khk",
+    "prompt": "Aday öğretmenlik süreci en az ve en fazla ne kadar sürer?",
+    "options": [
+      "6 ay - 1 yıl",
+      "1 yıl - 2 yıl",
+      "2 yıl - 3 yıl",
+      "1 yıl - 4 yıl",
+      "Süre sınırı yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": "Adaylık süreci en az bir yıl, en fazla iki yıl sürebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-45-24il",
+    "topic_id": "652-khk",
+    "prompt": "Milli Eğitim Şurası'nın sekreterya hizmetlerini hangi birim yürütür?",
+    "options": [
+      "Strateji Geliştirme Başkanlığı",
+      "Talim ve Terbiye Kurulu Başkanlığı",
+      "Bakanlık Özel Kalem Müdürlüğü",
+      "Personel Genel Müdürlüğü",
+      "Basın ve Halkla İlişkiler Müşavirliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Şura hazırlıkları ve sekreterya işlemleri Talim ve Terbiye Kurulu tarafından organize edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-46-kw26",
+    "topic_id": "652-khk",
+    "prompt": "Öğretmenlerin alan değişikliği işlemleri hangi birimin görevleri arasındadır?",
+    "options": [
+      "Talim Terbiye",
+      "İlgili Öğretim Genel Müdürlüğü",
+      "Personel Genel Müdürlüğü",
+      "Yükseköğretim Genel Müdürlüğü",
+      "Teftiş Kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Atama, yer değiştirme ve alan değişikliği gibi personel hareketleri Personel Genel Müdürlüğü'ndedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-47-lwgx",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenler için hazırlanan 'Sözleşmeli Öğretmen İstihdamına İlişkin Yönetmelik' dayanağını hangi KHK'dan alır?",
+    "options": [
+      "430 Sayılı KHK",
+      "633 Sayılı KHK",
+      "652 Sayılı KHK",
+      "657 Sayılı Kanun",
+      "1 Sayılı Cumhurbaşkanlığı Kararnamesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Sözleşmeli öğretmenlik modelinin yasal zemini 652 sayılı KHK'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-48-z6vn",
+    "topic_id": "652-khk",
+    "prompt": "652 sayılı KHK'ya göre hangisi Bakanlığın amaçlarından biridir?",
+    "options": [
+      "Milli kültürü geliştirmek",
+      "Anayasal ilkelere uygun eğitim sunmak",
+      "Ekonomik kalkınmaya eğitimle destek vermek",
+      "Vatandaşları iş sahibi yapmak",
+      "Hepsi"
+    ],
+    "answer_index": 4,
+    "explanation": "Bakanlığın kuruluş amacı toplumu eğitim yoluyla geliştirmek ve anayasal görevleri yerine getirmektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-49-pp34",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlık merkez teşkilatındaki hiyerarşik sıralamada 'Genel Müdür'den bir üst makam hangisidir?",
+    "options": [
+      "Bakan Müşaviri",
+      "Daire Başkanı",
+      "Bakan Yardımcısı",
+      "Şube Müdürü",
+      "Vali"
+    ],
+    "answer_index": 2,
+    "explanation": "Bakanlıklarda Genel Müdürler doğrudan Bakan Yardımcılarına bağlı olarak çalışırlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-5-is1u",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlıkta özel önem ve öncelik taşıyan konularda Bakan'a danışmanlık yapmak üzere en fazla kaç Bakan Müşaviri atanabilir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30",
+      "Sınırsız"
+    ],
+    "answer_index": 1,
+    "explanation": "MEB Teşkilat yapısında Bakan'a danışmanlık yapmak üzere en fazla on beş Bakan Müşaviri atanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-6-ilx8",
+    "topic_id": "652-khk",
+    "prompt": "652 Sayılı KHK'ya göre 'Eğitim ve Öğretim Yenilikler Dairesi Başkanlığı' hangi birimin altında yer alır?",
+    "options": [
+      "Strateji Geliştirme Başkanlığı",
+      "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü",
+      "Personel Genel Müdürlüğü",
+      "Destek Hizmetleri Genel Müdürlüğü",
+      "Özel Öğretim Kurumları Genel Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Eğitim teknolojileri ve yenilikçi süreçler Yenilik ve Eğitim Teknolojileri (YEĞİTEK) Genel Müdürlüğü'nün sorumluluğundadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-7-fbcb",
+    "topic_id": "652-khk",
+    "prompt": "Sözleşmeli öğretmenlik için yapılan sözlü sınavda başarılı sayılmak için en az kaç puan alınmalıdır?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "85"
+    ],
+    "answer_index": 1,
+    "explanation": "Yönetmelik ve ilgili KHK hükümleri uyarınca sözlü sınavda 60 ve üzerinde puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-8-ry08",
+    "topic_id": "652-khk",
+    "prompt": "Bakanlığın hizmet birimlerinden olan 'Hukuk Hizmetleri Genel Müdürlüğü'nün temel görevi nedir?",
+    "options": [
+      "Öğretmen atamalarını yapmak",
+      "Bütçeyi hazırlamak",
+      "Bakanlık birimleri arasında koordinasyon sağlamak",
+      "Bakanlığın hukuk işlerini yürütmek",
+      "Okul inşaatlarını takip etmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Hukuk Hizmetleri Genel Müdürlüğü, Bakanlığın taraf olduğu davaları takip eder ve hukuki danışmanlık hizmeti sunar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  },
+  {
+    "id": "652-khk-msf54j40-9-vud7",
+    "topic_id": "652-khk",
+    "prompt": "Özel barınma hizmeti veren kurumların (yurt, pansiyon vb.) açılma, işletilme ve denetimi hangi Genel Müdürlükçe yürütülür?",
+    "options": [
+      "Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü",
+      "Destek Hizmetleri Genel Müdürlüğü",
+      "Özel Öğretim Kurumları Genel Müdürlüğü",
+      "Ortaöğretim Genel Müdürlüğü",
+      "Teftiş Kurulu Başkanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Özel barınma hizmeti veren kurumlarla ilgili iş ve işlemler Özel Öğretim Kurumları Genel Müdürlüğü tarafından yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T20:58:38.86696+00:00",
+    "updated_at": "2026-08-04T20:58:38.86696+00:00"
+  }
+]
+

@@ -1,0 +1,6 @@
+{
+  "questions": [
+    { "id": "ih1", "prompt": "İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?", "options": ["1945", "1948", "1950", "1923"], "answerIndex": 1 },
+    { "id": "ih2", "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin özelliklerinden biri değildir?", "options": ["Evrenseldir", "Vazgeçilemez", "Devredilemez", "Sınırsızdır"], "answerIndex": 3 }
+  ]
+}

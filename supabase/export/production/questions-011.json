@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-14-ubz7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi savunucu iletişimi başlatan tutumlardan biridir?",
+    "options": [
+      "Betimleyici olma",
+      "Problem odaklılık",
+      "Eşitlik",
+      "Yargılayıcı olma",
+      "Empati"
+    ],
+    "answer_index": 3,
+    "explanation": "Kişi yargılandığını hissettiğinde savunmaya geçer ve iletişim tıkanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-15-amom",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin sahip olduğu pozisyondan ve makamından gelen, yasalara ve mevzuata dayanan güç türü hangisidir?",
+    "options": [
+      "Zorlayıcı Güç",
+      "Bilgi Gücü",
+      "Yasal (Meşru) Güç",
+      "Karizmatik Güç",
+      "Ödül Gücü"
+    ],
+    "answer_index": 2,
+    "explanation": "Yasal güç, hiyerarşik yapıdaki resmi pozisyondan kaynaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-16-z81f",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Ayna Etkisi' (Mirroring) ne anlama gelir?",
+    "options": [
+      "Karşıdakinin hatalarını yüzüne vurmak",
+      "Kişinin kendi fiziksel görüntüsüne odaklanması",
+      "Karşı tarafın beden dilini ve konuşma ritmini hafifçe taklit ederek uyum ve güven oluşturmak",
+      "Konuşurken sürekli aynaya bakmak",
+      "Mesajın aynen geri gönderilmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Aynalama, bilinçaltı düzeyde güven inşa etmek için kullanılan bir uyum sağlama tekniğidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-17-qak4",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Z Kuramı (Theory Z) hangi iki yönetim anlayışının sentezi olarak ortaya çıkmıştır?",
+    "options": [
+      "Alman ve İngiliz",
+      "Amerikan ve Japon",
+      "Klasik ve Neoklasik",
+      "Otokratik ve Demokratik",
+      "Kamu ve Özel Sektör"
+    ],
+    "answer_index": 1,
+    "explanation": "William Ouchi tarafından geliştirilen Z Kuramı, Japon yönetim felsefesini Amerikan kültürüyle harmanlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-18-zetz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi örgütsel çatışmanın yapıcı (fonksiyonel) sonuçlarından biridir?",
+    "options": [
+      "Grup üyeleri arasında stresin artması",
+      "İş birliğinin zayıflaması",
+      "Yeni fikirlerin ortaya çıkması ve değişimin tetiklenmesi",
+      "Verimliliğin düşmesi",
+      "Personel devir hızının artması"
+    ],
+    "answer_index": 2,
+    "explanation": "Yapıcı çatışma, statükonun sorgulanmasını ve yenilikçi çözümlerin üretilmesini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-19-tmhj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Gürültü' kavramı aşağıdakilerden hangisini kapsar?",
+    "options": [
+      "Sadece yüksek sesli ortamı",
+      "Sadece teknik arızaları",
+      "Mesajın iletilmesini engelleyen veya bozan her türlü faktörü",
+      "Sadece alıcının dikkatsizliğini",
+      "Sadece yabancı dil sorununu"
+    ],
+    "answer_index": 2,
+    "explanation": "Gürültü; fiziksel, psikolojik, semantik veya fizyolojik kaynaklı tüm engelleyicilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-2-hyhx",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde alıcının, mesajın sadece bir kısmını duyup diğer kısımlarını görmezden gelmesi veya kendi önyargılarına göre çarpıtması hangi engele örnektir?",
+    "options": [
+      "Fiziksel engel",
+      "Semantik engel",
+      "Seçici algılama",
+      "Kanal yetersizliği",
+      "Mekan engeli"
+    ],
+    "answer_index": 2,
+    "explanation": "Seçici algılama, bireylerin mesajları kendi inanç ve ihtiyaçlarına göre filtreleyerek algılamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-20-pg0j",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası mesafede 0-45 cm arası olan, sadece çok yakınların girebildiği alana ne ad verilir?",
+    "options": [
+      "Sosyal Alan",
+      "Genel Alan",
+      "Mahrem (İçsel) Alan",
+      "Kişisel Alan",
+      "Kamusal Alan"
+    ],
+    "answer_index": 2,
+    "explanation": "Mahrem alan, kişinin duygusal olarak en yakın hissettiği kişilere ayırdığı en yakın mesafedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-21-qphe",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin 'Biz burada bir aileyiz' diyerek çalışanların sadakatini ve bağlılığını ön plana çıkarması hangi liderlik anlayışına yakındır?",
+    "options": [
+      "İşlemci (Etkileşimci) Liderlik",
+      "Babacan (Paternalist) Liderlik",
+      "Otokratik Liderlik",
+      "Bürokratik Liderlik",
+      "Narsistik Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Paternalist liderlikte yönetici, çalışanları koruyup kollar (baba figürü) ama karşılığında mutlak sadakat bekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-22-9n75",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Soru Sorma' tekniklerinden 'Kapalı Uçlu Sorular' ne zaman tercih edilmelidir?",
+    "options": [
+      "Karşı tarafın duygularını anlamak istendiğinde",
+      "Yeni fikirler üretilmek istendiğinde",
+      "Net ve kesin bilgi (Evet/Hayır gibi) alınması gerektiğinde",
+      "Konuşmayı uzatmak istendiğinde",
+      "Analiz yapılması beklendiğinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Kapalı uçlu sorular, belirli bir odak noktasına yönelik hızlı ve net cevaplar almak için kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-23-6gek",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Herzberg'e göre aşağıdakilerden hangisi bir 'Hijyen Faktörü'dür (yokluğu mutsuz eder ama varlığı tek başına motive etmez)?",
+    "options": [
+      "İşin içeriği",
+      "Sorumluluk alma",
+      "Ücret ve çalışma koşulları",
+      "Kişisel gelişim imkanı",
+      "Tanınma ve takdir edilme"
+    ],
+    "answer_index": 2,
+    "explanation": "Ücret, politika ve fiziksel şartlar hijyen faktörleridir; eksiklikleri tatminsizlik yaratır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-24-y13h",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yöneticinin astına verdiği geri bildirimin 'Ben' diliyle ifade edilmesi neden önemlidir?",
+    "options": [
+      "Yöneticinin otoritesini artırmak için",
+      "Astın suçluluk hissetmesini sağlamak için",
+      "Savunmacı tutumu azaltmak ve yapıcı iletişimi sürdürmek için",
+      "Korumacı davranmak için",
+      "Mesajın karmaşıklaşmasını önlemek için"
+    ],
+    "answer_index": 2,
+    "explanation": "Ben dili, davranışı kişiselleştirmeden duygu ve etkiyi aktardığı için direnci kırar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-25-00x5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu yönetiminde 'Açıklık ve Şeffaflık' ilkeleri iletişimin hangi fonksiyonu ile doğrudan ilişkilidir?",
+    "options": [
+      "Denetim/Kontrol fonksiyonu",
+      "Motivasyon fonksiyonu",
+      "Bilgi verme/Eğitim fonksiyonu",
+      "Duygusal boşalım fonksiyonu",
+      "İkna fonksiyonu"
+    ],
+    "answer_index": 0,
+    "explanation": "Şeffaflık, yönetimin hesap verebilirliğini ve denetlenebilirliğini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-26-ay3q",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının yaptığı bir hatayı tüm ekip önünde sertçe eleştirmesi aşağıdakilerden hangisine yol açmaz?",
+    "options": [
+      "Astın motivasyonunun düşmesine",
+      "Kurum içi güven ortamının zedelenmesine",
+      "Diğer çalışanların korku hissetmesine",
+      "Verimliliğin sürdürülebilir şekilde artmasına",
+      "İletişim çatışmalarının artmasına"
+    ],
+    "answer_index": 3,
+    "explanation": "Toplum önünde eleştiri (utandırma), uzun vadede verimliliği ve bağlılığı düşürür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-27-zebz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde 'Bilgi Aşırı Yüklemesi' (Information Overload) durumunda çalışan ne gibi bir tepki verir?",
+    "options": [
+      "Daha hızlı çalışmaya başlar",
+      "Karar verme kalitesi düşer ve önemli bilgileri atlayabilir",
+      "Hafızası güçlenir",
+      "İletişim kanallarını daha verimli kullanır",
+      "Mutluluk düzeyi artar"
+    ],
+    "answer_index": 1,
+    "explanation": "Kapasiteyi aşan bilgi akışı, kafa karışıklığına ve hata yapma riskinin artmasına neden olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-28-i11f",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi 'Dış İletişim' kapsamında yer alır?",
+    "options": [
+      "Birimler arası toplantılar",
+      "Yönetim kurulu kararları",
+      "Vatandaşlara/Hizmet alanlara yönelik duyurular",
+      "Personel eğitim seminerleri",
+      "Şirket içi kutlamalar"
+    ],
+    "answer_index": 2,
+    "explanation": "Dış iletişim, kurumun paydaşları, müşterileri veya vatandaşlarla olan etkileşimidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-29-4vae",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Liderlikte 'Grid (Yönetsel Kafes) Kuramı'na göre, hem insana hem de üretime (işe) en yüksek (9,9) önemi veren liderlik tarzı hangisidir?",
+    "options": [
+      "Cılız (Zayıf) Liderlik",
+      "Şehir Kulübü Liderliği",
+      "Görev Liderliği",
+      "Ekip (Takım) Liderliği",
+      "Orta Yolcu Liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "9,9 lideri (Ekip yönetimi), çalışan bağlılığı ile iş başarısını en üst düzeyde birleştiren ideal tarzdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-3-4yuj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Vroom'un Beklenti Kuramı'na göre, kişinin gösterdiği çabanın istenen performans düzeyine ulaşacağına dair inancına ne ad verilir?",
+    "options": [
+      "Valans (Arzulama)",
+      "Beklenti (Expectancy)",
+      "Araçsallık (Instrumentality)",
+      "Özsaygı",
+      "Dışsal motivasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Beklenti, harcanan çabanın belirli bir performansla sonuçlanacağı olasılığına dair öznel inançtır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-4-2soq",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, kurum içindeki dedikoduların önüne geçmek ve bilgi kirliliğini önlemek için yapması gereken en etkili eylem nedir?",
+    "options": [
+      "İletişimi tamamen yasaklamak",
+      "Resmi iletişim kanallarını şeffaf ve hızlı çalıştırmak",
+      "Dedikodu yapanları cezalandırmak",
+      "Sadece seçilmiş personelle bilgi paylaşmak",
+      "Tüm kararları gizli tutmak"
+    ],
+    "answer_index": 1,
+    "explanation": "İnformal iletişimin (dedikodu) olumsuz etkilerini azaltmanın en iyi yolu, doğru bilginin formal kanallardan zamanında verilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-5-3m01",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yöneticinin astlarına 'Sen zaten her zaman geç kalırsın' gibi ifadelerle hitap etmesi, iletişimin hangi boyutunu zedeler?",
+    "options": [
+      "İçerik boyutu",
+      "İlişki boyutu",
+      "Mantıksal boyut",
+      "Teknik boyut",
+      "Yasal boyut"
+    ],
+    "answer_index": 1,
+    "explanation": "İletişimin ilişki boyutu, tarafların birbirine karşı tutumunu ve duygusal bağını ifade eder. Suçlayıcı ifadeler bu boyuta zarar verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-6-0uty",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi etkin geri bildirimin (feedback) özelliklerinden biri değildir?",
+    "options": [
+      "Kişiliği değil, davranışı hedef almalıdır",
+      "Zamanında verilmelidir",
+      "Net ve spesifik olmalıdır",
+      "Genelleyici ve suçlayıcı olmalıdır",
+      "Geliştirici bir amaç taşımalıdır"
+    ],
+    "answer_index": 3,
+    "explanation": "Etkin geri bildirim yapıcı olmalıdır; genelleyici ve suçlayıcı ifadeler iletişimi kapatır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-7-yj51",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgüt kültüründe, çalışanların paylaştığı temel değerler, inançlar ve alışkanlıkların bütününe ne ad verilir?",
+    "options": [
+      "Örgüt şeması",
+      "Örgüt iklimi",
+      "Örgüt vizyonu",
+      "Stratejik plan",
+      "İş analizi"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgüt iklimi, çalışanların örgüt içindeki çalışma ortamına ilişkin algıladıkları genel atmosferdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-8-nv7a",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın, amirine duymak istediği şeyi söylemek amacıyla bilgiyi kasıtlı olarak değiştirmesine veya gizlemesine iletişimde ne denir?",
+    "options": [
+      "Filtreleme",
+      "Kod çözme",
+      "Empati",
+      "Geri bildirim",
+      "Yansıtma"
+    ],
+    "answer_index": 0,
+    "explanation": "Filtreleme, mesajın yukarıya doğru iletilirken olumsuz yanlarının törpülenerek iletilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzcj4u-9-haye",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi 'Duygusal Zeka'nın (EQ) öz-düzenleme bileşeni ile ilgilidir?",
+    "options": [
+      "Kendi duygularını fark etmek",
+      "Başkalarının ne hissettiğini anlamak",
+      "Dürtüleri kontrol etmek ve duyguları duruma göre yönetmek",
+      "Sürekli başarı odaklı çalışmak",
+      "Sosyal ortamlarda popüler olmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Öz-düzenleme, kişinin anlık tepkilerini kontrol edebilmesi ve duygularını amaca uygun yönlendirebilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:04:40.78272+00:00",
+    "updated_at": "2026-08-05T11:04:40.78272+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-0-ux8a",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişim ağlarında, merkezde tek bir kişinin bulunduğu ve tüm iletişimin bu kişi üzerinden gerçekleştiği, hızı yüksek ancak grup tatmini düşük olan iletişim modeli hangisidir?",
+    "options": [
+      "Çember Modeli",
+      "Yıldız (Tekerlek) Modeli",
+      "Zincir Modeli",
+      "Serbest (Tümü Kanallı) Model",
+      "Y Modeli"
+    ],
+    "answer_index": 1,
+    "explanation": "Yıldız (tekerlek) modelinde otorite merkezdedir. Kararlar hızlı alınır ancak merkezdeki kişi dışındakilerin iş tatmini düşüktür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-1-bu19",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Eric Berne tarafından geliştirilen 'Transaksiyonel Analiz' kuramına göre; iletişim sırasında kişinin tamamen mantıklı, objektif ve veri odaklı davrandığı ego durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Çocuk Ego Durumu",
+      "Eleştirel Ebeveyn Ego Durumu",
+      "Koruyucu Ebeveyn Ego Durumu",
+      "Yetişkin Ego Durumu",
+      "Asi Çocuk Ego Durumu"
+    ],
+    "answer_index": 3,
+    "explanation": "Yetişkin ego durumu; duygu ve önyargılardan uzak, rasyonel, 'şimdi ve burada' odaklı iletişim kurduğumuz durumdur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-10-fc3x",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Max Weber'in otorite tipleri sınıflandırmasına göre; yöneticinin gücünü yazılı kurallardan, yasalardan ve uzmanlığından aldığı otorite tipi hangisidir?",
+    "options": [
+      "Geleneksel Otorite",
+      "Karizmatik Otorite",
+      "Otokratik Otorite",
+      "Yasal-Akılcı (Rasyonel) Otorite",
+      "Manevi Otorite"
+    ],
+    "answer_index": 3,
+    "explanation": "Yasal-akılcı otorite, modern bürokrasilerin temelini oluşturan, kurallara ve mevzuata dayalı yetki türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-11-a5wl",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişinin bir konudaki inançları ile davranışları arasında bir uyuşmazlık olduğunda yaşadığı psikolojik gerginliğe ve huzursuzluğa ne ad verilir?",
+    "options": [
+      "Bilişsel Esneklik",
+      "Bilişsel Çelişki (Uyumsuzluk)",
+      "Öğrenilmiş Çaresizlik",
+      "Koşullanma",
+      "Grup Düşüncesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Leon Festinger'in Bilişsel Çelişki (Cognitive Dissonance) kuramı, tutumlar ve davranışlar arasındaki tutarsızlığın yarattığı stresi ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-12-yc3b",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Sözsüz iletişim kanallarından biri olan 'Haptik' (Haptics) kavramı neyi ifade eder?",
+    "options": [
+      "Göz teması kurmayı",
+      "Mesafe kullanımını",
+      "Dokunma yoluyla iletişimi (tokalaşma, sırt sıvazlama)",
+      "Sesin vurgu ve tonlamasını",
+      "Zaman algısını"
+    ],
+    "answer_index": 2,
+    "explanation": "Haptik iletişim, dokunma duyusu aracılığıyla kurulan sözsüz iletişimdir (örneğin güven vermek için omuza dokunmak).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-13-kh55",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Fransız mühendis Ringelmann tarafından ortaya konulan; bir gruptaki kişi sayısı arttıkça, birey başına düşen çabanın ve performansın azalması eğilimine ne ad verilir?",
+    "options": [
+      "Sinerji",
+      "Grup Dinamiği",
+      "Sosyal Kaytarma (Ringelmann Etkisi)",
+      "Sosyal Hızlandırma",
+      "Normlaşma"
+    ],
+    "answer_index": 2,
+    "explanation": "Sosyal kaytarma, kalabalık gruplarda kişilerin 'nasıl olsa başkası yapar' düşüncesiyle bireysel çabalarını düşürmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-14-j2s0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışan ile kurum arasında yazılı olmayan, her iki tarafın birbirlerinden karşılıklı gizli beklentilerini (sadakat, güven, adalet gibi) ifade eden kavrama ne denir?",
+    "options": [
+      "Hizmet Sözleşmesi",
+      "Toplu İş Sözleşmesi",
+      "Görev Tanımı",
+      "Psikolojik Sözleşme",
+      "Etik Kod"
+    ],
+    "answer_index": 3,
+    "explanation": "Psikolojik sözleşme, resmi evraklarda yer almayan, beklenti ve inançlara dayalı karşılıklı taahhütlerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-15-py56",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Dinleyicinin, karşı tarafın söylediklerini anlamaktan ziyade, onun sözlerinde bir açık, hata veya zayıf nokta bulmak amacıyla pür dikkat dinlemesine ne ad verilir?",
+    "options": [
+      "Aktif dinleme",
+      "Empatik dinleme",
+      "Tuzak kurucu (Pusuya yatan) dinleme",
+      "Yüzeysel dinleme",
+      "Görünüşte dinleme"
+    ],
+    "answer_index": 2,
+    "explanation": "Tuzak kurucu dinlemede amaç anlamak değil, saldırıya geçmek veya karşı tarafı alt etmek için fırsat kollamaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-16-ot9y",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurum içi informal (gayriresmi) iletişim ağları içinde en yaygın olan; bilginin seçilmiş ve güvenilen birkaç kişiye aktarıldığı, onların da kendi seçtikleri kişilere aktardığı model hangisidir?",
+    "options": [
+      "Tek zincir modeli",
+      "Dedikodu zinciri modeli",
+      "Olasılık zinciri modeli",
+      "Küme zinciri modeli",
+      "Tekerlek modeli"
+    ],
+    "answer_index": 3,
+    "explanation": "Küme (Cluster) zinciri modeli, bilginin rastgele değil, seçici olarak paylaşıldığı en gerçekçi ve yaygın informal iletişim türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-17-9aw7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Robert House tarafından geliştirilen; liderin temel görevinin astlarının hedeflerine ulaşması için engelleri kaldırmak ve onlara rehberlik etmek olduğunu savunan kuram hangisidir?",
+    "options": [
+      "Özellikler Kuramı",
+      "Yol-Amaç Kuramı",
+      "Yönetsel Kafes Kuramı",
+      "Davranışsal Kuram",
+      "Karizmatik Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Yol-Amaç (Path-Goal) kuramı, Vroom'un Beklenti teorisine dayanır. Lider, amaca giden yolu temizler ve ödülleri belirler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-18-v2am",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi stresin her zaman olumsuz olmadığını, belirli bir seviyedeki stresin motivasyonu, uyanıklığı ve performansı artırdığını ifade eden kavramdır?",
+    "options": [
+      "Distres (Kötü stres)",
+      "Östres (Eustress - İyi stres)",
+      "Burnout (Tükenmişlik)",
+      "Depresyon",
+      "Anksiyete"
+    ],
+    "answer_index": 1,
+    "explanation": "Östres (Eustress), organizmayı harekete geçiren, yaratıcılığı ve motivasyonu tetikleyen optimum seviyedeki olumlu strestir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-19-po43",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Halo Etkisi'nin tam tersi olan; kişinin tek bir olumsuz özelliğine veya yaptığı tek bir hataya bakarak onunla ilgili genel olarak tamamen olumsuz bir yargıya varılması durumuna ne ad verilir?",
+    "options": [
+      "Pygmalion Etkisi",
+      "Boynuz (Horn) Etkisi",
+      "Zıtlık Etkisi",
+      "Stereotiplendirme",
+      "Yansıtma"
+    ],
+    "answer_index": 1,
+    "explanation": "Boynuz (Horn) etkisi, tek bir negatif özelliğin diğer tüm pozitif özellikleri gölgelemesi ve kişiyi tamamen yetersiz görme hatasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-2-0fr6",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bruce Tuckman'ın 'Grup Gelişim Evreleri' modeline göre; grup üyeleri arasında güç mücadelelerinin yaşandığı, fikir ayrılıklarının su yüzüne çıktığı ve çatışmaların yoğunlaştığı evre hangisidir?",
+    "options": [
+      "Oluşum (Forming)",
+      "Fırtına (Storming)",
+      "Kurallar/Normlaşma (Norming)",
+      "Performans (Performing)",
+      "Dağılma (Adjourning)"
+    ],
+    "answer_index": 1,
+    "explanation": "Fırtına (çatışma) evresi, liderlik mücadelelerinin olduğu ve üyelerin sınırları test ettiği gerilimli bir dönemdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-20-0kt3",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışanların performansını çok yönlü olarak ölçmek için; amirlerin, astların, eş düzeydeki çalışma arkadaşlarının ve hatta müşterilerin değerlendirme sürecine katıldığı geri bildirim yöntemi hangisidir?",
+    "options": [
+      "Yukarıya Doğru Değerlendirme",
+      "Özdeğerlendirme",
+      "360 Derece Geri Bildirim",
+      "Klasik Performans Değerlendirme",
+      "Mülakat"
+    ],
+    "answer_index": 2,
+    "explanation": "360 derece geri bildirim, personelin etrafındaki tüm iletişim paydaşlarından veri toplayan kapsamlı bir değerlendirme sistemidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-21-9ops",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Clayton Alderfer'in ERG Kuramı'na özgü olan; üst düzey bir ihtiyacın karşılanamaması durumunda bireyin motivasyonunu kaybederek bir alt düzeydeki ihtiyaca yönelmesini açıklayan ilke hangisidir?",
+    "options": [
+      "Gelişme İhtiyacı İlkesi",
+      "Engellenme-Gerileme İlkesi",
+      "Eşitlik İlkesi",
+      "Pekiştirme İlkesi",
+      "Hijyen İlkesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Engellenme-Gerileme (Frustration-Regression) ilkesine göre, birey üst ihtiyacını tatmin edemezse (örneğin terfi edemezse) alt ihtiyaca (örneğin arkadaşlık ilişkilerine) daha çok sarılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-22-c9oc",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu kurumlarında yönetimin eylem ve işlemlerinden zarar gören vatandaşların şikayetlerini inceleyen, bağımsız ve tarafsız bir denetim mekanizması olan kuruma ne ad verilir?",
+    "options": [
+      "Sayıştay",
+      "Devlet Denetleme Kurulu",
+      "Kamu İhale Kurumu",
+      "Kamu Denetçiliği Kurumu (Ombudsmanlık)",
+      "Bilgi Edinme Değerlendirme Kurulu"
+    ],
+    "answer_index": 3,
+    "explanation": "Ombudsmanlık (Kamu Denetçiliği), idarenin vatandaşla iletişimindeki uyuşmazlıkları yargıya gitmeden çözmeyi amaçlayan haksızlık arayış kurumudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-23-nj2s",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Zaman yönetiminde işleri 'Aciliyet' ve 'Önem' derecelerine göre 4 farklı çeyreğe ayırarak önceliklendirmeyi sağlayan ünlü matris kimin adıyla anılır?",
+    "options": [
+      "Taylor Matrisi",
+      "Maslow Matrisi",
+      "Eisenhower Matrisi",
+      "Gantt Şeması",
+      "Pareto Analizi"
+    ],
+    "answer_index": 2,
+    "explanation": "Eisenhower Matrisi, işleri Acil-Önemli, Acil Değil-Önemli vb. şeklinde sınıflandırarak etkili zaman yönetimini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-24-p1an",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde karşı tarafın ne hissettiğini anlamanın (empati) ötesine geçerek, doğrudan onunla aynı duyguyu yaşamak, onunla birlikte üzülmek veya ağlamak aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "options": [
+      "Empati",
+      "Sempati",
+      "Apati",
+      "Antipati",
+      "Telepati"
+    ],
+    "answer_index": 1,
+    "explanation": "Sempati (duygudaşlık), karşısındakiyle duygu birliğine girmektir. Empatide anlamak varken, sempatide aynı duyguyu yaşamak ve hak vermek vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-25-n235",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgüt kültürünü sınıflandıran Cameron ve Quinn'e göre; çalışanların bir aile gibi olduğu, takım çalışmasının, katılımın ve sadakatin çok yüksek olduğu kültür tipi hangisidir?",
+    "options": [
+      "Pazar (Market) Kültürü",
+      "Adhokrasi (Yenilikçi) Kültürü",
+      "Hiyerarşi (Bürokratik) Kültürü",
+      "Klan (Aile) Kültürü",
+      "Mekanik Kültür"
+    ],
+    "answer_index": 3,
+    "explanation": "Klan kültürü, insan odaklıdır. Çalışanlar kurumu bir aile olarak görür ve yöneticiler mentör/baba figürü gibidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-26-smhu",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Karşı tarafın verdiği kısa cevapları açmak, daha detaylı bilgi edinmek ve konunun kökenine inmek amacıyla iletişimde hangi soru tipi kullanılır?",
+    "options": [
+      "Kapalı uçlu sorular",
+      "Yönlendirici sorular",
+      "Derinleştirici (Sonda / Probing) sorular",
+      "Retorik sorular",
+      "Çoktan seçmeli sorular"
+    ],
+    "answer_index": 2,
+    "explanation": "Derinleştirici (sonda) sorular; 'Bunu biraz daha açar mısınız?', 'Bu konudaki temel endişeniz nedir?' gibi konuyu detaylandıran sorulardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-27-wnpw",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "French ve Raven'in Güç Türleri sınıflandırmasına göre; yöneticinin sahip olduğu kişilik özellikleri, hitabet yeteneği ve karizması nedeniyle astlarının ona benzemeye çalışmasından doğan güç türü hangisidir?",
+    "options": [
+      "Zorlayıcı Güç",
+      "Yasal Güç",
+      "Ödüllendirme Gücü",
+      "Özdeşleşme (Referans/Karizmatik) Gücü",
+      "Uzmanlık Gücü"
+    ],
+    "answer_index": 3,
+    "explanation": "Özdeşleşme gücü (Referent power), astların lidere duyduğu hayranlık ve saygıdan kaynaklanan etkileme gücüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-28-r2r9",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bilişsel önyargılardan (bias) biri olan; kişinin sadece kendi mevcut inançlarını destekleyen bilgileri kabul edip, kendi fikrine uymayan verileri görmezden gelmesi veya reddetmesine ne ad verilir?",
+    "options": [
+      "Doğrulama Önyargısı (Confirmation Bias)",
+      "Temel Yükleme Hatası",
+      "Geri Hissi Yanılgısı",
+      "Kendine Yontma (Self-Serving Bias)",
+      "Çıpalama Etkisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğrulama önyargısı, insanların fikirlerini değiştirmek yerine kanıtları kendi fikirlerine uyduracak şekilde seçici davranmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-29-22ix",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İşe yeni başlayan bir personelin, kurumun değerlerini, normlarını, beklentilerini ve kültürünü öğrenerek kuruma uyum sağlaması sürecine ne ad verilir?",
+    "options": [
+      "Örgütsel Vatandaşlık",
+      "İş Tasarımı",
+      "Örgütsel Sosyalleşme (Oryantasyon)",
+      "Rotasyon",
+      "İş Zenginleştirme"
+    ],
+    "answer_index": 2,
+    "explanation": "Örgütsel sosyalleşme (oryantasyon), yeni çalışanın kurum kültürünü ve işleyişini içselleştirerek kuruma entegre olması sürecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-3-i236",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İşyerinde bir veya birden fazla kişinin, bir diğer kişiye yönelik olarak sistematik, sürekli ve kasıtlı olarak uyguladıkları psikolojik şiddet, baskı ve yıldırma eylemlerine ne ad verilir?",
+    "options": [
+      "Burnout (Tükenmişlik)",
+      "Bilişsel Çelişki",
+      "Cam Uçurum",
+      "Mobbing",
+      "Nepotizm"
+    ],
+    "answer_index": 3,
+    "explanation": "Heinz Leymann tarafından kavramsallaştırılan Mobbing, iş yerinde uygulanan sistematik psikolojik taciz ve yıldırmadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-4-ca3y",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Sözsüz iletişimde, iletişimin gerçekleştiği zaman dilimini, zamanın kullanım biçimini (örneğin toplantıya geç kalmak veya zamanında bitirmek) inceleyen alt dal aşağıdakilerden hangisidir?",
+    "options": [
+      "Kinesik",
+      "Haptik",
+      "Kronemik",
+      "Proksemik",
+      "Okülesik"
+    ],
+    "answer_index": 2,
+    "explanation": "Kronemik (Chronemics), zamanın iletişimdeki rolünü ve kullanımını inceler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-5-rst4",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Paul Hersey ve Ken Blanchard tarafından geliştirilen, yöneticinin liderlik tarzını (yönlendirici, ikna edici, katılımcı, yetki göçeren) astlarının 'olgunluk düzeyine' göre belirlemesi gerektiğini savunan kuram hangisidir?",
+    "options": [
+      "Yol-Amaç Kuramı",
+      "Durumsal Liderlik Kuramı",
+      "Özellikler Kuramı",
+      "Dönüşümcü Liderlik",
+      "Yönetsel Kafes Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Durumsal Liderlik kuramına göre en iyi liderlik tarzı yoktur; astların görev olgunluğuna göre değişen durumsal yaklaşımlar vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-6-koxv",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yöneticinin astından yüksek performans beklemesi ve ona inanmasının, astın bu beklentiye uygun şekilde performansını artırmasıyla sonuçlanmasına ne ad verilir?",
+    "options": [
+      "Pygmalion Etkisi (Kendini Gerçekleştiren Kehanet)",
+      "Hale Etkisi",
+      "Zıtlık Etkisi",
+      "Boynuz Etkisi",
+      "Hawthorne Etkisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Pygmalion etkisi, yüksek beklentilerin performansı artırdığı inancıdır. 'Kendini gerçekleştiren kehanet' olarak da bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-7-die2",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurt Lewin'in üç aşamalı Örgütsel Değişim Modeli'nin ilk aşaması olan ve mevcut alışkanlıkların, dirençlerin kırılıp değişime ihtiyaç duyulduğunun kabul edildiği aşama aşağıdakilerden hangisidir?",
+    "options": [
+      "Değiştirme",
+      "Yeniden Dondurma",
+      "Buzları Çözme (Çözülme)",
+      "Kurumsallaşma",
+      "Uyumlandırma"
+    ],
+    "answer_index": 2,
+    "explanation": "Lewin'in modeli üç aşamalıdır: 1) Buzları Çözme (Unfreezing), 2) Değişim (Moving/Change), 3) Yeniden Dondurma (Refreezing).",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-8-bddc",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın aynı anda hem amiri tarafından ekstra mesaiye kalmasının istenmesi hem de ailesi tarafından evde olmasının beklenmesi durumunda yaşadığı çatışma türü hangisidir?",
+    "options": [
+      "Kişilerarası çatışma",
+      "Kişi (Birey) içi rol çatışması",
+      "Gruplararası çatışma",
+      "Örgütlerarası çatışma",
+      "Süreç çatışması"
+    ],
+    "answer_index": 1,
+    "explanation": "Bireyin kendisinden beklenen farklı rollerin (iş kadını/adamı rolü vs. ebeveyn rolü) birbiriyle çelişmesine kişi içi rol çatışması denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzgkkm-9-gks0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin fikirlerini dinliyormuş gibi görünüp aslında sadece onay beklediği ve farklı fikirlere kapalı olduğu iletişim iklimine ne ad verilir?",
+    "options": [
+      "Destekleyici iletişim iklimi",
+      "Açık iletişim iklimi",
+      "Savunucu iletişim iklimi",
+      "Empatik iletişim iklimi",
+      "Sinerjik iletişim iklimi"
+    ],
+    "answer_index": 2,
+    "explanation": "Savunucu iletişim ikliminde yöneticiler kesin inançlıdır (dogmatik) ve astlarını kontrol etmeye odaklanır, bu da iletişimi kapatır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:07:49.07137+00:00",
+    "updated_at": "2026-08-05T11:07:49.07137+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-0-rbc8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde, çalışanların iş yerindeki sorunları veya geliştirme önerilerini bilerek ve isteyerek yönetime iletmemesi durumuna ne ad verilir?",
+    "options": [
+      "Örgütsel Adalet",
+      "Örgütsel Sessizlik",
+      "Örgütsel Bağlılık",
+      "Örgütsel Vatandaşlık",
+      "Örgütsel Özdeşleşme"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel sessizlik, çalışanların fikirlerini paylaşmaktan korkmaları veya 'bir şey değişmez' inancıyla bilinçli olarak susmalarını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-1-7dvo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Shannon-Weaver İletişim Modeli'nde, mesajın kaynaktan çıktıktan sonra gürültüye maruz kalabileceği ve teknik aksaklıkların yaşanabileceği aşama aşağıdakilerden hangisidir?",
+    "options": [
+      "Kaynak",
+      "Kod Çözme",
+      "Kanal (İletim Hattı)",
+      "Hedef",
+      "Geri Bildirim"
+    ],
+    "answer_index": 2,
+    "explanation": "Matematiksel bir model olan Shannon-Weaver'da kanal, sinyallerin taşındığı ve dış etkilerin (gürültü) müdahale edebildiği fiziksel hattır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-10-m7w5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir kurumda çalışanların, kurumun hedeflerini kendi hedefleri gibi benimsemesi ve kendilerini kurumun bir parçası olarak görmelerine ne denir?",
+    "options": [
+      "Örgütsel Sosyalleşme",
+      "Örgütsel Özdeşleşme",
+      "Örgütsel Adalet",
+      "Örgütsel Çatışma",
+      "Örgütsel Rotasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Özgürleşme, bireyin benliği ile kurumun kimliği arasında kurduğu güçlü bağdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-11-m3v5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi empatik dinlemenin önündeki en büyük engellerden biridir?",
+    "options": [
+      "Karşı tarafın sözünü kesmemek",
+      "Sürekli kendi vereceği cevabı düşünmek ve prova yapmak",
+      "Göz teması kurmak",
+      "Konuşmacının beden diline dikkat etmek",
+      "Uygun geri bildirimlerde bulunmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Kendi cevabını düşünmek (cevap verme telaşı), dinleyiciyi 'şimdi ve burada' olmaktan koparır ve empatiyi engeller.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-12-sk9e",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yönetimde 'Servant Leadership' (Hizmetkar Liderlik) anlayışının temel felsefesi nedir?",
+    "options": [
+      "Liderin her zaman en önde ve en üstte olması",
+      "Liderin temel amacının astlarının gelişimi ve esenliği için onlara hizmet etmek olması",
+      "Kararların mutlak otoriteyle alınması",
+      "Kurum çıkarlarının her türlü insan ilişkisinin üstünde tutulması",
+      "Sadece cezalandırma gücünün kullanılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Hizmetkar liderlikte öncelik takipçilerin ihtiyaçlarıdır; lider, diğerlerinin potansiyelini açığa çıkarmak için oradadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-13-3fqe",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'İkna Etme' sürecinde kullanılan 'Aristoteles'in Üç Unsuru' aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "Ses, Görüntü, Yazı",
+      "Giriş, Gelişme, Sonuç",
+      "Ethos (Karakter/Güven), Pathos (Duygu), Logos (Mantık)",
+      "Tez, Antitez, Sentez",
+      "Dikkat, İlgi, Arzu"
+    ],
+    "answer_index": 2,
+    "explanation": "Aristoteles'e göre etkili ikna; konuşmacının güvenilirliği (Ethos), dinleyicinin duyguları (Pathos) ve kanıtların mantığına (Logos) dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-14-1u3i",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi bir 'Halkla İlişkiler' aracı olarak kamu kurumlarında daha sık kullanılır?",
+    "options": [
+      "Gizli yönetim kararları",
+      "Vatandaş memnuniyet anketleri ve geri bildirim kutuları",
+      "Sadece personelin katıldığı yemekler",
+      "Kurum içi teknik raporlar",
+      "Maaş bordroları"
+    ],
+    "answer_index": 1,
+    "explanation": "Halkla ilişkiler, dış paydaşlarla (vatandaşlarla) olan iletişimi güçlendiren ve onların algısını ölçen araçları kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-15-zwhz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir toplantıda herkesin aynı fikirdeymiş gibi davranması ancak her bireyin aslında o fikre karşı olması durumunda yaşanan paradoksa ne ad verilir?",
+    "options": [
+      "Hale Etkisi",
+      "Abilene Paradoksu",
+      "Zıtlık Etkisi",
+      "Sinerji Etkisi",
+      "Geri Hissi Yanılgısı"
+    ],
+    "answer_index": 1,
+    "explanation": "Abilene Paradoksu, grup üyelerinin çatışmadan kaçınmak için istemedikleri bir karara 'başkaları istiyor' zannıyla topluca evet demesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-16-a7wt",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İş yerinde 'Etik Lider'in en temel özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Hızlı karar vermesi",
+      "Çok yüksek maaş alması",
+      "Doğru ve ahlaki değerleri kararlarında merkeze alması ve rol model olması",
+      "Sadece kurallara harfiyen uyması",
+      "Hiç hata yapmaması"
+    ],
+    "answer_index": 2,
+    "explanation": "Etik liderlik, davranışlarıyla ve kararlarıyla adalet, dürüstlük ve dürüstlük standartlarını kuruma aşılayan liderliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-17-xi77",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi 'Algı Yönetimi'nin (Perception Management) temel hedeflerinden biridir?",
+    "options": [
+      "Gerçekleri tamamen gizlemek",
+      "İnsanların bir olay, kişi veya kurum hakkındaki düşünce ve yargılarını istenen yönde etkilemek",
+      "Sadece teknik verileri paylaşmak",
+      "Karar alma süreçlerini yavaşlatmak",
+      "Hiyerarşiyi ortadan kaldırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Algı yönetimi, kamuoyunun veya hedef kitlenin algısını şekillendirmek için bilgiyi seçerek sunma sanatıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-18-z9wg",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası iletişimde 'Önemliymiş gibi dinleme' veya 'Görünüşte dinleme' davranışının temel riski nedir?",
+    "options": [
+      "Konuşmacının daha çok konuşmasını sağlar",
+      "Güven kaybına ve mesajın yanlış anlaşılmasına neden olur",
+      "İletişimi hızlandırır",
+      "Hafızayı güçlendirir",
+      "Hiyerarşiyi korur"
+    ],
+    "answer_index": 1,
+    "explanation": "Görünüşte dinleme, karşı tarafa değer verilmediği hissini uyandırır ve er ya da geç iletişim kopukluğuna yol açar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-19-m2dh",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Zaman yönetimi ve insan ilişkileri bağlamında 'Pareto İlkesi' (80/20 kuralı) neyi ifade eder?",
+    "options": [
+      "İşlerin %80'ini 20 dakikada bitirmeyi",
+      "Sonuçların %80'inin, harcanan çabanın %20'sinden kaynaklandığını",
+      "Çalışanların %80'inin tembel olduğunu",
+      "Toplantıların %80'inin gereksiz olduğunu",
+      "Hataların %80'inin yöneticiden kaynaklandığını"
+    ],
+    "answer_index": 1,
+    "explanation": "Pareto analizi, verimliliği artırmak için sonuç getiren en kritik %20'lik dilime odaklanmayı savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-2-5xnp",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin başarısını değerlendirirken en son yaptığı işe/hataya odaklanarak geçmişteki tüm performansını göz ardı etmesi hangi algı hatasıdır?",
+    "options": [
+      "Hale Etkisi",
+      "Zıtlık Etkisi",
+      "Yakınlık (Sonralık) Etkisi",
+      "Öncelik Etkisi",
+      "Yansıtma"
+    ],
+    "answer_index": 2,
+    "explanation": "Yakınlık (Recency) etkisi, kişinin hafızasındaki en taze/son bilgilerin genel yargıyı domine etmesi hatasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-20-o9qx",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu yönetiminde 'E-Devlet' uygulamalarının iletişim açısından sağladığı en büyük katkı aşağıdakilerden hangisidir?",
+    "options": [
+      "Kağıt israfını artırması",
+      "Vatandaş ile devlet arasındaki iletişimi hızlandırarak bürokrasiyi azaltması",
+      "Memur sayısını artırması",
+      "Sadece gençlerin hizmete ulaşmasını sağlaması",
+      "İletişimi daha gizli hale getirmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dijitalleşme, bilgiye erişimi kolaylaştırır, şeffaflığı artırır ve hizmet kalitesini yükseltir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-21-ggfo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın işine duyduğu sevgi ve bağlılığın yanı sıra, işini yaparken hissettiği enerji ve konsantrasyon halini ifade eden modern kavram hangisidir?",
+    "options": [
+      "İşten Ayrılma Niyeti",
+      "Çalışan Bağlılığı (Employee Engagement)",
+      "İş Tatmini",
+      "Örgütsel Adalet",
+      "Performans Değerlendirme"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışan bağlılığı, çalışanın işine hem zihinsel hem de duygusal olarak tam katılım göstermesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-22-hvpw",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Karar verme süreçlerinde 'Sınırlı Rasyonellik' (Bounded Rationality) kavramını ortaya atan ve insanın tüm seçenekleri bilmesinin imkansız olduğunu savunan düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Herbert Simon",
+      "Adam Smith",
+      "Peter Drucker",
+      "Henry Mintzberg"
+    ],
+    "answer_index": 1,
+    "explanation": "Herbert Simon, insanların sınırlı bilgi ve zamanla 'en iyi' değil 'yeterli' kararı vermeye çalıştıklarını savunmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-23-ifl7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde 'Duygusal Emek' (Emotional Labor) neyi ifade eder?",
+    "options": [
+      "Fiziksel olarak çok yorulmayı",
+      "İş yaparken kişinin kurumun beklediği duyguları (örneğin güler yüz) sergilemek zorunda olması",
+      "Evdeki sorunları işe taşımayı",
+      "Sadece psikologların yaptığı işi",
+      "Maaş karşılığı yapılan her işi"
+    ],
+    "answer_index": 1,
+    "explanation": "Duygusal emek, özellikle hizmet sektöründe çalışanın kendi gerçek duygularını bastırıp kurum normlarına uygun duyguları sergilemesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-24-2src",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi etkili bir sunumda mesajın akılda kalıcılığını artırmak için yapılan 'Görselleştirme'nin temel kuralıdır?",
+    "options": [
+      "Her slaytı yazıyla doldurmak",
+      "Mümkün olduğunca çok renk kullanmak",
+      "Basit, anlaşılır ve mesajı destekleyen görseller seçmek",
+      "Görsel kullanmaktan kaçınmak",
+      "Sadece tablo paylaşmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Etkili görseller, karmaşık verilerin hızlıca kavranmasını sağlar ve sözel bilgiyi güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-25-oz7w",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim çatışmalarında 'Sandviç Tekniği' ile geri bildirim verme yöntemi aşağıdakilerden hangisini içerir?",
+    "options": [
+      "Sadece olumsuzları söylemeyi",
+      "Önce eleştiri, sonra övgü vermeyi",
+      "Olumsuz bir eleştiriyi, iki olumlu geri bildirim arasına yerleştirerek sunmayı",
+      "Yemek yerken geri bildirim vermeyi",
+      "Başkalarının önünde eleştirmeyi"
+    ],
+    "answer_index": 2,
+    "explanation": "Sandviç yöntemi (Olumlu-Olumsuz-Olumlu), eleştirinin yıkıcı etkisini azaltır ve çalışanın gelişime açık kalmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-26-2npw",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu kurumlarında 'Kurumsal İmaj'ın zedelenmemesi için dış iletişimde nelere dikkat edilmelidir?",
+    "options": [
+      "Sorunları halktan saklamaya",
+      "Kurumsal dilin ağır ve anlaşılmaz olmasına",
+      "Kurumsal kimlik rehberine (logo, dil, renk vb.) ve nezaket kurallarına uygun hareket etmeye",
+      "Sadece reklam yapmaya",
+      "Diğer kurumları eleştirmeye"
+    ],
+    "answer_index": 2,
+    "explanation": "Tutarlı bir görsel ve sözel dil, kurumun profesyonelliğini ve güvenilirliğini simgeler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-27-bklh",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde 'Geri Bildirim' (Feedback) alırken kişinin savunmaya geçmesini önlemek için geri bildirim nasıl verilmelidir?",
+    "options": [
+      "Geçmişteki tüm hatalar hatırlatılarak",
+      "Kişiliğe değil, somut davranışa ve sonuca odaklanarak",
+      "Herkesin içinde yüksek sesle",
+      "Genellemeler yaparak (Sen hep böylesin...)",
+      "Yönetici odasına çağırmadan e-posta ile"
+    ],
+    "answer_index": 1,
+    "explanation": "Yapıcı geri bildirim, 'neyin' yanlış olduğunu değil, 'nasıl daha iyi yapılabileceğini' ve davranışı hedefler.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-28-hpyj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütlerde 'Cam Uçurum' (Glass Cliff) kavramı aşağıdakilerden hangisini açıklar?",
+    "options": [
+      "Kadınların çok kolay yükselmesini",
+      "Kadınların veya azınlıkların sadece kriz dönemlerinde, başarısızlık riskinin yüksek olduğu liderlik pozisyonlarına getirilmesi",
+      "Ofislerin yüksek katlarda olmasını",
+      "Liderlerin her zaman güvende olmasını",
+      "Emeklilik yaşının düşürülmesini"
+    ],
+    "answer_index": 1,
+    "explanation": "Cam uçurum, riskli ve zor görevlerin kadınlara/azınlıklara verilmesiyle oluşan görünmez bir bariyer türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-29-hib8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi kurum içi iletişimin 'Duygusal Boşalım' fonksiyonuna örnektir?",
+    "options": [
+      "Personelin bir sosyal etkinlikte stresini atması ve şikayetlerini dertleşerek paylaşması",
+      "Amirin yeni görev tanımını okuması",
+      "Maaş zammı duyurusu",
+      "Yıllık faaliyet raporu hazırlama",
+      "Bilgisayar eğitimi"
+    ],
+    "answer_index": 0,
+    "explanation": "İletişim, bireylerin duygularını ifade etmelerine ve sosyal ihtiyaçlarını karşılamalarına imkan tanıyarak psikolojik rahatlama sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-3-dped",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu kurumlarında kriz anlarında yapılan iletişimde, bilgi kirliliğini önlemek ve güven tesis etmek için uygulanması gereken temel kural nedir?",
+    "options": [
+      "Bilgiyi sadece seçilmiş basın organlarına vermek",
+      "Olayın üzerinden zaman geçmesini beklemek",
+      "Tek bir kaynaktan, hızlı, şeffaf ve tutarlı bilgi paylaşımı yapmak",
+      "Resmi açıklama yapmaktan kaçınmak",
+      "Sadece olumlu gelişmeleri aktarmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Kriz yönetiminde 'tek seslilik' ve şeffaflık, kaosun ve spekülasyonların önüne geçmek için hayati öneme sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-4-jaam",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Luthans tarafından tanımlanan 'Pozitif Psikolojik Sermaye'nin dört temel bileşeni aşağıdakilerin hangisinde bir arada verilmiştir?",
+    "options": [
+      "Zeka, Yetenek, Eğitim, Deneyim",
+      "Maaş, Mevki, Sosyal Statü, Güç",
+      "Özyeterlilik, Umut, İyimserlik, Dayanıklılık",
+      "Adalet, Dürüstlük, Sadakat, Saygı",
+      "Sabır, Disiplin, Çalışkanlık, Tutumluluk"
+    ],
+    "answer_index": 2,
+    "explanation": "Psikolojik sermaye; Özyeterlilik (Self-efficacy), Umut (Hope), İyimserlik (Optimism) ve Dayanıklılık (Resilience) unsurlarından oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-5-xcl8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, kurumu temsil ederken halkla olan ilişkilerinde kullandığı 'İki Yönlü Simetrik Model' neyi amaçlar?",
+    "options": [
+      "Sadece kurumun propagandasını yapmayı",
+      "Basını manipüle ederek yanlış bilgi vermeyi",
+      "Kurum ile halk (veya paydaşlar) arasında karşılıklı anlayış ve uzlaşı sağlamayı",
+      "Halkın kurum hakkındaki şikayetlerini görmezden gelmeyi",
+      "Sadece tek yönlü bilgi akışını sürdürmeyi"
+    ],
+    "answer_index": 2,
+    "explanation": "James Grunig tarafından geliştirilen bu modelde amaç, her iki tarafın da birbirini anlaması ve orta noktada buluşmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-6-zdl4",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Müzakere sürecinde tarafların kendi pozisyonlarından taviz vermeden sadece kendi kazanımlarına odaklandıkları 'Kazanan-Kaybeden' odaklı yaklaşım hangisidir?",
+    "options": [
+      "Bütünleştirici (İşbirliği) Müzakere",
+      "Dağıtımcı (Paylaşımcı) Müzakere",
+      "Yumuşak Müzakere",
+      "İlkeli Müzakere",
+      "Stratejik Ortaklık"
+    ],
+    "answer_index": 1,
+    "explanation": "Dağıtımcı müzakere, pastanın nasıl bölüşüleceğine odaklanır; bir tarafın kazancı diğerinin kaybıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-7-av7z",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel adaletin 'Dağıtımsal Adalet' boyutu aşağıdakilerden hangisi ile doğrudan ilgilidir?",
+    "options": [
+      "Kararların alınma sürecinin tarafsızlığı",
+      "Yöneticinin çalışanlara olan nazik tutumu",
+      "Bilginin zamanında ve doğru paylaşılması",
+      "Ücret, ödül ve terfi gibi çıktıların çalışanlar arasındaki dengeli dağılımı",
+      "Personelin kurum politikalarına katılım oranı"
+    ],
+    "answer_index": 3,
+    "explanation": "Dağıtımsal adalet, çalışanların çabaları karşılığında aldıkları somut sonuçların (maaş, prim vb.) adil olup olmadığına dair algısıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-8-ts2q",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi kurum içi iletişimin 'Eğitim ve Bilgilendirme' fonksiyonunun bir sonucudur?",
+    "options": [
+      "Çalışanların stres atmasını sağlamak",
+      "Personelin yeni mevzuat ve iş yapış şekillerini öğrenmesi",
+      "Yöneticinin otoritesini pekiştirmesi",
+      "Dedikodu mekanizmasının güçlenmesi",
+      "Gayriresmi grupların kontrol edilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Eğitim fonksiyonu, çalışanların görevlerini daha iyi yapabilmeleri için gerekli bilgi ve beceriyi aktarma sürecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-msfzl94v-9-hrxy",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Psikolojik Mesafe' kavramı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "İki kişi arasındaki fiziksel cm uzaklığı",
+      "Hiyerarşik kademe farkı",
+      "Taraflar arasındaki duygusal yakınlık, samimiyet veya soğukluk derecesi",
+      "Konuşma hızı ve tonlama farkı",
+      "Mekandaki engeller"
+    ],
+    "answer_index": 2,
+    "explanation": "Psikolojik mesafe, fiziksel uzaklıktan bağımsız olarak kişilerin birbirlerine ne kadar yakın veya uzak hissettikleri ile ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:11:27.302027+00:00",
+    "updated_at": "2026-08-05T11:11:27.302027+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-0-n5pi",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim sürecinin ilk aşaması olan, kurumun gelecekte ulaşmak istediği amaçların belirlenmesi ve bu amaçlara ulaşmak için izlenecek yolların saptanmasını ifade eden fonksiyon aşağıdakilerden hangisidir?",
+    "options": [
+      "Örgütleme",
+      "Koordinasyon",
+      "Planlama",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "answer_index": 2,
+    "explanation": "Planlama, yönetim sürecinin temelidir ve kurumda neyin, nasıl, ne zaman yapılacağının önceden belirlenmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-1-2zlr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Klasik yönetim kuramcılarından Henri Fayol'un yönetim ilkelerinden biri olan 'Komuta Birliği' ilkesi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Tüm kararların tepe yönetimde alınmasını",
+      "Her astın yalnızca bir üsten emir almasını",
+      "Yetkinin alt kademelere devredilmesini",
+      "İşlerin uzmanlık alanlarına göre bölünmesini",
+      "Kurumda takım çalışmasının desteklenmesini"
+    ],
+    "answer_index": 1,
+    "explanation": "Komuta birliği ilkesi, çatışma ve karmaşayı önlemek amacıyla her astın sadece tek bir amire bağlı olması ve ondan emir alması gerektiğini belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-10-pf6f",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin kurum sorunlarını analiz edebilmesi, farklı olaylar arasındaki ilişkileri görebilmesi ve kurumu bir bütün olarak algılayabilme yeteneği hangi yönetim becerisi kapsamında değerlendirilir?",
+    "options": [
+      "Teknik Beceri",
+      "İnsani (Beşeri) Beceri",
+      "Kavramsal Beceri",
+      "İletişim Becerisi",
+      "Zaman Yönetimi Becerisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Bütünü görebilme, analitik düşünme ve karmaşık sorunları çözme kapasitesi özellikle üst düzey yöneticilerde bulunması gereken kavramsal becerilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-11-7frq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin, kurum hedeflerine ulaşmak için personelin katılımına izin vermediği, tüm kararları tek başına aldığı ve cezalandırma gücünü ön planda tuttuğu liderlik tarzı aşağıdakilerden hangisidir?",
+    "options": [
+      "Demokratik Liderlik",
+      "Dönüşümcü Liderlik",
+      "Otokratik Liderlik",
+      "Laissez-Faire (Serbest Bırakıcı) Liderlik",
+      "Hizmetkar Liderlik"
+    ],
+    "answer_index": 2,
+    "explanation": "Kararların tek elde toplandığı, emredici ve baskıcı yönetim biçimi otokratik liderliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-12-es13",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt içindeki iletişimde kaynaktan alıcıya giden mesajın tam ve doğru bir şekilde ulaşmasını engelleyen her türlü dış etken yönetim biliminde ne olarak adlandırılır?",
+    "options": [
+      "Geri bildirim (Feedback)",
+      "Kodlama",
+      "Kanal",
+      "Gürültü (Bozucu etken)",
+      "Dekodaj"
+    ],
+    "answer_index": 3,
+    "explanation": "Fiziksel, psikolojik veya anlamsal olarak mesajın anlaşılmasını zorlaştıran tüm engeller iletişimde 'gürültü' olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-13-37s9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme süreci bir dizi mantıksal aşamadan oluşur. Rasyonel karar verme sürecinin ilk aşaması aşağıdakilerden hangisidir?",
+    "options": [
+      "Alternatifleri değerlendirmek",
+      "Problemi (Sorunu) tanımlamak",
+      "Kararı uygulamak",
+      "Alternatif çözümler geliştirmek",
+      "Sonuçları denetlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Karar verme sürecinin başarılı olabilmesi için ilk adım, ortadaki problemin doğru, eksiksiz ve net bir şekilde tanımlanmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-14-jsy3",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astların ihtiyaçlarını merkeze alan, onların gelişimini destekleyen ve güçlendiren, 'yönetmekten çok hizmet etmeye' odaklanan çağdaş liderlik yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Karizmatik Liderlik",
+      "İşlemci Liderlik",
+      "Hizmetkar Liderlik",
+      "Otokratik Liderlik",
+      "Vizyoner Liderlik"
+    ],
+    "answer_index": 2,
+    "explanation": "Hizmetkar liderlik, liderin temel amacının astlarına, organizasyona ve topluma hizmet etmek olduğu; etik, güven ve empatiye dayalı yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-15-whnm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt yapısında 'Kontrol Alanı (Yönetim Alanı)' kavramı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Kurumun denetleyebildiği bütçe miktarını",
+      "Bir yöneticiye doğrudan bağlı ve onun etkin bir şekilde yönetebileceği ast sayısını",
+      "Kurumun fiziki büyüklüğünü",
+      "Kurumun çevre ile etkileşim kapasitesini",
+      "Merkezden yönetilen birim sayısını"
+    ],
+    "answer_index": 1,
+    "explanation": "Kontrol alanı (Span of control), bir yöneticinin ne kadar aileyi/çalışanı verimli bir şekilde denetleyip yönlendirebileceğini belirten ast sayısıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-16-k8wo",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu kurumunda tarafların (örneğin iki farklı şube müdürlüğünün) kendi isteklerinden bir miktar fedakarlık yaparak ortak bir orta yolda buluşması, çatışma yönetimi stratejilerinden hangisine girer?",
+    "options": [
+      "Kaçınma",
+      "Uyma",
+      "Rekabet Etme",
+      "Uzlaşma",
+      "Problem Çözme (İşbirliği)"
+    ],
+    "answer_index": 3,
+    "explanation": "Tarafların karşılıklı tavizler vererek kısmi tatmin sağladığı ve anlaşmaya vardığı çatışma çözme yöntemi 'uzlaşma'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-17-3am4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Elton Mayo öncülüğünde yapılan ve yönetim biliminde 'İnsan İlişkileri Yaklaşımı'nın (Neo-Klasik Yaklaşım) doğmasına neden olan ünlü araştırmalar dizisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Hawthorne Araştırmaları",
+      "Zaman ve Hareket Etütleri",
+      "Tavistock Araştırmaları",
+      "Ohio State Liderlik Çalışmaları",
+      "Michigan Üniversitesi Çalışmaları"
+    ],
+    "answer_index": 0,
+    "explanation": "Hawthorne araştırmaları, verimliliğin sadece fiziksel koşullara bağlı olmadığını, çalışanların psikolojik ve sosyal ihtiyaçlarının da çok önemli olduğunu ortaya koymuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-18-z6i1",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik yönetim bağlamında, bir kamu kurumunun var oluş nedenini, hangi amaçla kurulduğunu ve temel görevini açıklayan ifadeye ne ad verilir?",
+    "options": [
+      "Vizyon",
+      "Hedef",
+      "Misyon (Özgörev)",
+      "Politika",
+      "Prosedür"
+    ],
+    "answer_index": 2,
+    "explanation": "Misyon, bir kurumun şu anda ne olduğunu, ne yaptığını ve var oluş nedenini tanımlayan temel bildirgedir. Vizyon ise gelecekte olmak istenen yeri ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-19-uk3y",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Toplam Kalite Yönetimi'nin (TKY) temel felsefelerinden olan, süreçlerin her gün küçük adımlarla sürekli olarak iyileştirilmesini ifade eden Japonca kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanban",
+      "Kaizen",
+      "Just-in-Time",
+      "Poka-Yoke",
+      "Muda"
+    ],
+    "answer_index": 1,
+    "explanation": "Kaizen, mevcut durumu korumakla yetinmeyip her gün küçük de olsa sürekli bir iyileştirme ve gelişim çabası içinde olmayı ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-2-ymjg",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu kurumlarında yöneticilerin iş yükünü hafifletmek ve karar alma süreçlerini hızlandırmak amacıyla kullandığı 'Yetki Devri' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yetki devri, amirin iş yükünü azaltır.",
+      "Amir yetki devretse bile sorumluluk devredilmez.",
+      "Yetki devri açık ve net bir şekilde yapılmalıdır.",
+      "Sadece rutin ve sınırları belli olan işlerde yetki devri yapılır.",
+      "Yetki devreden amir, denetim hakkından vazgeçmiş sayılır."
+    ],
+    "answer_index": 4,
+    "explanation": "Yetki devredildiğinde yöneticinin nihai sorumluluğu ortadan kalkmaz ve denetim yetkisi devam eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-20-erfy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu yönetiminde yetkilerin tek merkezde (Bakanlık vb.) toplanmadığı, karar alma ve uygulama yetkisinin merkezin dışındaki birimlere de verildiği yönetim ilkesi nedir?",
+    "options": [
+      "Merkeziyetçilik",
+      "Yerinden Yönetim",
+      "Fonksiyonel Örgütlenme",
+      "Dikey Hiyerarşi",
+      "Bürokrasi"
+    ],
+    "answer_index": 1,
+    "explanation": "Yerel ihtiyaçların daha hızlı ve etkin karşılanabilmesi için yetkilerin merkezi idareden mahalli veya bölgesel birimlere aktarılması yerinden yönetimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-21-ayty",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astlarının ihtiyaçlarını anlayan, onların ilham almasını sağlayan, entelektüel uyarım yaratarak kurumu ve personeli daha üst hedeflere taşıyan liderlik türü aşağıdakilerden hangisidir?",
+    "options": [
+      "İşlemci (Etkileşimci) Liderlik",
+      "Dönüşümcü (Transformasyonel) Liderlik",
+      "Laissez-Faire",
+      "Babacan (Paternalist) Liderlik",
+      "Otoriter Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Dönüşümcü liderlik; vizyon aşılayarak, kurumsal değişimi yöneterek ve çalışanları motive ederek büyük çaplı değişimler yaratan liderlik tarzıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-msft6hgx-22-4d7u",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt içi iletişimde emirlerin, talimatların ve kurumsal politikaların üst kademelerden alt kademelere doğru iletilmesine ne ad verilir?",
+    "options": [
+      "Yatay İletişim",
+      "Aşağıdan Yukarıya İletişim",
+      "Yukarıdan Aşağıya İletişim",
+      "Çapraz İletişim",
+      "İnformal İletişim"
+    ],
+    "answer_index": 2,
+    "explanation": "Amirlerden memurlara doğru işleyen, emir, talimat ve kural aktarımını içeren hiyerarşik iletişim yukarıdan aşağıya iletişimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T08:12:00.578181+00:00",
+    "updated_at": "2026-08-05T08:12:00.578181+00:00"
+  }
+]
+

@@ -1,0 +1,1303 @@
+[
+  {
+    "id": 1,
+    "deneme_id": 1,
+    "prompt": "Hangisinde ünlü düşmesi vardır?",
+    "options": [
+      "Akıl -> Aklı",
+      "Kitap -> Kitabı",
+      "Dolap -> Dolabı",
+      "Ağaç -> Ağacı"
+    ],
+    "answer_index": 0,
+    "sort_order": 1
+  },
+  {
+    "id": 2,
+    "deneme_id": 1,
+    "prompt": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      "Herkez buraya baksın.",
+      "O da bizimle gelecek.",
+      "Bugün hava çok güzel.",
+      "Yarın akşam buluşalım."
+    ],
+    "answer_index": 0,
+    "sort_order": 2
+  },
+  {
+    "id": 3,
+    "deneme_id": 1,
+    "prompt": "Hangisi eş anlamlı kelimelere örnektir?",
+    "options": [
+      "Siyah - Beyaz",
+      "İyi - Kötü",
+      "Cevap - Yanıt",
+      "Uzun - Kısa"
+    ],
+    "answer_index": 2,
+    "sort_order": 3
+  },
+  {
+    "id": 4,
+    "deneme_id": 1,
+    "prompt": "Aşağıdakilerden hangisi isimden isim yapan ek almıştır?",
+    "options": [
+      "Gözlük",
+      "Bilgi",
+      "Sevgi",
+      "Yazı"
+    ],
+    "answer_index": 0,
+    "sort_order": 4
+  },
+  {
+    "id": 5,
+    "deneme_id": 1,
+    "prompt": "'Gelmek' fiilinin şimdiki zaman 1. tekil şahıs çekimi hangisidir?",
+    "options": [
+      "Geldim",
+      "Geliyorum",
+      "Geleceğim",
+      "Gelmeliyim"
+    ],
+    "answer_index": 1,
+    "sort_order": 5
+  },
+  {
+    "id": 6,
+    "deneme_id": 1,
+    "prompt": "Hangisi bir noktalama işaretidir?",
+    "options": [
+      "Bağlaç",
+      "Virgül",
+      "Sıfat",
+      "Zamir"
+    ],
+    "answer_index": 1,
+    "sort_order": 6
+  },
+  {
+    "id": 7,
+    "deneme_id": 1,
+    "prompt": "Etkili iletişimde 'empati' neyi ifade eder?",
+    "options": [
+      "Karşıdaki kişinin duygu ve bakış açısını anlayabilme becerisini",
+      "Sadece nazik konuşmayı",
+      "Sadece dinlemeyi",
+      "Sadece göz teması kurmayı"
+    ],
+    "answer_index": 0,
+    "sort_order": 7
+  },
+  {
+    "id": 8,
+    "deneme_id": 1,
+    "prompt": "Örgüt içi iletişim türlerinden 'yatay iletişim' neyi ifade eder?",
+    "options": [
+      "Aynı hiyerarşik düzeydeki birimler/kişiler arasındaki iletişimi",
+      "Üstten asta iletişimi",
+      "Asttan üste iletişimi",
+      "Kurum dışı iletişimi"
+    ],
+    "answer_index": 0,
+    "sort_order": 8
+  },
+  {
+    "id": 9,
+    "deneme_id": 1,
+    "prompt": "Klasik yönetim yaklaşımının öncülerinden biri kimdir?",
+    "options": [
+      "Henri Fayol",
+      "Abraham Maslow",
+      "Douglas McGregor",
+      "Peter Drucker"
+    ],
+    "answer_index": 0,
+    "sort_order": 9
+  },
+  {
+    "id": 10,
+    "deneme_id": 1,
+    "prompt": "'Dönüşümcü liderlik' yaklaşımının temel özelliği nedir?",
+    "options": [
+      "Vizyon ile astları motive edip değişimi yönetmek",
+      "Sadece kurallara sıkı sıkıya bağlı kalmak",
+      "Sadece ödül-ceza sistemini kullanmak",
+      "Karar almaktan kaçınmak"
+    ],
+    "answer_index": 0,
+    "sort_order": 10
+  },
+  {
+    "id": 11,
+    "deneme_id": 1,
+    "prompt": "Yönetim fonksiyonlarından biri değildir?",
+    "options": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme (yürütme)",
+      "Kişisel çıkar gözetme"
+    ],
+    "answer_index": 3,
+    "sort_order": 11
+  },
+  {
+    "id": 12,
+    "deneme_id": 1,
+    "prompt": "İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1923"
+    ],
+    "answer_index": 1,
+    "sort_order": 12
+  },
+  {
+    "id": 13,
+    "deneme_id": 1,
+    "prompt": "Kamu görevlisinin 'çıkar çatışmasından kaçınma' yükümlülüğü ne anlama gelir?",
+    "options": [
+      "Kişisel çıkarını kamu görevinin gerekleriyle çatıştırmamasını",
+      "Sadece maaşını beyan etmesini",
+      "Sadece izin almasını",
+      "Hiçbir anlamı yoktur"
+    ],
+    "answer_index": 0,
+    "sort_order": 13
+  },
+  {
+    "id": 14,
+    "deneme_id": 1,
+    "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon"
+    ],
+    "answer_index": 1,
+    "sort_order": 14
+  },
+  {
+    "id": 15,
+    "deneme_id": 1,
+    "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "Belediye",
+      "Bakanlık"
+    ],
+    "answer_index": 2,
+    "sort_order": 15
+  },
+  {
+    "id": 16,
+    "deneme_id": 1,
+    "prompt": "Resmi yazışmalarda üst makama yazılan yazıların bitiriş ifadesi hangisi olmalıdır?",
+    "options": [
+      "Rica ederim",
+      "Arz ve rica ederim",
+      "Arz ederim",
+      "Bilgilerinize sunarım"
+    ],
+    "answer_index": 2,
+    "sort_order": 16
+  },
+  {
+    "id": 17,
+    "deneme_id": 1,
+    "prompt": "Harf İnkılabı hangi yıl yapılmıştır?",
+    "options": [
+      "1923",
+      "1926",
+      "1928",
+      "1934"
+    ],
+    "answer_index": 2,
+    "sort_order": 17
+  },
+  {
+    "id": 18,
+    "deneme_id": 1,
+    "prompt": "Milli Mücadele'nin askeri safhasını bitiren ateşkes antlaşması hangisidir?",
+    "options": [
+      "Mondros",
+      "Mudanya",
+      "Sevr",
+      "Lozan"
+    ],
+    "answer_index": 1,
+    "sort_order": 18
+  },
+  {
+    "id": 19,
+    "deneme_id": 1,
+    "prompt": "Avrupa Birliği'nin başkenti olarak kabul edilen şehir hangisidir?",
+    "options": [
+      "Paris",
+      "Berlin",
+      "Brüksel",
+      "Strazburg"
+    ],
+    "answer_index": 2,
+    "sort_order": 19
+  },
+  {
+    "id": 20,
+    "deneme_id": 1,
+    "prompt": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?",
+    "options": [
+      "Orhan Pamuk",
+      "Yaşar Kemal",
+      "Aziz Nesin",
+      "Elif Şafak"
+    ],
+    "answer_index": 0,
+    "sort_order": 20
+  },
+  {
+    "id": 21,
+    "deneme_id": 1,
+    "prompt": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Erciyes",
+      "Süphan",
+      "Ağrı",
+      "Kaçkar"
+    ],
+    "answer_index": 2,
+    "sort_order": 21
+  },
+  {
+    "id": 22,
+    "deneme_id": 1,
+    "prompt": "İstiklal Marşı'nın şairi kimdir?",
+    "options": [
+      "Namık Kemal",
+      "Mehmet Akif Ersoy",
+      "Yahya Kemal Beyatlı",
+      "Ziya Gökalp"
+    ],
+    "answer_index": 1,
+    "sort_order": 22
+  },
+  {
+    "id": 23,
+    "deneme_id": 1,
+    "prompt": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer_index": 1,
+    "sort_order": 23
+  },
+  {
+    "id": 24,
+    "deneme_id": 1,
+    "prompt": "Anayasa'nın 'değiştirilemez ve değiştirilmesi teklif dahi edilemez' maddeleri hangi maddededir?",
+    "options": [
+      "Madde 1, 2 ve 3",
+      "Madde 4",
+      "Madde 10",
+      "Madde 11"
+    ],
+    "answer_index": 1,
+    "sort_order": 24
+  },
+  {
+    "id": 25,
+    "deneme_id": 1,
+    "prompt": "Kanun önünde eşitlik ilkesi Anayasa'nın hangi maddesinde düzenlenir?",
+    "options": [
+      "Madde 5",
+      "Madde 10",
+      "Madde 12",
+      "Madde 90"
+    ],
+    "answer_index": 1,
+    "sort_order": 25
+  },
+  {
+    "id": 26,
+    "deneme_id": 1,
+    "prompt": "Anayasa'ya göre Türkiye Devleti'nin şekli nedir?",
+    "options": [
+      "Cumhuriyettir",
+      "Monarşidir",
+      "Federasyondur",
+      "Konfederasyondur"
+    ],
+    "answer_index": 0,
+    "sort_order": 26
+  },
+  {
+    "id": 27,
+    "deneme_id": 1,
+    "prompt": "Temel hak ve hürriyetlerin sınırlanması hangi maddede düzenlenmiştir?",
+    "options": [
+      "Madde 13",
+      "Madde 14",
+      "Madde 15",
+      "Madde 16"
+    ],
+    "answer_index": 0,
+    "sort_order": 27
+  },
+  {
+    "id": 28,
+    "deneme_id": 1,
+    "prompt": "Cumhurbaşkanının görev süresi kaç yıldır?",
+    "options": [
+      "4 yıl",
+      "5 yıl",
+      "6 yıl",
+      "7 yıl"
+    ],
+    "answer_index": 1,
+    "sort_order": 28
+  },
+  {
+    "id": 29,
+    "deneme_id": 1,
+    "prompt": "1982 Anayasası'nın kabul tarihi hangisidir?",
+    "options": [
+      "7 Kasım 1982",
+      "9 Eylül 1980",
+      "12 Eylül 1982",
+      "20 Ekim 1981"
+    ],
+    "answer_index": 0,
+    "sort_order": 29
+  },
+  {
+    "id": 30,
+    "deneme_id": 1,
+    "prompt": "Anayasaya veya kanuna aykırı emrin amir tarafından yazılı olarak ısrar edilmesi halinde memur ne yapar?",
+    "options": [
+      "Yine de yapmaz",
+      "Emri yerine getirir ve sorumluluk emri verene ait olur",
+      "Cevap vermez",
+      "Mahkemeye başvurur"
+    ],
+    "answer_index": 1,
+    "sort_order": 30
+  },
+  {
+    "id": 31,
+    "deneme_id": 1,
+    "prompt": "Adaylık süresi içinde disiplin cezası alan aday memurların durumu ne olur?",
+    "options": [
+      "Adaylıkları uzatılır",
+      "İlişikleri kesilir",
+      "Cezaları ertelenir",
+      "Maaşları düşürülür"
+    ],
+    "answer_index": 1,
+    "sort_order": 31
+  },
+  {
+    "id": 32,
+    "deneme_id": 1,
+    "prompt": "657 sayılı Kanuna göre disiplin cezaları kaç grupta toplanır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer_index": 2,
+    "sort_order": 32
+  },
+  {
+    "id": 33,
+    "deneme_id": 1,
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Kanunda sayılan disiplin cezalarından biri değildir?",
+    "options": [
+      "Uyarma",
+      "Kınama",
+      "Aylıktan kesme",
+      "Sürgün"
+    ],
+    "answer_index": 3,
+    "sort_order": 33
+  },
+  {
+    "id": 34,
+    "deneme_id": 1,
+    "prompt": "Devlet memurluğundan çıkarma cezasını vermeye yetkili organ hangisidir?",
+    "options": [
+      "Disiplin Amiri",
+      "İl Disiplin Kurulu",
+      "Yüksek Disiplin Kurulu",
+      "Valilik"
+    ],
+    "answer_index": 2,
+    "sort_order": 34
+  },
+  {
+    "id": 35,
+    "deneme_id": 1,
+    "prompt": "'Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz' hükmü hangi temel ilke ile ilgilidir?",
+    "options": [
+      "Süreklilik",
+      "Genellik ve eşitlik",
+      "Yöneltme",
+      "Bilimsellik"
+    ],
+    "answer_index": 1,
+    "sort_order": 35
+  },
+  {
+    "id": 36,
+    "deneme_id": 1,
+    "prompt": "Kanunun 4. maddesinde düzenlenen 'Genellik ve Eşitlik' ilkesine göre eğitim kurumları kimlere açıktır?",
+    "options": [
+      "Yalnızca Türk vatandaşı erkeklere",
+      "Dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese",
+      "Sadece belirli bir gelir düzeyinin üzerindeki ailelerin çocuklarına",
+      "Yalnızca örgün eğitim çağındaki öğrencilere"
+    ],
+    "answer_index": 1,
+    "sort_order": 36
+  },
+  {
+    "id": 37,
+    "deneme_id": 1,
+    "prompt": "Milli eğitimimizde her derece ve türdeki eğitim müfredat ve ders programlarının, çağdaş bilim ve teknolojinin gereklerine göre sürekli yenileştirilmesi hangi ilkenin gereğidir?",
+    "options": [
+      "Bilimsellik",
+      "Karma eğitim",
+      "Genellik ve eşitlik",
+      "Süreklilik"
+    ],
+    "answer_index": 0,
+    "sort_order": 37
+  },
+  {
+    "id": 38,
+    "deneme_id": 1,
+    "prompt": "Milli eğitim hizmetinin Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine dayanması hangi ilke kapsamında düzenlenmiştir?",
+    "options": [
+      "Atatürk İnkılap ve İlkeleri, Atatürk Milliyetçiliği",
+      "Laiklik",
+      "Bilimsellik",
+      "Planlılık"
+    ],
+    "answer_index": 0,
+    "sort_order": 38
+  },
+  {
+    "id": 39,
+    "deneme_id": 1,
+    "prompt": "Bir öğretim yılı hangi tarihler arasındaki süreyi ifade eder?",
+    "options": [
+      "1 Ocak ile 31 Aralık arasını",
+      "Derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadar olan süreyi",
+      "Sadece iki yarıyıl tatili arasındaki süreyi",
+      "Yalnızca derslerin fiilen işlendiği günleri"
+    ],
+    "answer_index": 1,
+    "sort_order": 39
+  },
+  {
+    "id": 40,
+    "deneme_id": 1,
+    "prompt": "Kanuna göre öğretmenler grubu içinde aşağıdakilerden hangisi sayılmıştır?",
+    "options": [
+      "Sadece sınıf öğretmenleri",
+      "Sadece branş öğretmenleri",
+      "Sınıf, branş, okul öncesi, özel eğitim ve gezici öğretmenler ile usta öğreticiler",
+      "Yalnızca rehberlik uzmanları"
+    ],
+    "answer_index": 2,
+    "sort_order": 40
+  },
+  {
+    "id": 41,
+    "deneme_id": 1,
+    "prompt": "Hastalık, sel, kar, deprem veya yangın gibi sebeplerle okula gelemeyen öğrenci için hangi işlem uygulanır?",
+    "options": [
+      "Devamsız sayılır",
+      "İzinli sayılır",
+      "Kaydı silinir",
+      "Sınava alınmaz"
+    ],
+    "answer_index": 1,
+    "sort_order": 41
+  },
+  {
+    "id": 42,
+    "deneme_id": 1,
+    "prompt": "İlköğretime ayrılan gelir ve ödenekler, kanunda gösterilen giderler dışında başka bir yere sarf edilebilir mi?",
+    "options": [
+      "Evet, okul müdürünün onayıyla",
+      "Evet, valilik kararıyla",
+      "Hayır, başka fasıllara da nakledilemez",
+      "Sadece yaz tatilinde edilebilir"
+    ],
+    "answer_index": 2,
+    "sort_order": 42
+  },
+  {
+    "id": 43,
+    "deneme_id": 1,
+    "prompt": "652 sayılı KHK'nın kapsamına giren temel konu hangisidir?",
+    "options": [
+      "Bakanlığın merkez ve taşra teşkilatının görev, yetki ve sorumlulukları",
+      "Sadece bütçe kalemleri",
+      "Sadece disiplin cezaları",
+      "Sadece sendikal haklar"
+    ],
+    "answer_index": 0,
+    "sort_order": 43
+  },
+  {
+    "id": 44,
+    "deneme_id": 1,
+    "prompt": "4982 sayılı Kanun'un amacı nedir?",
+    "options": [
+      "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+      "Sadece basın mensuplarına bilgi vermek",
+      "Ticari sırları korumak",
+      "Kamu ihalelerini düzenlemek"
+    ],
+    "answer_index": 0,
+    "sort_order": 44
+  },
+  {
+    "id": 45,
+    "deneme_id": 1,
+    "prompt": "Bilgi edinme başvurusunun reddi halinde başvurulacak üst mercii nedir?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu",
+      "Belediye Meclisi",
+      "İl Genel Meclisi",
+      "Sendika"
+    ],
+    "answer_index": 0,
+    "sort_order": 45
+  },
+  {
+    "id": 46,
+    "deneme_id": 1,
+    "prompt": "Vali, ilde hangi organın temsilcisidir?",
+    "options": [
+      "Sadece İçişleri Bakanlığının",
+      "Devletin ve ayrı ayrı her bakanlığın",
+      "Sadece Cumhurbaşkanının",
+      "Belediyenin"
+    ],
+    "answer_index": 1,
+    "sort_order": 46
+  },
+  {
+    "id": 47,
+    "deneme_id": 1,
+    "prompt": "İlçe idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Muhtar",
+      "İl Müdürü"
+    ],
+    "answer_index": 1,
+    "sort_order": 47
+  },
+  {
+    "id": 48,
+    "deneme_id": 1,
+    "prompt": "5442 sayılı Kanun'a göre il idaresinin başı kimdir?",
+    "options": [
+      "Vali",
+      "Belediye Başkanı",
+      "Kaymakam",
+      "İl Genel Meclisi Başkanı"
+    ],
+    "answer_index": 0,
+    "sort_order": 48
+  },
+  {
+    "id": 49,
+    "deneme_id": 1,
+    "prompt": "MEB Personeli İzin Yönergesi'ne göre mazeret izni hangi hallerde verilebilir?",
+    "options": [
+      "Yönergede sayılan haklı ve mazur sebeplerle",
+      "Hiçbir zaman",
+      "Sadece hastalıkta",
+      "Sadece doğumda"
+    ],
+    "answer_index": 0,
+    "sort_order": 49
+  },
+  {
+    "id": 50,
+    "deneme_id": 1,
+    "prompt": "Aday memurun asaletinin tasdiki için gerekli koşullardan biri nedir?",
+    "options": [
+      "Temel ve hazırlayıcı eğitim ile staj döneminde başarılı olmak",
+      "Sadece bir yıl beklemek",
+      "Sadece emeklilik yaşına gelmek",
+      "Hiçbir koşul yoktur"
+    ],
+    "answer_index": 0,
+    "sort_order": 50
+  },
+  {
+    "id": 51,
+    "deneme_id": 1,
+    "prompt": "MEB Merkez Teşkilatı İmza Yetkileri Yönergesi neyi düzenler?",
+    "options": [
+      "Bakanlık makamınca hangi yazıların hangi düzeyde imzalanacağını",
+      "Sadece bütçe onaylarını",
+      "Sadece atama kararlarını",
+      "Sadece izin onaylarını"
+    ],
+    "answer_index": 0,
+    "sort_order": 51
+  },
+  {
+    "id": 52,
+    "deneme_id": 1,
+    "prompt": "Disiplin soruşturmasında savunma hakkı ile ilgili temel ilke nedir?",
+    "options": [
+      "İlgiliye savunmasını yapabilmesi için süre verilmesi zorunludur",
+      "Savunma alınmadan da ceza verilebilir",
+      "Savunma sadece yazılı olmalıdır",
+      "Savunma hakkı yoktur"
+    ],
+    "answer_index": 0,
+    "sort_order": 52
+  },
+  {
+    "id": 53,
+    "deneme_id": 1,
+    "prompt": "Aylıktan kesme cezasını vermeye yetkili disiplin amiri genel olarak kimdir?",
+    "options": [
+      "Yönetmelikte belirlenen disiplin amiri",
+      "Sadece Bakan",
+      "Sadece Vali",
+      "Sadece Cumhurbaşkanı"
+    ],
+    "answer_index": 0,
+    "sort_order": 53
+  },
+  {
+    "id": 54,
+    "deneme_id": 1,
+    "prompt": "Şeflik görevinin temel niteliği nedir?",
+    "options": [
+      "Kendisine bağlı birimin iş ve işlemlerini yönetmek/koordine etmek",
+      "Sadece evrak kaydı tutmak",
+      "Sadece temizlik işlerini yönetmek",
+      "Sadece arşiv işleriyle ilgilenmek"
+    ],
+    "answer_index": 0,
+    "sort_order": 54
+  },
+  {
+    "id": 55,
+    "deneme_id": 1,
+    "prompt": "Şef kadrosuna görevde yükselme yoluyla atanabilmek için genel şartlardan biri nedir?",
+    "options": [
+      "Yönetmelikte öngörülen hizmet süresi ve sınav şartlarını taşımak",
+      "Sadece kıdemli olmak",
+      "Sadece lisans mezunu olmak yeterlidir, sınav aranmaz",
+      "Hiçbir şart aranmaz"
+    ],
+    "answer_index": 0,
+    "sort_order": 55
+  },
+  {
+    "id": 56,
+    "deneme_id": 1,
+    "prompt": "MEB Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği'nde 'zorunlu hizmet bölgesi' kavramı neyi ifade eder?",
+    "options": [
+      "Hizmet ihtiyacı nedeniyle öncelikli atama yapılan bölgeleri",
+      "Sadece büyükşehirleri",
+      "Sadece sınır illerini",
+      "Kavram yoktur"
+    ],
+    "answer_index": 0,
+    "sort_order": 56
+  },
+  {
+    "id": 57,
+    "deneme_id": 1,
+    "prompt": "Görevde yükselme eğitimine katılma şartlarından biri nedir?",
+    "options": [
+      "Duyurulan kadro için öngörülen öğrenim ve hizmet süresi şartını taşımak",
+      "Sadece dilekçe vermek yeterlidir",
+      "Sadece kıdem yeterlidir",
+      "Şart aranmaz"
+    ],
+    "answer_index": 0,
+    "sort_order": 57
+  },
+  {
+    "id": 58,
+    "deneme_id": 1,
+    "prompt": "Disiplin cezasına itiraz nereye yapılabilir?",
+    "options": [
+      "Kanunda belirtilen disiplin kuruluna veya idare mahkemesine",
+      "Sadece Cumhurbaşkanlığına",
+      "Sadece Sayıştaya",
+      "İtiraz edilemez"
+    ],
+    "answer_index": 0,
+    "sort_order": 58
+  },
+  {
+    "id": 59,
+    "deneme_id": 1,
+    "prompt": "Bir personelin ilk disiplin amiri genel olarak kimdir?",
+    "options": [
+      "Doğrudan bağlı olduğu birim amiri",
+      "Bakan",
+      "Vali",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 0,
+    "sort_order": 59
+  },
+  {
+    "id": 60,
+    "deneme_id": 1,
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği'nin amacı nedir?",
+    "options": [
+      "Disiplin amirlerini ve disiplin cezası vermeye yetkili makamları belirlemek",
+      "Sadece maaşları belirlemek",
+      "Sadece izinleri belirlemek",
+      "Sadece atamaları belirlemek"
+    ],
+    "answer_index": 0,
+    "sort_order": 60
+  },
+  {
+    "id": 61,
+    "deneme_id": 2,
+    "prompt": "'Gelmek' fiilinin şimdiki zaman 1. tekil şahıs çekimi hangisidir?",
+    "options": [
+      "Geldim",
+      "Geliyorum",
+      "Geleceğim",
+      "Gelmeliyim"
+    ],
+    "answer_index": 1,
+    "sort_order": 1
+  },
+  {
+    "id": 62,
+    "deneme_id": 2,
+    "prompt": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      "Herkez buraya baksın.",
+      "O da bizimle gelecek.",
+      "Bugün hava çok güzel.",
+      "Yarın akşam buluşalım."
+    ],
+    "answer_index": 0,
+    "sort_order": 2
+  },
+  {
+    "id": 63,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi isimden isim yapan ek almıştır?",
+    "options": [
+      "Gözlük",
+      "Bilgi",
+      "Sevgi",
+      "Yazı"
+    ],
+    "answer_index": 0,
+    "sort_order": 3
+  },
+  {
+    "id": 64,
+    "deneme_id": 2,
+    "prompt": "Hangisinde ünlü düşmesi vardır?",
+    "options": [
+      "Akıl -> Aklı",
+      "Kitap -> Kitabı",
+      "Dolap -> Dolabı",
+      "Ağaç -> Ağacı"
+    ],
+    "answer_index": 0,
+    "sort_order": 4
+  },
+  {
+    "id": 65,
+    "deneme_id": 2,
+    "prompt": "Hangisi bir noktalama işaretidir?",
+    "options": [
+      "Bağlaç",
+      "Virgül",
+      "Sıfat",
+      "Zamir"
+    ],
+    "answer_index": 1,
+    "sort_order": 5
+  },
+  {
+    "id": 66,
+    "deneme_id": 2,
+    "prompt": "Hangisi eş anlamlı kelimelere örnektir?",
+    "options": [
+      "Siyah - Beyaz",
+      "İyi - Kötü",
+      "Cevap - Yanıt",
+      "Uzun - Kısa"
+    ],
+    "answer_index": 2,
+    "sort_order": 6
+  },
+  {
+    "id": 67,
+    "deneme_id": 2,
+    "prompt": "İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1923"
+    ],
+    "answer_index": 1,
+    "sort_order": 7
+  },
+  {
+    "id": 68,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin özelliklerinden biri değildir?",
+    "options": [
+      "Evrenseldir",
+      "Vazgeçilemez",
+      "Devredilemez",
+      "Sınırsızdır"
+    ],
+    "answer_index": 3,
+    "sort_order": 8
+  },
+  {
+    "id": 69,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "Belediye",
+      "Bakanlık"
+    ],
+    "answer_index": 2,
+    "sort_order": 9
+  },
+  {
+    "id": 70,
+    "deneme_id": 2,
+    "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon"
+    ],
+    "answer_index": 1,
+    "sort_order": 10
+  },
+  {
+    "id": 71,
+    "deneme_id": 2,
+    "prompt": "Resmi yazışmalarda üst makama yazılan yazıların bitiriş ifadesi hangisi olmalıdır?",
+    "options": [
+      "Rica ederim",
+      "Arz ve rica ederim",
+      "Arz ederim",
+      "Bilgilerinize sunarım"
+    ],
+    "answer_index": 2,
+    "sort_order": 11
+  },
+  {
+    "id": 72,
+    "deneme_id": 2,
+    "prompt": "Protokolde makam arabasında en onur verici (baş) köşe neresidir?",
+    "options": [
+      "Şoför yanı",
+      "Makam şoförünün arkası",
+      "Makam şoförünün çapraz arkası",
+      "Arka orta"
+    ],
+    "answer_index": 2,
+    "sort_order": 12
+  },
+  {
+    "id": 73,
+    "deneme_id": 2,
+    "prompt": "Türkiye Cumhuriyeti'nin ilk anayasası hangi yıl kabul edilmiştir?",
+    "options": [
+      "1921",
+      "1924",
+      "1961",
+      "1982"
+    ],
+    "answer_index": 1,
+    "sort_order": 13
+  },
+  {
+    "id": 74,
+    "deneme_id": 2,
+    "prompt": "Milli Mücadele'nin askeri safhasını bitiren ateşkes antlaşması hangisidir?",
+    "options": [
+      "Mondros",
+      "Mudanya",
+      "Sevr",
+      "Lozan"
+    ],
+    "answer_index": 1,
+    "sort_order": 14
+  },
+  {
+    "id": 75,
+    "deneme_id": 2,
+    "prompt": "Harf İnkılabı hangi yıl yapılmıştır?",
+    "options": [
+      "1923",
+      "1926",
+      "1928",
+      "1934"
+    ],
+    "answer_index": 2,
+    "sort_order": 15
+  },
+  {
+    "id": 76,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi Atatürk'ün altı ilkesinden biri değildir?",
+    "options": [
+      "Cumhuriyetçilik",
+      "Halkçılık",
+      "Eşitlikçilik",
+      "Laiklik"
+    ],
+    "answer_index": 2,
+    "sort_order": 16
+  },
+  {
+    "id": 77,
+    "deneme_id": 2,
+    "prompt": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?",
+    "options": [
+      "Orhan Pamuk",
+      "Yaşar Kemal",
+      "Aziz Nesin",
+      "Elif Şafak"
+    ],
+    "answer_index": 0,
+    "sort_order": 17
+  },
+  {
+    "id": 78,
+    "deneme_id": 2,
+    "prompt": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer_index": 1,
+    "sort_order": 18
+  },
+  {
+    "id": 79,
+    "deneme_id": 2,
+    "prompt": "Avrupa Birliği'nin başkenti olarak kabul edilen şehir hangisidir?",
+    "options": [
+      "Paris",
+      "Berlin",
+      "Brüksel",
+      "Strazburg"
+    ],
+    "answer_index": 2,
+    "sort_order": 19
+  },
+  {
+    "id": 80,
+    "deneme_id": 2,
+    "prompt": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Erciyes",
+      "Süphan",
+      "Ağrı",
+      "Kaçkar"
+    ],
+    "answer_index": 2,
+    "sort_order": 20
+  },
+  {
+    "id": 81,
+    "deneme_id": 2,
+    "prompt": "İstiklal Marşı'nın şairi kimdir?",
+    "options": [
+      "Namık Kemal",
+      "Mehmet Akif Ersoy",
+      "Yahya Kemal Beyatlı",
+      "Ziya Gökalp"
+    ],
+    "answer_index": 1,
+    "sort_order": 21
+  },
+  {
+    "id": 82,
+    "deneme_id": 2,
+    "prompt": "Anayasa'nın 'değiştirilemez ve değiştirilmesi teklif dahi edilemez' maddeleri hangi maddededir?",
+    "options": [
+      "Madde 1, 2 ve 3",
+      "Madde 4",
+      "Madde 10",
+      "Madde 11"
+    ],
+    "answer_index": 1,
+    "sort_order": 22
+  },
+  {
+    "id": 83,
+    "deneme_id": 2,
+    "prompt": "Kanun önünde eşitlik ilkesi Anayasa'nın hangi maddesinde düzenlenir?",
+    "options": [
+      "Madde 5",
+      "Madde 10",
+      "Madde 12",
+      "Madde 90"
+    ],
+    "answer_index": 1,
+    "sort_order": 23
+  },
+  {
+    "id": 84,
+    "deneme_id": 2,
+    "prompt": "1982 Anayasası'nın kabul tarihi hangisidir?",
+    "options": [
+      "7 Kasım 1982",
+      "9 Eylül 1980",
+      "12 Eylül 1982",
+      "20 Ekim 1981"
+    ],
+    "answer_index": 0,
+    "sort_order": 24
+  },
+  {
+    "id": 85,
+    "deneme_id": 2,
+    "prompt": "Anayasa'ya göre Türkiye Devleti'nin şekli nedir?",
+    "options": [
+      "Cumhuriyettir",
+      "Monarşidir",
+      "Federasyondur",
+      "Konfederasyondur"
+    ],
+    "answer_index": 0,
+    "sort_order": 25
+  },
+  {
+    "id": 86,
+    "deneme_id": 2,
+    "prompt": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "answer_index": 2,
+    "sort_order": 26
+  },
+  {
+    "id": 87,
+    "deneme_id": 2,
+    "prompt": "Yasama yetkisi Anayasa'ya göre kime aittir?",
+    "options": [
+      "Cumhurbaşkanına",
+      "Türk Milleti adına TBMM'ye",
+      "Bakanlar Kuruluna",
+      "Anayasa Mahkemesine"
+    ],
+    "answer_index": 1,
+    "sort_order": 27
+  },
+  {
+    "id": 88,
+    "deneme_id": 2,
+    "prompt": "657 sayılı Kanun kapsamındaki kurumlar dördüncü maddede sayılan istihdam şekilleri dışında personel çalıştırabilir mi?",
+    "options": [
+      "Kurum amiri onayıyla çalıştırabilir",
+      "Bütçe imkânı varsa çalıştırabilir",
+      "Çalıştıramazlar",
+      "Valilik izniyle çalıştırabilir"
+    ],
+    "answer_index": 2,
+    "sort_order": 28
+  },
+  {
+    "id": 89,
+    "deneme_id": 2,
+    "prompt": "Devlet memurlarının Anayasa ve kanunlara bağlılık ilkesi neyi ifade eder?",
+    "options": [
+      "Görev saatinde uyumu",
+      "Sadakat ödevini",
+      "Tarafsız kalma hakkını",
+      "Hiyerarşik düzeni"
+    ],
+    "answer_index": 1,
+    "sort_order": 29
+  },
+  {
+    "id": 90,
+    "deneme_id": 2,
+    "prompt": "Devlet memurlarının yaptıkları hizmetler için liyakat ilkesinin esası nedir?",
+    "options": [
+      "Sadece yükseköğrenim mezunu olmak",
+      "Sınıfı içinde en yüksek dereceye kadar yükselme imkanı",
+      "Giriş ve ilerleyişin liyakat sistemine dayandırılması",
+      "Kurum amirinin takdiriyle terfi etmek"
+    ],
+    "answer_index": 2,
+    "sort_order": 30
+  },
+  {
+    "id": 91,
+    "deneme_id": 2,
+    "prompt": "Devlet memurlarının siyasi partilere üye olmalarına ilişkin hüküm hangisidir?",
+    "options": [
+      "Kurum izniyle serbesttir",
+      "Siyasi partilere üye olamazlar",
+      "Görev dışı saatlerde serbesttir",
+      "Sadece yerel partilere üye olabilirler"
+    ],
+    "answer_index": 1,
+    "sort_order": 31
+  },
+  {
+    "id": 92,
+    "deneme_id": 2,
+    "prompt": "Savunması alınmadan devlet memuruna disiplin cezası verilebilir mi?",
+    "options": [
+      "Verilebilir",
+      "Verilemez (En az 7 gün süre verilir)",
+      "Kurum amiri isterse verebilir",
+      "Acil durumlarda verilir"
+    ],
+    "answer_index": 1,
+    "sort_order": 32
+  },
+  {
+    "id": 93,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Kanunda sayılan disiplin cezalarından biri değildir?",
+    "options": [
+      "Uyarma",
+      "Kınama",
+      "Aylıktan kesme",
+      "Sürgün"
+    ],
+    "answer_index": 3,
+    "sort_order": 33
+  },
+  {
+    "id": 94,
+    "deneme_id": 2,
+    "prompt": "Milli eğitim hizmetinin Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine dayanması hangi ilke kapsamında düzenlenmiştir?",
+    "options": [
+      "Atatürk İnkılap ve İlkeleri, Atatürk Milliyetçiliği",
+      "Laiklik",
+      "Bilimsellik",
+      "Planlılık"
+    ],
+    "answer_index": 0,
+    "sort_order": 34
+  },
+  {
+    "id": 95,
+    "deneme_id": 2,
+    "prompt": "1739 sayılı Kanun'un 18. maddesine göre Türk milli eğitim sistemi kaç ana bölümden oluşur?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer_index": 1,
+    "sort_order": 35
+  },
+  {
+    "id": 96,
+    "deneme_id": 2,
+    "prompt": "Kanunun 4. maddesinde düzenlenen 'Genellik ve Eşitlik' ilkesine göre eğitim kurumları kimlere açıktır?",
+    "options": [
+      "Yalnızca Türk vatandaşı erkeklere",
+      "Dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese",
+      "Sadece belirli bir gelir düzeyinin üzerindeki ailelerin çocuklarına",
+      "Yalnızca örgün eğitim çağındaki öğrencilere"
+    ],
+    "answer_index": 1,
+    "sort_order": 36
+  },
+  {
+    "id": 97,
+    "deneme_id": 2,
+    "prompt": "Milli eğitimde kadın erkek herkese aynı eğitim imkanının sağlanması esas olarak hangi ilkeyle ilgilidir?",
+    "options": [
+      "Fırsat ve imkan eşitliği",
+      "Demokrasi eğitimi",
+      "Süreklilik",
+      "Bilimsellik"
+    ],
+    "answer_index": 0,
+    "sort_order": 37
+  },
+  {
+    "id": 98,
+    "deneme_id": 2,
+    "prompt": "Aşağıdakilerden hangisi 1739 sayılı Kanun'un 4-17. maddelerinde sayılan Türk milli eğitiminin temel ilkelerinden biri değildir?",
+    "options": [
+      "Laiklik",
+      "Bilimsellik",
+      "Merkeziyetçilik",
+      "Süreklilik"
+    ],
+    "answer_index": 2,
+    "sort_order": 38
+  },
+  {
+    "id": 99,
+    "deneme_id": 2,
+    "prompt": "1739 sayılı Milli Eğitim Temel Kanunu kabul tarihi ve niteliği bakımından hangi ifadeyle tanımlanır?",
+    "options": [
+      "14/6/1973 tarihli, Türk eğitim sisteminin temel amaç ve ilkelerini belirleyen çerçeve kanundur",
+      "1961 tarihli, sadece ilköğretimi düzenleyen özel bir kanundur",
+      "1982 tarihli, yalnızca yükseköğretimi düzenleyen bir kanundur",
+      "1997 tarihli, sadece zorunlu eğitim süresini belirleyen bir kanundur"
+    ],
+    "answer_index": 0,
+    "sort_order": 39
+  },
+  {
+    "id": 100,
+    "deneme_id": 2,
+    "prompt": "Öğretmen bulunmaması hâlinde geçici öğretmen olarak atanabilecekler için aranan alt yaş sınırı nedir?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "answer_index": 2,
+    "sort_order": 40
+  }
+]
+

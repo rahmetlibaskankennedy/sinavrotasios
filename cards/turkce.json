@@ -1,0 +1,10 @@
+{
+  "questions": [
+    { "id": "trk1", "prompt": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?", "options": ["Herkez buraya baksın.", "O da bizimle gelecek.", "Bugün hava çok güzel.", "Yarın akşam buluşalım."], "answerIndex": 0 },
+    { "id": "trk2", "prompt": "Hangisi bir noktalama işaretidir?", "options": ["Bağlaç", "Virgül", "Sıfat", "Zamir"], "answerIndex": 1 },
+    { "id": "trk3", "prompt": "'Gelmek' fiilinin şimdiki zaman 1. tekil şahıs çekimi hangisidir?", "options": ["Geldim", "Geliyorum", "Geleceğim", "Gelmeliyim"], "answerIndex": 1 },
+    { "id": "trk4", "prompt": "Hangisinde ünlü düşmesi vardır?", "options": ["Akıl -> Aklı", "Kitap -> Kitabı", "Dolap -> Dolabı", "Ağaç -> Ağacı"], "answerIndex": 0 },
+    { "id": "trk5", "prompt": "Aşağıdakilerden hangisi isimden isim yapan ek almıştır?", "options": ["Gözlük", "Bilgi", "Sevgi", "Yazı"], "answerIndex": 0 },
+    { "id": "trk6", "prompt": "Hangisi eş anlamlı kelimelere örnektir?", "options": ["Siyah - Beyaz", "İyi - Kötü", "Cevap - Yanıt", "Uzun - Kısa"], "answerIndex": 2 }
+  ]
+}
