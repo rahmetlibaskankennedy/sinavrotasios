@@ -544,9 +544,12 @@ workflows:
   # deploy tamamlandığında, uygulamayı telefonda kapat-aç yeterli —
   # yeni IPA/AltStore güncellemesi GEREKMEZ.
   #
-  # Ayrı bundle ID (com.sinavrotasi.mebgys.dev) kullanır, bu yüzden
-  # gerçek (production) uygulamanın yanında AYRI bir app olarak kurulur —
-  # birbirini bozmazlar, telefonunda ikisi de durabilir.
+  # Production ile AYNI bundle ID'yi (com.sinavrotasi.mebgys) kullanır — ücretsiz
+  # Apple ID'nin yeni App ID kaydı / eşzamanlı sideload app limitlerine takılmamak
+  # için. Bunun sonucu: dev IPA'yı kurduğunda mevcut production uygulamanın YERİNE
+  # geçer (ikisi aynı anda telefonda ayrı ayrı duramaz). Production'a dönmek
+  # istediğinde ios-device-altstore workflow'undan üretilen IPA'yı tekrar kurman
+  # yeterli.
   ios-device-dev:
     name: SınavRotası iPhone DEV IPA (Live Reload)
     instance_type: mac_mini_m2
@@ -614,7 +617,7 @@ workflows:
             "$PLIST_PATH"
 
           /usr/libexec/PlistBuddy \
-            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys.dev" \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys" \
             "$PLIST_PATH"
 
           /usr/libexec/PlistBuddy \
@@ -622,7 +625,7 @@ workflows:
             "$PLIST_PATH"
 
           /usr/libexec/PlistBuddy \
-            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasidev" \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasi" \
             "$PLIST_PATH"
 
       - name: Sync Capacitor
