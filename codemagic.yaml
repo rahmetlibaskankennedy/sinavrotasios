@@ -1,6 +1,6 @@
 workflows:
   ios-simulator:
-    name: SınavRotası iOS Simulator
+    name: SınavRotası iOS Simulator Smoke Test
     instance_type: mac_mini_m2
     max_build_duration: 60
 
@@ -10,18 +10,26 @@ workflows:
     scripts:
       - name: Install dependencies
         script: |
+          set -euo pipefail
+
           npm ci
 
       - name: Install Capacitor iOS
         script: |
+          set -euo pipefail
+
           npm install @capacitor/ios@8.5.0
 
       - name: Add iOS platform
         script: |
+          set -euo pipefail
+
           npx cap add ios
 
       - name: Configure iOS deep link
         script: |
+          set -euo pipefail
+
           PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
 
           echo "Configuring iOS URL scheme..."
@@ -68,10 +76,14 @@ workflows:
 
       - name: Sync Capacitor
         script: |
+          set -euo pipefail
+
           npx cap sync ios
 
       - name: Verify deep link after sync
         script: |
+          set -euo pipefail
+
           PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
 
           echo "Verifying URL scheme after Capacitor sync..."
@@ -93,6 +105,8 @@ workflows:
 
       - name: Show Xcode project
         script: |
+          set -euo pipefail
+
           echo "Xcode project files:"
 
           find ios -maxdepth 4 -type d \
@@ -101,6 +115,8 @@ workflows:
 
       - name: Build unsigned iOS Simulator app
         script: |
+          set -euo pipefail
+
           xcodebuild \
             -project ios/App/App.xcodeproj \
             -scheme App \
@@ -115,13 +131,17 @@ workflows:
 
       - name: Find available iPhone Simulator
         script: |
+          set -euo pipefail
+
           echo "Available simulators:"
           xcrun simctl list devices available
 
-          DEVICE_ID=$(xcrun simctl list devices available \
-            | grep "iPhone" \
-            | head -1 \
-            | grep -oE '[0-9A-F-]{36}')
+          DEVICE_ID=$(
+            xcrun simctl list devices available \
+              | grep "iPhone" \
+              | head -1 \
+              | grep -oE '[0-9A-F-]{36}'
+          )
 
           if [ -z "$DEVICE_ID" ]; then
             echo "ERROR: No available iPhone Simulator found."
@@ -133,6 +153,8 @@ workflows:
 
       - name: Boot iOS Simulator
         script: |
+          set -euo pipefail
+
           DEVICE_ID=$(cat /tmp/simulator_id)
 
           echo "Booting simulator:"
@@ -145,6 +167,8 @@ workflows:
 
       - name: Verify generated app
         script: |
+          set -euo pipefail
+
           APP_PATH="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app"
 
           echo "Checking generated application:"
@@ -161,22 +185,24 @@ workflows:
             exit 1
           fi
 
-          echo "App.app found successfully."
+          echo "SUCCESS: App.app found."
 
       - name: Verify built Info.plist
         script: |
-          APP_PLIST="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app/Info.plist"
+          set -euo pipefail
 
-          echo "Checking built application Info.plist..."
+          APP_PLIST="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app/Info.plist"
 
           if [ ! -f "$APP_PLIST" ]; then
             echo "ERROR: Built Info.plist not found."
             exit 1
           fi
 
-          /usr/libexec/PlistBuddy \
-            -c "Print :CFBundleIdentifier" \
-            "$APP_PLIST"
+          BUNDLE_ID=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleIdentifier" \
+              "$APP_PLIST"
+          )
 
           SCHEME=$(
             /usr/libexec/PlistBuddy \
@@ -184,122 +210,233 @@ workflows:
               "$APP_PLIST"
           )
 
-          echo "Built app URL scheme: $SCHEME"
+          echo "Bundle ID: $BUNDLE_ID"
+          echo "URL scheme: $SCHEME"
+
+          if [ "$BUNDLE_ID" != "com.sinavrotasi.mebgys" ]; then
+            echo "ERROR: Unexpected bundle ID."
+            exit 1
+          fi
 
           if [ "$SCHEME" != "sinavrotasi" ]; then
             echo "ERROR: Built application does not contain sinavrotasi URL scheme."
             exit 1
           fi
 
-          echo "SUCCESS: Built application contains the deep link scheme."
+          echo "SUCCESS: Built application configuration verified."
 
       - name: Install app on Simulator
         script: |
-          DEVICE_ID=$(cat /tmp/simulator_id)
+          set -euo pipefail
 
+          DEVICE_ID=$(cat /tmp/simulator_id)
           APP_PATH="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app"
 
           echo "Installing SınavRotası..."
-          echo "Simulator: $DEVICE_ID"
-          echo "Application: $APP_PATH"
 
           xcrun simctl install "$DEVICE_ID" "$APP_PATH"
 
-          echo "Installation completed successfully."
+          echo "SUCCESS: Installation completed."
+
+      - name: Clear previous crash logs
+        script: |
+          set -euo pipefail
+
+          mkdir -p "$CM_BUILD_DIR/build/crashlogs"
+
+          rm -f "$CM_BUILD_DIR/build/crashlogs/"* || true
+
+          echo "Crash log output directory prepared."
 
       - name: Launch SınavRotası
         script: |
-          DEVICE_ID=$(cat /tmp/simulator_id)
+          set -euo pipefail
 
+          DEVICE_ID=$(cat /tmp/simulator_id)
           BUNDLE_ID="com.sinavrotasi.mebgys"
 
-          echo "Launching:"
-          echo "$BUNDLE_ID"
+          echo "Launching $BUNDLE_ID..."
 
-          LAUNCH_RESULT=$(xcrun simctl launch "$DEVICE_ID" "$BUNDLE_ID")
+          if ! LAUNCH_RESULT=$(xcrun simctl launch "$DEVICE_ID" "$BUNDLE_ID" 2>&1); then
+            echo "ERROR: Application launch command failed."
+            echo "$LAUNCH_RESULT"
+            exit 1
+          fi
 
           echo "$LAUNCH_RESULT"
 
-          if echo "$LAUNCH_RESULT" | grep -q "$BUNDLE_ID"; then
-            echo "Application launch command succeeded."
-          else
-            echo "Launch command returned:"
-            echo "$LAUNCH_RESULT"
+          if ! echo "$LAUNCH_RESULT" | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: Launch output does not contain expected bundle ID."
+            exit 1
           fi
 
-      - name: Wait for application startup
+          echo "SUCCESS: Application launch command succeeded."
+
+      - name: Verify process after launch
         script: |
-          echo "Waiting 10 seconds for SınavRotası to load..."
-          sleep 10
-          echo "Startup wait completed."
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          BUNDLE_ID="com.sinavrotasi.mebgys"
+
+          echo "Waiting for application startup..."
+          sleep 8
+
+          echo "Checking running process..."
+
+          if ! xcrun simctl spawn "$DEVICE_ID" launchctl list \
+            | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: SınavRotası process is not running after launch."
+            exit 1
+          fi
+
+          echo "SUCCESS: SınavRotası process is running."
 
       - name: Test iOS deep link
         script: |
-          DEVICE_ID=$(cat /tmp/simulator_id)
+          set -euo pipefail
 
+          DEVICE_ID=$(cat /tmp/simulator_id)
           DEEP_LINK="sinavrotasi://auth-callback"
 
           echo "Testing deep link:"
           echo "$DEEP_LINK"
 
-          xcrun simctl openurl "$DEVICE_ID" "$DEEP_LINK"
-
-          echo "Deep link command completed."
-
-          sleep 5
-
-      - name: Verify application after deep link
-        script: |
-          DEVICE_ID=$(cat /tmp/simulator_id)
-
-          BUNDLE_ID="com.sinavrotasi.mebgys"
-
-          echo "Checking application after deep-link invocation..."
-
-          APP_INFO=$(xcrun simctl listapps "$DEVICE_ID")
-
-          if echo "$APP_INFO" | grep -q "$BUNDLE_ID"; then
-            echo "SUCCESS: SınavRotası remains installed after deep-link test."
-          else
-            echo "ERROR: SınavRotası could not be found after deep-link test."
+          if ! xcrun simctl openurl "$DEVICE_ID" "$DEEP_LINK"; then
+            echo "ERROR: Deep-link open command failed."
             exit 1
           fi
 
+          echo "Deep-link command accepted."
+          sleep 5
+
+      - name: Verify process after deep link
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          BUNDLE_ID="com.sinavrotasi.mebgys"
+
+          echo "Checking process after deep link..."
+
+          if ! xcrun simctl spawn "$DEVICE_ID" launchctl list \
+            | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: SınavRotası is not running after deep-link invocation."
+            exit 1
+          fi
+
+          echo "SUCCESS: Application process is still running after deep link."
+
+      - name: Collect simulator crash logs
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          CRASH_DIR="$CM_BUILD_DIR/build/crashlogs"
+
+          mkdir -p "$CRASH_DIR"
+
+          echo "Checking diagnostic logs..."
+
+          DEVICE_DATA=$(
+            xcrun simctl get_app_container \
+              "$DEVICE_ID" \
+              com.sinavrotasi.mebgys \
+              data 2>/dev/null || true
+          )
+
+          echo "App data container:"
+          echo "${DEVICE_DATA:-not available}"
+
+          SIM_DEVICE_DIR="$HOME/Library/Developer/CoreSimulator/Devices/$DEVICE_ID"
+
+          if [ -d "$SIM_DEVICE_DIR" ]; then
+            find "$SIM_DEVICE_DIR" \
+              \( -name "*.crash" -o -name "*.ips" \) \
+              -type f \
+              -mmin -10 \
+              -exec cp {} "$CRASH_DIR/" \; \
+              2>/dev/null || true
+          fi
+
+          echo "Collected crash logs:"
+          find "$CRASH_DIR" -maxdepth 1 -type f -print || true
+
+      - name: Fail if recent app crash detected
+        script: |
+          set -euo pipefail
+
+          CRASH_DIR="$CM_BUILD_DIR/build/crashlogs"
+
+          MATCH_FOUND=0
+
+          if [ -d "$CRASH_DIR" ]; then
+            while IFS= read -r FILE; do
+              if grep -Eiq \
+                "com\.sinavrotasi\.mebgys|SınavRotası|SinavRotasi" \
+                "$FILE" 2>/dev/null; then
+
+                echo "ERROR: Possible SınavRotası crash detected:"
+                echo "$FILE"
+
+                MATCH_FOUND=1
+              fi
+            done < <(
+              find "$CRASH_DIR" \
+                -maxdepth 1 \
+                -type f \
+                \( -name "*.crash" -o -name "*.ips" \)
+            )
+          fi
+
+          if [ "$MATCH_FOUND" -eq 1 ]; then
+            exit 1
+          fi
+
+          echo "SUCCESS: No matching recent crash log detected."
+
       - name: Capture iOS screenshot
         script: |
+          set -euo pipefail
+
           DEVICE_ID=$(cat /tmp/simulator_id)
 
           SCREENSHOT_DIR="$CM_BUILD_DIR/build/screenshots"
           SCREENSHOT_PATH="$SCREENSHOT_DIR/sinavrotasi-ios-deeplink.png"
 
-          echo "Creating screenshot directory:"
-          echo "$SCREENSHOT_DIR"
-
           mkdir -p "$SCREENSHOT_DIR"
 
           echo "Capturing iOS Simulator screenshot..."
 
-          xcrun simctl io "$DEVICE_ID" screenshot "$SCREENSHOT_PATH"
+          xcrun simctl io \
+            "$DEVICE_ID" \
+            screenshot \
+            "$SCREENSHOT_PATH"
 
           if [ ! -f "$SCREENSHOT_PATH" ]; then
             echo "ERROR: Screenshot was not created."
             exit 1
           fi
 
-          echo "SUCCESS: Screenshot created:"
+          echo "SUCCESS: Screenshot created."
           ls -lh "$SCREENSHOT_PATH"
 
-      - name: Show installed application details
+      - name: Final simulator verification
         script: |
-          DEVICE_ID=$(cat /tmp/simulator_id)
+          set -euo pipefail
 
+          DEVICE_ID=$(cat /tmp/simulator_id)
           BUNDLE_ID="com.sinavrotasi.mebgys"
 
-          echo "Installed application details:"
+          echo "Final process verification..."
 
-          xcrun simctl listapps "$DEVICE_ID" \
-            | grep -A 15 -B 3 "$BUNDLE_ID" \
-            || true
+          if ! xcrun simctl spawn "$DEVICE_ID" launchctl list \
+            | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: Application is no longer running."
+            exit 1
+          fi
+
+          echo "SUCCESS: Simulator smoke test completed."
 
       - name: Shutdown Simulator
         script: |
@@ -315,3 +452,5 @@ workflows:
       - build/ios/Build/Products/Debug-iphonesimulator/*.app
       - build/ios/Build/Products/Debug-iphonesimulator/**/*.app
       - build/screenshots/*.png
+      - build/crashlogs/*.crash
+      - build/crashlogs/*.ips
