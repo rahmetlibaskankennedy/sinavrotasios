@@ -1,16 +1,18 @@
-NSCocoaErrorDomain 3840
-
-Debug Description
-Encountered unknown tag html on line 1
-
-Error Description
-The data couldn’t be read because it isn’t in the correct format.
-
-Failure Reason
-The data is not in the correct format.
-
-Title
-Failed to Install SınavRotası (Dev)
-
-kCFPropertyListOldStyleParsingError
-Error Domain=NSCocoaErrorDomain Code=3840 "Malformed data byte group at line 1; invalid hex" UserInfo={NSDebugDescription=Malformed data byte group at line 1; invalid hex}
+{
+  "appId": "com.sinavrotasi.mebgys",
+  "appName": "SınavRotası (Dev)",
+  "webDir": "www",
+  "server": {
+    "url": "https://rahmetlibaskankennedy.github.io/sinavrotasios/www/",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    },
+    "Keyboard": {
+      "resize": "none"
+    }
+  }
+}
