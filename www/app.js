@@ -2002,11 +2002,15 @@ function startQuiz({ questions, documentItem = null, section = null, kind, title
   const isTimed = customTimeSeconds !== null ? true : (routeSettings.time === 'Süreli' || kind !== 'route');
   const totalTime = customTimeSeconds !== null ? customTimeSeconds : (isTimed ? questions.length * QUESTION_TIME_LIMIT : 9999);
 
-  // NOT (2026-08-15 sıralama düzeltmesi): kind === 'kadro-exam' için sıra
-  // korunmalı — buildKadroExamPool sorular arasını zaten resmi Ek-2 tablosu
-  // sırasına göre (konu konu) diziyor. Diğer quiz türlerinde (rastgele test,
-  // konu tekrarı vb.) rastgele sıra istendiği için orada shuffle devam ediyor.
-  const orderedQuestions = kind === 'kadro-exam' ? questions : shuffle(questions);
+  // NOT (2026-08-18 sıralama düzeltmesi): kind === 'kadro-exam' VE
+  // kind === 'mock' için sıra korunmalı. kadro-exam'de buildKadroExamPool,
+  // mock'ta ise deneme_questions.sort_order (bkz. startDenemeSinavi) sorular
+  // arasını zaten doğru sıraya (konu konu / madde madde) diziyor; ikisi de
+  // panelde kürate edilmiş bir sıra taşıyor. 2026-08-15'teki düzeltme yalnızca
+  // kadro-exam'i kapsamış, mock (deneme sınavları) "diğer" kovasına düşüp
+  // yanlışlıkla karışmaya devam etmişti. Rastgele test, konu tekrarı gibi
+  // gerçekten rastgele sıra istenen türlerde shuffle devam ediyor.
+  const orderedQuestions = (kind === 'kadro-exam' || kind === 'mock') ? questions : shuffle(questions);
 
   state.quiz = {
     questions: orderedQuestions.map(question => ({ ...question, userSelected: null, answerRecorded: false })),
