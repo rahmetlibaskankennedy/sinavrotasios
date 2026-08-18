@@ -20,9 +20,76 @@ workflows:
         script: |
           npx cap add ios
 
+      - name: Configure iOS deep link
+        script: |
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          echo "Configuring iOS URL scheme..."
+          echo "Info.plist: $PLIST_PATH"
+
+          if [ ! -f "$PLIST_PATH" ]; then
+            echo "ERROR: Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Delete :CFBundleURLTypes" \
+            "$PLIST_PATH" 2>/dev/null || true
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0 dict" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleTypeRole string Editor" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasi" \
+            "$PLIST_PATH"
+
+          echo "Deep link configuration added."
+
+          /usr/libexec/PlistBuddy \
+            -c "Print :CFBundleURLTypes" \
+            "$PLIST_PATH"
+
       - name: Sync Capacitor
         script: |
           npx cap sync ios
+
+      - name: Verify deep link after sync
+        script: |
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          echo "Verifying URL scheme after Capacitor sync..."
+
+          SCHEME=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleURLTypes:0:CFBundleURLSchemes:0" \
+              "$PLIST_PATH"
+          )
+
+          echo "Detected scheme: $SCHEME"
+
+          if [ "$SCHEME" != "sinavrotasi" ]; then
+            echo "ERROR: sinavrotasi URL scheme is missing."
+            exit 1
+          fi
+
+          echo "SUCCESS: iOS deep link scheme is configured."
 
       - name: Show Xcode project
         script: |
@@ -62,7 +129,6 @@ workflows:
           fi
 
           echo "Selected Simulator: $DEVICE_ID"
-
           echo "$DEVICE_ID" > /tmp/simulator_id
 
       - name: Boot iOS Simulator
@@ -73,7 +139,6 @@ workflows:
           echo "$DEVICE_ID"
 
           xcrun simctl boot "$DEVICE_ID" || true
-
           xcrun simctl bootstatus "$DEVICE_ID" -b
 
           echo "Simulator boot completed."
@@ -88,7 +153,6 @@ workflows:
           if [ ! -d "$APP_PATH" ]; then
             echo "ERROR: App.app was not generated."
 
-            echo "Available .app files:"
             find "$CM_BUILD_DIR/build/ios" \
               -maxdepth 7 \
               -name "*.app" \
@@ -98,6 +162,36 @@ workflows:
           fi
 
           echo "App.app found successfully."
+
+      - name: Verify built Info.plist
+        script: |
+          APP_PLIST="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app/Info.plist"
+
+          echo "Checking built application Info.plist..."
+
+          if [ ! -f "$APP_PLIST" ]; then
+            echo "ERROR: Built Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Print :CFBundleIdentifier" \
+            "$APP_PLIST"
+
+          SCHEME=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleURLTypes:0:CFBundleURLSchemes:0" \
+              "$APP_PLIST"
+          )
+
+          echo "Built app URL scheme: $SCHEME"
+
+          if [ "$SCHEME" != "sinavrotasi" ]; then
+            echo "ERROR: Built application does not contain sinavrotasi URL scheme."
+            exit 1
+          fi
+
+          echo "SUCCESS: Built application contains the deep link scheme."
 
       - name: Install app on Simulator
         script: |
@@ -135,26 +229,39 @@ workflows:
 
       - name: Wait for application startup
         script: |
-          echo "Waiting 15 seconds for SınavRotası to load..."
-
-          sleep 15
-
+          echo "Waiting 10 seconds for SınavRotası to load..."
+          sleep 10
           echo "Startup wait completed."
 
-      - name: Verify installed application
+      - name: Test iOS deep link
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          DEEP_LINK="sinavrotasi://auth-callback"
+
+          echo "Testing deep link:"
+          echo "$DEEP_LINK"
+
+          xcrun simctl openurl "$DEVICE_ID" "$DEEP_LINK"
+
+          echo "Deep link command completed."
+
+          sleep 5
+
+      - name: Verify application after deep link
         script: |
           DEVICE_ID=$(cat /tmp/simulator_id)
 
           BUNDLE_ID="com.sinavrotasi.mebgys"
 
-          echo "Checking whether SınavRotası is installed..."
+          echo "Checking application after deep-link invocation..."
 
           APP_INFO=$(xcrun simctl listapps "$DEVICE_ID")
 
           if echo "$APP_INFO" | grep -q "$BUNDLE_ID"; then
-            echo "SUCCESS: SınavRotası is installed on the simulator."
+            echo "SUCCESS: SınavRotası remains installed after deep-link test."
           else
-            echo "ERROR: SınavRotası could not be found on the simulator."
+            echo "ERROR: SınavRotası could not be found after deep-link test."
             exit 1
           fi
 
@@ -163,22 +270,16 @@ workflows:
           DEVICE_ID=$(cat /tmp/simulator_id)
 
           SCREENSHOT_DIR="$CM_BUILD_DIR/build/screenshots"
-          SCREENSHOT_PATH="$SCREENSHOT_DIR/sinavrotasi-ios.png"
+          SCREENSHOT_PATH="$SCREENSHOT_DIR/sinavrotasi-ios-deeplink.png"
 
           echo "Creating screenshot directory:"
           echo "$SCREENSHOT_DIR"
 
           mkdir -p "$SCREENSHOT_DIR"
 
-          echo "Directory status:"
-          ls -ld "$SCREENSHOT_DIR"
-
           echo "Capturing iOS Simulator screenshot..."
 
-          xcrun simctl io "$DEVICE_ID" \
-            screenshot "$SCREENSHOT_PATH"
-
-          echo "Checking screenshot..."
+          xcrun simctl io "$DEVICE_ID" screenshot "$SCREENSHOT_PATH"
 
           if [ ! -f "$SCREENSHOT_PATH" ]; then
             echo "ERROR: Screenshot was not created."
@@ -199,15 +300,6 @@ workflows:
           xcrun simctl listapps "$DEVICE_ID" \
             | grep -A 15 -B 3 "$BUNDLE_ID" \
             || true
-
-      - name: Show screenshot artifacts
-        script: |
-          echo "Screenshot files:"
-
-          find "$CM_BUILD_DIR/build/screenshots" \
-            -type f \
-            -maxdepth 2 \
-            -print || true
 
       - name: Shutdown Simulator
         script: |
