@@ -1,0 +1,47 @@
+workflows:
+  ios-simulator:
+    name: SınavRotası iOS Simulator
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    environment:
+      node: 22
+
+    scripts:
+      - name: Install dependencies
+        script: |
+          npm ci
+
+      - name: Install Capacitor iOS
+        script: |
+          npm install @capacitor/ios@8.5.0
+
+      - name: Add iOS platform
+        script: |
+          npx cap add ios
+
+      - name: Sync Capacitor
+        script: |
+          npx cap sync ios
+
+      - name: Show Xcode project
+        script: |
+          find ios -maxdepth 3 -type f \( -name "*.xcodeproj" -o -name "*.xcworkspace" \) -print
+
+      - name: Build unsigned iOS Simulator app
+        script: |
+          xcodebuild \
+            -project ios/App/App.xcodeproj \
+            -scheme App \
+            -configuration Debug \
+            -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath build/ios \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+    artifacts:
+      - build/ios/Build/Products/Debug-iphonesimulator/*.app
+      - build/ios/Build/Products/Debug-iphonesimulator/**/*.app
