@@ -1,0 +1,32 @@
+{
+  "name": "mebgys-main",
+  "version": "1.16.0",
+  "sinavrotasi": {
+    "androidVersionCode": 16
+  },
+  "description": "",
+  "main": "admin.js",
+  "scripts": {
+    "test": "node scripts/check_no_answer_leak.js && node scripts/test-progress-sync.js && node scripts/test-auth-routing.js && node scripts/check-migration-manifest.js && node scripts/verify-release.js",
+    "check:no-answer-leak": "node scripts/check_no_answer_leak.js",
+    "verify": "node scripts/verify-release.js",
+    "seed:generate": "python3 scripts/generate_seed.py",
+    "seed:check": "python3 scripts/generate_seed.py --check",
+    "prebuild": "npm test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/keyboard": "^8.0.5",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.5.0"
+  }
+}

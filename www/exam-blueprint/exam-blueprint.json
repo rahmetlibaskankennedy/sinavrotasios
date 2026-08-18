@@ -1,0 +1,330 @@
+{
+  "memur": {
+    "durationMinutes": 75,
+    "topics": [
+      {
+        "topicId": "turkce",
+        "count": 6
+      },
+      {
+        "topicId": "insan-haklari",
+        "count": 2
+      },
+      {
+        "topicId": "idare-sistemi",
+        "count": 2
+      },
+      {
+        "topicId": "protokol",
+        "count": 2
+      },
+      {
+        "topicId": "ataturk",
+        "count": 4
+      },
+      {
+        "topicId": "genel-kultur-diger",
+        "count": 5
+      },
+      {
+        "topicId": "anayasa",
+        "count": 6
+      },
+      {
+        "topicId": "657-kanun",
+        "count": 6
+      },
+      {
+        "topicId": "1739-kanun",
+        "count": 6
+      },
+      {
+        "topicId": "222-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "652-khk",
+        "count": 1
+      },
+      {
+        "topicId": "4982-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "5442-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "bagli-mevzuat-memur",
+        "count": 10
+      }
+    ]
+  },
+  "sef": {
+    "durationMinutes": 75,
+    "topics": [
+      {
+        "topicId": "turkce",
+        "count": 6
+      },
+      {
+        "topicId": "yonetim-insan-iliskileri",
+        "count": 2
+      },
+      {
+        "topicId": "yonetim-liderlik",
+        "count": 3
+      },
+      {
+        "topicId": "insan-haklari",
+        "count": 1
+      },
+      {
+        "topicId": "yonetimde-etik",
+        "count": 1
+      },
+      {
+        "topicId": "idare-sistemi",
+        "count": 2
+      },
+      {
+        "topicId": "protokol",
+        "count": 1
+      },
+      {
+        "topicId": "ataturk",
+        "count": 2
+      },
+      {
+        "topicId": "genel-kultur-diger",
+        "count": 5
+      },
+      {
+        "topicId": "anayasa",
+        "count": 6
+      },
+      {
+        "topicId": "657-kanun",
+        "count": 5
+      },
+      {
+        "topicId": "1739-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "222-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "652-khk",
+        "count": 1
+      },
+      {
+        "topicId": "4982-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "5442-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "bagli-mevzuat-sef",
+        "count": 12
+      }
+    ]
+  },
+  "sayman": {
+    "durationMinutes": 75,
+    "topics": [
+      {
+        "topicId": "turkce",
+        "count": 5
+      },
+      {
+        "topicId": "yonetim-insan-iliskileri",
+        "count": 1
+      },
+      {
+        "topicId": "yonetim-liderlik",
+        "count": 1
+      },
+      {
+        "topicId": "insan-haklari",
+        "count": 1
+      },
+      {
+        "topicId": "yonetimde-etik",
+        "count": 1
+      },
+      {
+        "topicId": "idare-sistemi",
+        "count": 1
+      },
+      {
+        "topicId": "protokol",
+        "count": 1
+      },
+      {
+        "topicId": "ataturk",
+        "count": 2
+      },
+      {
+        "topicId": "genel-kultur-diger",
+        "count": 4
+      },
+      {
+        "topicId": "anayasa",
+        "count": 3
+      },
+      {
+        "topicId": "657-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "1739-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "222-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "652-khk",
+        "count": 1
+      },
+      {
+        "topicId": "4483-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "5018-kanun",
+        "count": 7
+      },
+      {
+        "topicId": "2886-kanun",
+        "count": 6
+      },
+      {
+        "topicId": "4734-kanun",
+        "count": 6
+      },
+      {
+        "topicId": "4735-kanun",
+        "count": 6
+      },
+      {
+        "topicId": "4982-kanun",
+        "count": 1
+      },
+      {
+        "topicId": "5442-kanun",
+        "count": 1
+      },
+      {
+        "topicId": "4688-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "5580-kanun",
+        "count": 2
+      }
+    ]
+  },
+  "sube-mudur": {
+    "durationMinutes": 75,
+    "topics": [
+      {
+        "topicId": "turkce",
+        "count": 5
+      },
+      {
+        "topicId": "yonetim-insan-iliskileri",
+        "count": 2
+      },
+      {
+        "topicId": "yonetim-liderlik",
+        "count": 3
+      },
+      {
+        "topicId": "insan-haklari",
+        "count": 1
+      },
+      {
+        "topicId": "yonetimde-etik",
+        "count": 1
+      },
+      {
+        "topicId": "idare-sistemi",
+        "count": 2
+      },
+      {
+        "topicId": "protokol",
+        "count": 1
+      },
+      {
+        "topicId": "ataturk",
+        "count": 2
+      },
+      {
+        "topicId": "genel-kultur-diger",
+        "count": 5
+      },
+      {
+        "topicId": "anayasa",
+        "count": 5
+      },
+      {
+        "topicId": "657-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "1739-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "222-kanun",
+        "count": 4
+      },
+      {
+        "topicId": "652-khk",
+        "count": 1
+      },
+      {
+        "topicId": "4483-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "5018-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "2886-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "4734-kanun",
+        "count": 2
+      },
+      {
+        "topicId": "4735-kanun",
+        "count": 1
+      },
+      {
+        "topicId": "4982-kanun",
+        "count": 1
+      },
+      {
+        "topicId": "5442-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "4688-kanun",
+        "count": 3
+      },
+      {
+        "topicId": "5580-kanun",
+        "count": 3
+      }
+    ]
+  }
+}
