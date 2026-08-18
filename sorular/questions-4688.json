@@ -1,0 +1,62 @@
+{
+  "topicId": "4688-kanun",
+  "title": "4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "4688-kanun-01",
+      "prompt": "4688 sayılı Kanun temel olarak neyi düzenler?",
+      "options": [
+        "Kamu görevlilerinin sendika kurma ve toplu sözleşme haklarını",
+        "Sadece işçi sendikalarını",
+        "Sadece grev hakkını",
+        "Sadece maaş zamlarını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4688-kanun-02",
+      "prompt": "Kamu görevlileri hangi amaçla sendika kurabilir?",
+      "options": [
+        "Üyelerinin ekonomik, sosyal ve mesleki hak/menfaatlerini korumak ve geliştirmek",
+        "Sadece siyasi faaliyet yürütmek",
+        "Sadece ticari faaliyet yürütmek",
+        "Sadece burs dağıtmak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4688-kanun-03",
+      "prompt": "Toplu sözleşme görüşmeleri sonucunda uyuşmazlık halinde başvurulan kurul hangisidir?",
+      "options": [
+        "Kamu Görevlileri Hakem Kurulu",
+        "Yargıtay",
+        "Danıştay",
+        "Sayıştay"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4688-kanun-04",
+      "prompt": "Sendika üyeliği kamu görevlisi için nasıldır?",
+      "options": [
+        "İsteğe bağlıdır",
+        "Zorunludur",
+        "Yasaktır",
+        "Sadece yöneticiler için serbesttir"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4688-kanun-05",
+      "prompt": "Kanun'a göre sendikaların en üst çatı kuruluşu nasıl adlandırılır?",
+      "options": [
+        "Konfederasyon",
+        "Federasyon",
+        "Birlik",
+        "Vakıf"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

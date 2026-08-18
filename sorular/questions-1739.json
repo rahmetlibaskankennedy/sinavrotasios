@@ -1,0 +1,126 @@
+{
+  "lawId": "law-1739",
+  "title": "1739 sayılı Milli Eğitim Temel Kanunu",
+  "questions": [
+    {
+      "id": "1739-01",
+      "prompt": "1739 sayılı Milli Eğitim Temel Kanunu'nun 2. maddesine göre Türk Milli Eğitiminin genel amacı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Atatürk ilke ve inkılaplarına, Atatürk milliyetçiliğine bağlı yurttaşlar yetiştirmek", "Beden, zihin, ahlak, ruh ve duygu bakımından dengeli ve sağlıklı gelişmiş bir kişilik kazandırmak", "Bireyleri yalnızca belirli bir mesleğe yönlendirip diğer alanlara kapatmak", "İlgi, istidat ve kabiliyetlerini geliştirerek hayata ve üst öğrenime hazırlamak"],
+      "answerIndex": 2
+    },
+    {
+      "id": "1739-02",
+      "prompt": "Kanunun 4. maddesinde düzenlenen 'Genellik ve Eşitlik' ilkesine göre eğitim kurumları kimlere açıktır?",
+      "options": ["Yalnızca Türk vatandaşı erkeklere", "Dil, ırk, cinsiyet, engellilik ve din ayrımı gözetilmeksizin herkese", "Sadece belirli bir gelir düzeyinin üzerindeki ailelerin çocuklarına", "Yalnızca örgün eğitim çağındaki öğrencilere"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-03",
+      "prompt": "'Eğitimde hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz' hükmü hangi temel ilke ile ilgilidir?",
+      "options": ["Süreklilik", "Genellik ve eşitlik", "Yöneltme", "Bilimsellik"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-04",
+      "prompt": "Fertlerin ilgi, istidat ve kabiliyetlerinin eğitim sürecinde belirlenerek yöneltilmesi hangi temel ilkenin konusudur?",
+      "options": ["Yöneltme", "Fırsat ve imkan eşitliği", "Planlılık", "Karma eğitim"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-05",
+      "prompt": "Milli eğitimde kadın erkek herkese aynı eğitim imkanının sağlanması esas olarak hangi ilkeyle ilgilidir?",
+      "options": ["Fırsat ve imkan eşitliği", "Demokrasi eğitimi", "Süreklilik", "Bilimsellik"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-06",
+      "prompt": "'Fertlerin genel eğitimi belli başlı bir yaş ve devre ile sınırlı olmayıp hayat boyunca devam eder' ifadesi hangi ilkenin özüdür?",
+      "options": ["Süreklilik", "Genellik ve eşitlik", "Yöneltme", "Karma eğitim"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-07",
+      "prompt": "Milli eğitim hizmetinin Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine dayanması hangi ilke kapsamında düzenlenmiştir?",
+      "options": ["Atatürk İnkılap ve İlkeleri, Atatürk Milliyetçiliği", "Laiklik", "Bilimsellik", "Planlılık"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-08",
+      "prompt": "Eğitim sistemimizde 'demokrasi eğitimi' ilkesine göre okullarda öncelikle hangisi kazandırılmaya çalışılır?",
+      "options": ["Yalnızca sınav başarısı", "Toplum yaşayışına aktif katılım ve demokratik değerlere bağlılık bilinci", "Yalnızca ezber bilgi aktarımı", "Sadece mesleki beceriler"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-09",
+      "prompt": "Milli eğitimimizde her derece ve türdeki eğitim müfredat ve ders programlarının, çağdaş bilim ve teknolojinin gereklerine göre sürekli yenileştirilmesi hangi ilkenin gereğidir?",
+      "options": ["Bilimsellik", "Karma eğitim", "Genellik ve eşitlik", "Süreklilik"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-10",
+      "prompt": "Milli eğitim hizmetinin, hedeflere uygun olarak öğretmen, öğrenci, bina ve donatım gibi unsurları göz önünde bulundurularak planlı bir şekilde yürütülmesi hangi ilkeyle açıklanır?",
+      "options": ["Planlılık", "Yöneltme", "Süreklilik", "Fırsat ve imkan eşitliği"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-11",
+      "prompt": "Kanunun 15. maddesine göre kız ve erkek çocuklara aynı eğitim kurumlarında birlikte eğitim verilmesi esası aşağıdakilerden hangisidir?",
+      "options": ["Karma eğitim", "Yöneltme", "Demokrasi eğitimi", "Genellik ve eşitlik"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-12",
+      "prompt": "'Okul ile aile işbirliği' ilkesine göre okulların temel görevlerinden biri nedir?",
+      "options": ["Ailelerin eğitimle ilgili görüş ve isteklerini dikkate almak ve gerekli işbirliğini sağlamak", "Aile ile hiçbir bağlantı kurmamak", "Sadece velilerden mali destek talep etmek", "Öğrenci başarısını sadece okul yönetimine bildirmek"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-13",
+      "prompt": "Ülkenin her köşesinde ihtiyaç duyulan eğitim ve öğretim faaliyetlerinin devlet imkanları ölçüsünde götürülmesi hangi ilke ile ilgilidir?",
+      "options": ["Her yerde eğitim", "Süreklilik", "Bilimsellik", "Demokrasi eğitimi"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-14",
+      "prompt": "1739 sayılı Kanun'un 18. maddesine göre Türk milli eğitim sistemi kaç ana bölümden oluşur?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-15",
+      "prompt": "Türk milli eğitim sisteminin örgün eğitim bölümü aşağıdaki kurum gruplarından hangisini kapsar?",
+      "options": ["Sadece ilköğretim ve ortaöğretim", "Okul öncesi eğitim, ilköğretim, ortaöğretim ve yükseköğretim kurumları", "Sadece yaygın eğitim kurumları", "Sadece yükseköğretim kurumları"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-16",
+      "prompt": "Örgün eğitim sistemi dışında kalmış veya belli bir eğitim kademesini tamamlamış kişilere yönelik düzenlenen, örgün eğitimin yanında veya dışında yürütülen eğitim faaliyetlerine ne ad verilir?",
+      "options": ["Yaygın eğitim", "Zorunlu eğitim", "Mesleki eğitim", "Uzaktan eğitim"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-17",
+      "prompt": "Kanuna göre resmi, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri hangi makamın denetimine tabidir?",
+      "options": ["İçişleri Bakanlığı", "Milli Eğitim Bakanlığı", "Valilik", "Devlet Personel Başkanlığı"],
+      "answerIndex": 1
+    },
+    {
+      "id": "1739-18",
+      "prompt": "1739 sayılı Kanun'a göre bu kanunda sözü geçen yönetmelikler, kanunun yürürlüğe girmesinden itibaren en geç ne kadar sürede çıkarılır?",
+      "options": ["1 ay içinde", "6 ay içinde", "1 yıl içinde", "2 yıl içinde"],
+      "answerIndex": 2
+    },
+    {
+      "id": "1739-19",
+      "prompt": "1739 sayılı Milli Eğitim Temel Kanunu kabul tarihi ve niteliği bakımından hangi ifadeyle tanımlanır?",
+      "options": ["14/6/1973 tarihli, Türk eğitim sisteminin temel amaç ve ilkelerini belirleyen çerçeve kanundur", "1961 tarihli, sadece ilköğretimi düzenleyen özel bir kanundur", "1982 tarihli, yalnızca yükseköğretimi düzenleyen bir kanundur", "1997 tarihli, sadece zorunlu eğitim süresini belirleyen bir kanundur"],
+      "answerIndex": 0
+    },
+    {
+      "id": "1739-20",
+      "prompt": "Aşağıdakilerden hangisi 1739 sayılı Kanun'un 4-17. maddelerinde sayılan Türk milli eğitiminin temel ilkelerinden biri değildir?",
+      "options": ["Laiklik", "Bilimsellik", "Merkeziyetçilik", "Süreklilik"],
+      "answerIndex": 2
+    }
+  ]
+}

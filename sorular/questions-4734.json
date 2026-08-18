@@ -1,0 +1,95 @@
+{
+  "topicId": "4734-kanun",
+  "title": "4734 Sayılı Kamu İhale Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "4734-kanun-01",
+      "prompt": "4734 sayılı Kanun'un temel amacı nedir?",
+      "options": [
+        "Kamu hukukuna tabi idarelerin mal/hizmet alımı ve yapım ihalelerinde uygulanacak esasları düzenlemek",
+        "Sadece taşınmaz satışını düzenlemek",
+        "Sadece personel atamasını düzenlemek",
+        "Sadece vergi mevzuatını düzenlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-02",
+      "prompt": "Kanun'a göre temel ihale usulleri nelerdir?",
+      "options": [
+        "Açık ihale usulü ve belli istekliler arasında ihale usulü (esas usuller)",
+        "Sadece pazarlık usulü",
+        "Sadece doğrudan temin",
+        "Sadece kapalı zarf usulü"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-03",
+      "prompt": "Kamu İhale Kurumu'nun temel görevi nedir?",
+      "options": [
+        "İhale mevzuatının uygulanmasını izlemek ve itirazen şikâyetleri incelemek",
+        "Sadece bütçe onaylamak",
+        "Sadece personel atamak",
+        "Sadece vergi toplamak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-04",
+      "prompt": "İhalelerde temel ilkelerden biri değildir?",
+      "options": [
+        "Saydamlık",
+        "Rekabet",
+        "Güvenirlik",
+        "Kayırmacılık"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "4734-kanun-05",
+      "prompt": "Yaklaşık maliyet neyi ifade eder?",
+      "options": [
+        "İdarece gerçekleştirilecek alımın tahmini bedelini",
+        "Kesin ihale bedelini",
+        "Teminat tutarını",
+        "Ceza miktarını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-06",
+      "prompt": "Doğrudan temin usulü ne zaman kullanılabilir?",
+      "options": [
+        "Kanunda sayılan istisnai ve acil hallerde",
+        "Her zaman serbestçe",
+        "Sadece büyük alımlarda",
+        "Kullanılamaz"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-07",
+      "prompt": "İhalelere katılamayacak olanlar arasında hangisi sayılır?",
+      "options": [
+        "İhaleyi yapan idarede görevli kişiler ile bunların yakınları (kanunda sayılanlar)",
+        "Tüm gerçek kişiler",
+        "Tüm tüzel kişiler",
+        "Yabancı firmalar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4734-kanun-08",
+      "prompt": "Şikâyet başvurusu hangi süre içinde yapılmalıdır?",
+      "options": [
+        "Kanunda belirtilen süreler içinde (ihale sürecine göre değişir)",
+        "Süre sınırı yoktur",
+        "1 yıl içinde",
+        "6 ay içinde"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

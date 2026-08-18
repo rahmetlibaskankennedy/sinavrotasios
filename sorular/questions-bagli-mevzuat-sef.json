@@ -1,0 +1,139 @@
+{
+  "topicId": "bagli-mevzuat-sef",
+  "title": "Şef - Bağlı Mevzuat (Disiplin Amirleri, GYS/UDS, Aday Memur, Atama-Yer Değiştirme, İmza Yetkileri, İzin Yönergesi)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "bagli-mevzuat-sef-01",
+      "prompt": "MEB Disiplin Amirleri Yönetmeliği'nin amacı nedir?",
+      "options": [
+        "Disiplin amirlerini ve disiplin cezası vermeye yetkili makamları belirlemek",
+        "Sadece maaşları belirlemek",
+        "Sadece izinleri belirlemek",
+        "Sadece atamaları belirlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-02",
+      "prompt": "Bir personelin ilk disiplin amiri genel olarak kimdir?",
+      "options": [
+        "Doğrudan bağlı olduğu birim amiri",
+        "Bakan",
+        "Vali",
+        "Cumhurbaşkanı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-03",
+      "prompt": "MEB Merkez Teşkilatı İmza Yetkileri Yönergesi neyi düzenler?",
+      "options": [
+        "Bakanlık makamınca hangi yazıların hangi düzeyde imzalanacağını",
+        "Sadece bütçe onaylarını",
+        "Sadece atama kararlarını",
+        "Sadece izin onaylarını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-04",
+      "prompt": "Şef kadrosuna görevde yükselme yoluyla atanabilmek için genel şartlardan biri nedir?",
+      "options": [
+        "Yönetmelikte öngörülen hizmet süresi ve sınav şartlarını taşımak",
+        "Sadece kıdemli olmak",
+        "Sadece lisans mezunu olmak yeterlidir, sınav aranmaz",
+        "Hiçbir şart aranmaz"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-05",
+      "prompt": "Disiplin cezasına itiraz nereye yapılabilir?",
+      "options": [
+        "Kanunda belirtilen disiplin kuruluna veya idare mahkemesine",
+        "Sadece Cumhurbaşkanlığına",
+        "Sadece Sayıştaya",
+        "İtiraz edilemez"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-06",
+      "prompt": "Aylıktan kesme cezasını vermeye yetkili disiplin amiri genel olarak kimdir?",
+      "options": [
+        "Yönetmelikte belirlenen disiplin amiri",
+        "Sadece Bakan",
+        "Sadece Vali",
+        "Sadece Cumhurbaşkanı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-07",
+      "prompt": "MEB Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği'nde 'zorunlu hizmet bölgesi' kavramı neyi ifade eder?",
+      "options": [
+        "Hizmet ihtiyacı nedeniyle öncelikli atama yapılan bölgeleri",
+        "Sadece büyükşehirleri",
+        "Sadece sınır illerini",
+        "Kavram yoktur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-08",
+      "prompt": "Aday memurun asaletinin tasdiki için gerekli koşullardan biri nedir?",
+      "options": [
+        "Temel ve hazırlayıcı eğitim ile staj döneminde başarılı olmak",
+        "Sadece bir yıl beklemek",
+        "Sadece emeklilik yaşına gelmek",
+        "Hiçbir koşul yoktur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-09",
+      "prompt": "MEB Personeli İzin Yönergesi'ne göre mazeret izni hangi hallerde verilebilir?",
+      "options": [
+        "Yönergede sayılan haklı ve mazur sebeplerle",
+        "Hiçbir zaman",
+        "Sadece hastalıkta",
+        "Sadece doğumda"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-10",
+      "prompt": "Disiplin soruşturmasında savunma hakkı ile ilgili temel ilke nedir?",
+      "options": [
+        "İlgiliye savunmasını yapabilmesi için süre verilmesi zorunludur",
+        "Savunma alınmadan da ceza verilebilir",
+        "Savunma sadece yazılı olmalıdır",
+        "Savunma hakkı yoktur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-11",
+      "prompt": "Görevde yükselme eğitimine katılma şartlarından biri nedir?",
+      "options": [
+        "Duyurulan kadro için öngörülen öğrenim ve hizmet süresi şartını taşımak",
+        "Sadece dilekçe vermek yeterlidir",
+        "Sadece kıdem yeterlidir",
+        "Şart aranmaz"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-sef-12",
+      "prompt": "Şeflik görevinin temel niteliği nedir?",
+      "options": [
+        "Kendisine bağlı birimin iş ve işlemlerini yönetmek/koordine etmek",
+        "Sadece evrak kaydı tutmak",
+        "Sadece temizlik işlerini yönetmek",
+        "Sadece arşiv işleriyle ilgilenmek"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

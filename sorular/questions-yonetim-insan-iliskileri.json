@@ -1,0 +1,62 @@
+{
+  "topicId": "yonetim-insan-iliskileri",
+  "title": "Yönetimde İnsan İlişkileri ve İletişim",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "yonetim-insan-iliskileri-01",
+      "prompt": "Etkili iletişimde 'empati' neyi ifade eder?",
+      "options": [
+        "Karşıdaki kişinin duygu ve bakış açısını anlayabilme becerisini",
+        "Sadece nazik konuşmayı",
+        "Sadece dinlemeyi",
+        "Sadece göz teması kurmayı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-insan-iliskileri-02",
+      "prompt": "Örgüt içi iletişim türlerinden 'yatay iletişim' neyi ifade eder?",
+      "options": [
+        "Aynı hiyerarşik düzeydeki birimler/kişiler arasındaki iletişimi",
+        "Üstten asta iletişimi",
+        "Asttan üste iletişimi",
+        "Kurum dışı iletişimi"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-insan-iliskileri-03",
+      "prompt": "Geri bildirim (feedback) yönetimde neden önemlidir?",
+      "options": [
+        "İletişimin etkinliğini ve performansın gelişimini sağladığı için",
+        "Sadece resmi yazışma gereği olduğu için",
+        "Önemi yoktur",
+        "Sadece disiplin cezası vermek için"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-insan-iliskileri-04",
+      "prompt": "Çatışma yönetiminde 'işbirlikçi (uzlaşmacı)' yaklaşım neyi hedefler?",
+      "options": [
+        "Her iki tarafın da ihtiyaçlarını karşılayan ortak çözüm bulmayı",
+        "Bir tarafın tamamen kazanmasını",
+        "Sorunu görmezden gelmeyi",
+        "Otoriter kararla sonlandırmayı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-insan-iliskileri-05",
+      "prompt": "Aktif dinleme becerisinin temel unsuru nedir?",
+      "options": [
+        "Karşı tarafı yargılamadan, dikkatle ve anlamaya çalışarak dinlemek",
+        "Sadece susmak",
+        "Sadece not almak",
+        "Sadece onaylamak"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

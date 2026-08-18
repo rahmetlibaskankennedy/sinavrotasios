@@ -1,0 +1,51 @@
+{
+  "topicId": "652-khk",
+  "title": "652 Sayılı KHK (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "652-legacy-01",
+      "prompt": "652 sayılı KHK, Millî Eğitim Bakanlığının hangi konusunu düzenlemek amacıyla çıkarılmıştır?",
+      "options": [
+        "Teşkilat ve görevlerini",
+        "Sadece personel maaşlarını",
+        "Sadece sınav takvimini",
+        "Sadece bütçe usullerini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "652-legacy-02",
+      "prompt": "652 sayılı KHK'ye göre Bakanlığın taşra teşkilatı hangi kademelerden oluşur?",
+      "options": [
+        "İl ve ilçe millî eğitim müdürlükleri",
+        "Sadece il müdürlükleri",
+        "Sadece bölge müdürlükleri",
+        "Sadece okul müdürlükleri"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "652-legacy-03",
+      "prompt": "652 sayılı KHK kapsamında Bakanlığın hizmet birimlerinden biri değildir?",
+      "options": [
+        "Temel Eğitim Genel Müdürlüğü",
+        "Hukuk Hizmetleri Genel Müdürlüğü",
+        "Strateji Geliştirme Başkanlığı",
+        "Ticaret Odası Başkanlığı"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "652-khk-04",
+      "prompt": "652 sayılı KHK'ye göre Bakan Yardımcısı sayısı ile ilgili düzenleme hangi mevzuatla birlikte değerlendirilir?",
+      "options": [
+        "1 Sayılı Cumhurbaşkanlığı Kararnamesi",
+        "Sadece 657 sayılı Kanun",
+        "Sadece 1739 sayılı Kanun",
+        "Sadece 222 sayılı Kanun"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

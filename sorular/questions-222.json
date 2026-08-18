@@ -1,0 +1,433 @@
+{
+  "lawId": "law-222",
+  "title": "222 sayılı İlköğretim ve Eğitim Kanunu",
+  "questions": [
+    {
+      "id": "222-genel-01",
+      "sectionId": "law-222-section-genel-esaslar",
+      "prompt": "222 sayılı Kanuna göre ilköğretim, kadın ve erkek bütün Türklerin hangi gelişimlerine hizmet eden temel eğitim ve öğretimdir?",
+      "options": ["Bedeni, zihni ve ahlaki gelişmelerine", "Sadece mesleki gelişimlerine", "Yalnızca ekonomik gelişimlerine", "Yükseköğretime hazırlanmalarına"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-genel-02",
+      "sectionId": "law-222-section-genel-esaslar",
+      "prompt": "İlköğretimle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": ["Öğrenim çağındaki çocuklar için isteğe bağlıdır", "Devlet okullarında ücretlidir", "Öğrenim çağındaki kız ve erkek çocuklar için mecburi, Devlet okullarında parasızdır", "Yalnızca yatılı okullarda verilir"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-genel-03",
+      "sectionId": "law-222-section-genel-esaslar",
+      "prompt": "Mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+      "options": ["5-12 yaş", "6-14 yaş", "7-15 yaş", "6-16 yaş"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-genel-04",
+      "sectionId": "law-222-section-genel-esaslar",
+      "prompt": "İlkokul birinci sınıfa kayıt için çocuğun ilgili yılın 31 Aralık tarihinde kaç ayını doldurmuş olması esastır?",
+      "options": ["60 ay", "66 ay", "69 ay", "72 ay"],
+      "answerIndex": 3
+    },
+    {
+      "id": "222-genel-05",
+      "sectionId": "law-222-section-genel-esaslar",
+      "prompt": "Mecburi öğretim çağında olup okul bulunmaması veya sağlık durumu nedeniyle okula devam edemeyen ve özel öğretim gören vatandaşlar için hangi yol öngörülmüştür?",
+      "options": ["Doğrudan öğrenimden muaf tutulmaları", "İmtihanla ve yaşlarına göre uygun sınıf veya mezuniyet imtihanına alınmaları", "Sadece açık öğretime kaydedilmeleri", "Bir sonraki öğretim yılını beklemeleri"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-teskilat-01",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "Aşağıdakilerden hangisi 222 sayılı Kanuna göre isteğe bağlı ilköğretim kurumları arasında yer alır?",
+      "options": ["Okul öncesi eğitim kurumları", "Gezici ilköğretim okulları", "Özel eğitime muhtaç çocuklar için kurulan okullar", "Yatılı ilköğretim okulları"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-teskilat-02",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "Aşağıdakilerden hangisi mecburi ilköğretim kurumlarından biridir?",
+      "options": ["Yalnızca okul öncesi eğitim kurumları", "Özel eğitime muhtaç çocuklar için kurulacak okul ve sınıflar", "Sadece yaz kursları", "Yalnızca yetişkin kursları"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-teskilat-03",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "222 sayılı Kanuna göre ilköğretim hangi iki zorunlu okul kademesinden oluşur?",
+      "options": ["Üç yıllık ilkokul ve beş yıllık ortaokul", "Dört yıllık ilkokul ve dört yıllık ortaokul", "Beş yıllık ilkokul ve üç yıllık lise", "İki yıllık okul öncesi ve altı yıllık ilkokul"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-teskilat-04",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "İlkokul ve ortaokulların kuruluşuna ilişkin temel yaklaşım aşağıdakilerden hangisidir?",
+      "options": ["Yalnızca aynı binada kurulabilir", "Sadece köylerde ayrı kurulabilir", "Bağımsız okullar hâlinde kurulmaları esastır", "Yalnızca yatılı olarak kurulabilir"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-teskilat-05",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "Yetiştirici ve tamamlayıcı sınıf ve kursların temel amacı aşağıdakilerden hangisidir?",
+      "options": ["Yükseköğretim kontenjanı belirlemek", "Zamanında öğrenim göremeyen çocuklara kısa yoldan ilköğrenim vermek", "Sadece öğretmenlere hizmet içi eğitim vermek", "Okul binalarının bakımını yürütmek"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-teskilat-06",
+      "sectionId": "law-222-section-te-kilat",
+      "prompt": "Mecburi ilköğrenim çağındaki engelli çocuklar bakımından kanunun yaklaşımı aşağıdakilerden hangisidir?",
+      "options": ["Özel eğitim ve öğretim görmeleri sağlanır", "Yalnızca evde eğitim alabilirler", "Okula kayıtları ertelenir", "İlköğretim hükümlerinden muaftırlar"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-gorevli-01",
+      "sectionId": "law-222-section-i-lde-i-lk-retim-g-revlileri",
+      "prompt": "Aşağıdakilerden hangisi ilköğretim kurumlarında bulunabilecek görevlilerden biri değildir?",
+      "options": ["Rehberlik uzmanı", "Müdür yardımcısı", "Noter", "Gezici öğretmen"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-gorevli-02",
+      "sectionId": "law-222-section-i-lde-i-lk-retim-g-revlileri",
+      "prompt": "İlköğretim kurumlarındaki görevlilerin nitelikleri, görev ve yetkileri ile atanma esasları neyle tespit edilir?",
+      "options": ["Yönetmelikle", "Sadece okul aile birliği kararıyla", "Muhtarlık genelgesiyle", "Her okulun kendi iç yönergesiyle"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-gorevli-03",
+      "sectionId": "law-222-section-i-lde-i-lk-retim-g-revlileri",
+      "prompt": "Kanuna göre öğretmenler grubu içinde aşağıdakilerden hangisi sayılmıştır?",
+      "options": ["Sadece sınıf öğretmenleri", "Sadece branş öğretmenleri", "Sınıf, branş, okul öncesi, özel eğitim ve gezici öğretmenler ile usta öğreticiler", "Yalnızca rehberlik uzmanları"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-kurul-01",
+      "sectionId": "law-222-section-i-lk-retim-kurullar",
+      "prompt": "222 sayılı Kanunda İlköğretim Kurulları başlığı altında yer alan Madde 26'nın güncel hukuki durumu nedir?",
+      "options": ["Yürürlüktedir", "Mülgadır", "Geçici maddedir", "Yönetmeliğe dönüştürülmüştür"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-kurul-02",
+      "sectionId": "law-222-section-i-lk-retim-kurullar",
+      "prompt": "Bir kanun maddesinin mülga olması ne anlama gelir?",
+      "options": ["Maddenin uygulama alanının genişletilmesi", "Maddenin yürürlükten kaldırılması", "Maddenin geçici olarak askıya alınması", "Maddenin yalnızca köylerde uygulanması"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-tatiller-01",
+      "sectionId": "law-222-section-a-lma-kapanma-ve-tatiller",
+      "prompt": "İlköğretim kurumlarının açılma, kapanma ve öğretime ara verme zamanları hangi usulle düzenlenir?",
+      "options": ["Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle", "Her okulun öğretmenler kurulunca", "İlçe belediye meclisince", "Sadece valilik kararıyla"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-tatiller-02",
+      "sectionId": "law-222-section-a-lma-kapanma-ve-tatiller",
+      "prompt": "İlköğretim okullarında yaz tatili genel olarak hangi dönem arasındadır?",
+      "options": ["Yarıyıl tatilinden ikinci döneme kadar", "Sınavların bitiminden yeni öğretim yılının başına kadar", "Eylül ayının ilk haftasından sonuna kadar", "Yalnızca Ramazan Bayramı süresince"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-tatiller-03",
+      "sectionId": "law-222-section-a-lma-kapanma-ve-tatiller",
+      "prompt": "Güncel metinde Madde 45 için hangi ifade doğrudur?",
+      "options": ["Mülgadır", "Yalnızca yaz tatilini düzenler", "Öğretmen atamalarını düzenler", "Okul ücretlerini düzenler"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-kayit-01",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Her çocuk mecburi ilköğretim çağına girdiği öğretim yılı başında hangi işleme tabi tutulur?",
+      "options": ["İlköğretim okuluna kayıt ve kabule", "Yalnızca seviye tespitine", "Ortaokula nakle", "Açık öğretime kayda"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-kayit-02",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretimi bitiremeyen çocuklara en çok kaç öğretim yılı daha devam izni verilebilir?",
+      "options": ["Bir", "İki", "Üç", "Dört"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-kayit-03",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Bir öğretim yılı hangi tarihler arasındaki süreyi ifade eder?",
+      "options": ["1 Ocak ile 31 Aralık arasını", "Derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadar olan süreyi", "Sadece iki yarıyıl tatili arasındaki süreyi", "Yalnızca derslerin fiilen işlendiği günleri"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-kayit-04",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Muhtarlar, mecburi öğrenim çağındaki çocuklara ilişkin çizelgeyi dersler başlamadan en az kaç gün önce hazırlar?",
+      "options": ["7", "10", "15", "30"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-kayit-05",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Madde 48'de öngörülen çizelge kaç nüsha hazırlanır?",
+      "options": ["Bir", "İki", "Üç", "Dört"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-kayit-06",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Nüfus cüzdanı olmayan veya nüfus kaydı yapılmamış çocukların yaşlarının tespitinde kim görevlidir?",
+      "options": ["İhtiyar kurulları", "Sadece okul müdürü", "İlçe belediyesi", "Nüfus müdürlüğü"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-kayit-07",
+      "sectionId": "law-222-section-kay-t-ve-kabul",
+      "prompt": "Birleştirilmiş sınıflar da dahil olmak üzere bir öğretmene düşen öğrenci sayısı en fazla kaç olabilir?",
+      "options": ["30", "35", "40", "45"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-devam-01",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Özrü nedeniyle okula gidemeyen çocuğun durumu veli, vasi veya aile başkanı tarafından en geç kaç gün içinde okul idaresine bildirilmelidir?",
+      "options": ["Bir gün", "İki gün", "Üç gün", "Beş gün"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-devam-02",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Çocuğun mecburi ilköğretim kurumuna düzenli devamını sağlama yükümlülüğü öncelikle kime aittir?",
+      "options": ["Veli, vasi veya aile başkanına", "Sadece sınıf öğretmenine", "Yalnızca okul aile birliğine", "Belediyeye"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-devam-03",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Okula devam etmeyen öğrencilerin devamsızlık sebepleri bakımından okul idaresi ve ilköğretim müfettişlerinin görevi nedir?",
+      "options": ["Sebep araştırması yapıp engelleri gidermeye çalışmak", "Öğrenciyi doğrudan kayıttan silmek", "Sadece veliyi aramak", "Her durumda disiplin cezası vermek"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-devam-04",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Ailede ölüm, yaralanma, düğün veya tarımsal zorunluluk gibi nedenlerle öğrenciye bir yıl içinde en çok kaç gün izin verilebilir?",
+      "options": ["10 gün", "15 gün", "20 gün", "30 gün"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-devam-05",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Hastalık, sel, kar, deprem veya yangın gibi sebeplerle okula gelemeyen öğrenci için hangi işlem uygulanır?",
+      "options": ["Devamsız sayılır", "İzinli sayılır", "Kaydı silinir", "Sınava alınmaz"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-devam-06",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "İlköğrenim çağında olup mecburi ilköğretim kurumlarına devam etmeyen çocuklar için aşağıdakilerden hangisi doğrudur?",
+      "options": ["Resmî veya özel iş yerlerinde ücretli ya da ücretsiz çalıştırılamazlar", "Sadece yarı zamanlı çalıştırılabilirler", "Yalnızca aile işletmesinde çalışabilirler", "Okul müdürünün izniyle çalıştırılabilirler"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-devam-07",
+      "sectionId": "law-222-section-okula-devam",
+      "prompt": "Tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye, her gün için verilecek idari para cezası tutarı nedir?",
+      "options": ["5 Türk Lirası", "10 Türk Lirası", "15 Türk Lirası", "50 Türk Lirası"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-arsa-01",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Okul arsası ve uygulama bahçesi için gerekli toprağı seçen komisyona kim başkanlık eder?",
+      "options": ["Bölge ilköğretim müfettişi veya ilçe eğitim müdürü", "Belediye başkanı", "Okul aile birliği başkanı", "İl genel meclisi başkanı"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-arsa-02",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Okul binalarının yeri belirlenirken aşağıdakilerden hangisi göz önünde bulundurulur?",
+      "options": ["Sağlık, eğitim-öğretim ve ulaşım bakımından elverişlilik", "Yalnızca arsanın piyasa değeri", "Sadece nüfus yoğunluğu", "Yalnızca belediye sınırı"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-arsa-03",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Okul için gerekli toprak tahsis yoluyla sağlanamadığında gerçek veya tüzel kişilere ait arazi hangi koşulla satın alınabilir?",
+      "options": ["Sahiplerinin rızasıyla", "Sadece mahkeme kararıyla", "Herhangi bir onay aranmadan", "Yalnızca belediye kararıyla"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-arsa-04",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Her köy okulunun bitişiğinde veya yakınında bulunacak uygulama bahçesi kaç dekardan az ve çok olamaz?",
+      "options": ["1-5 dekar", "2-10 dekar", "5-15 dekar", "10-20 dekar"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-arsa-05",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Okullar için tahsis, satın alma veya kamulaştırma yoluyla sağlanan toprak ve tesisler kural olarak kimin adına tapuya tescil edilir?",
+      "options": ["Bulundukları yere göre köy veya özel idareler adına", "Yalnızca Millî Eğitim Bakanlığı adına", "Okul müdürü adına", "Her durumda Hazine adına"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-arsa-06",
+      "sectionId": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+      "prompt": "Okulların uygulama bahçesinde hangi dersin uygulaması yapılır?",
+      "options": ["Tarım dersleri", "Müzik dersleri", "Yabancı dil dersleri", "Beden eğitimi dersleri"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-yapim-01",
+      "sectionId": "law-222-section-okul-yap-m-ve-donat-m",
+      "prompt": "Köy veya kasaba içinden okul ihtiyaçları için sağlanacak taş, kum ve kireç gibi yapı gereçlerinden hangi mali yük alınmaz?",
+      "options": ["Hiçbir resim", "Yalnızca gelir vergisi", "Yalnızca damga vergisi", "Yalnızca KDV"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-yapim-02",
+      "sectionId": "law-222-section-okul-yap-m-ve-donat-m",
+      "prompt": "Okul yapımı için gerekli kereste ihtiyacı hangi kurum tarafından en iyi şartlarla ve öncelikle karşılanır?",
+      "options": ["Tarım Bakanlığı Orman Genel Müdürlüğü", "İlçe belediyesi", "Okul aile birliği", "Tapu müdürlüğü"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-yapim-03",
+      "sectionId": "law-222-section-okul-yap-m-ve-donat-m",
+      "prompt": "Devlet İktisadi Teşekküllerinde üretilen yapı malzemeleri, ilgili makamların istemi üzerine nasıl verilir?",
+      "options": ["Diğer isteklere tercihan ve bedeli karşılığında", "Ücretsiz ve önceliksiz", "Yalnızca ihale yoluyla", "Sadece belediyelere"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-yapim-04",
+      "sectionId": "law-222-section-okul-yap-m-ve-donat-m",
+      "prompt": "Okul yapımı ve donatımı işlerinde yurttaşların yapacağı ayni yardımlar ile nakdi yardımlar için hangi işlem yapılır?",
+      "options": ["Kabul edilir ve değerlendirilir", "Kesinlikle reddedilir", "Sadece nakdi yardımlar kabul edilir", "Yalnızca belediye kararıyla kabul edilir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-yapim-05",
+      "sectionId": "law-222-section-okul-yap-m-ve-donat-m",
+      "prompt": "Güncel 222 sayılı Kanun metninde Madde 69 için hangi ifade doğrudur?",
+      "options": ["Mülgadır", "İlköğretim haftasını düzenler", "Kayıt süresini düzenler", "Öğrenci devamsızlık iznini düzenler"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-gelir-01",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "İlköğretim için Devlet bütçesinden yapılacak yardım, Devlet gelirlerinin en az yüzde kaçı olmalıdır?",
+      "options": ["Yüzde 1", "Yüzde 2", "Yüzde 3", "Yüzde 5"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-gelir-02",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "Özel idare bütçelerine ilköğretim için yıllık gelirlerinin en az yüzde kaçı oranında ödenek konulması öngörülür?",
+      "options": ["Yüzde 10", "Yüzde 15", "Yüzde 20", "Yüzde 25"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-gelir-03",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "Köy bütçelerine, köy okullarına gelir sağlamak üzere genel gelirlerinin en az yüzde kaçı oranında ödenek konulması öngörülmüştür?",
+      "options": ["Yüzde 5", "Yüzde 10", "Yüzde 15", "Yüzde 20"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-gelir-04",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "İlköğretime ayrılan gelir ve ödenekler, kanunda gösterilen giderler dışında başka bir yere sarf edilebilir mi?",
+      "options": ["Evet, okul müdürünün onayıyla", "Evet, valilik kararıyla", "Hayır, başka fasıllara da nakledilemez", "Sadece yaz tatilinde edilebilir"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-gelir-05",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "Millî Eğitim Bakanlığı, köy, kasaba ve şehir ilköğretim okulları yapımı hakkında her yıl bütçe kanununa nasıl bir plan ekler?",
+      "options": ["Bir yıllık genel plan", "Üçer yıllık tafsilatlı plan", "On yıllık mali plan", "Sadece il bazlı liste"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-gelir-06",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "İlköğretimin gelirleri ve belirli giderleri, personel masrafları hariç, hangi mali yükümlülüklerden muaftır?",
+      "options": ["Her türlü resim ve vergiden", "Sadece emlak vergisinden", "Sadece motorlu taşıtlar vergisinden", "Hiçbir mali yükümlülükten"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-gelir-07",
+      "sectionId": "law-222-section-gelir-gider-ve-planlama",
+      "prompt": "Belirli okul yapım, donatım ve planlama işleri için Millî Eğitim veya Bayındırlık Bakanlıkları en çok kaç yıla kadar gelecek yıllara geçici yüklenmeye girebilir?",
+      "options": ["Bir yıl", "İki yıl", "Üç yıl", "Beş yıl"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-turlu-01",
+      "sectionId": "law-222-section-t-rl-h-k-mler",
+      "prompt": "Köylerde bu kanunla ilgili çeşitli hizmetler hangi kanunla mecburi sayılan işlerdendir?",
+      "options": ["Köy Kanunu", "Belediye Kanunu", "İl İdaresi Kanunu", "Devlet Memurları Kanunu"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-turlu-02",
+      "sectionId": "law-222-section-t-rl-h-k-mler",
+      "prompt": "Mecburi ilköğretim kurumlarına kayıt olacak veya devam eden öğrencilere verilecek belgeler bakımından hangi ifade doğrudur?",
+      "options": ["Damga Resmine tabi değildir", "Sadece noter onayıyla geçerlidir", "Her belge için harç alınır", "Yalnızca e-belge düzenlenebilir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-turlu-03",
+      "sectionId": "law-222-section-t-rl-h-k-mler",
+      "prompt": "Köylerde bulunan öğretmen konutları öğretmenlere nasıl tahsis edilir?",
+      "options": ["Parasız olarak", "Rayicin yarısı bedelle", "Sadece lojman sırası gelince", "Yalnızca yaz aylarında"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-turlu-04",
+      "sectionId": "law-222-section-t-rl-h-k-mler",
+      "prompt": "Madde 89'un düzenleme alanı aşağıdakilerden hangisidir?",
+      "options": ["Bazı önceki kanun hükümlerinin yürürlükten kaldırılması", "Öğretmen izinleri", "Okul kayıt ücretleri", "Ders yılı süresi"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-ek-01",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "222 sayılı Kanunda geçen ilköğretim müdürü deyimi hangi deyimle değiştirilmiştir?",
+      "options": ["İlçe eğitim müdürü", "İl millî eğitim müdürü", "Okul müdürü", "Eğitim denetmeni"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-ek-02",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "222 sayılı Kanunda geçen öğretmenevi deyimi hangi deyimle değiştirilmiştir?",
+      "options": ["Öğretmen lojmanı", "Öğretmen odası", "Eğitim merkezi", "Hizmet binası"],
+      "answerIndex": 0
+    },
+    {
+      "id": "222-ek-03",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "Öğretmen bulunmaması hâlinde geçici öğretmen olarak atanabilecekler için aranan alt yaş sınırı nedir?",
+      "options": ["16", "17", "18", "21"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-ek-04",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "Millî Eğitim Bakanlığı, Kanunun yürürlüğe girmesinden itibaren mecburi öğrenim çağındaki öğrencileri tamamen okula kavuşturmak için en geç kaç yıl içinde gerekli hazırlıkları tamamlamakla yükümlü tutulmuştur?",
+      "options": ["5 yıl", "8 yıl", "10 yıl", "15 yıl"],
+      "answerIndex": 2
+    },
+    {
+      "id": "222-ek-05",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "Kanunun mali hükümleri hangi tarihte yürürlüğe girer?",
+      "options": ["1 Ocak 1961", "1 Mart 1961", "28 Şubat 1961", "12 Ocak 1961"],
+      "answerIndex": 1
+    },
+    {
+      "id": "222-ek-06",
+      "sectionId": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
+      "prompt": "222 sayılı Kanunu yürütme görevi kime verilmiştir?",
+      "options": ["Bakanlar Kuruluna", "Millî Eğitim Bakanına", "TBMM Başkanlığına", "Danıştaya"],
+      "answerIndex": 0
+    }
+  ]
+}

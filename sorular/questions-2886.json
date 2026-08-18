@@ -1,0 +1,95 @@
+{
+  "topicId": "2886-kanun",
+  "title": "2886 Sayılı Devlet İhale Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "2886-kanun-01",
+      "prompt": "2886 sayılı Kanun temel olarak neyi düzenler?",
+      "options": [
+        "Devlete ait taşınır/taşınmaz malların satım, kira, yapım gibi ihale usullerini",
+        "Sadece personel alımını",
+        "Sadece bütçe hazırlığını",
+        "Sadece vergi tahsilatını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "2886-kanun-02",
+      "prompt": "Kanun'a göre ihale usullerinden biri değildir?",
+      "options": [
+        "Kapalı teklif usulü",
+        "Açık teklif usulü",
+        "Pazarlık usulü",
+        "Doğrudan atama usulü"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "2886-kanun-03",
+      "prompt": "İhale komisyonu en az kaç kişiden oluşur?",
+      "options": [
+        "3 kişi",
+        "5 kişi",
+        "7 kişi",
+        "2 kişi"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "2886-kanun-04",
+      "prompt": "Geçici teminat oranı ihale bedelinin genel olarak yüzde kaçıdır?",
+      "options": [
+        "%3",
+        "%1",
+        "%10",
+        "%25"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "2886-kanun-05",
+      "prompt": "İhaleye katılamayacaklar arasında kimler sayılmaz?",
+      "options": [
+        "İhaleyi yapan idarenin ihale yetkilisi kişiler",
+        "Herkes",
+        "Şirketler",
+        "Vatandaşlar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "2886-kanun-06",
+      "prompt": "Kesin teminat oranı genel olarak ihale bedelinin yüzde kaçıdır?",
+      "options": [
+        "%6",
+        "%1",
+        "%15",
+        "%20"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "2886-kanun-07",
+      "prompt": "İhale kararının onaylanması kaç iş günü içinde yapılmalıdır?",
+      "options": [
+        "15 iş günü",
+        "5 iş günü",
+        "30 iş günü",
+        "3 iş günü"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "2886-kanun-08",
+      "prompt": "Kanun kapsamında 'açık eksiltme' hangi tür ihalelerde kullanılabilir?",
+      "options": [
+        "Kanunda belirtilen tür ihalelerde teklif usulü olarak",
+        "Sadece kira ihalelerinde",
+        "Sadece satış ihalelerinde",
+        "Kullanılmaz"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "topicId": "anayasa",
+  "title": "T.C. Anayasası (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "anayasa-01",
+      "prompt": "1982 Anayasası'nın kabul tarihi hangisidir?",
+      "options": [
+        "7 Kasım 1982",
+        "9 Eylül 1980",
+        "12 Eylül 1982",
+        "20 Ekim 1981"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "anayasa-02",
+      "prompt": "Anayasa'ya göre Türkiye Devleti'nin şekli nedir?",
+      "options": [
+        "Cumhuriyettir",
+        "Monarşidir",
+        "Federasyondur",
+        "Konfederasyondur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "anayasa-03",
+      "prompt": "Anayasa'nın 'değiştirilemez ve değiştirilmesi teklif dahi edilemez' maddeleri hangi maddededir?",
+      "options": [
+        "Madde 1, 2 ve 3",
+        "Madde 4",
+        "Madde 10",
+        "Madde 11"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "anayasa-04",
+      "prompt": "Kanun önünde eşitlik ilkesi Anayasa'nın hangi maddesinde düzenlenir?",
+      "options": [
+        "Madde 5",
+        "Madde 10",
+        "Madde 12",
+        "Madde 90"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "anayasa-05",
+      "prompt": "Yasama yetkisi Anayasa'ya göre kime aittir?",
+      "options": [
+        "Cumhurbaşkanına",
+        "Türk Milleti adına TBMM'ye",
+        "Bakanlar Kuruluna",
+        "Anayasa Mahkemesine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "anayasa-06",
+      "prompt": "Anayasa Mahkemesi kaç üyeden oluşur?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "anayasa-07",
+      "prompt": "Temel hak ve hürriyetlerin sınırlanması hangi maddede düzenlenmiştir?",
+      "options": [
+        "Madde 13",
+        "Madde 14",
+        "Madde 15",
+        "Madde 16"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "anayasa-08",
+      "prompt": "Cumhurbaşkanının görev süresi kaç yıldır?",
+      "options": [
+        "4 yıl",
+        "5 yıl",
+        "6 yıl",
+        "7 yıl"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

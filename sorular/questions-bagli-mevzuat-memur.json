@@ -1,0 +1,117 @@
+{
+  "topicId": "bagli-mevzuat-memur",
+  "title": "Memur - Bağlı Mevzuat (GYS/UDS Yönetmeliği, Aday Memur, Atama-Yer Değiştirme, İzin Yönergesi)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "bagli-mevzuat-memur-01",
+      "prompt": "MEB Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği'nin temel amacı nedir?",
+      "options": [
+        "Liyakat ve kariyer ilkeleri çerçevesinde atama usul/esaslarını belirlemek",
+        "Sadece maaş zammını düzenlemek",
+        "Sadece izin sürelerini belirlemek",
+        "Sadece disiplin cezalarını belirlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-02",
+      "prompt": "Görevde yükselme sınavı hangi yöntemle yapılır?",
+      "options": [
+        "Yazılı sınav (ve gerekirse sözlü sınav) ile",
+        "Sadece kıdeme göre",
+        "Sadece mülakatla",
+        "Kura ile"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-03",
+      "prompt": "Aday memurların yetiştirilmesindeki temel eğitim aşamalarından biri değildir?",
+      "options": [
+        "Temel eğitim",
+        "Hazırlayıcı eğitim",
+        "Staj",
+        "Emeklilik eğitimi"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "bagli-mevzuat-memur-04",
+      "prompt": "Aday memurluk süresi genel olarak ne kadardır?",
+      "options": [
+        "1 yıldan az, 2 yıldan çok olamaz",
+        "Sadece 6 ay",
+        "Sadece 3 yıl",
+        "Süre yoktur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-05",
+      "prompt": "Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği hangi konuyu düzenler?",
+      "options": [
+        "Öğretmenlerin atanma ve yer değiştirme usul/esaslarını",
+        "Sadece maaş bordrosunu",
+        "Sadece izin haklarını",
+        "Sadece emeklilik işlemlerini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-06",
+      "prompt": "MEB Personeli İzin Yönergesi'ne göre yıllık izin süresi temel olarak neye göre değişir?",
+      "options": [
+        "Hizmet süresine göre",
+        "Sadece unvana göre",
+        "Sadece cinsiyete göre",
+        "Sadece medeni duruma göre"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-07",
+      "prompt": "Zorunlu yer değiştirme hangi durumlarda söz konusu olabilir?",
+      "options": [
+        "Hizmet ihtiyacı, sağlık veya kanunda sayılan hallerde",
+        "Hiçbir zaman",
+        "Sadece personelin isteğiyle",
+        "Sadece emeklilikte"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-08",
+      "prompt": "Görevde yükselme sınavına başvuru şartlarından biri değildir?",
+      "options": [
+        "İlgili unvan için öngörülen hizmet süresini tamamlamış olmak",
+        "Disiplin cezası almamış olmak (kanunda aranan hallerde)",
+        "Gerekli eğitim şartını taşımak",
+        "Sadece nüfusa kayıtlı olmak"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "bagli-mevzuat-memur-09",
+      "prompt": "Aday memur, temel ve hazırlayıcı eğitimlerde başarısız olursa ne olur?",
+      "options": [
+        "Kanunda öngörülen usule göre işlemleri yapılır (gerekirse ilişiği kesilebilir)",
+        "Otomatik olarak asalet tasdik edilir",
+        "Hiçbir işlem yapılmaz",
+        "Doğrudan terfi eder"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bagli-mevzuat-memur-10",
+      "prompt": "Yer değiştirme suretiyle atamalarda esas alınan ilkelerden biri nedir?",
+      "options": [
+        "Hizmetin gereği ve personelin mazereti gibi hususların birlikte değerlendirilmesi",
+        "Sadece kıdem",
+        "Sadece kura",
+        "Sadece unvan"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": "yonetimde-etik",
+  "title": "Yönetimde Etik",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "yonetimde-etik-01",
+      "prompt": "Kamu yönetiminde etik davranış ilkelerinin temel amacı nedir?",
+      "options": [
+        "Kamu görevinin tarafsız, dürüst ve hesap verebilir şekilde yürütülmesini sağlamak",
+        "Sadece kişisel çıkarı korumak",
+        "Sadece disiplin cezası vermek",
+        "Sadece bürokrasiyi artırmak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetimde-etik-02",
+      "prompt": "'Şeffaflık' ilkesi kamu yönetiminde neyi ifade eder?",
+      "options": [
+        "Kamu işlemlerinin açık ve denetlenebilir olmasını",
+        "Bilgilerin gizli tutulmasını",
+        "Sadece üst yönetime bilgi verilmesini",
+        "Hiçbir kurala bağlı olmamayı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetimde-etik-03",
+      "prompt": "Kamu görevlisinin 'çıkar çatışmasından kaçınma' yükümlülüğü ne anlama gelir?",
+      "options": [
+        "Kişisel çıkarını kamu görevinin gerekleriyle çatıştırmamasını",
+        "Sadece maaşını beyan etmesini",
+        "Sadece izin almasını",
+        "Hiçbir anlamı yoktur"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

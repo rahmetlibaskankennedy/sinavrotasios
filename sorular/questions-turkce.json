@@ -1,0 +1,126 @@
+{
+  "topicId": "topic-turkce",
+  "title": "Türkçe Dilbilgisi ve Anlatım Bozuklukları",
+  "questions": [
+    {
+      "id": "turkce-01",
+      "prompt": "'Kalemlik, evimizin en güzel köşesindeydi.' cümlesinde altı çizili sözcüğün ('kalemlik') yapım eki hangi tür sözcük türetmiştir?",
+      "options": ["İsimden isim yapım eki ile isim türetilmiştir", "Fiilden isim yapım eki ile isim türetilmiştir", "İsimden fiil yapım eki ile fiil türetilmiştir", "Fiilden fiil yapım eki ile fiil türetilmiştir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "turkce-02",
+      "prompt": "Aşağıdaki cümlelerin hangisinde büyük ünlü uyumuna aykırı bir sözcük vardır?",
+      "options": ["Kardeşim yarın okula erken gidecek.", "Kitaplığa yeni kitaplar geldi.", "Televizyon programını izledik.", "Bahçedeki güller açmış."],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-03",
+      "prompt": "'Kitab-kitabı, ağaç-ağacı' örneklerinde görülen ses olayı aşağıdakilerden hangisidir?",
+      "options": ["Ünlü daralması", "Ünsüz benzeşmesi", "Ünsüz yumuşaması", "Ünlü düşmesi"],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-04",
+      "prompt": "'Öğretmenimiz bize çok değerli bilgiler öğretti ve bizi bilgilendirdi.' cümlesindeki anlatım bozukluğunun türü nedir?",
+      "options": ["Özne eksikliği", "Anlamca çelişen (gereksiz tekrar/eş anlamlı sözcük) kullanımı", "Yüklem eksikliği", "Zaman uyuşmazlığı"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-05",
+      "prompt": "'Sınava hazırlanan ve başarılı olmak isteyen öğrenciler, düzenli çalışmalı.' cümlesinde 'öğrenciler' sözcüğü cümlenin hangi ögesidir?",
+      "options": ["Nesne", "Özne", "Dolaylı tümleç", "Zarf tümleci"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-06",
+      "prompt": "Aşağıdaki cümlelerin hangisinde noktalama işareti yanlış kullanılmıştır?",
+      "options": ["Ali, sınavdan yüksek not aldı.", "\"Yarın geleceğim\" dedi.", "Kitabı okudum ve; çok beğendim.", "Ankara, Türkiye'nin başkentidir."],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-07",
+      "prompt": "'Bu konuda sana katılmıyorum, çünkü sen olayın sadece bir yönünü görüyorsun.' cümlesinde 'çünkü' bağlacı cümleye ne tür bir anlam katar?",
+      "options": ["Karşılaştırma", "Sebep-sonuç", "Amaç", "Koşul"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-08",
+      "prompt": "'Gel-mek, koş-mak' örneklerindeki '-mek, -mak' eki fiilin hangi çekim biçimini oluşturur?",
+      "options": ["Fiilimsi (mastar)", "Şahıs eki", "Zaman eki", "Kip eki"],
+      "answerIndex": 0
+    },
+    {
+      "id": "turkce-09",
+      "prompt": "Aşağıdakilerden hangisi bir isim tamlaması (belirtili isim tamlaması) örneğidir?",
+      "options": ["Yaz tatili", "Öğrencinin kalemi", "Demir kapı", "Güzel çiçek"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-10",
+      "prompt": "'Eve gidip biraz dinlendikten sonra ödevlerimi yapacağım.' cümlesi yapı bakımından nasıl bir cümledir?",
+      "options": ["Basit cümle", "Birleşik cümle", "Sıralı cümle", "Bağlı cümle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-11",
+      "prompt": "'Öğretmen, öğrencilere ödevlerini vermeyi unutmadı.' cümlesindeki 'vermeyi' sözcüğü hangi fiilimsi türüdür?",
+      "options": ["Sıfat-fiil (partisip)", "Zarf-fiil (gerundium)", "İsim-fiil (mastar)", "Bunların hiçbiri"],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-12",
+      "prompt": "'Kapıyı kilitlemeyi unutan hırsız, polislere yakalandı.' cümlesinde altı çizili söz öbeği ('kilitlemeyi unutan') cümlenin hangi ögesini nitelemektedir?",
+      "options": ["Yüklemi", "Nesneyi", "Özneyi ('hırsız')", "Zarf tümlecini"],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-13",
+      "prompt": "Aşağıdaki cümlelerin hangisinde pekiştirme sıfatı kullanılmıştır?",
+      "options": ["Masmavi bir gökyüzü vardı.", "Uzun bir yoldan geldik.", "Kırmızı elbise giydi.", "Yeni bir araba aldı."],
+      "answerIndex": 0
+    },
+    {
+      "id": "turkce-14",
+      "prompt": "'Sokakta oynayan çocuklar, akşam olunca evlerine döndüler.' cümlesinde zarf tümleci hangisidir?",
+      "options": ["Sokakta oynayan", "Çocuklar", "Akşam olunca", "Evlerine döndüler"],
+      "answerIndex": 2
+    },
+    {
+      "id": "turkce-15",
+      "prompt": "'Kitap okumak, insanı hem eğlendirir hem de bilgilendirir.' cümlesindeki 'hem...hem de' bağlacı sözcükler/söz öbekleri arasında nasıl bir ilişki kurar?",
+      "options": ["Karşıtlık", "Eş zamanlılık/birliktelik", "Neden-sonuç", "Amaç-sonuç"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-16",
+      "prompt": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu yoktur?",
+      "options": ["Bu kitabı okumamı ve incelememi istedi.", "Sınıfın en çalışkan ve tembel öğrencisiydi.", "Öğrenciler soruları hem çözdü hem de bitirdi.", "Kapıyı açtı ve girdi, sonra da kapıyı kapattı."],
+      "answerIndex": 3
+    },
+    {
+      "id": "turkce-17",
+      "prompt": "'Sen de mi bu işe karıştın?' cümlesindeki 'de' bağlacının yazımıyla ilgili kural nedir?",
+      "options": ["Bağlaç olan 'de/da' her zaman ayrı yazılır", "Bağlaç olan 'de/da' her zaman bitişik yazılır", "Bağlaç 'de/da' ünlü uyumuna göre bitişik yazılır", "Bağlaç 'de/da' cümle sonunda yazılmaz"],
+      "answerIndex": 0
+    },
+    {
+      "id": "turkce-18",
+      "prompt": "'Öğretmenin anlattığı konuyu tam olarak anlayamadım.' cümlesinde 'anlattığı' sözcüğündeki '-dığı' eki hangi fiilimsi grubuna aittir?",
+      "options": ["Zarf-fiil", "Sıfat-fiil", "İsim-fiil", "Bağ-fiil"],
+      "answerIndex": 1
+    },
+    {
+      "id": "turkce-19",
+      "prompt": "Aşağıdakilerden hangisinde ünlü daralmasına örnek bir kullanım vardır?",
+      "options": ["Diyorum ki (de-i-yorum yerine)", "Geliyorum", "Bakıyorum", "Okuyorum"],
+      "answerIndex": 0
+    },
+    {
+      "id": "turkce-20",
+      "prompt": "'Yağmur yağdığı için maç ertelendi.' cümlesinde altı çizili yan cümlecik ('yağmur yağdığı için') temel cümleye ne tür bir anlam katar?",
+      "options": ["Amaç", "Sebep", "Zaman", "Koşul"],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "topicId": "yonetim-etik",
+  "title": "Yönetimde Etik (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "yonetim-etik-01",
+      "prompt": "Kamu yönetiminde etik davranış ilkelerinden biri değildir?",
+      "options": [
+        "Saydamlık",
+        "Hesap verebilirlik",
+        "Kayırmacılık",
+        "Tarafsızlık"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "yonetim-etik-02",
+      "prompt": "Kamu Görevlileri Etik Kurulu'nun temel görevi nedir?",
+      "options": [
+        "Etik ilkelere uygunluğu denetlemek ve başvuruları incelemek",
+        "Personel maaşlarını belirlemek",
+        "Kamu ihalelerini yürütmek",
+        "Disiplin cezası vermek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-etik-03",
+      "prompt": "'Nepotizm' kavramı kamu yönetiminde neyi ifade eder?",
+      "options": [
+        "Akraba/eş dost kayırmacılığını",
+        "Şeffaflığı",
+        "Liyakat sistemini",
+        "Hesap verebilirliği"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-etik-04",
+      "prompt": "Kamu görevlilerinin hediye alma yasağı hangi temel etik ilkeyle ilişkilidir?",
+      "options": [
+        "Tarafsızlık ve dürüstlük",
+        "Verimlilik",
+        "Hız",
+        "Esneklik"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-etik-05",
+      "prompt": "Etik ilkeler açısından 'hesap verebilirlik' neyi ifade eder?",
+      "options": [
+        "Kamu görevlisinin eylem ve kararlarından sorumlu tutulabilmesini",
+        "Görevlinin hiçbir denetime tabi olmamasını",
+        "Sadece üstlerine karşı sorumlu olmasını",
+        "Sadece yazılı hesap vermesini"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

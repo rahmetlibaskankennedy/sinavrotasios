@@ -1,0 +1,458 @@
+{
+  "topicId": "meb-teskilat",
+  "title": "MEB Teşkilat ve Görevleri (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "meb-teskilat-01",
+      "prompt": "Millî Eğitim Bakanlığının merkez teşkilatının en üst amiri kimdir?",
+      "options": [
+        "Millî Eğitim Bakanı",
+        "Müsteşar",
+        "Genel Müdür",
+        "Bakan Yardımcısı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-02",
+      "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Türk millî eğitiminin genel amacı kaç madde ile düzenlenir?",
+      "options": [
+        "2 madde (Genel ve Özel Amaçlar)",
+        "1 madde",
+        "5 madde",
+        "10 madde"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-03",
+      "prompt": "Millî eğitim sisteminin temel ilkelerinden biri olmayan hangisidir?",
+      "options": [
+        "Genellik ve Eşitlik",
+        "Ferdin ve Toplumun İhtiyaçları",
+        "Yöneticilerin Kişisel Görüşleri",
+        "Fırsat ve İmkân Eşitliği"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "meb-teskilat-04",
+      "prompt": "Talim ve Terbiye Kurulu'nun temel görevi nedir?",
+      "options": [
+        "Eğitim-öğretim programlarını ve ders kitaplarını incelemek/onaylamak",
+        "Personel atamalarını yapmak",
+        "Bütçeyi hazırlamak",
+        "Sendikal ilişkileri yürütmek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-05",
+      "prompt": "1 Sayılı Cumhurbaşkanlığı Kararnamesi'ne göre MEB'in taşra teşkilatı hangi kademelerden oluşur?",
+      "options": [
+        "İl ve ilçe millî eğitim müdürlükleri",
+        "Sadece il müdürlükleri",
+        "Sadece okul müdürlükleri",
+        "Bölge müdürlükleri"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-06",
+      "prompt": "İl millî eğitim müdürü, ilde kime karşı sorumludur?",
+      "options": [
+        "Valiye",
+        "Kaymakama",
+        "Belediye Başkanına",
+        "Doğrudan Bakana"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-07",
+      "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu'na göre ilköğretim çağı hangi yaş aralığını kapsar?",
+      "options": [
+        "6-13 (14) yaş",
+        "5-10 yaş",
+        "7-15 yaş",
+        "4-12 yaş"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-08",
+      "prompt": "222 sayılı Kanun'a göre ilköğretim kurumlarının açılış ve kapanışını kim düzenler?",
+      "options": [
+        "Millî Eğitim Bakanlığı",
+        "Belediye",
+        "İl Genel Meclisi",
+        "Muhtarlık"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-09",
+      "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu neyi düzenler?",
+      "options": [
+        "Özel okul, kurs ve dershanelerin açılış/işleyiş esaslarını",
+        "Sadece devlet okullarını",
+        "Üniversitelerin kuruluşunu",
+        "Meslek odalarının işleyişini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-10",
+      "prompt": "5580 sayılı Kanun'a göre özel öğretim kurumu açma izni kim tarafından verilir?",
+      "options": [
+        "Millî Eğitim Bakanlığı (il/ilçe müdürlükleri aracılığıyla)",
+        "Ticaret Odası",
+        "Belediye Meclisi",
+        "Maliye Bakanlığı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-11",
+      "prompt": "MEB merkez teşkilatında 'Hizmet Birimleri' kavramı neyi ifade eder?",
+      "options": [
+        "Bakanlığın genel müdürlük ve başkanlık düzeyindeki birimlerini",
+        "Sadece taşra teşkilatını",
+        "Sadece okulları",
+        "Sadece döner sermaye işletmelerini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-12",
+      "prompt": "Bakanlık Rehberlik ve Denetim Başkanlığının temel görevi nedir?",
+      "options": [
+        "Teftiş ve denetim faaliyetlerini yürütmek",
+        "Ders kitabı basmak",
+        "Bütçe hazırlamak",
+        "Sınav yapmak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-13",
+      "prompt": "Millî Eğitim Bakanlığı Talim ve Terbiye Kurulu Başkanlığı hangi teşkilat kademesindedir?",
+      "options": [
+        "Bakana bağlı hizmet birimi",
+        "Taşra teşkilatı",
+        "Döner sermaye birimi",
+        "Sendika"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-14",
+      "prompt": "İlçe millî eğitim müdürü kime bağlı olarak görev yapar?",
+      "options": [
+        "Kaymakama ve il millî eğitim müdürüne",
+        "Sadece belediyeye",
+        "Sadece valiye",
+        "Sadece Bakanlığa"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-15",
+      "prompt": "222 sayılı Kanun'a göre ilköğretimin amaçlarından biri değildir?",
+      "options": [
+        "Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak",
+        "Öğrenciyi hayata ve üst öğrenime hazırlamak",
+        "Sadece sınav başarısı sağlamak",
+        "Millî ahlak anlayışına uygun yetiştirmek"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "meb-teskilat-16",
+      "prompt": "MEB'e bağlı örgün eğitim kurumlarından biri değildir?",
+      "options": [
+        "İlkokul",
+        "Ortaokul",
+        "Lise",
+        "Ticaret Odası"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "meb-teskilat-17",
+      "prompt": "1739 sayılı Kanun'a göre eğitim sistemimizin iki ana bölümü nelerdir?",
+      "options": [
+        "Örgün eğitim ve yaygın eğitim",
+        "İlkokul ve ortaokul",
+        "Kamu ve özel eğitim",
+        "Zorunlu ve isteğe bağlı eğitim"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-18",
+      "prompt": "Örgün eğitim kapsamına giren kurumlardan biri değildir?",
+      "options": [
+        "Okul öncesi eğitim",
+        "İlkokul",
+        "Halk eğitim merkezi",
+        "Lise"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "meb-teskilat-19",
+      "prompt": "Yaygın eğitimin amacı nedir?",
+      "options": [
+        "Örgün eğitim yanında veya dışında bireylere eğitim imkânı sağlamak",
+        "Sadece örgün eğitimi desteklemek",
+        "Sadece yetişkinleri okur yazar yapmak",
+        "Sadece mesleki belge vermek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-20",
+      "prompt": "Millî Eğitim Bakanlığının 'bağlı kuruluşları' kavramına örnek hangisidir?",
+      "options": [
+        "Mesleki Yeterlilik Kurumu benzeri ayrı tüzel kişiliğe sahip kuruluşlar",
+        "İl müdürlükleri",
+        "Okullar",
+        "Öğretmenler"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-21",
+      "prompt": "Okul müdürünün görevlerinden biri değildir?",
+      "options": [
+        "Okulu temsil etmek ve yönetmek",
+        "İl millî eğitim müdürünü atamak",
+        "Eğitim-öğretim faaliyetlerini denetlemek",
+        "Personel arasında görev dağılımı yapmak"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "meb-teskilat-22",
+      "prompt": "Zorunlu eğitim süresi mevzuata göre kaç yıldır?",
+      "options": [
+        "12 yıl (4+4+4)",
+        "8 yıl",
+        "10 yıl",
+        "6 yıl"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-23",
+      "prompt": "MEB'de 'döner sermaye işletmeleri' hangi amaçla kurulur?",
+      "options": [
+        "Mesleki ve teknik eğitimde üretim/hizmet faaliyetlerini desteklemek için",
+        "Sadece bütçe açığını kapatmak için",
+        "Sadece maaş ödemek için",
+        "Sadece kitap basmak için"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-24",
+      "prompt": "222 sayılı Kanun'a göre ilköğretim kurumlarına devam mecburiyeti kime aittir?",
+      "options": [
+        "Veli ve vasilere",
+        "Sadece öğrenciye",
+        "Sadece okul idaresine",
+        "Sadece muhtara"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-25",
+      "prompt": "Bakanlık bünyesinde öğretmenlerin atama ve yer değiştirme esaslarını kim belirler?",
+      "options": [
+        "Millî Eğitim Bakanlığı (ilgili yönetmelikler çerçevesinde)",
+        "Belediye",
+        "Vali tek başına",
+        "Okul aile birliği"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-26",
+      "prompt": "MEB'in taşra teşkilatında ilçe millî eğitim müdürlüğü bulunmayan yerlerde görev kim tarafından yürütülür?",
+      "options": [
+        "İl millî eğitim müdürlüğünce",
+        "Belediyece",
+        "Muhtarlıkça",
+        "Valilikçe doğrudan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-27",
+      "prompt": "5580 sayılı Kanun kapsamında özel öğretim kurumlarının denetimini kim yapar?",
+      "options": [
+        "Millî Eğitim Bakanlığı",
+        "Ticaret Bakanlığı",
+        "Belediye",
+        "Sayıştay"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-28",
+      "prompt": "1739 sayılı Kanun'a göre eğitimde fırsat ve imkân eşitliği ilkesi neyi ifade eder?",
+      "options": [
+        "Eğitimde herkese, imkanları ölçüsünde eşit fırsat sağlanmasını",
+        "Sadece maddi yardım yapılmasını",
+        "Sadece kırsal bölgelere öncelik verilmesini",
+        "Sadece burs verilmesini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-29",
+      "prompt": "Okul aile birliklerinin temel amacı nedir?",
+      "options": [
+        "Eğitime katkı sağlamak ve okul-veli iş birliğini güçlendirmek",
+        "Öğretmen atamak",
+        "Müfredat hazırlamak",
+        "Sınav yapmak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-30",
+      "prompt": "MEB Rehberlik ve Denetim Başkanlığı müfettişleri kime karşı sorumludur?",
+      "options": [
+        "Bakana ve Başkanlığa",
+        "Sadece Valiye",
+        "Sadece Kaymakama",
+        "Sadece Okul Müdürüne"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-31",
+      "prompt": "222 sayılı Kanuna göre ilköğretim kurumlarının bina ve tesisleriyle ilgili giderler kim tarafından karşılanır?",
+      "options": [
+        "Genel bütçe ve gerektiğinde yerel katkılarla",
+        "Sadece velilerce",
+        "Sadece hayır kurumlarınca",
+        "Sadece belediyece"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-32",
+      "prompt": "MEB merkez teşkilatında Strateji Geliştirme Başkanlığının görevi nedir?",
+      "options": [
+        "Bakanlığın stratejik plan, bütçe ve performans çalışmalarını yürütmek",
+        "Sınav yapmak",
+        "Ders kitabı basmak",
+        "Personel disiplin işlerini yürütmek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-33",
+      "prompt": "Bir ilköğretim kurumunun açılması için gerekli temel şartlardan biri nedir?",
+      "options": [
+        "Yeterli öğrenci sayısı ve uygun fiziki koşullar",
+        "Sadece belediye onayı",
+        "Sadece nüfus yoğunluğu",
+        "Sadece coğrafi konum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-34",
+      "prompt": "MEB'e bağlı Hayat Boyu Öğrenme Genel Müdürlüğünün temel görev alanı nedir?",
+      "options": [
+        "Yaygın eğitim ve halk eğitimi faaliyetleri",
+        "Sadece ilkokul müfredatı",
+        "Sadece özel okullar",
+        "Sadece yurt dışı eğitim"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-35",
+      "prompt": "Mesleki ve Teknik Eğitim Genel Müdürlüğü hangi eğitim kademesiyle ilgilenir?",
+      "options": [
+        "Mesleki ve teknik ortaöğretim",
+        "Sadece ilkokul",
+        "Sadece yükseköğretim",
+        "Sadece okul öncesi"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-36",
+      "prompt": "Temel Eğitim Genel Müdürlüğünün ilgi alanı nedir?",
+      "options": [
+        "Okul öncesi ve ilköğretim",
+        "Ortaöğretim",
+        "Yükseköğretim",
+        "Yaygın eğitim"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-37",
+      "prompt": "Ortaöğretim Genel Müdürlüğü hangi kurumlardan sorumludur?",
+      "options": [
+        "Liseler",
+        "İlkokullar",
+        "Anaokulları",
+        "Halk eğitim merkezleri"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-38",
+      "prompt": "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğünün görevi nedir?",
+      "options": [
+        "Öğretmenlerin hizmet öncesi/içi eğitimini planlamak",
+        "Ders kitabı basmak",
+        "Okul inşa etmek",
+        "Bütçe hazırlamak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-39",
+      "prompt": "MEB'in yurt dışı teşkilatının temel amacı nedir?",
+      "options": [
+        "Yurt dışındaki vatandaşların eğitim hizmetlerini yürütmek",
+        "Sadece turizm faaliyetleri",
+        "Sadece ticari faaliyetler",
+        "Sadece konsolosluk işleri"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-40",
+      "prompt": "MEB merkez teşkilatında Bakan Yardımcısının temel görevi nedir?",
+      "options": [
+        "Bakana yardımcı olmak ve Bakan tarafından verilen görevleri yürütmek",
+        "Sadece taşra teşkilatını denetlemek",
+        "Sadece bütçeyi onaylamak",
+        "Sadece uluslararası anlaşmaları imzalamak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "meb-teskilat-41",
+      "prompt": "İl millî eğitim müdürlüğü bünyesindeki şube müdürlükleri hangi esasa göre yapılandırılır?",
+      "options": [
+        "Hizmet alanlarına göre (personel, eğitim-öğretim, strateji vb.)",
+        "Sadece coğrafi bölgeye göre",
+        "Sadece okul sayısına göre",
+        "Sadece bütçeye göre"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

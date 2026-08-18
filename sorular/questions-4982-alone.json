@@ -1,0 +1,62 @@
+{
+  "topicId": "4982-kanun",
+  "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "4982-kanun-01",
+      "prompt": "4982 sayılı Kanun'un amacı nedir?",
+      "options": [
+        "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+        "Sadece basın mensuplarına bilgi vermek",
+        "Ticari sırları korumak",
+        "Kamu ihalelerini düzenlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4982-kanun-02",
+      "prompt": "Bilgi edinme başvurularına kurumların yanıt vermesi gereken azami süre nedir?",
+      "options": [
+        "15 iş günü",
+        "30 iş günü",
+        "10 gün",
+        "60 gün"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4982-kanun-03",
+      "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
+      "options": [
+        "Evet, tamamen kapsamdadır",
+        "Hayır, kapsam dışıdır",
+        "Sadece mahkeme kararıyla açıklanır",
+        "Sadece basına açıklanır"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "4982-kanun-04",
+      "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+      "options": [
+        "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
+        "Sadece Cumhurbaşkanlığına",
+        "Sadece Sayıştaya",
+        "Sadece Danıştaya"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4982-kanun-05",
+      "prompt": "Bilgi edinme başvurusunun reddi halinde başvurulacak üst mercii nedir?",
+      "options": [
+        "Bilgi Edinme Değerlendirme Kurulu",
+        "Belediye Meclisi",
+        "İl Genel Meclisi",
+        "Sendika"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

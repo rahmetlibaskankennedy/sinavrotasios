@@ -1,0 +1,62 @@
+{
+  "topicId": "5580-kanun",
+  "title": "5580 Sayılı Özel Öğretim Kurumları Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "5580-kanun-01",
+      "prompt": "5580 sayılı Kanun neyi düzenler?",
+      "options": [
+        "Özel okul, kurs ve öğretim kurumlarının açılış/işleyiş esaslarını",
+        "Sadece devlet okullarını",
+        "Sadece üniversiteleri",
+        "Sadece meslek odalarını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5580-kanun-02",
+      "prompt": "Özel öğretim kurumu açma izni kim tarafından verilir?",
+      "options": [
+        "Millî Eğitim Bakanlığı (il/ilçe müdürlükleri aracılığıyla)",
+        "Ticaret Odası",
+        "Belediye Meclisi",
+        "Maliye Bakanlığı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5580-kanun-03",
+      "prompt": "Özel öğretim kurumlarının denetimini kim yapar?",
+      "options": [
+        "Millî Eğitim Bakanlığı",
+        "Ticaret Bakanlığı",
+        "Belediye",
+        "Sayıştay"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5580-kanun-04",
+      "prompt": "Kanun'a göre özel okullardaki eğitim-öğretim ücretleri nasıl belirlenir?",
+      "options": [
+        "Kanun ve ilgili mevzuat çerçevesinde kurum tarafından belirlenip ilan edilir",
+        "Serbestçe, hiçbir kurala tabi değildir",
+        "Sadece Bakanlar Kurulu belirler",
+        "Sadece belediye belirler"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5580-kanun-05",
+      "prompt": "Özel öğretim kurumlarında görev yapacak öğretmenlerde aranan temel şart nedir?",
+      "options": [
+        "İlgili alanda öğretmenlik formasyonu/atama şartlarını taşımak",
+        "Hiçbir şart aranmaz",
+        "Sadece tecrübe yeterlidir",
+        "Sadece yabancı dil bilmek yeterlidir"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

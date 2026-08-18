@@ -1,0 +1,62 @@
+{
+  "topicId": "yonetim-liderlik",
+  "title": "Yönetim, Liderlik ve Organizasyon",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "yonetim-liderlik-01",
+      "prompt": "Klasik yönetim yaklaşımının öncülerinden biri kimdir?",
+      "options": [
+        "Henri Fayol",
+        "Abraham Maslow",
+        "Douglas McGregor",
+        "Peter Drucker"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-liderlik-02",
+      "prompt": "'Dönüşümcü liderlik' yaklaşımının temel özelliği nedir?",
+      "options": [
+        "Vizyon ile astları motive edip değişimi yönetmek",
+        "Sadece kurallara sıkı sıkıya bağlı kalmak",
+        "Sadece ödül-ceza sistemini kullanmak",
+        "Karar almaktan kaçınmak"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-liderlik-03",
+      "prompt": "Yönetim fonksiyonlarından biri değildir?",
+      "options": [
+        "Planlama",
+        "Örgütleme",
+        "Yöneltme (yürütme)",
+        "Kişisel çıkar gözetme"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "yonetim-liderlik-04",
+      "prompt": "Organizasyon şemasında 'emir-komuta birliği' ilkesi neyi ifade eder?",
+      "options": [
+        "Bir astın sadece bir üstten emir alması gerektiğini",
+        "Herkesin herkese emir verebileceğini",
+        "Astların üst olmadan karar alabileceğini",
+        "Emir zincirinin önemsiz olduğunu"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "yonetim-liderlik-05",
+      "prompt": "Maslow'un ihtiyaçlar hiyerarşisinde en üst düzey ihtiyaç hangisidir?",
+      "options": [
+        "Kendini gerçekleştirme",
+        "Fizyolojik ihtiyaçlar",
+        "Güvenlik ihtiyacı",
+        "Ait olma ihtiyacı"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

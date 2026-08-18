@@ -1,0 +1,106 @@
+{
+  "topicId": "5018-kanun",
+  "title": "5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "5018-kanun-01",
+      "prompt": "5018 sayılı Kanun'un temel amacı nedir?",
+      "options": [
+        "Kamu kaynaklarının etkili, ekonomik ve verimli kullanılmasını sağlamak",
+        "Sadece vergi toplamak",
+        "Sadece maaş ödemelerini düzenlemek",
+        "Sadece ihale usullerini belirlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-02",
+      "prompt": "Kanun'a göre bütçe türlerinden biri değildir?",
+      "options": [
+        "Merkezi yönetim bütçesi",
+        "Sosyal güvenlik kurumları bütçesi",
+        "Mahallî idareler bütçesi",
+        "Şirket bilançosu"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "5018-kanun-03",
+      "prompt": "Harcama yetkilisi kimdir?",
+      "options": [
+        "Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi",
+        "Sadece Bakan",
+        "Sadece Sayıştay Başkanı",
+        "Sadece Maliye Bakanı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-04",
+      "prompt": "Ön mali kontrol görevi temel olarak kime aittir?",
+      "options": [
+        "Strateji Geliştirme Birimlerine",
+        "Sadece Sayıştaya",
+        "Sadece Bakanlar Kuruluna",
+        "Sadece TBMM'ye"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-05",
+      "prompt": "5018 sayılı Kanun'a göre stratejik plan hazırlama yükümlülüğü kimlere aittir?",
+      "options": [
+        "Kamu idarelerine",
+        "Sadece belediyelere",
+        "Sadece üniversitelere",
+        "Sadece bakanlıklara"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-06",
+      "prompt": "Kamu mali yönetiminin temel ilkelerinden biri değildir?",
+      "options": [
+        "Malî saydamlık",
+        "Hesap verebilirlik",
+        "Stratejik planlama",
+        "Kişisel takdir yetkisi"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "5018-kanun-07",
+      "prompt": "Bütçe kesin hesap kanunu hangi organca kabul edilir?",
+      "options": [
+        "TBMM",
+        "Bakanlar Kurulu",
+        "Sayıştay",
+        "Cumhurbaşkanlığı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-08",
+      "prompt": "Taşınır mal yönetiminden kim sorumludur?",
+      "options": [
+        "Harcama yetkilisi ve taşınır kayıt yetkilisi",
+        "Sadece Maliye Bakanlığı",
+        "Sadece Sayıştay",
+        "Sadece TBMM"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5018-kanun-09",
+      "prompt": "İç denetim faaliyeti hangi amaçla yürütülür?",
+      "options": [
+        "Kurumun risk yönetimi, kontrol ve yönetim süreçlerini değerlendirmek",
+        "Sadece personel sicilini tutmak",
+        "Sadece bütçe hazırlamak",
+        "Sadece ihale açmak"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

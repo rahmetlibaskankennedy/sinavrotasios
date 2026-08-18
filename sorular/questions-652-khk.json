@@ -1,0 +1,40 @@
+{
+  "topicId": "652-khk",
+  "title": "652 Sayılı KHK (MEB Teşkilat ve Görevleri)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "652-khk-01",
+      "prompt": "652 sayılı KHK tarihsel olarak neyi düzenlemek üzere çıkarılmıştır?",
+      "options": [
+        "Millî Eğitim Bakanlığının teşkilat ve görevlerini",
+        "Sadece öğretmen maaşlarını",
+        "Sadece sınav sistemini",
+        "Sadece ders kitaplarını"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "652-khk-02",
+      "prompt": "652 sayılı KHK sonrasında MEB teşkilat yapısı hangi düzenlemeyle güncellenmiştir?",
+      "options": [
+        "1 Sayılı Cumhurbaşkanlığı Kararnamesi ile",
+        "Sadece yönetmeliklerle",
+        "Sadece genelgelerle",
+        "Değişmemiştir"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "652-khk-03",
+      "prompt": "652 sayılı KHK'nın kapsamına giren temel konu hangisidir?",
+      "options": [
+        "Bakanlığın merkez ve taşra teşkilatının görev, yetki ve sorumlulukları",
+        "Sadece bütçe kalemleri",
+        "Sadece disiplin cezaları",
+        "Sadece sendikal haklar"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

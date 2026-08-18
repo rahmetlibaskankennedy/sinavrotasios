@@ -1,0 +1,95 @@
+{
+  "topicId": "4735-kanun",
+  "title": "4735 Sayılı Kamu İhale Sözleşmeleri Kanunu",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "4735-kanun-01",
+      "prompt": "4735 sayılı Kanun neyi düzenler?",
+      "options": [
+        "4734 sayılı Kanun'a göre yapılan ihaleler sonucu düzenlenen sözleşmelerin uygulanmasını",
+        "Sadece ihale sürecini",
+        "Sadece teminat oranlarını",
+        "Sadece cezaları"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-02",
+      "prompt": "Sözleşmelerde 'süre uzatımı' hangi hallerde verilebilir?",
+      "options": [
+        "Kanunda sayılan mücbir sebep ve idareden kaynaklanan nedenlerle",
+        "Her istekte",
+        "Hiçbir zaman",
+        "Sadece yüklenici isterse"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-03",
+      "prompt": "Sözleşmenin devri kural olarak nasıldır?",
+      "options": [
+        "İdarenin yazılı izni ile ve kanunda belirtilen şartlarla mümkündür",
+        "Serbestçe yapılabilir",
+        "Hiçbir şekilde yapılamaz",
+        "Sadece idare devredebilir"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-04",
+      "prompt": "Kesin teminat sözleşme bedeli üzerinden genel olarak ne kadardır?",
+      "options": [
+        "%6",
+        "%1",
+        "%10",
+        "%20"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-05",
+      "prompt": "Sözleşmenin feshi hangi hallerde söz konusu olabilir?",
+      "options": [
+        "Yüklenicinin taahhüdünü ihlali gibi kanunda sayılan hallerde",
+        "Sadece idarenin keyfi kararıyla",
+        "Sadece yüklenicinin isteğiyle",
+        "Hiçbir zaman"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-06",
+      "prompt": "Kabul işlemleri neyi ifade eder?",
+      "options": [
+        "Yapım/mal/hizmetin sözleşmeye uygunluğunun idarece tespit edilmesini",
+        "Sadece ödemenin yapılmasını",
+        "Sadece ihalenin sonuçlanmasını",
+        "Sadece teminatın iadesini"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-07",
+      "prompt": "Gecikme cezası ne zaman uygulanır?",
+      "options": [
+        "Yüklenicinin işi süresinde tamamlamaması halinde",
+        "Her durumda",
+        "Sadece idare isterse",
+        "Hiçbir zaman"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4735-kanun-08",
+      "prompt": "Fiyat farkı ödenmesi hangi hallerde söz konusu olabilir?",
+      "options": [
+        "Sözleşmede veya mevzuatta öngörülen şartlarda",
+        "Her zaman serbestçe",
+        "Hiçbir zaman",
+        "Sadece yüklenici talep ederse otomatik"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "topicId": "4483-kanun",
+  "title": "4483 Sayılı Kanun (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "4483-kanun-01",
+      "prompt": "4483 sayılı Kanun'un temel amacı nedir?",
+      "options": [
+        "Memurların yargılanmasında izin usulünü düzenlemek",
+        "Memurların maaşlarını belirlemek",
+        "Disiplin cezalarını düzenlemek",
+        "Memur atamalarını düzenlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4483-kanun-02",
+      "prompt": "İlçede görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+      "options": [
+        "Vali",
+        "Kaymakam",
+        "İçişleri Bakanı",
+        "Cumhurbaşkanı"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "4483-kanun-03",
+      "prompt": "İlde görevli memurlar hakkında soruşturma izni vermeye yetkili merci kimdir?",
+      "options": [
+        "Vali",
+        "Kaymakam",
+        "Bakan",
+        "Başbakan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "4483-kanun-04",
+      "prompt": "Yetkili merci, soruşturma izni konusundaki kararını kaç gün içinde vermek zorundadır?",
+      "options": [
+        "10 gün",
+        "15 gün",
+        "30 gün",
+        "60 gün"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "4483-kanun-05",
+      "prompt": "Hakkında soruşturma izni verilmeyen memur için itiraz edilebilecek merci neresidir?",
+      "options": [
+        "Danıştay",
+        "Bölge İdare Mahkemesi",
+        "Yargıtay",
+        "Sayıştay"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "4483-kanun-06",
+      "prompt": "4483 sayılı Kanun kapsamında ön inceleme yapmakla görevlendirilen kişi kimdir?",
+      "options": [
+        "Müfettiş veya denetime yetkili kişi",
+        "Herhangi bir memur",
+        "Sendika temsilcisi",
+        "Avukat"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "topicId": "bilgi-dilekce",
+  "title": "4982 ve 3071 Sayılı Kanunlar (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "bilgi-dilekce-01",
+      "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun amacı nedir?",
+      "options": [
+        "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
+        "Sadece basın mensuplarına bilgi vermek",
+        "Ticari sırları korumak",
+        "Kamu ihalelerini düzenlemek"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bilgi-dilekce-02",
+      "prompt": "Bilgi edinme başvurularına kurumların yanıt vermesi gereken azami süre nedir?",
+      "options": [
+        "15 iş günü",
+        "30 iş günü",
+        "10 gün",
+        "60 gün"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bilgi-dilekce-03",
+      "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
+      "options": [
+        "Evet, tamamen kapsamdadır",
+        "Hayır, kapsam dışıdır",
+        "Sadece mahkeme kararıyla açıklanır",
+        "Sadece basına açıklanır"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "bilgi-dilekce-04",
+      "prompt": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'a göre dilekçeler kime hitaben yazılabilir?",
+      "options": [
+        "Sadece TBMM'ye",
+        "TBMM'ye ve yetkili makamlara",
+        "Sadece mahkemelere",
+        "Sadece belediyelere"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "bilgi-dilekce-05",
+      "prompt": "Dilekçe Kanunu kapsamında yabancıların dilekçe hakkını kullanabilmesi için hangi şart aranır?",
+      "options": [
+        "Karşılıklılık (mütekabiliyet) esası ve Türkçe olması",
+        "Herhangi bir şart aranmaz",
+        "Sadece vatandaş olmaları gerekir",
+        "İkamet izni yeterlidir"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bilgi-dilekce-06",
+      "prompt": "Dilekçelerde imza ve açık adres bulunmaması durumunda ne olur?",
+      "options": [
+        "Dilekçe işleme konulmaz",
+        "Dilekçe otomatik reddedilir",
+        "Dilekçe mahkemeye gönderilir",
+        "Önemi yoktur"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bilgi-dilekce-07",
+      "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+      "options": [
+        "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
+        "Sadece Cumhurbaşkanlığına",
+        "Sadece Sayıştaya",
+        "Sadece Danıştaya"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "bilgi-dilekce-08",
+      "prompt": "Bilgi edinme başvurusunun reddi halinde başvurulacak üst mercii nedir?",
+      "options": [
+        "Bilgi Edinme Değerlendirme Kurulu",
+        "Belediye Meclisi",
+        "İl Genel Meclisi",
+        "Sendika"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

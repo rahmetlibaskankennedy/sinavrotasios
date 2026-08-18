@@ -1,0 +1,73 @@
+{
+  "topicId": "5442-kanun",
+  "title": "5442 Sayılı İl İdaresi Kanunu (Örnek Soru Bankası)",
+  "status": "demo",
+  "questions": [
+    {
+      "id": "5442-kanun-01",
+      "prompt": "5442 sayılı Kanun'a göre il idaresinin başı kimdir?",
+      "options": [
+        "Vali",
+        "Belediye Başkanı",
+        "Kaymakam",
+        "İl Genel Meclisi Başkanı"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5442-kanun-02",
+      "prompt": "İlçe idaresinin başı kimdir?",
+      "options": [
+        "Vali",
+        "Kaymakam",
+        "Muhtar",
+        "İl Müdürü"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "5442-kanun-03",
+      "prompt": "Vali, ilde hangi organın temsilcisidir?",
+      "options": [
+        "Sadece İçişleri Bakanlığının",
+        "Devletin ve ayrı ayrı her bakanlığın",
+        "Sadece Cumhurbaşkanının",
+        "Belediyenin"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "5442-kanun-04",
+      "prompt": "İl idare şube başkanları kime karşı sorumludur?",
+      "options": [
+        "Bakanlıklarına doğrudan",
+        "Valiye",
+        "Kaymakama",
+        "Belediye Başkanına"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "5442-kanun-05",
+      "prompt": "Kaymakam, ilçesinde hangi sıfatla görev yapar?",
+      "options": [
+        "Hükümetin temsilcisi ve ilçenin en büyük mülki amiri",
+        "Sadece belediye temsilcisi",
+        "İl Genel Meclisi üyesi",
+        "Muhtarların amiri"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "5442-kanun-06",
+      "prompt": "İl idare kurulu kimlerden oluşur?",
+      "options": [
+        "Vali başkanlığında ilgili il müdürlerinden",
+        "Sadece Vali'den",
+        "Belediye meclisinden",
+        "Kaymakamlardan"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
