@@ -323,18 +323,22 @@ const ContentRepo = (() => {
   //   question → prompt metni
   //   answer   → doğru şıkkın metni
   async function fetchCardsByTopicId(topicId) {
-    // NOT: questions tablosu RLS ile (questions_premium_read) zaten korunuyor.
+    // NOT (2026-08-19 düzeltme): eskiden questions tablosundan doğrudan
+    // seçim yapılıyordu — RLS (questions_premium_read) admin/premium
+    // olmayanı tamamen engellediği için bu kartlar hep "direkt premium"a
+    // düşüyordu, Genel Mevzuat'taki kart destelerinin aksine hiç 5 kartlık
+    // ücretsiz önizleme yoktu. get_topic_card_preview RPC'si aynı "ilk 5
+    // ücretsiz" davranışını burada da uyguluyor; gerçek toplam sayı da
+    // (total_count) upsell mesajı için ayrıca dönüyor.
     const topicIds = await collectDescendantTopicIds(topicId);
-    const { data, error } = await client
-      .from('questions')
-      .select('prompt, options, answer_index')
-      .in('topic_id', topicIds)
-      .order('sort_order');
+    const { data, error } = await client.rpc('get_topic_card_preview', { p_topic_ids: topicIds });
     if (error) throw error;
-    const cards = (data || [])
+    const rows = data || [];
+    const cards = rows
       .filter(row => row.prompt && Array.isArray(row.options) && row.options[row.answer_index] != null)
       .map(row => ({ question: row.prompt, answer: row.options[row.answer_index] }));
-    return { cards };
+    const totalCount = rows.length ? rows[0].total_count : 0;
+    return { cards, totalCount };
   }
 
   // ---- exam-blueprint/topics-taxonomy.json karşılığı -----------------------

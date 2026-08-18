@@ -32,11 +32,12 @@ function getCardCatalogue() {
     const cat = state.catalogue[key];
     if (!cat) return;
     const meta = categoryCardMeta(key);
-    // Sadece soru sayısı olan (questionCount > 0) konuları kart olarak sun.
-    // Bunlar quiz soru bankasından TÜRETİLİYOR (fetchCardsByTopicId) — doğru
-    // cevabı doğrudan gösterdiği için premium'da kalmalı.
-    // Bağımsız flashcard desteleri (card_decks: deck_type='flashcard') — quiz
-    // bankasına dokunmuyor, bu yüzden ücretsiz gösterilebiliyor.
+    // Standart: TÜM kart kaynakları (flashcard destesi ya da soru bankasından
+    // türetilen) Genel Mevzuat'takiyle aynı "ilk 5 kart ücretsiz, sonrası
+    // premium" davranışını izler. quiz-derived kartlar artık
+    // get_topic_card_preview RPC'siyle çekiliyor (bkz. content-repo.js) —
+    // bu RPC sunucu tarafında zaten free kullanıcıya 5 satırla sınırlıyor,
+    // bu yüzden burada "free: false" ile önden tamamen kapatmaya gerek yok.
     const flashcardDecks = (state.flashcardDecks || [])
       .filter(d => d.categoryId === key)
       .map(d => ({ id: d.id, title: d.title, cardFile: d.cardFile, free: true }));
@@ -46,7 +47,7 @@ function getCardCatalogue() {
     const flashcardTitles = new Set(flashcardDecks.map(d => normalizeTitle(d.title)));
     const quizDerived = (cat.topics || [])
       .filter(t => (t.questionCount || 0) > 0 && !flashcardTitles.has(normalizeTitle(t.title)))
-      .map(t => ({ id: t.id, title: t.title, topicId: t.id, free: false }));
+      .map(t => ({ id: t.id, title: t.title, topicId: t.id, free: true }));
     result[key] = {
       title: cat.title,
       description: cat.subtitle || meta.description,
@@ -856,7 +857,10 @@ async function loadCardDeck(doc) {
   if (doc.topicId) {
     const data = await ContentRepo.fetchCardsByTopicId(doc.topicId);
     cards = Array.isArray(data.cards) ? data.cards : [];
-    totalCount = cards.length;
+    // totalCount RPC'den (get_topic_card_preview) geliyor — free kullanıcı
+    // için satır sayısıyla (5) aynı olmayabilir, "X kart daha var" upsell'i
+    // bu farktan tetiklenir (flashcard destelerindeki mantığın aynısı).
+    totalCount = typeof data.totalCount === 'number' ? data.totalCount : cards.length;
   } else if (doc.cardFile) {
     const data = await ContentRepo.fetchFlashcardsByPath(doc.cardFile);
     cards = Array.isArray(data.cards) ? data.cards : [];
@@ -873,9 +877,11 @@ async function loadCardDeck(doc) {
 }
 
 async function openCardDeck(doc, categoryKey) {
-  // Bağımsız flashcard desteleri (doc.free === true) quiz soru bankasına
-  // dokunmuyor, ücretsiz kullanıcıya da açık — ama sunucu (RLS) zaten sadece
-  // ilk 5 kartı döndürüyor, gerisi için "Premium'a Geç" kartı ekleniyor.
+  // Standart: tüm kart kaynakları (flashcard destesi ya da soru bankasından
+  // türetilen) artık doc.free === true — sunucu tarafı (RLS / RPC) zaten
+  // ücretsiz kullanıcıya sadece ilk 5 kartı döndürüyor, gerisi için
+  // "Premium'a Geç" kartı ekleniyor. Bu satır yine de bir güvenlik ağı: doc.free
+  // yanlışlıkla false gelirse önden keser.
   if (!doc.free && !requirePremiumOrWarn()) return;
   try {
     showToast('Kartlar hazırlanıyor…');
