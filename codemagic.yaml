@@ -261,6 +261,22 @@ workflows:
           set -euo pipefail
           npm ci
 
+      - name: Guard against dev (live-reload) config in release build
+        script: |
+          set -euo pipefail
+
+          # capacitor.config.dev.json bir "server.url" içerir (GitHub Pages'ten
+          # canlı yükleme yapar). Bu, App Store/AltStore'a giden RELEASE build'inde
+          # asla olmamalı — release her zaman www/ içeriğini IPA'ya gömmeli.
+          if grep -q '"url"' capacitor.config.json 2>/dev/null; then
+            echo "ERROR: capacitor.config.json bir server.url içeriyor."
+            echo "Bu release/AltStore workflow'u için YASAK — dev config production'a karışmış olabilir."
+            echo "capacitor.config.json dosyasını kontrol et (server.url alanı olmamalı)."
+            exit 1
+          fi
+
+          echo "OK: capacitor.config.json temiz, local www gömülecek."
+
       - name: Install Capacitor iOS
         script: |
           set -euo pipefail
@@ -517,3 +533,150 @@ workflows:
       - build/SinavRotasi-AltStore.ipa
       - build/device/Build/Products/Debug-iphoneos/*.app
       - build/device/Build/Products/Debug-iphoneos/**/*.app
+
+  # ============================================================
+  # 3) DEV BUILD — LIVE RELOAD (GitHub Pages'ten www yükler)
+  # ============================================================
+  # SADECE geliştirme/test içindir. www/ içeriğini IPA'ya gömmez,
+  # bunun yerine capacitor.config.dev.json'daki server.url'den
+  # (GitHub Pages) HTML/CSS/JS'yi her açılışta çeker. app.js, style.css
+  # veya index.html değiştirip main'e push ettiğinde ve GitHub Pages
+  # deploy tamamlandığında, uygulamayı telefonda kapat-aç yeterli —
+  # yeni IPA/AltStore güncellemesi GEREKMEZ.
+  #
+  # Ayrı bundle ID (com.sinavrotasi.mebgys.dev) kullanır, bu yüzden
+  # gerçek (production) uygulamanın yanında AYRI bir app olarak kurulur —
+  # birbirini bozmazlar, telefonunda ikisi de durabilir.
+  ios-device-dev:
+    name: SınavRotası iPhone DEV IPA (Live Reload)
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    environment:
+      node: 22
+
+    scripts:
+      - name: Install dependencies
+        script: |
+          set -euo pipefail
+          npm ci
+
+      - name: Switch to DEV capacitor config (GitHub Pages server.url)
+        script: |
+          set -euo pipefail
+
+          if [ ! -f capacitor.config.dev.json ]; then
+            echo "ERROR: capacitor.config.dev.json bulunamadı."
+            exit 1
+          fi
+
+          cp capacitor.config.json capacitor.config.json.prod.bak
+          cp capacitor.config.dev.json capacitor.config.json
+
+          echo "DEV config aktif:"
+          cat capacitor.config.json
+
+      - name: Install Capacitor iOS
+        script: |
+          set -euo pipefail
+          npm install @capacitor/ios@8.5.0
+
+      - name: Add iOS platform
+        script: |
+          set -euo pipefail
+          npx cap add ios
+
+      - name: Configure iOS deep link
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          if [ ! -f "$PLIST_PATH" ]; then
+            echo "ERROR: Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Delete :CFBundleURLTypes" \
+            "$PLIST_PATH" 2>/dev/null || true
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0 dict" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleTypeRole string Editor" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys.dev" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasidev" \
+            "$PLIST_PATH"
+
+      - name: Sync Capacitor
+        script: |
+          set -euo pipefail
+          npx cap sync ios
+
+      - name: Build unsigned iPhone app (DEV)
+        script: |
+          set -euo pipefail
+
+          xcodebuild \
+            -project ios/App/App.xcodeproj \
+            -scheme App \
+            -configuration Debug \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/device \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Create unsigned DEV IPA for AltStore
+        script: |
+          set -euo pipefail
+
+          APP_PATH="$CM_BUILD_DIR/build/device/Build/Products/Debug-iphoneos/App.app"
+
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: DEV App.app oluşmadı."
+            exit 1
+          fi
+
+          IPA_ROOT="$CM_BUILD_DIR/build/altstore-dev"
+          PAYLOAD_DIR="$IPA_ROOT/Payload"
+          IPA_PATH="$CM_BUILD_DIR/build/SinavRotasi-Dev.ipa"
+
+          rm -rf "$IPA_ROOT"
+          rm -f "$IPA_PATH"
+          mkdir -p "$PAYLOAD_DIR"
+
+          cp -R "$APP_PATH" "$PAYLOAD_DIR/App.app"
+
+          cd "$IPA_ROOT"
+          /usr/bin/zip -qry "$IPA_PATH" Payload
+
+          if [ ! -f "$IPA_PATH" ]; then
+            echo "ERROR: DEV IPA oluşmadı."
+            exit 1
+          fi
+
+          echo "SUCCESS: DEV IPA hazır (yalnızca BİR KEZ kurulacak, sonrası live reload):"
+          ls -lh "$IPA_PATH"
+
+    artifacts:
+      - build/SinavRotasi-Dev.ipa

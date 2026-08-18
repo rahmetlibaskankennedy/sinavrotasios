@@ -1,0 +1,18 @@
+{
+  "appId": "com.sinavrotasi.mebgys.dev",
+  "appName": "SınavRotası (Dev)",
+  "webDir": "www",
+  "server": {
+    "url": "https://rahmetlibaskankennedy.github.io/sinavrotasios/",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    },
+    "Keyboard": {
+      "resize": "none"
+    }
+  }
+}
