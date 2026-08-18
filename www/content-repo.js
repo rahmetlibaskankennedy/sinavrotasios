@@ -27,14 +27,28 @@ const ContentRepo = (() => {
   // diğer fonksiyonlar bu filtreyi uygulamaz; onlar hâlâ tüm topics satırlarına
   // erişebilir, yani deneme sınavı akışı bu filtreden etkilenmez.
   async function fetchCatalogue() {
-    const [{ data: categories, error: catErr }, { data: topics, error: topicErr }] = await Promise.all([
+    const [{ data: categories, error: catErr }, { data: topics, error: topicErr }, { data: liveCounts, error: countErr }] = await Promise.all([
       client.from('categories').select('*').order('sort_order'),
-      client.from('topics').select('*').eq('show_in_catalog', true).order('sort_order')
+      client.from('topics').select('*').eq('show_in_catalog', true).order('sort_order'),
+      client.from('topic_question_counts').select('topic_id, toplam_soru')
     ]);
     if (catErr) throw new Error(`Kategoriler yüklenemedi: ${catErr.message}`);
     if (topicErr) throw new Error(`Konular yüklenemedi: ${topicErr.message}`);
     if (!Array.isArray(categories)) throw new Error('Kategoriler beklenmeyen formatta döndü.');
     if (!Array.isArray(topics)) throw new Error('Konular beklenmeyen formatta döndü.');
+    // NOT (2026-08-19 düzeltme): topics.question_count sütunu 151 konudan
+    // sadece 7'sinde doluydu ve gerçek soru sayısıyla senkron değildi — bu
+    // yüzden Kartlar ekranında (getCardCatalogue, app.js) "Genel Mevzuat"
+    // dışındaki hiçbir kategoride kart görünmüyordu. topic_question_counts
+    // view'ı (zaten DB'de var, alt konuları da dahil ederek gerçek zamanlı
+    // hesaplıyor) burada devreye alınıyor; countErr varsa (view erişilemezse)
+    // sessizce eski sütuna düşülüyor, katalog hiç kırılmasın diye.
+    const liveCountMap = new Map();
+    if (!countErr && Array.isArray(liveCounts)) {
+      liveCounts.forEach(row => liveCountMap.set(row.topic_id, row.toplam_soru));
+    } else if (countErr) {
+      console.warn('topic_question_counts okunamadı, eski question_count sütununa düşülüyor:', countErr.message);
+    }
 
     const byParent = new Map();
     topics.forEach(t => {
@@ -78,6 +92,8 @@ const ContentRepo = (() => {
     if (row.article_range && String(row.article_range).trim() !== '0') node.articleRange = row.article_range;
     if (row.article_count != null) node.articleCount = row.article_count;
     if (row.question_count != null) node.questionCount = row.question_count;
+    const liveCount = liveCountMap.get(row.id);
+    if (liveCount != null) node.questionCount = liveCount;
     if (row.kadrolar?.length) node.kadrolar = row.kadrolar;
     if (row.source_file) node.questionFile = row.source_file;
     if (row.summary) node.summary = row.summary;
