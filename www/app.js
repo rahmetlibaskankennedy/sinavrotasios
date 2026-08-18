@@ -42,9 +42,10 @@ function getCardCatalogue() {
       .map(d => ({ id: d.id, title: d.title, cardFile: d.cardFile, free: true }));
     // Aynı başlık için flashcard destesi zaten varsa quiz-derived kopyasını
     // eklemiyoruz — aksi halde aynı konu listede iki kez görünüyordu.
-    const flashcardTitles = new Set(flashcardDecks.map(d => d.title));
+    const normalizeTitle = (title) => (title || '').trim().toLocaleLowerCase('tr-TR');
+    const flashcardTitles = new Set(flashcardDecks.map(d => normalizeTitle(d.title)));
     const quizDerived = (cat.topics || [])
-      .filter(t => (t.questionCount || 0) > 0 && !flashcardTitles.has(t.title))
+      .filter(t => (t.questionCount || 0) > 0 && !flashcardTitles.has(normalizeTitle(t.title)))
       .map(t => ({ id: t.id, title: t.title, topicId: t.id, free: false }));
     result[key] = {
       title: cat.title,
@@ -1283,7 +1284,7 @@ function renderCategoryLevel(categoryKey) {
     const isDocument = item.type === 'document';
     const isComplete = isDocument && getDocumentProgress(item) === 100;
     const info = statLine(item);
-    return `<article class="topic-item ${isComplete ? 'completed' : ''}" data-topic-index="${index}" role="button" tabindex="0"><div class="topic-number">${String(index + 1).padStart(2, '0')}</div><div class="topic-copy"><h4>${escapeHtml(item.title)}</h4><p>${info}</p></div>${isDocument && item.articleCount ? `<span class="article-range">${item.contentStatus === 'sample' ? 'ÖRNEK SET' : 'MEVZUAT'}</span>` : ''}<div class="topic-arrow">${svg('arrow')}</div></article>`;
+    return `<article class="topic-item ${isComplete ? 'completed' : ''}" data-topic-index="${index}" role="button" tabindex="0"><div class="topic-number">${String(index + 1).padStart(2, '0')}</div><div class="topic-copy"><h4>${escapeHtml(item.title)}</h4><p>${info}</p></div>${isDocument && item.articleCount && item.contentStatus === 'sample' ? `<span class="article-range">ÖRNEK SET</span>` : ''}<div class="topic-arrow">${svg('arrow')}</div></article>`;
   }).join('');
   topicList.querySelectorAll('[data-topic-index]').forEach(element => {
     const open = () => {
@@ -1651,7 +1652,7 @@ async function openRandomQuiz(documentItem, categoryKey) {
     });
   } catch (error) {
     if (error.code === 'FREE_LIMIT_REACHED') {
-      // TODO: gerçek paywall ekranı henüz kurulmadı (sıradaki adım) — şimdilik toast
+      openPremiumModal();
       return showToast('Bu konu için 2 ücretsiz rastgele test hakkınızı kullandınız. Devam etmek için premium üyelik gerekiyor.');
     }
     showToast(error.message || 'Sorular yüklenemedi.');
