@@ -1,0 +1,156 @@
+{
+  "topics": {
+    "turkce": {
+      "title": "Türkçe Dilbilgisi",
+      "category": "general-culture",
+      "questionFile": "cards/turkce.json",
+      "status": "demo"
+    },
+    "insan-haklari": {
+      "title": "İnsan Hakları ve Demokrasi",
+      "category": "general-culture",
+      "questionFile": "cards/insan-haklari.json",
+      "status": "demo"
+    },
+    "idare-sistemi": {
+      "title": "Türk İdare Sistemi",
+      "category": "general-culture",
+      "questionFile": "cards/idare-sistemi.json",
+      "status": "demo"
+    },
+    "protokol": {
+      "title": "Protokol Kuralları",
+      "category": "general-culture",
+      "questionFile": "cards/protokol.json",
+      "status": "demo"
+    },
+    "ataturk": {
+      "title": "Atatürk İlkeleri ve İnkılap Tarihi",
+      "category": "general-culture",
+      "questionFile": "cards/ataturk.json",
+      "status": "demo"
+    },
+    "genel-kultur-diger": {
+      "title": "Genel Kültür",
+      "category": "general-culture",
+      "questionFile": "cards/genel-kultur.json",
+      "status": "demo"
+    },
+    "yonetim-insan-iliskileri": {
+      "title": "Yönetimde İnsan İlişkileri ve İletişim",
+      "category": "general-culture",
+      "questionFile": "sorular/questions-yonetim-insan-iliskileri.json",
+      "status": "demo"
+    },
+    "yonetim-liderlik": {
+      "title": "Yönetim, Liderlik ve Organizasyon",
+      "category": "general-culture",
+      "questionFile": "sorular/questions-yonetim-liderlik.json",
+      "status": "demo"
+    },
+    "yonetimde-etik": {
+      "title": "Yönetimde Etik",
+      "category": "general-culture",
+      "questionFile": "sorular/questions-yonetimde-etik.json",
+      "status": "demo"
+    },
+    "anayasa": {
+      "title": "T.C. Anayasası",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-anayasa.json",
+      "status": "demo"
+    },
+    "657-kanun": {
+      "title": "657 Sayılı Devlet Memurları Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-657.json",
+      "status": "real"
+    },
+    "4483-kanun": {
+      "title": "4483 Sayılı Kanun",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-4483.json",
+      "status": "demo"
+    },
+    "5442-kanun": {
+      "title": "5442 Sayılı İl İdaresi Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-5442.json",
+      "status": "demo"
+    },
+    "4982-kanun": {
+      "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-4982-alone.json",
+      "status": "demo"
+    },
+    "5018-kanun": {
+      "title": "5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-5018.json",
+      "status": "demo"
+    },
+    "2886-kanun": {
+      "title": "2886 Sayılı Devlet İhale Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-2886.json",
+      "status": "demo"
+    },
+    "4734-kanun": {
+      "title": "4734 Sayılı Kamu İhale Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-4734.json",
+      "status": "demo"
+    },
+    "4735-kanun": {
+      "title": "4735 Sayılı Kamu İhale Sözleşmeleri Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-4735.json",
+      "status": "demo"
+    },
+    "4688-kanun": {
+      "title": "4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+      "category": "general-legislation",
+      "questionFile": "sorular/questions-4688.json",
+      "status": "demo"
+    },
+    "1739-kanun": {
+      "title": "1739 Sayılı Milli Eğitim Temel Kanunu",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-1739.json",
+      "status": "real"
+    },
+    "222-kanun": {
+      "title": "222 Sayılı İlköğretim ve Eğitim Kanunu",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-222.json",
+      "status": "real"
+    },
+    "652-khk": {
+      "title": "652 Sayılı KHK",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-652-khk.json",
+      "status": "demo"
+    },
+    "5580-kanun": {
+      "title": "5580 Sayılı Özel Öğretim Kurumları Kanunu",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-5580.json",
+      "status": "demo"
+    },
+    "bagli-mevzuat-memur": {
+      "title": "Bağlı Mevzuat (Memur)",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-bagli-mevzuat-memur.json",
+      "status": "demo",
+      "kadrolar": ["memur"]
+    },
+    "bagli-mevzuat-sef": {
+      "title": "Bağlı Mevzuat (Şef)",
+      "category": "meb-legislation",
+      "questionFile": "sorular/questions-bagli-mevzuat-sef.json",
+      "status": "demo",
+      "kadrolar": ["sef"]
+    }
+  }
+}

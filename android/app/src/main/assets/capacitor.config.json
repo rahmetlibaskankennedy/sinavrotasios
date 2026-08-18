@@ -1,0 +1,16 @@
+{
+	"appId": "com.sinavrotasi.mebgys",
+	"appName": "SınavRotası",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchAutoHide": false
+		},
+		"Keyboard": {
+			"resize": "none"
+		}
+	}
+}

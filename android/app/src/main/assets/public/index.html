@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#061229">
+  <title>SınavRotası</title>
+  <link rel="stylesheet" href="style.css?v=23">
+</head>
+<body>
+  <!-- ================= KADRO SEÇİM KAPISI ================= -->
+<div class="role-gate" id="roleGate" aria-hidden="true">
+  <div class="role-gate-card">
+    <div class="role-gate-dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+    <h1>Hedefini Seç</h1>
+    <p>Sana uygun çalışma planını hazırlayalım.</p>
+    <div class="role-gate-list" id="roleGateList"></div>
+    <button class="role-gate-cta" id="roleGateContinue" type="button" disabled>Devam Et</button>
+  </div>
+</div>
+  <!-- ================= UYGULAMA (giriş yapmış kullanıcı) ================= -->
+  <div class="phone" id="appPhone">
+    <div class="scroll-area" id="scroll-area">
+      <header class="app-header">
+        <div class="topbar">
+          <div class="topbar-user">
+            <div class="avatar-wrap"><img id="userAvatar" src="images/default-avatar.svg" alt="Kullanıcı"><span class="avatar-dot"></span></div>
+            <div class="user-text">
+              <h1>Merhaba, <b id="userFirstName">Aday</b>!</h1>
+              <p>Bugün harika bir gün, hedeflerine<br>bir adım daha yaklaş!</p>
+              <span class="role-badge" id="userRoleBadge"></span>
+          </div>
+          </div>
+          <div class="topbar-actions">
+              <button class="round-btn" id="openSearchButton" aria-label="Ara" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></button>
+          </div>
+        </div>
+        <div class="goal-card">
+          <div class="goal-card-top">
+            <div class="goal-ring-wrap"><svg class="circular-chart" viewBox="0 0 36 36"><path class="circle-bg" d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831"/><path class="circle" id="dailyGoalCircle" stroke-dasharray="0, 100" d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831"/></svg><div class="ring-content"><span id="dailyGoalPercent">%0</span></div></div>
+            <div class="goal-copy">
+              <h3>Günlük Çalışma İlerlemesi</h3>
+              <p id="dailyGoalMessage">İlk soruyla günlük hedefini başlat.</p>
+              <div class="progress-wrap">
+                <div class="progress"><i id="dailyProgressFill" style="width:0%"></i></div>
+                <div class="goal-line">
+                  <span class="count"><strong id="dailySolvedCount">0</strong> / <span id="dailyGoalTotal">20</span> soru</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main id="app" class="app-scroll"></main>
+    </div>
+
+    <nav class="bottom-nav" aria-label="Ana menü">
+      <button data-nav="home" class="active" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span>Ana Sayfa</span></button>
+      <button data-nav="bank" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg><span>Denemeler</span></button>
+      <button data-nav="cards" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="7" width="13" height="13" rx="2" transform="rotate(-8 10.5 13.5)"/><rect x="7" y="4" width="13" height="13" rx="2"/></svg><span>Kartlarım</span></button>
+      <button data-nav="mistakes" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m9.5 9.5 5 5m0-5-5 5"/></svg><span>Yanlışlarım</span></button>
+      <button data-nav="profile" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>Profil</span></button>
+    </nav>
+
+    <section class="bottom-sheet" id="routeSheet" aria-hidden="true" aria-label="Bugünkü rota ayarları">
+      <div class="sheet-handle"></div>
+      <div class="sheet-head">
+        <div>
+          <h3 class="sheet-title"><svg class="sheet-title-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2.1 4.9-4.9 2.1 2.1-4.9 4.9-2.1Z"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2"/></svg><span>Bugünkü Rota</span></h3>
+          <p>Önerilen plan hazır. İstersen başlamadan önce özelleştir.</p>
+        </div>
+        <button class="sheet-close" id="closeRouteSheet" type="button" aria-label="Paneli kapat">×</button>
+      </div>
+
+      <div class="sheet-section">
+        <span class="sheet-label">PRATİK TÜRÜ</span>
+        <div class="mode-grid" id="modeGrid">
+          <button class="mode-option selected" data-mode="Sana Özel Karma" type="button">
+            <strong><svg class="option-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 1.1 3.1L16 7.2l-2.9 1.1L12 11l-1.1-2.7L8 7.2l2.9-1.1L12 3Z"/><path d="m18 13 .7 2 2 .7-2 .7-.7 2-.7-2-2-.7 2-.7.7-2Z"/><path d="m6 14 .8 2.2L9 17l-2.2.8L6 20l-.8-2.2L3 17l2.2-.8L6 14Z"/></svg><span>Sana Özel</span></strong>
+            <span>Zayıf ve eksik konularına göre</span>
+          </button>
+          <button class="mode-option" data-mode="Zayıf Konular" type="button">
+            <strong><svg class="option-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 7 6 6 4-4 8 8"/><path d="M15 17h6v-6"/></svg><span>Zayıf Konular</span></strong>
+            <span>En çok yanlış yaptığın alanlar</span>
+          </button>
+          <button class="mode-option" data-mode="Son Çalışılan Konu" type="button">
+            <strong><svg class="option-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l3 2"/></svg><span>Son Çalışılan</span></strong>
+            <span>Kaldığın konudan devam et</span>
+          </button>
+          <button class="mode-option" data-mode="Rastgele Karma" type="button">
+            <strong><svg class="option-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 3h5v5"/><path d="m21 3-7 7"/><path d="M4 7h3l10 10h4"/><path d="M16 21h5v-5"/><path d="m21 21-4-4"/><path d="M4 17h3l3-3"/></svg><span>Rastgele Karma</span></strong>
+            <span>Tüm konulardan dengeli seçim</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="sheet-section">
+        <span class="sheet-label">SORU SAYISI</span>
+        <div class="choice-row" id="questionChoices">
+          <button class="choice" data-questions="10" type="button">10</button>
+          <button class="choice selected" data-questions="20" type="button">20</button>
+          <button class="choice" data-questions="30" type="button">30</button>
+          <button class="choice" data-questions="50" type="button">50</button>
+        </div>
+      </div>
+
+      <div class="sheet-section">
+        <span class="sheet-label">SÜRE MODU</span>
+        <div class="choice-row" id="timeChoices">
+          <button class="choice selected" data-time="Süreli" type="button"><svg class="choice-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>Süreli</span></button>
+          <button class="choice" data-time="Süresiz" type="button"><svg class="choice-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 8c-2.5 0-4.5 1.8-4.5 4s2 4 4.5 4c3.5 0 5.5-8 9-8 2.5 0 4.5 1.8 4.5 4s-2 4-4.5 4c-3.5 0-5.5-8-9-8Z"/></svg><span>Süresiz</span></button>
+        </div>
+      </div>
+
+      <div class="sheet-summary">
+        <div>
+          <span>SEÇİLEN ROTA</span>
+          <strong id="summaryMode">Sana Özel Karma</strong>
+        </div>
+        <div style="text-align:right">
+          <span>TAHMİNİ SÜRE</span>
+          <strong id="summaryDuration">18 dakika</strong>
+        </div>
+      </div>
+
+      <button class="sheet-primary" id="startRouteButton" type="button">20 Soruluk Rotayı Başlat</button>
+    </section>
+
+    <div class="toast" id="toast">Rota hazırlanıyor…</div>
+
+    <div class="quiz-nav-overlay" id="premiumModalOverlay">
+      <div class="quiz-nav-sheet report-modal-sheet">
+        <div class="quiz-nav-head">
+          <strong>Premium'a Geç</strong>
+          <button type="button" id="premiumModalClose" aria-label="Kapat">×</button>
+        </div>
+        <p class="report-modal-desc">Bu içerik premium üyelere özel. Devam etmek için bir plan seç.</p>
+        <div class="premium-purchase-options" style="display:flex; flex-direction:column; gap:10px; margin-top:16px">
+          <button class="premium-buy-btn" type="button" data-product-id="premium_1ay" data-label="1 Ay" data-fallback-price="249₺">
+            <span class="premium-btn-label">1 Ay</span>
+            <span class="premium-btn-price">249₺</span>
+          </button>
+          <button class="premium-buy-btn" type="button" data-product-id="premium_2ay" data-label="2 Ay" data-fallback-price="449₺">
+            <span class="premium-btn-label">2 Ay</span>
+            <span class="premium-btn-price">449₺</span>
+          </button>
+          <button class="premium-buy-btn featured" type="button" data-product-id="premium_3ay" data-label="3 Ay" data-fallback-price="599₺">
+            <span class="premium-btn-label">3 Ay <span class="premium-btn-badge">En avantajlı</span></span>
+            <span class="premium-btn-price">599₺</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="topic-backdrop" id="topicBackdrop"></div>
+
+    <section class="topic-sheet" id="topicSheet" aria-hidden="true" aria-label="Konu başlıkları">
+      <div class="topic-handle"></div>
+      <div class="topic-sheet-head">
+        <div class="topic-heading-wrap">
+          <div class="topic-heading-icon" id="topicHeadingIcon"></div>
+          <div>
+            <span class="topic-eyebrow" id="topicEyebrow">KONU KATEGORİSİ</span>
+            <h3 id="topicSheetTitle">Genel Mevzuat</h3>
+            <p id="topicSheetSubtitle">Çalışmak istediğin başlığı seç.</p>
+          </div>
+        </div>
+        <button class="topic-close" id="closeTopicSheet" type="button" aria-label="Konu panelini kapat">×</button>
+      </div>
+      <div id="topicBreadcrumbWrap"></div>
+      <div class="topic-progress-card">
+        <div>
+          <span>Kategori ilerlemesi</span>
+          <strong id="topicProgressText">%0 tamamlandı</strong>
+        </div>
+        <div class="topic-progress-track">
+          <span id="topicProgressBar"></span>
+        </div>
+      </div>
+      <div class="topic-list" id="topicList"></div>
+    </section>
+
+    <section class="bottom-sheet" id="searchSheet" aria-hidden="true" aria-label="Arama">
+      <div class="sheet-handle"></div>
+      <div class="sheet-head">
+        <div>
+          <h3 class="sheet-title"><svg class="sheet-title-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span>Ara</span></h3>
+          <p>Konu, kanun veya kategori ara.</p>
+        </div>
+        <button class="sheet-close" id="closeSearchSheet" type="button" aria-label="Aramayı kapat">×</button>
+      </div>
+      <div class="search-input-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="search" id="searchInput" name="sinavrotasi-search" class="search-input" placeholder="Örn. disiplin cezaları, izin süreleri..." autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" inputmode="search" enterkeyhint="search">
+      </div>
+      <div class="topic-list search-results-list" id="searchResultsList"></div>
+    </section>
+  </div>
+
+  <script src="vendor/supabase/supabase.js"></script>
+  <script src="vendor/capacitor/capacitor.js"></script>
+  <script src="vendor/capacitor/app.js"></script>
+  <script src="vendor/capacitor/haptics.js"></script>
+  <script src="vendor/capacitor/status-bar.js"></script>
+  <script src="vendor/capacitor/splash-screen.js"></script>
+  <script src="vendor/capacitor/keyboard.js"></script>
+  <script src="native-ux.js"></script>
+  <script src="supabaseClient.js"></script>
+  <script src="content-repo.js?v=2"></script>
+  <script src="progress-sync.js?v=18"></script>
+  <!-- N-04 fix: auth-common.js tüm sayfalarda yüklenmeli.
+       native-ux.js appUrlOpen'ı yakalayıp nativeux:url event'i fırlatır;
+       dinleyici (auth-common.js) bu sayfada yoksa cold-start auth callback'i
+       sessizce kaybolur. app-guard.js'ten önce yükleniyor. -->
+  <script src="auth-common.js"></script>
+  <script src="app-guard.js"></script>
+  <script src="app.js?v=131"></script>
+</body>
+</html>
