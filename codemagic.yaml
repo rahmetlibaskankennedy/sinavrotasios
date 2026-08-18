@@ -26,7 +26,8 @@ workflows:
 
       - name: Show Xcode project
         script: |
-          find ios -maxdepth 3 -type f \( -name "*.xcodeproj" -o -name "*.xcworkspace" \) -print
+          echo "Xcode project files:"
+          find ios -maxdepth 4 -type d \( -name "*.xcodeproj" -o -name "*.xcworkspace" \) -print
 
       - name: Build unsigned iOS Simulator app
         script: |
@@ -42,6 +43,109 @@ workflows:
             CODE_SIGN_IDENTITY="" \
             build
 
+      - name: Find available iPhone Simulator
+        script: |
+          echo "Available simulators:"
+          xcrun simctl list devices available
+
+          DEVICE_ID=$(xcrun simctl list devices available \
+            | grep "iPhone" \
+            | head -1 \
+            | grep -oE '[0-9A-F-]{36}')
+
+          if [ -z "$DEVICE_ID" ]; then
+            echo "ERROR: No available iPhone Simulator found."
+            exit 1
+          fi
+
+          echo "Selected Simulator: $DEVICE_ID"
+          echo "$DEVICE_ID" > /tmp/simulator_id
+
+      - name: Boot iOS Simulator
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          echo "Booting simulator: $DEVICE_ID"
+
+          xcrun simctl boot "$DEVICE_ID" || true
+          xcrun simctl bootstatus "$DEVICE_ID" -b
+
+          echo "Simulator boot completed."
+
+      - name: Verify generated app
+        script: |
+          APP_PATH="build/ios/Build/Products/Debug-iphonesimulator/App.app"
+
+          echo "Checking app at:"
+          echo "$APP_PATH"
+
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: App.app was not generated."
+            find build/ios -maxdepth 6 -name "*.app" -print || true
+            exit 1
+          fi
+
+          echo "App found successfully."
+
+      - name: Install app on Simulator
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          APP_PATH="build/ios/Build/Products/Debug-iphonesimulator/App.app"
+
+          echo "Installing SınavRotası..."
+
+          xcrun simctl install "$DEVICE_ID" "$APP_PATH"
+
+          echo "Installation completed."
+
+      - name: Launch SınavRotası
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          echo "Launching com.sinavrotasi.mebgys..."
+
+          LAUNCH_RESULT=$(xcrun simctl launch "$DEVICE_ID" com.sinavrotasi.mebgys)
+
+          echo "$LAUNCH_RESULT"
+
+          echo "Launch command completed."
+
+      - name: Wait for application startup
+        script: |
+          echo "Waiting for application startup..."
+          sleep 10
+
+      - name: Capture iOS screenshot
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          mkdir -p build/screenshots
+
+          xcrun simctl io "$DEVICE_ID" screenshot \
+            build/screenshots/sinavrotasi-ios.png
+
+          echo "Screenshot created:"
+          ls -lh build/screenshots/sinavrotasi-ios.png
+
+      - name: Show installed applications
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          echo "Checking SınavRotası installation..."
+
+          xcrun simctl listapps "$DEVICE_ID" \
+            | grep -A 10 -B 2 "com.sinavrotasi.mebgys" \
+            || true
+
+      - name: Shutdown Simulator
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          xcrun simctl shutdown "$DEVICE_ID" || true
+
+          echo "Simulator shutdown completed."
+
     artifacts:
       - build/ios/Build/Products/Debug-iphonesimulator/*.app
       - build/ios/Build/Products/Debug-iphonesimulator/**/*.app
+      - build/screenshots/*.png
