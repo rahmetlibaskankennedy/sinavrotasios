@@ -1,0 +1,52 @@
+# Derleme / bağımlılık çıktıları
+node_modules/
+android/app/build/
+android/build/
+android/.gradle/
+.gradle/
+.idea/
+*.iml
+
+# İmzalama anahtarları ve kimlik bilgileri — asla repo/pakete girmemeli
+*.jks
+*.keystore
+key/
+local.properties
+supabase*sifre*.txt
+supabase*şifre*.txt
+
+# Dağıtım çıktıları
+*.apk
+*.aab
+
+# C-01 düzeltmesi (13.08.2026): soru/cevap artık YALNIZCA Supabase üzerinden
+# (RLS + is_premium() korumalı) sunuluyor; içerik-repo.js zaten bu dosyaları
+# hiç fetch etmiyor (bkz. scripts/check_no_answer_leak.js). www/ ve Android
+# assets altına answerIndex içeren statik kopya ASLA elle kopyalanmamalı —
+# kök dizindeki sorular/ ve cards/ sadece scripts/generate_seed.py için
+# seed-kaynağıdır, istemci paketine hiçbir zaman girmemeli.
+www/sorular/
+www/cards/
+android/app/src/main/assets/public/sorular/
+android/app/src/main/assets/public/cards/
+
+# Log / geçici dosyalar
+sheetlog.txt
+*.log
+
+# iOS / macOS / Codemagic
+.DS_Store
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+*.xcarchive
+*.ipa
+*.p12
+*.mobileprovision
+.env
+.env.*
+!.env.example
+
+# Android local signing/config
+android/keystore.properties
+android/local.properties
