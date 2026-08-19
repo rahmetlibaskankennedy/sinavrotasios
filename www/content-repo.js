@@ -301,6 +301,79 @@ const ContentRepo = (() => {
     return { cards: data, totalCount: totalCount ?? data.length };
   }
 
+  // ---- Kart tekrar takibi (Leitner kutu sistemi) -------------------------
+  // flashcard_progress: (user_id, flashcard_id) PK, RLS ile kullanıcı sadece
+  // kendi satırlarını görür/yazar. box_level 0-4, next_review_at o kutunun
+  // aralığına göre hesaplanır. Sadece gerçek `flashcards` tablosundan gelen
+  // kartlar için kullanılır (id alanı flashcards.id'ye karşılık gelir);
+  // questions'tan türetilen kartların stabil bir flashcard id'si yok.
+  const LEITNER_INTERVALS_DAYS = [1, 3, 7, 14, 30]; // kutu 0..4
+
+  function nextReviewFromBox(boxLevel) {
+    const days = LEITNER_INTERVALS_DAYS[Math.min(boxLevel, LEITNER_INTERVALS_DAYS.length - 1)];
+    return new Date(Date.now() + days * 24 * 60 * 60 * 1000).toISOString();
+  }
+
+  async function fetchFlashcardProgress(deckId) {
+    const user = window.currentUser;
+    if (!user) return {};
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .select('flashcard_id, box_level, next_review_at, last_rating, review_count')
+      .eq('deck_id', deckId);
+    if (error) throw error;
+    const map = {};
+    (data || []).forEach(row => { map[row.flashcard_id] = row; });
+    return map;
+  }
+
+  // rating: 'zor' | 'orta' | 'kolay'. currentProgress: fetchFlashcardProgress()
+  // sonucundan o karta ait satır (yoksa undefined) — box_level/review_count
+  // buradan devam ettirilir, aksi halde her puanlamada sıfırdan başlardı.
+  async function rateFlashcard(flashcardId, deckId, rating, currentProgress) {
+    const user = window.currentUser;
+    if (!user) return null;
+    let boxLevel = currentProgress?.box_level || 0;
+    if (rating === 'zor') boxLevel = 0;
+    else if (rating === 'orta') boxLevel = Math.min(boxLevel + 1, LEITNER_INTERVALS_DAYS.length - 1);
+    else if (rating === 'kolay') boxLevel = Math.min(boxLevel + 2, LEITNER_INTERVALS_DAYS.length - 1);
+    const nowIso = new Date().toISOString();
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .upsert({
+        user_id: user.id,
+        flashcard_id: flashcardId,
+        deck_id: deckId,
+        box_level: boxLevel,
+        next_review_at: nextReviewFromBox(boxLevel),
+        last_reviewed_at: nowIso,
+        last_rating: rating,
+        review_count: (currentProgress?.review_count || 0) + 1,
+        updated_at: nowIso
+      }, { onConflict: 'user_id,flashcard_id' })
+      .select()
+      .maybeSingle();
+    if (error) throw error;
+    return data;
+  }
+
+  // Bir kullanıcının, verilen flashcard destelerinde bugün (veya daha önce)
+  // tekrarı gelen kart sayısını döner. deckIds: string[]. Dönüş: {deckId: count}
+  async function fetchDueFlashcardCounts(deckIds) {
+    const user = window.currentUser;
+    if (!user || !deckIds.length) return {};
+    const nowIso = new Date().toISOString();
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .select('deck_id, next_review_at')
+      .in('deck_id', deckIds)
+      .lte('next_review_at', nowIso);
+    if (error) throw error;
+    const counts = {};
+    (data || []).forEach(row => { counts[row.deck_id] = (counts[row.deck_id] || 0) + 1; });
+    return counts;
+  }
+
   // ---- Bağımsız flashcard desteleri (card_decks: deck_type='flashcard') ----
   // Bunlar quiz soru bankasından TÜRETİLMEMİŞ, ayrıca yazılmış soru-cevap
   // kartları (cards/*.json'dan seed edildi). fetchCardsByTopicId'nin aksine
@@ -382,5 +455,5 @@ const ContentRepo = (() => {
     return result;
   }
 
-  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, fetchQuestionCount, fetchQuestionCountByTopicId };
+  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts };
 })();

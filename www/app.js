@@ -834,7 +834,7 @@ function renderCardCategoryLevel(categoryKey) {
     const info = active ? 'Aktif kart seti' : 'Yakında eklenecek';
     return `<article class="topic-item ${active ? '' : 'is-disabled'}" data-card-doc-index="${index}" role="button" tabindex="0">
       <div class="topic-number">${String(index + 1).padStart(2, '0')}</div>
-      <div class="topic-copy"><h4>${escapeHtml(doc.title)}</h4><p>${info}</p></div>
+      <div class="topic-copy"><h4>${escapeHtml(doc.title)}</h4><p class="topic-due-info">${info}</p></div>
       <div class="topic-arrow">${svg('arrow')}</div>
     </article>`;
   }).join('');
@@ -848,12 +848,33 @@ function renderCardCategoryLevel(categoryKey) {
     element.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') open(); });
   });
   topicSheet.scrollTop = 0;
+
+  // Faz 4: her gerçek flashcard destesi (cardFile) için "bugün N kart tekrar"
+  // rozetini asenkron doldur — deste listesi kendisi senkron render edildi,
+  // rozetler geldiğinde ilgili satırın alt metnini günceller.
+  const flashcardDocs = category.documents
+    .map((doc, index) => ({ doc, index }))
+    .filter(({ doc }) => doc.cardFile);
+  if (flashcardDocs.length && window.currentUser) {
+    ContentRepo.fetchDueFlashcardCounts(flashcardDocs.map(({ doc }) => doc.id))
+      .then(counts => {
+        flashcardDocs.forEach(({ doc, index }) => {
+          const due = counts[doc.id] || 0;
+          if (!due) return;
+          const el = topicList.querySelector(`[data-card-doc-index="${index}"] .topic-due-info`);
+          if (el) el.textContent = `Bugün tekrar: ${due} kart`;
+        });
+      })
+      .catch(() => {}); // sessizce geç — rozet süsleme, kritik değil
+  }
 }
 
 async function loadCardDeck(doc) {
   if (cardDecks.has(doc.id)) return cardDecks.get(doc.id);
   let cards;
   let totalCount;
+  let progressMap = {};
+  let isRealFlashcardDeck = false;
   if (doc.topicId) {
     const data = await ContentRepo.fetchCardsByTopicId(doc.topicId);
     cards = Array.isArray(data.cards) ? data.cards : [];
@@ -862,16 +883,25 @@ async function loadCardDeck(doc) {
     // bu farktan tetiklenir (flashcard destelerindeki mantığın aynısı).
     totalCount = typeof data.totalCount === 'number' ? data.totalCount : cards.length;
   } else if (doc.cardFile) {
+    isRealFlashcardDeck = true;
     const data = await ContentRepo.fetchFlashcardsByPath(doc.cardFile);
     cards = Array.isArray(data.cards) ? data.cards : [];
     // RLS ücretsiz kullanıcıya sadece ilk 5 kartı döner; totalCount gerçek
     // deste boyutunu (get_flashcard_count RPC'siyle) taşır — aradaki fark
     // varsa "X kart daha premium'da" mesajı göstereceğiz.
     totalCount = typeof data.totalCount === 'number' ? data.totalCount : cards.length;
+    // Leitner tekrar takibi: sadece gerçek flashcards.id'si olan (questions'tan
+    // türetilmemiş) kartlarda mümkün. Giriş yapmamış kullanıcı için boş kalır,
+    // bu durumda kartlar normal karışık sırayla gösterilir (aşağıya bakınız).
+    try {
+      progressMap = await ContentRepo.fetchFlashcardProgress(doc.id);
+    } catch (error) {
+      progressMap = {}; // ilerleme çekilemezse sessizce normal moda düş
+    }
   } else {
     throw new Error('Bu kaynak için kart seti henüz eklenmedi.');
   }
-  const result = { cards, totalCount };
+  const result = { cards, totalCount, progressMap, isRealFlashcardDeck };
   cardDecks.set(doc.id, result);
   return result;
 }
@@ -885,13 +915,32 @@ async function openCardDeck(doc, categoryKey) {
   if (!doc.free && !requirePremiumOrWarn()) return;
   try {
     showToast('Kartlar hazırlanıyor…');
-    const { cards, totalCount } = await loadCardDeck(doc);
+    const { cards, totalCount, progressMap, isRealFlashcardDeck } = await loadCardDeck(doc);
     if (!cards.length) return showToast('Bu kaynak için henüz kart bulunmuyor.');
-    const shuffled = shuffle(cards);
-    if (totalCount > cards.length) {
-      shuffled.push({ upsell: true, remaining: totalCount - cards.length });
+    let ordered;
+    if (isRealFlashcardDeck && Object.keys(progressMap).length) {
+      // Leitner: tekrarı gelmiş (next_review_at geçmişte/şimdi) kartlar önce,
+      // sonra hiç görülmemiş kartlar, sonra henüz tekrar zamanı gelmemişler.
+      const now = Date.now();
+      const withMeta = cards.map(card => {
+        const progress = progressMap[card.id];
+        const dueTime = progress ? new Date(progress.next_review_at).getTime() : -1; // hiç görülmemiş = en öncelikli
+        return { card, dueTime, seen: !!progress };
+      });
+      withMeta.sort((a, b) => {
+        const aDue = !a.seen || a.dueTime <= now;
+        const bDue = !b.seen || b.dueTime <= now;
+        if (aDue !== bDue) return aDue ? -1 : 1;
+        return a.dueTime - b.dueTime;
+      });
+      ordered = withMeta.map(x => x.card);
+    } else {
+      ordered = shuffle(cards);
     }
-    state.cardStudy = { doc, categoryKey, cards: shuffled, index: 0, flipped: false };
+    if (totalCount > cards.length) {
+      ordered.push({ upsell: true, remaining: totalCount - cards.length });
+    }
+    state.cardStudy = { doc, categoryKey, cards: ordered, index: 0, flipped: false, progressMap: progressMap || {}, isRealFlashcardDeck };
     renderCardStudy();
   } catch (error) {
     showToast(error.message || 'Kartlar yüklenemedi.');
@@ -951,6 +1000,16 @@ function renderCardStudy() {
   applySheetHeader({ title: study.doc.title, subtitle: `${study.index + 1} / ${study.cards.length}`, eyebrow: 'BİLGİ KARTLARI', icon: 'gavel', iconClass: category.iconClass });
   renderBreadcrumb(category.title, () => { state.cardStudy = null; topicSheet.classList.remove('card-study-active'); renderCardCategoryLevel(study.categoryKey); });
   setSheetProgress('', Math.round(((study.index + 1) / study.cards.length) * 100));
+  // Leitner puanlama butonları: sadece gerçek flashcard destesinde, kullanıcı
+  // giriş yapmışsa ve kart geri çevrilmişse gösterilir. topicId'den (quiz-derived)
+  // gelen kartlarda stabil bir flashcards.id olmadığı için gösterilmez.
+  const canRate = study.isRealFlashcardDeck && window.currentUser && current.id != null;
+  const ratingHtml = (study.flipped && canRate) ? `
+      <div class="card-rating-row" role="group" aria-label="Bu kartı ne kadar bildin?">
+        <button class="card-rating-btn card-rating-zor" type="button" data-rating="zor">Zor</button>
+        <button class="card-rating-btn card-rating-orta" type="button" data-rating="orta">Orta</button>
+        <button class="card-rating-btn card-rating-kolay" type="button" data-rating="kolay">Kolay</button>
+      </div>` : '';
   topicList.innerHTML = `
     <div class="card-study-wrap">
       <div class="flip-card ${study.flipped ? 'flipped' : ''}" id="flipCard">
@@ -963,10 +1022,11 @@ function renderCardStudy() {
           </div>
           <div class="flip-card-face flip-card-back">
             <p class="flip-card-text">${escapeHtml(current.answer)}</p>
-            <span class="flip-card-hint">Kartı geri çevirmek için tıkla</span>
+            <span class="flip-card-hint">${canRate ? 'Ne kadar bildiğini işaretle' : 'Kartı geri çevirmek için tıkla'}</span>
           </div>
         </div>
       </div>
+      ${ratingHtml}
       <div class="card-study-nav">
         <button class="card-nav-btn" id="cardPrevButton" type="button" ${study.index === 0 ? 'disabled' : ''}>${svg('arrowLeft')}</button>
         <span class="card-nav-count">${study.index + 1} / ${study.cards.length}</span>
@@ -983,6 +1043,29 @@ function renderCardStudy() {
   });
   document.getElementById('cardNextButton')?.addEventListener('click', () => {
     if (study.index < study.cards.length - 1) { study.index += 1; study.flipped = false; renderCardStudy(); }
+  });
+  document.querySelectorAll('.card-rating-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const rating = btn.dataset.rating;
+      const priorProgress = study.progressMap[current.id];
+      haptic(16);
+      try {
+        const updated = await ContentRepo.rateFlashcard(current.id, study.doc.id, rating, priorProgress);
+        if (updated) study.progressMap[current.id] = updated;
+      } catch (error) {
+        showToast('Tekrar durumu kaydedilemedi, ama devam edebilirsin.');
+      }
+      if (study.index < study.cards.length - 1) {
+        study.index += 1;
+        study.flipped = false;
+        renderCardStudy();
+      } else {
+        showToast('Bu desteyi bitirdin! 🎉');
+        state.cardStudy = null;
+        topicSheet.classList.remove('card-study-active');
+        renderCardCategoryLevel(study.categoryKey);
+      }
+    });
   });
   topicSheet.scrollTop = 0;
 }

@@ -27,14 +27,28 @@ const ContentRepo = (() => {
   // diğer fonksiyonlar bu filtreyi uygulamaz; onlar hâlâ tüm topics satırlarına
   // erişebilir, yani deneme sınavı akışı bu filtreden etkilenmez.
   async function fetchCatalogue() {
-    const [{ data: categories, error: catErr }, { data: topics, error: topicErr }] = await Promise.all([
+    const [{ data: categories, error: catErr }, { data: topics, error: topicErr }, { data: liveCounts, error: countErr }] = await Promise.all([
       client.from('categories').select('*').order('sort_order'),
-      client.from('topics').select('*').eq('show_in_catalog', true).order('sort_order')
+      client.from('topics').select('*').eq('show_in_catalog', true).order('sort_order'),
+      client.from('topic_question_counts').select('topic_id, toplam_soru')
     ]);
     if (catErr) throw new Error(`Kategoriler yüklenemedi: ${catErr.message}`);
     if (topicErr) throw new Error(`Konular yüklenemedi: ${topicErr.message}`);
     if (!Array.isArray(categories)) throw new Error('Kategoriler beklenmeyen formatta döndü.');
     if (!Array.isArray(topics)) throw new Error('Konular beklenmeyen formatta döndü.');
+    // NOT (2026-08-19 düzeltme): topics.question_count sütunu 151 konudan
+    // sadece 7'sinde doluydu ve gerçek soru sayısıyla senkron değildi — bu
+    // yüzden Kartlar ekranında (getCardCatalogue, app.js) "Genel Mevzuat"
+    // dışındaki hiçbir kategoride kart görünmüyordu. topic_question_counts
+    // view'ı (zaten DB'de var, alt konuları da dahil ederek gerçek zamanlı
+    // hesaplıyor) burada devreye alınıyor; countErr varsa (view erişilemezse)
+    // sessizce eski sütuna düşülüyor, katalog hiç kırılmasın diye.
+    const liveCountMap = new Map();
+    if (!countErr && Array.isArray(liveCounts)) {
+      liveCounts.forEach(row => liveCountMap.set(row.topic_id, row.toplam_soru));
+    } else if (countErr) {
+      console.warn('topic_question_counts okunamadı, eski question_count sütununa düşülüyor:', countErr.message);
+    }
 
     const byParent = new Map();
     topics.forEach(t => {
@@ -78,6 +92,8 @@ const ContentRepo = (() => {
     if (row.article_range && String(row.article_range).trim() !== '0') node.articleRange = row.article_range;
     if (row.article_count != null) node.articleCount = row.article_count;
     if (row.question_count != null) node.questionCount = row.question_count;
+    const liveCount = liveCountMap.get(row.id);
+    if (liveCount != null) node.questionCount = liveCount;
     if (row.kadrolar?.length) node.kadrolar = row.kadrolar;
     if (row.source_file) node.questionFile = row.source_file;
     if (row.summary) node.summary = row.summary;
@@ -285,6 +301,79 @@ const ContentRepo = (() => {
     return { cards: data, totalCount: totalCount ?? data.length };
   }
 
+  // ---- Kart tekrar takibi (Leitner kutu sistemi) -------------------------
+  // flashcard_progress: (user_id, flashcard_id) PK, RLS ile kullanıcı sadece
+  // kendi satırlarını görür/yazar. box_level 0-4, next_review_at o kutunun
+  // aralığına göre hesaplanır. Sadece gerçek `flashcards` tablosundan gelen
+  // kartlar için kullanılır (id alanı flashcards.id'ye karşılık gelir);
+  // questions'tan türetilen kartların stabil bir flashcard id'si yok.
+  const LEITNER_INTERVALS_DAYS = [1, 3, 7, 14, 30]; // kutu 0..4
+
+  function nextReviewFromBox(boxLevel) {
+    const days = LEITNER_INTERVALS_DAYS[Math.min(boxLevel, LEITNER_INTERVALS_DAYS.length - 1)];
+    return new Date(Date.now() + days * 24 * 60 * 60 * 1000).toISOString();
+  }
+
+  async function fetchFlashcardProgress(deckId) {
+    const user = window.currentUser;
+    if (!user) return {};
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .select('flashcard_id, box_level, next_review_at, last_rating, review_count')
+      .eq('deck_id', deckId);
+    if (error) throw error;
+    const map = {};
+    (data || []).forEach(row => { map[row.flashcard_id] = row; });
+    return map;
+  }
+
+  // rating: 'zor' | 'orta' | 'kolay'. currentProgress: fetchFlashcardProgress()
+  // sonucundan o karta ait satır (yoksa undefined) — box_level/review_count
+  // buradan devam ettirilir, aksi halde her puanlamada sıfırdan başlardı.
+  async function rateFlashcard(flashcardId, deckId, rating, currentProgress) {
+    const user = window.currentUser;
+    if (!user) return null;
+    let boxLevel = currentProgress?.box_level || 0;
+    if (rating === 'zor') boxLevel = 0;
+    else if (rating === 'orta') boxLevel = Math.min(boxLevel + 1, LEITNER_INTERVALS_DAYS.length - 1);
+    else if (rating === 'kolay') boxLevel = Math.min(boxLevel + 2, LEITNER_INTERVALS_DAYS.length - 1);
+    const nowIso = new Date().toISOString();
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .upsert({
+        user_id: user.id,
+        flashcard_id: flashcardId,
+        deck_id: deckId,
+        box_level: boxLevel,
+        next_review_at: nextReviewFromBox(boxLevel),
+        last_reviewed_at: nowIso,
+        last_rating: rating,
+        review_count: (currentProgress?.review_count || 0) + 1,
+        updated_at: nowIso
+      }, { onConflict: 'user_id,flashcard_id' })
+      .select()
+      .maybeSingle();
+    if (error) throw error;
+    return data;
+  }
+
+  // Bir kullanıcının, verilen flashcard destelerinde bugün (veya daha önce)
+  // tekrarı gelen kart sayısını döner. deckIds: string[]. Dönüş: {deckId: count}
+  async function fetchDueFlashcardCounts(deckIds) {
+    const user = window.currentUser;
+    if (!user || !deckIds.length) return {};
+    const nowIso = new Date().toISOString();
+    const { data, error } = await client
+      .from('flashcard_progress')
+      .select('deck_id, next_review_at')
+      .in('deck_id', deckIds)
+      .lte('next_review_at', nowIso);
+    if (error) throw error;
+    const counts = {};
+    (data || []).forEach(row => { counts[row.deck_id] = (counts[row.deck_id] || 0) + 1; });
+    return counts;
+  }
+
   // ---- Bağımsız flashcard desteleri (card_decks: deck_type='flashcard') ----
   // Bunlar quiz soru bankasından TÜRETİLMEMİŞ, ayrıca yazılmış soru-cevap
   // kartları (cards/*.json'dan seed edildi). fetchCardsByTopicId'nin aksine
@@ -307,18 +396,22 @@ const ContentRepo = (() => {
   //   question → prompt metni
   //   answer   → doğru şıkkın metni
   async function fetchCardsByTopicId(topicId) {
-    // NOT: questions tablosu RLS ile (questions_premium_read) zaten korunuyor.
+    // NOT (2026-08-19 düzeltme): eskiden questions tablosundan doğrudan
+    // seçim yapılıyordu — RLS (questions_premium_read) admin/premium
+    // olmayanı tamamen engellediği için bu kartlar hep "direkt premium"a
+    // düşüyordu, Genel Mevzuat'taki kart destelerinin aksine hiç 5 kartlık
+    // ücretsiz önizleme yoktu. get_topic_card_preview RPC'si aynı "ilk 5
+    // ücretsiz" davranışını burada da uyguluyor; gerçek toplam sayı da
+    // (total_count) upsell mesajı için ayrıca dönüyor.
     const topicIds = await collectDescendantTopicIds(topicId);
-    const { data, error } = await client
-      .from('questions')
-      .select('prompt, options, answer_index')
-      .in('topic_id', topicIds)
-      .order('sort_order');
+    const { data, error } = await client.rpc('get_topic_card_preview', { p_topic_ids: topicIds });
     if (error) throw error;
-    const cards = (data || [])
+    const rows = data || [];
+    const cards = rows
       .filter(row => row.prompt && Array.isArray(row.options) && row.options[row.answer_index] != null)
       .map(row => ({ question: row.prompt, answer: row.options[row.answer_index] }));
-    return { cards };
+    const totalCount = rows.length ? rows[0].total_count : 0;
+    return { cards, totalCount };
   }
 
   // ---- exam-blueprint/topics-taxonomy.json karşılığı -----------------------
@@ -362,5 +455,5 @@ const ContentRepo = (() => {
     return result;
   }
 
-  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, fetchQuestionCount, fetchQuestionCountByTopicId };
+  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts };
 })();

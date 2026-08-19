@@ -1269,6 +1269,36 @@ body.auth-page{
   color:var(--green);
 }
 
+/* --- Leitner puanlama butonları (Zor / Orta / Kolay) --- */
+.card-rating-row{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  width:100%;
+  max-width:320px;
+  flex-shrink:0;
+  margin:2px 0 4px;
+}
+.card-rating-btn{
+  flex:1;
+  padding:11px 8px;
+  border-radius:12px;
+  border:1.5px solid var(--line);
+  background:#fff;
+  font-size:13px;
+  font-weight:800;
+  cursor:pointer;
+  transition:.15s;
+}
+.card-rating-btn:hover{ transform:translateY(-1px); }
+.card-rating-zor{ color:#c0392b; border-color:#f2c4bd; }
+.card-rating-zor:hover{ background:#fdf1ef; }
+.card-rating-orta{ color:#a9720c; border-color:#f0dcae; }
+.card-rating-orta:hover{ background:#fdf7ea; }
+.card-rating-kolay{ color:#1f8a4c; border-color:#bfe6cc; }
+.card-rating-kolay:hover{ background:#eefaf2; }
+
 /* --- Alt gezinme (önceki / sayaç / sonraki) --- */
 .card-study-nav{
   display:flex;
