@@ -75,7 +75,8 @@ const state = {
   expandedMistakeGroup: null,
   denemeler: null,
   denemelerError: '',
-  denemelerRoleKey: null
+  denemelerRoleKey: null,
+  totalDueFlashcards: 0
 };
 
 // Rota Ayarları State'i
@@ -599,6 +600,10 @@ function homeView() {
     <button class="cta-btn" id="openRouteSheetButton" type="button">
       <div class="cta-icon">${svg('target')}</div><div><strong>Bugünkü Rota</strong><span>Önerilen planı gör veya özelleştir</span></div><span class="chevron-w">${svg('arrow')}</span>
     </button>
+    ${state.totalDueFlashcards > 0 ? `
+    <button class="cta-btn cta-btn-flashcards" id="openDueFlashcardsButton" type="button">
+      <div class="cta-icon">${svg('gavel')}</div><div><strong>Bugün ${state.totalDueFlashcards} kart tekrar seni bekliyor</strong><span>Leitner kutu sistemine göre öncelikli</span></div><span class="chevron-w">${svg('arrow')}</span>
+    </button>` : ''}
   </section>`;
 }
 
@@ -1119,6 +1124,7 @@ function bindViewEvents() {
   
   // Rota panelini açma butonu
   document.getElementById('openRouteSheetButton')?.addEventListener('click', openRouteSheet);
+  document.getElementById('openDueFlashcardsButton')?.addEventListener('click', () => window.go('cards'));
   
   document.getElementById('startWrongPoolButton')?.addEventListener('click', startWrongPool);
   app.querySelectorAll('[data-open-mistake-category]').forEach(element => {
@@ -2650,6 +2656,17 @@ async function loadCatalogue() {
     state.catalogue = data;
     state.flashcardDecks = flashcardDecks;
     render();
+    // Faz 4: ana ekrandaki "bugünkü tekrarlar" widget'ı için toplam gecikmiş
+    // kart sayısı — katalog render edildikten SONRA arka planda çekiliyor,
+    // ana ekranın açılışını bloke etmesin diye ayrı bir render() ile gelir.
+    if (window.currentUser && flashcardDecks.length) {
+      ContentRepo.fetchDueFlashcardCounts(flashcardDecks.map(d => d.id))
+        .then(counts => {
+          state.totalDueFlashcards = Object.values(counts).reduce((sum, n) => sum + n, 0);
+          if (state.view === 'home') render();
+        })
+        .catch(() => {}); // widget süsleme, sessizce geç
+    }
   } catch (error) {
     state.catalogueError = error.message || 'Konu verisi yüklenemedi.';
     render();
