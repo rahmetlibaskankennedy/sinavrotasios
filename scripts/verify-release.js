@@ -77,9 +77,9 @@ for (const file of listFiles('www')) {
 const questions = countChunks('questions');
 const flashcards = countChunks('flashcards');
 const denemeQuestions = countChunks('deneme_questions');
-assert(questions.length === 1444, `Production soru anlık görüntüsü eksik: ${questions.length}/1444.`);
-assert(flashcards.length === 119, `Production flashcard anlık görüntüsü eksik: ${flashcards.length}/119.`);
-assert(denemeQuestions.length === 120, `Production deneme sorusu anlık görüntüsü eksik: ${denemeQuestions.length}/120.`);
+assert(questions.length === 4832, `Production soru anlık görüntüsü eksik: ${questions.length}/4832.`);
+assert(flashcards.length === 800, `Production flashcard anlık görüntüsü eksik: ${flashcards.length}/800.`);
+assert(denemeQuestions.length === 268, `Production deneme sorusu anlık görüntüsü eksik: ${denemeQuestions.length}/268.`);
 assertUnique(questions, row => row.id, 'Production soru anlık görüntüsü');
 assertUnique(flashcards, row => `${row.deck_id}:${row.sort_order}`, 'Production flashcard anlık görüntüsü');
 assertUnique(denemeQuestions, row => row.id, 'Production deneme soru anlık görüntüsü');

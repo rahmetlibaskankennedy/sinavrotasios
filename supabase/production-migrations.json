@@ -26,6 +26,10 @@
     "20260814081802_admin_bypass_on_content_read.sql",
     "20260815090000_lock_topic_question_counts_view.sql",
     "20260815090500_harden_get_question_counts.sql",
-    "20260815120000_add_play_billing_schema.sql"
+    "20260815120000_add_play_billing_schema.sql",
+    "20260816000000_add_deneme_question_feedback_fk.sql",
+    "20260816000001_add_source_question_id_to_deneme_questions.sql",
+    "20260816000002_add_kadro_to_deneme_questions.sql",
+    "20260816000003_add_topic_id_to_deneme_questions.sql"
   ]
 }
