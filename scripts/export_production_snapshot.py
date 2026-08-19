@@ -42,7 +42,7 @@ SINGLE_FILE_TABLES = [
     ("card_decks", "sort_order"),
     ("card_questions", "sort_order"),
     ("exam_topics", "sort_order"),
-    ("exam_kadrolar", "id"),
+    ("exam_kadrolar", "kadro"),
     ("exam_blueprint_items", "id"),
     ("denemeler", "id"),
 ]
