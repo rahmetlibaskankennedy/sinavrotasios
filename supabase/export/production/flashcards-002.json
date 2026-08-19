@@ -1,174 +1,1802 @@
 [
   {
-    "id": 22,
-    "deck_id": "anayasa",
-    "question": "Düşünceyi açıklama ve yayma hürriyeti hangi maddede düzenlenir?",
-    "answer": "Madde 26",
+    "id": 140,
+    "deck_id": "4688-sayili-kanun",
+    "question": "4688 sayılı Kanun temel olarak neyi düzenler?",
+    "answer": "Kamu görevlilerinin sendika kurma ve toplu sözleşme haklarını",
+    "sort_order": 1,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 141,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kamu görevlileri hangi amaçla sendika kurabilir?",
+    "answer": "Üyelerinin ekonomik, sosyal ve mesleki hak/menfaatlerini korumak ve geliştirmek",
+    "sort_order": 2,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 142,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Toplu sözleşme görüşmeleri sonucunda uyuşmazlık halinde başvurulan kurul hangisidir?",
+    "answer": "Kamu Görevlileri Hakem Kurulu",
+    "sort_order": 3,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 143,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika üyeliği kamu görevlisi için nasıldır?",
+    "answer": "İsteğe bağlıdır",
+    "sort_order": 4,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 144,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kanun'a göre sendikaların en üst çatı kuruluşu nasıl adlandırılır?",
+    "answer": "Konfederasyon",
+    "sort_order": 5,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 596,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar kurulmak için önceden izin almaları gerekir mi?",
+    "answer": "Hayır, önceden izin almaksızın serbestçe kurulurlar",
+    "sort_order": 6,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 597,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika kurucusu olabilmek için hangi şart yeterlidir?",
+    "answer": "Kamu görevlisi olarak çalışmak",
+    "sort_order": 7,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 598,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika veya konfederasyon ne zaman tüzel kişilik kazanır?",
+    "answer": "Belge ve tüzüklerin ilgili valiliğe verilmesiyle",
+    "sort_order": 8,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 599,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Valilik, tüzük ve belgelerin bir örneğini kaç işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
+    "answer": "Onbeş işgünü",
+    "sort_order": 9,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 600,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Bir hizmet kolunda birden fazla sendika kurulabilir mi?",
+    "answer": "Evet",
+    "sort_order": 10,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 601,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Meslek veya işyeri esasına göre sendika kurulabilir mi?",
+    "answer": "Hayır, kurulamaz",
+    "sort_order": 11,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 602,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendikaların kurulabileceği hizmet kollarından biri hangisidir?",
+    "answer": "Eğitim, öğretim ve bilim hizmetleri",
+    "sort_order": 12,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 603,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika tüzüğünde bulunması gereken hususlardan biri hangisidir?",
+    "answer": "Sendikanın faaliyet göstereceği hizmet kolu",
+    "sort_order": 13,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 604,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika şubesi ve sendika yönetim kurulları kaç üyeden oluşur?",
+    "answer": "En az üç, en çok yedi üyeden",
+    "sort_order": 14,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 605,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Disiplin ve denetleme kurulları kaç üyeden oluşur?",
+    "answer": "En az üç, en çok beş üyeden",
+    "sort_order": 15,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 606,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Konfederasyon genel kurulları en çok kaç delegeden oluşur?",
+    "answer": "Beşyüz delege",
+    "sort_order": 16,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 607,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika şubesi genel kurulları ve üye sayısı 1000'i aşan sendikaların genel kurulları nasıl yapılabilir?",
+    "answer": "Delegelerle",
+    "sort_order": 17,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 608,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Delegeler nasıl seçilir?",
+    "answer": "Gizli oy, açık sayım ve döküm esasına göre",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 609,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika veya konfederasyonun ilk genel kurulu, tüzel kişilik kazanmasından itibaren kaç ay içinde yapılır?",
+    "answer": "Altı ay",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 610,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Olağan genel kurul toplantıları en fazla kaç yılı aşmamak üzere yapılır?",
+    "answer": "Dört yıl",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 611,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Genel kurullarda seçimler nasıl yapılır?",
+    "answer": "Yargı gözetimi altında serbest, eşit, gizli oy, açık sayım ve döküm esasına göre",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 612,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kamu görevlileri hangi sendikaya üye olabilir?",
+    "answer": "Çalıştıkları işyerinin girdiği hizmet kolunda kurulu bir sendikaya",
     "sort_order": 22,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 23,
-    "deck_id": "anayasa",
-    "question": "Bilim ve sanat hürriyeti hangi maddede düzenlenir?",
-    "answer": "Madde 27",
+    "id": 613,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Üyelik başvurusu sendika tarafından reddedilmezse ne olur?",
+    "answer": "En çok otuz gün içinde reddedilmezse üyelik kabul edilmiş sayılır",
     "sort_order": 23,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 24,
-    "deck_id": "anayasa",
-    "question": "Basın hürriyeti hangi maddede düzenlenir?",
-    "answer": "Madde 28",
+    "id": 614,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendikadan çekilme, işverene başvuru tarihinden itibaren ne zaman geçerli olur?",
+    "answer": "Otuz gün sonra",
     "sort_order": 24,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 25,
-    "deck_id": "anayasa",
-    "question": "Toplantı ve gösteri yürüyüşü düzenleme hakkı hangi maddede düzenlenir?",
-    "answer": "Madde 34",
+    "id": 615,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Üyenin sendikadan çıkarılma kararını hangi organ verir?",
+    "answer": "Sendika merkez genel kurulu",
     "sort_order": 25,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 26,
-    "deck_id": "anayasa",
-    "question": "Mülkiyet hakkı hangi maddede düzenlenir?",
-    "answer": "Madde 35",
+    "id": 616,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Çıkarılan üyelerin isimleri sendikaca kaç gün içinde işverene bildirilmelidir?",
+    "answer": "Onbeş gün",
     "sort_order": 26,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 27,
-    "deck_id": "anayasa",
-    "question": "Hak arama hürriyeti hangi maddede düzenlenir?",
-    "answer": "Madde 36",
+    "id": 617,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendikalar en fazla kaç konfederasyona üye olabilir?",
+    "answer": "Yalnızca bir konfederasyona",
     "sort_order": 27,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 28,
-    "deck_id": "anayasa",
-    "question": "Kanuni hâkim güvencesi hangi maddede düzenlenir?",
-    "answer": "Madde 37",
+    "id": 618,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kamu işvereni sendika üyesi olan ve olmayan görevliler arasında ayrım yapabilir mi?",
+    "answer": "Hayır",
     "sort_order": 28,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 29,
-    "deck_id": "anayasa",
-    "question": "Suç ve cezalara ilişkin esaslar hangi maddede düzenlenir?",
-    "answer": "Madde 38",
+    "id": 619,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kamu görevlileri sendikaları ile konfederasyonlar toplu sözleşme görüşmelerinde neye yetkilidir?",
+    "answer": "Taraf olmaya",
     "sort_order": 29,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 30,
-    "deck_id": "anayasa",
-    "question": "Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı hangi maddede düzenlenir?",
-    "answer": "Madde 74",
+    "id": 620,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar kamu makamlarından maddi yardım kabul edebilir mi?",
+    "answer": "Hayır",
     "sort_order": 30,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 31,
-    "deck_id": "anayasa",
-    "question": "TBMM'nin görev ve yetkileri hangi maddede düzenlenir?",
-    "answer": "Madde 87",
+    "id": 621,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar siyasi partilerden maddi yardım alabilir mi?",
+    "answer": "Hayır",
     "sort_order": 31,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 32,
-    "deck_id": "anayasa",
-    "question": "TBMM kaç milletvekilinden oluşur?",
-    "answer": "600",
+    "id": 622,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar ticaretle uğraşabilir mi?",
+    "answer": "Hayır",
     "sort_order": 32,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 33,
-    "deck_id": "anayasa",
-    "question": "Milletvekili seçilme yaşı kaçtır?",
-    "answer": "18",
+    "id": 623,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kamu Personeli Danışma Kurulu her yıl hangi aylarda toplanır?",
+    "answer": "Mart ve Kasım",
     "sort_order": 33,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 34,
-    "deck_id": "anayasa",
-    "question": "TBMM ve Cumhurbaşkanlığı seçimleri kaç yılda bir yapılır?",
-    "answer": "5 yılda bir",
+    "id": 624,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kurulun sekretarya hizmetlerini hangi kurum yürütür?",
+    "answer": "Devlet Personel Başkanlığı",
     "sort_order": 34,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 35,
-    "deck_id": "anayasa",
-    "question": "Cumhurbaşkanının nitelikleri ve seçimi hangi maddede düzenlenir?",
-    "answer": "Madde 101",
+    "id": 625,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Kurum İdari Kurulları yılda kaç kez toplanır?",
+    "answer": "İki kez",
     "sort_order": 35,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 36,
-    "deck_id": "anayasa",
-    "question": "Cumhurbaşkanının görev ve yetkileri hangi maddede düzenlenir?",
-    "answer": "Madde 104",
+    "id": 626,
+    "deck_id": "4688-sayili-kanun",
+    "question": "İşyeri sendika temsilcisi seçme yetkisi hangi sendikaya aittir?",
+    "answer": "İşyerinde en çok üye kaydetmiş sendikaya",
     "sort_order": 36,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 37,
-    "deck_id": "anayasa",
-    "question": "Anayasa Mahkemesi hangi maddede düzenlenir?",
-    "answer": "Madde 146",
+    "id": 627,
+    "deck_id": "4688-sayili-kanun",
+    "question": "İşyeri sendika temsilcileri görevlerini haftada kaç saat yerine getirir ve izinli sayılır?",
+    "answer": "Dört saat",
     "sort_order": 37,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 38,
-    "deck_id": "anayasa",
-    "question": "Anayasa Mahkemesi kaç üyeden oluşur?",
-    "answer": "15",
+    "id": 628,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonların gelirleri nelerden oluşur?",
+    "answer": "Üyelik ödentileri, faaliyet gelirleri, bağış ve yardımlar, mal varlığı gelirleri",
     "sort_order": 38,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
   },
   {
-    "id": 39,
-    "deck_id": "anayasa",
-    "question": "Hâkimler ve Savcılar Kurulu hangi maddede düzenlenir?",
-    "answer": "Madde 159",
+    "id": 629,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Konfederasyonlara ödenecek ödenti miktarı sendika ödenti tutarının yüzde kaçından aşağı olamaz?",
+    "answer": "Yüzde beş",
     "sort_order": 39,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 630,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar gelirlerinin en az yüzde kaçını üyelerin mesleki bilgi/tecrübesini artırmak için kullanmak zorundadır?",
+    "answer": "Yüzde on",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 631,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika tüzüğüne üyelik ödentisi dışında başka kesinti öngören hükümler konulabilir mi?",
+    "answer": "Hayır",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 632,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika ve konfederasyonlar bilanço, hesap ve denetleme raporlarını hangi süre içinde Bakanlığa gönderir?",
+    "answer": "İzleyen üç ay içinde",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 633,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Vergi Usul Kanununa göre demirbaş sayılan eşyalar nasıl işlem görür?",
+    "answer": "Demirbaş defterine kaydedilir, gider olarak işlem göremez",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 634,
+    "deck_id": "4688-sayili-kanun",
+    "question": "20, 24 ve 26. maddelere aykırı hareket edenlere hangi ceza uygulanır?",
+    "answer": "Altı aydan bir yıla kadar hapis cezası",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 635,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Fesih, infisah veya kapatma halinde kalacak para ve mallar tüzükte aksi yoksa nereye devredilir?",
+    "answer": "Hazineye",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 636,
+    "deck_id": "4688-sayili-kanun",
+    "question": "4688 sayılı Kanun ne zaman yürürlüğe girmiştir?",
+    "answer": "Yayımını takip eden 30. günün sonunda",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 637,
+    "deck_id": "4688-sayili-kanun",
+    "question": "4688 sayılı Kanun hükümlerini kim yürütür?",
+    "answer": "Bakanlar Kurulu",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 638,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika genel kurullarının görev ve yetkilerinden biri hangisidir?",
+    "answer": "Yönetim ve denetleme kurulu raporlarının görüşülmesi ve aklanması",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 639,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Genel kurulun görevlerinden biri olarak taşınmaz mal alım/satımı için ne yapılır?",
+    "answer": "Yönetim kuruluna yetki verilmesi",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 640,
+    "deck_id": "4688-sayili-kanun",
+    "question": "Sendika şubesi açma ve kapatma yetkisi hangi organa aittir?",
+    "answer": "Genel kurula",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:17:06.231560+00:00",
+    "updated_at": "2026-08-19T07:17:06.231560+00:00"
+  },
+  {
+    "id": 145,
+    "deck_id": "4734-sayili-kanun",
+    "question": "4734 sayılı Kanun'un temel amacı nedir?",
+    "answer": "Kamu hukukuna tabi idarelerin mal/hizmet alımı ve yapım ihalelerinde uygulanacak esasları düzenlemek",
+    "sort_order": 1,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 146,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanun'a göre temel ihale usulleri nelerdir?",
+    "answer": "Açık ihale usulü ve belli istekliler arasında ihale usulü (esas usuller)",
+    "sort_order": 2,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 147,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kamu İhale Kurumu'nun temel görevi nedir?",
+    "answer": "İhale mevzuatının uygulanmasını izlemek ve itirazen şikâyetleri incelemek",
+    "sort_order": 3,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 148,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhalelerde temel ilkelerden biri değildir?",
+    "answer": "Kayırmacılık",
+    "sort_order": 4,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 149,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Yaklaşık maliyet neyi ifade eder?",
+    "answer": "İdarece gerçekleştirilecek alımın tahmini bedelini",
+    "sort_order": 5,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 150,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Doğrudan temin usulü ne zaman kullanılabilir?",
+    "answer": "Kanunda sayılan istisnai ve acil hallerde",
+    "sort_order": 6,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 151,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhalelere katılamayacak olanlar arasında hangisi sayılır?",
+    "answer": "İhaleyi yapan idarede görevli kişiler ile bunların yakınları (kanunda sayılanlar)",
+    "sort_order": 7,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 152,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Şikâyet başvurusu hangi süre içinde yapılmalıdır?",
+    "answer": "Kanunda belirtilen süreler içinde (ihale sürecine göre değişir)",
+    "sort_order": 8,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 512,
+    "deck_id": "4734-sayili-kanun",
+    "question": "4734 sayılı Kanunun amacı nedir?",
+    "answer": "Kamu hukukuna tâbi olan veya kamu kaynağı kullanan kurumların ihalelerinde uygulanacak esas ve usulleri belirlemek",
+    "sort_order": 9,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 513,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanuna göre temel ihale usulleri nelerdir?",
+    "answer": "Açık ihale usulü ve belli istekliler arasında ihale usulü",
+    "sort_order": 10,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 514,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Diğer (temel olmayan) ihale usulleri ne zaman kullanılabilir?",
+    "answer": "Kanunda belirtilen özel hallerde",
+    "sort_order": 11,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 515,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Eşik değerlerin altında kalmak amacıyla alımlar kısımlara bölünebilir mi?",
+    "answer": "Hayır",
+    "sort_order": 12,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 516,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Ödeneği bulunmayan bir iş için ihaleye çıkılabilir mi?",
+    "answer": "Hayır",
+    "sort_order": 13,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 517,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Mal alımı, hizmet alımı ve yapım işleri bir arada ihale edilebilir mi?",
+    "answer": "Hayır, doğal bir bağlantı olmadıkça edilemez",
+    "sort_order": 14,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 518,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhale komisyonunca alınan kararlar ve tutanaklar nasıl imzalanır?",
+    "answer": "Başkan ve üyelerin ad, soyad ve görev unvanları belirtilerek",
+    "sort_order": 15,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 519,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Komisyon başkanı ve üyeleri oy ve kararlarından sorumlu mudur?",
+    "answer": "Evet",
+    "sort_order": 16,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 520,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhale işlem dosyası, ilân veya daveti izleyen kaç gün içinde komisyon üyelerine verilir?",
+    "answer": "Üç gün",
+    "sort_order": 17,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 521,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhalesi yapılacak her iş için ne düzenlenir?",
+    "answer": "Bir işlem dosyası",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 522,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İdari ve teknik şartnamelerin hazırlanması esas olarak kime aittir?",
+    "answer": "İdarelere",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 523,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Teknik şartnamelerde belirli bir marka veya modele yönelik tanımlamalara yer verilebilir mi?",
+    "answer": "Hayır",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 524,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Yaklaşık maliyet ihale ve ön yeterlik ilanlarında açıklanır mı?",
+    "answer": "Hayır, açıklanmaz",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 525,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Yaklaşık maliyet hangi vergi hariç tutularak belirlenir?",
+    "answer": "Katma değer vergisi hariç",
+    "sort_order": 22,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 526,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İş bitirme, yönetim veya denetim suretiyle elde edilen belgeler devredilebilir mi?",
+    "answer": "Hayır, devredilemez, kiraya verilemez, satılamaz",
+    "sort_order": 23,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 527,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Yapımla ilgili hizmet işlerinden elde edilen belgeler yapım işlerinde kullanılabilir mi?",
+    "answer": "Hayır, kullanılamaz",
+    "sort_order": 24,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 528,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhaleyi yapan idare bünyesindeki vakıf, dernek, birlik gibi kuruluşlar o idarenin ihalelerine katılabilir mi?",
+    "answer": "Hayır, katılamazlar",
+    "sort_order": 25,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 529,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhale konusu işin yüklenicileri o işin danışmanlık hizmeti ihalelerine katılabilir mi?",
+    "answer": "Hayır, katılamazlar",
+    "sort_order": 26,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 530,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Katılım yasağına rağmen ihaleye katılanlara ne yapılır?",
+    "answer": "İhale dışı bırakılır, geçici teminatları gelir kaydedilir",
+    "sort_order": 27,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 531,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İş ortaklığı hangi ihalelere teklif verebilir?",
+    "answer": "Her türlü ihaleye",
+    "sort_order": 28,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 532,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İş ortaklığı ile konsorsiyum arasındaki temel fark nedir?",
+    "answer": "İş ortaklığı işin tümünü birlikte, konsorsiyum ise kendi uzmanlık alanına göre ayrı ayrı yapar",
+    "sort_order": 29,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 533,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İş ortaklığı anlaşmasında ve konsorsiyum anlaşmasında hangi ortaklar belirtilir?",
+    "answer": "İş ortaklığında pilot ortak, konsorsiyumda koordinatör ortak",
+    "sort_order": 30,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 534,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhalenin iş ortaklığı/konsorsiyum üzerinde kalması halinde sözleşme öncesi ne istenir?",
+    "answer": "Noter tasdikli iş ortaklığı veya konsorsiyum sözleşmesi",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 535,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Alt yüklenicilerin yaptığı işlerdeki sorumluluk yükleniciden kalkar mı?",
+    "answer": "Hayır, yüklenicinin sorumluluğu ortadan kalkmaz",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 536,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhalenin iptali halinde verilmiş teklifler ne olur?",
+    "answer": "Reddedilmiş sayılır, açılmadan isteklilere iade edilir",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 537,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Sahte belge veya sahte teminat düzenlemek/kullanmak Kanuna göre nasıl değerlendirilir?",
+    "answer": "Yasaktır",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 538,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Uygulama projesi bulunan yapım işlerinde hangi teklif türü zorunludur?",
+    "answer": "Anahtar teslimi götürü bedel teklifi",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 539,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhale saati neye göre tespit edilir?",
+    "answer": "Çalışma saati dikkate alınarak",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 540,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanunda yazılı sürelerin hesaplanmasında hüküm bulunmayan hallerde hangi kanun uygulanır?",
+    "answer": "Borçlar Kanunu",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 541,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanunda hüküm bulunmayan tebliğler için hangi kanun uygulanır?",
+    "answer": "Tebligat Kanunu",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 542,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Elektronik ortamda veya faksla yapılan bildirimlerde tebliğ tarihi nedir?",
+    "answer": "Bildirim tarihi",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 543,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanundaki eşik değerler ve parasal limitler hangi endekse göre güncellenir?",
+    "answer": "Bir önceki yılın Toptan Eşya Fiyat Endeksi",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 544,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Eşik değer güncellemesini kim yapar ve ne zaman ilan edilir?",
+    "answer": "Kamu İhale Kurumu, her yıl 1 Şubat'a kadar Resmî Gazete'de",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 545,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Olağanüstü hallerde eşik değerler, belirtilen tarih dışında da kimin kararıyla güncellenebilir?",
+    "answer": "Kurumun teklifi üzerine Cumhurbaşkanı Kararı ile",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 546,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Kanun hükümlerine ilişkin değişiklikler nasıl yapılabilir?",
+    "answer": "Ancak bu Kanuna hüküm eklenmek veya Kanunda değişiklik yapılmak suretiyle",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 547,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Ön ilan yapılması halinde ilan ve davet süresi ne kadara indirilebilir?",
+    "answer": "Kırk günden yirmidört güne",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 548,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Ön ilan yapılmış olması idareye ihale yapma yükümlülüğü getirir mi?",
+    "answer": "Hayır, getirmez",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 549,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Zeyilname düzenlenmesi halinde önceden teklif vermiş isteklilere ne imkânı sağlanır?",
+    "answer": "Tekliflerini geri çekip yeniden teklif verme imkânı",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 550,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Personel çalıştırılmasına dayalı hizmet alımına örnek nedir?",
+    "answer": "Park-bahçe bakımı, çöp toplama gibi sürekli mahalli idare hizmetleri",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 551,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Yerli malı belirlenmesine ilişkin usul ve esasları kim belirler?",
+    "answer": "İlgili kurum ve kuruluşların görüşleri alınarak yetkili bakanlık",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 552,
+    "deck_id": "4734-sayili-kanun",
+    "question": "Ortak girişimlerin yerli istekli sayılabilmesi için şart nedir?",
+    "answer": "Bütün ortaklarının yerli istekli olması",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 553,
+    "deck_id": "4734-sayili-kanun",
+    "question": "İhale konusu mal veya hizmet alımı ile yapım işlerinin teknik kriterleri nerede belirtilir?",
+    "answer": "İhale dokümanının parçası olan teknik şartnamelerde",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:14:24.716244+00:00",
+    "updated_at": "2026-08-19T07:14:24.716244+00:00"
+  },
+  {
+    "id": 153,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanun neyi düzenler?",
+    "answer": "4734 sayılı Kanun'a göre yapılan ihaleler sonucu düzenlenen sözleşmelerin uygulanmasını",
+    "sort_order": 1,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 154,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmelerde 'süre uzatımı' hangi hallerde verilebilir?",
+    "answer": "Kanunda sayılan mücbir sebep ve idareden kaynaklanan nedenlerle",
+    "sort_order": 2,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 155,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmenin devri kural olarak nasıldır?",
+    "answer": "İdarenin yazılı izni ile ve kanunda belirtilen şartlarla mümkündür",
+    "sort_order": 3,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 156,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kesin teminat sözleşme bedeli üzerinden genel olarak ne kadardır?",
+    "answer": "%6",
+    "sort_order": 4,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 157,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmenin feshi hangi hallerde söz konusu olabilir?",
+    "answer": "Yüklenicinin taahhüdünü ihlali gibi kanunda sayılan hallerde",
+    "sort_order": 5,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 158,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kabul işlemleri neyi ifade eder?",
+    "answer": "Yapım/mal/hizmetin sözleşmeye uygunluğunun idarece tespit edilmesini",
+    "sort_order": 6,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 159,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Gecikme cezası ne zaman uygulanır?",
+    "answer": "Yüklenicinin işi süresinde tamamlamaması halinde",
+    "sort_order": 7,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 160,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Fiyat farkı ödenmesi hangi hallerde söz konusu olabilir?",
+    "answer": "Sözleşmede veya mevzuatta öngörülen şartlarda",
+    "sort_order": 8,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 554,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanunun amacı nedir?",
+    "answer": "Kamu İhale Kanununa göre yapılan ihalelere ilişkin sözleşmelerin düzenlenmesi ve uygulanması ile ilgili esas ve usulleri belirlemek",
+    "sort_order": 9,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 555,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanunun kapsamı nedir?",
+    "answer": "Kamu İhale Kanununa tabi kurum ve kuruluşların o Kanuna göre yaptığı ihaleler sonucu düzenlenen sözleşmeler",
+    "sort_order": 10,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 556,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanunun uygulanmasında hangi Kanundaki tanımlar geçerlidir?",
+    "answer": "4734 sayılı Kamu İhale Kanunu'ndaki tanımlar",
+    "sort_order": 11,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 557,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşme hükümlerinde Kanunda belirtilen haller dışında ne yapılamaz?",
+    "answer": "Değişiklik yapılamaz, ek sözleşme düzenlenemez",
+    "sort_order": 12,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 558,
+    "deck_id": "4735-sayili-kanun",
+    "question": "İdarelerce yapılacak sözleşmeler neye göre düzenlenir?",
+    "answer": "Tip Sözleşme hükümleri esas alınarak",
+    "sort_order": 13,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 559,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Tip Sözleşmeler nerede yayımlanır?",
+    "answer": "Resmî Gazete'de",
+    "sort_order": 14,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 560,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yapım işlerinde uygulama projelerine dayalı, toplam bedel üzerinden yapılan sözleşme türü nedir?",
+    "answer": "Anahtar teslimi götürü bedel sözleşme",
+    "sort_order": 15,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 561,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Mal/hizmet alımında idarece belirlenen işin tamamı için toplam bedel üzerinden yapılan sözleşme türü nedir?",
+    "answer": "Götürü bedel sözleşme",
+    "sort_order": 16,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 562,
+    "deck_id": "4735-sayili-kanun",
+    "question": "İdarece hazırlanmış cetveldeki iş kalemi miktarı ile birim fiyatın çarpımına dayalı sözleşme türü nedir?",
+    "answer": "Birim fiyat sözleşme",
+    "sort_order": 17,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 563,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Bir kısmı anahtar teslimi götürü bedel, bir kısmı birim fiyat olan sözleşme türüne ne denir?",
+    "answer": "Karma sözleşme",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 564,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Çerçeve anlaşmaya dayalı olarak idare ile yüklenici arasında imzalanan sözleşmeye ne denir?",
+    "answer": "Münferit sözleşme",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 565,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmede belirtilmesi zorunlu hususlardan biri hangisidir?",
+    "answer": "İşin adı, niteliği, türü ve miktarı",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 566,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmede varsa hangi bilgiler yer almalıdır?",
+    "answer": "Alt yüklenicilere ilişkin bilgiler ve sorumlulukları",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 567,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kanunda hüküm bulunmayan hallerde teminatlar için hangi Kanun uygulanır?",
+    "answer": "Kamu İhale Kanunu",
+    "sort_order": 22,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 568,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kanunda hüküm bulunmayan hallerde genel olarak hangi Kanun uygulanır?",
+    "answer": "Borçlar Kanunu",
+    "sort_order": 23,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 569,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kanunda hüküm bulunmayan tebliğler hakkında hangi Kanun uygulanır?",
+    "answer": "Tebligat Kanunu",
+    "sort_order": 24,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 570,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanun ne zaman yürürlüğe girmiştir?",
+    "answer": "1.1.2003 tarihinde",
+    "sort_order": 25,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 571,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Fiyat farkı esas ve usullerini tespite kimin teklifi üzerine kim yetkilidir?",
+    "answer": "Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı",
+    "sort_order": 26,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 572,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Fiyat farkına ilişkin esaslarda sözleşme imzalandıktan sonra değişiklik yapılabilir mi?",
+    "answer": "Hayır",
+    "sort_order": 27,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 573,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Mücbir sebep sayılabilmesi için yüklenicinin idareye bildirimi hangi süre içinde yapılmalıdır?",
+    "answer": "Mücbir sebebin meydana geldiği tarihi izleyen yirmi gün içinde",
+    "sort_order": 28,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 574,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Mücbir sebep örneklerinden biri hangisidir?",
+    "answer": "Kısmî veya genel seferberlik ilânı",
+    "sort_order": 29,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 575,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Ortak girişimlerde pilot/koordinatör ortak dışındaki bir ortağın ölümü, iflası vb. sözleşmenin devamına engel midir?",
+    "answer": "Hayır",
+    "sort_order": 30,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 576,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Pilot veya koordinatör ortağın ölümü halinde ne olur?",
+    "answer": "Sözleşme feshedilerek işler tasfiye edilir, kesin teminat iade edilir",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 577,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yüklenicinin mali acz nedeniyle taahhüdünü yerine getiremeyeceğini bildirmesi halinde ne olur?",
+    "answer": "Kesin teminat gelir kaydedilir, sözleşme feshedilerek tasfiye edilir",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 578,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yüklenicinin taahhüdünü yerine getirmemesi üzerine idarenin ihtarı en az kaç gün süreli olmalıdır?",
+    "answer": "On gün",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 579,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Bu Kanun kapsamındaki işlerden dolayı ceza almış olanlar ne yapamaz?",
+    "answer": "Bu Kanun kapsamındaki kadrolara atanamaz ve görev alamazlar",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 580,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Muayene ve kabul komisyonu üyelerinin tarafsız davranmadığının tespiti halinde ne uygulanır?",
+    "answer": "Disiplin cezası",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 581,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Görevliler ve danışmanlık hizmeti sunanlar yüklenicilere ait gizli bilgileri ne yapamaz?",
+    "answer": "İfşa edemez, kendileri veya üçüncü şahıslar yararına kullanamaz",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 582,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yapım işlerinde yüklenici ve alt yükleniciler kesin kabul onay tarihinden itibaren kaç yıl süreyle müteselsilen sorumludur?",
+    "answer": "Onbeş yıl",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 583,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yapı denetim görevlilerinin sorumluluğu nasıl giderilir?",
+    "answer": "Zarar ve ziyan genel hükümlere göre kendilerine tazmin ettirilir",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 584,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kamu İhale Kanununa göre yapılan sözleşmeler açısından hangi Kanun hükümleri uygulanmaz?",
+    "answer": "2886 sayılı Devlet İhale Kanunu",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 585,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşme uygulamalarından kaynaklanan anlaşmazlıkların çözümü için hangi kurula başvurulabilir?",
+    "answer": "Yüksek Fen Kurulu",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 586,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yüksek Fen Kurulu itirazları en geç kaç gün içinde karara bağlar?",
+    "answer": "Altmış gün",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 587,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Yüksek Fen Kuruluna başvurabilmek için hangi şart aranır?",
+    "answer": "Anlaşmazlığın yargılama veya Sayıştay incelemesine konu edilmemiş olması",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 588,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmenin uygulanması sırasında yüklenicinin yasak fiil veya davranışlarda bulunduğunun tespiti sözleşmeyi nasıl sonuçlandırır?",
+    "answer": "Kesin teminat gelir kaydedilerek fesih ve tasfiye",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 589,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Bu Kanuna aykırı fiillerden hüküm giyen idare görevlileri ne yapamaz?",
+    "answer": "Bu Kanun kapsamındaki işlerde görevlendirilemez",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 590,
+    "deck_id": "4735-sayili-kanun",
+    "question": "2985 sayılı Toplu Konut Kanunu kapsamındaki sözleşmelerde özel usul ve esasları belirlemeye kim yetkilidir?",
+    "answer": "Cumhurbaşkanı",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 591,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşmede ödeme yeri ve şartlarıyla birlikte hangi husus belirtilir?",
+    "answer": "Avans verilip verilmeyeceği, verilecekse şartları ve miktarı",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 592,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Kanunun ikinci bölümü hangi başlığı taşır?",
+    "answer": "Sözleşmelerin Düzenlenmesi",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 593,
+    "deck_id": "4735-sayili-kanun",
+    "question": "Sözleşme dokümanında ihale dokümanına aykırı hükümlere yer verilebilir mi?",
+    "answer": "Hayır, verilemez",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 594,
+    "deck_id": "4735-sayili-kanun",
+    "question": "4735 sayılı Kanun hangi Kanuna göre yapılan ihalelerin sözleşmelerini kapsar?",
+    "answer": "4734 sayılı Kamu İhale Kanunu",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 595,
+    "deck_id": "4735-sayili-kanun",
+    "question": "İş ortaklığı ve konsorsiyum ortaklarından birinin dağılması/ölümü halinde diğer ortaklar ne yapar?",
+    "answer": "O ortağın sorumluluklarını da üstlenerek taahhüdü yerine getirirler",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:16:01.681266+00:00",
+    "updated_at": "2026-08-19T07:16:01.681266+00:00"
+  },
+  {
+    "id": 106,
+    "deck_id": "4982-sayili-kanun",
+    "question": "4982 sayılı Bilgi Edinme Hakkı Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "9 Ekim 2003",
+    "sort_order": 1,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
   },
   {
-    "id": 40,
-    "deck_id": "anayasa",
-    "question": "Anayasa değişikliği teklifi TBMM üye tamsayısının kaçta kaçının teklifiyle yapılabilir?",
-    "answer": "En az 1/3'ünün",
-    "sort_order": 40,
+    "id": 107,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kanun'un amacı hangi maddede düzenlenir?",
+    "answer": "Madde 1",
+    "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 108,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kanun'un amacı nedir?",
+    "answer": "Demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun şekilde bilgi edinme hakkını düzenlemek",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 109,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusu ne şekilde yapılabilir?",
+    "answer": "Yazılı olarak veya elektronik ortamda ya da diğer iletişim araçlarıyla",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 110,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum ve kuruluşlar başvurulara normal şartlarda en geç kaç iş günü içinde cevap verir?",
+    "answer": "En geç 15 iş günü",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 111,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başka bir birimden görüş alınmasını gerektiren başvurularda cevap süresi ne kadardır?",
+    "answer": "En geç 30 iş günü",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 112,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusunun reddi hangi hallerde mümkündür?",
+    "answer": "Devlet sırrı, ticari sır, özel hayatın gizliliği gibi istisnalar kapsamına giren bilgiler için",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 113,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başvurusu reddedilen kişi hangi kurula itiraz edebilir?",
+    "answer": "Bilgi Edinme Değerlendirme Kurulu'na",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 114,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?",
+    "answer": "9 üye",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 115,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme hakkı kimlere tanınmıştır?",
+    "answer": "Bilgi edinme hakkı; gerçek ve tüzel kişilere (Türk vatandaşları, Türkiye'de ikamet eden yabancılar ve karşılıklılık ilkesi çerçevesinde yabancı gerçek/tüzel kişiler) tanınmıştır",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 116,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Devlet sırrı niteliğindeki bilgiler kanun kapsamında mıdır?",
+    "answer": "Hayır, istisna kapsamındadır ve verilmez",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 117,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum içi düzenlemeler niteliğindeki bilgi ve belgeler kanun kapsamında mıdır?",
+    "answer": "Kurum içi düzenleme niteliğindeki ve sadece kurum personelini ilgilendiren belgeler istisna kapsamındadır",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 118,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başvuru dilekçesinde hangi bilgiler bulunmalıdır?",
+    "answer": "Başvuranın adı-soyadı, imzası, oturma yeri veya iş adresi, başvurulan kurum ve istenen bilgi/belgenin açık şekilde belirtilmesi",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 119,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme başvurusunda bulunmak için herhangi bir gerekçe gösterme zorunluluğu var mıdır?",
+    "answer": "Hayır, gerekçe gösterme zorunluluğu yoktur",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 682,
+    "deck_id": "4982-sayili-kanun",
+    "question": "4982 sayılı Kanuna göre bilgi edinme hakkına kim sahiptir?",
+    "answer": "Herkes",
+    "sort_order": 15,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 683,
+    "deck_id": "4982-sayili-kanun",
+    "question": "4982 sayılı Kanun hükümlerini kim yürütür?",
+    "answer": "Cumhurbaşkanı",
+    "sort_order": 16,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 684,
+    "deck_id": "4982-sayili-kanun",
+    "question": "4982 sayılı Kanun karşısında 3071 sayılı Dilekçe Hakkı Kanunu hükümlerinin durumu nedir?",
+    "answer": "Saklıdır",
+    "sort_order": 17,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 685,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Erişilen bilgi ve belgeler hangi amaçla çoğaltılıp kullanılamaz?",
+    "answer": "Ticari amaçla",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 686,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi veya belgeye erişim için genel süre kaç iş günüdür?",
+    "answer": "15 iş günü",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 687,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Başka birimden bilgi/görüş gerektiren hallerde erişim süresi en fazla kaç iş günüdür?",
+    "answer": "30 iş günü",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 688,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Erişim maliyetinin bildirilmesi 15 iş günlük süreyi nasıl etkiler?",
+    "answer": "Süreyi keser",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 689,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?",
+    "answer": "9 üye",
+    "sort_order": 22,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 690,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurul üyelerinin görev süresi kaç yıldır?",
+    "answer": "4 yıl",
+    "sort_order": 23,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 691,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurul üyelerini kim seçer?",
+    "answer": "Cumhurbaşkanı",
+    "sort_order": 24,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 692,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Görev süresi sona eren Kurul üyesi yeniden seçilebilir mi?",
+    "answer": "Evet",
+    "sort_order": 25,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 693,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurulun sekretarya hizmetlerini hangi kurum yürütür?",
+    "answer": "Adalet Bakanlığı",
+    "sort_order": 26,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 694,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurul en az hangi sıklıkla toplanır?",
+    "answer": "Ayda bir defa",
+    "sort_order": 27,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 695,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bilgi edinme istemi reddedilen kişi Kurula ne kadar süre içinde itiraz edebilir?",
+    "answer": "Kararın tebliğinden itibaren 15 gün içinde",
+    "sort_order": 28,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 696,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurul itiraz hakkındaki kararını kaç iş günü içinde verir?",
+    "answer": "30 iş günü",
+    "sort_order": 29,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 697,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurula itiraz, idari yargıya başvurma süresini nasıl etkiler?",
+    "answer": "Durdurur",
+    "sort_order": 30,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 698,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum ve kuruluşlar Kurulun istediği bilgi/belgeyi kaç iş günü içinde vermelidir?",
+    "answer": "15 iş günü",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 699,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurul genel raporunu TBMM'ye ne zamana kadar gönderir?",
+    "answer": "Her yıl Nisan ayı sonuna kadar",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 700,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum ve kuruluşlar bir önceki yıla ait bilgi edinme raporlarını Kurula ne zamana kadar gönderir?",
+    "answer": "Her yıl Şubat ayı sonuna kadar",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 701,
+    "deck_id": "4982-sayili-kanun",
+    "question": "TBMM Başkanlığına gönderilen raporlar ne kadar süre içinde kamuoyuna açıklanır?",
+    "answer": "Takip eden iki ay içinde",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 702,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kanunun uygulanmasına ilişkin yönetmelik kim tarafından hazırlanır?",
+    "answer": "Cumhurbaşkanlığı",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 703,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Bu yönetmelik Kanunun yayımını takip eden ne kadar süre içinde hazırlanır?",
+    "answer": "6 ay içinde",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 704,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Devlet sırrına ilişkin bilginin kapsam dışı sayılması için açıklanması neye zarar vermelidir?",
+    "answer": "Millî güvenliğe",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 705,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Adli soruşturma ve kovuşturmaya ilişkin bilgi, açıklanması suç işlenmesine yol açacaksa nasıl değerlendirilir?",
+    "answer": "Kanun kapsamı dışındadır",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 706,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Sivil ve askeri istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgiler kanun kapsamında mıdır?",
+    "answer": "Hayır, kapsam dışındadır",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 707,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Haberleşmenin gizliliğini ihlal edecek bilgi veya belgeler kanun kapsamında mıdır?",
+    "answer": "Hayır, kapsam dışındadır",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 708,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Ticari sır olarak nitelenen bilgi veya belgeler kanun kapsamında mıdır?",
+    "answer": "Hayır, kapsam dışındadır",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 709,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kamu yararı gerektiriyorsa kişisel bilgi açıklanmadan önce ilgili kişiye en az kaç gün önce haber verilmelidir?",
+    "answer": "7 gün",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 710,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kamu yararı nedeniyle kişisel bilginin açıklanabilmesi için ayrıca hangi şart aranır?",
+    "answer": "İlgili kişinin yazılı rızası",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 711,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Özel hayatın gizliliği kapsamında özellikle hangi bilgiler korunur?",
+    "answer": "Kişinin sağlık bilgileri",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 712,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Gerçek kişinin yazılı başvurusunda hangi bilgi yer almalıdır?",
+    "answer": "Adı ve soyadı",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 713,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Tüzel kişinin başvurusunda ayrıca hangi belge aranır?",
+    "answer": "Yetki belgesi",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 714,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Türkiye'de faaliyette bulunan yabancı tüzel kişiler hangi çerçevede Kanundan yararlanabilir?",
+    "answer": "Karşılıklılık ilkesi çerçevesinde",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 715,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurumca daha önce yayımlanmış veya kamuya açıklanmış bilgiler bilgi edinme başvurusuna konu olabilir mi?",
+    "answer": "Hayır, olamaz",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 716,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kurum, özel bir çalışma/araştırma sonucu oluşturulabilecek bilgi talebine ne yapabilir?",
+    "answer": "Olumsuz cevap verebilir",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
+  },
+  {
+    "id": 717,
+    "deck_id": "4982-sayili-kanun",
+    "question": "Kopya çıkarılması belgenin aslına zarar verecekse yazılı belge için hangi imkân sağlanır?",
+    "answer": "Aslını inceleme ve not alma",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:19:01.421721+00:00",
+    "updated_at": "2026-08-19T07:19:01.421721+00:00"
   }
 ]
-

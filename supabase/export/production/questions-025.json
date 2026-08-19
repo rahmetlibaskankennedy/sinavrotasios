@@ -1,0 +1,546 @@
+[
+  {
+    "id": "yonetimde-etik-mssy5hp9-41-2znm",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu görevlisinin, akrabalık ilişkisi bulunmayan yakın arkadaşına kurum hizmetinde sıra beklemeden haksız öncelik tanıması hangi kavrama en uygun örnektir?",
+    "options": [
+      "Nepotizm (Akraba Kayırmacılığı)",
+      "Siyasi Patronaj (Siyasal Kayırmacılık)",
+      "Kronizm (eş-dost kayırmacılığı)",
+      "Mobbing (Psikolojik Yıldırma)",
+      "Zimmet (Kamu Malını Mal Edinme)"
+    ],
+    "answer_index": 2,
+    "explanation": "Kronizm, arkadaş, tanıdık veya sosyal çevre lehine haksız ayrıcalık tanınmasıdır. Akraba lehine kayırmacılık ise daha özel olarak nepotizm olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-42-h180",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu idaresinde amir konumunda olan bir yöneticinin, maiyetindeki personele kendi şahsi işlerini (alışveriş, özel araç yıkama vb.) yaptırması aşağıdaki etik ilkelerden hangisine doğrudan aykırıdır?",
+    "options": [
+      "Kararların açık ve izlenebilir olmasını gerektiren saydamlık",
+      "Kamu görevlisinin sahip olması gereken halka hizmet bilinci",
+      "Etik ihlallerin yetkili makamlara bildirilmesi zorunluluğu",
+      "Yöneticilerin kullandığı yetkiler için hesap verme sorumluluğu",
+      "Görev ve yetkilerin menfaat sağlamak amacıyla kullanılmaması"
+    ],
+    "answer_index": 4,
+    "explanation": "Yönetmeliğe göre, kamu görevlileri (özellikle yöneticiler), görev, unvan ve yetkilerini kullanarak kendilerine veya başkalarına şahsi menfaat sağlayamaz, personelini kendi özel işlerinde çalıştıramaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-45-l4o9",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu kurumunda, sadece hemşehri (aynı memleketten) oldukları için bazı personelin daha iyi birimlere atanıp, diğer liyakatli personelin göz ardı edilmesine ne ad verilir?",
+    "options": [
+      "Kronizm (Eş-Dost Kayırmacılığı)",
+      "Nepotizm (Akraba Kayırmacılığı)",
+      "Hemşehricilik / Yörecilik",
+      "Siyasal Patronaj (Kayırmacılık)",
+      "Mobbing (Psikolojik Yıldırma)"
+    ],
+    "answer_index": 2,
+    "explanation": "Nepotizm akraba kayırmacılığı; Kronizm eş, dost, arkadaş kayırmacılığı; Yörecilik/Hemşehricilik ise aynı memleketten olanlara haksız ayrıcalık tanınmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-46-ja7j",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kuruluna yapılan başvuru için aranan usul şartları bakımından aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Dilekçede başvuranın adı, soyadı, imzası ve adresinin bulunması",
+      "Elde mevcut olan bilgi ve belgelerin başvuruya eklenmesi",
+      "İddianın kişi, zaman ve yer bilgileriyle somutlaştırılması",
+      "Kesinleşmiş bir mahkeme kararının mutlaka başvuruya eklenmesi",
+      "Başvurular yazılı ya da elektronik ortamda yapılabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Başvuru için kesinleşmiş mahkeme kararı aranmaz. Bununla birlikte başvuru, kişi, zaman ve yer belirterek somutlaştırılmalı; elde bulunan bilgi ve belgeler eklenmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-47-g0jk",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Niccolò Machiavelli'nin etik anlayışında (Makyavelizm) siyasi ve yönetsel alanda geçerli olan temel prensip aşağıdakilerden hangisidir?",
+    "options": [
+      "Adalet, her koşulda her şeyin üstünde tutulmalıdır",
+      "Amaca ulaşmak için her yol mübahtır (Amacı meşrulaştıran yoldur)",
+      "Toplumsal eşitlik en önemli değerdir",
+      "Dini kurallar her karara yön vermelidir",
+      "Erdem tamamen eylemin arkasındaki niyete bağlıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Makyavelist yaklaşıma göre devletin veya yöneticinin gücünü koruması ve amaca ulaşması esastır; bu yolda etik dışı davranışlar bile eğer başarılı oluyorsa meşru görülebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-48-23j5",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu yöneticisinin 'Vatandaş ne kadar vergi veriyorsa, o kadar hızlı hizmet almalıdır' şeklinde bir yaklaşım sergilemesi, Yönetmeliğin hangi ilkesiyle doğrudan çelişir?",
+    "options": [
+      "Saydamlık",
+      "Dürüstlük ve Tarafsızlık (Eşitlik)",
+      "Yöneticilerin hesap verme sorumluluğu",
+      "Bağlayıcı açıklamalar yapmama",
+      "Eski kamu görevlileriyle ilişkiler"
+    ],
+    "answer_index": 1,
+    "explanation": "Tarafsızlık ve eşitlik ilkesine göre kamu hizmeti sunulurken vatandaşın cinsiyetine, inancına, siyasi görüşüne veya ekonomik durumuna (zenginliğine/fakirliğine) göre ayrım yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-49-55iv",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu hizmetlerinin yerine getirilmesinde 'Saydamlık ve Katılımcılık' ilkesinin yasal güvencesi temel olarak hangi kanun ile sağlanmıştır?",
+    "options": [
+      "657 sayılı Devlet Memurları Kanunu",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "4982 sayılı Bilgi Edinme Hakkı Kanunu",
+      "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hk. Kanun",
+      "5237 sayılı Türk Ceza Kanunu"
+    ],
+    "answer_index": 2,
+    "explanation": "Saydamlık (şeffaflık) ilkesi, 4982 sayılı Bilgi Edinme Hakkı Kanunu ile vatandaşların devlet kurumlarından bilgi ve belge isteme hakkının yasal zemine oturtulmasıyla sağlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-5-wwgj",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik Kurulun doğrudan inceleme yetkisi dışında kalan diğer kamu görevlileri hakkında etik ilke ihlali iddiasıyla yapılan başvurular, ilgili kurumda hangi mercide incelenir?",
+    "options": [
+      "Kamu Görevlileri Etik Kurulunda",
+      "İlgili kurumun yetkili disiplin kurulunda",
+      "Sadece kurum etik komisyonunda",
+      "Doğrudan Cumhuriyet başsavcılığında",
+      "Yalnızca ilgili kurumun insan kaynakları biriminde"
+    ],
+    "answer_index": 1,
+    "explanation": "5176 sayılı Kanun'un 4. maddesi ve Yönetmeliğin ilgili hükümleri uyarınca, bu başvurular ilgili kurumun yetkili disiplin kurulunda incelenir. Etik komisyonlarının rolü esasen yönlendirme ve danışmanlıktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-50-scam",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Ahlaki eylemin değerini, eylemin niyetine (ödev duygusuna) ve o eylemin evrensel bir yasa olup olamayacağına bağlayan 'Ödev Etiği' (Kategorik İmperatif) yaklaşımı kime aittir?",
+    "options": [
+      "Immanuel Kant",
+      "Jeremy Bentham",
+      "Aristoteles",
+      "Sokrates",
+      "John Locke"
+    ],
+    "answer_index": 0,
+    "explanation": "Kant'ın ödev etiği (Deontolojik etik); bir eylemin sonucuna değil, niyetine, kurala ve ödeve uygun olup olmadığına bakar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-51-q50g",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulu'nun kararlarına karşı yargı yolu açık mıdır?",
+    "options": [
+      "Hayır, kararlar kesindir ve hiçbir şekilde yargıya taşınamaz.",
+      "Yalnızca Cumhurbaşkanlığına itiraz dilekçesiyle başvurulabilir.",
+      "Evet, Kurul kararlarına karşı idari yargı (İdare Mahkemeleri) nezdinde dava açılabilir.",
+      "Yalnızca doğrudan Anayasa Mahkemesine başvuru yapılabilir.",
+      "Yalnızca Yargıtay nezdinde temyiz yoluna gidilebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Etik Kurul kararları idari bir işlem niteliğinde olduğu için, hakkında ihlal kararı verilenler İdari Yargılama Usulü Kanunu (İYUK) kapsamında idari yargıya başvurabilirler.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-52-s2ty",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik kültürünün kurum içinde yerleşmesi için, kurum amiri ve yöneticilerin çalışanlarına rol model olması ve yol göstermesine ne ad verilir?",
+    "options": [
+      "Etik İkilem",
+      "Etik Kod",
+      "Etik Liderlik",
+      "Etik Körlük",
+      "Etik İhlal"
+    ],
+    "answer_index": 2,
+    "explanation": "Etik liderlik, yöneticilerin kendi örnek davranışlarıyla ve aldıkları kararlarla kurum içinde etik standartları tesis etmesi ve astlarına ilham vermesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-55-qxkx",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi Kamu Görevlileri Etik Kurulu'nun görevleri arasında yer almaz?",
+    "options": [
+      "Kamu görevlilerinin uymaları gereken etik davranış ilkelerini belirlemek",
+      "En az genel müdür veya eşiti seviyedeki yöneticiler hakkındaki etik ihlal iddialarını incelemek",
+      "Etik kültürünü yerleştirmek üzere eğitim faaliyetleri koordine etmek",
+      "Etik ilkeler konusunda kurumlara danışmanlık yapmak",
+      "Etik ilkelere uymadığı tespit edilen memurlara disiplin cezası (örneğin kınama, aylıktan kesme) vermek"
+    ],
+    "answer_index": 4,
+    "explanation": "Etik Kurul inceleme, tespit ve ilke belirleme yetkisine sahiptir ancak kendisi doğrudan bir ceza veya disiplin kurumu değildir. Ceza verme yetkisi ilgili kurumun disiplin amirlerine/kurullarına aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-56-sb1z",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kurumda, 'Nasıl olsa herkes böyle yapıyor, bu küçük hediye sorun olmaz' diyerek yanlış bir davranışın kurum içinde olağanlaşması ve meşrulaştırılması durumuna ne ad verilir?",
+    "options": [
+      "Etik Rasyonalizasyon (Mantığa Bürüme / Doğrulama)",
+      "Etik İkilem (Değer Çatışması Durumu)",
+      "Etik Liderlik (Örnek Davranış Sergileme)",
+      "Kategorik İmperatif (Kant'ın Ahlak İlkesi)",
+      "Saydamlık (Açıklık İlkesi)"
+    ],
+    "answer_index": 0,
+    "explanation": "Etik rasyonalizasyon, kişilerin ahlaki olmayan eylemlerini kendi vicdanlarını rahatlatmak veya topluma kabul ettirmek için çeşitli bahaneler (mantığa bürüme) üreterek aklamaya çalışmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-18T11:27:48.042672+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-58-4uaw",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik Kurul Başkanı, üyeleri veya sekretaryada görevli personelin, henüz tamamlanmamış bir başvuru incelemesindeki bilgileri basına açıklaması hangi yükümlülüğün ihlalidir?",
+    "options": [
+      "Gizlilik (sır saklama) yükümlülüğü",
+      "Saydamlık ilkesi",
+      "Nezaket ilkesi",
+      "Liyakat ilkesi",
+      "Kamu mallarını koruma yükümlülüğü"
+    ],
+    "answer_index": 0,
+    "explanation": "Yönetmelikte gizlilik yükümlülüğü özellikle Kurul Başkanı, üyeleri ve sekretarya personeli için düzenlenmiştir. Bu kişilerin incelemeye ilişkin bilgileri yetkisiz biçimde açıklamaları gizlilik ihlalidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-64-wmhe",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulu, incelemesini tamamladığı bir dosya hakkında verdiği kararı aşağıdakilerden hangisine 'bildirmez'?",
+    "options": [
+      "Hakkında inceleme yapılan kamu görevlisine",
+      "Başvuruda bulunan şikayetçiye",
+      "İlgili kamu görevlisinin atamaya yetkili amirine",
+      "İlgili kamu görevlisinin varsa sendika temsilcisine",
+      "Gereği yapılmak üzere Cumhurbaşkanlığına (veya ilgili Bakanlığa)"
+    ],
+    "answer_index": 3,
+    "explanation": "Etik Kurul kararları ilgilisine, şikayetçiye ve disiplin yönünden gereği için atamaya yetkili amire bildirilir; ancak sendika temsilciliği gibi üçüncü taraflara resmi bir bildirim zorunluluğu yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-66-aoan",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi Etik Kurula başvuru yapılamayacak durumlardan biridir?",
+    "options": [
+      "Genel müdür yardımcısının bir firmadan hediye alması",
+      "Valinin bir ihalede taraf tutması",
+      "Yargı kararıyla kesinleşmiş bir disiplin cezasının iptali talebi",
+      "Belediye başkanının akrabasını işe alması",
+      "Müsteşarın kamu aracını özel tatilde kullanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Yargı organlarında görülmekte olan veya yargı kararıyla sonuçlanmış konular hakkında Etik Kurula başvuru yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-7-ugoh",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Davranış İlkeleri Yönetmeliği'ne göre aşağıdakilerden hangisi, hediye alma yasağı kapsamında yasaklanmış sayılmayan bir örnektir?",
+    "options": [
+      "Halka açık bir yarışmada kazanılan ödül",
+      "Kurumla iş yapan yüklenicinin sunduğu seyahat bileti",
+      "Kurumun işlem yaptığı bankanın yalnızca personele sunduğu piyasa dışı kredi avantajı",
+      "Hizmet sunulan kişiden alınan değerli takı",
+      "Hizmet sunulan kişiden alınan nakit para"
+    ],
+    "answer_index": 0,
+    "explanation": "Halka açık yarışmalarda kazanılan ödüller Yönetmeliğin 15. maddesindeki istisnalar arasındadır. Kuruma katkı niteliğindeki eşya ve imkânlar ise ayrı koşullara bağlıdır; diğer seçeneklerdeki kişisel menfaatler istisna değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-70-xgk5",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulunun üyelikleri için Kanunda sayılan gruplardan biri aşağıdakilerden hangisi değildir?",
+    "options": [
+      "Bakanlık görevi yapmış kişiler",
+      "Yargıtay, Danıştay veya Sayıştay üyeliğinden emekli olan kişiler",
+      "Rektörlük veya dekanlık yapmış öğretim üyeleri ya da emeklileri",
+      "Aktif görevdeki Türk Silahlı Kuvvetleri subayları",
+      "Danıştay üyeliğinden emekli olan kişiler"
+    ],
+    "answer_index": 3,
+    "explanation": "5176 sayılı Kanunda Kurul üyelikleri için eski bakanlar, yüksek yargı mensupları, eski üst düzey yöneticiler ve akademik yöneticiler gibi gruplar sayılır. Aktif TSK subayları bu gruplar arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-71-qeyy",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu çalışanının, üst amirinin mevzuata aykırı talimatını yazılı olarak yeniletmesi durumu hangi kavramla ilgilidir?",
+    "options": [
+      "Keyfi emir",
+      "Suç teşkil eden emir",
+      "Kanunsuz emir",
+      "Resmi emir",
+      "Tavsiye"
+    ],
+    "answer_index": 2,
+    "explanation": "Anayasa'nın 137. maddesine göre kanunsuz emirde memur itiraz eder, amir yazılı yenilerse sorumluluk amire geçer.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-73-zm94",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Ahlaki gelişim teorisinde 'Başkaları ne der?' veya 'Toplumun beklentileri nelerdir?' sorularına göre hareket eden bir kişi hangi aşamadadır?",
+    "options": [
+      "Gelenek Öncesi Düzey",
+      "Geleneksel Düzey",
+      "Gelenek Sonrası Düzey",
+      "Kendi Başına Düzey",
+      "Evrensel İlkeler Düzeyi"
+    ],
+    "answer_index": 1,
+    "explanation": "Kohlberg'in teorisinde Geleneksel Düzey (iyi çocuk eğilimi), çevrenin ve toplumun onayını esas alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-75-b8q9",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulunun 2025 yılı Faaliyet Raporuna göre sekretarya hizmetleri hangi kurum tarafından yürütülmektedir?",
+    "options": [
+      "Adalet Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı",
+      "Türkiye Büyük Millet Meclisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurulun 2025 yılı Faaliyet Raporunda sekretarya hizmetlerinin Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yürütüldüğü belirtilmektedir. Bu tür idari görevler zaman içinde değişebileceğinden rapor yılı önemlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-77-pm5v",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir personelin, kurumdaki usulsüzlüğü şikayet etmesi sonucunda yöneticisi tarafından sürekli olarak düşük performans puanı alması veya istenmeyen yerlere atanması hangi etik dışı durumdur?",
+    "options": [
+      "Nepotizm",
+      "Misilleme (Retaliation)",
+      "Kronizm",
+      "Hesap verebilirlik",
+      "Saydamlık"
+    ],
+    "answer_index": 1,
+    "explanation": "Dürüstlük gösterip yanlışları bildiren (whistleblower) çalışana yönelik uygulanan baskı ve cezalandırmalara misilleme denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-78-pqk4",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi Etik Kurulu tarafından 'kamu görevlisi' sayılmayan kurumlardan biridir?",
+    "options": [
+      "Belediyeler",
+      "Özel bankalar",
+      "Kamu İktisadi Teşebbüsleri",
+      "Valilikler",
+      "Bakanlıklar"
+    ],
+    "answer_index": 1,
+    "explanation": "Etik Kurulu'nun yetki alanı kamu kurumları ve kamu kurumu niteliğindeki kuruluşlarla sınırlıdır; özel sektör bankaları kapsam dışıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-79-3y93",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik Yönetmeliğine göre 'Kamu Kaynaklarının Kullanımı' ilkesi aşağıdakilerden hangisini 'yasaklar'?",
+    "options": [
+      "Enerji tasarrufu yapmayı",
+      "Kamu araçlarının sadece görev emriyle kullanılmasını",
+      "Kurumun imkanlarının siyasi faaliyetlerde kullanılmasını",
+      "Hizmet içi eğitimlere bütçe ayrılmasını",
+      "Binaların periyodik bakımının yapılmasını"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu kaynakları (araç, bina, personel) hiçbir şekilde siyasi partilerin veya şahsi amaçların emrine sunulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-8-6zsh",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kuruluna başvuru hakkıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Türkiye Cumhuriyeti vatandaşları başvuru yapabilir.",
+      "Türkiye'de oturan yabancı gerçek kişiler de başvuru yapabilir.",
+      "Sadece Türkiye Cumhuriyeti vatandaşları başvuru yapabilir.",
+      "Başvurunun konusu kişi, zaman ve yer bilgileriyle somutlaştırılmalıdır.",
+      "İsimsiz ve imzasız başvurular kural olarak işleme konmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "5176 sayılı Kanun'un 4. maddesine göre Türkiye Cumhuriyeti vatandaşları ile Türkiye'de oturan yabancı gerçek kişiler başvuru yapabilir. Kanunda karşılıklılık koşulu aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-86-qaff",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi dürüstlük ve tarafsızlık ilkesini açıkça ihlal eder?",
+    "options": [
+      "Hizmet sunumunda siyasi görüş ayrımı yapmamak",
+      "Gerçek dışı beyanlardan kaçınmak",
+      "Sadece kendi hemşehrilerine iş imkânı sağlamak",
+      "Baskılara boyun eğmeden karar vermek",
+      "Liyakat esasına göre değerlendirme yapmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Hemşehricilik, kamu hizmetinde tarafsızlık ve eşitlik ilkeleriyle bağdaşmayan bir kayırmacılık türüdür. Sorunun kökü olumlu biçimde yeniden kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-88-q7zd",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik felsefesinde 'Erdem Etiği' (Karakter Etiği) yaklaşımı en çok hangi düşünüre dayanır?",
+    "options": [
+      "John Locke",
+      "Thomas Hobbes",
+      "Aristoteles",
+      "Jean-Paul Sartre",
+      "Immanuel Kant"
+    ],
+    "answer_index": 2,
+    "explanation": "Erdem etiği, eylemin yalnızca sonucundan veya kuralından çok, erdemli karakterin oluşumuna odaklanır ve Aristoteles'in düşüncesine dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-90-1jxa",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulu'nun kuruluş yılı ve dayandığı kanun numarası aşağıdakilerden hangisidir?",
+    "options": [
+      "2001 - 4982 sayılı Kanun",
+      "2004 - 5176 sayılı Kanun",
+      "2005 - 5393 sayılı Kanun",
+      "1999 - 4483 sayılı Kanun",
+      "1982 - 657 sayılı Kanun"
+    ],
+    "answer_index": 1,
+    "explanation": "Kamu Görevlileri Etik Kurulu, 2004 yılında kabul edilen 5176 sayılı Kamu Görevlileri Etik Kurulu Kurulması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-91-gdao",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu kurumlarında her yıl 'Etik Günü' olarak kutlanan ve Etik Haftasının başlangıcı olan tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "10 Aralık",
+      "1 Mayıs",
+      "25 Mayıs",
+      "1 Eylül",
+      "29 Ekim"
+    ],
+    "answer_index": 2,
+    "explanation": "2008 yılından bu yana her yıl 25 Mayıs günü 'Etik Günü', aynı günün yer aldığı hafta ise 'Etik Haftası' olarak kutlanmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-96-q6za",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kurum içinde, bir personelin diğer personellere sürekli ve kasıtlı olarak asılsız söylentiler yayması, onları izole etmesi ve çalışmalarını sabote etmesi hangi kavramla ifade edilir?",
+    "options": [
+      "Whistleblowing",
+      "Örgütsel Vatandaşlık",
+      "Sinerji",
+      "Mobbing (Yıldırma)",
+      "Mentörlük"
+    ],
+    "answer_index": 3,
+    "explanation": "İş yerinde sistematik olarak uygulanan psikolojik şiddet, dışlama ve yıldırma eylemlerine mobbing adı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-98-5j1z",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aristoteles'in 'Erdem Etiği'nde savunduğu 'Altın Orta' (Kavramsal Denge) ilkesine göre 'Cimrilik' ile 'Savurganlık' arasındaki erdemli davranış hangisidir?",
+    "options": [
+      "Cömertlik",
+      "Fakirlik",
+      "Cesaret",
+      "Zenginlik",
+      "Kibir"
+    ],
+    "answer_index": 0,
+    "explanation": "Aristoteles erdemi iki aşırılığın ortası olarak tanımlar. Cimrilik (eksiklik) ile savurganlık (fazlalık) arasındaki altın orta Cömertliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mssy5hp9-99-y3x6",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kurulu'na yapılacak şikayet başvuruları için bir 'başvuru harcı' veya 'ücreti' ödenmesi gerekir mi?",
+    "options": [
+      "Evet, her başvuru için asgari ücretin %10'u ödenir.",
+      "Hayır, Etik Kurula başvurular tamamen ücretsizdir.",
+      "Sadece başvuru reddedilirse ücret alınır.",
+      "Sadece kurum personeli dışından başvuranlar ücret öder.",
+      "Evet, davayı kaybeden taraf mahkeme masraflarını öder."
+    ],
+    "answer_index": 1,
+    "explanation": "Vatandaşların ve kamu görevlilerinin Etik Kurul'a yapacağı ihbar ve şikayet başvuruları harca veya herhangi bir ücrete tabi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:13.035757+00:00",
+    "updated_at": "2026-08-14T12:52:13.035757+00:00"
+  }
+]

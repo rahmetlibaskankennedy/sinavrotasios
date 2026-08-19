@@ -4,24 +4,24 @@
     "title": "Türkçe Dilbilgisi",
     "category_id": "general-culture",
     "status": "demo",
-    "question_source": "cards",
-    "linked_topic_id": null,
-    "card_deck_id": "turkce",
+    "question_source": "sorular",
+    "linked_topic_id": "topic-turkce",
+    "card_deck_id": null,
     "sort_order": 1,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
   },
   {
     "topic_id": "insan-haklari",
     "title": "İnsan Hakları ve Demokrasi",
     "category_id": "general-culture",
     "status": "demo",
-    "question_source": "cards",
-    "linked_topic_id": null,
-    "card_deck_id": "insan-haklari",
+    "question_source": "sorular",
+    "linked_topic_id": "topic-insanhaklari",
+    "card_deck_id": null,
     "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
   },
   {
     "topic_id": "idare-sistemi",
@@ -40,24 +40,24 @@
     "title": "Protokol Kuralları",
     "category_id": "general-culture",
     "status": "demo",
-    "question_source": "cards",
-    "linked_topic_id": null,
-    "card_deck_id": "protokol",
+    "question_source": "sorular",
+    "linked_topic_id": "t-protokol-kurallari-807r5",
+    "card_deck_id": null,
     "sort_order": 4,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
   },
   {
     "topic_id": "ataturk",
     "title": "Atatürk İlkeleri ve İnkılap Tarihi",
     "category_id": "general-culture",
     "status": "demo",
-    "question_source": "cards",
-    "linked_topic_id": null,
-    "card_deck_id": "ataturk",
+    "question_source": "sorular",
+    "linked_topic_id": "topic-inkilap",
+    "card_deck_id": null,
     "sort_order": 5,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
   },
   {
     "topic_id": "genel-kultur-diger",
@@ -132,6 +132,30 @@
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
   },
   {
+    "topic_id": "t-sozcuk-bilgisi-2w1wg",
+    "title": "Sözcük Bilgisi",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-sozcuk-bilgisi-2w1wg",
+    "card_deck_id": null,
+    "sort_order": 11,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
+  },
+  {
+    "topic_id": "t-fiil-bilgisi-2wgov",
+    "title": "Fiil Bilgisi",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-fiil-bilgisi-2wgov",
+    "card_deck_id": null,
+    "sort_order": 12,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
+  },
+  {
     "topic_id": "4483-kanun",
     "title": "4483 Sayılı Kanun",
     "category_id": "general-legislation",
@@ -156,6 +180,30 @@
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
   },
   {
+    "topic_id": "t-tamlamalar-2woav",
+    "title": "Tamlamalar",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-tamlamalar-2woav",
+    "card_deck_id": null,
+    "sort_order": 13,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
+  },
+  {
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "title": "Cümle Bilgisi",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-cumle-bilgisi-2wxpb",
+    "card_deck_id": null,
+    "sort_order": 14,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
+  },
+  {
     "topic_id": "4982-kanun",
     "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
     "category_id": "general-legislation",
@@ -165,7 +213,7 @@
     "card_deck_id": null,
     "sort_order": 14,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+    "updated_at": "2026-08-17T14:20:13.416262+00:00"
   },
   {
     "topic_id": "5018-kanun",
@@ -180,6 +228,18 @@
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
   },
   {
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "title": "Ses Bilgisi",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-ses-bilgisi-2x3e8",
+    "card_deck_id": null,
+    "sort_order": 15,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
+  },
+  {
     "topic_id": "2886-kanun",
     "title": "2886 Sayılı Devlet İhale Kanunu",
     "category_id": "general-legislation",
@@ -190,6 +250,18 @@
     "sort_order": 16,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "title": "Yazım ve Noktalama",
+    "category_id": "general-culture",
+    "status": "real",
+    "question_source": "sorular",
+    "linked_topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "card_deck_id": null,
+    "sort_order": 16,
+    "created_at": "2026-08-15T08:14:44.514475+00:00",
+    "updated_at": "2026-08-17T14:38:54.918926+00:00"
   },
   {
     "topic_id": "4734-kanun",
@@ -274,30 +346,5 @@
     "sort_order": 23,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "topic_id": "bagli-mevzuat-memur",
-    "title": "Bağlı Mevzuat (Memur)",
-    "category_id": "meb-legislation",
-    "status": "demo",
-    "question_source": "sorular",
-    "linked_topic_id": "bagli-mevzuat-memur",
-    "card_deck_id": null,
-    "sort_order": 24,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "topic_id": "bagli-mevzuat-sef",
-    "title": "Bağlı Mevzuat (Şef)",
-    "category_id": "meb-legislation",
-    "status": "demo",
-    "question_source": "sorular",
-    "linked_topic_id": "bagli-mevzuat-sef",
-    "card_deck_id": null,
-    "sort_order": 25,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
   }
 ]
-

@@ -13,13 +13,14 @@
       "sayman",
       "sube-mudur"
     ],
-    "sort_order": 0,
+    "sort_order": 25,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:16:52.120242+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-2886.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "2886-sayili-kanun"
   },
   {
     "id": "4688-kanun",
@@ -35,13 +36,14 @@
       "sayman",
       "sube-mudur"
     ],
-    "sort_order": 0,
+    "sort_order": 26,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:18:10.678639+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-4688.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "4688-sayili-kanun"
   },
   {
     "id": "4734-kanun",
@@ -57,13 +59,14 @@
       "sayman",
       "sube-mudur"
     ],
-    "sort_order": 0,
+    "sort_order": 27,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:16:43.546732+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-4734.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "4734-sayili-kanun"
   },
   {
     "id": "4735-kanun",
@@ -79,32 +82,39 @@
       "sayman",
       "sube-mudur"
     ],
-    "sort_order": 0,
+    "sort_order": 28,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:16:32.538839+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-4735.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "4735-sayili-kanun"
   },
   {
     "id": "4982-kanun",
     "category_id": "general-legislation",
     "parent_id": null,
-    "type": "exam_topic",
+    "type": "document",
     "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
     "document_number": null,
     "article_range": null,
     "article_count": null,
     "question_count": null,
-    "kadrolar": [],
-    "sort_order": 0,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 29,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-07T09:54:09.866142+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-4982-alone.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": false
+    "show_in_catalog": true,
+    "flashcard_deck_id": "4982-sayili-kanun"
   },
   {
     "id": "652-khk",
@@ -128,49 +138,8 @@
     "source_file": "sorular/questions-652-khk.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
-  },
-  {
-    "id": "bagli-mevzuat-memur",
-    "category_id": "meb-legislation",
-    "parent_id": null,
-    "type": "exam_topic",
-    "title": "Bağlı Mevzuat (Memur)",
-    "document_number": null,
-    "article_range": null,
-    "article_count": null,
-    "question_count": null,
-    "kadrolar": [
-      "memur"
-    ],
-    "sort_order": 0,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T11:14:09.054686+00:00",
-    "source_file": "sorular/questions-bagli-mevzuat-memur.json",
-    "summary": null,
-    "key_points": [],
-    "show_in_catalog": true
-  },
-  {
-    "id": "bagli-mevzuat-sef",
-    "category_id": "meb-legislation",
-    "parent_id": null,
-    "type": "exam_topic",
-    "title": "Bağlı Mevzuat (Şef)",
-    "document_number": null,
-    "article_range": null,
-    "article_count": null,
-    "question_count": null,
-    "kadrolar": [
-      "sef"
-    ],
-    "sort_order": 0,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T11:14:09.054686+00:00",
-    "source_file": "sorular/questions-bagli-mevzuat-sef.json",
-    "summary": null,
-    "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-1739",
@@ -179,9 +148,9 @@
     "type": "document",
     "title": "1739 sayılı Milli Eğitim Temel Kanunu",
     "document_number": null,
-    "article_range": null,
-    "article_count": 62,
-    "question_count": 20,
+    "article_range": "1-64",
+    "article_count": 64,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -190,11 +159,12 @@
     ],
     "sort_order": 1,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:22:06.075467+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-1739.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "1739-sayili-kanun"
   },
   {
     "id": "law-222",
@@ -214,11 +184,12 @@
     ],
     "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:22:09.405856+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-222.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "222-sayili-kanun"
   },
   {
     "id": "law-222-section-a-lma-kapanma-ve-tatiller",
@@ -237,7 +208,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-ek-ge-ici-ve-son-h-k-mler",
@@ -256,7 +228,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-gelir-gider-ve-planlama",
@@ -275,7 +248,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-genel-esaslar",
@@ -294,7 +268,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-i-lde-i-lk-retim-g-revlileri",
@@ -313,7 +288,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-i-lk-retim-kurullar",
@@ -332,7 +308,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-kay-t-ve-kabul",
@@ -351,7 +328,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-okul-yap-m-ve-donat-m",
@@ -370,7 +348,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-okula-devam",
@@ -389,7 +368,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
@@ -408,7 +388,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-t-rl-h-k-mler",
@@ -427,7 +408,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-222-section-te-kilat",
@@ -446,7 +428,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-4483",
@@ -464,35 +447,12 @@
     ],
     "sort_order": 20,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:21:03.664375+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-4483.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
-  },
-  {
-    "id": "law-4982",
-    "category_id": "general-legislation",
-    "parent_id": null,
-    "type": "document",
-    "title": "4982 sayılı Bilgi Edinme Hakkı Kanunu",
-    "document_number": null,
-    "article_range": null,
-    "article_count": null,
-    "question_count": 6,
-    "kadrolar": [
-      "memur",
-      "sef",
-      "sayman",
-      "sube-mudur"
-    ],
-    "sort_order": 22,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-07T09:54:14.917286+00:00",
-    "source_file": "sorular/questions-4982.json",
-    "summary": null,
-    "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "4483-sayili-kanun"
   },
   {
     "id": "law-5018",
@@ -510,11 +470,12 @@
     ],
     "sort_order": 24,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-5018.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "5018-sayili-kanun"
   },
   {
     "id": "law-5442",
@@ -534,11 +495,12 @@
     ],
     "sort_order": 21,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-5442.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "5442-sayili-kanun"
   },
   {
     "id": "law-5580",
@@ -556,11 +518,12 @@
     ],
     "sort_order": 16,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-5580.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "5580-sayili-kanun"
   },
   {
     "id": "law-657",
@@ -580,11 +543,12 @@
     ],
     "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:18:21.151035+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-657.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "657-sayili-kanun"
   },
   {
     "id": "law-657-section-atanma-ilerleme-yer-degistirme",
@@ -603,7 +567,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-calisma-saatleri-izinler",
@@ -622,7 +587,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-cesitli-hukumler",
@@ -641,7 +607,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-disiplin",
@@ -660,7 +627,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-gecici-ve-son-hukumler",
@@ -679,7 +647,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-genel-haklar-yasaklar",
@@ -698,7 +667,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-gorevden-uzaklastirma",
@@ -717,7 +687,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-istihdam-sekilleri",
@@ -736,7 +707,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-kapsam-amac-ilkeler",
@@ -755,7 +727,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-mali-hukumler",
@@ -774,7 +747,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-memur-yetistirilmesi",
@@ -793,7 +767,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-memurluga-alinma",
@@ -812,7 +787,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-memurlugun-sona-ermesi",
@@ -831,7 +807,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-odevler-sorumluluklar",
@@ -850,7 +827,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-ozluk-dosyasi",
@@ -869,7 +847,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-siniflandirma",
@@ -888,7 +867,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-657-section-sosyal-haklar-yardimlar",
@@ -907,7 +887,8 @@
     "source_file": null,
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "law-anayasa",
@@ -927,35 +908,108 @@
     ],
     "sort_order": 1,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:18:15.502449+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-anayasa.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "anayasa"
   },
   {
-    "id": "law-cbk1",
-    "category_id": "meb-legislation",
-    "parent_id": null,
-    "type": "document",
-    "title": "1 Sayılı Cumhurbaşkanlığı Kararnamesi (MEB Teşkilatı)",
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Amaç, Kapsam ve Tanımlar",
     "document_number": null,
-    "article_range": null,
+    "article_range": "1-3",
     "article_count": null,
-    "question_count": 20,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-16T12:08:37.657180+00:00",
+    "updated_at": "2026-08-16T12:08:37.657180+00:00",
+    "source_file": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "category_id": "general-legislation",
+    "parent_id": "4982-kanun",
+    "type": "section",
+    "title": "Amaç, Kapsam ve Tanımlar",
+    "document_number": null,
+    "article_range": "1-3",
+    "article_count": null,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
       "sayman",
       "sube-mudur"
     ],
-    "sort_order": 15,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:22:12.459765+00:00",
-    "source_file": "sorular/questions-cbk1.json",
+    "sort_order": 0,
+    "created_at": "2026-08-16T12:14:47.936217+00:00",
+    "updated_at": "2026-08-16T12:14:47.936217+00:00",
+    "source_file": "t-amac-kapsam-ve-tanimlar-rp2f7",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "category_id": "meb-legislation",
+    "parent_id": "law-5580",
+    "type": "section",
+    "title": "Amaç, Kapsam ve Tanımlar",
+    "document_number": null,
+    "article_range": "1-2",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T08:18:09.530841+00:00",
+    "updated_at": "2026-08-17T08:18:09.530841+00:00",
+    "source_file": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Anlatım Bozuklukları",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-15T08:07:17.623971+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-anlatim-bozukluklari-3ey95",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
@@ -979,7 +1033,179 @@
     "source_file": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-baslangic-x0svf",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Başlangıç",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:31:38.709447+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-baslangic-x0svf",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97",
+    "category_id": "general-legislation",
+    "parent_id": "4982-kanun",
+    "type": "section",
+    "title": "Bilgi Edinme Başvurusu",
+    "document_number": null,
+    "article_range": "6-14",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-16T12:15:16.073103+00:00",
+    "updated_at": "2026-08-16T12:15:16.073103+00:00",
+    "source_file": "t-bilgi-edinme-basvurusu-rpo97",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "category_id": "general-legislation",
+    "parent_id": "4982-kanun",
+    "type": "section",
+    "title": "Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+    "document_number": null,
+    "article_range": "4-5",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-16T12:15:01.858718+00:00",
+    "updated_at": "2026-08-16T12:15:01.858718+00:00",
+    "source_file": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "category_id": "general-legislation",
+    "parent_id": "4982-kanun",
+    "type": "section",
+    "title": "Bilgi Edinme Hakkının Sınırları",
+    "document_number": null,
+    "article_range": "15-28",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-16T12:15:30.087458+00:00",
+    "updated_at": "2026-08-16T12:15:30.087458+00:00",
+    "source_file": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "category_id": "meb-legislation",
+    "parent_id": "law-5580",
+    "type": "section",
+    "title": "Kurum Açma, Kurucu, Kurum Binaları, Milletlerarası Özel Öğretim Kurumları, Yabancı Okullar ve Azınlık Okulları",
+    "document_number": null,
+    "article_range": "3-5",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T08:18:23.487790+00:00",
+    "updated_at": "2026-08-17T14:20:11.903246+00:00",
+    "source_file": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "Bucak İdaresi ve Teşkilatı",
+    "document_number": null,
+    "article_range": "41-56",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T08:04:04.298286+00:00",
+    "updated_at": "2026-08-17T08:04:04.298286+00:00",
+    "source_file": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Çeşitli, Geçici ve Son Hükümler",
+    "document_number": null,
+    "article_range": "36-46",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-16T12:12:16.901133+00:00",
+    "updated_at": "2026-08-16T12:12:16.901133+00:00",
+    "source_file": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-cesitli-hukumler-33cn9",
@@ -1001,7 +1227,367 @@
     "source_file": "t-cesitli-hukumler-33cn9",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "Çeşitli Hükümler",
+    "document_number": null,
+    "article_range": "62–67",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-16T13:04:37.327945+00:00",
+    "updated_at": "2026-08-16T13:04:37.327945+00:00",
+    "source_file": "t-cesitli-hukumler-th55l",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5",
+    "category_id": "general-legislation",
+    "parent_id": "4735-kanun",
+    "type": "section",
+    "title": "Çeşitli Hükümler",
+    "document_number": null,
+    "article_range": "35-38",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-16T14:20:16.832447+00:00",
+    "updated_at": "2026-08-16T14:20:16.832447+00:00",
+    "source_file": "t-cesitli-hukumler-w6ft5",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq",
+    "category_id": "general-legislation",
+    "parent_id": "law-4483",
+    "type": "section",
+    "title": "Çeşitli Hükümler",
+    "document_number": null,
+    "article_range": "15-18",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T08:01:10.867604+00:00",
+    "updated_at": "2026-08-17T08:01:10.867604+00:00",
+    "source_file": "t-cesitli-hukumler-y2ssq",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "Çeşitli Hükümler",
+    "document_number": null,
+    "article_range": "64-68",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-17T08:04:41.235866+00:00",
+    "updated_at": "2026-08-17T08:04:41.235866+00:00",
+    "source_file": "t-cesitli-hukumler-y7b41",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "category_id": "general-legislation",
+    "parent_id": "4982-kanun",
+    "type": "section",
+    "title": "Çeşitli ve Son Hükümler",
+    "document_number": null,
+    "article_range": "29-33",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-16T12:15:51.972816+00:00",
+    "updated_at": "2026-08-16T12:15:51.972816+00:00",
+    "source_file": "t-cesitli-ve-son-hukumler-rqfyi",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Cümle Bilgisi",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-15T07:53:17.099781+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-cumle-bilgisi-2wxpb",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "category_id": "meb-legislation",
+    "parent_id": "law-5580",
+    "type": "section",
+    "title": "Denetim, Reklâm, Malî Hükümler ve Ücretler",
+    "document_number": null,
+    "article_range": "11-13",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T08:18:51.286378+00:00",
+    "updated_at": "2026-08-17T08:18:51.286378+00:00",
+    "source_file": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-dis-denetim-yekh6",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Dış Denetim",
+    "document_number": null,
+    "article_range": "68-69",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-17T08:10:19.967485+00:00",
+    "updated_at": "2026-08-17T08:10:19.967485+00:00",
+    "source_file": "t-dis-denetim-yekh6",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Eğitim Araç ve Gereçleri",
+    "document_number": "1739",
+    "article_range": "52-55",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-14T22:00:31.025965+00:00",
+    "updated_at": "2026-08-14T22:00:31.025965+00:00",
+    "source_file": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "category_id": "meb-legislation",
+    "parent_id": "law-5580",
+    "type": "section",
+    "title": "Eğitim-Öğretim, Yönetim, Kurumun Kapatılması ve Personel İşlemleri",
+    "document_number": null,
+    "article_range": "6-10",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T08:18:37.232234+00:00",
+    "updated_at": "2026-08-17T08:18:37.232234+00:00",
+    "source_file": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-egitim-ve-ogretim-alanindaki-gorev-ve-so-hr2uj",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Eğitim ve Öğretim Alanındaki Görev ve Sorumluluk",
+    "document_number": "1739",
+    "article_range": "56-59",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 7,
+    "created_at": "2026-08-14T22:00:51.281489+00:00",
+    "updated_at": "2026-08-14T22:00:51.281489+00:00",
+    "source_file": "t-egitim-ve-ogretim-alanindaki-gorev-ve-so-hr2uj",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ekonomik-hukumler-x4tpn",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Ekonomik Hükümler",
+    "document_number": null,
+    "article_range": "166-173",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 10,
+    "created_at": "2026-08-17T07:34:45.717743+00:00",
+    "updated_at": "2026-08-17T07:34:45.717743+00:00",
+    "source_file": "t-ekonomik-hukumler-x4tpn",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-faaliyetler-yasaklar-ve-yonetime-katilma-rj7zn",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Faaliyetler, Yasaklar ve Yönetime Katılma",
+    "document_number": null,
+    "article_range": "19-23",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-16T12:10:15.058965+00:00",
+    "updated_at": "2026-08-16T12:10:15.058965+00:00",
+    "source_file": "t-faaliyetler-yasaklar-ve-yonetime-katilma-rj7zn",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-fiil-bilgisi-2wgov",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Fiil Bilgisi",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-15T07:52:55.027825+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-fiil-bilgisi-2wgov",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-gecici-ve-son-hukumler-yptub",
+    "category_id": "meb-legislation",
+    "parent_id": "law-5580",
+    "type": "section",
+    "title": "Geçici ve Son Hükümler",
+    "document_number": null,
+    "article_range": "14-16",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T08:19:05.299528+00:00",
+    "updated_at": "2026-08-17T08:19:05.299528+00:00",
+    "source_file": "t-gecici-ve-son-hukumler-yptub",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-genel-esaslar-2k6qc",
@@ -1023,7 +1609,175 @@
     "source_file": "t-genel-esaslar-2k6qc",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-esaslar-hlmrn",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Genel Esaslar",
+    "document_number": "1739",
+    "article_range": "2-3",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-14T21:56:37.296416+00:00",
+    "updated_at": "2026-08-14T21:56:37.296416+00:00",
+    "source_file": "t-genel-esaslar-hlmrn",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-esaslar-x18ui",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Genel Esaslar",
+    "document_number": null,
+    "article_range": "1–11",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T07:31:58.707672+00:00",
+    "updated_at": "2026-08-17T07:31:58.707672+00:00",
+    "source_file": "t-genel-esaslar-x18ui",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-hukumler-tff2z",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "Genel Hükümler",
+    "document_number": null,
+    "article_range": "1–17",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-16T13:03:17.350427+00:00",
+    "updated_at": "2026-08-16T13:03:17.350427+00:00",
+    "source_file": "t-genel-hukumler-tff2z",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-hukumler-w5bsa",
+    "category_id": "general-legislation",
+    "parent_id": "4735-kanun",
+    "type": "section",
+    "title": "Genel Hükümler",
+    "document_number": null,
+    "article_range": "1-7",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-16T14:19:25.162712+00:00",
+    "updated_at": "2026-08-16T14:19:25.162712+00:00",
+    "source_file": "t-genel-hukumler-w5bsa",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-hukumler-x1lry",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Genel Hükümler",
+    "document_number": null,
+    "article_range": "12-16",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T07:32:15.475845+00:00",
+    "updated_at": "2026-08-17T07:32:15.475845+00:00",
+    "source_file": "t-genel-hukumler-x1lry",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-hukumler-y0v70",
+    "category_id": "general-legislation",
+    "parent_id": "law-4483",
+    "type": "section",
+    "title": "Genel Hükümler",
+    "document_number": null,
+    "article_range": "1-4",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:59:40.808916+00:00",
+    "updated_at": "2026-08-17T07:59:40.808916+00:00",
+    "source_file": "t-genel-hukumler-y0v70",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-genel-hukumler-yczgi",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Genel Hükümler",
+    "document_number": null,
+    "article_range": "1-11",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T08:09:06.384078+00:00",
+    "updated_at": "2026-08-17T08:09:06.384078+00:00",
+    "source_file": "t-genel-hukumler-yczgi",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
@@ -1047,7 +1801,31 @@
     "source_file": "t-i-dunya-savasi-ve-mondros-ateskes-antlas-txv40",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ic-kontrol-sistemi-ye7f6",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "İç Kontrol Sistemi",
+    "document_number": null,
+    "article_range": "55-67",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T08:10:03.037731+00:00",
+    "updated_at": "2026-08-17T08:10:03.037731+00:00",
+    "source_file": "t-ic-kontrol-sistemi-ye7f6",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-ihale-islerinde-yasaklar-ve-sorumlulukla-324z9",
@@ -1064,12 +1842,36 @@
       "sube-mudur"
     ],
     "sort_order": 6,
-    "created_at": "2026-08-05T12:48:34.03112+00:00",
+    "created_at": "2026-08-05T12:48:34.031120+00:00",
     "updated_at": "2026-08-05T12:50:10.510828+00:00",
     "source_file": "t-ihale-islerinde-yasaklar-ve-sorumlulukla-324z9",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "İhale Süreci",
+    "document_number": null,
+    "article_range": "18–52",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-16T13:03:42.141824+00:00",
+    "updated_at": "2026-08-16T13:03:42.141824+00:00",
+    "source_file": "t-ihale-sureci-tfyj5",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-ihale-usulleri-2o8xw",
@@ -1091,7 +1893,8 @@
     "source_file": "t-ihale-usulleri-2o8xw",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
@@ -1113,7 +1916,8 @@
     "source_file": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-ihaleye-hazirlik-2kl3q",
@@ -1135,7 +1939,227 @@
     "source_file": "t-ihaleye-hazirlik-2kl3q",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-il-idaresi-y5wsz",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "İl İdaresi",
+    "document_number": null,
+    "article_range": "3-26",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T08:03:36.033278+00:00",
+    "updated_at": "2026-08-17T08:03:36.033278+00:00",
+    "source_file": "t-il-idaresi-y5wsz",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-il-ve-ilce-idare-kurullari-y6zbm",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "İl ve İlçe İdare Kurulları",
+    "document_number": null,
+    "article_range": "57-63",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T08:04:25.948220+00:00",
+    "updated_at": "2026-08-17T08:04:25.948220+00:00",
+    "source_file": "t-il-ve-ilce-idare-kurullari-y6zbm",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ilce-idaresi-ve-teskilati-y65nl",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "İlçe İdaresi ve Teşkilatı",
+    "document_number": null,
+    "article_range": "27-40",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T08:03:47.487144+00:00",
+    "updated_at": "2026-08-17T08:03:47.487144+00:00",
+    "source_file": "t-ilce-idaresi-ve-teskilati-y65nl",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-inkilap-kanunlarinin-korunmasi-x56tu",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "İnkılap Kanunlarının Korunması",
+    "document_number": null,
+    "article_range": "174",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 11,
+    "created_at": "2026-08-17T07:35:02.725302+00:00",
+    "updated_at": "2026-08-17T07:35:02.725302+00:00",
+    "source_file": "t-inkilap-kanunlarinin-korunmasi-x56tu",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kamu-hesaplari-ve-mali-istatistikler-ydwkt",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Kamu Hesapları ve Malî İstatistikler",
+    "document_number": null,
+    "article_range": "49-54",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T08:09:48.967507+00:00",
+    "updated_at": "2026-08-17T08:09:48.967507+00:00",
+    "source_file": "t-kamu-hesaplari-ve-mali-istatistikler-ydwkt",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Kamu İdare Bütçeleri",
+    "document_number": null,
+    "article_range": "12-43",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T08:09:20.965913+00:00",
+    "updated_at": "2026-08-17T08:09:20.965913+00:00",
+    "source_file": "t-kamu-idare-butceleri-ydaz7",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kapsam-hl3d0",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Kapsam",
+    "document_number": "1739",
+    "article_range": "1",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-14T21:56:12.185997+00:00",
+    "updated_at": "2026-08-14T21:56:12.185997+00:00",
+    "source_file": "t-kapsam-hl3d0",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "Kamu İhale Kurumu, Şikâyetlerin İncelenmesi ve Anlaşmazlıkların Çözümü",
+    "document_number": null,
+    "article_range": "53–57",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-16T13:04:00.235167+00:00",
+    "updated_at": "2026-08-16T13:11:20.365683+00:00",
+    "source_file": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Kişinin Hakları ve Ödevleri",
+    "document_number": null,
+    "article_range": "17-40",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T07:32:33.272421+00:00",
+    "updated_at": "2026-08-17T07:32:33.272421+00:00",
+    "source_file": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
@@ -1159,7 +2183,8 @@
     "source_file": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
@@ -1183,7 +2208,312 @@
     "source_file": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Kuruluş Esasları ve Organlar",
+    "document_number": null,
+    "article_range": "4-13",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-16T12:09:26.499984+00:00",
+    "updated_at": "2026-08-16T12:09:26.499984+00:00",
+    "source_file": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-mali-hukumler-x4isz",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Mali Hükümler",
+    "document_number": null,
+    "article_range": "161-165",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 9,
+    "created_at": "2026-08-17T07:34:31.586803+00:00",
+    "updated_at": "2026-08-17T07:34:31.586803+00:00",
+    "source_file": "t-mali-hukumler-x4isz",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "Memurların Yetiştirilmeleri ve Eğitimleri Hakkında Genel Yönetmelik",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T08:37:05.235038+00:00",
+    "updated_at": "2026-08-17T17:03:26.436572+00:00",
+    "source_file": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "MEB Disiplin Amirleri Yönetmeliği",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sef"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T08:37:40.308035+00:00",
+    "updated_at": "2026-08-17T08:37:40.308035+00:00",
+    "source_file": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-merkez-teskilati-imza-yetkileri-yone-ze2pd",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "MEB Merkez Teşkilatı İmza Yetkileri Yönergesi",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sef"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-17T08:37:56.545724+00:00",
+    "updated_at": "2026-08-17T08:37:56.545724+00:00",
+    "source_file": "t-meb-merkez-teskilati-imza-yetkileri-yone-ze2pd",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "Millî Eğitim Bakanlığına Bağlı Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T08:37:14.363665+00:00",
+    "updated_at": "2026-08-17T17:42:53.726078+00:00",
+    "source_file": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "MEB Personelin Görevde Yükselme, Unvan Değişikliği ve Yer Değiştirme Suretiyle Atanması Hakkında Yönetmelik",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T08:36:53.053893+00:00",
+    "updated_at": "2026-08-17T08:36:53.053893+00:00",
+    "source_file": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "category_id": "meb-legislation",
+    "parent_id": "t-meb-yonetmelikleri-zc8oa",
+    "type": "section",
+    "title": "MEB Personelin İzin Yönergesi",
+    "document_number": null,
+    "article_range": "-",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-17T08:37:27.299598+00:00",
+    "updated_at": "2026-08-17T08:37:27.299598+00:00",
+    "source_file": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-meb-yonetmelikleri-zc8oa",
+    "category_id": "meb-legislation",
+    "parent_id": null,
+    "type": "topic",
+    "title": "MEB Yönetmelikleri",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef"
+    ],
+    "sort_order": 17,
+    "created_at": "2026-08-17T08:36:31.154445+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-meb-yonetmelikleri-zc8oa",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "Mülki İdare Bölümlerinin Kuruluşları",
+    "document_number": null,
+    "article_range": "1-2",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-17T08:03:22.494424+00:00",
+    "updated_at": "2026-08-17T08:03:22.494424+00:00",
+    "source_file": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Öğretmenlik Mesleği",
+    "document_number": "1739",
+    "article_range": "43-50",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-14T21:59:44.107247+00:00",
+    "updated_at": "2026-08-14T22:10:51.783499+00:00",
+    "source_file": "t-ogretmenlik-meslegi-hpn03",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Okul Binaları ve Tesisleri",
+    "document_number": "1739",
+    "article_range": "51",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-14T22:00:13.296303+00:00",
+    "updated_at": "2026-08-14T22:00:13.296303+00:00",
+    "source_file": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "category_id": "general-legislation",
+    "parent_id": "law-4483",
+    "type": "section",
+    "title": "Ön İnceleme ve Soruşturma İzni",
+    "document_number": null,
+    "article_range": "5-9",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-17T08:00:38.005160+00:00",
+    "updated_at": "2026-08-17T08:00:38.005160+00:00",
+    "source_file": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
@@ -1207,7 +2537,8 @@
     "source_file": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-protokol-kurallari-807r5",
@@ -1218,7 +2549,7 @@
     "document_number": null,
     "article_range": null,
     "article_count": null,
-    "question_count": 10,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -1227,11 +2558,85 @@
     ],
     "sort_order": 6,
     "created_at": "2026-08-04T22:19:15.928982+00:00",
-    "updated_at": "2026-08-04T22:19:15.928982+00:00",
+    "updated_at": "2026-08-15T08:32:35.450483+00:00",
     "source_file": "t-protokol-kurallari-807r5",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Sendika ve Konfederasyonların Gelirleri, Giderleri ve Denetimi",
+    "document_number": null,
+    "article_range": "24-27",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-16T12:10:34.940898+00:00",
+    "updated_at": "2026-08-16T12:10:34.940898+00:00",
+    "source_file": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Ses Bilgisi",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-15T07:53:24.452466+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-ses-bilgisi-2x3e8",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Siyasi Haklar ve Ödevler",
+    "document_number": null,
+    "article_range": "66-74",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-17T07:33:16.931109+00:00",
+    "updated_at": "2026-08-17T07:33:16.931109+00:00",
+    "source_file": "t-siyasi-haklar-ve-odevler-x2x30",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-son-hukumler-33jia",
@@ -1253,7 +2658,225 @@
     "source_file": "t-son-hukumler-33jia",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-hrhmi",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": "1739",
+    "article_range": "60-64",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 8,
+    "created_at": "2026-08-14T22:01:10.435802+00:00",
+    "updated_at": "2026-08-14T22:01:10.435802+00:00",
+    "source_file": "t-son-hukumler-hrhmi",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-tien5",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": null,
+    "article_range": "68",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-16T13:05:36.447552+00:00",
+    "updated_at": "2026-08-16T13:05:36.447552+00:00",
+    "source_file": "t-son-hukumler-tien5",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-w6sl5",
+    "category_id": "general-legislation",
+    "parent_id": "4735-kanun",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": null,
+    "article_range": "39-41",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-16T14:20:33.369792+00:00",
+    "updated_at": "2026-08-16T14:20:33.369792+00:00",
+    "source_file": "t-son-hukumler-w6sl5",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-x5k23",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": null,
+    "article_range": "175-177",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 12,
+    "created_at": "2026-08-17T07:35:19.866893+00:00",
+    "updated_at": "2026-08-17T07:35:19.866893+00:00",
+    "source_file": "t-son-hukumler-x5k23",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-y32zl",
+    "category_id": "general-legislation",
+    "parent_id": "law-4483",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": null,
+    "article_range": "19-20",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T08:01:24.082618+00:00",
+    "updated_at": "2026-08-17T08:01:24.082618+00:00",
+    "source_file": "t-son-hukumler-y32zl",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-son-hukumler-y7kwq",
+    "category_id": "general-legislation",
+    "parent_id": "law-5442",
+    "type": "section",
+    "title": "Son Hükümler",
+    "document_number": null,
+    "article_range": "69-70",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-17T08:04:53.926468+00:00",
+    "updated_at": "2026-08-17T08:04:53.926468+00:00",
+    "source_file": "t-son-hukumler-y7kwq",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "category_id": "general-legislation",
+    "parent_id": "law-4483",
+    "type": "section",
+    "title": "Soruşturma ve Yargılama Usulü",
+    "document_number": null,
+    "article_range": "10-14",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T08:00:56.105701+00:00",
+    "updated_at": "2026-08-17T08:00:56.105701+00:00",
+    "source_file": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-sosyal-ve-ekonomik-haklar-ve-odevler-x2ad8",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Sosyal ve Ekonomik Haklar ve Ödevler",
+    "document_number": null,
+    "article_range": "41-65",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 4,
+    "created_at": "2026-08-17T07:32:47.350828+00:00",
+    "updated_at": "2026-08-17T07:32:47.350828+00:00",
+    "source_file": "t-sosyal-ve-ekonomik-haklar-ve-odevler-x2ad8",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-sozcuk-bilgisi-2w1wg",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Sözcük Bilgisi",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 0,
+    "created_at": "2026-08-15T07:52:35.929711+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-sozcuk-bilgisi-2w1wg",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-sozlesme-hukumleri-2ye2b",
@@ -1275,7 +2898,79 @@
     "source_file": "t-sozlesme-hukumleri-2ye2b",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "category_id": "general-legislation",
+    "parent_id": "4735-kanun",
+    "type": "section",
+    "title": "Sözleşmenin Uygulanması",
+    "document_number": null,
+    "article_range": "8-24",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 1,
+    "created_at": "2026-08-16T14:19:39.639558+00:00",
+    "updated_at": "2026-08-16T14:19:39.639558+00:00",
+    "source_file": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-tamlamalar-2woav",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Tamlamalar",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-15T07:53:04.970096+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-tamlamalar-2woav",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Taşınır ve Taşınmazlar",
+    "document_number": null,
+    "article_range": "44-48",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-17T08:09:33.179491+00:00",
+    "updated_at": "2026-08-17T08:09:33.179491+00:00",
+    "source_file": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
@@ -1299,7 +2994,8 @@
     "source_file": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "t-tekliflerin-degerlendirilmesi-2l1yu",
@@ -1321,18 +3017,42 @@
     "source_file": "t-tekliflerin-degerlendirilmesi-2l1yu",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
-    "id": "topic-cografya",
-    "category_id": "general-culture",
-    "parent_id": null,
-    "type": "topic",
-    "title": "İnsan Hakları ve Demokrasi",
+    "id": "t-toplu-sozlesme-rkljm",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Toplu Sözleşme",
     "document_number": null,
-    "article_range": null,
+    "article_range": "28-35",
     "article_count": null,
-    "question_count": 20,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-16T12:11:19.389354+00:00",
+    "updated_at": "2026-08-16T12:11:19.389354+00:00",
+    "source_file": "t-toplu-sozlesme-rkljm",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Türk Milli Eğitim Sisteminin Genel Yapısı",
+    "document_number": null,
+    "article_range": "18-42",
+    "article_count": null,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -1340,12 +3060,276 @@
       "sube-mudur"
     ],
     "sort_order": 3,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T21:10:22.815342+00:00",
-    "source_file": "sorular/questions-cografya.json",
+    "created_at": "2026-08-14T21:58:25.860532+00:00",
+    "updated_at": "2026-08-14T21:59:10.359079+00:00",
+    "source_file": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-turk-milli-egitiminin-temel-ilkeleri-hmro2",
+    "category_id": "meb-legislation",
+    "parent_id": "law-1739",
+    "type": "section",
+    "title": "Türk Milli Eğitiminin Temel İlkeleri",
+    "document_number": "1739",
+    "article_range": "4-17",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-14T21:57:30.233983+00:00",
+    "updated_at": "2026-08-14T21:57:30.233983+00:00",
+    "source_file": "t-turk-milli-egitiminin-temel-ilkeleri-hmro2",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-uyelik-ve-guvenceler-risb6",
+    "category_id": "general-legislation",
+    "parent_id": "4688-kanun",
+    "type": "section",
+    "title": "Üyelik ve Güvenceler",
+    "document_number": null,
+    "article_range": "14-18",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-16T12:09:54.731350+00:00",
+    "updated_at": "2026-08-16T12:09:54.731350+00:00",
+    "source_file": "t-uyelik-ve-guvenceler-risb6",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yaptirimlar-ve-yetkili-merciler-yf5rv",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Yaptırımlar ve Yetkili Merciler",
+    "document_number": null,
+    "article_range": "70-74",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-17T08:10:47.568454+00:00",
+    "updated_at": "2026-08-17T08:10:47.568454+00:00",
+    "source_file": "t-yaptirimlar-ve-yetkili-merciler-yf5rv",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yaptirimlar-ve-yetkili-merciler-yfmx5",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Diğer Hükümler",
+    "document_number": null,
+    "article_range": "75-80",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 7,
+    "created_at": "2026-08-17T08:11:09.843159+00:00",
+    "updated_at": "2026-08-18T07:03:30.839960+00:00",
+    "source_file": "t-yaptirimlar-ve-yetkili-merciler-yfmx5",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yargi-x3zwx",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Yargı",
+    "document_number": null,
+    "article_range": "138-160",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 8,
+    "created_at": "2026-08-17T07:34:07.095483+00:00",
+    "updated_at": "2026-08-17T07:34:07.095483+00:00",
+    "source_file": "t-yargi-x3zwx",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "category_id": "general-legislation",
+    "parent_id": "4734-kanun",
+    "type": "section",
+    "title": "Yasaklar ve Ceza Sorumluluğu",
+    "document_number": null,
+    "article_range": "58–61",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-16T13:04:14.930224+00:00",
+    "updated_at": "2026-08-16T13:04:14.930224+00:00",
+    "source_file": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "category_id": "general-legislation",
+    "parent_id": "4735-kanun",
+    "type": "section",
+    "title": "Yasaklar ve Sorumluluklar",
+    "document_number": null,
+    "article_range": "25-34",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 2,
+    "created_at": "2026-08-16T14:19:56.643334+00:00",
+    "updated_at": "2026-08-16T14:19:56.643334+00:00",
+    "source_file": "t-yasaklar-ve-sorumluluklar-w6094",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yasama-x3e3e",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Yasama",
+    "document_number": null,
+    "article_range": "75-100",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 6,
+    "created_at": "2026-08-17T07:33:38.885547+00:00",
+    "updated_at": "2026-08-17T07:33:38.885547+00:00",
+    "source_file": "t-yasama-x3e3e",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3",
+    "category_id": "general-culture",
+    "parent_id": "topic-turkce",
+    "type": "section",
+    "title": "Yazım ve Noktalama",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 5,
+    "created_at": "2026-08-15T07:53:35.586965+00:00",
+    "updated_at": "2026-08-17T14:20:10.841716+00:00",
+    "source_file": "t-yazim-ve-noktalama-2xbz3",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "category_id": "general-legislation",
+    "parent_id": "law-5018",
+    "type": "section",
+    "title": "Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük",
+    "document_number": null,
+    "article_range": "81-83",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 8,
+    "created_at": "2026-08-17T08:12:10.235712+00:00",
+    "updated_at": "2026-08-17T08:12:10.235712+00:00",
+    "source_file": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "t-yurutme-x3oo3",
+    "category_id": "general-legislation",
+    "parent_id": "law-anayasa",
+    "type": "section",
+    "title": "Yürütme",
+    "document_number": null,
+    "article_range": "101-137",
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 7,
+    "created_at": "2026-08-17T07:33:52.520622+00:00",
+    "updated_at": "2026-08-17T07:33:52.520622+00:00",
+    "source_file": "t-yurutme-x3oo3",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "topic-guncel",
@@ -1356,7 +3340,7 @@
     "document_number": null,
     "article_range": null,
     "article_count": null,
-    "question_count": 20,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -1365,11 +3349,12 @@
     ],
     "sort_order": 5,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-15T08:32:35.450483+00:00",
     "source_file": "sorular/questions-guncel.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "topic-inkilap",
@@ -1380,7 +3365,7 @@
     "document_number": null,
     "article_range": null,
     "article_count": null,
-    "question_count": 20,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -1389,11 +3374,37 @@
     ],
     "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-15T08:32:35.450483+00:00",
     "source_file": "sorular/questions-inkilap.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
+  },
+  {
+    "id": "topic-insanhaklari",
+    "category_id": "general-culture",
+    "parent_id": null,
+    "type": "topic",
+    "title": "İnsan Hakları ve Demokrasi",
+    "document_number": null,
+    "article_range": null,
+    "article_count": null,
+    "question_count": null,
+    "kadrolar": [
+      "memur",
+      "sef",
+      "sayman",
+      "sube-mudur"
+    ],
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00",
+    "source_file": "sorular/questions-cografya.json",
+    "summary": null,
+    "key_points": [],
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "topic-turkce",
@@ -1404,7 +3415,7 @@
     "document_number": null,
     "article_range": null,
     "article_count": null,
-    "question_count": 20,
+    "question_count": null,
     "kadrolar": [
       "memur",
       "sef",
@@ -1413,11 +3424,12 @@
     ],
     "sort_order": 1,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-15T08:20:53.614766+00:00",
     "source_file": "sorular/questions-turkce.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": null
   },
   {
     "id": "yonetim-insan-iliskileri",
@@ -1430,18 +3442,18 @@
     "article_count": null,
     "question_count": null,
     "kadrolar": [
-      "memur",
       "sef",
       "sayman",
       "sube-mudur"
     ],
     "sort_order": 0,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:16:02.72328+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-yonetim-insan-iliskileri.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "yonetim-insan-iliskileri"
   },
   {
     "id": "yonetim-liderlik",
@@ -1454,18 +3466,18 @@
     "article_count": null,
     "question_count": null,
     "kadrolar": [
-      "memur",
       "sef",
       "sayman",
       "sube-mudur"
     ],
     "sort_order": 0,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:15:42.780326+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-yonetim-liderlik.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "yonetim-liderlik"
   },
   {
     "id": "yonetimde-etik",
@@ -1478,18 +3490,17 @@
     "article_count": null,
     "question_count": null,
     "kadrolar": [
-      "memur",
       "sef",
       "sayman",
       "sube-mudur"
     ],
     "sort_order": 0,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-05T18:15:51.020638+00:00",
+    "updated_at": "2026-08-19T08:52:13.278726+00:00",
     "source_file": "sorular/questions-yonetimde-etik.json",
     "summary": null,
     "key_points": [],
-    "show_in_catalog": true
+    "show_in_catalog": true,
+    "flashcard_deck_id": "yonetimde-etik"
   }
 ]
-

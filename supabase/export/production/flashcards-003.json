@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 161,
+    "deck_id": "5018-sayili-kanun",
+    "question": "5018 sayılı Kanun'un temel amacı nedir?",
+    "answer": "Kamu kaynaklarının etkili, ekonomik ve verimli kullanılmasını sağlamak",
+    "sort_order": 1,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 162,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kanun'a göre bütçe türlerinden biri değildir?",
+    "answer": "Şirket bilançosu",
+    "sort_order": 2,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 163,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Harcama yetkilisi kimdir?",
+    "answer": "Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi",
+    "sort_order": 3,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 164,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Ön mali kontrol görevi temel olarak kime aittir?",
+    "answer": "Strateji Geliştirme Birimlerine",
+    "sort_order": 4,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 165,
+    "deck_id": "5018-sayili-kanun",
+    "question": "5018 sayılı Kanun'a göre stratejik plan hazırlama yükümlülüğü kimlere aittir?",
+    "answer": "Kamu idarelerine",
+    "sort_order": 5,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 166,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kamu mali yönetiminin temel ilkelerinden biri değildir?",
+    "answer": "Kişisel takdir yetkisi",
+    "sort_order": 6,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 167,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bütçe kesin hesap kanunu hangi organca kabul edilir?",
+    "answer": "TBMM",
+    "sort_order": 7,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 168,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Taşınır mal yönetiminden kim sorumludur?",
+    "answer": "Harcama yetkilisi ve taşınır kayıt yetkilisi",
+    "sort_order": 8,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 169,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç denetim faaliyeti hangi amaçla yürütülür?",
+    "answer": "Kurumun risk yönetimi, kontrol ve yönetim süreçlerini değerlendirmek",
+    "sort_order": 9,
+    "created_at": "2026-08-18T21:18:36.644392+00:00",
+    "updated_at": "2026-08-18T21:18:36.644392+00:00"
+  },
+  {
+    "id": 641,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bakanlar, kamuoyunu idarelerinin amaç, hedef, strateji ve performans programları konusunda ne zaman bilgilendirir?",
+    "answer": "Her mali yılın ilk ayı içinde",
+    "sort_order": 10,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 642,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bütçelerde belirli gelirlerin belirli giderlere tahsis edilmesi genel kural olarak nasıldır?",
+    "answer": "Esas olarak tahsis edilmez",
+    "sort_order": 11,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 643,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bütçelerde gelir-gider dengesi konusunda temel yaklaşım nedir?",
+    "answer": "Denklik sağlanması esastır",
+    "sort_order": 12,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 644,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Merkezi yönetim bütçesi hangi cetvellerdeki idarelerin bütçelerinden oluşur?",
+    "answer": "I, II ve III sayılı cetveller",
+    "sort_order": 13,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 645,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Genel yönetim kapsamındaki idareler bütçe uygulama sonuçlarını hangi ay kamuoyuna açıklar?",
+    "answer": "Temmuz ayı içinde",
+    "sort_order": 14,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 646,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Sayıştay, kesin hesap kanun teklifinin verilmesinden itibaren en geç kaç gün içinde genel uygunluk bildirimini TBMM'ye sunar?",
+    "answer": "Yetmiş beş gün",
+    "sort_order": 15,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 647,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Merkezi yönetim bütçe kanun teklifi mali yılbaşından en az kaç gün önce TBMM'ye sunulur?",
+    "answer": "Yetmiş beş gün",
+    "sort_order": 16,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 648,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kesin hesap kanunu teklifi izleyen mali yılın hangi ayı sonuna kadar TBMM'ye sunulur?",
+    "answer": "Haziran ayı sonuna kadar",
+    "sort_order": 17,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 649,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bütçe kanun teklifi süresinde yürürlüğe konulamazsa ne çıkarılır?",
+    "answer": "Geçici bütçe kanunu",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 650,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Harcama yetkisi kime aittir?",
+    "answer": "Bütçeyle ödenek tahsis edilen harcama biriminin en üst yöneticisine",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 651,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Harcama yetkisinin devri, yetkiyi devredenin hangi sorumluluğunu ortadan kaldırmaz?",
+    "answer": "İdari sorumluluğunu",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 652,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bütçeden harcama yapılabilmesi neyle mümkündür?",
+    "answer": "Harcama yetkilisinin harcama talimatı vermesiyle",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 653,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Harcama yetkilisi ile muhasebe yetkilisi görevi aynı kişide birleşebilir mi?",
+    "answer": "Hayır",
+    "sort_order": 22,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 654,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Muhasebe yetkilisi olacakların en az kaç yıllık yüksek öğrenim görmüş olması şarttır?",
+    "answer": "En az dört yıllık",
+    "sort_order": 23,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 655,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Muhasebe yetkilisi olacaklar hangi belgeyi almış olmalıdır?",
+    "answer": "Muhasebe yetkilisi sertifikası",
+    "sort_order": 24,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 656,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Genel bütçe kapsamındaki idarelerde muhasebe yetkilisini kim atar?",
+    "answer": "Hazine ve Maliye Bakanlığı",
+    "sort_order": 25,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 657,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç denetçi olarak atanacakların kamu idarelerinde denetim elemanı olarak en az kaç yıl çalışmış olması gerekir?",
+    "answer": "En az beş yıl",
+    "sort_order": 26,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 658,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Bakanlıklarda iç denetçiler kimin teklifiyle kim tarafından atanır?",
+    "answer": "Üst yöneticilerin teklifi üzerine Bakan tarafından",
+    "sort_order": 27,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 659,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç denetçi görevinde bağımsız mıdır, asli görevi dışında görev verilebilir mi?",
+    "answer": "Bağımsızdır, asli görevi dışında görev verilemez",
+    "sort_order": 28,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 660,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç denetçiler raporlarını doğrudan kime sunar?",
+    "answer": "Üst yöneticiye",
+    "sort_order": 29,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 661,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç denetim raporları üst yönetici tarafından en geç kaç ay içinde İç Denetim Koordinasyon Kuruluna gönderilir?",
+    "answer": "İki ay",
+    "sort_order": 30,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 662,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç Denetim Koordinasyon Kurulu hangi bakanlığa bağlıdır ve kaç üyeden oluşur?",
+    "answer": "Hazine ve Maliye Bakanlığına bağlı, yedi üyeli",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 663,
+    "deck_id": "5018-sayili-kanun",
+    "question": "İç kontrol sistemini idare adına kim oluşturur?",
+    "answer": "İdarenin kendisi",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 664,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Ön mali kontrol, harcama birimlerindeki kontrollerle birlikte hangi birimin kontrollerini kapsar?",
+    "answer": "Mali hizmetler birimi",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 665,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Ön ödeme (avans/kredi) hangi tür giderler için yapılabilir?",
+    "answer": "Gerçekleştirme işlemlerinin tamamlanması beklenemeyecek ivedi veya zorunlu giderler",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 666,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Mutemet, kredilerdeki ön ödeme harcamalarını kaç ay içinde belgelendirmekle yükümlüdür?",
+    "answer": "Üç ay",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 667,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Yüklenicilere teminat karşılığında bütçe dışı avans, yüklenme tutarının yüzde kaçını geçemez?",
+    "answer": "Yüzde otuz",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 668,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Yedek ödenek, genel bütçe ödeneklerinin yüzde kaçına kadar konulabilir?",
+    "answer": "Yüzde iki",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 669,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Yedek ödenekten aktarma yapmaya kim yetkilidir?",
+    "answer": "Cumhurbaşkanı",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 670,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kamu idareleri, kendi bütçeleri içinde bir tertipteki ödeneğin yüzde kaçına kadar aktarma yapabilir?",
+    "answer": "Yüzde yirmi",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 671,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Cari yılda kullanılmayan ödeneklere yıl sonunda ne olur?",
+    "answer": "İptal edilir",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 672,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Örtülü ödenek hangi bütçeye konulan bir ödenektir?",
+    "answer": "Cumhurbaşkanlığı bütçesine",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 673,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Örtülü ödenek tutarı, genel bütçe başlangıç ödenekleri toplamının binde kaçını geçemez?",
+    "answer": "Binde beş",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 674,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Genel bütçe kapsamındaki idarelerin edindiği taşınmazlar kimin adına tescil edilir?",
+    "answer": "Hazine adına",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 675,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Merkezi yönetim kapsamındaki idarelerin sınır üstü değerdeki taşınmazları kimin kararıyla satılır?",
+    "answer": "Cumhurbaşkanı kararıyla",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 676,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kamu iktisadi teşebbüsleri ve kamu şirketlerinden gayrisafi hasılatının yüzde kaçına kadar bedel tahsil edilip genel bütçeye gelir kaydedilir?",
+    "answer": "Yüzde on beş",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 677,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Mali yıl hangi dönemi ifade eder?",
+    "answer": "Takvim yılını",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 678,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Malın alındığı yılı izleyen beşinci yılın sonuna kadar talep edilmeyen emanet hesaplarındaki tutarlar ne olur?",
+    "answer": "Bütçeye gelir kaydedilir",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 679,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Kamu zararına neden olanlara, bir aylık net ödemelerinin kaç katına kadar para cezası verilir?",
+    "answer": "İki katına kadar",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 680,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Para cezaları, ilgililerin bir aylık net ödemelerinin hangi oranında kesilerek tahsil olunur?",
+    "answer": "Dörtte biri oranında",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 681,
+    "deck_id": "5018-sayili-kanun",
+    "question": "Malî yönetim ve kontrol sisteminin zaafa uğradığı durumlarda kamu idarelerini kim teftiş ettirir?",
+    "answer": "Cumhurbaşkanı",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:18:09.260518+00:00",
+    "updated_at": "2026-08-19T07:18:09.260518+00:00"
+  },
+  {
+    "id": 89,
+    "deck_id": "5442-sayili-kanun",
+    "question": "5442 sayılı İl İdaresi Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "10 Haziran 1949",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 90,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kanun'un 1. maddesi neyi düzenler?",
+    "answer": "Türkiye'nin merkezi idare kuruluşu bakımından illere, illerin de ilçelere bölünmesini",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 91,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bir ilin sınırlarının değiştirilmesi nasıl yapılır?",
+    "answer": "Kanunla",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 92,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl idaresinin başında kim bulunur?",
+    "answer": "Vali",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 93,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali'nin hukuki konumu nedir?",
+    "answer": "İlin ve ilin merkez ilçesinin en büyük mülki amiri, hükümetin ve ayrı ayrı her bakanlığın temsilcisi",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 94,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali hangi makam tarafından atanır?",
+    "answer": "Cumhurbaşkanı kararıyla",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 95,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçe idaresinin başında kim bulunur?",
+    "answer": "Kaymakam",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 96,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam kimin emrindedir?",
+    "answer": "Valinin",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 97,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak nedir?",
+    "answer": "İlçelerin, coğrafya durumu ve iş hacmi bakımından ayrıldığı idari birimlerden biri",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 98,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl idare şube başkanları kimlere denir?",
+    "answer": "İl müdürleri (bakanlıkların illerdeki teşkilat başkanları)",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 99,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl İdare Kurulu kimlerden oluşur?",
+    "answer": "Vali başkanlığında, hukuk işleri müdürü, defterdar ve il idare şube başkanlarından",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 100,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali'nin genel olarak sahip olduğu yetki türü nedir?",
+    "answer": "Hem genel idare hem de mahalli idareler üzerinde idari vesayet yetkisi",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 101,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl genel idaresi ile ilgili kararlar nasıl alınır?",
+    "answer": "Vali başkanlığında toplanan il idare kurulunca",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 102,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Olağanüstü hallerde valinin yetkileri nasıl değişir?",
+    "answer": "Kanunlarla kendisine verilen ek yetkileri kullanabilir (örn. kamu düzeni, güvenlik tedbirleri)",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 103,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçelerin kurulması, kaldırılması veya birleştirilmesi nasıl olur?",
+    "answer": "Kanunla",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 104,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali, ilçe kaymakamları üzerinde ne tür bir yetkiye sahiptir?",
+    "answer": "Hiyerarşik amirlik ve denetim yetkisi",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 105,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kanun'da illerin idaresi hangi ilkeye dayanır?",
+    "answer": "Yetki genişliği ve idarenin bütünlüğü ilkesi",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 718,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Türkiye merkezi idare kuruluşu bakımından neye bölünmüştür?",
+    "answer": "İllere; iller ilçelere, ilçeler de bucaklara",
+    "sort_order": 18,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 719,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl ve ilçe kurulması, kaldırılması, merkezlerinin belirtilmesi nasıl yapılır?",
+    "answer": "Kanunla",
+    "sort_order": 19,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 720,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak kurulması, kaldırılması, il/ilçe/bucak sınırlarının değiştirilmesi nasıl yapılır?",
+    "answer": "Cumhurbaşkanı onayı ile",
+    "sort_order": 20,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 721,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam, ilçede kimin idari yürütme vasıtasıdır?",
+    "answer": "Cumhurbaşkanının",
+    "sort_order": 21,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 722,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçenin genel idaresinden kim sorumludur?",
+    "answer": "Kaymakam",
+    "sort_order": 22,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 723,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçedeki genel idare teşkilatının başında bulunanlar kimlerdir?",
+    "answer": "İlçe idare şube başkanları",
+    "sort_order": 23,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 724,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakamlar, ilçe idare şube başkanlarının birinci derecede, diğer memurların ikinci derecede neyidir?",
+    "answer": "Sicil amiri",
+    "sort_order": 24,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 725,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam, ilçe sınırları içindeki genel ve özel kolluk kuvvetlerinin neyidir?",
+    "answer": "Amiri",
+    "sort_order": 25,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 726,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam, ceza ve tevkifevlerinin muhafazasını kiminle birlikte gözetim altında bulundurur?",
+    "answer": "Cumhuriyet savcısı ile birlikte",
+    "sort_order": 26,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 727,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçe idare şube başkanları görevlerinden dolayı kime karşı sorumludur?",
+    "answer": "Doğrudan doğruya kaymakama",
+    "sort_order": 27,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 728,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam, ilçenin bütün bucak ve köylerinin en az yarısını her yıl ne yapar?",
+    "answer": "Teftiş eder",
+    "sort_order": 28,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 729,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Kaymakam, ilçenin işleri hakkında kiminle muhabere eder?",
+    "answer": "Bağlı bulunduğu valilerle",
+    "sort_order": 29,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 730,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak nedir?",
+    "answer": "Coğrafya, ekonomi, güvenlik ve mahalli hizmet bakımından ilişkili kasaba ve köylerden oluşan idare bölümü",
+    "sort_order": 30,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 731,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak müdürü, bucakta neyin en büyük memuru ve temsilcisidir?",
+    "answer": "Hükümetin",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 732,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Genel ve özel kolluk kuvvetleri bucakta hangi makamın emri altındadır?",
+    "answer": "Bucak müdürünün",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 733,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucağın güven ve düzeninin korunmasından kim sorumludur?",
+    "answer": "Bucak müdürü",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 734,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak müdürü olağanüstü hallerde kaymakamla muhabere mümkün olmazsa ne yapar?",
+    "answer": "En yakın idare üstüne bildirir, valiliğin haberdar edilmesini ister",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 735,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak müdürü her yıl bucağın köy ve kasabalarını en az kaç kere dolaşır?",
+    "answer": "Birer kere",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 736,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Nahiye müdürleri kimin kararıyla valilikler emrine tayin olunur?",
+    "answer": "İçişleri Bakanlığınca",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 737,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Nahiye müdürlüğü adaylığı için askerlik hizmetini bitirmiş olma yaşı üst sınırı kaçtır?",
+    "answer": "30",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 738,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak müdürlüğü kaç sınıftan oluşur?",
+    "answer": "Altı sınıf",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 739,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak meclisi yılda kaç defa ve hangi ay toplanır?",
+    "answer": "Bir defa, Ekim ayı başında",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 740,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak komisyonu kaç üyeden oluşur?",
+    "answer": "Dört üye",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 741,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Bucak komisyonu en az hangi sıklıkla toplanır?",
+    "answer": "Ayda bir kere",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 742,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İl idare kurulu kimin başkanlığında toplanır?",
+    "answer": "Valinin",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 743,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Vali, idare kuruluna başkanlık etmek üzere kimi görevlendirebilir?",
+    "answer": "Vali muavinini",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 744,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçe idare kurulu kimin başkanlığında toplanır?",
+    "answer": "Kaymakamın",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 745,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İdare kurulları kaç tür karar alır?",
+    "answer": "İdari, istişari ve kazai",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 746,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İdare kurullarının kazai/idari/istişari görüşmeleri hangi çoğunlukla yapılabilir?",
+    "answer": "Mürettep üyenin yarısından bir fazlası hazır olmadıkça yapılamaz",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 747,
+    "deck_id": "5442-sayili-kanun",
+    "question": "Oyların eşitliği halinde hangi taraf çokluk sayılır?",
+    "answer": "Başkanın bulunduğu taraf",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 748,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İdari davaya esas kararı vermiş idare amiri, idare kurulunun kazai toplantısında ne yapabilir?",
+    "answer": "Üye olamaz, oya katılamaz",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 749,
+    "deck_id": "5442-sayili-kanun",
+    "question": "İlçe idare kurulları kararlarına karşı nereye itiraz edilir?",
+    "answer": "İl idare kurullarına",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 750,
+    "deck_id": "5442-sayili-kanun",
+    "question": "5442 sayılı Kanun ne zaman yürürlüğe girmiştir?",
+    "answer": "31 Temmuz 1949",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:19:50.479525+00:00",
+    "updated_at": "2026-08-19T07:19:50.479525+00:00"
+  },
+  {
+    "id": 270,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanunun tam adı nedir?",
+    "answer": "Özel Öğretim Kurumları Kanunu",
+    "sort_order": 1,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 271,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Özel Öğretim Kurumları Kanununun kabul tarihi nedir?",
+    "answer": "8/2/2007",
+    "sort_order": 2,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 272,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanunun yayımlandığı Resmî Gazete tarihi nedir?",
+    "answer": "14/2/2007",
+    "sort_order": 3,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 273,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanunun yayımlandığı Resmî Gazete sayısı kaçtır?",
+    "answer": "26434",
+    "sort_order": 4,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 274,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kanunda geçen 'Bakanlık' tanımı neyi ifade eder?",
+    "answer": "Millî Eğitim Bakanlığını",
+    "sort_order": 5,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 275,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanun kapsamında özel öğretim kurumu açabilecek gerçek kişiler kimlerdir?",
+    "answer": "Türkiye Cumhuriyeti uyruklu gerçek kişiler",
+    "sort_order": 6,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 276,
+    "deck_id": "5580-sayili-kanun",
+    "question": "'Azınlık okulları' tanımına göre bu okulları hangi topluluklar kurmuştur?",
+    "answer": "Rum, Ermeni ve Musevi azınlıklar",
+    "sort_order": 7,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 277,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Azınlık okulları hangi uluslararası antlaşma ile güvence altına alınmıştır?",
+    "answer": "Lozan Antlaşması",
+    "sort_order": 8,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 278,
+    "deck_id": "5580-sayili-kanun",
+    "question": "'Yabancı okullar' tanımı neyi ifade eder?",
+    "answer": "Yabancılar tarafından açılmış özel okulları",
+    "sort_order": 9,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 279,
+    "deck_id": "5580-sayili-kanun",
+    "question": "'Milletlerarası özel öğretim kurumları' tanımına göre bu kurumlara kimler devam edebilir?",
+    "answer": "Yalnız yabancı uyruklu öğrenciler",
+    "sort_order": 10,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 280,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bir kurumda öğretime başlayabilmek için hangi işlem zorunludur?",
+    "answer": "Kurum açma izni alınması",
+    "sort_order": 11,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 281,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurum açma izni vermeye genel olarak kim yetkilidir?",
+    "answer": "Valilik",
+    "sort_order": 12,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 282,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurum açma izni talebinin valilikçe reddi hâlinde itiraz süresi ne kadardır?",
+    "answer": "Onbeş iş günü",
+    "sort_order": 13,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 283,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bakanlığa yapılan itiraz ne kadar süre içinde karara bağlanır?",
+    "answer": "Onbeş iş günü içinde",
+    "sort_order": 14,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 284,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurum açma izni alınmadıkça kuruma ne yapılamaz?",
+    "answer": "Öğrenci kaydı",
+    "sort_order": 15,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 285,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumun yönetmelikleri ve öğretim programı neye tabidir?",
+    "answer": "Bakanlıkça incelenip onanmış olması",
+    "sort_order": 16,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 286,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Özel öğretim kurumlarının gerçek kişi kurucularında hangi kanuna göre işlenmiş suçlara ilişkin şartlar aranır?",
+    "answer": "5237 sayılı Türk Ceza Kanunu",
+    "sort_order": 17,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 287,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurum binalarının nitelikleri ve tesis/donanım standartlarını kim belirler?",
+    "answer": "Bakanlık",
+    "sort_order": 18,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 288,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Meyhane, kahvehane, kıraathane, bar gibi umuma açık yerlerin okul binalarına uzaklığı en az ne kadar olmalıdır?",
+    "answer": "Yüz metre",
+    "sort_order": 19,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 289,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Yabancı okullar yeni arazi edinmek için kimin iznine ihtiyaç duyar?",
+    "answer": "Cumhurbaşkanının izni",
+    "sort_order": 20,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 290,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Yabancı okullar kapasitelerini en fazla kaç misline kadar artırabilir?",
+    "answer": "Beş misline kadar",
+    "sort_order": 21,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 291,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlar ve bu kurumlarda görevli personel kimin denetimi ve gözetimi altındadır?",
+    "answer": "Bakanlığın",
+    "sort_order": 22,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 292,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlar reklam ve ilanlarını nasıl verebilir?",
+    "answer": "Ancak amaçlarına uygun tanıtıcı mahiyette",
+    "sort_order": 23,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 293,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumların reklam ve ilanlarına ilişkin yasak, hangi yayın aracında kesin olarak yasaklanmıştır?",
+    "answer": "Televizyon",
+    "sort_order": 24,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 294,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlar faaliyetlerini hangi amaçla düzenleyemez?",
+    "answer": "Sadece kazanç sağlamak amacıyla",
+    "sort_order": 25,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 295,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Okulların su, doğal gaz ve elektrik ücretlendirilmesi hangi tarife üzerinden uygulanır?",
+    "answer": "Resmî okullara uygulanan tarife",
+    "sort_order": 26,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 296,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Eğitim ve öğretim desteği tutarı resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin kaç katını geçemez?",
+    "answer": "Bir buçuk katını",
+    "sort_order": 27,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 297,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Öğrenim ücreti ve diğer ücretler her yıl en geç hangi ayda ilan edilir?",
+    "answer": "Mayıs",
+    "sort_order": 28,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 298,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlar, öğrenim gören öğrenci sayısının en az yüzde kaçı oranında ücretsiz öğrenci okutmakla yükümlüdür?",
+    "answer": "Yüzde üçü",
+    "sort_order": 29,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 299,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bakanlıkça ücretsiz öğrenci okutma oranı en fazla yüzde kaça kadar artırılabilir?",
+    "answer": "Yüzde ona",
+    "sort_order": 30,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 300,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bir okula alınabilecek yabancı uyruklu öğrenci sayısı, o okulda okuyan Türkiye Cumhuriyeti uyruklu öğrenci sayısının yüzde kaçını aşamaz?",
+    "answer": "Yüzde otuzunu",
+    "sort_order": 31,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 301,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlarda eğitim-öğretim ve yönetim hangi kanunda ifade edilen ilkelere uygun olarak yürütülür?",
+    "answer": "1739 sayılı Millî Eğitim Temel Kanunu",
+    "sort_order": 32,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 302,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumun veya yönetimleri birleştirilen kurumların yönetiminde esas olan nedir?",
+    "answer": "Bir müdür tarafından yönetilmesi",
+    "sort_order": 33,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 303,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Gerekli nitelikleri taşıyan kurucu/kurucu temsilcisi aynı zamanda ne olabilir?",
+    "answer": "Kurumun müdürü",
+    "sort_order": 34,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 304,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Okul kurucusu/kurucu temsilcisi bir okulu hangi süre önceden bildirimle ve öğretim yılı sonunda kapatabilir?",
+    "answer": "En az üç ay önce",
+    "sort_order": 35,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 305,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kapanan veya kapatılan kurum, mühürlerini ve evraklarını kime devretmekle yükümlüdür?",
+    "answer": "İlgili valiliğe",
+    "sort_order": 36,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 306,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kanunda belirtilen şartlara uymadan kurumunu kapatanlara kaç yıl geçmeden yeniden kurum açma izni verilmez?",
+    "answer": "Beş yıl",
+    "sort_order": 37,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 307,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bir kurumun kuruluşundan üç yıl sonra ders saatlerinin en az kaçta kaçının asıl görevi o kurumda olan personelce okutulması zorunludur?",
+    "answer": "Üçte ikisi",
+    "sort_order": 38,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 308,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Uzman öğretici, usta öğretici ve öğretmenlik yapma nitelik ve şartlarını taşıyan diğer Devlet memurlarına haftada en fazla kaç saat ücretli ders görevi verilebilir?",
+    "answer": "On saat",
+    "sort_order": 39,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 309,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumların müdürlerini kim seçer?",
+    "answer": "Kurucu/kurucu temsilcisi",
+    "sort_order": 40,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 310,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Valiliğin izni alınmadan müdür ile diğer yönetici, öğretmen, uzman öğretici ve usta öğreticiler işe başlatılabilir mi?",
+    "answer": "Hayır, valiliğin izni alınmadan işe başlatılamaz",
+    "sort_order": 41,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 311,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlarda çalışan personel ile kurucu/kurucu temsilcisi arasındaki iş sözleşmesi en az ne kadar süreli olmalıdır?",
+    "answer": "Bir takvim yılı",
+    "sort_order": 42,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 312,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Sosyal yardım kapsamındaki ek ödemelerden hangi kesinti yapılmaz?",
+    "answer": "Gelir vergisi",
+    "sort_order": 43,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 313,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kurumlarda görev yapan yönetici, öğretmen, uzman öğretici ve usta öğreticiler görevleri nedeniyle işlenen suçlar bakımından nasıl sayılır?",
+    "answer": "Kamu görevlisi",
+    "sort_order": 44,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 314,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Kaç defa teftiş raporuyla başarısızlığı tespit edilen personelin çalışma izni iptal edilir?",
+    "answer": "İki defa",
+    "sort_order": 45,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 315,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanunla hangi eski kanun yürürlükten kaldırılmıştır?",
+    "answer": "8/6/1965 tarihli ve 625 sayılı Özel Öğretim Kurumları Kanunu",
+    "sort_order": 46,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 316,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Bu Kanunda belirtilmiş olan yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren en geç ne kadar süre içinde yürürlüğe konulur?",
+    "answer": "Bir yıl içinde",
+    "sort_order": 47,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 317,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanun ne zaman yürürlüğe girmiştir?",
+    "answer": "Yayımı tarihinde",
+    "sort_order": 48,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 318,
+    "deck_id": "5580-sayili-kanun",
+    "question": "5580 sayılı Kanun hükümlerini kim yürütür?",
+    "answer": "Bakanlar Kurulu",
+    "sort_order": 49,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 319,
+    "deck_id": "5580-sayili-kanun",
+    "question": "Özel eğitim ve rehabilitasyon merkezleri açılış izinlerini hangi tarihe kadar yenilemekle yükümlü tutulmuştur?",
+    "answer": "31/12/2007 tarihine kadar",
+    "sort_order": 50,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00"
+  },
+  {
+    "id": 41,
+    "deck_id": "657-sayili-kanun",
+    "question": "657 sayılı Devlet Memurları Kanunu hangi tarihte kabul edilmiştir?",
+    "answer": "14 Temmuz 1965",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 42,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kanun'un amacı hangi maddede düzenlenir?",
+    "answer": "Madde 1",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 43,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kanun'un temel ilkeleri (sınıflandırma, kariyer, liyakat) hangi maddede sayılır?",
+    "answer": "Madde 3",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 44,
+    "deck_id": "657-sayili-kanun",
+    "question": "Devlet memurluğuna alınacaklarda aranan genel şartlar hangi maddede düzenlenir?",
+    "answer": "Madde 48",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 45,
+    "deck_id": "657-sayili-kanun",
+    "question": "Devlet memuru olabilmek için gereken asgari yaş kaçtır?",
+    "answer": "18 yaşını tamamlamış olmak",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 46,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların hizmet sınıfları kaç tanedir?",
+    "answer": "10 hizmet sınıfı",
+    "sort_order": 6,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 47,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmet sınıfları hangi maddede sayılır?",
+    "answer": "Madde 36",
+    "sort_order": 7,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 48,
+    "deck_id": "657-sayili-kanun",
+    "question": "Aday memurluk süresi ne kadardır?",
+    "answer": "En az 1 yıl, en çok 2 yıl",
+    "sort_order": 8,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 49,
+    "deck_id": "657-sayili-kanun",
+    "question": "Aday memurluk hangi maddede düzenlenir?",
+    "answer": "Madde 54",
+    "sort_order": 9,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 50,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların haftalık çalışma süresi kaç saattir?",
+    "answer": "40 saat",
+    "sort_order": 10,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 51,
+    "deck_id": "657-sayili-kanun",
+    "question": "Çalışma saatleri hangi maddede düzenlenir?",
+    "answer": "Madde 99",
+    "sort_order": 11,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 52,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmeti 1-10 yıl arası olan memura yıllık kaç gün izin verilir?",
+    "answer": "20 gün",
+    "sort_order": 12,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 53,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hizmeti 10 yıldan fazla olan memura yıllık kaç gün izin verilir?",
+    "answer": "30 gün",
+    "sort_order": 13,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 54,
+    "deck_id": "657-sayili-kanun",
+    "question": "Yıllık izin hangi maddede düzenlenir?",
+    "answer": "Madde 102",
+    "sort_order": 14,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 55,
+    "deck_id": "657-sayili-kanun",
+    "question": "Mazeret izni hangi maddede düzenlenir?",
+    "answer": "Madde 104",
+    "sort_order": 15,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 56,
+    "deck_id": "657-sayili-kanun",
+    "question": "Hastalık izni hangi maddede düzenlenir?",
+    "answer": "Madde 105",
+    "sort_order": 16,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 57,
+    "deck_id": "657-sayili-kanun",
+    "question": "Disiplin cezaları kaç türdür?",
+    "answer": "5 tür",
+    "sort_order": 17,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 58,
+    "deck_id": "657-sayili-kanun",
+    "question": "Disiplin cezaları hangi maddede sayılır?",
+    "answer": "Madde 125",
+    "sort_order": 18,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 59,
+    "deck_id": "657-sayili-kanun",
+    "question": "En hafif disiplin cezası hangisidir?",
+    "answer": "Uyarma",
+    "sort_order": 19,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 60,
+    "deck_id": "657-sayili-kanun",
+    "question": "En ağır disiplin cezası hangisidir?",
+    "answer": "Devlet memurluğundan çıkarma",
+    "sort_order": 20,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 61,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kademe ilerlemesi hangi maddede düzenlenir?",
+    "answer": "Madde 64",
+    "sort_order": 21,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 62,
+    "deck_id": "657-sayili-kanun",
+    "question": "Derece yükselmesi hangi maddede düzenlenir?",
+    "answer": "Madde 68",
+    "sort_order": 22,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 63,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların ödev ve sorumlulukları hangi bölümde düzenlenir?",
+    "answer": "Kanun'un dördüncü kısmında",
+    "sort_order": 23,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 64,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların tarafsızlığı ve devlete bağlılığı hangi maddede düzenlenir?",
+    "answer": "Madde 7",
+    "sort_order": 24,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 65,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların siyasi partiye üye olması yasak mıdır?",
+    "answer": "Evet, madde 7 uyarınca yasaktır",
+    "sort_order": 25,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 66,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurların grev yapması hakkında ne öngörülür?",
+    "answer": "Madde 27 uyarınca grev yasağı vardır",
+    "sort_order": 26,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 67,
+    "deck_id": "657-sayili-kanun",
+    "question": "Emeklilik yaş haddi ile ilgili hüküm hangi maddede yer alır?",
+    "answer": "Madde 98 (yaş haddi 65 olarak belirlenmiştir)",
+    "sort_order": 27,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 68,
+    "deck_id": "657-sayili-kanun",
+    "question": "Sicil ve disiplin amirleri kavramı hangi kısımda düzenlenir?",
+    "answer": "Kanun'un disiplin hükümleri bölümünde",
+    "sort_order": 28,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 69,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurluğun sona erme halleri arasında hangileri sayılır?",
+    "answer": "Çekilme, emeklilik, ölüm, memurluktan çıkarılma gibi haller",
+    "sort_order": 29,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 70,
+    "deck_id": "657-sayili-kanun",
+    "question": "657 sayılı Kanun ilk kez hangi Resmi Gazete'de yayımlanmıştır?",
+    "answer": "23 Temmuz 1965 tarihli Resmi Gazete'de",
+    "sort_order": 30,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": 783,
+    "deck_id": "657-sayili-kanun",
+    "question": "Uluslararası kuruluşlarda görev alacak memurlara memuriyeti süresince en çok kaç yıla kadar aylıksız izin verilebilir?",
+    "answer": "21 yıl",
+    "sort_order": 31,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 784,
+    "deck_id": "657-sayili-kanun",
+    "question": "Aday memurun adaylık süresi hangi sınırlar arasında olmalıdır?",
+    "answer": "1 yıldan az, 2 yıldan çok olamaz",
+    "sort_order": 32,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 785,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurlara aylıklarının ödenme zamanı ile ilgili kural nedir?",
+    "answer": "Her ayın başında peşin ödenir",
+    "sort_order": 33,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 786,
+    "deck_id": "657-sayili-kanun",
+    "question": "Görevden uzaklaştırma tedbirinin hukuki niteliği nedir?",
+    "answer": "İhtiyati bir tedbirdir",
+    "sort_order": 34,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 787,
+    "deck_id": "657-sayili-kanun",
+    "question": "Disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan kesme cezalarına karşı kararın tebliğinden itibaren kaç gün içinde itiraz edilebilir?",
+    "answer": "7 gün",
+    "sort_order": 35,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 788,
+    "deck_id": "657-sayili-kanun",
+    "question": "Bir göreve vekaleten atanan memurlara kural olarak vekalet aylığı, kadronun birinci kademesinin ne kadarı olarak verilir?",
+    "answer": "Üçte biri",
+    "sort_order": 36,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 789,
+    "deck_id": "657-sayili-kanun",
+    "question": "Bir göreve açıktan vekil olarak atananlara verilecek vekalet aylığı oranı nedir?",
+    "answer": "Birinci kademenin üçte ikisi",
+    "sort_order": 37,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 790,
+    "deck_id": "657-sayili-kanun",
+    "question": "Görevden uzaklaştırılan veya tutuklanan memurlara bu süre içinde aylıklarının ne kadarı ödenir?",
+    "answer": "Üçte ikisi",
+    "sort_order": 38,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 791,
+    "deck_id": "657-sayili-kanun",
+    "question": "Bir ceza kovuşturması nedeniyle görevden uzaklaştırmada yetkili amir ilgilinin durumunu kaç ayda bir incelemek zorundadır?",
+    "answer": "Her iki ayda bir",
+    "sort_order": 39,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 792,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurlara yabancı memleketlerin resmi kurumlarında görev almaları halinde ilgili Bakanın onayı ile en çok kaç yıla kadar aylıksız izin verilebilir?",
+    "answer": "10 yıl",
+    "sort_order": 40,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 793,
+    "deck_id": "657-sayili-kanun",
+    "question": "Adaylık devresinde başarısızlık veya disiplin cezası nedeniyle ilişiği kesilenler (sağlık hariç) kaç yıl Devlet memurluğuna alınmaz?",
+    "answer": "3 yıl",
+    "sort_order": 41,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 794,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memura eşinin doğum yapması halinde isteği üzerine kaç gün babalık izni verilir?",
+    "answer": "10 gün",
+    "sort_order": 42,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 795,
+    "deck_id": "657-sayili-kanun",
+    "question": "Doğum veya evlat edinme sonrası yarım zamanlı çalışan memurların derece yükselmesi ve kademe ilerlemesi süreleri nasıl dikkate alınır?",
+    "answer": "Yarım olarak dikkate alınır",
+    "sort_order": 43,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 796,
+    "deck_id": "657-sayili-kanun",
+    "question": "Kurumlar arası geçici süreli görevlendirmede memur aylık ve mali haklarını nereden alır?",
+    "answer": "Asıl kurumundan",
+    "sort_order": 44,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 797,
+    "deck_id": "657-sayili-kanun",
+    "question": "Mezuniyetsiz veya mazeretsiz olarak görevin kesintisiz kaç gün terk edilmesi halinde memur çekilmiş (müstafi) sayılır?",
+    "answer": "10 gün",
+    "sort_order": 45,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 798,
+    "deck_id": "657-sayili-kanun",
+    "question": "Avukatlık stajını memuriyette iken tamamlayanlara kaç kademe ilerlemesi uygulanır?",
+    "answer": "1 kademe",
+    "sort_order": 46,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 799,
+    "deck_id": "657-sayili-kanun",
+    "question": "Mecburi hizmetle yükümlü olanlar staj/eğitim bitiminden itibaren en çok kaç ay içinde kurumlarına başvurmalıdır?",
+    "answer": "2 ay",
+    "sort_order": 47,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 800,
+    "deck_id": "657-sayili-kanun",
+    "question": "Memurun menfaat karşılığı çalışmayan eşi için ödenecek aile yardımı ödeneği gösterge rakamı kaçtır?",
+    "answer": "1500",
+    "sort_order": 48,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 801,
+    "deck_id": "657-sayili-kanun",
+    "question": "Yurtdışında görevlendirilen güvenlik görevlileri için geçici görevlendirme süresi en çok kaç yıldır?",
+    "answer": "2 yıl (gerekirse bir kat uzatılabilir)",
+    "sort_order": 49,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  },
+  {
+    "id": 802,
+    "deck_id": "657-sayili-kanun",
+    "question": "İlçelerde ilçe idare şube başkanları hakkında görevden uzaklaştırma tedbiri alırken kimin muvafakati şarttır?",
+    "answer": "Valinin",
+    "sort_order": 50,
+    "created_at": "2026-08-19T07:21:51.699210+00:00",
+    "updated_at": "2026-08-19T07:21:51.699210+00:00"
+  }
+]

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-11-274d",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "YSK üyeleri hangi kurumlar tarafından seçilir?",
+    "options": [
+      "TBMM ve Cumhurbaşkanı",
+      "Yargıtay ve Danıştay Genel Kurulları",
+      "Anayasa Mahkemesi ve Sayıştay",
+      "HSK ve Adalet Bakanlığı",
+      "Sadece Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 79: Yargıtay (6) ve Danıştay (5) genel kurullarınca seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-12-79tx",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyeleri kimi temsil eder?",
+    "options": [
+      "Seçildikleri bölgeyi",
+      "Kendilerini seçenleri",
+      "Bağlı oldukları siyasi partiyi",
+      "Bütün Milleti",
+      "Sadece kendi seçmenlerini"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 80: Bütün Milleti temsil ederler.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-13-ir3b",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyeleri göreve başlarken ne yaparlar?",
+    "options": [
+      "Mazbata alırlar",
+      "And içerler",
+      "Parti rozeti takarlar",
+      "Kayıt yaptırırlar",
+      "Genel Kurul'u selamlarlar"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 81: Göreve başlarken and içerler.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-15-rbju",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yasama dokunulmazlığı kaldırılan bir milletvekili, iptal istemiyle nereye başvurabilir?",
+    "options": [
+      "Yargıtay",
+      "Danıştay",
+      "Anayasa Mahkemesi",
+      "TBMM Başkanlığı",
+      "Avrupa İnsan Hakları Mahkemesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 85: Anayasa Mahkemesine başvurulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-16-9lgl",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Dokunulmazlığın kaldırılması veya üyeliğin düşmesi kararlarına karşı Anayasa Mahkemesi kaç gün içinde kesin karar verir?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 85: 15 gün içinde kesin karara bağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-17-981r",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletvekilliğinin istifa nedeniyle düşmesine kim karar verir?",
+    "options": [
+      "TBMM Başkanı",
+      "YSK",
+      "Anayasa Mahkemesi",
+      "TBMM Genel Kurulu",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 84: TBMM Genel Kurulunca kararlaştırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-18-aqxt",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içerisinde toplam kaç birleşim günü katılmayan milletvekilinin üyeliği düşürülebilir?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10",
+      "15"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 84: 5 birleşim günü.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-19-req5",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM'nin görev ve yetkileri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kanun koymak, değiştirmek, kaldırmak",
+      "Para basılmasına karar vermek",
+      "Savaş ilanına karar vermek",
+      "Kanun Hükmünde Kararname (KHK) çıkarmak",
+      "Genel ve özel af ilanına karar vermek"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 87: KHK çıkarma yetkisi 2017 değişikliği ile kaldırılmıştır, yerine CB Kararnamesi gelmiştir ancak bunu Meclis değil Cumhurbaşkanı çıkarır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-2-a3gd",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletvekili seçilme yaşı kaçtır?",
+    "options": [
+      "18",
+      "21",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer_index": 0,
+    "explanation": "Md. 76: Seçilme yaşı 18'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-20-x0ak",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Genel ve özel af ilanına karar verebilmek için TBMM'de aranan çoğunluk nedir?",
+    "options": [
+      "Toplantıya katılanların salt çoğunluğu",
+      "Üye tamsayısının salt çoğunluğu",
+      "Üye tamsayısının beşte üçü (3/5)",
+      "Üye tamsayısının üçte ikisi (2/3)",
+      "Üye tamsayısının dörtte üçü"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 87: Üye tamsayısının 3/5 çoğunluğu gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-21-0gku",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Kanun teklif etmeye kim yetkilidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Bakanlar",
+      "Milletvekilleri",
+      "Yüksek Yargı Organları",
+      "Sivil Toplum Kuruluşları"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 88: Kanun teklif etmeye milletvekilleri yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-22-puob",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Cumhurbaşkanı, TBMM tarafından kabul edilen kanunları kaç gün içinde yayımlar?",
+    "options": [
+      "7",
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 89: 15 gün içinde yayımlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-24-7sfl",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Hangi kanunlar Cumhurbaşkanı tarafından tekrar görüşülmek üzere TBMM'ye geri gönderilemez?",
+    "options": [
+      "Ceza kanunları",
+      "Vergi kanunları",
+      "Bütçe kanunları",
+      "Anayasa değişikliği kanunları",
+      "Seçim kanunları"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 89: Bütçe kanunları geri gönderilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-26-9n15",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmalar ne hükmündedir?",
+    "options": [
+      "Yönetmelik",
+      "Genelge",
+      "Kanun",
+      "Anayasa",
+      "Kararname"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 90: Kanun hükmündedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-27-o1ro",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların çatışması durumunda hangisi esas alınır?",
+    "options": [
+      "Kanun",
+      "Milletlerarası andlaşma",
+      "Sonraki tarihli olan",
+      "Önceki tarihli olan",
+      "Anayasa Mahkemesi kararı"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 90: Milletlerarası andlaşma hükümleri esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-28-m7pq",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine izin verme yetkisi kime aittir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Genelkurmay Başkanı",
+      "TBMM",
+      "Milli Güvenlik Kurulu",
+      "Dışişleri Bakanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 92: İzin yetkisi TBMM'nindir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-29-qi1p",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM tatildeyken ülkenin ani bir silahlı saldırıya uğraması durumunda TSK'nın kullanılmasına kim karar verebilir?",
+    "options": [
+      "Meclis Başkanı",
+      "Cumhurbaşkanı",
+      "Başkomutan",
+      "Milli Savunma Bakanı",
+      "Genelkurmay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 92: Cumhurbaşkanı da karar verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-3-vwwp",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Aşağıdakilerden hangisi milletvekili seçilme yeterliliğine engel durumlardan biri değildir?",
+    "options": [
+      "Kısıtlı olmak",
+      "Askerlikle ilişiği olmak",
+      "Taksirli suçlardan hüküm giymiş olmak",
+      "Kamu hizmetinden yasaklı olmak",
+      "İlkokul mezunu olmamak"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 76: Taksirli suçlar milletvekili seçilmeye engel değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-30-ose7",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM her yıl hangi gün kendiliğinden toplanır?",
+    "options": [
+      "1 Ocak",
+      "23 Nisan",
+      "1 Eylül",
+      "1 Ekim",
+      "29 Ekim"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 93: Ekim ayının ilk günü.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-31-uyw5",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM bir yasama yılında en çok kaç ay tatil yapabilir?",
+    "options": [
+      "1 ay",
+      "2 ay",
+      "3 ay",
+      "4 ay",
+      "45 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 93: En çok 3 ay.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-32-j4d6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Ara verme veya tatil sırasında TBMM'yi kim toplantıya çağırabilir?",
+    "options": [
+      "Sadece Cumhurbaşkanı",
+      "Sadece Meclis Başkanı",
+      "Cumhurbaşkanı veya Meclis Başkanı",
+      "Başbakan",
+      "Anayasa Mahkemesi Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 93: Cumhurbaşkanı veya Meclis Başkanı.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-33-qlsf",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyelerinin beşte birinin yazılı istemi üzerine Meclisi kim toplantıya çağırır?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Meclis Başkanı",
+      "En yaşlı üye",
+      "Siyasi parti grup başkanvekilleri",
+      "Genel Sekreter"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 93: Meclis Başkanı çağırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-35-7hte",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Siyasi parti grupları en az kaç üyeden meydana gelir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 95: En az 20 üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-37-wb88",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Başkanı seçiminde ilk iki oylamada aranan çoğunluk nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5'i",
+      "Üye tamsayısının 2/3'ü (400)",
+      "Katılanların salt çoğunluğu",
+      "Basit çoğunluk"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 94: İlk iki oylamada üye tamsayısının 2/3'ü.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-38-ifnm",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM, Anayasa'da başkaca bir hüküm yoksa hangi çoğunlukla toplanır (Toplantı Yeter Sayısı)?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu",
+      "Üye tamsayısının 1/3'ü (200)",
+      "Üye tamsayısının 1/4'ü",
+      "Üye tamsayısının 3/5'i",
+      "184 milletvekili"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 96: Üye tamsayısının en az 1/3'ü ile toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-4-gvxc",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM ve Cumhurbaşkanlığı seçimleri kaç yılda bir yapılır?",
+    "options": [
+      "3 yılda bir",
+      "4 yılda bir",
+      "5 yılda bir",
+      "7 yılda bir",
+      "2 yılda bir"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 77: Seçimler 5 yılda bir yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-42-jm8r",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yazılı soru önergeleri en geç kaç gün içinde cevaplanmalıdır?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 98: En geç 15 gün içinde.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-43-du8q",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "2017 değişikliği ile TBMM'nin denetim yolları arasından hangisi çıkarılmıştır?",
+    "options": [
+      "Meclis Araştırması",
+      "Genel Görüşme",
+      "Yazılı Soru",
+      "Gensoru",
+      "Meclis Soruşturması"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 99 mülga: Gensoru kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-44-teyw",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM'nin kolluk ve yönetim hizmetleri kim tarafından düzenlenir ve yürütülür?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Emniyet Genel Müdürlüğü",
+      "Meclis Başkanlığı",
+      "Valilik",
+      "Jandarma"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 95: Meclis Başkanlığı eliyle yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-46-a8af",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyelerinin ödenek ve yollukları neyle düzenlenir?",
+    "options": [
+      "İçtüzükle",
+      "Kararnameyle",
+      "Kanunla",
+      "Bütçe kanunuyla",
+      "Meclis kararıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 86: Kanunla düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-47-1p3x",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Genel Kurulundaki görüşmelerin tutanak dergisinde tam olarak yayımlanması zorunlu mudur?",
+    "options": [
+      "Hayır, özetlenebilir.",
+      "Evet, açıktır ve tam olarak yayımlanır.",
+      "Sadece kanun görüşmeleri yayımlanır.",
+      "Başkanlık Divanı kararına bağlıdır.",
+      "Sadece TRT'de yayınlanır."
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 97: Tam olarak yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-49-7u15",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Cumhurbaşkanı, kanunları tekrar görüşülmek üzere TBMM'ye geri gönderirken ne yapmak zorundadır?",
+    "options": [
+      "Basın toplantısı yapmak",
+      "Gerekçe göstermek",
+      "Parti liderleriyle görüşmek",
+      "Referandum kararı almak",
+      "Anayasa Mahkemesine danışmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 89: Gerekçe göstermek zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-5-t99l",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Savaş sebebiyle yeni seçimlerin yapılmasına imkan görülmezse, TBMM seçimleri ne kadar süreyle geriye bırakabilir?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "Savaş bitene kadar süresiz"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 78: Savaş sebebiyle 1 yıl geriye bırakılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-50-dx48",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM İçtüzüğünü kim yapar?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Cumhurbaşkanı",
+      "TBMM (kendi yapar)",
+      "Adalet Bakanlığı",
+      "Yargıtay"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 95: Kendi yaptığı İçtüzük.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-51-9ksk",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM'nin bütün bina ve tesislerinde kolluk hizmetlerini kim düzenler?",
+    "options": [
+      "İçişleri Bakanı",
+      "Ankara Valisi",
+      "Meclis Başkanı",
+      "Emniyet Genel Müdürü",
+      "Genelkurmay Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 95: Meclis Başkanlığı.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-52-u1aw",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Genel Kurulundaki görüşmelerin yayımı, Başkanlık Divanı teklifi üzerine Meclisce karar alınmadıkça nasıldır?",
+    "options": [
+      "Yasaktır",
+      "İzne tabidir",
+      "Serbesttir",
+      "Ücrete tabidir",
+      "Sadece resmi kanaldan yapılır"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 97: Yayımı serbesttir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-6-7xjx",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Ara seçim her seçim döneminde kural olarak kaç defa yapılır?",
+    "options": [
+      "Hiç yapılmaz",
+      "1 defa",
+      "2 defa",
+      "3 defa",
+      "İhtiyaç duyuldukça sınırsız"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 78: Ara seçim her seçim döneminde bir defa yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-7-pftb",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Genel seçimlere ne kadar süre kala ara seçime gidilemez?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "1 yıl",
+      "18 ay",
+      "2 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 78: Genel seçimlere 1 yıl kala ara seçim yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mswxmnos-9-3zyq",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Seçimlerin genel yönetim ve denetimi hangi organa aittir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "Yüksek Seçim Kurulu (YSK)",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 79: Seçimlerin yönetimi YSK'nındır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:37.751513+00:00",
+    "updated_at": "2026-08-17T07:48:37.751513+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-0-wyef",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan “de” doğru yazılmıştır?",
+    "options": [
+      "Ben de sizinle geliyorum.",
+      "Bende sizinle geliyorum.",
+      "Okul da kimse yoktu.",
+      "Evde ki kitap kaybolmuş.",
+      "Yoldada uzun süre bekledik."
+    ],
+    "answer_index": 0,
+    "explanation": "Bağlaç olan “de” ayrı yazılır ve cümleden çıkarıldığında anlam büyük ölçüde korunur: Ben de sizinle geliyorum.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-1-gghx",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bulunma hâl eki olan “-de” doğru yazılmıştır?",
+    "options": [
+      "Ev de kimse yoktu.",
+      "Evde kimse yoktu.",
+      "Bahçe de çocuklar oynuyor.",
+      "Okul da ders başladı.",
+      "Sen deki kalemi ver."
+    ],
+    "answer_index": 1,
+    "explanation": "Bulunma hâl eki sözcüğe bitişik yazılır: ev-de.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-10-2ft5",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde ikileme doğru yazılmıştır?",
+    "options": [
+      "Sorunu baş başa konuşalım.",
+      "Sorunu başbaşa konuşalım.",
+      "Sorunu baş-başa konuşalım.",
+      "Sorunu baş, başa konuşalım.",
+      "Sorunu baş başakonuşalım."
+    ],
+    "answer_index": 0,
+    "explanation": "“Baş başa” ikilemesi ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-11-yw1w",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki sözcüklerden hangisi bitişik yazılır?",
+    "options": [
+      "ön yargı",
+      "önsöz",
+      "göz ardı",
+      "ara sıra",
+      "el ele"
+    ],
+    "answer_index": 1,
+    "explanation": "“Önsöz” bitişik; “ön yargı”, “göz ardı”, “ara sıra” ve “el ele” ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-12-kted",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde dil adlarına gelen ek doğru yazılmıştır?",
+    "options": [
+      "Türkçe nin anlatım olanakları çok geniştir.",
+      "Türkçe'nin anlatım olanakları çok geniştir.",
+      "Türkçenin anlatım olanakları çok geniştir.",
+      "Türkçe' nin anlatım olanakları çok geniştir.",
+      "Türkçe-nin anlatım olanakları çok geniştir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dil adlarına gelen çekim ekleri kesme işaretiyle ayrılmaz: Türkçenin.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-13-5z73",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özel ada gelen ek doğru yazılmıştır?",
+    "options": [
+      "Ankara-ya yarın gideceğiz.",
+      "Ankaraya yarın gideceğiz.",
+      "Ankara ya yarın gideceğiz.",
+      "Ankara' ya yarın gideceğiz.",
+      "Ankara'ya yarın gideceğiz."
+    ],
+    "answer_index": 4,
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır: Ankara'ya.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-14-6vvh",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kısaltmaya gelen ek doğru yazılmıştır?",
+    "options": [
+      "TBMM'nin açılışı 23 Nisan 1920'dir.",
+      "TBMMnin açılışı 23 Nisan 1920'dir.",
+      "TBMM nin açılışı 23 Nisan 1920'dir.",
+      "TBMM' nin açılışı 23 Nisan 1920'dir.",
+      "TBMM-nin açılışı 23 Nisan 1920'dir."
+    ],
+    "answer_index": 0,
+    "explanation": "Büyük harfli kısaltmalara gelen ekler kesme işaretiyle ayrılır: TBMM'nin.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-15-38sy",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde virgül eş görevli sözcükleri ayırmak için doğru kullanılmıştır?",
+    "options": [
+      "Pazardan, elma armut ve muz aldık.",
+      "Pazardan elma, armut ve muz aldık.",
+      "Pazardan elma armut, ve muz aldık.",
+      "Pazardan elma, armut, ve muz aldık.",
+      "Pazardan elma armut ve, muz aldık."
+    ],
+    "answer_index": 1,
+    "explanation": "Virgül, eş görevli sözcükleri ayırır; “ve” bağlacından önce zorunlu olmadıkça virgül kullanılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-16-v8rn",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde seslenme sözünden sonra virgül doğru kullanılmıştır?",
+    "options": [
+      "Sevgili arkadaşlar yarışma yarın, başlayacak.",
+      "Sevgili, arkadaşlar yarışma yarın başlayacak.",
+      "Sevgili arkadaşlar yarışma, yarın başlayacak.",
+      "Sevgili arkadaşlar, yarışma yarın başlayacak.",
+      "Sevgili arkadaşlar; yarışma yarın başlayacak."
+    ],
+    "answer_index": 3,
+    "explanation": "Seslenme sözlerinden sonra virgül kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-17-e7ya",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde iki nokta doğru kullanılmıştır?",
+    "options": [
+      "Çantamda şunlar vardı: kalem, silgi, defter.",
+      "Çantamda: şunlar vardı kalem, silgi, defter.",
+      "Çantamda şunlar: vardı kalem, silgi, defter.",
+      "Çantamda şunlar vardı, kalem: silgi, defter.",
+      "Çantamda şunlar vardı kalem, silgi: defter."
+    ],
+    "answer_index": 0,
+    "explanation": "Kendisiyle ilgili açıklama veya örnek verilecek cümlenin sonunda iki nokta kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-18-xp6u",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
+    "options": [
+      "Öğretmen: “Sorularınızı çekinmeden sorabilirsiniz dedi.”",
+      "Öğretmen “Sorularınızı, çekinmeden sorabilirsiniz.” dedi.",
+      "Öğretmen, Sorularınızı çekinmeden sorabilirsiniz dedi.",
+      "Öğretmen, “Sorularınızı çekinmeden sorabilirsiniz.” dedi.",
+      "Öğretmen, “Sorularınızı çekinmeden sorabilirsiniz dedi.”"
+    ],
+    "answer_index": 3,
+    "explanation": "Başkasından aynen aktarılan sözler tırnak içinde verilir; konuşma cümlesinin noktalaması tırnak içinde kalır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-19-47fq",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde üç nokta doğru kullanılmıştır?",
+    "options": [
+      "Sana... söyleyeceklerim var ama.",
+      "Sana söyleyeceklerim var ama...",
+      "Sana söyleyeceklerim... var ama.",
+      "Sana söyleyeceklerim var... ama.",
+      "Sana söyleyeceklerim var ama…."
+    ],
+    "answer_index": 1,
+    "explanation": "Tamamlanmamış ya da söylenmek istenmeyen sözlerin sonunda üç nokta kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-2-xi2w",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan “ki” doğru yazılmıştır?",
+    "options": [
+      "Biliyorum ki başaracaksın.",
+      "Dünkü ki toplantı ertelendi.",
+      "Evde ki dosyayı getir.",
+      "Sende ki anahtar kaybolmuş.",
+      "Yarınki de görüşürüz."
+    ],
+    "answer_index": 0,
+    "explanation": "Bağlaç olan “ki” ayrı yazılır: Biliyorum ki başaracaksın.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-3-uvwi",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sıfat yapan “-ki” doğru yazılmıştır?",
+    "options": [
+      "Biliyorumki gelecek.",
+      "Dün ki toplantı ertelendi.",
+      "Dünkü toplantı ertelendi.",
+      "Evde ki dosyayı getir.",
+      "Senki bunu yaparsın."
+    ],
+    "answer_index": 2,
+    "explanation": "Sıfat yapan -ki eki sözcüğe bitişik yazılır: dün-kü.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-4-zrzl",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde soru eki “mi” doğru yazılmıştır?",
+    "options": [
+      "Sende mi geliyorsun?",
+      "Sen demi geliyorsun?",
+      "Sen de mi geliyorsun?",
+      "Sen de mi geliyorsun.",
+      "Sen de mi, geliyorsun?"
+    ],
+    "answer_index": 2,
+    "explanation": "Soru eki “mi” kendinden önceki sözcükten ayrı yazılır; soru cümlesinin sonunda soru işareti kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-5-1msm",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “birçok” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Bir-çok kişi toplantıya katıldı.",
+      "Bir çok kişi toplantıya katıldı.",
+      "Birçok kişi toplantıya katıldı.",
+      "Bir çoğu kişi toplantıya katıldı.",
+      "Birçokkişi toplantıya katıldı."
+    ],
+    "answer_index": 2,
+    "explanation": "“Birçok” belgisiz sıfatı bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-6-x7q6",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “hiçbir” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Hiçbir şey eskisi gibi değil.",
+      "Hiç bir şey eskisi gibi değil.",
+      "Hiç-bir şey eskisi gibi değil.",
+      "Hiçbirşey eskisi gibi değil.",
+      "Hiç birşey eskisi gibi değil."
+    ],
+    "answer_index": 0,
+    "explanation": "“Hiçbir” bitişik, “şey” ise ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-7-sjn8",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “her şey” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Her-şey zamanla düzelir.",
+      "Herşey zamanla düzelir.",
+      "Her şey zamanla düzelir.",
+      "Herşey, zamanla düzelir.",
+      "Her şeyzamanla düzelir."
+    ],
+    "answer_index": 2,
+    "explanation": "“Her şey” ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-8-b968",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “gitgide” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Hava git-gide soğuyor.",
+      "Hava git gide soğuyor.",
+      "Hava gitgide soğuyor.",
+      "Hava gitgide, soğuyor.",
+      "Hava gid gide soğuyor."
+    ],
+    "answer_index": 2,
+    "explanation": "“Gitgide” sözcüğü bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-9-skkh",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde birleşik fiil doğru yazılmıştır?",
+    "options": [
+      "Bu durumu far ketmek zor değil.",
+      "Bu durumu farketmek zor değil.",
+      "Bu durumu fark-etmek zor değil.",
+      "Bu durumu fark etmekzor değil.",
+      "Bu durumu fark etmek zor değil."
+    ],
+    "answer_index": 4,
+    "explanation": "“Fark etmek” yardımcı fiille kurulan birleşik fiildir ve ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-15T08:12:15.046353+00:00",
+    "updated_at": "2026-08-15T08:12:15.046353+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-0-khlb",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlükten kaldırılan hükümlere göre 5018 sayılı Kanunun yürürlüğe girmesiyle hangi temel kanun, ek ve değişiklikleriyle birlikte yürürlükten kaldırılmıştır?",
+    "options": [
+      "1050 sayılı Muhasebei Umumiye Kanunu",
+      "832 sayılı Sayıştay Kanununun tamamı istisnasız",
+      "657 sayılı Devlet Memurları Kanunu",
+      "6245 sayılı Harcırah Kanunu",
+      "2886 sayılı Devlet İhale Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: 1050 sayılı Muhasebei Umumiye Kanunu. Dayanak: 5018 sayılı Kanun. Madde 81/a'ya göre bu Kanunun geçici maddelerindeki hükümler saklı kalmak kaydıyla, 1050 sayılı Muhasebei Umumiye Kanunu ile ek ve değişiklikleri yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-1-v0fs",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlükten kaldırılan hükümlere göre 211 sayılı Kanunun 98-106 ncı maddeleri hariç olmak üzere, diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanunu, 6245 sayılı Harcırah Kanunu ve 832 sayılı Sayıştay Kanununa tâbi olunmadığına dair istisna veya muafiyet getiren hükümlerin durumu nedir?",
+    "options": [
+      "Sadece Sayıştay onayıyla geçerlidir",
+      "Yürürlükten kaldırılmıştır",
+      "Sadece geçiş dönemi boyunca geçerlidir",
+      "Yeniden düzenlenmek üzere askıya alınmıştır",
+      "Yürürlükte kalmaya devam etmiştir"
+    ],
+    "answer_index": 1,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Yürürlükten kaldırılmıştır. Dayanak: 5018 sayılı Kanun. Madde 81/c'ye göre bu Kanun kapsamındaki kamu idarelerine ilişkin olarak, 4.1.1961 tarihli ve 211 sayılı Kanunun 98-106 ncı maddeleri hariç olmak üzere, diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanunu, 6245 sayılı Harcırah Kanunu ve 832 sayılı Sayıştay Kanununa tâbi olunmadığına dair istisna veya muafiyet getiren hükümler yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-10-mta2",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanunun 82 nci maddesine göre Kanunun 81 inci maddesinin (e) bendi ile geçici 6 ncı maddesi hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "1/1/2004 tarihinde",
+      "Kabul tarihinde",
+      "Kanunun yayımı tarihinde",
+      "1/1/2005 tarihinde",
+      "31/12/2007 tarihinde"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: 1/1/2004 tarihinde. Dayanak: 5018 sayılı Kanun Madde 82/b'ye göre 81 inci maddenin (e) bendi ile geçici 6 ncı madde 1/1/2004 tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-11-rxe8",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanunun Ek Madde 6'sına göre kamu idarelerinin yeniden teşkilatlanmasının gerektirdiği bütçe işlemlerini yapmaya ve kesin hesapların hazırlanmasına ilişkin gerekli düzenlemeleri yapmaya kim yetkilidir?",
+    "options": [
+      "Strateji ve Bütçe Başkanlığı",
+      "Cumhurbaşkanı",
+      "İlgili idarenin üst yöneticisi",
+      "Sayıştay Başkanlığı",
+      "Hazine ve Maliye Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: Cumhurbaşkanı. Dayanak: 5018 sayılı Kanun Ek Madde 6/2'ye göre kamu idarelerinin yeniden teşkilatlanmasının gerektirdiği bütçe işlemlerini yapmaya, bütçenin uygulaması ile kesin hesapların hazırlanmasına ilişkin gerekli her türlü düzenlemeyi yapmaya Cumhurbaşkanı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-12-0kw8",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlüğe göre 5018 sayılı Kanunun 30, 66, 67 ve 80 inci maddeleri ile geçici 2, 3, 4, 5, 7, 8, 10, 12, 13 ve 14 üncü maddeleri ile 82 ve 83 üncü maddeleri hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "1.1.2004 tarihinde",
+      "1.1.2006 tarihinde",
+      "Kanunun yayımı tarihinde",
+      "1.1.2005 tarihinde",
+      "Kanunun kabul tarihinde"
+    ],
+    "answer_index": 2,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Kanunun yayımı tarihinde. Dayanak: 5018 sayılı Kanun. Madde 82/a'ya göre bu Kanunun 30, 66, 67 ve 80 inci maddeleri ile geçici 2, 3, 4, 5, 7, 8, 10, 12, 13 ve 14 üncü maddeleri ile 82 ve 83 üncü maddeleri yayımı tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-13-bjmn",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlüğe göre 5018 sayılı Kanunun diğer hükümleri hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "Yayımı tarihinde",
+      "1.1.2006 tarihinde",
+      "1.1.2004 tarihinde",
+      "1.1.2005 tarihinde",
+      "1.1.2007 tarihinde"
+    ],
+    "answer_index": 3,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: 1.1.2005 tarihinde. Dayanak: 5018 sayılı Kanun. Madde 82/c'ye göre bu Kanunun diğer hükümleri 1.1.2005 tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-14-8occ",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanunun Yürütme hükmüne göre bu Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı tek başına",
+      "TBMM Başkanlığı",
+      "Sayıştay Başkanlığı",
+      "Hazine ve Maliye Bakanı",
+      "Bakanlar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Bakanlar Kurulu. Dayanak: 5018 sayılı Kanun. Madde 83'e göre bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-15-tiwh",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlükten kaldırılan hükümlere göre 28.3.2002 tarihli ve 4749 sayılı Kanunun hangi maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır?",
+    "options": [
+      "14 üncü maddesinin üçüncü fıkrası",
+      "6 ncı maddesinin dördüncü fıkrası",
+      "22 nci maddesinin birinci fıkrası",
+      "18 inci maddesinin beşinci fıkrası",
+      "10 uncu maddesinin ikinci fıkrası"
+    ],
+    "answer_index": 0,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: 14 üncü maddesinin üçüncü fıkrası. Dayanak: 5018 sayılı Kanun. Madde 81/d'ye göre 28.3.2002 tarihli ve 4749 sayılı Kanunun 14 üncü maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-16-mp75",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Yürürlükten kaldırılan hükümlere göre 26.11.1999 tarihli ve 4481 sayılı Kanunun hangi maddesi yürürlükten kaldırılmıştır?",
+    "options": [
+      "20 nci maddesi",
+      "15 inci maddesi",
+      "3 üncü maddesi",
+      "5 inci maddesi",
+      "10 uncu maddesi"
+    ],
+    "answer_index": 1,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: 15 inci maddesi. Dayanak: 5018 sayılı Kanun. Madde 81/e'ye göre 26.11.1999 tarihli ve 4481 sayılı Kanunun 15 inci maddesi yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-3-1n83",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Elektronik ortamda işlemlere göre bu Kanun kapsamında yer alan tüm iş ve işlemler nasıl gerçekleştirilebilir?",
+    "options": [
+      "Sadece yazılı ortamda yapılabilir",
+      "Sadece sözlü beyanla yapılabilir",
+      "Sadece noter huzurunda yapılabilir",
+      "Elektronik ortamda gerçekleştirilebilir",
+      "Sadece Sayıştay onayıyla elektronik ortamda yapılabilir"
+    ],
+    "answer_index": 3,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Elektronik ortamda gerçekleştirilebilir. Dayanak: 5018 sayılı Kanun. Ek Madde 4'e göre bu Kanun kapsamında yer alan tüm iş ve işlemler elektronik ortamda gerçekleştirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-6-h6uw",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Mücbir sebep düzenlemesine göre bu hâllerde Hazine ve Maliye Bakanlığı bilişim sistemleri üzerinden yürütülen işlemlerde yaşanabilecek gecikme nedeniyle ilgililere hangi yaptırımlar uygulanmaz?",
+    "options": [
+      "Sadece disiplin cezası uygulanmaz, diğer yaptırımlar uygulanır",
+      "Gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar",
+      "Sadece görevden alma uygulanmaz",
+      "Sadece idari para cezası uygulanmaz",
+      "Tüm yaptırımlar aynen uygulanmaya devam eder"
+    ],
+    "answer_index": 1,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar. Dayanak: 5018 sayılı Kanun. Ek Madde 7'nin ikinci fıkrasına göre mücbir sebep hallerinde, Hazine ve Maliye Bakanlığı bilişim sistemleri üzerinden yürütülen işlemlerde yaşanabilecek gecikme nedeniyle ilgililere, gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-7-7w3m",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanunun ek hükümlerine göre mevzuatta orta vadeli malî plana yapılan atıflar neye yapılmış sayılır?",
+    "options": [
+      "Kesin hesap kanununa yapılmış sayılır",
+      "Hiçbir belgeye yapılmamış sayılır ve geçersiz kalır",
+      "Orta vadeli programa yapılmış sayılır",
+      "Yıllık faaliyet raporuna yapılmış sayılır",
+      "Malî istatistiklere yapılmış sayılır"
+    ],
+    "answer_index": 2,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: Orta vadeli programa yapılmış sayılır. Dayanak: 5018 sayılı Kanun. Ek Madde 8'e göre mevzuatta orta vadeli malî plana yapılan atıflar orta vadeli programa yapılmış sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-msybltsg-9-zis7",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Geçiş hükümlerine göre, diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanununa yapılan atıflar neye yapılmış sayılır?",
+    "options": [
+      "211 sayılı Kanuna yapılmış sayılır",
+      "Geçersiz sayılır ve hiçbir hükme bağlanmaz",
+      "832 sayılı Sayıştay Kanununa yapılmış sayılır",
+      "6245 sayılı Harcırah Kanununa yapılmış sayılır",
+      "5018 sayılı Kanuna yapılmış sayılır"
+    ],
+    "answer_index": 4,
+    "explanation": "[5018 Sayılı Kanun] Doğru cevap: 5018 sayılı Kanuna yapılmış sayılır. Dayanak: 5018 sayılı Kanun. Geçici Madde 9'a göre diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanununa yapılan atıflar, bu Kanuna yapılmış sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-18T07:07:41.479378+00:00",
+    "updated_at": "2026-08-18T07:07:41.479378+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-0-jenm",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı yardımcıları ve bakanlar hakkında Meclis soruşturması açılabilmesi için gereken karar yeter sayısı nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5'i (360)",
+      "Üye tamsayısının 2/3'ü (400)",
+      "Katılanların 2/3'ü",
+      "1/10 imza"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 106: Soruşturma açılması için 3/5 çoğunluk.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-1-dxsx",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Meclis soruşturması sonucunda Yüce Divan'a sevk kararı için gereken çoğunluk nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "3/5 çoğunluk",
+      "Üye tamsayısının 2/3'ü",
+      "Katılanların salt çoğunluğu",
+      "Nitelikli çoğunluk gerekmez"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 106: Yüce Divan'a sevk için 2/3 çoğunluk.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-11-r88u",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı kararnamesi (CBK) ile kanunlarda farklı hükümler bulunması halinde hangisi uygulanır?",
+    "options": [
+      "CBK hükümleri",
+      "Sonraki tarihli olan",
+      "Kanun hükümleri",
+      "Anayasa Mahkemesi kararı",
+      "Danıştay görüşü"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 104: Kanun hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-12-6hxj",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "TBMM'nin aynı konuda kanun çıkarması durumunda, o konudaki Cumhurbaşkanlığı kararnamesinin durumu ne olur?",
+    "options": [
+      "Değiştirilerek kabul edilir.",
+      "Hükümsüz hale gelir.",
+      "Yürürlüğü durur.",
+      "Referanduma sunulur.",
+      "Kanunla birleşir."
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 104: Kararname hükümsüz hale gelir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-14-o0qr",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "TBMM, Cumhurbaşkanı hakkında soruşturma açılmasına hangi çoğunlukla karar verebilir?",
+    "options": [
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5'i (360)",
+      "Üye tamsayısının 2/3'ü (400)",
+      "Katılanların salt çoğunluğu",
+      "%50 + 1"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 105: Üye tamsayısının 3/5'i.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-15-lsw8",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Hakkında soruşturma açılmasına karar verilen Cumhurbaşkanı ne yapamaz?",
+    "options": [
+      "Yurt dışına çıkamaz",
+      "Atama yapamaz",
+      "Seçim kararı alamaz",
+      "Kararname çıkaramaz",
+      "Mecliste konuşamaz"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 105: Seçim kararı alamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-16-0r5c",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı makamının boşalması halinde kaç gün içinde seçim yapılır?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90",
+      "120"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 106: Kırkbeş gün içinde.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-17-es01",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı makamı boşaldığında yenisi seçilene kadar kim vekalet eder?",
+    "options": [
+      "TBMM Başkanı",
+      "En yaşlı Bakan",
+      "Cumhurbaşkanı Yardımcısı",
+      "Anayasa Mahkemesi Başkanı",
+      "Genelkurmay Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 106: Cumhurbaşkanı Yardımcısı vekalet eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-19-nbvt",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Devlet Denetleme Kurulu (DDK) kime bağlıdır?",
+    "options": [
+      "TBMM'ye",
+      "Cumhurbaşkanlığına",
+      "Adalet Bakanlığına",
+      "Sayıştay'a",
+      "HSK'ya"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 108: Cumhurbaşkanlığına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-2-xzm9",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı kim tarafından seçilir?",
+    "options": [
+      "TBMM",
+      "Yüksek Seçim Kurulu",
+      "Doğrudan halk tarafından",
+      "İl Genel Meclisleri",
+      "Parti delegeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 101: Doğrudan halk tarafından seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-20-h14s",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Devlet Denetleme Kurulu'nun görev alanı dışında kalan organ hangisidir?",
+    "options": [
+      "Türk Silahlı Kuvvetleri",
+      "Üniversiteler",
+      "Yargı organları",
+      "Meslek kuruluşları",
+      "Sendikalar"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 108: Yargı organları görev alanı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-21-v04o",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Milli Güvenlik Kurulu'nun (MGK) başkanı kimdir?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "İçişleri Bakanı",
+      "Cumhurbaşkanı",
+      "TBMM Başkanı",
+      "Milli Savunma Bakanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 118: Cumhurbaşkanı başkanlığında toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-22-r0ad",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Aşağıdakilerden hangisi MGK üyesi değildir?",
+    "options": [
+      "Cumhurbaşkanı Yardımcıları",
+      "Adalet Bakanı",
+      "Dışişleri Bakanı",
+      "Jandarma Genel Komutanı",
+      "Hava Kuvvetleri Komutanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 118: Jandarma Genel Komutanı 2017 değişikliği ile MGK üyeliğinden çıkarılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-23-5zni",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Olağanüstü hal (OHAL) ilan etme yetkisi kime aittir?",
+    "options": [
+      "TBMM",
+      "Bakanlar Kurulu",
+      "Cumhurbaşkanı",
+      "MGK",
+      "Genelkurmay Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 119: Cumhurbaşkanı ilan eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-24-szuh",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı, yurdun tamamında veya bir bölgesinde süresi kaç ayı geçmemek üzere OHAL ilan edebilir?",
+    "options": [
+      "3 ay",
+      "4 ay",
+      "6 ay",
+      "1 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 119: Altı ayı geçmemek üzere.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-25-2obq",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "OHAL ilanı kararı aynı gün nereye sunulur?",
+    "options": [
+      "Anayasa Mahkemesi'ne",
+      "Danıştay'a",
+      "TBMM'nin onayına",
+      "MGK'ya",
+      "YSK'ya"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 119: TBMM'nin onayına sunulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-26-3mpt",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "TBMM, Cumhurbaşkanının talebiyle OHAL süresini her defasında kaç ayı geçmemek üzere uzatabilir?",
+    "options": [
+      "2 ay",
+      "3 ay",
+      "4 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 119: Dört ayı geçmemek üzere.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-27-hbhu",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnameleri TBMM'de ne kadar süre içinde görüşülüp karara bağlanmalıdır (aksi halde yürürlükten kalkar)?",
+    "options": [
+      "15 gün",
+      "1 ay",
+      "3 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 119: Üç ay içinde.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-28-2lq4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Başkomutanlık, TBMM adına kim tarafından temsil olunur?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "Cumhurbaşkanı",
+      "Meclis Başkanı",
+      "Kuvvet Komutanları"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 117: Cumhurbaşkanı tarafından temsil olunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-29-v012",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Genelkurmay Başkanı kim tarafından atanır?",
+    "options": [
+      "Yüksek Askeri Şura",
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Milli Savunma Bakanı",
+      "Başbakan (Eski sistem)"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 117: Cumhurbaşkanınca atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-3-xius",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı seçilebilmek için kaç yaşını doldurmuş olmak gerekir?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 101: 40 yaşını doldurmuş olmak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-30-8e27",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Milli güvenliğin sağlanmasından TBMM'ye karşı kim sorumludur?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "Milli Savunma Bakanı",
+      "İçişleri Bakanı",
+      "Cumhurbaşkanı",
+      "MİT Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 117: Cumhurbaşkanı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-31-kn6u",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "İdare, kuruluş ve görevleriyle bir bütündür ve neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Kararnameyle",
+      "Kanunla",
+      "Tüzükle",
+      "Genelgeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 123: Kanunla düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-34-chji",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "İdarenin her türlü eylem ve işlemlerine karşı hangi yol açıktır?",
+    "options": [
+      "Yargı yolu",
+      "Sadece idari itiraz yolu",
+      "Sadece dilekçe yolu",
+      "Meclis denetimi",
+      "Ombudsman başvurusu"
+    ],
+    "answer_index": 0,
+    "explanation": "Md. 125: Yargı yolu açıktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-35-uqnb",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yüksek Askeri Şura'nın (YAŞ) hangi kararlarına karşı yargı yolu açıktır?",
+    "options": [
+      "Tüm kararlarına",
+      "Terfi işlemlerine",
+      "Kadrosuzluk nedeniyle emekliye ayırma işlemlerine",
+      "İlişik kesme kararlarına",
+      "Hiçbir kararına açık değildir"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 125: İlişik kesme kararlarına karşı yargı yolu açıktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-36-i13i",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yargı yetkisi, idari eylem ve işlemlerin neyinin denetimi ile sınırlıdır?",
+    "options": [
+      "Yerindeliğinin",
+      "Hukuka uygunluğunun",
+      "Ekonomikliğinin",
+      "Verimliliğinin",
+      "Hızının"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 125: Hukuka uygunluk denetimi ile sınırlıdır, yerindelik denetimi yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-37-d5n4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Türkiye, merkezi idare kuruluşu bakımından neye ayrılır?",
+    "options": [
+      "Eyaletlere",
+      "İllere",
+      "Bölgelere",
+      "Otonom bölgelere",
+      "Kantonlara"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 126: İllere ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-38-4nxz",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "İllerin idaresi hangi yetki esasına dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon",
+      "Kayyum"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 126: Yetki genişliği.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-39-hixo",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Mahalli idarelerin (Belediye, İl Özel İdaresi, Köy) seçimleri kaç yılda bir yapılır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 127: Beş yılda bir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-4-iek2",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Bir kimse en fazla kaç defa Cumhurbaşkanı seçilebilir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Sınırsız",
+      "4"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 101: En fazla iki defa.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-40-qzg6",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Mahalli idare organlarının görevleri ile ilgili bir suç sebebiyle geçici bir tedbir olarak görevden uzaklaştırılması yetkisi kime aittir?",
+    "options": [
+      "Valiye",
+      "Cumhurbaşkanına",
+      "İçişleri Bakanına",
+      "Danıştay'a",
+      "YSK'ya"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 127: İçişleri Bakanı.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-41-g8gy",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Merkezi idarenin mahalli idareler üzerindeki denetim yetkisine ne ad verilir?",
+    "options": [
+      "Hiyerarşi",
+      "İdari vesayet",
+      "Yetki genişliği",
+      "Özerklik",
+      "Emir-komuta"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 127: İdari vesayet.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-42-fi0c",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurların nitelikleri, atanmaları, hak ve yükümlülükleri neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Kanunla",
+      "Kararnameyle",
+      "Sözleşmeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 128: Kanunla düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-43-sl94",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurlar hakkında disiplin kovuşturmasında güvence olarak ne tanınmadan disiplin cezası verilemez?",
+    "options": [
+      "Avukat tutma hakkı",
+      "Savunma hakkı",
+      "İtiraz hakkı",
+      "Dava açma hakkı",
+      "Sendika temsilcisi bulundurma hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 129: Savunma hakkı.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-44-7nkk",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Üniversiteler (Yükseköğretim kurumları) kim tarafından kurulur?",
+    "options": [
+      "YÖK tarafından",
+      "Cumhurbaşkanı tarafından",
+      "Devlet tarafından kanunla",
+      "Vakıflar tarafından yönetmelikle",
+      "Milli Eğitim Bakanlığı tarafından"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 130: Devlet tarafından kanunla kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-45-w4fa",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Rektörler kim tarafından atanır?",
+    "options": [
+      "YÖK",
+      "Üniversite senatosu",
+      "Cumhurbaşkanı",
+      "Milli Eğitim Bakanı",
+      "Öğretim üyeleri seçer"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 130: Cumhurbaşkanınca atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-46-3fnt",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yükseköğretim Kurulu (YÖK) üyelerini kim atar?",
+    "options": [
+      "TBMM",
+      "Başbakan",
+      "Cumhurbaşkanı",
+      "Üniversitelerarası Kurul",
+      "Milli Eğitim Bakanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 131: Cumhurbaşkanınca atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-47-hv1e",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Radyo ve Televizyon Üst Kurulu (RTÜK) üyeleri kim tarafından seçilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM Genel Kurulu",
+      "Yargıtay",
+      "Danıştay",
+      "Gazeteciler Cemiyeti"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 133: TBMM Genel Kurulunca seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-49-4gmb",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu kurumu niteliğindeki meslek kuruluşlarının (Barolar, Odalar vb.) organlarının seçimlerinde kimler aday gösteremez?",
+    "options": [
+      "Siyasi partiler",
+      "Dernekler",
+      "Vakıflar",
+      "Sendikalar",
+      "Şirketler"
+    ],
+    "answer_index": 0,
+    "explanation": "Md. 135: Siyasi partiler aday gösteremezler.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-5-dcpt",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığına aday gösterilebilmek için siyasi partilerin son genel seçimde aldıkları oy oranı (tek başına veya birlikte) en az yüzde kaç olmalıdır?",
+    "options": [
+      "%3",
+      "%5",
+      "%7",
+      "%10",
+      "%20"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 101: En az yüzde beş.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-50-yhdh",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Diyanet İşleri Başkanlığı hangi ilke doğrultusunda görevini yerine getirir?",
+    "options": [
+      "Milliyetçilik",
+      "Laiklik",
+      "Devletçilik",
+      "İnkılapçılık",
+      "Halkçılık"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 136: Laiklik ilkesi doğrultusunda.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-51-0gsa",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu hizmetinde çalışan bir kimse, üstünden aldığı emri \"suç\" teşkil eder nitelikte görürse ne yapar?",
+    "options": [
+      "Yazılı olarak ister, gelirse yapar.",
+      "Yerine getirir, sorumluluk üste aittir.",
+      "Hiçbir suretle yerine getirmez.",
+      "Savcıya bildirir ve yapar.",
+      "Valilik onayına sunar."
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 137: Konusu suç ise hiçbir suretle yerine getirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-52-2vgz",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Üniversiteler (Yükseköğretim kurumları) hangi tüzel kişiliğe sahiptir?",
+    "options": [
+      "Özel hukuk tüzel kişiliği",
+      "Kamu tüzel kişiliği",
+      "Dernek tüzel kişiliği",
+      "Şirket tüzel kişiliği",
+      "Yarı resmi tüzel kişilik"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 130: Kamu tüzel kişiliğine sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-53-03hk",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Üniversite dekanlarını kim seçer ve atar?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Rektör",
+      "Yükseköğretim Kurulu (YÖK)",
+      "Üniversite Senatosu",
+      "Fakülte Kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 130: Dekanlar YÖK tarafından seçilir ve atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-56-r65q",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu bünyesinde aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Türk Dil Kurumu",
+      "Türk Tarih Kurumu",
+      "Atatürk Araştırma Merkezi",
+      "Devlet Tiyatroları",
+      "Atatürk Kültür Merkezi"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 134: Devlet Tiyatroları bu kurumun bünyesinde değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-58-r3k4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Amaçları dışında faaliyet gösteren meslek kuruluşlarının sorumlu organlarının görevine kim son verir?",
+    "options": [
+      "Bakanlık",
+      "Mahkeme",
+      "Valilik",
+      "TBMM",
+      "Emniyet"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 135: Mahkeme kararıyla.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-59-ebff",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Diyanet İşleri Başkanlığı idari yapıda nerede yer alır?",
+    "options": [
+      "Yargı kolunda",
+      "Yasama organında",
+      "Genel idare içinde",
+      "Özerk bir kuruluş olarak",
+      "Üniversite bünyesinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 136: Genel idare içinde.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-6-bhd0",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Siyasi partiler dışında en az kaç seçmen Cumhurbaşkanı adayı gösterebilir?",
+    "options": [
+      "20.000",
+      "50.000",
+      "100.000",
+      "250.000",
+      "500.000"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 101: En az yüzbin seçmen.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-61-3qgg",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı yardımcıları ve bakanlar kime karşı sorumludur?",
+    "options": [
+      "TBMM'ye",
+      "Başbakana",
+      "Halka",
+      "Cumhurbaşkanına",
+      "Yargıya"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 106: Cumhurbaşkanına karşı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-64-w23l",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Milli Güvenlik Kurulu'nun (MGK) gündemini kim belirler?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "Cumhurbaşkanı",
+      "MGK Genel Sekreteri",
+      "İçişleri Bakanı",
+      "Dışişleri Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 118: Cumhurbaşkanınca düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-67-x5gk",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu hizmeti görevlileriyle ilgili olarak \"Üst kademe yöneticilerinin yetiştirilme usul ve esasları\" neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "İçtüzükle",
+      "Kanunla",
+      "Kararnameyle",
+      "Genelgeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 128: Kanunla özel olarak düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-68-xtf3",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurlar ve diğer kamu görevlileri Anayasa ve kanunlara ne kalarak faaliyette bulunmakla yükümlüdür?",
+    "options": [
+      "Tarafsız",
+      "Sadık",
+      "Sessiz",
+      "Bağımsız",
+      "Özgür"
+    ],
+    "answer_index": 1,
+    "explanation": "Md. 129: Sadık kalarak.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-69-vm4w",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yükseköğretim kurumlarının (Üniversitelerin) bütçeleri kim tarafından tetkik ve onaylandıktan sonra Milli Eğitim Bakanlığına sunulur?",
+    "options": [
+      "Maliye Bakanlığı",
+      "Sayıştay",
+      "Yükseköğretim Kurulu (YÖK)",
+      "TBMM Plan Bütçe Komisyonu",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 130: YÖK tarafından.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-7-pqeo",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı seçilen kişinin varsa TBMM üyeliği ne olur?",
+    "options": [
+      "Devam eder",
+      "Askıya alınır",
+      "Dondurulur",
+      "Sona erer",
+      "Fahri üyeliğe dönüşür"
+    ],
+    "answer_index": 3,
+    "explanation": "Md. 101: TBMM üyeliği sona erer.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-8-14nf",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yürütme yetkisi kime aittir?",
+    "options": [
+      "Bakanlar Kuruluna",
+      "Başbakana",
+      "Cumhurbaşkanına",
+      "TBMM'ye",
+      "MGK'ya"
+    ],
+    "answer_index": 2,
+    "explanation": "Md. 104: Yürütme yetkisi Cumhurbaşkanına aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mswxms8b-9-zpa4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkilerinden biri değildir?",
+    "options": [
+      "Kanunları yayımlamak",
+      "Kanun teklif etmek (Bütçe hariç)",
+      "Cumhurbaşkanı yardımcıları ve bakanları atamak",
+      "Milletlerarası andlaşmaları onaylamak",
+      "TSK'nın kullanılmasına karar vermek"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanun teklif etme yetkisi milletvekillerinindir, Cumhurbaşkanı sadece bütçe kanununu teklif eder. Ancak şıklarda genel \"kanun teklif etmek\" ifadesi CB yetkisi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-17T07:48:43.634319+00:00",
+    "updated_at": "2026-08-17T07:48:43.634319+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-0-tsm8",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Tarihte kralın yetkilerini sınırlandıran ve insan hakları alanında ilk anayasal belge olarak kabul edilen 1215 tarihli belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Haklar Bildirgesi (Bill of Rights)",
+      "Magna Carta Libertatum",
+      "Habeas Corpus Act",
+      "Virginia Haklar Bildirgesi",
+      "Sened-i İttifak"
+    ],
+    "answer_index": 1,
+    "explanation": "1215 yılında İngiltere'de Kral Yurtsuz John ile soylular arasında imzalanan Magna Carta, kralın yetkilerini sınırlayan ilk belgedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-1-cxjx",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının 'kuşaklara' ayrılarak incelenmesi (Birinci, İkinci ve Üçüncü Kuşak Haklar) fikrini ilk kez ortaya atan hukukçu kimdir?",
+    "options": [
+      "John Locke",
+      "Karel Vasak",
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "Montesquieu"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan haklarını üç kuşak halinde sınıflandıran ilk kişi Çek asıllı Fransız hukukçu Karel Vasak'tır (1979).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-10-018i",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye, Avrupa İnsan Hakları Mahkemesi'ne (AİHM) 'Bireysel Başvuru' hakkını hangi yıl kabul etmiştir?",
+    "options": [
+      "1950",
+      "1954",
+      "1987",
+      "1990",
+      "2010"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, AİHS'yi 1954'te onaylamış ancak AİHM'ye bireysel başvuru hakkını 1987 yılında, Mahkemenin zorunlu yargı yetkisini ise 1990 yılında kabul etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-11-2b7a",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye'de Anayasa Mahkemesine (AYM) bireysel başvuru hakkı hangi anayasa değişikliği ile hukuk sistemimize girmiştir?",
+    "options": [
+      "1995 Değişikliği",
+      "2001 Değişikliği",
+      "2004 Değişikliği",
+      "2010 Değişikliği",
+      "2017 Değişikliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa Mahkemesine bireysel başvuru hakkı, 2010 Anayasa değişikliği (referandumu) ile getirilmiş ve 2012 yılında uygulanmaya başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-12-o5u4",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "1982 Anayasası'na göre, temel hak ve hürriyetlerin sınırlandırılmasında aşağıdakilerden hangisi bir sınırlandırma kriteri olamaz?",
+    "options": [
+      "Kanunla yapılması",
+      "Anayasanın sözüne ve ruhuna uygun olması",
+      "Demokratik toplum düzeninin gereklerine uygun olması",
+      "Cumhurbaşkanlığı Kararnamesi ile yapılması",
+      "Ölçülülük ilkesine uygun olması"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa'nın 13. maddesine göre temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak KANUNLA sınırlanabilir. Olağan dönem CB Kararnamesi ile temel haklar sınırlandırılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-13-8i6y",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Savaş, seferberlik veya olağanüstü hallerde bile dokunulamayan haklara ne ad verilir?",
+    "options": [
+      "Pozitif Haklar",
+      "Çekirdek Haklar",
+      "Siyasi Haklar",
+      "Katılma Hakları",
+      "Sosyal Haklar"
+    ],
+    "answer_index": 1,
+    "explanation": "1982 Anayasası'nın 15. maddesine göre; savaş, seferberlik ve OHAL'de dahi dokunulamayan mutlak haklara 'Çekirdek Haklar' denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-14-r5hd",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi 1982 Anayasası'na göre 'Çekirdek Haklar' kapsamında yer almaz?",
+    "options": [
+      "Yaşama hakkı",
+      "Kişinin maddi ve manevi bütünlüğü",
+      "Din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamama",
+      "Suçluluğu mahkeme kararı ile saptanıncaya kadar kimsenin suçlu sayılamaması (Masumiyet karinesi)",
+      "Yerleşme ve seyahat hürriyeti"
+    ],
+    "answer_index": 4,
+    "explanation": "Yerleşme ve seyahat hürriyeti bir çekirdek hak değildir; OHAL veya savaş gibi durumlarda, hatta genel asayiş gibi nedenlerle kanunla durdurulabilir/sınırlandırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-15-pjac",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Halkın kendi kendini doğrudan doğruya, aracı olmadan yönettiği demokrasi modeline ne ad verilir?",
+    "options": [
+      "Temsili Demokrasi",
+      "Yarı Doğrudan Demokrasi",
+      "Doğrudan Demokrasi",
+      "Çoğulcu Demokrasi",
+      "Çoğunlukçu Demokrasi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğrudan demokraside, yasama ve yürütme faaliyetleri temsilciler aracılığıyla değil, halkın doğrudan katılımıyla (örneğin eski Yunan site devletlerinde olduğu gibi) gerçekleştirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-16-etrw",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Halkın egemenlik hakkını seçtiği temsilciler aracılığıyla kullandığı, günümüzde Türkiye dâhil pek çok ülkede uygulanan demokrasi türü hangisidir?",
+    "options": [
+      "Doğrudan Demokrasi",
+      "Temsili Demokrasi",
+      "Yarı Doğrudan Demokrasi",
+      "Sosyal Demokrasi",
+      "Katılımcı Demokrasi"
+    ],
+    "answer_index": 1,
+    "explanation": "Seçmenlerin karar alma sürecine seçtikleri vekiller/milletvekilleri aracılığıyla katıldığı sisteme 'Temsili Demokrasi' denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-17-svpf",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Temsili demokrasi ile doğrudan demokrasinin birleşimi olan; referandum, halk vetosu ve halk teşebbüsü gibi araçlarla halkın yönetime katıldığı model aşağıdakilerden hangisidir?",
+    "options": [
+      "Yarı Doğrudan Demokrasi",
+      "Temsili Demokrasi",
+      "Çoğulcu Demokrasi",
+      "Sosyal Demokrasi",
+      "Mutlak Demokrasi"
+    ],
+    "answer_index": 0,
+    "explanation": "Yarı doğrudan demokraside, temsili sistem esastır ancak önemli konularda son sözü halk (referandum vb. araçlarla) söyler.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-18-hvbw",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi yarı doğrudan demokrasinin araçlarından biri değildir?",
+    "options": [
+      "Halk Oylaması (Referandum)",
+      "Halk Vetosu",
+      "Halk Teşebbüsü (Girişimi)",
+      "Temsilcilerin Azli (Geri Çağırma)",
+      "Kanun Hükmünde Kararname"
+    ],
+    "answer_index": 4,
+    "explanation": "Kanun Hükmünde Kararname (veya günümüzde CB Kararnamesi), yürütme organının bir işlemidir; halkın yönetime doğrudan katılım aracı değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-19-7yen",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokrasilerde herkesin hiçbir ayrım gözetilmeksizin (din, dil, ırk, cinsiyet, servet vb.) oy kullanabilme hakkına ne ad verilir?",
+    "options": [
+      "Eşit Oy İlkesi",
+      "Genel Oy İlkesi",
+      "Gizli Oy İlkesi",
+      "Tek Dereceli Seçim",
+      "Açık Sayım ve Döküm"
+    ],
+    "answer_index": 1,
+    "explanation": "Servet, cinsiyet, öğrenim durumu vb. hiçbir ayrım yapılmaksızın tüm vatandaşların oy hakkına sahip olmasına 'Genel Oy' ilkesi denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-2-8yyf",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Kişinin devlet tarafından aşılamayacak ve dokunulamayacak özel alanının sınırlarını çizen haklara ne ad verilir?",
+    "options": [
+      "Negatif Statü Hakları (Koruyucu Haklar)",
+      "Pozitif Statü Hakları (İsteme Hakları)",
+      "Aktif Statü Hakları (Katılma Hakları)",
+      "Dayanışma Hakları",
+      "Sosyal ve Ekonomik Haklar"
+    ],
+    "answer_index": 0,
+    "explanation": "Negatif statü hakları (birinci kuşak haklar), devlete 'gölge etme, karışma' diyen ve kişiyi devlete ve topluma karşı koruyan haklardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-20-xu69",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Her seçmenin yalnızca bir oy hakkına sahip olmasını ifade eden demokratik seçim ilkesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Genel Oy",
+      "Eşit Oy",
+      "Gizli Oy",
+      "Serbest Seçim",
+      "Tek Dereceli Seçim"
+    ],
+    "answer_index": 1,
+    "explanation": "Eşit oy ilkesi; zengin-fakir, eğitimli-eğitimsiz ayrımı yapmadan her bireyin oyunun aynı ağırlığa (bir oy) sahip olmasını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-21-6iiv",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye'de 'Gizli Oy - Açık Sayım ve Döküm' ilkesine dayalı ilk genel seçimler hangi yıl yapılmıştır?",
+    "options": [
+      "1923",
+      "1946",
+      "1950",
+      "1961",
+      "1982"
+    ],
+    "answer_index": 2,
+    "explanation": "1946'da çok partili hayata geçilmiş (açık oy-gizli sayım), ancak gerçek manada demokratik usullere (Gizli oy, açık sayım) ilk kez 1950 seçimlerinde geçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-22-0i6g",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye'de kadınlara 'milletvekili seçme ve seçilme hakkı' (genel seçimlere katılma) hangi yıl verilmiştir?",
+    "options": [
+      "1926",
+      "1930",
+      "1933",
+      "1934",
+      "1946"
+    ],
+    "answer_index": 3,
+    "explanation": "Kadınlara 1930'da belediye, 1933'te muhtarlık, 1934'te ise milletvekili seçme ve seçilme hakkı tanınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-23-3khd",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Yasama, yürütme ve yargı güçlerinin farklı organlarda toplanmasını öngören 'Kuvvetler Ayrılığı' ilkesini ilk kez sistemleştiren düşünür kimdir?",
+    "options": [
+      "Aristoteles",
+      "John Locke",
+      "Montesquieu",
+      "Jean-Jacques Rousseau",
+      "Karl Marx"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuvvetler ayrılığı teorisi günümüzdeki klasik haliyle ilk kez Fransız düşünür Montesquieu tarafından 'Kanunların Ruhu Üzerine' adlı eserinde sistemleştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-25-s616",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Başdenetçi (Ombudsman) kim tarafından seçilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Halk oylaması ile",
+      "Hakimler ve Savcılar Kurulu"
+    ],
+    "answer_index": 1,
+    "explanation": "Kamu Başdenetçisi, TBMM Genel Kurulu tarafından gizli oyla dört yıl için seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-27-gsdt",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "TİHEK (Türkiye İnsan Hakları ve Eşitlik Kurumu) Kurul üyeleri kim tarafından seçilir/atanır?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Adalet Bakanı",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "TİHEK Kurulu, biri Başkan, biri İkinci Başkan olmak üzere 11 üyeden oluşur ve üyelerin tamamı Cumhurbaşkanı tarafından atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-29-vb0o",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "TBMM bünyesinde yer alan 'İnsan Haklarını İnceleme Komisyonu' hangi yıl kurulmuştur?",
+    "options": [
+      "1982",
+      "1990",
+      "2001",
+      "2010",
+      "2016"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM İnsan Haklarını İnceleme Komisyonu 1990 yılında çıkarılan kanunla kurulmuş, Meclis içindeki daimi bir ihtisas komisyonudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-3-lucw",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi 'Aktif Statü (Katılma) Hakları'ndan biri değildir?",
+    "options": [
+      "Seçme ve seçilme hakkı",
+      "Siyasi parti kurma hakkı",
+      "Dilekçe hakkı",
+      "Kamu hizmetine girme hakkı",
+      "Mülkiyet hakkı"
+    ],
+    "answer_index": 4,
+    "explanation": "Mülkiyet hakkı, kişinin maddi varlığı ile ilgili olup 'Negatif Statü (Koruyucu)' haklarındandır. Diğerleri siyasi (katılma) haklardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-30-i82p",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi Birleşmiş Milletler (BM) sisteminde insan haklarını korumakla görevli asli denetim organlarından biri değildir?",
+    "options": [
+      "İnsan Hakları Konseyi",
+      "İnsan Hakları Yüksek Komiserliği",
+      "Uluslararası Adalet Divanı",
+      "Avrupa İnsan Hakları Mahkemesi (AİHM)",
+      "Ekonomik ve Sosyal Konsey (ECOSOC)"
+    ],
+    "answer_index": 3,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi (AİHM), Birleşmiş Milletler'in değil, Avrupa Konseyi'nin (Council of Europe) yargı organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-31-nijo",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İl ve İlçe İnsan Hakları Kurullarına illerde sırasıyla kim başkanlık eder?",
+    "options": [
+      "Belediye Başkanı - Kaymakam",
+      "Vali - Belediye Başkanı",
+      "Cumhuriyet Başsavcısı - Kaymakam",
+      "Vali - Kaymakam",
+      "İl Emniyet Müdürü - İlçe Emniyet Müdürü"
+    ],
+    "answer_index": 3,
+    "explanation": "İl İnsan Hakları Kuruluna Vali veya görevlendireceği bir Vali Yardımcısı, İlçe İnsan Hakları Kuruluna ise Kaymakam başkanlık eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-32-5fjn",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir ülkede yasaların anayasaya, idari işlemlerin de yasalara uygun olmasını ve idarenin yargısal denetime tabi tutulmasını ifade eden demokrasi güvencesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Sosyal Devlet İlkesi",
+      "Hukuk Devleti İlkesi",
+      "Laik Devlet İlkesi",
+      "Demokratik Devlet İlkesi",
+      "Üniter Devlet İlkesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Hukuk devleti; yönetenlerin de hukuk kurallarıyla bağlı olduğu, idarenin her türlü eylem ve işleminin yargı denetimine açık olduğu devlet modelidir. Temel hakların en büyük güvencesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-33-amso",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "AİHM'ye bireysel başvuru yapabilmek için gerekli olan en temel ön şart aşağıdakilerden hangisidir?",
+    "options": [
+      "Doğrudan AİHM'ye başvurmuş olmak",
+      "Davanın bir ceza davası olması",
+      "İç hukuk yollarının tüketilmiş olması",
+      "Başvuranın vatandaşlık bağı taşıması",
+      "Başvurunun bir avukat aracılığıyla yapılması"
+    ],
+    "answer_index": 2,
+    "explanation": "Uluslararası yargı organlarına (ve AYM'ye bireysel başvuruya) gidebilmek için öncelikle ulusal düzeydeki tüm idari ve yargısal başvuru yollarının (iç hukuk) tüketilmiş olması şarttır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-34-23pv",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Avrupa Konseyi'nin, Avrupa çapında işkence ve insanlık dışı veya onur kırıcı muameleyi önlemek amacıyla kurduğu komitenin kısa adı nedir?",
+    "options": [
+      "GRECO",
+      "CPT",
+      "VENEDİK KOMİSYONU",
+      "ECRI",
+      "AGİT"
+    ],
+    "answer_index": 1,
+    "explanation": "CPT (Avrupa İşkenceyi Önleme Komitesi - European Committee for the Prevention of Torture), Avrupa Konseyi bünyesinde cezaevleri ve nezarethaneleri denetleyerek işkenceyi önlemeye çalışan bir organdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-35-pcj6",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Irkçılığa ve Hoşgörüsüzlüğe Karşı Avrupa Komisyonu (ECRI) hangi kurum bünyesinde faaliyet göstermektedir?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Avrupa Birliği",
+      "Avrupa Konseyi",
+      "Uluslararası Af Örgütü",
+      "İslam İşbirliği Teşkilatı"
+    ],
+    "answer_index": 2,
+    "explanation": "ECRI, Avrupa Konseyi'nin ırkçılık, yabancı düşmanlığı, antisemitizm ve hoşgörüsüzlükle mücadele eden uzmanlaşmış bağımsız bir denetim organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-37-0tn3",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "1982 Anayasasına göre, suçluluğu hükmen sabit oluncaya kadar kimsenin suçlu sayılamayacağını ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanunsuz suç ve ceza olmaz ilkesi",
+      "Masumiyet (Suçsuzluk) Karinesi",
+      "Cezaların şahsiliği ilkesi",
+      "Habeas Corpus",
+      "Adil yargılanma hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Masumiyet karinesi, bir kişinin kesinleşmiş bir mahkeme kararı (hüküm) ile suçluluğu ispat edilene kadar masum kabul edilmesidir. (Anayasa m.38)",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-39-id81",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Herhangi bir kişinin yasa dışı olarak alıkonulmasına karşı, tutukluluğun yasallığının bir yargıç tarafından denetlenmesini sağlayan ve 1679'da İngiltere'de kabul edilen tarihi belge hangisidir?",
+    "options": [
+      "Magna Carta",
+      "Habeas Corpus Act",
+      "Bill of Rights",
+      "İnsan ve Yurttaş Hakları Bildirisi",
+      "Sened-i İttifak"
+    ],
+    "answer_index": 1,
+    "explanation": "Habeas Corpus Act, keyfi tutuklamalara karşı yargı güvencesi getiren, kişi güvenliği ve hürriyetinin temel belgelerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-4-x2t3",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Sosyal ve ekonomik haklar olarak da bilinen, devletten olumlu bir müdahale (hizmet) beklenen haklar hangi kuşak insan haklarıdır?",
+    "options": [
+      "Birinci Kuşak",
+      "İkinci Kuşak",
+      "Üçüncü Kuşak",
+      "Dördüncü Kuşak",
+      "Beşinci Kuşak"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışma hakkı, eğitim hakkı, sağlık hakkı gibi devletten hizmet istenen pozitif statü hakları İkinci Kuşak Haklar (İsteme Hakları) grubundandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-42-aavz",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Seçimlerde herkesin oyunu, başkalarının baskısı ve etkisi altında kalmadan gizlice kullanmasını öngören ilke hangisidir?",
+    "options": [
+      "Eşit Oy",
+      "Gizli Oy",
+      "Açık Sayım",
+      "Genel Oy",
+      "Serbest Seçim"
+    ],
+    "answer_index": 1,
+    "explanation": "Gizli oy ilkesi, seçmenin tercihini kimseye göstermeden kapalı bir kabinde ve zarf içinde kullanarak baskıdan korunmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-43-gk86",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bireylerin devlet memuru olma (kamu hizmetine girme) hakkı 1982 Anayasası'nda hangi hak kategorisinde düzenlenmiştir?",
+    "options": [
+      "Kişi Hakları ve Ödevleri",
+      "Sosyal ve Ekonomik Haklar",
+      "Siyasi Haklar ve Ödevler",
+      "Çekirdek Haklar",
+      "Dayanışma Hakları"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu hizmetine girme hakkı ve vatan hizmeti (askerlik), vergi ödevi, dilekçe hakkı, seçme seçilme hakkı gibi haklar Siyasi Haklar (Aktif Statü) bölümünde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-44-8gcs",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Sendika kurma hakkı, toplu iş sözleşmesi ve grev hakkı hangi kuşak haklar kapsamındadır?",
+    "options": [
+      "Birinci Kuşak",
+      "İkinci Kuşak",
+      "Üçüncü Kuşak",
+      "Siyasi Haklar",
+      "Koruyucu Haklar"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışma hayatı, sendika, grev ve toplu sözleşme hakları, ekonomik ve sosyal haklar olan İkinci Kuşak Haklar grubuna girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-45-58j6",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdaki yargı organlarından hangisi 1982 Anayasası'nda yer alan Yüksek Mahkemelerden biri değildir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "Uyuşmazlık Mahkemesi",
+      "Sayıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Sayıştay, mali yargı görevini yerine getiren bir hesap denetim organıdır ancak Anayasa'nın 'Yüksek Mahkemeler' başlığı altında (AYM, Yargıtay, Danıştay, Uyuşmazlık) sayılmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-47-h65j",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "1789 Fransız İhtilali'nin ardından yayımlanan ve insan haklarının evrenselleşmesinde büyük rol oynayan belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Magna Carta",
+      "İnsan ve Yurttaş Hakları Bildirisi",
+      "BM İnsan Hakları Evrensel Bildirgesi",
+      "Bağımsızlık Bildirgesi",
+      "Habeas Corpus"
+    ],
+    "answer_index": 1,
+    "explanation": "1789 Fransız Devrimi'nden sonra yayımlanan 'İnsan ve Yurttaş Hakları Bildirisi', hürriyet, eşitlik ve mülkiyet gibi birinci kuşak hakları tüm insanlar için evrensel düzeyde ilan etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-48-89pf",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokratik toplumlarda sivil toplum kuruluşlarının (STK) temel işlevi aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "Kamuoyu oluşturmak",
+      "İktidarı denetlemek ve etkilemek",
+      "Bireylerin katılımını artırmak",
+      "Kanun yapmak",
+      "Toplumsal sorunlara çözüm üretmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Kanun yapmak münhasıran Yasama organının (Türkiye'de TBMM) yetkisindedir. STK'lar kanun yapıcı değil, karar alıcıları etkileyen baskı/çıkar gruplarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-49-lma0",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Temel hak ve hürriyetlerin yabancılar için sınırlandırılması 1982 Anayasası'na göre ne şekilde yapılabilir?",
+    "options": [
+      "Hiçbir şekilde sınırlandırılamaz.",
+      "Sadece Cumhurbaşkanlığı kararnamesi ile sınırlandırılır.",
+      "Milletlerarası hukuka uygun olarak kanunla sınırlandırılabilir.",
+      "Valilik genelgeleri ile sınırlandırılabilir.",
+      "İçişleri Bakanlığı talimatı ile sınırlandırılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Anayasa m.16'ya göre; temel hak ve hürriyetler, yabancılar için, milletlerarası hukuka uygun olarak KANUNLA sınırlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-5-f9l4",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Çevre hakkı, barış hakkı, gelişme hakkı ve insanlığın ortak malvarlığından yararlanma hakkı gibi haklar hangi kuşak haklar içerisinde yer alır?",
+    "options": [
+      "Birinci Kuşak Haklar",
+      "İkinci Kuşak Haklar",
+      "Üçüncü Kuşak (Dayanışma) Hakları",
+      "Siyasi Haklar",
+      "Negatif Statü Hakları"
+    ],
+    "answer_index": 2,
+    "explanation": "Küreselleşme ve teknolojik gelişmelerle ortaya çıkan, ancak devletlerin ve toplumların dayanışması ile gerçekleşebilecek haklara Üçüncü Kuşak (Dayanışma) Hakları denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-6-5crg",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Osmanlı Devleti'nde padişahın yetkilerinin kendi iradesiyle ilk kez sınırlandırıldığı ve kanun üstünlüğünün kabul edilmeye başlandığı 1839 tarihli belge hangisidir?",
+    "options": [
+      "Sened-i İttifak",
+      "Islahat Fermanı",
+      "Tanzimat Fermanı",
+      "Kanun-i Esasi",
+      "Teşkilat-ı Esasiye"
+    ],
+    "answer_index": 2,
+    "explanation": "1839 Gülhane Hatt-ı Hümayunu (Tanzimat Fermanı), padişahın kendi yetkilerini kanun gücüyle sınırladığı ilk belgedir. (Sened-i İttifak ayanlarla yapılmış bir sözleşmedir).",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-7-g5k2",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Osmanlı'da gayrimüslimlere devlet memuru olabilme, kendi okul ve ibadethanelerini açabilme gibi geniş hakların verildiği belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Tanzimat Fermanı",
+      "Islahat Fermanı",
+      "Sened-i İttifak",
+      "Fatih Kanunnamesi",
+      "Kanun-i Esasi"
+    ],
+    "answer_index": 1,
+    "explanation": "1856 tarihli Islahat Fermanı, özellikle gayrimüslim tebaaya yönelik geniş haklar ve eşitlik getiren önemli bir insan hakları belgesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-8-5wuh",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Birleşmiş Milletler (BM) İnsan Hakları Evrensel Bildirgesi hangi tarihte kabul edilmiştir?",
+    "options": [
+      "10 Aralık 1948",
+      "4 Kasım 1950",
+      "24 Ekim 1945",
+      "26 Ağustos 1789",
+      "12 Ağustos 1949"
+    ],
+    "answer_index": 0,
+    "explanation": "BM Genel Kurulu, İnsan Hakları Evrensel Bildirgesi'ni 10 Aralık 1948'de kabul etmiştir. Bu nedenle 10 Aralık Dünya İnsan Hakları Günü olarak kutlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msf5kjaz-9-k91i",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Avrupa İnsan Hakları Sözleşmesi (AİHS) hangi uluslararası örgütün bünyesinde hazırlanmış ve imzaya açılmıştır?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Avrupa Birliği",
+      "Avrupa Konseyi",
+      "Avrupa Güvenlik ve İşbirliği Teşkilatı",
+      "NATO"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa İnsan Hakları Sözleşmesi (AİHS), 1950 yılında Avrupa Konseyi üyesi devletler tarafından imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-04T21:11:05.025320+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-1-4yzk",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi hukuk devletinin temel özelliklerinden biri değildir?",
+    "options": [
+      "İdarenin yargı denetimine açık olması",
+      "Kanun önünde eşitlik",
+      "Yasama işlemlerinin yargı denetimine tabi olması",
+      "Temel hakların güvence altına alınması",
+      "Belirlilik ve hukuki güvenlik ilkesi"
+    ],
+    "answer_index": 2,
+    "explanation": "TBMM'nin kanunları Anayasa Mahkemesi tarafından anayasal denetime tabi tutulabilir; ancak yasama işlemlerinin tamamı yargısal denetime açık değildir. Seçenek bu yönüyle doğru bir hukuk devleti özelliği değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-2-69ej",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının 'devredilemez' olması aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Hakların yalnızca devlet tarafından kullanılabilmesini",
+      "Hakların kişiden kişiye satılamamasını veya devredilememesini",
+      "Hakların yalnızca vatandaşlara tanınmasını",
+      "Hakların uluslararası sözleşmelerle kaldırılabilmesini",
+      "Hakların mahkeme kararıyla sona ermesini"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan hakları kişiye sıkı sıkıya bağlıdır; başkasına devredilemez veya satılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-3-xlpf",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi çoğunlukçu demokrasi ile çoğulcu demokrasi arasındaki temel farklardan biridir?",
+    "options": [
+      "Çoğunlukçu demokrasi seçim yapılmasını kabul etmez.",
+      "Çoğulcu demokrasi azınlık haklarını da anayasal güvence altına alır.",
+      "Çoğunlukçu demokrasi yalnızca yerel yönetimlerde uygulanır.",
+      "Çoğulcu demokrasi siyasi partileri yasaklar.",
+      "İki demokrasi anlayışı arasında hiçbir fark yoktur."
+    ],
+    "answer_index": 1,
+    "explanation": "Çoğulcu demokraside yalnızca çoğunluğun iradesi değil, azınlık hakları ve temel özgürlükler de korunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg02z8m-9-8zuu",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir kamu görevlisinin görevini yerine getirirken herkese dil, din, ırk ve cinsiyet ayrımı yapmaksızın eşit davranması öncelikle hangi ilkenin gereğidir?",
+    "options": [
+      "Liyakat",
+      "Tarafsızlık ve eşitlik",
+      "Yerinden yönetim",
+      "İdarenin bütünlüğü",
+      "Hizmette açıklık"
+    ],
+    "answer_index": 1,
+    "explanation": "İnsan haklarına dayalı kamu yönetiminde eşitlik ve tarafsızlık temel ilkeler arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:14.650097+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-2-fdls",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir kamu görevlisinin aynı durumda bulunan kişilere farklı uygulamalarda bulunması öncelikle hangi insan hakları ilkesini ihlal eder?",
+    "options": [
+      "Ölçülülük",
+      "Eşitlik",
+      "Şeffaflık",
+      "Katılımcılık",
+      "Hesap verebilirlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Aynı hukuki durumda bulunan kişilere farklı muamele yapılması eşitlik ilkesine aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-4-roem",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin sınırlandırılmasında gözetilen ölçülülük ilkesinin unsurlarından biri değildir?",
+    "options": [
+      "Elverişlilik",
+      "Gereklilik",
+      "Orantılılık",
+      "Keyfilik",
+      "Meşru amaç"
+    ],
+    "answer_index": 3,
+    "explanation": "Keyfilik hukuk devletiyle bağdaşmaz. Ölçülülük; elverişlilik, gereklilik ve orantılılık unsurlarından oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-5-ob66",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi ifade özgürlüğünün demokratik toplum açısından önemini en doğru şekilde açıklar?",
+    "options": [
+      "Devletin eleştirilememesini sağlar.",
+      "Farklı düşüncelerin serbestçe açıklanmasına imkân tanır.",
+      "Yalnızca basın kuruluşlarına tanınan bir haktır.",
+      "Sadece seçim dönemlerinde kullanılabilir.",
+      "Kamu görevlileri için geçerli değildir."
+    ],
+    "answer_index": 1,
+    "explanation": "İfade özgürlüğü, demokratik toplumun temel unsurlarından biridir ve farklı düşüncelerin açıklanmasını güvence altına alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-6-r3x7",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Hak arama özgürlüğünün etkili biçimde kullanılabilmesinin ön koşulu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yargının bağımsız ve tarafsız olması",
+      "Tek parti yönetimi",
+      "Siyasi yasakların artırılması",
+      "Basının devlet denetiminde olması",
+      "Yerel yönetimlerin kaldırılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Hak arama özgürlüğü ancak bağımsız ve tarafsız yargı sistemiyle etkin şekilde korunabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg03olp-9-u1ps",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokratik bir hukuk devletinde kamu gücünü kullanan makamların işlemlerinin yargı denetimine tabi olması öncelikle hangi amacı gerçekleştirir?",
+    "options": [
+      "Yürütmeyi güçlendirmek",
+      "İdarenin keyfi davranmasını önlemek",
+      "Seçimleri kaldırmak",
+      "Yargının yürütmeye bağlanmasını sağlamak",
+      "Siyasi partileri sınırlandırmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Yargı denetimi, idarenin hukuka uygun hareket etmesini sağlayarak keyfiliği önleyen en önemli güvencelerden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:25:47.243698+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-0-6x74",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir kamu kurumunun tüm işlemlerini önceden belirlenmiş hukuk kurallarına göre yürütmesi aşağıdaki ilkelerden hangisinin doğal sonucudur?",
+    "options": [
+      "Çoğunluk ilkesi",
+      "Hukuk devleti",
+      "Yerinden yönetim",
+      "Milliyetçilik",
+      "Liyakat"
+    ],
+    "answer_index": 1,
+    "explanation": "Hukuk devleti, idarenin tüm işlem ve eylemlerinin hukuk kurallarına uygun olmasını gerektirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-1-nlqq",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi insan haklarının korunmasında ulusal denetim mekanizmalarından biri olarak kabul edilir?",
+    "options": [
+      "Birleşmiş Milletler Genel Kurulu",
+      "Avrupa Parlamentosu",
+      "Kamu Denetçiliği Kurumu",
+      "Avrupa Konseyi Bakanlar Komitesi",
+      "NATO"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu Denetçiliği Kurumu (Ombudsman), Türkiye'de idarenin işleyişini insan hakları ve hukuka uygunluk açısından denetleyen ulusal kurumlardan biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-3-vk35",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi kamu görevlilerinin insan haklarına dayalı hizmet anlayışının bir gereğidir?",
+    "options": [
+      "Benzer durumdaki kişilere farklı uygulamalar yapmak",
+      "Kişisel görüşlere göre karar vermek",
+      "Vatandaşlara tarafsız ve eşit hizmet sunmak",
+      "Yalnızca belirli grupların taleplerini dikkate almak",
+      "Yargı kararlarını uygulamamak"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu hizmetlerinin temel ilkelerinden biri tarafsızlık ve eşitliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-6-efn6",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir ülkede vatandaşların dilekçe ve bilgi edinme haklarını etkin biçimde kullanabilmesi öncelikle hangi ilkenin güçlenmesine katkı sağlar?",
+    "options": [
+      "Kapalı yönetim",
+      "Şeffaflık ve katılımcılık",
+      "Mutlak yönetim",
+      "Tek parti sistemi",
+      "Yargı bağımsızlığının zayıflaması"
+    ],
+    "answer_index": 1,
+    "explanation": "Bilgi edinme ve dilekçe hakkı, vatandaşların yönetime katılımını ve idarenin şeffaflığını artırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-7-210l",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Temel hak ve özgürlüklerin yalnızca kanunla sınırlandırılabilmesi aşağıdaki ilkelerden hangisinin sonucudur?",
+    "options": [
+      "Hukuki güvenlik",
+      "Milliyetçilik",
+      "Devletçilik",
+      "Çoğunluk ilkesi",
+      "Merkezî yönetim"
+    ],
+    "answer_index": 0,
+    "explanation": "Kanunilik ilkesi, bireylerin hangi durumlarda haklarının sınırlandırılacağını önceden bilmelerini sağlayarak hukuki güvenliği teminat altına alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg06lme-9-4gv2",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan hakları ve demokrasi anlayışı birlikte değerlendirildiğinde aşağıdaki yargılardan hangisine ulaşılabilir?",
+    "options": [
+      "Demokrasi yalnızca seçimlerden ibarettir.",
+      "İnsan hakları olmadan demokratik bir hukuk devletinden söz edilemez.",
+      "Temel haklar sadece olağanüstü dönemlerde uygulanır.",
+      "Demokraside çoğunluğun kararı her durumda sınırsızdır.",
+      "İnsan hakları yalnızca uluslararası hukuk tarafından korunur."
+    ],
+    "answer_index": 1,
+    "explanation": "Demokratik hukuk devletinin temelini insan haklarının güvence altına alınması, hukukun üstünlüğü ve millî iradenin korunması oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:28:03.347790+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-1-9w8y",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi demokratik yönetim anlayışında vatandaşların yönetime doğrudan katılım yollarından biridir?",
+    "options": [
+      "Referandum",
+      "Sıkıyönetim",
+      "Olağanüstü hâl",
+      "Bakanlar Kurulu kararı",
+      "Yargı kararı"
+    ],
+    "answer_index": 0,
+    "explanation": "Referandum, vatandaşların belirli konularda doğrudan oy kullanarak yönetime katılmasını sağlayan demokratik araçlardan biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-2-laa9",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının korunmasında etkili başvuru yolu ilkesinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Hak ihlallerinin yargı önüne taşınabilmesini sağlamak",
+      "Mahkemelerin görev alanını daraltmak",
+      "Hak arama özgürlüğünü sınırlandırmak",
+      "Yalnızca kamu görevlilerine başvuru hakkı tanımak",
+      "İdari işlemleri yargı denetimi dışında bırakmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Hak ihlaline uğrayan bireyin etkili ve erişilebilir başvuru yollarına sahip olması insan haklarının temel güvencelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-4-0ugy",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokratik toplumlarda farklı görüşlerin serbestçe ifade edilebilmesi öncelikle hangi değerin gelişmesine katkı sağlar?",
+    "options": [
+      "Tek tip düşüncenin oluşmasına",
+      "Çoğulculuğun güçlenmesine",
+      "Yargı bağımsızlığının ortadan kalkmasına",
+      "Temel hakların sınırlandırılmasına",
+      "Kamu denetiminin kaldırılmasına"
+    ],
+    "answer_index": 1,
+    "explanation": "Farklı düşüncelerin özgürce ifade edilmesi çoğulcu demokrasinin temel özelliklerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-5-j91e",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi kamu görevlilerinin insan haklarına uygun davranma yükümlülüğünün bir sonucudur?",
+    "options": [
+      "Takdir yetkisini keyfî kullanabilmesi",
+      "Hizmet sunarken insan onuruna saygı göstermesi",
+      "Kanunlara aykırı işlem yapabilmesi",
+      "Yargı kararlarını uygulamaması",
+      "Kişisel görüşlerini kamu hizmetine yansıtması"
+    ],
+    "answer_index": 1,
+    "explanation": "Kamu görevlileri görevlerini yerine getirirken insan onuruna saygılı, tarafsız ve hukuka uygun davranmakla yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-6-sqbu",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Temel hak ve özgürlüklerin yalnızca olağanüstü hâllerde dahi tamamen ortadan kaldırılamamasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "İnsan onurunun korunması",
+      "Vergi gelirlerini artırmak",
+      "Yürütmenin yetkisini sınırlandırmak",
+      "Siyasi partileri korumak",
+      "Yerel yönetimleri güçlendirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "İnsan haklarının özü insan onuruna dayanır ve demokratik hukuk devletinde bu öz tamamen ortadan kaldırılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-7-fpoq",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir kamu kurumunun faaliyet raporlarını düzenli olarak kamuoyuyla paylaşması öncelikle hangi yönetim ilkesinin gereğidir?",
+    "options": [
+      "Şeffaflık",
+      "Merkezîyetçilik",
+      "Hiyerarşi",
+      "Gizlilik",
+      "Vesayet"
+    ],
+    "answer_index": 0,
+    "explanation": "Faaliyetlerin kamuoyuna açıklanması şeffaflık ve hesap verebilirlik ilkelerinin gereğidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-cografya-msg07vil-8-7mxt",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokratik toplumlarda çoğunluğun karar alma yetkisi aşağıdakilerden hangisiyle sınırlandırılmıştır?",
+    "options": [
+      "Temel hak ve özgürlüklerle",
+      "Siyasi partilerle",
+      "Yerel yönetimlerle",
+      "Kamu görevlileriyle",
+      "Basın kuruluşlarıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Demokratik hukuk devletinde çoğunluk iradesi, temel hak ve özgürlükleri ihlal edecek şekilde kullanılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-05T11:29:02.895524+00:00",
+    "updated_at": "2026-08-19T11:21:14.889083+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-0-whgj",
+    "topic_id": "topic-guncel",
+    "prompt": "Birleşmiş Milletler (BM) hangi yıl kurulmuştur?",
+    "options": [
+      "1943",
+      "1945",
+      "1948",
+      "1950",
+      "1955"
+    ],
+    "answer_index": 1,
+    "explanation": "BM, II. Dünya Savaşı sonrasında 24 Ekim 1945'te kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-1-7o5n",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "New York",
+      "Viyana",
+      "Brüksel"
+    ],
+    "answer_index": 2,
+    "explanation": "BM Genel Merkezi New York'tadır; Cenevre, Viyana ve Nairobi'de de ofisleri bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-10-tuhm",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Mülteciler Yüksek Komiserliği'nin kısaltması nedir?",
+    "options": [
+      "UNHCR",
+      "UNICEF",
+      "UNDP",
+      "UNEP",
+      "UNFPA"
+    ],
+    "answer_index": 0,
+    "explanation": "UNHCR, mültecilerin korunmasından sorumlu BM kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-100-pqiu",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği 2023 yılında hangi büyük ekonomik/siyasi platforma üye olarak kabul edilmiştir?",
+    "options": [
+      "G7",
+      "G20",
+      "OECD",
+      "BRICS",
+      "NATO"
+    ],
+    "answer_index": 1,
+    "explanation": "Afrika Birliği, 2023 yılında G20'ye daimi üye olarak katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-101-blx3",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği'nin resmi çalışma dillerinden biri değildir?",
+    "options": [
+      "Fransızca",
+      "İngilizce",
+      "Arapça",
+      "Portekizce",
+      "Almanca"
+    ],
+    "answer_index": 4,
+    "explanation": "Afrika Birliği'nin çalışma dilleri arasında Almanca bulunmaz; İngilizce, Fransızca, Arapça, Portekizce, İspanyolca ve Kiswahili resmi diller arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-102-kw6i",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği'nin merkezi hangi şehirdedir?",
+    "options": [
+      "Riyad",
+      "Kahire",
+      "Bağdat",
+      "Şam",
+      "Abu Dabi"
+    ],
+    "answer_index": 1,
+    "explanation": "Arap Birliği'nin genel merkezi Mısır'ın başkenti Kahire'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-103-tp7a",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği hangi yıl kurulmuştur?",
+    "options": [
+      "1935",
+      "1945",
+      "1955",
+      "1960",
+      "1970"
+    ],
+    "answer_index": 1,
+    "explanation": "Arap Birliği, 1945 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-104-h4wj",
+    "topic_id": "topic-guncel",
+    "prompt": "Suriye'nin Arap Birliği üyeliği 2011'de askıya alınmış, hangi yılda yeniden kabul edilmiştir?",
+    "options": [
+      "2015",
+      "2018",
+      "2020",
+      "2023",
+      "2025"
+    ],
+    "answer_index": 3,
+    "explanation": "Suriye'nin üyeliği, iç savaş nedeniyle 2011'de askıya alınmış, 2023 yılında yeniden kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  }
+]

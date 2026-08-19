@@ -1,263 +1,1147 @@
 [
   {
-    "id": 101,
-    "deneme_id": 2,
-    "prompt": "Bir öğretim yılı hangi tarihler arasındaki süreyi ifade eder?",
+    "id": 1149,
+    "deneme_id": 26,
+    "prompt": "Aşağıdakilerden hangisi Madde 8 hükmüne uygundur?",
     "options": [
-      "1 Ocak ile 31 Aralık arasını",
-      "Derslerin başlamasından bir hafta önceki tarihten son sınıf sınavlarının bittiği güne kadar olan süreyi",
-      "Sadece iki yarıyıl tatili arasındaki süreyi",
-      "Yalnızca derslerin fiilen işlendiği günleri"
-    ],
-    "answer_index": 1,
-    "sort_order": 41
-  },
-  {
-    "id": 102,
-    "deneme_id": 2,
-    "prompt": "Güncel 222 sayılı Kanun metninde Madde 69 için hangi ifade doğrudur?",
-    "options": [
+      "Yürürlüktedir",
+      "Geçici maddedir",
+      "Ek maddedir",
       "Mülgadır",
-      "İlköğretim haftasını düzenler",
-      "Kayıt süresini düzenler",
-      "Öğrenci devamsızlık iznini düzenler"
+      "Yönetmeliğe dönüştürülmüştür"
     ],
-    "answer_index": 0,
-    "sort_order": 42
+    "answer_index": 3,
+    "sort_order": 41,
+    "source_question_id": "law-222-section-te-kilat-msvr4681-3-2k0b",
+    "kadro": "sef",
+    "topic_id": "law-222"
   },
   {
-    "id": 103,
-    "deneme_id": 2,
-    "prompt": "Hastalık, sel, kar, deprem veya yangın gibi sebeplerle okula gelemeyen öğrenci için hangi işlem uygulanır?",
+    "id": 1150,
+    "deneme_id": 26,
+    "prompt": "Geçici Madde 9 kapsamında aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Devamsız sayılır",
-      "İzinli sayılır",
-      "Kaydı silinir",
-      "Sınava alınmaz"
+      "Yürürlüktedir",
+      "Ek maddedir",
+      "Mülgadır",
+      "Yönetmeliktir",
+      "Anayasa hükmüdür"
+    ],
+    "answer_index": 2,
+    "sort_order": 42,
+    "source_question_id": "law-222-section-ek-ge-ici-ve-son-h-k-mler-msvr5ozm-14-lv3m",
+    "kadro": "sef",
+    "topic_id": "law-222"
+  },
+  {
+    "id": 1151,
+    "deneme_id": 26,
+    "prompt": "Madde 23/3-b'ye göre bedelsiz devredilen Hazineye ait taşınmazların sözleşme süresince amacı dışında kullanılamayacağına ve ilgili bakanlıklardan izin alınmaksızın devredilemeyeceğine dair ne konulur?",
+    "options": [
+      "Tapu kütüğüne şerh",
+      "İntifa hakkı",
+      "Kamulaştırma şerhi",
+      "İpotek",
+      "Haciz"
+    ],
+    "answer_index": 0,
+    "sort_order": 43,
+    "source_question_id": "652-khk-cld652-017-oh34",
+    "kadro": "sef",
+    "topic_id": "652-khk"
+  },
+  {
+    "id": 1152,
+    "deneme_id": 26,
+    "prompt": "İstenen bilgi başka bir kurumda bulunuyorsa ne yapılır?",
+    "options": [
+      "Dosya Kurula gönderilir.",
+      "aşvuru dilekçesi ilgili kuruma gönderilir ve başvurana yazılı bildirim yapılır.",
+      "Başvuru doğrudan reddedilir.",
+      "Başvuru sahibi yeni dilekçe vermeye zorlanır.",
+      "Belge yok sayılır."
     ],
     "answer_index": 1,
-    "sort_order": 43
+    "sort_order": 44,
+    "source_question_id": null,
+    "kadro": "sef",
+    "topic_id": "4982-kanun"
   },
   {
-    "id": 104,
-    "deneme_id": 2,
-    "prompt": "652 sayılı KHK sonrasında MEB teşkilat yapısı hangi düzenlemeyle güncellenmiştir?",
+    "id": 1153,
+    "deneme_id": 26,
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanununa göre, kurum, ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz sonucunda oluşturulabilecek bilgi için ne yapabilir?",
     "options": [
-      "1 Sayılı Cumhurbaşkanlığı Kararnamesi ile",
-      "Sadece yönetmeliklerle",
-      "Sadece genelgelerle",
-      "Değişmemiştir"
+      "Başvuruyu otomatik kabul eder.",
+      "Başvuruyu mahkemeye gönderir.",
+      "aşvuruya olumsuz cevap verebilir.",
+      "Ücretsiz danışman görevlendirir.",
+      "Mutlaka yeni belge oluşturur."
+    ],
+    "answer_index": 2,
+    "sort_order": 45,
+    "source_question_id": "t-bilgi-edinme-basvurusu-rpo97-msvrwwjm-26-x6jj",
+    "kadro": "sef",
+    "topic_id": "4982-kanun"
+  },
+  {
+    "id": 1154,
+    "deneme_id": 26,
+    "prompt": "Aşağıdakilerden hangisi 5442 sayılı İl İdaresi Kanununun 27. maddesinde yer alan bir hükümdür?",
+    "options": [
+      "Valilikten alınacak emir üzerine bu memurlar verilen işleri yapmakla ödevlidirler.",
+      "Bunların emri altında çalışanlar ilçenin ikinci derecede memurlarıdır.",
+      "Halkın dilek ve ihtiyaçlarını yerli yerinde gözden geçirir ve gereğini yapar.",
+      "Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder.",
+      "Bakanlıkların kuruluş mevzuatına göre ilçede lüzumu kadar teşkilatı bulunur."
+    ],
+    "answer_index": 4,
+    "sort_order": 46,
+    "source_question_id": null,
+    "kadro": "sef",
+    "topic_id": "law-5442"
+  },
+  {
+    "id": 1155,
+    "deneme_id": 26,
+    "prompt": "5442 sayılı İl İdaresi Kanununun 61. maddesine göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "İdare kurullarının kazai, idari ve istişari görüşmeleri mürettep üyenin yarısından bir fazlası hazır olmadıkça yapılamaz.",
+      "Bu madde özel kanunlarla il ve ilçe idare kurullarına verilen diğer kazai işlerdeki yetkilerine halel vermez.",
+      "Merci tecavüzü ile Danıştaya dava açıldığı takdirde dava evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.",
+      "İdare kurullarının kazai vazife görmek üzere toplantılarında idari davaya esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.",
+      "İdare kurullarının idari yetkileri kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatla kendilerine verilen vazifelerdir."
     ],
     "answer_index": 0,
-    "sort_order": 44
+    "sort_order": 47,
+    "source_question_id": "t-il-ve-ilce-idare-kurullari-y6zbm-msxiabx5-4-14j9",
+    "kadro": "sef",
+    "topic_id": "law-5442"
   },
   {
-    "id": 105,
-    "deneme_id": 2,
-    "prompt": "4982 sayılı Kanun'un amacı nedir?",
+    "id": 1156,
+    "deneme_id": 26,
+    "prompt": "5442 sayılı İl İdaresi Kanununda 58. madde esas alındığında aşağıdakilerden hangisi mevzuata uygundur?",
     "options": [
-      "Demokratik ve şeffaf yönetimin gereği olan bilgi edinme hakkını düzenlemek",
-      "Sadece basın mensuplarına bilgi vermek",
-      "Ticari sırları korumak",
-      "Kamu ihalelerini düzenlemek"
-    ],
-    "answer_index": 0,
-    "sort_order": 45
-  },
-  {
-    "id": 106,
-    "deneme_id": 2,
-    "prompt": "Devlet sırrı niteliğindeki bilgiler bilgi edinme hakkı kapsamında mıdır?",
-    "options": [
-      "Evet, tamamen kapsamdadır",
-      "Hayır, kapsam dışıdır",
-      "Sadece mahkeme kararıyla açıklanır",
-      "Sadece basına açıklanır"
+      "İdare kurullarının kazai vazife görmek üzere toplantılarında idari davaya esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.",
+      "İlçe idare kurulu, kaymakamın başkanlığı altında tahrirat katibi, malmüdürü, Hükümet hekimi, milli eğitim memuriyle tarım memuru ve veterinerden teşekkül eder.",
+      "Merci tecavüzü ile Danıştaya dava açıldığı takdirde dava evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.",
+      "İl idare kurulu, valinin başkanlığı altında hukuk işleri müdürü, defterdar, milli egitim, bayındırlık, sağlık ve sosyal yardım, tarım ve veteriner müdürlerinden teşekkül eder.",
+      "İlçe idare kurulu, bucak müdürüın başkanlığı altında tahrirat katibi, malmüdürü, Hükümet hekimi, milli eğitim memuriyle tarım memuru ve veterinerden teşekkül eder."
     ],
     "answer_index": 1,
-    "sort_order": 46
+    "sort_order": 48,
+    "source_question_id": "t-il-ve-ilce-idare-kurullari-y6zbm-msxiabx5-17-ejxm",
+    "kadro": "sef",
+    "topic_id": "law-5442"
   },
   {
-    "id": 107,
-    "deneme_id": 2,
-    "prompt": "4982 sayılı Kanuna göre başvuru hangi organa yapılır?",
+    "id": 1217,
+    "deneme_id": 28,
+    "prompt": "Aşağıdaki cümlelerin hangisinde fiilimsi yoktur?",
     "options": [
-      "Bilgi Edinme Değerlendirme Kurulu'na veya ilgili kuruma",
-      "Sadece Cumhurbaşkanlığına",
-      "Sadece Sayıştaya",
-      "Sadece Danıştaya"
+      "Koşarak yanımıza geldi.",
+      "Yüzmek herkes için yararlıdır.",
+      "Yarın erken kalkacağım.",
+      "Okuyan öğrenciler sessizdi.",
+      "Eve dönünce beni ara."
     ],
-    "answer_index": 0,
-    "sort_order": 47
+    "answer_index": 2,
+    "sort_order": 1,
+    "source_question_id": "t-sozcuk-bilgisi-2w1wg-msu3khba-24-kdz0",
+    "kadro": "sube-mudur",
+    "topic_id": "t-sozcuk-bilgisi-2w1wg"
   },
   {
-    "id": 108,
-    "deneme_id": 2,
-    "prompt": "İlçe idaresinin başı kimdir?",
+    "id": 1218,
+    "deneme_id": 28,
+    "prompt": "“Bu kitabın baskı ve kapağı çok kaliteli.” cümlesindeki anlatım bozukluğu nasıl giderilir?",
     "options": [
-      "Vali",
-      "Kaymakam",
-      "Muhtar",
-      "İl Müdürü"
+      "“çok” sözcüğü kaldırılarak",
+      "“kitabın” sözcüğü çıkarılarak",
+      "“baskı” sözcüğü “baskısı” biçiminde kullanılarak",
+      "“kaliteli” sözcüğü çoğul yapılarak",
+      "“kapağı” sözcüğü “kapak” biçimine getirilerek"
+    ],
+    "answer_index": 2,
+    "sort_order": 2,
+    "source_question_id": "t-tamlamalar-2woav-msu3ks70-0-0p33",
+    "kadro": "sube-mudur",
+    "topic_id": "t-tamlamalar-2woav"
+  },
+  {
+    "id": 1219,
+    "deneme_id": 28,
+    "prompt": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "options": [
+      "Okula gitti ve arkadaşını gördü.",
+      "Okula gitmek için erkenden kalktı.",
+      "Okula giderse öğretmeniyle görüşecek.",
+      "Hasta olduğu için okula gelemedi.",
+      "Okula gitmesine rağmen hasta oldu."
+    ],
+    "answer_index": 3,
+    "sort_order": 3,
+    "source_question_id": "t-cumle-bilgisi-2wxpb-msu3kxpx-20-7q3p",
+    "kadro": "sube-mudur",
+    "topic_id": "t-cumle-bilgisi-2wxpb"
+  },
+  {
+    "id": 1220,
+    "deneme_id": 28,
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünlü düşmesi vardır?",
+    "options": [
+      "okulu",
+      "gözü",
+      "yolu",
+      "evi",
+      "ağzı"
+    ],
+    "answer_index": 4,
+    "sort_order": 4,
+    "source_question_id": "t-ses-bilgisi-2x3e8-msu3l2zb-10-8yac",
+    "kadro": "sube-mudur",
+    "topic_id": "t-ses-bilgisi-2x3e8"
+  },
+  {
+    "id": 1221,
+    "deneme_id": 28,
+    "prompt": "Aşağıdaki cümlelerin hangisinde “her şey” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Her-şey zamanla düzelir.",
+      "Herşey zamanla düzelir.",
+      "Her şey zamanla düzelir.",
+      "Herşey, zamanla düzelir.",
+      "Her şeyzamanla düzelir."
+    ],
+    "answer_index": 2,
+    "sort_order": 5,
+    "source_question_id": "t-yazim-ve-noktalama-2xbz3-msu3lbqu-7-sjn8",
+    "kadro": "sube-mudur",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3"
+  },
+  {
+    "id": 1222,
+    "deneme_id": 28,
+    "prompt": "Karar verme süreçlerinde 'Sınırlı Rasyonellik' (Bounded Rationality) kavramını ortaya atan ve insanın tüm seçenekleri bilmesinin imkansız olduğunu savunan düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Herbert Simon",
+      "Adam Smith",
+      "Peter Drucker",
+      "Henry Mintzberg"
     ],
     "answer_index": 1,
-    "sort_order": 48
+    "sort_order": 6,
+    "source_question_id": "yonetim-insan-iliskileri-mssy59aj-108-m5pu",
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-insan-iliskileri"
   },
   {
-    "id": 109,
-    "deneme_id": 2,
-    "prompt": "5442 sayılı Kanun'a göre il idaresinin başı kimdir?",
+    "id": 1223,
+    "deneme_id": 28,
+    "prompt": "İletişim sırasında kişilerin birbirlerine olan fiziksel uzaklığını ve bu alanın (mahremiyet alanı, kişisel alan, sosyal alan vb.) kullanımını inceleyen çalışma alanına ne denir?",
     "options": [
-      "Vali",
-      "Belediye Başkanı",
-      "Kaymakam",
-      "İl Genel Meclisi Başkanı"
+      "Kinesik",
+      "Paralinguistik",
+      "Proksemik",
+      "Kronemik",
+      "Haptik"
+    ],
+    "answer_index": 2,
+    "sort_order": 7,
+    "source_question_id": "yonetim-insan-iliskileri-mssy59aj-25-53lz",
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-insan-iliskileri"
+  },
+  {
+    "id": 1224,
+    "deneme_id": 28,
+    "prompt": "Yöneticilerin 'Bırakın yapsınlar' (Laissez-Faire) tarzını benimsemesinin en büyük riski aşağıdakilerden hangisidir?",
+    "options": [
+      "Çalışanların çok fazla yorulması",
+      "Kararların çok hızlı alınması",
+      "Yöneticinin çok sevilmesi",
+      "Kurumda başıboşluk, koordinasyon eksikliği ve hedeflerden sapma yaşanması",
+      "Yaratıcılığın tamamen yok olması"
+    ],
+    "answer_index": 3,
+    "sort_order": 8,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-liderlik"
+  },
+  {
+    "id": 1225,
+    "deneme_id": 28,
+    "prompt": "Bir yöneticinin karar alırken etik ilkeleri gözetmesi ve 'en fazla sayıda insan için en büyük iyiliği' hedeflemesi hangi etik yaklaşımıdır?",
+    "options": [
+      "Faydacılık Yaklaşımı",
+      "Adalet Yaklaşımı",
+      "Haklar Yaklaşımı",
+      "Bireycilik Yaklaşımı",
+      "Erdem Etiği"
     ],
     "answer_index": 0,
-    "sort_order": 49
+    "sort_order": 9,
+    "source_question_id": "yonetim-liderlik-mssxb01r-86-u7m9",
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-liderlik"
   },
   {
-    "id": 110,
-    "deneme_id": 2,
-    "prompt": "İl idare şube başkanları kime karşı sorumludur?",
+    "id": 1226,
+    "deneme_id": 28,
+    "prompt": "Mintzberg’e göre, karmaşık ve dinamik ortamlarda uzmanların projeler etrafında esnek bir şekilde birleştiği yapıya ne ad verilir?",
     "options": [
-      "Bakanlıklarına doğrudan",
+      "Basit Yapı",
+      "Makine Bürokrasisi",
+      "Profesyonel Bürokrasi",
+      "Adokrasi",
+      "Bölümlü Yapı"
+    ],
+    "answer_index": 3,
+    "sort_order": 10,
+    "source_question_id": "yonetim-liderlik-mssxb01r-71-m2b7",
+    "kadro": "sube-mudur",
+    "topic_id": "yonetim-liderlik"
+  },
+  {
+    "id": 1227,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin özelliklerinden biri değildir?",
+    "options": [
+      "Evrenseldir",
+      "Vazgeçilemez",
+      "Devredilemez",
+      "Sınırsızdır"
+    ],
+    "answer_index": 3,
+    "sort_order": 11,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1228,
+    "deneme_id": 28,
+    "prompt": "Kamu Görevlileri Etik Kurulu'na yapılacak şikayet başvuruları için bir 'başvuru harcı' veya 'ücreti' ödenmesi gerekir mi?",
+    "options": [
+      "Evet, her başvuru için asgari ücretin %10'u ödenir.",
+      "Hayır, Etik Kurula başvurular tamamen ücretsizdir.",
+      "Sadece başvuru reddedilirse ücret alınır.",
+      "Sadece kurum personeli dışından başvuranlar ücret öder.",
+      "Evet, davayı kaybeden taraf mahkeme masraflarını öder."
+    ],
+    "answer_index": 1,
+    "sort_order": 12,
+    "source_question_id": "yonetimde-etik-mssy5hp9-99-y3x6",
+    "kadro": "sube-mudur",
+    "topic_id": "yonetimde-etik"
+  },
+  {
+    "id": 1229,
+    "deneme_id": 28,
+    "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon"
+    ],
+    "answer_index": 1,
+    "sort_order": 13,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1230,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "Belediye",
+      "Bakanlık"
+    ],
+    "answer_index": 2,
+    "sort_order": 14,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1231,
+    "deneme_id": 28,
+    "prompt": "Resmi yazışmalarda üst makama yazılan yazıların bitiriş ifadesi hangisi olmalıdır?",
+    "options": [
+      "Rica ederim",
+      "Arz ve rica ederim",
+      "Arz ederim",
+      "Bilgilerinize sunarım"
+    ],
+    "answer_index": 2,
+    "sort_order": 15,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1232,
+    "deneme_id": 28,
+    "prompt": "Milli Mücadele'nin askeri safhasını bitiren ateşkes antlaşması hangisidir?",
+    "options": [
+      "Mondros",
+      "Mudanya",
+      "Sevr",
+      "Lozan"
+    ],
+    "answer_index": 1,
+    "sort_order": 16,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1233,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi Atatürk'ün altı ilkesinden biri değildir?",
+    "options": [
+      "Cumhuriyetçilik",
+      "Halkçılık",
+      "Eşitlikçilik",
+      "Laiklik"
+    ],
+    "answer_index": 2,
+    "sort_order": 17,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1234,
+    "deneme_id": 28,
+    "prompt": "İstiklal Marşı'nın şairi kimdir?",
+    "options": [
+      "Namık Kemal",
+      "Mehmet Akif Ersoy",
+      "Yahya Kemal Beyatlı",
+      "Ziya Gökalp"
+    ],
+    "answer_index": 1,
+    "sort_order": 18,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1235,
+    "deneme_id": 28,
+    "prompt": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer_index": 1,
+    "sort_order": 19,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1236,
+    "deneme_id": 28,
+    "prompt": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Erciyes",
+      "Süphan",
+      "Ağrı",
+      "Kaçkar"
+    ],
+    "answer_index": 2,
+    "sort_order": 20,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1237,
+    "deneme_id": 28,
+    "prompt": "Avrupa Birliği'nin başkenti olarak kabul edilen şehir hangisidir?",
+    "options": [
+      "Paris",
+      "Berlin",
+      "Brüksel",
+      "Strazburg"
+    ],
+    "answer_index": 2,
+    "sort_order": 21,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1238,
+    "deneme_id": 28,
+    "prompt": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?",
+    "options": [
+      "Orhan Pamuk",
+      "Yaşar Kemal",
+      "Aziz Nesin",
+      "Elif Şafak"
+    ],
+    "answer_index": 0,
+    "sort_order": 22,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": null
+  },
+  {
+    "id": 1239,
+    "deneme_id": 28,
+    "prompt": "HSK Genel Sekreteri kim tarafından atanır?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Kurul Başkanı (Adalet Bakanı)",
+      "Kurul Genel Kurulu",
+      "TBMM Başkanı",
+      "Başbakan"
+    ],
+    "answer_index": 1,
+    "sort_order": 23,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-anayasa"
+  },
+  {
+    "id": 1240,
+    "deneme_id": 28,
+    "prompt": "Siyasi parti grupları en az kaç üyeden meydana gelir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer_index": 2,
+    "sort_order": 24,
+    "source_question_id": "t-yasama-x3e3e-mswxmnos-35-7hte",
+    "kadro": "sube-mudur",
+    "topic_id": "law-anayasa"
+  },
+  {
+    "id": 1241,
+    "deneme_id": 28,
+    "prompt": "Yabancı devletlerden maddi yardım alan bir siyasi parti için uygulanacak yaptırım nedir?",
+    "options": [
+      "Devlet yardımından yoksun bırakma",
+      "Uyarı cezası",
+      "Geçici kapatma",
+      "Temelli kapatma",
+      "Yöneticilerine siyaset yasağı"
+    ],
+    "answer_index": 3,
+    "sort_order": 25,
+    "source_question_id": "t-siyasi-haklar-ve-odevler-x2x30-mswxmima-9-6ymi",
+    "kadro": "sube-mudur",
+    "topic_id": "law-anayasa"
+  },
+  {
+    "id": 1242,
+    "deneme_id": 28,
+    "prompt": "Bakanlıkların kurulması ve kaldırılması neyle olur?",
+    "options": [
+      "Kanunla",
+      "TBMM kararıyla",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Referandumla"
+    ],
+    "answer_index": 2,
+    "sort_order": 26,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-anayasa"
+  },
+  {
+    "id": 1243,
+    "deneme_id": 28,
+    "prompt": "Vatandaşın yurt dışına çıkma hürriyeti 2010 değişikliğine göre hangi sebeple sınırlanabilir?",
+    "options": [
+      "Ülkenin ekonomik durumu",
+      "Sadece suç soruşturması veya kovuşturması",
+      "Vergi borcu",
+      "Askerlik ödevi",
+      "Salgın hastalık"
+    ],
+    "answer_index": 1,
+    "sort_order": 27,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-anayasa"
+  },
+  {
+    "id": 1244,
+    "deneme_id": 28,
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 172 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Bu Kanunun birinci maddesinin birinci fıkrası kapsamına giren memurlar aylık, ücret, ödenek, hizmetle ilgili her çeşit ödeme ve bunların şekil ve şartları bakımından bu Kanundaki hükümlere, aynı maddenin ikinci fıkrası kapsamına giren memurlar özel…",
+      "Memurlara kanun, Cumhurbaşkanlığı kararnamesi ve yönetmeliklerin ve amirlerin tayin ettiği görevler karşılığında bu Kanunla sağlanan haklar dışında ücret ödenemez, hiçbir yarar sağlanamaz.",
+      "Görev yerleri değiştirilen memurlardan görevlerine devamları kurumlarınca yazılı olarak tebliğ edilenlerin aylıkları eski görev yerlerinde kadro tasarrufundan ödenir.",
+      "Bu maddede “Kapsam” konusu düzenlenmektedir.",
+      "Kademe aylığı 36 ncı maddede gösterilen sınıflara ait genel gösterge tablosundaki derecelere dahil kademelerden her biri için tespit edilen gösterge rakamına tekabül eden aylıktır."
+    ],
+    "answer_index": 2,
+    "sort_order": 28,
+    "source_question_id": "law-657-section-mali-hukumler-msvrclbc-77-txra",
+    "kadro": "sube-mudur",
+    "topic_id": "law-657"
+  },
+  {
+    "id": 1245,
+    "deneme_id": 28,
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 191 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Devlet memurlarının emeklilik ve malûllük hallerinde kendilerinin, ölümleri halinde dul ve yetimlerinin sahip bulundukları haklar emeklilik kanunlariyle düzenlenir.",
+      "Devlet memurları için konut kredisi:",
+      "Bu maddede “Emeklilik hakları” konusu düzenlenmektedir.",
+      "Hallerinde, gerekli sosyal sigorta yardımları sağlanır.",
+      "Bu sigorta yardımları özel kanunlarla düzenlenir."
+    ],
+    "answer_index": 1,
+    "sort_order": 29,
+    "source_question_id": "law-657-section-sosyal-haklar-yardimlar-msvrcqwu-11-ma88",
+    "kadro": "sube-mudur",
+    "topic_id": "law-657"
+  },
+  {
+    "id": 1246,
+    "deneme_id": 28,
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 48 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "K.:2019/65 sayılı Kararı ile) B) Özel şartlar: 1.",
+      "Bakanlıklar ile diğer kamu kurum ve kuruluşları (Milli İstihbarat Teşkilatı Müsteşarlığı hariç), personel atamasına lüzum gördükleri boş kadroların sayılarını, sınıf ve derecelerini belirterek Devlet Personel Başkanlığına bildirirler.",
+      "Bu maddede “Atama yapılacak boş kadroların bildirilmesi” konusu düzenlenmektedir.",
+      "Sınavsız atama yapılacak yerlere kadro adedinden fazla istekli bulunduğu takdirde açılacak sınavın gün ve yeri yukarıdaki şartlara uygun olarak ayrıca duyurulur.",
+      "BÖLÜM : 2 Şartlar Genel ve özel şartlar:"
+    ],
+    "answer_index": 0,
+    "sort_order": 30,
+    "source_question_id": "law-657-section-memurluga-alinma-msvrbf3s-10-0xmz",
+    "kadro": "sube-mudur",
+    "topic_id": "law-657"
+  },
+  {
+    "id": 1247,
+    "deneme_id": 28,
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 236 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Devlet Personel Başkanlığı, kuruluş kanunlarına ve bütçe türlerine bağlı kalınmaksızın, tüm kamu kurum ve kuruluşlarının teşkilat yapılarına ve personeline ilişkin konularda, gerekli gördüğü bilgi ve belgeleri kamu kurum ve kuruluşlarından talep eder.",
+      "Kamu kurum ve kuruluşları bu bilgi ve belgeleri vermekle yükümlüdür.",
+      "atama, yer değiştirme, görevde yükselme, unvan değişikliği ve Devlet Personel Başkanlığınca belirlenecek diğer personel hareketlerini bildirmek zorundadır.",
+      "Bu maddenin uygulanmasına ilişkin usûl ve esaslar ile istisna tutulacak kamu kurum ve kuruluşları Cumhurbaşkanınca belirlenir.288 Türk silahlı kuvvetlerinde çalışan memurlara uygulanmıyacak maddeler:",
+      "e) Geçici süreli görevlendirmenin, memurların göreviyle ilgili olması şarttır."
+    ],
+    "answer_index": 4,
+    "sort_order": 31,
+    "source_question_id": "law-657-section-cesitli-hukumler-msvrd3or-19-y90c",
+    "kadro": "sube-mudur",
+    "topic_id": "law-657"
+  },
+  {
+    "id": 1248,
+    "deneme_id": 28,
+    "prompt": "Bireylerde hangi değere saygı geliştirilmesi amaçlanır?",
+    "options": [
+      "Yalnız otoriteye saygı",
+      "Sadece kıdeme saygı",
+      "Yalnız mülkiyete saygı",
+      "İnsan haklarına saygı",
+      "Sadece geleneklere saygı"
+    ],
+    "answer_index": 3,
+    "sort_order": 32,
+    "source_question_id": "t-genel-esaslar-hlmrn-cld1739-015-2de8",
+    "kadro": "sube-mudur",
+    "topic_id": "law-1739"
+  },
+  {
+    "id": 1249,
+    "deneme_id": 28,
+    "prompt": "Eğitim Araç ve Gereçleri kısmı kaç maddeden (52-55) oluşur?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2",
+      "6"
+    ],
+    "answer_index": 1,
+    "sort_order": 33,
+    "source_question_id": "t-egitim-arac-ve-gerecleri-hqn7v-cld1739-022-e97e",
+    "kadro": "sube-mudur",
+    "topic_id": "law-1739"
+  },
+  {
+    "id": 1250,
+    "deneme_id": 28,
+    "prompt": "Son Hükümler, Kanunun kaçıncı kısmıdır?",
+    "options": [
+      "Yedinci Kısım",
+      "Sekizinci Kısım",
+      "Altıncı Kısım",
+      "Dördüncü Kısım",
+      "Beşinci Kısım"
+    ],
+    "answer_index": 0,
+    "sort_order": 34,
+    "source_question_id": "t-son-hukumler-hrhmi-cld1739-027-0bf6",
+    "kadro": "sube-mudur",
+    "topic_id": "law-1739"
+  },
+  {
+    "id": 1251,
+    "deneme_id": 28,
+    "prompt": "MEB eğitim araç ve gereçlerini hazırlarken hangi yollara başvurabilir?",
+    "options": [
+      "Yalnız kiralamak",
+      "Sadece ithal etmek",
+      "Yalnızca ihale ile satın almak",
+      "Sadece bağış kabul etmek",
+      "Hazırlamak/imal etmek/satın almak; kişi veya komisyona hazırlatmak; özel kesimden seçmek veya tavsiye etmek"
+    ],
+    "answer_index": 4,
+    "sort_order": 35,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-1739"
+  },
+  {
+    "id": 1252,
+    "deneme_id": 28,
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanununa göre, bir öğretim yılı hangi tarihten başlar?",
+    "options": [
+      "Derslerin başladığı günden",
+      "Derslerin başlamasından bir hafta önceki tarihten",
+      "1 Eylülden",
+      "1 Ocaktan",
+      "Sınavların başladığı günden"
+    ],
+    "answer_index": 1,
+    "sort_order": 36,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-222"
+  },
+  {
+    "id": 1253,
+    "deneme_id": 28,
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanununa göre, devamsızlığa yol açan sebepler giderilemiyorsa köylerde durum kime bildirilir?",
+    "options": [
+      "Belediye başkanına",
+      "Muhtara",
       "Valiye",
-      "Kaymakama",
-      "Belediye Başkanına"
+      "Notere",
+      "Okul aile birliğine"
     ],
     "answer_index": 1,
-    "sort_order": 50
+    "sort_order": 37,
+    "source_question_id": "law-222-section-okula-devam-msvr4xzw-1-gwhb",
+    "kadro": "sube-mudur",
+    "topic_id": "law-222"
   },
   {
-    "id": 111,
-    "deneme_id": 2,
-    "prompt": "Yer değiştirme suretiyle atamalarda esas alınan ilkelerden biri nedir?",
+    "id": 1254,
+    "deneme_id": 28,
+    "prompt": "Kanundaki 'aile başkanı' kavramı hangi kişiyi de kapsar?",
     "options": [
-      "Hizmetin gereği ve personelin mazereti gibi hususların birlikte değerlendirilmesi",
-      "Sadece kıdem",
-      "Sadece kura",
-      "Sadece unvan"
+      "Çocuğu sürekli yanında bulunduran, barındıran veya çalıştıran kişiyi",
+      "Yalnız okul müdürünü",
+      "Sadece muhtarı",
+      "Her komşuyu",
+      "Yalnız öğretmeni"
     ],
     "answer_index": 0,
-    "sort_order": 51
+    "sort_order": 38,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-222"
   },
   {
-    "id": 112,
-    "deneme_id": 2,
-    "prompt": "Aday memurluk süresi genel olarak ne kadardır?",
+    "id": 1255,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi Madde 8 hükmüne uygundur?",
     "options": [
-      "1 yıldan az, 2 yıldan çok olamaz",
-      "Sadece 6 ay",
-      "Sadece 3 yıl",
-      "Süre yoktur"
-    ],
-    "answer_index": 0,
-    "sort_order": 52
-  },
-  {
-    "id": 113,
-    "deneme_id": 2,
-    "prompt": "MEB Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği'nin temel amacı nedir?",
-    "options": [
-      "Liyakat ve kariyer ilkeleri çerçevesinde atama usul/esaslarını belirlemek",
-      "Sadece maaş zammını düzenlemek",
-      "Sadece izin sürelerini belirlemek",
-      "Sadece disiplin cezalarını belirlemek"
-    ],
-    "answer_index": 0,
-    "sort_order": 53
-  },
-  {
-    "id": 114,
-    "deneme_id": 2,
-    "prompt": "Aday memur, temel ve hazırlayıcı eğitimlerde başarısız olursa ne olur?",
-    "options": [
-      "Kanunda öngörülen usule göre işlemleri yapılır (gerekirse ilişiği kesilebilir)",
-      "Otomatik olarak asalet tasdik edilir",
-      "Hiçbir işlem yapılmaz",
-      "Doğrudan terfi eder"
-    ],
-    "answer_index": 0,
-    "sort_order": 54
-  },
-  {
-    "id": 115,
-    "deneme_id": 2,
-    "prompt": "Zorunlu yer değiştirme hangi durumlarda söz konusu olabilir?",
-    "options": [
-      "Hizmet ihtiyacı, sağlık veya kanunda sayılan hallerde",
-      "Hiçbir zaman",
-      "Sadece personelin isteğiyle",
-      "Sadece emeklilikte"
-    ],
-    "answer_index": 0,
-    "sort_order": 55
-  },
-  {
-    "id": 116,
-    "deneme_id": 2,
-    "prompt": "Görevde yükselme sınavına başvuru şartlarından biri değildir?",
-    "options": [
-      "İlgili unvan için öngörülen hizmet süresini tamamlamış olmak",
-      "Disiplin cezası almamış olmak (kanunda aranan hallerde)",
-      "Gerekli eğitim şartını taşımak",
-      "Sadece nüfusa kayıtlı olmak"
+      "Yürürlüktedir",
+      "Geçici maddedir",
+      "Ek maddedir",
+      "Mülgadır",
+      "Yönetmeliğe dönüştürülmüştür"
     ],
     "answer_index": 3,
-    "sort_order": 56
+    "sort_order": 39,
+    "source_question_id": "law-222-section-te-kilat-msvr4681-3-2k0b",
+    "kadro": "sube-mudur",
+    "topic_id": "law-222"
   },
   {
-    "id": 117,
-    "deneme_id": 2,
-    "prompt": "Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliği hangi konuyu düzenler?",
+    "id": 1256,
+    "deneme_id": 28,
+    "prompt": "Madde 23/3-a hükmüne göre, yapılması gerekli görülen eğitim öğretim tesisleri, ihale ile belirlenecek gerçek veya özel hukuk tüzel kişilerine en fazla kaç yıl için kiralama karşılığı yaptırılabilir?",
     "options": [
-      "Öğretmenlerin atanma ve yer değiştirme usul/esaslarını",
-      "Sadece maaş bordrosunu",
-      "Sadece izin haklarını",
-      "Sadece emeklilik işlemlerini"
+      "Elli yıl",
+      "On yıl",
+      "Kırk dokuz yıl",
+      "Yirmi beş yıl",
+      "Otuz yıl"
+    ],
+    "answer_index": 2,
+    "sort_order": 40,
+    "source_question_id": "652-khk-cld652-016-14j4",
+    "kadro": "sube-mudur",
+    "topic_id": "652-khk"
+  },
+  {
+    "id": 1257,
+    "deneme_id": 28,
+    "prompt": "Bir Cumhuriyet başsavcısı, görev sebebiyle işlendiği iddia edilen bir suçla ilgili şikâyet almıştır. Delillerden biri kısa sürede kaybolabilecek niteliktedir. Başsavcının 4483 sayılı Kanuna uygun işlemi hangisidir?",
+    "options": [
+      "Hiçbir delil toplamadan dosyayı kapatmak.",
+      "Memurun ifadesini alıp iddianame düzenlemek.",
+      "Önce disiplin cezası vermek.",
+      "Doğrudan mahkemeden mahkûmiyet kararı istemek.",
+      "Kaybolma ihtimali bulunan delili tespit edip, ilgili memurun ifadesine başvurmadan evrak örneğini yetkili makama göndererek izin istemek."
+    ],
+    "answer_index": 4,
+    "sort_order": 41,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-4483"
+  },
+  {
+    "id": 1258,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi ön inceleme yapanların görev veya yetkileri arasında değildir?",
+    "options": [
+      "Soruşturma izni konusunda kesin ve nihai kararı kendi adlarına vermek",
+      "Hakkında inceleme yapılan kişinin ifadesini almak",
+      "Kanunda hüküm bulunmayan hususlarda ceza muhakemesi usulüne göre işlem yapmak",
+      "Gerekli bilgi ve belgeleri toplamak",
+      "Görüşlerini içeren rapor düzenlemek"
     ],
     "answer_index": 0,
-    "sort_order": 57
+    "sort_order": 42,
+    "source_question_id": "t-on-inceleme-ve-sorusturma-izni-y23dt-msxioxlt-95-fq5u",
+    "kadro": "sube-mudur",
+    "topic_id": "law-4483"
   },
   {
-    "id": 118,
-    "deneme_id": 2,
-    "prompt": "MEB Personeli İzin Yönergesi'ne göre yıllık izin süresi temel olarak neye göre değişir?",
+    "id": 1259,
+    "deneme_id": 28,
+    "prompt": "Örtülü ödenek düzenlemesine göre Cumhurbaşkanlığı ve diğer ilgili idare bütçelerinde yer alan örtülü ödeneklerin kullanılma yeri, giderin kimin tarafından yapılacağı, hesapların tutulma ve kapatılma yöntemi kim tarafından belirlenir?",
     "options": [
-      "Hizmet süresine göre",
-      "Sadece unvana göre",
-      "Sadece cinsiyete göre",
-      "Sadece medeni duruma göre"
+      "Hazine ve Maliye Bakanlığı tarafından münhasıran",
+      "Sayıştay tarafından",
+      "İlgili idarenin üst yöneticisi tarafından",
+      "TBMM Plan ve Bütçe Komisyonu tarafından",
+      "Cumhurbaşkanı tarafından"
+    ],
+    "answer_index": 4,
+    "sort_order": 43,
+    "source_question_id": "t-kamu-idare-butceleri-ydaz7-msybkocy-69-akvr",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5018"
+  },
+  {
+    "id": 1260,
+    "deneme_id": 28,
+    "prompt": "Merkez dışı birimlere ödenek göndermeye göre merkezî yönetim kapsamındaki kamu idarelerinde ödenek gönderilmesine ilişkin usul ve esasları belirlemeye kim yetkilidir?",
+    "options": [
+      "İçişleri Bakanı",
+      "İlgili idarenin üst yöneticisi",
+      "Hazine ve Maliye Bakanı",
+      "Cumhurbaşkanı",
+      "Sayıştay Başkanı"
+    ],
+    "answer_index": 2,
+    "sort_order": 44,
+    "source_question_id": "t-kamu-idare-butceleri-ydaz7-msybkocy-67-jdax",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5018"
+  },
+  {
+    "id": 1261,
+    "deneme_id": 28,
+    "prompt": "Orta vadeli program ve bütçe hazırlama rehberi düzenlemesine göre merkezî yönetim bütçesinin hazırlanma süreci hangi belgenin Resmî Gazete'de yayımlanmasıyla başlar?",
+    "options": [
+      "Orta vadeli programın",
+      "Kesin hesap kanununun",
+      "Sayıştay değerlendirme raporunun",
+      "Genel uygunluk bildiriminin",
+      "Yıllık faaliyet raporunun"
     ],
     "answer_index": 0,
-    "sort_order": 58
+    "sort_order": 45,
+    "source_question_id": "t-kamu-idare-butceleri-ydaz7-msybkocy-10-uvfe",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5018"
   },
   {
-    "id": 119,
-    "deneme_id": 2,
-    "prompt": "Görevde yükselme sınavı hangi yöntemle yapılır?",
+    "id": 1262,
+    "deneme_id": 28,
+    "prompt": "Tahmin edilen bedel ve dayanakları hangi belgede gösterilir?",
     "options": [
-      "Yazılı sınav (ve gerekirse sözlü sınav) ile",
-      "Sadece kıdeme göre",
-      "Sadece mülakatla",
-      "Kura ile"
+      "Teklif mektubunda",
+      "Hesap tutanağında",
+      "Kesin kabul tutanağında",
+      "Vekaletnamede",
+      "Tapu senedinde"
+    ],
+    "answer_index": 1,
+    "sort_order": 46,
+    "source_question_id": "t-ihaleye-hazirlik-2kl3q-msvqyx1p-1-7jlj",
+    "kadro": "sube-mudur",
+    "topic_id": "2886-kanun"
+  },
+  {
+    "id": 1263,
+    "deneme_id": 28,
+    "prompt": "Muayene ve kabul işlemleri en az kaç kişilik heyetler tarafından yapılır?",
+    "options": [
+      "3 kişi",
+      "1 kişi",
+      "2 kişi",
+      "5 kişi zorunlu",
+      "10 kişi"
     ],
     "answer_index": 0,
-    "sort_order": 59
+    "sort_order": 47,
+    "source_question_id": "t-cesitli-hukumler-33cn9-msvqzwv0-5-been",
+    "kadro": "sube-mudur",
+    "topic_id": "2886-kanun"
   },
   {
-    "id": 120,
-    "deneme_id": 2,
-    "prompt": "Aday memurların yetiştirilmesindeki temel eğitim aşamalarından biri değildir?",
+    "id": 1264,
+    "deneme_id": 28,
+    "prompt": "4734 sayılı Kamu İhale Kanunu'nun 9. maddesinde düzenlenen hususlar bakımından aşağıdakilerden hangisi madde hükmüne uygundur?",
     "options": [
-      "Temel eğitim",
-      "Hazırlayıcı eğitim",
-      "Staj",
-      "Emeklilik eğitimi"
+      "Kurumun mal ve varlıkları Devlet malı sayılır, haczedilemez, rehnedilemez.",
+      "Kurum, gerekli gördüğü takdirde özel uzmanlık gerektiren teknik hususlarla ilgili olarak ihtisas sahibi kamu veya özel hukuk tüzel kişileri ile gerçek kişilerin görüşüne başvurabilir.",
+      "(Ek cümleler: 17/1/2019-7161/30 md.) Bir sözleşme kapsamında gerçekleştirilen iş dolayısıyla düzenlenecek iş deneyim belgelerinin toplam tutarına ve belge verilecek kişilere yönelik sınırlamalar getirmeye Kurum yetkilidir.",
+      "(Ek fıkra: 20/11/2008-5812/16 md.; Mülga ikinci fıkra: 6/2/2014-6518/48 md.) Ancak, danışmanlık hizmet ihalelerinde ihale dokümanında belirtilmesi kaydıyla, kesin teminat sözleşme yapılmadan önce alınmayabilir.",
+      "Yaklaşık maliyete ihale ve ön yeterlik ilânlarında yer verilmez, isteklilere veya ihale süreci ile resmî ilişkisi olmayan diğer kişilere açıklanmaz."
+    ],
+    "answer_index": 4,
+    "sort_order": 48,
+    "source_question_id": "t-genel-hukumler-tff2z-msvtxdip-25-u0c9",
+    "kadro": "sube-mudur",
+    "topic_id": "4734-kanun"
+  },
+  {
+    "id": 1265,
+    "deneme_id": 28,
+    "prompt": "4734 sayılı Kamu İhale Kanunu'nun 51. maddesi esas alındığında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Bu teklif, üzerine malî teklif olduğu yazılmak suretiyle bir zarfa konulur.",
+      "Ancak bu görüşme, ihale dokümanında yer alan şartları önemli ölçüde değiştirecek nitelikte olmamalıdır.",
+      "Teklifler, ihale dokümanında belirtilen esaslara göre değerlendirilmek suretiyle alım sonuçlandırılır ve sözleşmeye bağlanır.",
+      "DÖRDÜNCÜ KISIM Yasaklar ve Ceza Sorumluluğu İhalelere katılmaktan yasaklama",
+      "İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı. b"
+    ],
+    "answer_index": 0,
+    "sort_order": 49,
+    "source_question_id": "t-ihale-sureci-tfyj5-msvtxpcv-68-rt5d",
+    "kadro": "sube-mudur",
+    "topic_id": "4734-kanun"
+  },
+  {
+    "id": 1266,
+    "deneme_id": 28,
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nun 35. maddesine göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "(Ek fıkra: 1/6/2007-5680/3 md.) Çerçeve anlaşma ve münferit sözleşmede belirtilmesi zorunlu olan hususları belirlemeye Kurum yetkilidir.1 Sözleşmede yer alması zorunlu hususlar",
+      "Bu Kanunda hüküm bulunmayan hallerde, Kamu İhale Kanununun teminatlara ilişkin hükümleri uygulanır.",
+      "Aksine hareket edenler hakkında ilgisine göre 26 veya 28 inci maddede belirtilen müeyyideler uygulanır.",
+      "ÜÇÜNCÜ BÖLÜM Sözleşmede Değişiklik, Sözleşmenin Devri ve Feshi Sözleşmede değişiklik yapılması",
+      "Bu Kanun hükümlerine ilişkin değişiklikler, ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir."
+    ],
+    "answer_index": 1,
+    "sort_order": 50,
+    "source_question_id": "t-cesitli-hukumler-w6ft5-mswvxtfh-36-vkcz",
+    "kadro": "sube-mudur",
+    "topic_id": "4735-kanun"
+  },
+  {
+    "id": 1267,
+    "deneme_id": 28,
+    "prompt": "Kanunun 6. maddesi esas alındığında, gerçek kişinin yazılı bilgi edinme başvurusunda aşağıdakilerden hangisi yer almalıdır?",
+    "options": [
+      "Öğrenim durumu",
+      "dı ve soyadı",
+      "Medeni hâli",
+      "Vergi numarası",
+      "Mesleği"
+    ],
+    "answer_index": 1,
+    "sort_order": 51,
+    "source_question_id": "t-bilgi-edinme-basvurusu-rpo97-msvrwwjm-12-2cy1",
+    "kadro": "sube-mudur",
+    "topic_id": "4982-kanun"
+  },
+  {
+    "id": 1268,
+    "deneme_id": 28,
+    "prompt": "5442 sayılı İl İdaresi Kanununda 37. madde esas alındığında aşağıdakilerden hangisi mevzuata uygundur?",
+    "options": [
+      "Kaymakamlar, dördüncü maddenin son fıkrasında belirtilen daire ve müesseseler dışında kalan bütün Devlet daire ve müessese ve işletmelerini ve özel işyerlerini, özel idare, belediye ve köy idareleriyle bunlara bağlı tekmil müesseseleri denetler ve teftiş ederler.",
+      "İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya bucak müdürüa karşı sorumludur.",
+      "Kaymakam, ilçedeki idare, daire ve müesseselerde çalışan uzman veya fen kollarına dahil memur ve müstahdemlerden ilçenin genel ve mahalli hizmetlerine ilişkin 18 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddenin (.",
+      "İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumlu değildir.",
+      "İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur."
+    ],
+    "answer_index": 4,
+    "sort_order": 52,
+    "source_question_id": "t-il-idaresi-y5wsz-msxi9t2d-32-ejb0",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5442"
+  },
+  {
+    "id": 1269,
+    "deneme_id": 28,
+    "prompt": "5442 sayılı İl İdaresi Kanununda 50. madde esas alındığında aşağıdakilerden hangisi mevzuata uygundur?",
+    "options": [
+      "Bucağın güven ve düzeninin korunmasından bucak müdürü sorumludur.",
+      "Kaymakamlar, bucağa ait bütün işleri doğrudan doğruya bucak müdürüne yazarlar.",
+      "Cumhuriyet Bayramlarında bucakta yapılacak törene başkanlık yapar ve ziyaretleri kabul eyler.",
+      "Bucak müdürü, bucakta en büyük Hükümet memuru ve temsilcisidir.",
+      "Bucak müdürlüğü 25, 30, 35, 40, 50, 60 lira aylıklı olmak üzere altı sınıftır."
+    ],
+    "answer_index": 4,
+    "sort_order": 53,
+    "source_question_id": "t-bucak-idaresi-ve-teskilati-y6imi-msxia4iw-38-skje",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5442"
+  },
+  {
+    "id": 1270,
+    "deneme_id": 28,
+    "prompt": "Aşağıdakilerden hangisi 5442 sayılı İl İdaresi Kanununun 62. maddesinde yer alan bir hükümdür?",
+    "options": [
+      "Askerlik Mükellefiyeti Kanununun 103 üncü maddesi hükmü mahfuzdur.",
+      "İdare kurulları, idari, istişari ve kazai olmak üzere türlü karar alırlar.",
+      "Oyların eşitliği halinde başkanın bulunduğu taraf çokluk sayılır.",
+      "Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.",
+      "Bu kabil iptal davaları birinci derecede Danıştayda açılamaz."
+    ],
+    "answer_index": 4,
+    "sort_order": 54,
+    "source_question_id": "t-il-ve-ilce-idare-kurullari-y6zbm-msxiabx5-13-e1rt",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5442"
+  },
+  {
+    "id": 1271,
+    "deneme_id": 28,
+    "prompt": "4688 sayılı Kanun'un 4. maddesi kapsamında aşağıdaki ifadelerden hangisi mevzuata uygundur?",
+    "options": [
+      "Sendikaların kurulabilecekleri hizmet kolları aşağıda belirtilmiştir: 1.",
+      "Büro, bankacılık ve sigortacılık hizmetleri.",
+      "Eğitim, öğretim ve bilim hizmetleri.",
+      "Basın, yayın ve iletişim hizmetleri.",
+      "Meslek veya işyeri esasına göre sendika kurulamaz."
+    ],
+    "answer_index": 4,
+    "sort_order": 55,
+    "source_question_id": "t-kurulus-esaslari-ve-organlar-ri6hv-msvruci9-64-zs35",
+    "kadro": "sube-mudur",
+    "topic_id": "4688-kanun"
+  },
+  {
+    "id": 1272,
+    "deneme_id": 28,
+    "prompt": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun 9. maddesine göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sendikalar hizmet kolu esasına göre, Türkiye çapında faaliyette bulunmak amacıyla bir hizmet kolundaki kamu işyerlerinde çalışan kamu görevlileri tarafından kurulur.",
+      "Sendika şubesi genel kurulları ve üye sayısı bini aşan sendikaların genel kurulları delegelerle yapılabilir.",
+      "Bir hizmet kolunda birden fazla sendika kurulabilir.",
+      "Meslek veya işyeri esasına göre sendika kurulamaz.",
+      "Sendikaların kurulabilecekleri hizmet kolları aşağıda belirtilmiştir: 1."
+    ],
+    "answer_index": 1,
+    "sort_order": 56,
+    "source_question_id": "t-kurulus-esaslari-ve-organlar-ri6hv-msvruci9-36-qk2a",
+    "kadro": "sube-mudur",
+    "topic_id": "4688-kanun"
+  },
+  {
+    "id": 1273,
+    "deneme_id": 28,
+    "prompt": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun 21. maddesine göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kamu görevlileri sendikaları ile konfederasyonlar, bu Kanundaki hükümler çerçevesinde, toplu sözleşme görüşmelerinde taraf olmaya yetkilidir.",
+      "Bu Kanuna göre kurulan sendika ve konfederasyonların yönetim ve işleyişleri Anayasada belirtilen Cumhuriyetin niteliklerine ve demokratik esaslara aykırı olamaz.",
+      "Sendika ve konfederasyonlar kamu makamlarından maddî yardım kabul edemez, siyasî partilerden maddî yardım alamaz ve onlara maddî yardımda bulunamazlar.",
+      "Sendika ve konfederasyonlar siyasî partilerin kuruluşu içinde yer alamazlar;",
+      "Kurul, her yıl mart ve kasım aylarında toplanır."
+    ],
+    "answer_index": 4,
+    "sort_order": 57,
+    "source_question_id": "t-faaliyetler-yasaklar-ve-yonetime-katilma-rj7zn-msvrur96-9-lemb",
+    "kadro": "sube-mudur",
+    "topic_id": "4688-kanun"
+  },
+  {
+    "id": 1274,
+    "deneme_id": 28,
+    "prompt": "Geçici Madde 8, Madde 7'nin ikinci fıkrası kapsamında işlenen fiillerin tekerrürüne esas alınmasında neyi dikkate alır?",
+    "options": [
+      "Tekerrür hesaplamasına dair herhangi bir hüküm yoktur",
+      "Bu maddenin yürürlüğe girdiği tarihten önce işlenen fiiller, anılan fıkrada belirlenen süreler dikkate alınarak tekerrüre esas alınır",
+      "Yalnızca bu maddenin yürürlüğe girmesinden sonra işlenen fiiller dikkate alınır",
+      "Sadece son bir yıl içindeki fiiller dikkate alınır",
+      "Geçmiş fiiller hiçbir şekilde tekerrüre esas alınmaz"
+    ],
+    "answer_index": 1,
+    "sort_order": 58,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-5580"
+  },
+  {
+    "id": 1275,
+    "deneme_id": 28,
+    "prompt": "Kurum açma izni şartlarından biri olarak hangi husus rapor ile tespit edilir?",
+    "options": [
+      "Kurumun sosyal medya takipçi sayısı",
+      "Öğrenci velilerinin gelir düzeyi",
+      "Ders araç-gerecinin kurumun amaç ve ihtiyaçları için yeterli olduğu",
+      "Kurumun reklam bütçesi",
+      "Kurucunun banka hesap bakiyesi"
+    ],
+    "answer_index": 2,
+    "sort_order": 59,
+    "source_question_id": null,
+    "kadro": "sube-mudur",
+    "topic_id": "law-5580"
+  },
+  {
+    "id": 1276,
+    "deneme_id": 28,
+    "prompt": "Kurum açma izninin iptaline yol açan hallerden en son bent (h) hangisidir?",
+    "options": [
+      "Öğrenci kabul etmemesi",
+      "Reklam vermemesi",
+      "Bina değiştirmesi",
+      "Mevzuata uygun olarak kapatılmaması",
+      "Personel sayısını azaltması"
     ],
     "answer_index": 3,
-    "sort_order": 60
+    "sort_order": 60,
+    "source_question_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-cld5580-022-454c",
+    "kadro": "sube-mudur",
+    "topic_id": "law-5580"
   }
 ]
-

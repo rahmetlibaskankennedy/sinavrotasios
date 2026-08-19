@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mst1y64m-105-9art",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği'ne üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "12",
+      "16",
+      "22",
+      "30",
+      "35"
+    ],
+    "answer_index": 2,
+    "explanation": "Arap Birliği, aralarında Filistin'in de bulunduğu 22 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-106-c23i",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC'in açılımı nedir?",
+    "options": [
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Petrol İthal Eden Ülkeler Örgütü",
+      "Ortadoğu Petrol Konseyi",
+      "Enerji ve Petrol İşbirliği Konseyi",
+      "Petrol Üreten Ekonomiler Konseyi"
+    ],
+    "answer_index": 0,
+    "explanation": "OPEC, Petrol İhraç Eden Ülkeler Örgütü'nün İngilizce kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-107-k2cj",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC'in merkezi hangi şehirdedir?",
+    "options": [
+      "Riyad",
+      "Viyana",
+      "Cenevre",
+      "Dubai",
+      "Bağdat"
+    ],
+    "answer_index": 1,
+    "explanation": "OPEC'in genel merkezi Avusturya'nın başkenti Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-108-iqjy",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC hangi yıl kurulmuştur?",
+    "options": [
+      "1948",
+      "1955",
+      "1960",
+      "1965",
+      "1973"
+    ],
+    "answer_index": 2,
+    "explanation": "OPEC, 1960 yılında Bağdat'ta kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-11-d8yk",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Adalet Divanı'nın (ICJ) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Cenevre",
+      "Lahey",
+      "Brüksel",
+      "Strazburg"
+    ],
+    "answer_index": 2,
+    "explanation": "Uluslararası Adalet Divanı, Hollanda'nın Lahey şehrinde bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-110-ot8y",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi OPEC üyesi değildir?",
+    "options": [
+      "Suudi Arabistan",
+      "İran",
+      "Rusya",
+      "Nijerya",
+      "Venezuela"
+    ],
+    "answer_index": 2,
+    "explanation": "Rusya, OPEC üyesi değildir; OPEC+ çerçevesinde OPEC ile koordinasyon içinde çalışan OPEC dışı bir ülkedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-111-4kjs",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'ın açılımı nedir?",
+    "options": [
+      "Güneydoğu Asya Uluslar Birliği",
+      "Asya-Pasifik Ekonomik İşbirliği",
+      "Asya Kalkınma Bankası",
+      "Güney Asya Bölgesel İşbirliği Örgütü",
+      "Doğu Asya Zirvesi"
+    ],
+    "answer_index": 0,
+    "explanation": "ASEAN, Güneydoğu Asya Uluslar Birliği'nin kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-112-qgqx",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN hangi yıl kurulmuştur?",
+    "options": [
+      "1955",
+      "1961",
+      "1967",
+      "1975",
+      "1985"
+    ],
+    "answer_index": 2,
+    "explanation": "ASEAN, 1967 yılında Bangkok'ta kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-113-bdvp",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'ın merkezi hangi şehirdedir?",
+    "options": [
+      "Bangkok",
+      "Jakarta",
+      "Manila",
+      "Singapur",
+      "Kuala Lumpur"
+    ],
+    "answer_index": 1,
+    "explanation": "ASEAN Sekreteryası, Endonezya'nın başkenti Jakarta'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-114-wtl4",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'a üye ülke sayısı kaçtır?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer_index": 2,
+    "explanation": "ASEAN'ın 10 üye ülkesi bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-115-wx18",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS ifadesindeki harfler hangi ülkeleri temsil eder (kuruluşundaki hali)?",
+    "options": [
+      "Brezilya, Rusya, Hindistan, Çin, Güney Afrika",
+      "Belçika, Romanya, İtalya, Çin, İspanya",
+      "Brezilya, Romanya, Hindistan, Kanada, İsveç",
+      "Bulgaristan, Rusya, İtalya, Çin, İspanya",
+      "Brezilya, Rusya, İrlanda, Çin, Singapur"
+    ],
+    "answer_index": 0,
+    "explanation": "BRICS, Brezilya, Rusya, Hindistan, Çin ve Güney Afrika'nın baş harflerinden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-116-yect",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS'in kalkınma projelerini finanse etmek için kurduğu banka hangisidir?",
+    "options": [
+      "Yeni Kalkınma Bankası (NDB)",
+      "Asya Kalkınma Bankası",
+      "Afrika Kalkınma Bankası",
+      "IMF",
+      "Dünya Bankası"
+    ],
+    "answer_index": 0,
+    "explanation": "BRICS ülkeleri, 2014'te Yeni Kalkınma Bankası'nı (New Development Bank) kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-117-4ooo",
+    "topic_id": "topic-guncel",
+    "prompt": "2024 yılında BRICS'e resmi olarak katılan ülkelerden biri değildir?",
+    "options": [
+      "Mısır",
+      "Etiyopya",
+      "İran",
+      "Birleşik Arap Emirlikleri",
+      "Almanya"
+    ],
+    "answer_index": 4,
+    "explanation": "Almanya, BRICS üyesi değildir; 2024'te Mısır, Etiyopya, İran ve BAE gibi ülkeler gruba katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-118-53yh",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye BRICS ile ilgili olarak hangi statüde yer almaktadır?",
+    "options": [
+      "Grubun tam ve eşit haklara sahip üyesidir",
+      "Üyelik başvurusunda bulunmuş, ortak ülke statüsü kazanmıştır",
+      "Grupla hiçbir resmi ilişkisi bulunmamaktadır",
+      "Grubun kurucu üyelerinden biridir",
+      "Grubun daimi gözlemci konseyi başkanlığını yürütmektedir"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, BRICS'e üyelik ilgisini resmi olarak açıklamış ve 2024 sonrasında ortak ülke (partner country) statüsü kazanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-119-u5ux",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS zirvelerinin dönem başkanlığı sistemi nasıl işler?",
+    "options": [
+      "Sabit bir ülke daima başkanlık eder",
+      "Rotasyon esasına göre üyeler arasında el değiştirir",
+      "Birleşmiş Milletler tarafından resmi olarak atanır",
+      "En büyük ekonomiye sahip ülke sürekli başkandır",
+      "Kura yöntemiyle her hafta yeniden belirlenir"
+    ],
+    "answer_index": 1,
+    "explanation": "BRICS dönem başkanlığı, üye ülkeler arasında yıllık rotasyon usulüyle belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-12-fnjq",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İnsan Hakları Konseyi'nin merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Cenevre",
+      "Paris",
+      "Viyana",
+      "Roma"
+    ],
+    "answer_index": 1,
+    "explanation": "BM İnsan Hakları Konseyi, Cenevre'de faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-120-19gc",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS'in kuruluşunda Güney Afrika ne zaman gruba dahil olmuştur?",
+    "options": [
+      "2001",
+      "2006",
+      "2010",
+      "2015",
+      "2020"
+    ],
+    "answer_index": 2,
+    "explanation": "Grup başlangıçta BRIC olarak anılırken, Güney Afrika 2010'da katılarak isim BRICS'e dönüşmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-121-ii7l",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın (eski adıyla Türk Konseyi) merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "Astana",
+      "Bakü",
+      "Bişkek"
+    ],
+    "answer_index": 2,
+    "explanation": "Türk Devletleri Teşkilatı Sekreteryası'nın merkezi Kazakistan'ın başkenti Astana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-122-rnvt",
+    "topic_id": "topic-guncel",
+    "prompt": "2025 yılı G7 dönem başkanlığını hangi ülke üstlenmiştir?",
+    "options": [
+      "Fransa",
+      "Kanada",
+      "İtalya",
+      "Japonya",
+      "Almanya"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanada, 2025 yılı G7 dönem başkanlığını üstlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-123-fkmg",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı hangi yıl kurulmuştur (Nahçıvan Anlaşması ile)?",
+    "options": [
+      "2001",
+      "2005",
+      "2009",
+      "2015",
+      "2020"
+    ],
+    "answer_index": 2,
+    "explanation": "Örgüt, 2009 yılında Nahçıvan Anlaşması ile Türk Konseyi adıyla kurulmuş, 2021'de adı Türk Devletleri Teşkilatı olarak değiştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-124-vadq",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın kurucu üyeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Türkiye",
+      "Azerbaycan",
+      "Kazakistan",
+      "Kırgızistan",
+      "Özbekistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Özbekistan, örgüte sonradan (2019'da) tam üye olarak katılmıştır; kurucu üyeler Türkiye, Azerbaycan, Kazakistan ve Kırgızistan'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-125-r3e5",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'na gözlemci statüsünde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Türkmenistan",
+      "Fransa",
+      "Almanya",
+      "Kanada",
+      "Brezilya"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkmenistan, Türk Devletleri Teşkilatı'na gözlemci statüsünde katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-126-utq9",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın isim değişikliği (Türk Konseyi'nden bu adı almasına) hangi yıl gerçekleşmiştir?",
+    "options": [
+      "2019",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütün ismi, 2021 yılındaki İstanbul Zirvesi'nde Türk Devletleri Teşkilatı olarak değiştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-127-um6e",
+    "topic_id": "topic-guncel",
+    "prompt": "Macaristan, Türk Devletleri Teşkilatı'nda hangi statüdedir?",
+    "options": [
+      "Tam üye",
+      "Gözlemci üye",
+      "Hiçbir ilişkisi yok",
+      "Kurucu üye",
+      "Aday üye"
+    ],
+    "answer_index": 1,
+    "explanation": "Macaristan, Türk Devletleri Teşkilatı'na gözlemci üye statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-128-qir7",
+    "topic_id": "topic-guncel",
+    "prompt": "Ekonomik İşbirliği Teşkilatı'nın (ECO) merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "Tahran",
+      "İslamabad",
+      "Bakü",
+      "Taşkent"
+    ],
+    "answer_index": 1,
+    "explanation": "ECO'nun genel merkezi İran'ın başkenti Tahran'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-129-yyur",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'nun kurucu üyeleri hangileridir?",
+    "options": [
+      "Türkiye, İran, Pakistan",
+      "Türkiye, Suudi Arabistan, Mısır",
+      "Türkiye, Azerbaycan, Kazakistan",
+      "Türkiye, Katar, BAE",
+      "Türkiye, Irak, Suriye"
+    ],
+    "answer_index": 0,
+    "explanation": "ECO, 1985'te Türkiye, İran ve Pakistan tarafından kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-13-pw34",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Kalkınma Programı'nın kısaltması nedir?",
+    "options": [
+      "UNDP",
+      "UNEP",
+      "UNICEF",
+      "UNCTAD",
+      "UNIDO"
+    ],
+    "answer_index": 0,
+    "explanation": "UNDP, Birleşmiş Milletler Kalkınma Programı'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-130-w7uy",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'ya üye ülke sayısı kaçtır?",
+    "options": [
+      "3",
+      "6",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer_index": 2,
+    "explanation": "1992'de Orta Asya ülkelerinin katılımıyla ECO'nun üye sayısı 10'a yükselmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-131-8uzb",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'nun öncülü olan kuruluş hangisidir?",
+    "options": [
+      "RCD (Kalkınma İçin Bölgesel İşbirliği)",
+      "CENTO (Merkezi Antlaşma Teşkilatı)",
+      "OAU (Afrika Birliği Örgütü)",
+      "OPEC (Petrol İhraç Eden Ülkeler Örgütü)",
+      "Arap Birliği (Arap Devletleri Ligi)"
+    ],
+    "answer_index": 0,
+    "explanation": "ECO, 1964'te kurulan RCD'nin (Kalkınma İçin Bölgesel İşbirliği) devamı niteliğindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-132-zl47",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8 Teşkilatı'nın kurucusu kabul edilen Türk lider kimdir?",
+    "options": [
+      "Turgut Özal",
+      "Süleyman Demirel",
+      "Necmettin Erbakan",
+      "Tansu Çiller",
+      "Bülent Ecevit"
+    ],
+    "answer_index": 2,
+    "explanation": "D-8 (Gelişen Sekizli), 1997'de dönemin Başbakanı Necmettin Erbakan öncülüğünde kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-133-50xy",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8'i oluşturan sekiz ülkeden biri değildir?",
+    "options": [
+      "Türkiye",
+      "Endonezya",
+      "Nijerya",
+      "Malezya",
+      "Fas"
+    ],
+    "answer_index": 4,
+    "explanation": "D-8 üyeleri Türkiye, Endonezya, Nijerya, Malezya, Mısır, İran, Pakistan ve Bangladeş'tir; Fas üye değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-134-givl",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8'in merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "Kahire",
+      "Cakarta",
+      "Dakka"
+    ],
+    "answer_index": 1,
+    "explanation": "D-8 Sekreteryası İstanbul'da bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-135-nkn1",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8 hangi yıl kurulmuştur?",
+    "options": [
+      "1985",
+      "1990",
+      "1997",
+      "2001",
+      "2005"
+    ],
+    "answer_index": 2,
+    "explanation": "D-8, 15 Haziran 1997'de İstanbul'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-136-64mp",
+    "topic_id": "topic-guncel",
+    "prompt": "Şanghay İşbirliği Örgütü'nün (SCO) merkezi hangi şehirdedir?",
+    "options": [
+      "Şanghay",
+      "Pekin",
+      "Moskova",
+      "Astana",
+      "Taşkent"
+    ],
+    "answer_index": 1,
+    "explanation": "SCO Sekreteryası, Çin'in başkenti Pekin'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-137-zapp",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO hangi yıl kurulmuştur?",
+    "options": [
+      "1996",
+      "2001",
+      "2005",
+      "2010",
+      "2015"
+    ],
+    "answer_index": 1,
+    "explanation": "Şanghay İşbirliği Örgütü, 2001 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-138-48pn",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO'nun kurucu üyeleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Çin",
+      "Rusya",
+      "Kazakistan",
+      "Hindistan",
+      "Kırgızistan"
+    ],
+    "answer_index": 3,
+    "explanation": "Hindistan, örgüte 2017'de tam üye olarak katılmıştır; kurucu üyeler arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-139-1ect",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye SCO ile ilişkisinde hangi statüdedir?",
+    "options": [
+      "Tam üye",
+      "Diyalog ortağı",
+      "Hiçbir ilişkisi yok",
+      "Kurucu üye",
+      "Gözlemci üye"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, Şanghay İşbirliği Örgütü'nde diyalog ortağı statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-14-gcwc",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılı itibarıyla, Guterres'in görev süresinin sona ermesiyle yeni BM Genel Sekreteri hangi tarihte göreve başlayacaktır?",
+    "options": [
+      "1 Ocak 2027",
+      "1 Temmuz 2026",
+      "31 Aralık 2026",
+      "1 Ocak 2028",
+      "1 Eylül 2027"
+    ],
+    "answer_index": 0,
+    "explanation": "Guterres'in görev süresi 31 Aralık 2026'da sona erecek, yeni Genel Sekreter 1 Ocak 2027'de göreve başlayacaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-140-soji",
+    "topic_id": "topic-guncel",
+    "prompt": "İran, SCO'ya hangi statüde katılım sağlamıştır?",
+    "options": [
+      "Tam üye (2023)",
+      "Gözlemci",
+      "Diyalog ortağı",
+      "Aday üye",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "İran, 2023 yılında Şanghay İşbirliği Örgütü'ne tam üye olarak katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-141-uu4u",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO'nun temel işbirliği alanları arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "Güvenlik ve terörle mücadele",
+      "Ekonomik işbirliği",
+      "Kültürel işbirliği",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "SCO; güvenlik, ekonomi ve kültür gibi çok boyutlu işbirliği alanlarını kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-142-skqj",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Konseyi'nin (Council of Europe) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Strazburg",
+      "Lahey",
+      "Cenevre",
+      "Lüksemburg"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Konseyi, AB'den farklı bir kuruluş olup merkezi Fransa'nın Strazburg şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-143-xqit",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa İnsan Hakları Mahkemesi hangi kuruluşa bağlıdır?",
+    "options": [
+      "Avrupa Birliği",
+      "Avrupa Konseyi",
+      "BM",
+      "NATO",
+      "OSCE"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi, Avrupa Konseyi çatısı altında faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-144-dv38",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Konseyi hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1949",
+      "1955",
+      "1961",
+      "1970"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Konseyi, 1949 yılında kurulmuştur ve AB'den ayrı bir örgüttür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-145-g25z",
+    "topic_id": "topic-guncel",
+    "prompt": "Rusya'nın Avrupa Konseyi üyeliği hangi olay sonrası sona ermiştir?",
+    "options": [
+      "Kırım'ın ilhakı (2014)",
+      "Ukrayna'ya tam ölçekli saldırı (2022)",
+      "Suriye'ye yapılan askeri müdahale",
+      "Gürcistan Savaşı (2008)",
+      "Soğuk Savaş döneminin sona ermesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Rusya'nın Avrupa Konseyi üyeliği, Ukrayna'ya yönelik 2022 saldırısının ardından sona ermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-146-0z8j",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'in (Avrupa Güvenlik ve İşbirliği Teşkilatı) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Viyana",
+      "Brüksel",
+      "Strazburg",
+      "Lahey"
+    ],
+    "answer_index": 1,
+    "explanation": "AGİT'in genel merkezi Avusturya'nın başkenti Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-147-q07x",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği Adalet Divanı'nın (CJEU) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Strazburg",
+      "Lüksemburg",
+      "Lahey",
+      "Frankfurt"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa Birliği Adalet Divanı, Lüksemburg'da konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-148-wmlw",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT hangi anlaşmanın devamı olarak kurulmuştur?",
+    "options": [
+      "Helsinki Nihai Senedi",
+      "Roma Antlaşması",
+      "Maastricht Antlaşması",
+      "Paris Antlaşması",
+      "Yalta Konferansı"
+    ],
+    "answer_index": 0,
+    "explanation": "AGİT, 1975 Helsinki Nihai Senedi ile başlayan sürecin kurumsallaşmış halidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-149-wvkw",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'in temel çalışma alanları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Güvenlik",
+      "İnsan hakları",
+      "Ekonomik işbirliği",
+      "Uzay araştırmaları",
+      "Seçim gözlemciliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Uzay araştırmaları, AGİT'in çalışma alanları arasında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-15-p6kr",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO (Kuzey Atlantik Antlaşması Örgütü) hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1955",
+      "1961"
+    ],
+    "answer_index": 2,
+    "explanation": "NATO, 4 Nisan 1949'da Washington Antlaşması ile kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-150-a6dj",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'e üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "30",
+      "40",
+      "57",
+      "70",
+      "90"
+    ],
+    "answer_index": 2,
+    "explanation": "AGİT, Avrupa, Kuzey Amerika ve Orta Asya'dan 57 üye ülkeyi kapsayan dünyanın en büyük bölgesel güvenlik örgütüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-151-dnn4",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Atom Enerjisi Ajansı'nın (IAEA) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Viyana",
+      "Paris",
+      "New York",
+      "Brüksel"
+    ],
+    "answer_index": 1,
+    "explanation": "IAEA'nın genel merkezi Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-152-7duk",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin altı temel organından biri olan, ekonomik ve sosyal konularda koordinasyonu sağlayan organ hangisidir?",
+    "options": [
+      "Güvenlik Konseyi (UNSC)",
+      "Ekonomik ve Sosyal Konsey (ECOSOC)",
+      "Vesayet Konseyi (UNTC)",
+      "Sekretarya (BM İdari Birimi)",
+      "Genel Kurul (UNGA)"
+    ],
+    "answer_index": 1,
+    "explanation": "ECOSOC, BM sisteminde ekonomik, sosyal ve ilgili alanlardaki çalışmaları koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-153-nsby",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Vesayet Konseyi'nin (Trusteeship Council) günümüzdeki durumu nedir?",
+    "options": [
+      "Aktif olarak çalışmaya devam ediyor",
+      "Faaliyetlerini 1994'ten itibaren askıya almıştır",
+      "Kuruluşundan bu yana hiç faal olmamıştır",
+      "Güvenlik Konseyi ile birleşmiştir",
+      "Sadece Afrika'da faaliyet gösterir"
+    ],
+    "answer_index": 1,
+    "explanation": "Son vesayet altındaki bölge olan Palau'nun bağımsızlığını kazanmasıyla Vesayet Konseyi 1994'te faaliyetlerini askıya almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-154-recl",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Çevre Programı'nın (UNEP) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Nairobi",
+      "New York",
+      "Paris",
+      "Roma"
+    ],
+    "answer_index": 1,
+    "explanation": "UNEP'in genel merkezi Kenya'nın başkenti Nairobi'dedir; bu, bir BM ana ofisinin Afrika'da bulunduğu tek örnektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-155-blkx",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Kadın Birimi'nin (UN Women) temel amacı nedir?",
+    "options": [
+      "Kadın istihdamından elde edilen geliri vergilendirmek",
+      "Toplumsal cinsiyet eşitliğini ve kadının güçlenmesini desteklemek",
+      "Yalnızca Avrupa kıtasında faaliyet göstermek",
+      "Barışı koruma amaçlı askeri operasyonları yönetmek",
+      "Ülkeler arası uluslararası ticareti düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "UN Women, 2010'da kurulmuş olup toplumsal cinsiyet eşitliği ve kadın haklarının geliştirilmesine odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-156-yi18",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Nüfus Fonu'nun (UNFPA) çalışma alanı aşağıdakilerden hangisidir?",
+    "options": [
+      "Üreme sağlığı ve nüfus politikaları",
+      "Ülkeler arası uluslararası ticaret ilişkileri",
+      "Devletler arası askeri güvenlik meseleleri",
+      "Patent ve telif hakkı gibi fikri mülkiyet konuları",
+      "Uluslararası sular ve denizcilik hukuku düzenlemeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "UNFPA, üreme sağlığı, aile planlaması ve nüfus politikaları alanında çalışan bir BM fonudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-157-yyhu",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Dünya Gıda Programı'nın (WFP) temel görevi nedir?",
+    "options": [
+      "Açlıkla mücadele ve gıda yardımı sağlamak",
+      "Uluslararası ticareti düzenlemek",
+      "İklim anlaşmalarını denetlemek",
+      "Sağlık standartları belirlemek",
+      "Askeri lojistik sağlamak"
+    ],
+    "answer_index": 0,
+    "explanation": "WFP, dünya genelinde açlıkla mücadele eden ve acil durumlarda gıda yardımı sağlayan en büyük insani yardım kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-158-x90j",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Sınai Kalkınma Örgütü'nün (UNIDO) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Viyana",
+      "Paris",
+      "Roma",
+      "New York"
+    ],
+    "answer_index": 1,
+    "explanation": "UNIDO'nun genel merkezi Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-159-ia5g",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Uyuşturucu ve Suç Ofisi'nin (UNODC) merkezi hangi şehirdedir?",
+    "options": [
+      "Viyana",
+      "Cenevre",
+      "New York",
+      "Lahey",
+      "Roma"
+    ],
+    "answer_index": 0,
+    "explanation": "UNODC, uyuşturucu kaçakçılığı ve organize suçla mücadele alanında çalışan BM ofisidir; merkezi Viyana'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-16-86ou",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun merkezi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Brüksel",
+      "Londra",
+      "Berlin",
+      "Lahey"
+    ],
+    "answer_index": 1,
+    "explanation": "NATO Genel Merkezi Belçika'nın başkenti Brüksel'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-160-7is8",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İnsani İşler Koordinasyon Ofisi'nin (OCHA) temel görevi nedir?",
+    "options": [
+      "Askeri operasyonları koordine etmek",
+      "İnsani yardım müdahalelerini koordine etmek",
+      "Ticaret anlaşmazlıklarını çözmek",
+      "Para politikası belirlemek",
+      "Fikri mülkiyeti korumak"
+    ],
+    "answer_index": 1,
+    "explanation": "OCHA, doğal afet ve çatışma bölgelerindeki insani yardım çalışmalarını koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-161-uk8q",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Genel Kurulu'nun olağan oturumları genellikle hangi ayda başlar?",
+    "options": [
+      "Ocak",
+      "Mart",
+      "Haziran",
+      "Eylül",
+      "Kasım"
+    ],
+    "answer_index": 3,
+    "explanation": "BM Genel Kurulu'nun yıllık olağan oturumu genellikle Eylül ayında başlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-162-mu4j",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Barış Gücü askerlerinin kullandığı miğfer/bereden dolayı aldıkları yaygın isim nedir?",
+    "options": [
+      "Yeşil Bereliler",
+      "Mavi Bereliler",
+      "Kızıl Bereliler",
+      "Beyaz Bereliler",
+      "Siyah Bereliler"
+    ],
+    "answer_index": 1,
+    "explanation": "BM barış gücü askerleri, mavi renkli miğfer veya bereleri nedeniyle 'Mavi Bereliler' olarak anılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-163-lyco",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Şartı kaç yılında imzalanmıştır?",
+    "options": [
+      "1941",
+      "1943",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "answer_index": 2,
+    "explanation": "BM Şartı, 26 Haziran 1945'te San Francisco'da imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-164-suep",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin öncülü olan, I. Dünya Savaşı sonrası kurulan uluslararası örgüt hangisidir?",
+    "options": [
+      "Milletler Cemiyeti",
+      "Kutsal İttifak",
+      "Avrupa Konseyi",
+      "Dörtlü İttifak",
+      "Bağdat Paktı"
+    ],
+    "answer_index": 0,
+    "explanation": "Milletler Cemiyeti (Cemiyet-i Akvam), BM'den önce 1920'de kurulmuş ve II. Dünya Savaşı sonrası işlevini yitirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-165-6gq6",
+    "topic_id": "topic-guncel",
+    "prompt": "BM barış gücü operasyonlarının maliyeti temel olarak nasıl karşılanır?",
+    "options": [
+      "Sadece ABD tarafından",
+      "Üye devletlerin katkı paylarıyla",
+      "Bağışlarla",
+      "Sadece Güvenlik Konseyi daimi üyelerince",
+      "IMF kredileriyle"
+    ],
+    "answer_index": 1,
+    "explanation": "BM barış gücü operasyonları, üye devletlerin zorunlu katkı paylarıyla finanse edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-166-4ztd",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin resmi olmayan ama kabul görmüş kotasına göre, Genel Sekreterlik makamının bölgesel rotasyon geleneği var mıdır?",
+    "options": [
+      "Hayır, böyle bir gelenek hiçbir zaman oluşmamıştır",
+      "Evet, gayri resmi bir bölgesel rotasyon beklentisi vardır",
+      "Hayır, yalnızca Avrupalı adaylar seçilebilmektedir",
+      "Hayır, yalnızca Asyalı adaylar seçilebilmektedir",
+      "Hayır, yalnızca daimi üye ülkelerin vatandaşları seçilebilir"
+    ],
+    "answer_index": 1,
+    "explanation": "BM Genel Sekreterliği için resmi bir kural olmasa da bölgesel rotasyon beklentisi siyasi gelenek haline gelmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-167-8nrx",
+    "topic_id": "topic-guncel",
+    "prompt": "İslam İşbirliği Teşkilatı'nın (İİT) merkezi hangi şehirdedir?",
+    "options": [
+      "Riyad",
+      "Cidde",
+      "Kahire",
+      "İstanbul",
+      "Rabat"
+    ],
+    "answer_index": 1,
+    "explanation": "İİT'nin genel merkezi Suudi Arabistan'ın Cidde şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-168-7tc3",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT hangi yıl kurulmuştur?",
+    "options": [
+      "1957",
+      "1963",
+      "1969",
+      "1975",
+      "1981"
+    ],
+    "answer_index": 2,
+    "explanation": "İİT, 25 Eylül 1969'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-169-m3c7",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla İİT Genel Sekreteri kimdir?",
+    "options": [
+      "Yusuf bin Ahmed el-Useymin",
+      "Hüseyin İbrahim Taha",
+      "Ekmeleddin İhsanoğlu",
+      "İyad Madani",
+      "Abdullah bin Zayed"
+    ],
+    "answer_index": 1,
+    "explanation": "Çadlı diplomat Hüseyin İbrahim Taha, 2021'den bu yana İİT Genel Sekreteri'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-17-bceq",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla NATO Genel Sekreteri kimdir?",
+    "options": [
+      "Jens Stoltenberg",
+      "Mark Rutte",
+      "Ursula von der Leyen",
+      "Kaja Kallas",
+      "Anders Fogh Rasmussen"
+    ],
+    "answer_index": 1,
+    "explanation": "Eski Hollanda Başbakanı Mark Rutte, 2024'ten itibaren NATO Genel Sekreteri olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-170-k2og",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT'ye üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "35",
+      "45",
+      "57",
+      "65",
+      "75"
+    ],
+    "answer_index": 2,
+    "explanation": "İİT, BM'den sonra en fazla üyeye sahip ikinci büyük hükümetlerarası örgüt olup 57 üyesi bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-171-u56t",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT'nin kuruluş amaçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "İslam dünyasının çıkarlarını korumak ve dayanışmayı güçlendirmek",
+      "Yalnızca üye ülkeler arasında ekonomik birlik oluşturmak",
+      "Üye ülkeler arasında ortak bir ordu kurmak",
+      "Yalnızca bilimsel alanda iş birliği yapmak",
+      "Üye ülkeler için tek bir ortak para birimi oluşturmak"
+    ],
+    "answer_index": 0,
+    "explanation": "İİT, İslam dünyasının ortak çıkarlarını korumak ve üyeler arası dayanışmayı güçlendirmek amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-172-7co9",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye İİT'nin kuruluşundan bu yana üyesi midir?",
+    "options": [
+      "Hayır, sonradan katılmıştır",
+      "Evet, kurucu üyelerdendir",
+      "Hayır, sadece gözlemcidir",
+      "Evet ama üyeliği askıya alınmıştır",
+      "Hayır, hiç üye olmamıştır"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, İİT'nin kuruluşundan itibaren üyesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-173-q5x3",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi (Non-Aligned Movement) hangi Soğuk Savaş bağlamında ortaya çıkmıştır?",
+    "options": [
+      "ABD-Sovyet blokları dışında kalma isteği",
+      "AB'ye alternatif oluşturma",
+      "NATO'ya karşı askeri ittifak kurma",
+      "Sadece Afrika ülkelerini birleştirme",
+      "Petrol fiyatlarını kontrol etme"
+    ],
+    "answer_index": 0,
+    "explanation": "Bağlantısızlar Hareketi, Soğuk Savaş döneminde ABD ve Sovyetler Birliği bloklarının dışında kalmayı amaçlayan ülkelerce kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-174-5bk0",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'nin kurucularından kabul edilen liderlerden biri hangisidir?",
+    "options": [
+      "Josip Broz Tito",
+      "Winston Churchill",
+      "Charles de Gaulle",
+      "Konrad Adenauer",
+      "Franklin Roosevelt"
+    ],
+    "answer_index": 0,
+    "explanation": "Yugoslavya lideri Josip Broz Tito, Bağlantısızlar Hareketi'nin kurucu liderlerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-175-7mnd",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'nin ilk zirvesi hangi şehirde düzenlenmiştir?",
+    "options": [
+      "Belgrad",
+      "Kahire",
+      "Cakarta",
+      "Delhi",
+      "Havana"
+    ],
+    "answer_index": 0,
+    "explanation": "Hareketin ilk zirvesi 1961'de Yugoslavya'nın başkenti Belgrad'da yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-176-5cfq",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'ne üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "50",
+      "80",
+      "120",
+      "150",
+      "180"
+    ],
+    "answer_index": 2,
+    "explanation": "Bağlantısızlar Hareketi, dünya genelinde 120'nin üzerinde üye ülkeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-177-fv3t",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC'in (Asya-Pasifik Ekonomik İşbirliği) temel amacı nedir?",
+    "options": [
+      "Üye ülkeler arasında askeri iş birliği sağlamak",
+      "Asya-Pasifik bölgesinde ekonomik entegrasyonu teşvik etmek",
+      "Bölgedeki insan hakları uygulamalarını izlemek",
+      "Bölgedeki kültürel mirası koruma altına almak",
+      "Yalnızca çevre politikalarını belirlemek ve uygulamak"
+    ],
+    "answer_index": 1,
+    "explanation": "APEC, Asya-Pasifik bölgesindeki ekonomiler arasında serbest ticaret ve yatırımı teşvik etmeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-178-a53e",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC hangi yıl kurulmuştur?",
+    "options": [
+      "1975",
+      "1980",
+      "1989",
+      "1995",
+      "2001"
+    ],
+    "answer_index": 2,
+    "explanation": "APEC, 1989 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-179-arwt",
+    "topic_id": "topic-guncel",
+    "prompt": "Pasifik Adaları Forumu (Pacific Islands Forum) hangi bölgedeki ülkeleri kapsar?",
+    "options": [
+      "Karayipler",
+      "Güney Pasifik",
+      "Kuzey Avrupa",
+      "Orta Doğu",
+      "Batı Afrika"
+    ],
+    "answer_index": 1,
+    "explanation": "Pasifik Adaları Forumu, Avustralya, Yeni Zelanda ve çeşitli Güney Pasifik ada devletlerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-18-tfnm",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye NATO'ya hangi yıl üye olmuştur?",
+    "options": [
+      "1949",
+      "1952",
+      "1955",
+      "1960",
+      "1963"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, Yunanistan ile birlikte 1952 yılında NATO'ya katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-180-yp3m",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC üyeleri resmi olarak ne şekilde anılır?",
+    "options": [
+      "Ülkeler",
+      "Ekonomiler",
+      "Bölgeler",
+      "Cumhuriyetler",
+      "Federasyonlar"
+    ],
+    "answer_index": 1,
+    "explanation": "Tayvan gibi siyasi hassasiyetler nedeniyle APEC üyeleri 'ekonomiler' olarak anılır, 'ülkeler' denmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-181-87sp",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılı APEC zirvesine ev sahipliği yapması beklenen bölge/ülke rotasyon sistemine göre hangi kıtadan bir ülkedir?",
+    "options": [
+      "Avrupa",
+      "Asya-Pasifik",
+      "Afrika",
+      "Güney Amerika (Pasifik kıyısı hariç)",
+      "Orta Doğu"
+    ],
+    "answer_index": 1,
+    "explanation": "APEC üyeleri yalnızca Asya-Pasifik bölgesi ekonomilerinden oluştuğu için ev sahipliği bu bölgeden bir ekonomiye aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-182-s8rq",
+    "topic_id": "topic-guncel",
+    "prompt": "Amerika Devletleri Örgütü'nün (OAS) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Washington D.C.",
+      "Ottawa",
+      "Meksiko",
+      "Bogota"
+    ],
+    "answer_index": 1,
+    "explanation": "OAS'ın genel merkezi Washington D.C.'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-183-wxga",
+    "topic_id": "topic-guncel",
+    "prompt": "Mercosur birliğinin kurucu üyeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Uruguay",
+      "Paraguay",
+      "Kolombiya"
+    ],
+    "answer_index": 4,
+    "explanation": "Kolombiya, Mercosur'un kurucu üyesi değildir; kurucular Brezilya, Arjantin, Uruguay ve Paraguay'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-184-x203",
+    "topic_id": "topic-guncel",
+    "prompt": "NAFTA'nın yerini alan ve ABD, Kanada ile Meksika arasındaki güncel ticaret anlaşması hangisidir?",
+    "options": [
+      "CPTPP",
+      "USMCA",
+      "TPP",
+      "CAFTA",
+      "Mercosur"
+    ],
+    "answer_index": 1,
+    "explanation": "NAFTA'nın yerini 2020'de yürürlüğe giren USMCA (ABD-Meksika-Kanada Anlaşması) almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-185-p93k",
+    "topic_id": "topic-guncel",
+    "prompt": "Karayip Topluluğu'nun (CARICOM) temel amacı nedir?",
+    "options": [
+      "Karayip ülkeleri arasında ekonomik ve siyasi işbirliğini geliştirmek",
+      "Avrupa ülkeleriyle ortak bir askeri ittifak kurmak",
+      "Yalnızca bölgesel turizm faaliyetlerini düzenlemek",
+      "Üye ülkeler adına petrol fiyatlarını belirlemek",
+      "Yalnızca bölgesel spor organizasyonlarını düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": "CARICOM, Karayip bölgesindeki ülkeler arasında ekonomik entegrasyon ve işbirliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-186-c011",
+    "topic_id": "topic-guncel",
+    "prompt": "And Topluluğu'na (Comunidad Andina) üye ülkelerden biri değildir?",
+    "options": [
+      "Bolivya",
+      "Ekvador",
+      "Peru",
+      "Kolombiya",
+      "Şili"
+    ],
+    "answer_index": 4,
+    "explanation": "Şili, And Topluluğu'nun tam üyesi değildir; üyeler Bolivya, Ekvador, Peru ve Kolombiya'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-187-8s41",
+    "topic_id": "topic-guncel",
+    "prompt": "Pasifik İttifakı'nı (Pacific Alliance) oluşturan Latin Amerika ülkeleri hangileridir?",
+    "options": [
+      "Meksika, Kolombiya, Peru, Şili",
+      "Brezilya, Arjantin, Uruguay, Paraguay",
+      "Venezuela, Ekvador, Bolivya, Küba",
+      "Kanada, ABD, Meksika, Küba",
+      "Panama, Kosta Rika, Nikaragua, Honduras"
+    ],
+    "answer_index": 0,
+    "explanation": "Pasifik İttifakı, Meksika, Kolombiya, Peru ve Şili tarafından 2011'de kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-188-c5kx",
+    "topic_id": "topic-guncel",
+    "prompt": "USMCA anlaşması hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "2016",
+      "2018",
+      "2020",
+      "2022",
+      "2024"
+    ],
+    "answer_index": 2,
+    "explanation": "USMCA, 1 Temmuz 2020'de yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-189-91or",
+    "topic_id": "topic-guncel",
+    "prompt": "Amerika Devletleri Örgütü'nün (OAS) üye sayısı yaklaşık kaçtır?",
+    "options": [
+      "15",
+      "25",
+      "35",
+      "45",
+      "55"
+    ],
+    "answer_index": 2,
+    "explanation": "OAS, Amerika kıtasındaki neredeyse tüm bağımsız devletleri kapsayan 35 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-19-tnel",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun kurucu üye sayısı kaçtır?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "16",
+      "20"
+    ],
+    "answer_index": 1,
+    "explanation": "NATO, 1949'da 12 kurucu üye ile kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-190-ouac",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'ye aday ülke statüsünde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Türkiye",
+      "Norveç",
+      "İsviçre",
+      "Birleşik Krallık",
+      "İzlanda (güncel olarak değil)"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye, uzun süredir AB'ye aday ülke statüsünde bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-191-uch7",
+    "topic_id": "topic-guncel",
+    "prompt": "Küba'nın OAS'daki üyeliği ile ilgili durum nedir?",
+    "options": [
+      "Tam üyedir ve aktif katılım sağlar",
+      "1962'de askıya alınmış, üyelik durumu tartışmalıdır",
+      "Örgüte hiçbir zaman üye olmamıştır",
+      "Örgütte yalnızca gözlemci statüsündedir",
+      "Kurucu üyedir ve başkanlık etmektedir"
+    ],
+    "answer_index": 1,
+    "explanation": "Küba'nın OAS üyeliği, 1962'de Soğuk Savaş bağlamında askıya alınmıştır ve durumu o zamandan beri tartışmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-192-t2t8",
+    "topic_id": "topic-guncel",
+    "prompt": "Latin Amerika ve Karayip Devletleri Topluluğu'nun (CELAC) ABD ve Kanada'yı kapsamayan bir bölgesel örgüt olma özelliği nedendir?",
+    "options": [
+      "Sadece Latin Amerika ve Karayip ülkelerini bir araya getirmesi amaçlanmıştır",
+      "ABD ve Kanada'nın coğrafi konumu üyeliğe imkân vermemektedir",
+      "ABD, örgüt üyeliğinden resmi olarak çıkarılmıştır",
+      "Kanada, örgüte hiçbir zaman üyelik başvurusunda bulunmamıştır",
+      "Bu ayrım yalnızca ekonomik nedenlerden kaynaklanmaktadır"
+    ],
+    "answer_index": 0,
+    "explanation": "CELAC, kasıtlı olarak ABD ve Kanada'yı dışarıda bırakan, sadece Latin Amerika ve Karayip ülkelerini kapsayan bir bölgesel platformdur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-193-fki1",
+    "topic_id": "topic-guncel",
+    "prompt": "Batı Afrika Devletleri Ekonomik Topluluğu'nun (ECOWAS) merkezi hangi şehirdedir?",
+    "options": [
+      "Accra",
+      "Abuja",
+      "Dakar",
+      "Lagos",
+      "Bamako"
+    ],
+    "answer_index": 1,
+    "explanation": "ECOWAS'ın genel merkezi Nijerya'nın başkenti Abuja'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-194-lmtu",
+    "topic_id": "topic-guncel",
+    "prompt": "2023-2024 döneminde Mali, Burkina Faso ve Nijer'in ECOWAS ile ilişkisinde yaşanan gelişme nedir?",
+    "options": [
+      "ECOWAS'taki üyeliklerini daha da güçlendirmişlerdir",
+      "ECOWAS'tan çekilme kararı alıp Sahil Devletleri İttifakı'nı (AES) kurmuşlardır",
+      "ECOWAS'a yeni ve gönüllü olarak katılım sağlamışlardır",
+      "ECOWAS'ın dönem başkanlığı görevini üstlenmişlerdir",
+      "Bu ülkelerin ECOWAS ile ilişkisinde hiçbir değişiklik yaşanmamıştır"
+    ],
+    "answer_index": 1,
+    "explanation": "Mali, Burkina Faso ve Nijer, askeri darbeler sonrası ECOWAS'tan çekilme kararı alarak Sahil Devletleri İttifakı'nı (Alliance of Sahel States) kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-195-vfid",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Afrika Kalkınma Topluluğu'nun (SADC) kapsadığı bölge hangisidir?",
+    "options": [
+      "Batı Afrika",
+      "Güney Afrika",
+      "Kuzey Afrika",
+      "Doğu Afrika",
+      "Orta Afrika"
+    ],
+    "answer_index": 1,
+    "explanation": "SADC, Güney Afrika bölgesindeki ülkeleri bir araya getiren bir kalkınma topluluğudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-196-v5jc",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Kıtasal Serbest Ticaret Alanı'nın (AfCFTA) temel amacı nedir?",
+    "options": [
+      "Afrika kıtasında tek bir serbest ticaret pazarı oluşturmak",
+      "Afrika ülkeleri arasında askeri ittifak kurmak",
+      "Sadece Kuzey Afrika ülkelerini kapsamak",
+      "Kıtadaki üye ülkeler arasında petrol üretim kotalarını sınırlamak",
+      "Yalnızca tarım ürünlerinin ticaretini düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": "AfCFTA, Afrika kıtasında tek bir büyük serbest ticaret pazarı oluşturmayı hedefleyen bir anlaşmadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-197-oh5h",
+    "topic_id": "topic-guncel",
+    "prompt": "Doğu Afrika Topluluğu'na (EAC) üye ülkelerden biri hangisidir?",
+    "options": [
+      "Kenya",
+      "Fas",
+      "Cezayir",
+      "Mısır",
+      "Tunus"
+    ],
+    "answer_index": 0,
+    "explanation": "Kenya, Doğu Afrika Topluluğu'nun (EAC) kurucu üyelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-198-4fdu",
+    "topic_id": "topic-guncel",
+    "prompt": "AfCFTA anlaşması hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "2015",
+      "2018",
+      "2019",
+      "2021",
+      "2023"
+    ],
+    "answer_index": 3,
+    "explanation": "AfCFTA, imzalanmasının ardından 2021 yılında ticari işlemler açısından fiilen yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-199-3mwu",
+    "topic_id": "topic-guncel",
+    "prompt": "Nordik Konseyi'ni (Nordic Council) oluşturan ülkeler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Danimarka",
+      "Norveç",
+      "İsveç",
+      "Finlandiya",
+      "Almanya"
+    ],
+    "answer_index": 4,
+    "explanation": "Almanya, Nordik Konseyi üyesi değildir; üyeler Danimarka, Norveç, İsveç, Finlandiya ve İzlanda'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-2-7gzy",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla BM Genel Sekreteri kimdir?",
+    "options": [
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "António Guterres",
+      "Kristalina Georgieva",
+      "Mark Rutte"
+    ],
+    "answer_index": 2,
+    "explanation": "Portekizli António Guterres, 2017'den bu yana BM Genel Sekreteri olarak görev yapmaktadır; görev süresi 31 Aralık 2026'da sona erecektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-20-e76s",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi son yıllarda NATO'ya üye olan ülkelerden biridir?",
+    "options": [
+      "İsveç",
+      "Avusturya",
+      "İsviçre",
+      "Sırbistan",
+      "İrlanda"
+    ],
+    "answer_index": 0,
+    "explanation": "İsveç, uzun süreli askeri tarafsızlık politikasından sonra 2024 yılında NATO'ya katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-200-kvpe",
+    "topic_id": "topic-guncel",
+    "prompt": "Visegrad Grubu'nu oluşturan Orta Avrupa ülkeleri hangileridir?",
+    "options": [
+      "Polonya, Çekya, Slovakya, Macaristan",
+      "Almanya, Fransa, İtalya, İspanya",
+      "Romanya, Bulgaristan, Yunanistan, Sırbistan",
+      "Avusturya, İsviçre, Slovenya, Hırvatistan",
+      "Litvanya, Letonya, Estonya, Polonya"
+    ],
+    "answer_index": 0,
+    "explanation": "Visegrad Grubu (V4), Polonya, Çekya, Slovakya ve Macaristan'dan oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-201-r1ya",
+    "topic_id": "topic-guncel",
+    "prompt": "Üç Deniz Girişimi (Three Seas Initiative) hangi denizler arasındaki bölgeyi kapsar?",
+    "options": [
+      "Baltık, Adriyatik ve Karadeniz",
+      "Akdeniz, Kızıldeniz ve Hint Okyanusu",
+      "Kuzey Denizi, Manş ve Atlantik",
+      "Ege, Marmara ve Karadeniz",
+      "Hazar, Karadeniz ve Akdeniz"
+    ],
+    "answer_index": 0,
+    "explanation": "Üç Deniz Girişimi, Baltık, Adriyatik ve Karadeniz arasında kalan Orta ve Doğu Avrupa ülkelerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-202-bqkw",
+    "topic_id": "topic-guncel",
+    "prompt": "Benelux birliğini oluşturan ülkeler hangileridir?",
+    "options": [
+      "Belçika, Hollanda, Lüksemburg",
+      "Fransa, Almanya, İsviçre",
+      "İtalya, İspanya, Portekiz",
+      "Danimarka, Norveç, İsveç",
+      "Polonya, Çekya, Slovakya"
+    ],
+    "answer_index": 0,
+    "explanation": "Benelux, Belçika, Hollanda ve Lüksemburg'un baş harflerinden oluşan bir ekonomik birliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-203-7gqd",
+    "topic_id": "topic-guncel",
+    "prompt": "Baltık Denizi Devletleri Konseyi hangi tür bir bölgesel işbirliğine odaklanır?",
+    "options": [
+      "Baltık Denizi çevresindeki ülkeler arası bölgesel işbirliği",
+      "Yalnızca üye ülkeler arasındaki askeri savunma iş birliği",
+      "Yalnızca bölgesel uzay araştırmaları alanındaki iş birliği",
+      "Yalnızca ortak kültürel mirasın korunmasına yönelik çalışmalar",
+      "Yalnızca bölgesel spor organizasyonlarının düzenlenmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Baltık Denizi Devletleri Konseyi, bölge ülkeleri arasında ekonomik, çevresel ve siyasi işbirliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-21-ms18",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun kolektif savunma ilkesini içeren maddesi hangisidir?",
+    "options": [
+      "Madde 3",
+      "Madde 4",
+      "Madde 5",
+      "Madde 10",
+      "Madde 12"
+    ],
+    "answer_index": 2,
+    "explanation": "NATO Antlaşması'nın 5. maddesi, bir üyeye saldırının tüm üyelere saldırı sayılacağını belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-22-daq3",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun askeri kanadının en üst komuta merkezi olan SHAPE'in açılımı nedir?",
+    "options": [
+      "Supreme Headquarters Allied Powers Europe",
+      "Southern Headquarters Atlantic Powers Europe",
+      "Strategic Headquarters Allied Political Europe",
+      "Supreme Headquarters Atlantic Political Europe",
+      "Southern Headquarters Allied Political Europe"
+    ],
+    "answer_index": 0,
+    "explanation": "SHAPE, NATO'nun Avrupa'daki en üst düzey askeri komuta merkezidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-23-3q2t",
+    "topic_id": "topic-guncel",
+    "prompt": "2024 yılında İsveç'ten önce en son NATO'ya katılan ülke hangisidir?",
+    "options": [
+      "Finlandiya",
+      "Karadağ",
+      "Kuzey Makedonya",
+      "Arnavutluk",
+      "Hırvatistan"
+    ],
+    "answer_index": 0,
+    "explanation": "Finlandiya, 2023 yılında NATO'ya 31. üye olarak katılmış, İsveç ise 2024'te 32. üye olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-24-gmqh",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO üyelerinin savunma harcamalarını GSYH'nin yüzde kaçına çıkarma hedefi geleneksel olarak belirlenmiştir?",
+    "options": [
+      "%1",
+      "%2",
+      "%3",
+      "%4",
+      "%5"
+    ],
+    "answer_index": 1,
+    "explanation": "NATO üyeleri, savunma harcamalarını GSYH'nin en az %2'sine çıkarma hedefini benimsemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-25-71rc",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin (AB) merkezi kabul edilen şehir hangisidir?",
+    "options": [
+      "Strazburg",
+      "Brüksel",
+      "Lüksemburg",
+      "Frankfurt",
+      "Berlin"
+    ],
+    "answer_index": 1,
+    "explanation": "AB'nin idari merkezi kabul edilen şehir Brüksel'dir; Avrupa Parlamentosu Strazburg'da toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-26-bmks",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Avrupa Komisyonu Başkanı kimdir?",
+    "options": [
+      "Jean-Claude Juncker",
+      "Ursula von der Leyen",
+      "Charles Michel",
+      "David Sassoli",
+      "Kaja Kallas"
+    ],
+    "answer_index": 1,
+    "explanation": "Ursula von der Leyen, 2019'dan bu yana Avrupa Komisyonu Başkanlığı görevini yürütmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-27-kitr",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'ni kuran temel antlaşma hangisidir?",
+    "options": [
+      "Roma Antlaşması",
+      "Maastricht Antlaşması",
+      "Lizbon Antlaşması",
+      "Nice Antlaşması",
+      "Amsterdam Antlaşması"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Birliği, 1992'de imzalanan Maastricht Antlaşması ile resmen kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-28-zvcb",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin ortak para birimi olan Euro hangi yıl fiziksel olarak tedavüle girmiştir?",
+    "options": [
+      "1999",
+      "2000",
+      "2002",
+      "2004",
+      "2007"
+    ],
+    "answer_index": 2,
+    "explanation": "Euro, 1999'da hesap parası olarak, 2002'de ise banknot ve madeni para olarak kullanılmaya başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-29-zsuf",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'ne üye ülke sayısı Birleşik Krallık'ın ayrılmasından (Brexit) sonra kaça düşmüştür?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "30"
+    ],
+    "answer_index": 2,
+    "explanation": "Birleşik Krallık'ın 2020'de ayrılmasıyla AB üye sayısı 27'ye düşmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-3-9sex",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Güvenlik Konseyi'nin daimi (veto yetkili) üye sayısı kaçtır?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10",
+      "15"
+    ],
+    "answer_index": 1,
+    "explanation": "Güvenlik Konseyi'nin ABD, Rusya, Çin, Fransa ve Birleşik Krallık olmak üzere 5 daimi üyesi vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-30-kypy",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi Avrupa Birliği üyesi değildir?",
+    "options": [
+      "Portekiz",
+      "Norveç",
+      "İrlanda",
+      "Hollanda",
+      "Malta"
+    ],
+    "answer_index": 1,
+    "explanation": "Norveç, Avrupa Ekonomik Alanı üyesi olmasına rağmen AB üyesi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-31-pbfl",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Parlamentosu'nun resmi olarak toplandığı şehir hangisidir?",
+    "options": [
+      "Brüksel",
+      "Lüksemburg",
+      "Strazburg",
+      "Frankfurt",
+      "Viyana"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa Parlamentosu genel oturumları Fransa'nın Strazburg şehrinde yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-32-ayb0",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Merkez Bankası'nın (ECB) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Berlin",
+      "Frankfurt",
+      "Paris",
+      "Amsterdam"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa Merkez Bankası, Almanya'nın Frankfurt şehrinde konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-33-qaw9",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye AB'ye tam üyelik başvurusunu hangi yıl yapmıştır?",
+    "options": [
+      "1959",
+      "1963",
+      "1987",
+      "1999",
+      "2005"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, Avrupa Ekonomik Topluluğu'na tam üyelik başvurusunu 1987 yılında yapmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-34-sj4i",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye ile AB arasındaki Gümrük Birliği hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "1987",
+      "1995",
+      "1999",
+      "2005",
+      "2016"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye-AB Gümrük Birliği, 1 Ocak 1996'da (kararı 1995'te alınarak) yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-35-ziwj",
+    "topic_id": "topic-guncel",
+    "prompt": "AB Konseyi Daimi Başkanı (Avrupa Konseyi Başkanı) olarak görev yapan isim kimdir?",
+    "options": [
+      "Ursula von der Leyen",
+      "António Costa",
+      "Charles Michel",
+      "Roberta Metsola",
+      "Kaja Kallas"
+    ],
+    "answer_index": 1,
+    "explanation": "Portekizli António Costa, Aralık 2024 itibarıyla Avrupa Konseyi Başkanlığı görevini üstlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-36-rmu2",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi kimdir?",
+    "options": [
+      "Josep Borrell",
+      "Federica Mogherini",
+      "Kaja Kallas",
+      "Ursula von der Leyen",
+      "Charles Michel"
+    ],
+    "answer_index": 2,
+    "explanation": "Estonyalı Kaja Kallas, 2024 sonu itibarıyla AB Yüksek Temsilcisi olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-37-zygw",
+    "topic_id": "topic-guncel",
+    "prompt": "Schengen bölgesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Sadece AB üyeleri Schengen'e dahildir",
+      "İç sınır kontrollerinin kaldırıldığı bir alandır",
+      "Ortak para birimi anlaşmasıdır",
+      "Sadece ticari malların serbest dolaşımını kapsar",
+      "AB'nin savunma politikasıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Schengen Anlaşması, üye ülkeler arasında pasaport kontrolü olmadan seyahati mümkün kılar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-38-hnu7",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Sayıştayı'nın merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Lüksemburg",
+      "Strazburg",
+      "Frankfurt",
+      "Lahey"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Sayıştayı, Lüksemburg'da konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-39-9di1",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin en son katılan üyesi hangisidir?",
+    "options": [
+      "Hırvatistan",
+      "Bulgaristan",
+      "Romanya",
+      "Kıbrıs",
+      "Slovenya"
+    ],
+    "answer_index": 0,
+    "explanation": "Hırvatistan, 2013 yılında AB'ye katılan en son üye ülkedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-4-9mqs",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdakilerden hangisi BM Güvenlik Konseyi'nin daimi üyelerinden biri değildir?",
+    "options": [
+      "Fransa",
+      "Rusya",
+      "Çin",
+      "Almanya",
+      "ABD"
+    ],
+    "answer_index": 3,
+    "explanation": "Almanya, Güvenlik Konseyi'nin daimi üyesi değildir; daimi üyeler ABD, Rusya, Çin, Fransa ve İngiltere'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-40-e4sa",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Para Fonu'nun (IMF) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Washington D.C.",
+      "Cenevre",
+      "Londra",
+      "Paris"
+    ],
+    "answer_index": 1,
+    "explanation": "IMF'nin genel merkezi ABD'nin başkenti Washington D.C.'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-41-lnlm",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla IMF Başkanı (Genel Müdürü) kimdir?",
+    "options": [
+      "Christine Lagarde",
+      "Kristalina Georgieva",
+      "Ajay Banga",
+      "Janet Yellen",
+      "Gita Gopinath"
+    ],
+    "answer_index": 1,
+    "explanation": "Bulgar ekonomist Kristalina Georgieva, 2019'dan bu yana IMF Genel Müdürü olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-42-uw71",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF hangi yıl kurulmuştur?",
+    "options": [
+      "1930",
+      "1944",
+      "1948",
+      "1955",
+      "1960"
+    ],
+    "answer_index": 1,
+    "explanation": "IMF, 1944'te Bretton Woods Konferansı sonucunda kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-43-lej2",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'nin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Üye ülkeler arasında askeri iş birliği sağlamak",
+      "Küresel para ve finansal istikrarı desteklemek",
+      "Dünya genelinde kültürel mirası korumak",
+      "Uluslararası ticareti düzenlemek",
+      "İnsan haklarını denetlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "IMF, üye ülkelere ödemeler dengesi sorunlarında destek sağlayarak küresel finansal istikrarı desteklemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-44-qei0",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF geleneksel olarak hangi bölgeden bir başkan tarafından yönetilir?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Gayri resmi bir gelenek olarak IMF Başkanlığı genellikle bir Avrupalıya, Dünya Bankası Başkanlığı ise bir Amerikalıya verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-45-ctgj",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'nin özel çekme hakkı birimi hangi kısaltma ile bilinir?",
+    "options": [
+      "SDR",
+      "SWIFT",
+      "FDI",
+      "GDP",
+      "ODA"
+    ],
+    "answer_index": 0,
+    "explanation": "SDR (Special Drawing Rights - Özel Çekme Hakkı), IMF'nin oluşturduğu uluslararası rezerv varlığıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-46-dtv6",
+    "topic_id": "topic-guncel",
+    "prompt": "Bretton Woods sisteminin ürünü olan iki kuruluş hangileridir?",
+    "options": [
+      "BM ve NATO",
+      "IMF ve Dünya Bankası",
+      "WTO ve OECD",
+      "AB ve WHO",
+      "G7 ve G20"
+    ],
+    "answer_index": 1,
+    "explanation": "1944 Bretton Woods Konferansı, IMF ve Dünya Bankası'nın kuruluşuna öncülük etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-47-ze1e",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'de üye ülkelerin oy gücü genellikle neye göre belirlenir?",
+    "options": [
+      "Nüfus",
+      "Kota (mali katkı payı)",
+      "Coğrafi büyüklük",
+      "Askeri güç",
+      "Üyelik süresi"
+    ],
+    "answer_index": 1,
+    "explanation": "IMF'de oy gücü, üye ülkenin kuruma yaptığı mali katkıyı yansıtan kotasına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-48-vtxl",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası Grubu'nun merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Washington D.C.",
+      "Cenevre",
+      "Paris",
+      "Londra"
+    ],
+    "answer_index": 1,
+    "explanation": "Dünya Bankası, IMF gibi Washington D.C.'de konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-49-1fn8",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Dünya Bankası Başkanı kimdir?",
+    "options": [
+      "David Malpass",
+      "Jim Yong Kim",
+      "Ajay Banga",
+      "Kristalina Georgieva",
+      "Robert Zoellick"
+    ],
+    "answer_index": 2,
+    "explanation": "Ajay Banga, 2023'ten bu yana Dünya Bankası Başkanı olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-5-wfhd",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Güvenlik Konseyi'nin geçici (dönemsel) üye sayısı kaçtır?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer_index": 2,
+    "explanation": "Güvenlik Konseyi'nde 5 daimi, 10 geçici olmak üzere toplam 15 üye bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-50-uogq",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası'nın temel misyonu aşağıdakilerden hangisidir?",
+    "options": [
+      "Uluslararası ticareti serbestleştirmek",
+      "Yoksulluğu azaltmak ve kalkınmayı desteklemek",
+      "Küresel para politikasını yönetmek",
+      "Askeri güvenliği sağlamak",
+      "İklim anlaşmalarını denetlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Dünya Bankası, gelişmekte olan ülkelere kalkınma projeleri için finansman ve teknik destek sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-51-teyi",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası Grubu'na bağlı, özel sektöre yatırım yapan kuruluş hangisidir?",
+    "options": [
+      "IDA",
+      "IBRD",
+      "IFC",
+      "MIGA",
+      "ICSID"
+    ],
+    "answer_index": 2,
+    "explanation": "IFC (Uluslararası Finans Kurumu), Dünya Bankası Grubu içinde özel sektör yatırımlarına odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-52-2v97",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası'nın en yoksul ülkelere düşük faizli/faizsiz kredi sağlayan birimi hangisidir?",
+    "options": [
+      "IBRD",
+      "IDA",
+      "IFC",
+      "MIGA",
+      "WTO"
+    ],
+    "answer_index": 1,
+    "explanation": "IDA (Uluslararası Kalkınma Birliği), en yoksul ülkelere uygun koşullu finansman sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-53-ub6c",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası hangi yıl kurulmuştur?",
+    "options": [
+      "1930",
+      "1944",
+      "1950",
+      "1960",
+      "1970"
+    ],
+    "answer_index": 1,
+    "explanation": "Dünya Bankası, IMF ile birlikte 1944 Bretton Woods Konferansı'nda kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-54-szx9",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Sağlık Örgütü'nün (WHO/DSÖ) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Cenevre",
+      "Paris",
+      "Roma",
+      "Viyana"
+    ],
+    "answer_index": 1,
+    "explanation": "DSÖ'nün genel merkezi İsviçre'nin Cenevre şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-55-h999",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla DSÖ Genel Direktörü kimdir?",
+    "options": [
+      "Margaret Chan",
+      "Tedros Adhanom Ghebreyesus",
+      "Ngozi Okonjo-Iweala",
+      "Peter Piot",
+      "Soumya Swaminathan"
+    ],
+    "answer_index": 1,
+    "explanation": "Etiyopyalı Tedros Adhanom Ghebreyesus, 2017'den bu yana DSÖ Genel Direktörü'dür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-56-rk2n",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1946",
+      "1948",
+      "1950",
+      "1955"
+    ],
+    "answer_index": 2,
+    "explanation": "DSÖ, 7 Nisan 1948'de kurulmuştur; bu tarih Dünya Sağlık Günü olarak kutlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-57-3kgx",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ'nün 2020 yılında ilan ettiği COVID-19 salgını hangi düzeyde bir acil durum olarak sınıflandırılmıştır?",
+    "options": [
+      "Bölgesel salgın",
+      "Pandemi",
+      "Endemik hastalık",
+      "Epidemik uyarı",
+      "Yerel kriz"
+    ],
+    "answer_index": 1,
+    "explanation": "DSÖ, Mart 2020'de COVID-19'u küresel pandemi olarak ilan etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-58-03ed",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ, BM'nin hangi tür kuruluşları arasında yer alır?",
+    "options": [
+      "Yardımcı organ",
+      "Uzmanlık kuruluşu",
+      "Bağımsız STK",
+      "Askeri ittifak",
+      "Ticaret bloğu"
+    ],
+    "answer_index": 1,
+    "explanation": "DSÖ, BM'nin sağlık alanındaki uzmanlık kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-59-moob",
+    "topic_id": "topic-guncel",
+    "prompt": "ABD, DSÖ'den çekilme kararını hangi dönemde yeniden gündeme getirmiştir?",
+    "options": [
+      "Obama döneminde",
+      "Biden'ın ikinci döneminde",
+      "Trump'ın ikinci döneminde",
+      "Clinton döneminde",
+      "Bush döneminde"
+    ],
+    "answer_index": 2,
+    "explanation": "Donald Trump, ikinci başkanlık döneminde ABD'yi DSÖ'den çekme kararını yeniden imzalamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-6-8yi6",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'ye üye ülke sayısı günümüzde kaçtır?",
+    "options": [
+      "185",
+      "189",
+      "193",
+      "197",
+      "200"
+    ],
+    "answer_index": 2,
+    "explanation": "BM'nin 193 üye devleti bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-60-4lw3",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ'nün bulaşıcı olmayan hastalıklarla mücadele kapsamında öncelik verdiği alanlardan biri değildir?",
+    "options": [
+      "Kalp-damar hastalıkları",
+      "Kanser",
+      "Diyabet",
+      "Sıtma",
+      "Kronik solunum hastalıkları"
+    ],
+    "answer_index": 3,
+    "explanation": "Sıtma bulaşıcı bir hastalıktır; DSÖ'nün bulaşıcı olmayan hastalık önceliklerinde yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-61-iqns",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Sağlık Asamblesi hangi organın karar alma organıdır?",
+    "options": [
+      "IMF",
+      "DSÖ",
+      "Dünya Bankası",
+      "UNESCO",
+      "FAO"
+    ],
+    "answer_index": 1,
+    "explanation": "Dünya Sağlık Asamblesi, DSÖ'nün en üst karar alma organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-62-2dg1",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Ticaret Örgütü'nün (WTO) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Brüksel",
+      "New York",
+      "Paris",
+      "Viyana"
+    ],
+    "answer_index": 0,
+    "explanation": "WTO'nun genel merkezi Cenevre'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-63-bcot",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla WTO Genel Direktörü kimdir?",
+    "options": [
+      "Roberto Azevêdo",
+      "Ngozi Okonjo-Iweala",
+      "Pascal Lamy",
+      "Kristalina Georgieva",
+      "Tedros Adhanom"
+    ],
+    "answer_index": 1,
+    "explanation": "Nijeryalı-Amerikalı Ngozi Okonjo-Iweala, 2021'den bu yana WTO Genel Direktörü'dür ve bu görevi üstlenen ilk kadın ve ilk Afrikalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-64-zbpm",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO hangi yıl kurulmuştur?",
+    "options": [
+      "1944",
+      "1948",
+      "1957",
+      "1995",
+      "2001"
+    ],
+    "answer_index": 3,
+    "explanation": "WTO, GATT'ın yerini alarak 1995 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-65-x5v4",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO'dan önce uluslararası ticareti düzenleyen anlaşma hangisidir?",
+    "options": [
+      "Bretton Woods Anlaşması",
+      "GATT",
+      "Marshall Planı",
+      "Roma Antlaşması",
+      "Lizbon Antlaşması"
+    ],
+    "answer_index": 1,
+    "explanation": "GATT (Gümrük Tarifeleri ve Ticaret Genel Anlaşması), WTO kurulmadan önce ticareti düzenlemekteydi.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-66-h9iv",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO'nun temel işlevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Üye ülkeler arasındaki askeri anlaşmazlıkları çözmek",
+      "Uluslararası ticaret kurallarını belirlemek ve anlaşmazlıkları çözmek",
+      "Küresel para politikalarını belirleyip yönetmek",
+      "Uluslararası sağlık standartlarını belirlemek",
+      "Küresel iklim değişikliğiyle etkin biçimde mücadele etmek"
+    ],
+    "answer_index": 1,
+    "explanation": "WTO, üye ülkeler arasındaki ticareti düzenleyen kuralları belirler ve ticari uyuşmazlıkları çözer.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-67-rxhf",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi WTO üyesi değildir?",
+    "options": [
+      "Türkiye",
+      "Almanya",
+      "Brezilya",
+      "Kuzey Kore",
+      "Japonya"
+    ],
+    "answer_index": 3,
+    "explanation": "Kuzey Kore, WTO üyesi olmayan az sayıdaki ülkeden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-68-53w1",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD'nin (Ekonomik Kalkınma ve İşbirliği Örgütü) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "Brüksel",
+      "Londra",
+      "Berlin"
+    ],
+    "answer_index": 1,
+    "explanation": "OECD'nin genel merkezi Fransa'nın başkenti Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-69-ne0z",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla OECD Genel Sekreteri kimdir?",
+    "options": [
+      "Angel Gurría",
+      "Mathias Cormann",
+      "José Ángel Gurría",
+      "Ngozi Okonjo-Iweala",
+      "Christine Lagarde"
+    ],
+    "answer_index": 1,
+    "explanation": "Avustralyalı Mathias Cormann, 2021'den bu yana OECD Genel Sekreteri olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-7-dgro",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Genel Kurulu'nda her üye ülkenin sahip olduğu oy sayısı kaçtır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Nüfusa göre değişir",
+      "GSYH'ye göre değişir"
+    ],
+    "answer_index": 0,
+    "explanation": "Genel Kurul'da her üye devletin eşit olarak 1 oy hakkı vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-70-239b",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD hangi yıl kurulmuştur?",
+    "options": [
+      "1948",
+      "1955",
+      "1961",
+      "1970",
+      "1975"
+    ],
+    "answer_index": 2,
+    "explanation": "OECD, 1961 yılında Marshall Planı'nı yöneten OEEC'nin devamı olarak kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-71-odxs",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye OECD'nin kurucu üyelerinden biri midir?",
+    "options": [
+      "Evet, kurucu üyedir",
+      "Hayır, 1980'de katılmıştır",
+      "Hayır, 2000'de katılmıştır",
+      "Hayır, henüz üye değildir",
+      "Sadece gözlemci statüsündedir"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye, OECD'nin 1961'deki kurucu üyelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-72-1xg8",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD üyeliği genellikle hangi tür ülkeleri kapsar?",
+    "options": [
+      "Sadece Avrupa ülkeleri",
+      "Genellikle gelişmiş piyasa ekonomileri",
+      "Sadece petrol ihracatçısı ülkeler",
+      "Sadece BM Güvenlik Konseyi üyeleri",
+      "Sadece Asya ülkeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "OECD, çoğunlukla gelişmiş piyasa ekonomilerini bir araya getiren bir kuruluştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-73-b93l",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD'nin üç harfli ismi Türkçede neyin kısaltmasıdır?",
+    "options": [
+      "Ekonomik Kalkınma ve İşbirliği Örgütü",
+      "Avrupa Kalkınma ve İşbirliği Örgütü",
+      "Ekonomik Ticaret ve Kalkınma Örgütü",
+      "Dünya Kalkınma ve İşbirliği Örgütü",
+      "Ekonomik Güvenlik ve İşbirliği Örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "OECD, Türkçede Ekonomik Kalkınma ve İşbirliği Örgütü olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-74-ggak",
+    "topic_id": "topic-guncel",
+    "prompt": "G7 grubuna aşağıdaki ülkelerden hangisi dahil değildir?",
+    "options": [
+      "Almanya",
+      "Japonya",
+      "İtalya",
+      "Çin",
+      "Kanada"
+    ],
+    "answer_index": 3,
+    "explanation": "Çin, G7 üyesi değildir; G7 üyeleri ABD, Kanada, Almanya, Fransa, İtalya, Japonya ve İngiltere'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-75-iqbe",
+    "topic_id": "topic-guncel",
+    "prompt": "G20 grubu hangi tür ülkeleri temsil eder?",
+    "options": [
+      "Yalnızca gelişmiş Batılı ülkeleri",
+      "Yalnızca gelişmekte olan yoksul ülkeleri",
+      "Gelişmiş ve gelişmekte olan büyük ekonomiler",
+      "Sadece Avrupa ülkeleri",
+      "Sadece Asya-Pasifik ülkeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "G20, dünyanın en büyük gelişmiş ve gelişmekte olan ekonomilerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-76-l09k",
+    "topic_id": "topic-guncel",
+    "prompt": "G20'nin kalıcı bir merkezi/sekreteryası var mıdır?",
+    "options": [
+      "Evet, merkezi İsviçre'nin Cenevre şehrindedir",
+      "Evet, merkezi Belçika'nın Brüksel şehrindedir",
+      "Hayır, dönem başkanlığı sistemiyle yürütülür",
+      "Evet, merkezi ABD'nin New York şehrindedir",
+      "Evet, merkezi ABD'nin Washington şehrindedir"
+    ],
+    "answer_index": 2,
+    "explanation": "G20'nin sabit bir sekreteryası yoktur; her yıl dönem başkanlığını üstlenen ülke zirveyi organize eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-77-8cex",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye G20'nin üyesi midir?",
+    "options": [
+      "Hayır",
+      "Evet, kurucu üyelerdendir",
+      "Sadece gözlemci statüsündedir",
+      "Hayır, sadece G7'ye üyedir",
+      "Evet ama geçici üyedir"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, G20'nin 1999'daki kuruluşundan bu yana daimi üyesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-78-ye9p",
+    "topic_id": "topic-guncel",
+    "prompt": "G7 zirvelerinde Avrupa Birliği'nin konumu nedir?",
+    "options": [
+      "Tam üye değildir ama zirvelere katılır",
+      "Grubun tam ve eşit haklara sahip üyesidir",
+      "Zirvelere hiçbir şekilde katılım sağlamaz",
+      "Sadece gözlemcidir ama oy hakkı yoktur",
+      "Grubun yalnızca dönemsel olarak değişen bir üyesidir"
+    ],
+    "answer_index": 0,
+    "explanation": "AB, G7'nin resmi üyesi olmamakla birlikte zirvelere düzenli olarak katılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-79-o0pa",
+    "topic_id": "topic-guncel",
+    "prompt": "G20 zirvelerinin dönem başkanlığı sistemi nasıl işler?",
+    "options": [
+      "Sabit bir ülke her zaman başkanlık eder",
+      "Her yıl farklı bir üye ülke rotasyonla başkanlık eder",
+      "BM Genel Sekreteri başkanlık eder",
+      "En büyük ekonomiye sahip ülke sürekli başkanlık eder",
+      "Başkanlık kurası her ay çekilir"
+    ],
+    "answer_index": 1,
+    "explanation": "G20 dönem başkanlığı, üye ülkeler arasında yıllık rotasyon esasına göre belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-8-h1fc",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki kuruluşlardan hangisi BM'nin uzmanlık kuruluşlarından biri değildir?",
+    "options": [
+      "UNESCO",
+      "WHO",
+      "IMF",
+      "NATO",
+      "ILO"
+    ],
+    "answer_index": 3,
+    "explanation": "NATO bağımsız bir askeri ittifaktır ve BM'nin uzmanlık kuruluşu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-80-xofx",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılı G20 dönem başkanlığını hangi ülke üstlenmektedir?",
+    "options": [
+      "Brezilya",
+      "Hindistan",
+      "Güney Afrika",
+      "ABD",
+      "Fransa"
+    ],
+    "answer_index": 2,
+    "explanation": "Güney Afrika, 2025 yılı için G20 dönem başkanlığını üstlenmiş, ardından başkanlık ABD'ye geçmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-81-geps",
+    "topic_id": "topic-guncel",
+    "prompt": "G7'nin kökeni hangi krizle ilişkilidir?",
+    "options": [
+      "1970'lerdeki petrol krizi",
+      "2008 küresel finans krizi",
+      "1997 Asya krizi",
+      "1929 Büyük Buhran",
+      "2020 pandemi krizi"
+    ],
+    "answer_index": 0,
+    "explanation": "G7, 1970'lerdeki petrol krizi ve ekonomik durgunluk sonrası sanayileşmiş ülkelerin koordinasyon ihtiyacıyla ortaya çıkmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-82-og6l",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO'nun açılımı nedir?",
+    "options": [
+      "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü",
+      "Birleşmiş Milletler Ekonomik ve Sosyal Konseyi",
+      "Birleşmiş Milletler Çevre Programı",
+      "Birleşmiş Milletler Kalkınma Fonu",
+      "Birleşmiş Milletler Sağlık Örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "UNESCO, eğitim, bilim ve kültür alanlarında faaliyet gösteren BM uzmanlık kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-83-wn2x",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO'nun merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "Roma",
+      "Viyana",
+      "Londra"
+    ],
+    "answer_index": 1,
+    "explanation": "UNESCO'nun genel merkezi Fransa'nın başkenti Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-84-2zto",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO Dünya Mirası Listesi neyi kapsar?",
+    "options": [
+      "Yalnızca korunan doğal alanları ve milli parkları",
+      "Yalnızca tarihi öneme sahip eski kentleri",
+      "Kültürel, doğal ve karma değerdeki alanları",
+      "Yalnızca dünyaca ünlü büyük müzeleri",
+      "Yalnızca nesli tükenmekte olan dilleri"
+    ],
+    "answer_index": 2,
+    "explanation": "UNESCO Dünya Mirası Listesi, üstün evrensel değere sahip kültürel, doğal ve karma alanları içerir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-85-wmdz",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin UNESCO Dünya Mirası Listesi'nde yer alan alanlarından biri hangisidir?",
+    "options": [
+      "Efes",
+      "Nemrut Dağı",
+      "Göbeklitepe",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Efes, Nemrut Dağı ve Göbeklitepe dahil olmak üzere Türkiye'nin çok sayıda alanı UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-86-y046",
+    "topic_id": "topic-guncel",
+    "prompt": "ABD, UNESCO'dan hangi dönemde ikinci kez çekilme kararı almıştır?",
+    "options": [
+      "Obama döneminde",
+      "Trump'ın ilk döneminde",
+      "Biden döneminde",
+      "Clinton döneminde",
+      "Bush döneminde"
+    ],
+    "answer_index": 1,
+    "explanation": "ABD, Trump'ın ilk başkanlık döneminde 2017'de UNESCO'dan çekilme kararı almış, sonrasında yeniden katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-87-quf4",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1946",
+      "1948",
+      "1950",
+      "1960"
+    ],
+    "answer_index": 1,
+    "explanation": "UNESCO, 1945'te imzalanan kuruluş sözleşmesiyle 1946'da resmen faaliyete geçmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-88-t2hb",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in temel odak alanı nedir?",
+    "options": [
+      "Yaşlı hakları",
+      "Çocuk hakları ve refahı",
+      "Çevre koruma",
+      "Ticaret politikaları",
+      "Askeri güvenlik"
+    ],
+    "answer_index": 1,
+    "explanation": "UNICEF, dünya çapında çocukların sağlık, eğitim ve korunma haklarını desteklemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-89-kfs3",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF hangi yıl kurulmuştur?",
+    "options": [
+      "1946",
+      "1948",
+      "1950",
+      "1955",
+      "1960"
+    ],
+    "answer_index": 0,
+    "explanation": "UNICEF, II. Dünya Savaşı sonrası çocuklara yardım amacıyla 1946'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-9-tgl7",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Çocuklara Yardım Fonu'nun kısaltması nedir?",
+    "options": [
+      "UNDP",
+      "UNICEF",
+      "UNHCR",
+      "UNFPA",
+      "UNEP"
+    ],
+    "answer_index": 1,
+    "explanation": "UNICEF, Birleşmiş Milletler Çocuklara Yardım Fonu'dur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-90-1fmr",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "New York",
+      "Paris",
+      "Roma",
+      "Londra"
+    ],
+    "answer_index": 1,
+    "explanation": "UNICEF'in genel merkezi New York'tadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-91-1yfy",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in çalışmalarına örnek olarak aşağıdakilerden hangisi verilebilir?",
+    "options": [
+      "Aşılama kampanyaları",
+      "Eğitime erişim programları",
+      "Beslenme destek projeleri",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "UNICEF; aşılama, eğitim ve beslenme gibi birçok alanda çocuklara yönelik projeler yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-92-s3h6",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF, BM sistemi içinde hangi tür bir kuruluştur?",
+    "options": [
+      "Bağımsız uluslararası örgüt",
+      "BM'nin bir programı/fonu",
+      "STK",
+      "Askeri ittifak",
+      "Ticaret örgütü"
+    ],
+    "answer_index": 1,
+    "explanation": "UNICEF, BM Genel Kurulu'na bağlı bir program/fon olarak faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-93-no3h",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Kızılhaç Komitesi'nin (ICRC) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "New York",
+      "Roma",
+      "Viyana"
+    ],
+    "answer_index": 0,
+    "explanation": "ICRC'nin merkezi Cenevre'dedir ve kuruluşu İsviçreli Henry Dunant'a dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-94-4zn0",
+    "topic_id": "topic-guncel",
+    "prompt": "Kızılhaç ve Kızılay hareketinin kurucusu kabul edilen kişi kimdir?",
+    "options": [
+      "Henry Dunant",
+      "Florence Nightingale",
+      "Jean Pictet",
+      "Gustave Moynier",
+      "Albert Schweitzer"
+    ],
+    "answer_index": 0,
+    "explanation": "İsviçreli iş insanı Henry Dunant, Kızılhaç hareketinin kurucusu kabul edilir ve ilk Nobel Barış Ödülü'nü almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-95-wdwt",
+    "topic_id": "topic-guncel",
+    "prompt": "Müslüman ülkelerde Kızılhaç yerine kullanılan sembol hangisidir?",
+    "options": [
+      "Kızılyıldız",
+      "Kızılay (Kızıl Hilal)",
+      "Kızıl Güneş",
+      "Kızıl Çapraz",
+      "Yeşilhaç"
+    ],
+    "answer_index": 1,
+    "explanation": "İslam ülkelerinde Kızılhaç yerine Kızılay (Kızıl Hilal) sembolü kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-96-cxti",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Kızılayı hangi yıl kurulmuştur?",
+    "options": [
+      "1868",
+      "1877",
+      "1920",
+      "1935",
+      "1950"
+    ],
+    "answer_index": 1,
+    "explanation": "Osmanlı Hilal-i Ahmer Cemiyeti (bugünkü Türk Kızılayı), 1868 yılında kurulmuştur; bazı kaynaklarda faaliyete geçiş 1877 Osmanlı-Rus Savaşı dönemine denk gelir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-97-7l45",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği'nin (AU) merkezi hangi şehirdedir?",
+    "options": [
+      "Kahire",
+      "Addis Ababa",
+      "Nairobi",
+      "Johannesburg",
+      "Lagos"
+    ],
+    "answer_index": 1,
+    "explanation": "Afrika Birliği'nin merkezi Etiyopya'nın başkenti Addis Ababa'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-98-x6y9",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği hangi örgütün yerine kurulmuştur?",
+    "options": [
+      "Afrika Birliği Örgütü (OAU)",
+      "Arap Birliği (Arap Devletleri Ligi)",
+      "Commonwealth (İngiliz Milletler Topluluğu)",
+      "Frankofoni Örgütü (Fransızca Konuşan Ülkeler)",
+      "BRICS (Brezilya, Rusya, Hindistan, Çin, Güney Afrika)"
+    ],
+    "answer_index": 0,
+    "explanation": "Afrika Birliği, 2002 yılında Afrika Birliği Örgütü'nün (OAU) yerini alarak kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64m-99-zrnm",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği kaç Afrika ülkesini kapsamaktadır (yaklaşık)?",
+    "options": [
+      "25",
+      "35",
+      "45",
+      "55",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "Afrika Birliği, kıtadaki neredeyse tüm ülkeleri kapsayan 55 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-204-kgis",
+    "topic_id": "topic-guncel",
+    "prompt": "Visegrad Grubu hangi yıl kurulmuştur?",
+    "options": [
+      "1985",
+      "1991",
+      "1995",
+      "2000",
+      "2004"
+    ],
+    "answer_index": 1,
+    "explanation": "Visegrad Grubu, 1991 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-205-ns12",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Serbest Ticaret Birliği'ne (EFTA) üye ülkelerden biri değildir?",
+    "options": [
+      "Norveç",
+      "İsviçre",
+      "İzlanda",
+      "Lihtenştayn",
+      "Danimarka"
+    ],
+    "answer_index": 4,
+    "explanation": "Danimarka, AB üyesi olduğu için EFTA üyesi değildir; EFTA üyeleri Norveç, İsviçre, İzlanda ve Lihtenştayn'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-206-9m6m",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Ekonomik Alanı (EEA) hangi grupları bir araya getirir?",
+    "options": [
+      "AB üyeleri ve bazı EFTA ülkeleri",
+      "Sadece AB üyeleri",
+      "Sadece NATO üyeleri",
+      "Sadece Balkan ülkeleri",
+      "Sadece Baltık ülkeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "EEA, AB üyelerini ve EFTA üyelerinden Norveç, İzlanda ile Lihtenştayn'ı ortak pazar çerçevesinde birleştirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-207-i6mu",
+    "topic_id": "topic-guncel",
+    "prompt": "Arktik Konseyi'nin (Arctic Council) temel çalışma alanı nedir?",
+    "options": [
+      "Kutup bölgesinde çevre koruma ve sürdürülebilir kalkınma",
+      "Üye ülkeler arasında ortak askeri tatbikatlar düzenlemek",
+      "Yalnızca bölgesel balıkçılık düzenlemelerini belirlemek",
+      "Kutup bölgesinde uzay araştırmaları yürütmek",
+      "Üye ülkeler arasındaki ticaret anlaşmazlıklarını çözmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Arktik Konseyi, Kuzey Kutup bölgesindeki çevre koruma ve sürdürülebilir kalkınma konularında işbirliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-18T11:20:18.739772+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-208-4ca3",
+    "topic_id": "topic-guncel",
+    "prompt": "Arktik Konseyi'nin daimi üyeleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Rusya",
+      "Kanada",
+      "ABD",
+      "Norveç",
+      "Almanya"
+    ],
+    "answer_index": 4,
+    "explanation": "Almanya, Arktik Konseyi'nin daimi üyesi değildir, sadece gözlemci statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  }
+]

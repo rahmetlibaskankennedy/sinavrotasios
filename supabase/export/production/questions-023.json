@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mst1y64n-441-pby7",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tokyo olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Japonya",
+      "İngiltere",
+      "Katar",
+      "Fransa",
+      "Arjantin"
+    ],
+    "answer_index": 0,
+    "explanation": "Tokyo şehri, Japonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-442-n63p",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Pekin olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Yunanistan",
+      "Güney Afrika",
+      "Çin",
+      "Tanzanya",
+      "Gürcistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Pekin şehri, Çin devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-443-aoxu",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Seul olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Avustralya",
+      "Güney Kore",
+      "Tunus",
+      "İtalya",
+      "Finlandiya"
+    ],
+    "answer_index": 1,
+    "explanation": "Seul şehri, Güney Kore devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-444-os17",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Yeni Delhi olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Hindistan",
+      "Meksika",
+      "Arjantin",
+      "Sırbistan",
+      "Kanada"
+    ],
+    "answer_index": 0,
+    "explanation": "Yeni Delhi şehri, Hindistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-445-f4qt",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Brazilya olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kırgızistan",
+      "Gürcistan",
+      "Fransa",
+      "Türkmenistan",
+      "Brezilya"
+    ],
+    "answer_index": 4,
+    "explanation": "Brazilya şehri, Brezilya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-446-ze8n",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Buenos Aires olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Arjantin",
+      "Somali",
+      "Suudi Arabistan",
+      "Norveç",
+      "BAE"
+    ],
+    "answer_index": 0,
+    "explanation": "Buenos Aires şehri, Arjantin devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-447-8qvg",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Meksiko olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Yeni Zelanda",
+      "Meksika",
+      "Kırgızistan",
+      "Sudan",
+      "Filipinler"
+    ],
+    "answer_index": 1,
+    "explanation": "Meksiko şehri, Meksika devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-448-hwf7",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Ottawa olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kuveyt",
+      "Polonya",
+      "Kanada",
+      "Meksika",
+      "Fransa"
+    ],
+    "answer_index": 2,
+    "explanation": "Ottawa şehri, Kanada devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-449-1kzl",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kanberra olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tunus",
+      "Katar",
+      "Sri Lanka",
+      "Avustralya",
+      "Hırvatistan"
+    ],
+    "answer_index": 3,
+    "explanation": "Kanberra şehri, Avustralya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-450-q0m6",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kahire olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Irak",
+      "Norveç",
+      "Afganistan",
+      "Ürdün",
+      "Mısır"
+    ],
+    "answer_index": 4,
+    "explanation": "Kahire şehri, Mısır devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-451-tu3k",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Pretoria olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Cezayir",
+      "Mısır",
+      "Slovakya",
+      "İsviçre",
+      "Güney Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Pretoria şehri, Güney Afrika devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-452-8mhc",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Abuja olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Nijerya",
+      "Brezilya",
+      "Bosna Hersek",
+      "Ermenistan",
+      "Arjantin"
+    ],
+    "answer_index": 0,
+    "explanation": "Abuja şehri, Nijerya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-453-mtcz",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Londra olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İngiltere",
+      "Çekya",
+      "Avusturya",
+      "İsrail",
+      "Fas"
+    ],
+    "answer_index": 0,
+    "explanation": "Londra şehri, İngiltere devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-454-a2fp",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Moskova olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Singapur",
+      "İran",
+      "Rusya",
+      "Avustralya",
+      "Meksika"
+    ],
+    "answer_index": 2,
+    "explanation": "Moskova şehri, Rusya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-455-qg3y",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Ankara olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Türkiye",
+      "Suudi Arabistan",
+      "Ukrayna",
+      "Polonya",
+      "Bangladeş"
+    ],
+    "answer_index": 0,
+    "explanation": "Ankara şehri, Türkiye devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-456-jfhh",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Atina olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanada",
+      "İsviçre",
+      "Yunanistan",
+      "Bosna Hersek",
+      "İspanya"
+    ],
+    "answer_index": 2,
+    "explanation": "Atina şehri, Yunanistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-457-91lz",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Stokholm olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsveç",
+      "Singapur",
+      "Meksika",
+      "Türkiye",
+      "Lübnan"
+    ],
+    "answer_index": 0,
+    "explanation": "Stokholm şehri, İsveç devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-458-qb2s",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Oslo olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Etiyopya",
+      "Bosna Hersek",
+      "Norveç",
+      "Ürdün",
+      "Danimarka"
+    ],
+    "answer_index": 2,
+    "explanation": "Oslo şehri, Norveç devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-459-vn8f",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Helsinki olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Hollanda",
+      "İsveç",
+      "Finlandiya",
+      "Yeni Zelanda",
+      "Avustralya"
+    ],
+    "answer_index": 2,
+    "explanation": "Helsinki şehri, Finlandiya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-460-m6om",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kopenhag olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Danimarka",
+      "Mısır",
+      "Avustralya",
+      "Yunanistan",
+      "Ukrayna"
+    ],
+    "answer_index": 0,
+    "explanation": "Kopenhag şehri, Danimarka devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-461-d429",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Brüksel olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Gürcistan",
+      "Türkiye",
+      "Sri Lanka",
+      "Güney Afrika",
+      "Belçika"
+    ],
+    "answer_index": 4,
+    "explanation": "Brüksel şehri, Belçika devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-462-bez8",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Amsterdam olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kenya",
+      "Ukrayna",
+      "Sırbistan",
+      "Almanya",
+      "Hollanda"
+    ],
+    "answer_index": 4,
+    "explanation": "Amsterdam şehri, Hollanda devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-463-r7qc",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bern olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsviçre",
+      "Afganistan",
+      "İtalya",
+      "Polonya",
+      "İspanya"
+    ],
+    "answer_index": 0,
+    "explanation": "Bern şehri, İsviçre devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-464-5egm",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Viyana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İspanya",
+      "Avusturya",
+      "Güney Kore",
+      "Katar",
+      "Hindistan"
+    ],
+    "answer_index": 1,
+    "explanation": "Viyana şehri, Avusturya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-465-0cp1",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Varşova olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Polonya",
+      "Türkiye",
+      "Lübnan",
+      "Belçika",
+      "İsrail"
+    ],
+    "answer_index": 0,
+    "explanation": "Varşova şehri, Polonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-466-e41u",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Prag olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Şili",
+      "Peru",
+      "İspanya",
+      "Endonezya",
+      "Çekya"
+    ],
+    "answer_index": 4,
+    "explanation": "Prag şehri, Çekya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-467-nilb",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Budapeşte olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Somali",
+      "Kazakistan",
+      "Endonezya",
+      "Macaristan",
+      "Afganistan"
+    ],
+    "answer_index": 3,
+    "explanation": "Budapeşte şehri, Macaristan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-468-j64b",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bükreş olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Romanya",
+      "Sri Lanka",
+      "Afganistan",
+      "Kazakistan",
+      "BAE"
+    ],
+    "answer_index": 0,
+    "explanation": "Bükreş şehri, Romanya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-469-s8xg",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Sofya olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Bulgaristan",
+      "Türkiye",
+      "İtalya",
+      "Ukrayna",
+      "Tayland"
+    ],
+    "answer_index": 0,
+    "explanation": "Sofya şehri, Bulgaristan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-470-zbee",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Belgrad olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Peru",
+      "Sırbistan",
+      "Nijerya",
+      "Bulgaristan",
+      "Kazakistan"
+    ],
+    "answer_index": 1,
+    "explanation": "Belgrad şehri, Sırbistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-471-e6x6",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Zagreb olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tayland",
+      "Hırvatistan",
+      "İspanya",
+      "Romanya",
+      "Karadağ"
+    ],
+    "answer_index": 1,
+    "explanation": "Zagreb şehri, Hırvatistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-472-3tqj",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Saraybosna olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Lübnan",
+      "Kazakistan",
+      "Suudi Arabistan",
+      "Tunus",
+      "Bosna Hersek"
+    ],
+    "answer_index": 4,
+    "explanation": "Saraybosna şehri, Bosna Hersek devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-473-5qy5",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tiran olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ürdün",
+      "Arnavutluk",
+      "Pakistan",
+      "Tayland",
+      "Suriye"
+    ],
+    "answer_index": 1,
+    "explanation": "Tiran şehri, Arnavutluk devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-474-cvso",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Üsküp olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Norveç",
+      "Malezya",
+      "Kuzey Makedonya",
+      "Tayland",
+      "Danimarka"
+    ],
+    "answer_index": 2,
+    "explanation": "Üsküp şehri, Kuzey Makedonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-475-1jgf",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Podgoritsa olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Japonya",
+      "Hindistan",
+      "Belarus",
+      "Karadağ",
+      "Romanya"
+    ],
+    "answer_index": 3,
+    "explanation": "Podgoritsa şehri, Karadağ devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-476-ku5s",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Priştine olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kosova",
+      "İsrail",
+      "Tunus",
+      "Nijerya",
+      "Avusturya"
+    ],
+    "answer_index": 0,
+    "explanation": "Priştine şehri, Kosova devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-477-xrb0",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bratislava olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tanzanya",
+      "Özbekistan",
+      "Slovakya",
+      "İsrail",
+      "Türkmenistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Bratislava şehri, Slovakya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-478-obuf",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Lübliyana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Afganistan",
+      "Yunanistan",
+      "Slovenya",
+      "Kenya",
+      "Şili"
+    ],
+    "answer_index": 2,
+    "explanation": "Lübliyana şehri, Slovenya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-479-ut3s",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kiev olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "Güney Afrika",
+      "Slovenya",
+      "Ukrayna"
+    ],
+    "answer_index": 4,
+    "explanation": "Kiev şehri, Ukrayna devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-480-wxh8",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Minsk olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Belarus",
+      "İsviçre",
+      "Hırvatistan",
+      "Katar",
+      "Kuzey Makedonya"
+    ],
+    "answer_index": 0,
+    "explanation": "Minsk şehri, Belarus devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-481-dbxw",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Astana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tayland",
+      "Slovenya",
+      "Kazakistan",
+      "İsveç",
+      "Ukrayna"
+    ],
+    "answer_index": 2,
+    "explanation": "Astana şehri, Kazakistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-482-23cn",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Taşkent olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Rusya",
+      "Özbekistan",
+      "İsviçre",
+      "Libya",
+      "Katar"
+    ],
+    "answer_index": 1,
+    "explanation": "Taşkent şehri, Özbekistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-483-7w0g",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Aşkabat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Türkmenistan",
+      "Rusya",
+      "Lübnan",
+      "Güney Kore",
+      "Yeni Zelanda"
+    ],
+    "answer_index": 0,
+    "explanation": "Aşkabat şehri, Türkmenistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-484-j1hp",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bişkek olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Danimarka",
+      "Sudan",
+      "Kırgızistan",
+      "Venezuela",
+      "Kuveyt"
+    ],
+    "answer_index": 2,
+    "explanation": "Bişkek şehri, Kırgızistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-485-p3ze",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bakü olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Vietnam",
+      "Hırvatistan",
+      "Ukrayna",
+      "İngiltere",
+      "Azerbaycan"
+    ],
+    "answer_index": 4,
+    "explanation": "Bakü şehri, Azerbaycan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-486-ebe4",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tiflis olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Gürcistan",
+      "Kenya",
+      "Etiyopya",
+      "Slovakya",
+      "Danimarka"
+    ],
+    "answer_index": 0,
+    "explanation": "Tiflis şehri, Gürcistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-487-qywb",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Erivan olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Pakistan",
+      "Filipinler",
+      "Özbekistan",
+      "Sırbistan",
+      "Ermenistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Erivan şehri, Ermenistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-488-aj39",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tahran olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsviçre",
+      "Belçika",
+      "Çin",
+      "Azerbaycan",
+      "İran"
+    ],
+    "answer_index": 4,
+    "explanation": "Tahran şehri, İran devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-489-fm4v",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bağdat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Venezuela",
+      "Ürdün",
+      "Irak",
+      "Güney Afrika",
+      "Brezilya"
+    ],
+    "answer_index": 2,
+    "explanation": "Bağdat şehri, Irak devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-490-llez",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Şam olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Etiyopya",
+      "Suriye",
+      "Özbekistan",
+      "Rusya",
+      "İtalya"
+    ],
+    "answer_index": 1,
+    "explanation": "Şam şehri, Suriye devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-491-9nkm",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Amman olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Bosna Hersek",
+      "İsveç",
+      "Ürdün",
+      "Kuveyt",
+      "Hollanda"
+    ],
+    "answer_index": 2,
+    "explanation": "Amman şehri, Ürdün devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-492-njoz",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Beyrut olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ürdün",
+      "Slovenya",
+      "Kenya",
+      "Lübnan",
+      "Hırvatistan"
+    ],
+    "answer_index": 3,
+    "explanation": "Beyrut şehri, Lübnan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-493-gxcn",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kudüs/Tel Aviv olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsrail",
+      "Afganistan",
+      "Fas",
+      "Güney Afrika",
+      "Kanada"
+    ],
+    "answer_index": 0,
+    "explanation": "Kudüs/Tel Aviv şehri, İsrail devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-494-qg0s",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Riyad olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İngiltere",
+      "Belçika",
+      "Fransa",
+      "Suudi Arabistan",
+      "Malezya"
+    ],
+    "answer_index": 3,
+    "explanation": "Riyad şehri, Suudi Arabistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-495-scnh",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Abu Dabi olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "BAE",
+      "Bangladeş",
+      "Hindistan",
+      "Hollanda",
+      "Şili"
+    ],
+    "answer_index": 0,
+    "explanation": "Abu Dabi şehri, BAE devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-496-48lc",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Doha olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ermenistan",
+      "İtalya",
+      "Malezya",
+      "Katar",
+      "Yeni Zelanda"
+    ],
+    "answer_index": 3,
+    "explanation": "Doha şehri, Katar devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-497-7buw",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kuveyt olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Fas",
+      "Kenya",
+      "Kuveyt",
+      "İtalya",
+      "Sri Lanka"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuveyt şehri, Kuveyt devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-498-kt7v",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Rabat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Fas",
+      "Vietnam",
+      "Yeni Zelanda",
+      "Hindistan",
+      "Filipinler"
+    ],
+    "answer_index": 0,
+    "explanation": "Rabat şehri, Fas devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "topic-guncel-mst1y64n-499-221j",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Cezayir olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Güney Afrika",
+      "Nijerya",
+      "Cezayir",
+      "Brezilya",
+      "İspanya"
+    ],
+    "answer_index": 2,
+    "explanation": "Cezayir şehri, Cezayir devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T14:38:28.814685+00:00",
+    "updated_at": "2026-08-14T14:38:28.814685+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-0-mygi",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde, çalışanların iş yerindeki sorunları veya geliştirme önerilerini bilerek ve isteyerek yönetime iletmemesi durumuna ne ad verilir?",
+    "options": [
+      "Örgütsel Adalet",
+      "Örgütsel Sessizlik",
+      "Örgütsel Bağlılık",
+      "Örgütsel Vatandaşlık",
+      "Örgütsel Özdeşleşme"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel sessizlik, çalışanların fikirlerini paylaşmaktan korkmaları veya 'bir şey değişmez' inancıyla bilinçli olarak susmalarını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-1-xpom",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Shannon-Weaver İletişim Modeli'nde, mesajın kaynaktan çıktıktan sonra gürültüye maruz kalabileceği ve teknik aksaklıkların yaşanabileceği aşama aşağıdakilerden hangisidir?",
+    "options": [
+      "Kaynak",
+      "Kod Çözme",
+      "Kanal (İletim Hattı)",
+      "Hedef",
+      "Geri Bildirim"
+    ],
+    "answer_index": 2,
+    "explanation": "Matematiksel bir model olan Shannon-Weaver'da kanal, sinyallerin taşındığı ve dış etkilerin (gürültü) müdahale edebildiği fiziksel hattır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-10-6wh0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İnsan ihtiyaçlarını hiyerarşik bir piramit olarak ele alan ve en alt basamağa fizyolojik ihtiyaçları yerleştiren motivasyon kuramcısı aşağıdakilerden hangisidir?",
+    "options": [
+      "Frederick Herzberg",
+      "Abraham Maslow",
+      "Douglas McGregor",
+      "David McClelland",
+      "Clayton Alderfer"
+    ],
+    "answer_index": 1,
+    "explanation": "İhtiyaçlar hiyerarşisi kuramı Abraham Maslow tarafından geliştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-100-dxu4",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi bir 'Halkla İlişkiler' aracı olarak kamu kurumlarında daha sık kullanılır?",
+    "options": [
+      "Yalnızca kurum içi gizli tutulan yönetim kararları",
+      "Vatandaş memnuniyet anketleri ve geri bildirim kutuları",
+      "Yalnızca kurum personelinin katıldığı sosyal yemekler",
+      "Kurum içi kullanıma özel teknik raporlar",
+      "Personele ait aylık maaş bordroları"
+    ],
+    "answer_index": 1,
+    "explanation": "Halkla ilişkiler, dış paydaşlarla (vatandaşlarla) olan iletişimi güçlendiren ve onların algısını ölçen araçları kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-101-xepv",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir toplantıda herkesin aynı fikirdeymiş gibi davranması ancak her bireyin aslında o fikre karşı olması durumunda yaşanan paradoksa ne ad verilir?",
+    "options": [
+      "Hale Etkisi",
+      "Abilene Paradoksu",
+      "Zıtlık Etkisi",
+      "Sinerji Etkisi",
+      "Geri Hissi Yanılgısı"
+    ],
+    "answer_index": 1,
+    "explanation": "Abilene Paradoksu, grup üyelerinin çatışmadan kaçınmak için istemedikleri bir karara 'başkaları istiyor' zannıyla topluca evet demesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-104-yjtr",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası iletişimde 'Önemliymiş gibi dinleme' veya 'Görünüşte dinleme' davranışının temel riski nedir?",
+    "options": [
+      "Konuşmacının kendini rahat hissedip daha çok konuşmasını sağlar",
+      "Güven kaybına ve mesajın yanlış anlaşılmasına neden olur",
+      "Karşılıklı iletişim sürecini önemli ölçüde hızlandırır",
+      "Dinleyicinin hafızasını ve odaklanmasını güçlendirir",
+      "Kurum içindeki mevcut hiyerarşik yapıyı korur"
+    ],
+    "answer_index": 1,
+    "explanation": "Görünüşte dinleme, karşı tarafa değer verilmediği hissini uyandırır ve er ya da geç iletişim kopukluğuna yol açar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-105-5e6z",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Zaman yönetimi ve insan ilişkileri bağlamında 'Pareto İlkesi' (80/20 kuralı) neyi ifade eder?",
+    "options": [
+      "İşlerin %80'ini tam olarak 20 dakika içinde bitirmeyi",
+      "Sonuçların %80'inin, harcanan çabanın %20'sinden kaynaklandığını",
+      "Çalışanların %80'inin doğası gereği tembel olduğunu",
+      "Toplantıların %80'inin gereksiz olduğunu",
+      "Hataların %80'inin yöneticiden kaynaklandığını"
+    ],
+    "answer_index": 1,
+    "explanation": "Pareto analizi, verimliliği artırmak için sonuç getiren en kritik %20'lik dilime odaklanmayı savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-106-0mvl",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu yönetiminde 'E-Devlet' uygulamalarının iletişim açısından sağladığı en büyük katkı aşağıdakilerden hangisidir?",
+    "options": [
+      "Kurumlardaki kağıt kullanımını ve israfını artırması",
+      "Vatandaş ile devlet arasındaki iletişimi hızlandırarak bürokrasiyi azaltması",
+      "Kurumdaki toplam memur sayısını gereksiz yere artırması",
+      "Yalnızca genç nüfusun hizmete erişimini sağlaması",
+      "Devletle vatandaş arasındaki iletişimi daha gizli hale getirmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dijitalleşme, bilgiye erişimi kolaylaştırır, şeffaflığı artırır ve hizmet kalitesini yükseltir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-107-5at2",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın işine duyduğu sevgi ve bağlılığın yanı sıra, işini yaparken hissettiği enerji ve konsantrasyon halini ifade eden modern kavram hangisidir?",
+    "options": [
+      "İşten Ayrılma Niyeti (Turnover Intention)",
+      "Çalışan Bağlılığı (Employee Engagement)",
+      "İş Tatmini (Job Satisfaction)",
+      "Örgütsel Adalet (Organizational Justice)",
+      "Performans Değerlendirme Süreci"
+    ],
+    "answer_index": 1,
+    "explanation": "Çalışan bağlılığı, çalışanın işine hem zihinsel hem de duygusal olarak tam katılım göstermesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-108-m5pu",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Karar verme süreçlerinde 'Sınırlı Rasyonellik' (Bounded Rationality) kavramını ortaya atan ve insanın tüm seçenekleri bilmesinin imkansız olduğunu savunan düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Herbert Simon",
+      "Adam Smith",
+      "Peter Drucker",
+      "Henry Mintzberg"
+    ],
+    "answer_index": 1,
+    "explanation": "Herbert Simon, insanların sınırlı bilgi ve zamanla 'en iyi' değil 'yeterli' kararı vermeye çalıştıklarını savunmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-11-9iuk",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının duygu ve düşüncelerini onu yargılamadan, onun bakış açısıyla anlamaya çalışmasına iletişimde ne ad verilir?",
+    "options": [
+      "Sempati",
+      "Motivasyon",
+      "Otokontrol",
+      "Empati",
+      "Güdüleme"
+    ],
+    "answer_index": 3,
+    "explanation": "Kişinin kendisini karşısındakinin yerine koyarak onun duygu ve düşüncelerini, niyetini doğru olarak anlamasına empati denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-110-09vj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi etkili bir sunumda mesajın akılda kalıcılığını artırmak için yapılan 'Görselleştirme'nin temel kuralıdır?",
+    "options": [
+      "Sunumdaki her slaydı yoğun yazı metniyle doldurmak",
+      "Slaytlarda mümkün olduğunca çok sayıda renk kullanmak",
+      "Basit, anlaşılır ve mesajı destekleyen görseller seçmek",
+      "Sunum boyunca görsel kullanmaktan tamamen kaçınmak",
+      "Sunumda yalnızca sayısal tablolar paylaşmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Etkili görseller, karmaşık verilerin hızlıca kavranmasını sağlar ve sözel bilgiyi güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-113-pazv",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde geri bildirim verirken karşı tarafın savunmaya geçmesini azaltmak için geri bildirim nasıl verilmelidir?",
+    "options": [
+      "Geçmişteki tüm hatalar hatırlatılarak",
+      "Kişiliğe değil, somut davranışa ve sonuca odaklanarak",
+      "Herkesin içinde yüksek sesle",
+      "Genellemeler yaparak (Sen hep böylesin...)",
+      "Yönetici odasına çağırmadan e-posta ile"
+    ],
+    "answer_index": 1,
+    "explanation": "Yapıcı geri bildirim, kişiliğe etiket yapıştırmak yerine somut davranışı, etkisini ve geliştirilebilecek adımı ele alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-115-4z8k",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel adaletin etkileşimsel adalet boyutu en çok aşağıdakilerden hangisiyle ilgilidir?",
+    "options": [
+      "Yöneticilerin çalışanlara saygılı, nazik ve yeterli açıklama sunan biçimde davranmasıyla",
+      "Ücret ve terfilerin yalnızca nicelik bakımından eşit dağıtılmasıyla",
+      "Kurum birimleri arasındaki fiziksel mesafenin en aza indirilmesiyle",
+      "Kurumun sahip olduğu yalnızca yazılı kural ve prosedürleriyle",
+      "Çalışanın kurum dışındaki sosyal çevresinin değerlendirilmesiyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Etkileşimsel adalet, karar süreçlerinde çalışanların saygılı ve adil muamele görmesi ile kendilerine yeterli açıklama yapılmasına ilişkin adalet algısını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-116-2d19",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdan yukarıya dikey iletişime en uygun örnek aşağıdakilerden hangisidir?",
+    "options": [
+      "Üst yönetimin yeni prosedürü personele duyurması",
+      "Çalışanın işleyişe ilişkin önerisini ve sorununu amirine raporlaması",
+      "Aynı kademedeki iki birim yöneticisinin toplantı yapması",
+      "Kurumun vatandaşa hizmet duyurusu yayımlaması",
+      "Kurumun medya kuruluşlarına basın açıklaması yapması"
+    ],
+    "answer_index": 1,
+    "explanation": "Aşağıdan yukarıya iletişimde bilgi, öneri, şikâyet ve geri bildirim çalışanlardan yönetim kademelerine doğru akar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-117-bdpc",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Fiedler'in Durumsallık Kuramına göre liderliğin etkililiği temel olarak neye bağlıdır?",
+    "options": [
+      "Liderin her durumda aynı davranışı sürdürmesine",
+      "Liderlik tarzı ile durumun elverişliliği arasındaki uyuma",
+      "Yalnızca liderin kıdemine",
+      "Çalışanların yaş ortalamasına",
+      "Liderin kişilik özelliklerinin her durumda aynı sonucu vermesine"
+    ],
+    "answer_index": 1,
+    "explanation": "Fiedler'e göre liderlik etkililiği, liderin göreve ya da ilişkiye dönük tarzı ile lider-üye ilişkileri, görevin yapısı ve pozisyon gücü gibi durumsal etkenlerin uyumuna bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-118-h3bp",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Johari Penceresi modelinde başkalarının bildiği, ancak kişinin kendisinin farkında olmadığı alan geri bildirim yoluyla küçültülebilir. Bu alanın adı nedir?",
+    "options": [
+      "Açık alan",
+      "Gizli alan",
+      "Kör alan",
+      "Bilinmeyen alan",
+      "Kişisel gelişim alanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Kör alan, kişinin kendi hakkında fark etmediği fakat başkalarının gözlemlediği özellikleri içerir. Yapıcı geri bildirim bu alanın küçülmesine yardımcı olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-119-v4md",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İlkeli (bütünleştirici) müzakerenin temel yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Tarafların yalnızca başlangıçtaki pozisyonlarına sıkı sıkıya bağlanması",
+      "Kişilere değil soruna odaklanıp karşılıklı çıkarları ve nesnel ölçütleri araştırmak",
+      "Karşı tarafın kaybetmesini tek başarı ölçütü saymak",
+      "Karşılıklı bilgi paylaşımını baştan tamamen kesmek",
+      "Tarafların yalnızca sahip olduğu güç üstünlüğünü tek ölçüt kabul etmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "İlkeli müzakere, kişileri sorundan ayırmayı; pozisyonlar yerine çıkarları ele almayı ve mümkün olduğunda nesnel ölçütlerden yararlanmayı amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-12-brdi",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurumlarda resmi olmayan, dedikodu ve söylenti şeklinde hızla yayılan iletişim türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Çapraz İletişim",
+      "Yatay İletişim",
+      "Üzüm Salkımı İletişimi",
+      "Dikey İletişim",
+      "Formal İletişim"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurumlarda resmi hiyerarşiye bağlı olmayan, gayriresmi (informal) iletişim ağına üzüm salkımı (grapevine) iletişimi adı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-13-lnd8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde kaynağın gönderdiği mesajın alıcı tarafından doğru anlaşılıp anlaşılmadığını kontrol etmek için kaynağa geri dönen bilgi akışına ne ad verilir?",
+    "options": [
+      "Kanal",
+      "Kodlama",
+      "Geri Bildirim (Dönüt)",
+      "Gürültü",
+      "Bağlam"
+    ],
+    "answer_index": 2,
+    "explanation": "Geri bildirim (dönüt), mesajın alıcı üzerindeki etkisini kaynağa ileten ve iletişimi çift yönlü kılan süreçtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-14-spyo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yönetimde, çalışanların doğuştan işi sevmediğini, tembel olduğunu ve ancak zorlanarak, tehdit edilerek çalıştırılabileceğini savunan McGregor'un kuramı aşağıdakilerden hangisidir?",
+    "options": [
+      "Y Kuramı",
+      "Z Kuramı",
+      "Beklenti Kuramı",
+      "X Kuramı",
+      "Çift Faktör Kuramı"
+    ],
+    "answer_index": 3,
+    "explanation": "McGregor'un X Kuramı çalışanların tembel olduğunu, Y Kuramı ise tam tersine çalışmanın doğal bir ihtiyaç olduğunu savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-15-6kpw",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi sözsüz iletişim unsurlarından biri değildir?",
+    "options": [
+      "Ses tonu",
+      "Beden duruşu (Postür)",
+      "Yazılı raporlar",
+      "Göz teması",
+      "Jest ve mimikler"
+    ],
+    "answer_index": 2,
+    "explanation": "Yazılı raporlar sözlü/yazılı iletişim kategorisine girerken, jestler, mimikler, ses tonu ve beden duruşu sözsüz iletişimin (beden dili) unsurlarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-16-yono",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası iletişimde 'Johari Penceresi' modeline göre; kişinin kendisi tarafından bilinen fakat başkaları tarafından bilinmeyen alan aşağıdakilerden hangisidir?",
+    "options": [
+      "Açık Alan",
+      "Kör Alan",
+      "Bilinmeyen Alan",
+      "Karanlık Alan",
+      "Gizli Alan"
+    ],
+    "answer_index": 4,
+    "explanation": "Johari Penceresi'nde kişinin bildiği ama başkalarından sakladığı özelliklerinin bulunduğu alan 'Gizli Alan'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-17-3cf5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İş ortamında hijyen faktörleri (maaş, çalışma koşulları) ve motive edici faktörler (başarı, tanınma) ayrımını yaparak 'Çift Faktör Kuramı'nı geliştiren bilim insanı kimdir?",
+    "options": [
+      "Frederick Herzberg",
+      "Victor Vroom",
+      "Elton Mayo",
+      "Henri Fayol",
+      "Max Weber"
+    ],
+    "answer_index": 0,
+    "explanation": "Çift Faktör Kuramı (Motivasyon-Hijyen Kuramı) Frederick Herzberg'e aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-18-je5f",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aynı hiyerarşik düzeyde bulunan, örneğin iki farklı daire başkanının veya iki şube müdürünün birbiriyle kurduğu iletişim türü hangisidir?",
+    "options": [
+      "Yukarıdan aşağıya dikey iletişim",
+      "Aşağıdan yukarıya dikey iletişim",
+      "Çapraz iletişim",
+      "Dış iletişim",
+      "Yatay iletişim"
+    ],
+    "answer_index": 4,
+    "explanation": "Örgütlerde aynı yetki ve sorumluluk düzeyindeki kişi ve birimler arasındaki iletişime yatay iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-19-0h8f",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının sadece bir olumlu özelliğine (örneğin diksiyonunun düzgün olması) bakarak onun tüm iş performansının mükemmel olduğunu düşünmesi hangi algısal yanılgıdır?",
+    "options": [
+      "Stereotipleştirme",
+      "Halo Etkisi",
+      "Seçici Algı",
+      "Projeksiyon (Yansıtma)",
+      "Pygmalion Etkisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Halo (Hale) etkisi, kişinin bir tek olumlu özelliğinden yola çıkarak o kişi hakkında genel bir olumlu yargıya varılmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-2-ir9u",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin başarısını değerlendirirken en son yaptığı işe/hataya odaklanarak geçmişteki tüm performansını göz ardı etmesi hangi algı hatasıdır?",
+    "options": [
+      "Hale Etkisi",
+      "Zıtlık Etkisi",
+      "Yakınlık (Sonralık) Etkisi",
+      "Öncelik Etkisi",
+      "Yansıtma"
+    ],
+    "answer_index": 2,
+    "explanation": "Yakınlık (Recency) etkisi, kişinin hafızasındaki en taze/son bilgilerin genel yargıyı domine etmesi hatasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-20-utzm",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Hawthorne Araştırmalarıyla çalışma yaşamında sosyal ve psikolojik etkenlerin önemine dikkat çeken ve insan ilişkileri yaklaşımına öncülük eden düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Elton Mayo",
+      "Mary Parker Follett",
+      "Kurt Lewin",
+      "Rensis Likert"
+    ],
+    "answer_index": 1,
+    "explanation": "Hawthorne araştırmaları Elton Mayo ve ekibiyle ilişkilendirilir; bu çalışmalar, çalışma yaşamında sosyal ilişkilerin ve ilginin önem kazanmasına katkı sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-21-6gqd",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Dinleyicinin, konuşanın söylediklerini anlamaya odaklandığı, onu bölmeden dinlediği ve gerektiğinde anladığını teyit eden sorular sorduğu dinleme türü hangisidir?",
+    "options": [
+      "Yüzeysel dinleme",
+      "Savunucu dinleme",
+      "Seçici dinleme",
+      "Aktif (Etkin) dinleme",
+      "Tuzak kurucu dinleme"
+    ],
+    "answer_index": 3,
+    "explanation": "Aktif dinleme, karşıdaki kişiye tam odaklanarak ve geri bildirim vererek gerçekleştirilen en etkili dinleme türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-22-93gv",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çatışma yönetimi stratejilerinde, hem kendi isteklerini hem de karşı tarafın isteklerini en üst düzeyde tatmin etmeyi amaçlayan, 'Kazan-Kazan' ilkesine dayanan yaklaşım hangisidir?",
+    "options": [
+      "Rekabet etme (Zorlama Stratejisi)",
+      "Kaçınma (Geri Çekilme Stratejisi)",
+      "İşbirliği yapma (Problem Çözme)",
+      "Uyum sağlama (Ödün Verme)",
+      "Uzlaşma (Orta Yol Bulma)"
+    ],
+    "answer_index": 2,
+    "explanation": "İşbirliği stratejisi, her iki tarafın da ihtiyaçlarını tam olarak karşılayacak ortak çözümler bulmayı hedefler (Kazan-Kazan).",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-23-c5oy",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde kullanılan kelimelerin, sembollerin veya dilin kaynak ve alıcı tarafından farklı algılanması sonucu oluşan iletişim engeline ne ad verilir?",
+    "options": [
+      "Fiziksel gürültü",
+      "Anlamsal (Semantik) gürültü",
+      "Psikolojik gürültü",
+      "Fizyolojik gürültü",
+      "Kültürel gürültü"
+    ],
+    "answer_index": 1,
+    "explanation": "Kelimelerin farklı anlamlarda yorumlanmasından kaynaklanan pürüzlere anlamsal (semantik) gürültü denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-24-5x99",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Liderin yetkilerini astlarına devrettiği, onların kendi amaçlarını belirleyip hedeflerine ulaşmalarında tam serbestlik tanıdığı liderlik tarzı hangisidir?",
+    "options": [
+      "Otokratik (Tek Yönlü) liderlik tarzı",
+      "Demokratik (Katılımcı) liderlik tarzı",
+      "Dönüşümcü (Vizyoner) liderlik tarzı",
+      "Karizmatik (Kişisel Etkiye Dayalı) liderlik tarzı",
+      "Tam serbesti tanıyan (Laissez-Faire) liderlik"
+    ],
+    "answer_index": 4,
+    "explanation": "Laissez-faire (bırakınız yapsınlar) liderlik tarzında, lider gruba minimum müdahalede bulunur ve inisiyatifi astlara bırakır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-25-53lz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sırasında kişilerin birbirlerine olan fiziksel uzaklığını ve bu alanın (mahremiyet alanı, kişisel alan, sosyal alan vb.) kullanımını inceleyen çalışma alanına ne denir?",
+    "options": [
+      "Kinesik",
+      "Paralinguistik",
+      "Proksemik",
+      "Kronemik",
+      "Haptik"
+    ],
+    "answer_index": 2,
+    "explanation": "Proksemik (Proxemics), insanların mekanları ve birbirleri arasındaki fiziksel mesafeyi nasıl kullandıklarını inceleyen iletişim dalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-26-u1p4",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Astın bir problemi amirine iletmeden önce, doğrudan amirinin amirine (bir üst kademeye) giderek sorunu anlatması iletişim ağlarında hangi tür bir iletişim akışıdır?",
+    "options": [
+      "Çapraz iletişim",
+      "Silsile (hiyerarşi) atlama",
+      "Yatay iletişim",
+      "İnformal iletişim",
+      "Merkezi iletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Hiyerarşik kademelerin atlanarak bir üst kademedeki yöneticiyle iletişime geçilmesine silsile atlama veya hiyerarşiyi aşma denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-27-v2ju",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Maslow'un ihtiyaçlar hiyerarşisini üç temel kategoriye (Var olma, Ait olma, Gelişme) indirgeyerek ERG Kuramı'nı ortaya koyan düşünür kimdir?",
+    "options": [
+      "Victor Vroom",
+      "Clayton Alderfer",
+      "David McClelland",
+      "J. Stacy Adams",
+      "John Locke"
+    ],
+    "answer_index": 1,
+    "explanation": "Alderfer, ERG (Existence, Relatedness, Growth) kuramıyla Maslow'un teorisini basitleştirerek üç ana gruba ayırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-28-5q75",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde yönergelerin, prosedürlerin ve hedeflerin üst yönetimden alt kademe çalışanlara doğru iletilmesine ne ad verilir?",
+    "options": [
+      "Aşağıdan yukarıya dikey iletişim",
+      "Yukarıdan aşağıya dikey iletişim",
+      "Yatay iletişim",
+      "Çapraz iletişim",
+      "Dış iletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Yöneticilerden astlara doğru akan emir, talimat ve bilgilendirme şeklindeki iletişime yukarıdan aşağıya dikey iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-29-wvxy",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin gecikmesini trafik veya iş yükü gibi durumsal etkenleri değerlendirmeden doğrudan tembellik ya da disiplinsizlikle açıklaması hangi algısal yanılgıya örnektir?",
+    "options": [
+      "Hale (Halo) Etkisi",
+      "Kalıp Yargı (Stereotip)",
+      "Temel Yükleme Hatası",
+      "Zıtlık Etkisi",
+      "Boynuz Etkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Temel yükleme hatası, başkalarının davranışlarını açıklarken durumsal etkenleri gereğinden az; kişisel özellikleri ise gereğinden çok vurgulama eğilimidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-3-c5ok",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kamu kurumlarında kriz anlarında yapılan iletişimde, bilgi kirliliğini önlemek ve güven tesis etmek için uygulanması gereken temel kural nedir?",
+    "options": [
+      "Bilgiyi sadece seçilmiş basın organlarına vermek",
+      "Olayın üzerinden zaman geçmesini beklemek",
+      "Tek bir kaynaktan, hızlı, şeffaf ve tutarlı bilgi paylaşımı yapmak",
+      "Resmi açıklama yapmaktan olabildiğince kaçınmak",
+      "Yaşanan gelişmelerin yalnızca olumlu yönlerini aktarmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Kriz yönetiminde 'tek seslilik' ve şeffaflık, kaosun ve spekülasyonların önüne geçmek için hayati öneme sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-30-ir7j",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Farklı departmanlardaki ve farklı hiyerarşik düzeylerdeki çalışanların (örneğin İnsan Kaynakları Şefinin, Muhasebe Müdürüne bilgi vermesi) hiyerarşik kanalları beklemeden iletişim kurmasına ne denir?",
+    "options": [
+      "Dikey iletişim",
+      "Yatay iletişim",
+      "Dışsal iletişim",
+      "Çapraz iletişim",
+      "Sözsüz iletişim"
+    ],
+    "answer_index": 3,
+    "explanation": "Farklı birimlerde ve farklı yetki düzeylerindeki kişiler arasında, formal kanalları hızlandırmak amacıyla yapılan iletişime çapraz iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-31-uhvr",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışanların kuruma karşı yaşadığı duygusal tükenme, duyarsızlaşma ve kişisel başarı hissinde düşüş olarak tanımlanan sendrom aşağıdakilerden hangisidir?",
+    "options": [
+      "Mobbing (Psikolojik Yıldırma) Süreci",
+      "Tükenmişlik (Burnout) Sendromu",
+      "Cam Tavan (Glass Ceiling) Sendromu",
+      "Örgütsel Yabancılaşma Durumu",
+      "Kronik Yorgunluk Sendromu"
+    ],
+    "answer_index": 1,
+    "explanation": "Tükenmişlik sendromu (Burnout), uzun süreli iş stresinin yol açtığı duygusal tükenme ve duyarsızlaşma halidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-32-1yjw",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütlerde bir yöneticinin sahip olduğu karar verme ve iş yapma hakkının bir kısmını kendi isteğiyle belirli şartlar altında bir astına devretmesine ne ad verilir?",
+    "options": [
+      "Yetki devri",
+      "Sorumluluk devri",
+      "Merkezileşme",
+      "Hesap verebilirlik",
+      "Güçlendirme"
+    ],
+    "answer_index": 0,
+    "explanation": "Yetki devri (delegasyon), yöneticinin bazı görevleri ve bu görevleri yerine getirme yetkisini astlarına aktarmasıdır. Sorumluluk devredilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-34-wp9r",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi yazılı iletişimin sözlü iletişime göre sağladığı avantajlardan biri değildir?",
+    "options": [
+      "Kalıcı bir belge olması",
+      "Karmaşık bilgilerin aktarılmasında daha etkili olması",
+      "Yasal bir geçerliliğinin ve kanıt niteliğinin olması",
+      "Anında geri bildirim (dönüt) alma imkanı sağlaması",
+      "Alıcıya mesajı tekrar okuma şansı vermesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Anında geri bildirim almak sözlü (yüz yüze/telefon) iletişimin avantajıdır. Yazılı iletişimde dönüt süreci daha yavaştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-35-ml5b",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Grupların karar alma sürecinde, grup üyelerinin dışlanma korkusuyla veya uyum sağlamak amacıyla farklı görüşleri dile getirmekten çekinip hatalı kararlara ortak olması durumuna ne ad verilir?",
+    "options": [
+      "Sinerji",
+      "Grup dinamizmi",
+      "Grup düşüncesi (Groupthink)",
+      "Sosyal kaytarma",
+      "Beyin fırtınası"
+    ],
+    "answer_index": 2,
+    "explanation": "Grup düşüncesi (Groupthink), grup içindeki uyum ve uzlaşma arzusunun, mantıklı karar verme ve alternatifleri değerlendirme süreçlerini bastırmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-36-yjbk",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Daniel Goleman tarafından popülerleştirilen, kişinin kendi duygularını ve başkalarının duygularını tanıma, anlama ve yönetme yeteneğine ne isim verilir?",
+    "options": [
+      "Analitik Zeka (IQ)",
+      "Sosyal Sermaye",
+      "Bilişsel Esneklik",
+      "Kültürel Zeka",
+      "Duygusal Zeka (EQ)"
+    ],
+    "answer_index": 4,
+    "explanation": "Duygusal Zeka, kişinin kendisinin ve başkalarının duygularının farkında olması ve bu duyguları etkili bir biçimde yönetebilme kapasitesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-37-hw7g",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde, alıcının geçmiş deneyimleri, inançları ve kültürel birikimi nedeniyle mesaja sadece kendi istediği ve duymaya alışık olduğu şekilde anlam yüklemesine ne denir?",
+    "options": [
+      "Seçici algılama",
+      "Aktarımsal bozulma",
+      "Geri bildirim",
+      "Fiziksel gürültü",
+      "Kinesik bariyer"
+    ],
+    "answer_index": 0,
+    "explanation": "Seçici algılama, bireylerin iletilen mesajları kendi ihtiyaç, değer, inanç ve beklentilerine uygun olanlarını seçerek algılamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-39-k3uz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurumlarda bir kişinin sırf bir gruba (ırk, cinsiyet, meslek) ait olmasından dolayı, o grubun genel özelliklerinin o kişide de kesin olarak bulunduğunu varsayma eğilimine ne ad verilir?",
+    "options": [
+      "Seçici Gözlem (Selective Perception)",
+      "Kontrast Etkisi (Karşıtlık İlkesi)",
+      "Kalıp Yargı (Stereotiplendirme)",
+      "Pygmalion Etkisi (Beklenti Etkisi)",
+      "Yansıtma (Kendi Özelliğini Başkasına Atfetme)"
+    ],
+    "answer_index": 2,
+    "explanation": "İnsanları aidiyet hissettikleri gruplara göre kategorize ederek hepsinin aynı özelliklere sahip olduğunu varsaymak stereotiplendirme (kalıp yargı) olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-4-ns57",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Luthans tarafından tanımlanan 'Pozitif Psikolojik Sermaye'nin dört temel bileşeni aşağıdakilerin hangisinde bir arada verilmiştir?",
+    "options": [
+      "Zeka, Yetenek, Eğitim, Deneyim",
+      "Maaş, Mevki, Sosyal Statü, Güç",
+      "Özyeterlilik, Umut, İyimserlik, Dayanıklılık",
+      "Adalet, Dürüstlük, Sadakat, Saygı",
+      "Sabır, Disiplin, Çalışkanlık, Tutumluluk"
+    ],
+    "answer_index": 2,
+    "explanation": "Psikolojik sermaye; Özyeterlilik (Self-efficacy), Umut (Hope), İyimserlik (Optimism) ve Dayanıklılık (Resilience) unsurlarından oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-40-bji9",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "French ve Raven tarafından tanımlanan güç türlerinden biri olan, yöneticinin sahip olduğu uzmanlık bilgisinden ve tecrübesinden kaynaklanan güç aşağıdakilerden hangisidir?",
+    "options": [
+      "Yasal Güç",
+      "Ödüllendirme Gücü",
+      "Uzmanlık Gücü",
+      "Zorlayıcı Güç",
+      "Karizmatik Güç"
+    ],
+    "answer_index": 2,
+    "explanation": "Uzmanlık gücü, yöneticinin sahip olduğu bilgi, beceri ve deneyimin astlar tarafından kabul edilmesine dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-41-jhf1",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Thomas-Kilmann modeline göre, kişinin kendi hedeflerinden tamamen vazgeçerek karşı tarafın isteklerini kabul etmesi hangi çatışma yönetimi tarzıdır?",
+    "options": [
+      "Kaçınma (Geri Çekilme)",
+      "Rekabet (Zorlama Stratejisi)",
+      "Uzlaşma (Orta Yol Bulma)",
+      "Uyum Sağlama (Ödün Verme)",
+      "İşbirliği (Problem Çözme)"
+    ],
+    "answer_index": 3,
+    "explanation": "Uyum sağlama stratejisinde kişi, ilişkileri korumak adına kendi çıkarlarını feda ederek karşı tarafın taleplerini kabul eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-42-42k9",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde alıcının, mesajın sadece bir kısmını duyup diğer kısımlarını görmezden gelmesi veya kendi önyargılarına göre çarpıtması hangi engele örnektir?",
+    "options": [
+      "Fiziksel engel",
+      "Semantik engel",
+      "Seçici algılama",
+      "Kanal yetersizliği",
+      "Mekan engeli"
+    ],
+    "answer_index": 2,
+    "explanation": "Seçici algılama, bireylerin mesajları kendi inanç ve ihtiyaçlarına göre filtreleyerek algılamasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-43-ru7u",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Vroom'un Beklenti Kuramı'na göre, kişinin gösterdiği çabanın istenen performans düzeyine ulaşacağına dair inancına ne ad verilir?",
+    "options": [
+      "Valans (Arzulama)",
+      "Beklenti (Expectancy)",
+      "Araçsallık (Instrumentality)",
+      "Özsaygı",
+      "Dışsal motivasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Beklenti, harcanan çabanın belirli bir performansla sonuçlanacağı olasılığına dair öznel inançtır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-44-u9bh",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, kurum içindeki dedikoduların önüne geçmek ve bilgi kirliliğini önlemek için yapması gereken en etkili eylem nedir?",
+    "options": [
+      "Kurum içindeki her türlü iletişimi tamamen yasaklamak",
+      "Resmi iletişim kanallarını şeffaf ve hızlı çalıştırmak",
+      "Dedikodu yapanları cezalandırmak",
+      "Sadece seçilmiş personelle bilgi paylaşmak",
+      "Alınan tüm kararları personelden gizli tutmak"
+    ],
+    "answer_index": 1,
+    "explanation": "İnformal iletişimin (dedikodu) olumsuz etkilerini azaltmanın en iyi yolu, doğru bilginin formal kanallardan zamanında verilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-45-3dia",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yöneticinin astlarına 'Sen zaten her zaman geç kalırsın' gibi ifadelerle hitap etmesi, iletişimin hangi boyutunu zedeler?",
+    "options": [
+      "İçerik boyutu",
+      "İlişki boyutu",
+      "Mantıksal boyut",
+      "Teknik boyut",
+      "Yasal boyut"
+    ],
+    "answer_index": 1,
+    "explanation": "İletişimin ilişki boyutu, tarafların birbirine karşı tutumunu ve duygusal bağını ifade eder. Suçlayıcı ifadeler bu boyuta zarar verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-46-6ay3",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi etkin geri bildirimin (feedback) özelliklerinden biri değildir?",
+    "options": [
+      "Kişiliği değil, davranışı hedef almalıdır",
+      "Zamanında verilmelidir",
+      "Net ve spesifik olmalıdır",
+      "Genelleyici ve suçlayıcı olmalıdır",
+      "Geliştirici bir amaç taşımalıdır"
+    ],
+    "answer_index": 3,
+    "explanation": "Etkin geri bildirim yapıcı olmalıdır; genelleyici ve suçlayıcı ifadeler iletişimi kapatır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-47-ww1j",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın, amirine duymak istediği şeyi söylemek amacıyla bilgiyi kasıtlı olarak değiştirmesine veya gizlemesine iletişimde ne denir?",
+    "options": [
+      "Filtreleme",
+      "Kod çözme",
+      "Empati",
+      "Geri bildirim",
+      "Yansıtma"
+    ],
+    "answer_index": 0,
+    "explanation": "Filtreleme, mesajın yukarıya doğru iletilirken olumsuz yanlarının törpülenerek iletilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-48-am38",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi 'Duygusal Zeka'nın (EQ) öz-düzenleme bileşeni ile ilgilidir?",
+    "options": [
+      "Yalnızca kendi duygularının farkında olmak",
+      "Başkalarının ne hissettiğini anlamak",
+      "Dürtüleri kontrol etmek ve duyguları duruma göre yönetmek",
+      "Sürekli olarak yalnızca başarı odaklı biçimde çalışmak",
+      "Sosyal ortamlarda popüler olmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Öz-düzenleme, kişinin anlık tepkilerini kontrol edebilmesi ve duygularını amaca uygun yönlendirebilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-49-n3pj",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir kurumda çalışanların, kurumun hedeflerini kendi hedefleri gibi benimsemesi ve kendilerini kurumun bir parçası olarak görmelerine ne denir?",
+    "options": [
+      "Örgütsel Sosyalleşme",
+      "Örgütsel Özdeşleşme",
+      "Örgütsel Adalet",
+      "Örgütsel Çatışma",
+      "Örgütsel Rotasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütsel özdeşleşme, bireyin kendi benliği ile kurumun kimliği ve hedefleri arasında güçlü bir bağ kurmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-50-idm0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Sözlü iletişimde konuşmacının ses tonu, hızı, vurgulamaları ve duraklamalarını inceleyen dal aşağıdakilerden hangisidir?",
+    "options": [
+      "Kinesik",
+      "Paralinguistik",
+      "Proksemik",
+      "Haptik",
+      "Kronemik"
+    ],
+    "answer_index": 1,
+    "explanation": "Paralinguistik (dil ötesi), kelimelerin kendisinden ziyade nasıl söylendiğiyle (ses özellikleri) ilgilenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-52-9xq2",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "McClelland'ın Başarı İhtiyacı Teorisi'nde yer alan üç temel ihtiyaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Yemek, Su, Barınma",
+      "Başarı, Güç, Bağlanma (Ait Olma)",
+      "Maaş, Güvenlik, Statü",
+      "Eğitim, Sağlık, Eğlence",
+      "Saygınlık, Özerklik, Adalet"
+    ],
+    "answer_index": 1,
+    "explanation": "McClelland'a göre insanlar başarı (achievement), güç (power) ve bir gruba ait olma (affiliation) ihtiyaçları ile motive olurlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-53-6tgk",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi savunucu iletişimi başlatan tutumlardan biridir?",
+    "options": [
+      "Betimleyici olma",
+      "Problem odaklılık",
+      "Eşitlik",
+      "Yargılayıcı olma",
+      "Empati"
+    ],
+    "answer_index": 3,
+    "explanation": "Kişi yargılandığını hissettiğinde savunmaya geçer ve iletişim tıkanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-54-24ok",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin sahip olduğu pozisyondan ve makamından gelen, yasalara ve mevzuata dayanan güç türü hangisidir?",
+    "options": [
+      "Zorlayıcı Güç",
+      "Bilgi Gücü",
+      "Yasal (Meşru) Güç",
+      "Karizmatik Güç",
+      "Ödül Gücü"
+    ],
+    "answer_index": 2,
+    "explanation": "Yasal güç, hiyerarşik yapıdaki resmi pozisyondan kaynaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-56-a7p5",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Z Kuramı (Theory Z) hangi iki yönetim anlayışının sentezi olarak ortaya çıkmıştır?",
+    "options": [
+      "Alman ve İngiliz",
+      "Amerikan ve Japon",
+      "Klasik ve Neoklasik",
+      "Otokratik ve Demokratik",
+      "Kamu ve Özel Sektör"
+    ],
+    "answer_index": 1,
+    "explanation": "William Ouchi tarafından geliştirilen Z Kuramı, Japon yönetim felsefesini Amerikan kültürüyle harmanlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-57-6hj3",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi örgütsel çatışmanın yapıcı (fonksiyonel) sonuçlarından biridir?",
+    "options": [
+      "Grup üyeleri arasında stresin artması",
+      "Grup içindeki iş birliğinin belirgin biçimde zayıflaması",
+      "Yeni fikirlerin ortaya çıkması ve değişimin tetiklenmesi",
+      "Kurumdaki genel verimlilik düzeyinin düşmesi",
+      "Personel devir hızının artması"
+    ],
+    "answer_index": 2,
+    "explanation": "Yapıcı çatışma, statükonun sorgulanmasını ve yenilikçi çözümlerin üretilmesini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-58-jdze",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Gürültü' kavramı aşağıdakilerden hangisini kapsar?",
+    "options": [
+      "Yalnızca fiziksel olarak yüksek sesli çevresel ortamı",
+      "Yalnızca iletişim cihazlarındaki teknik arızaları",
+      "Mesajın iletilmesini engelleyen veya bozan her türlü faktörü",
+      "Yalnızca mesajı alan kişinin dikkatsizliğini",
+      "Yalnızca taraflar arasındaki yabancı dil sorununu"
+    ],
+    "answer_index": 2,
+    "explanation": "Gürültü; fiziksel, psikolojik, semantik veya fizyolojik kaynaklı tüm engelleyicilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-59-gi68",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişilerarası mesafede 0-45 cm arası olan, sadece çok yakınların girebildiği alana ne ad verilir?",
+    "options": [
+      "Sosyal Alan",
+      "Genel Alan",
+      "Mahrem (İçsel) Alan",
+      "Kişisel Alan",
+      "Kamusal Alan"
+    ],
+    "answer_index": 2,
+    "explanation": "Edward T. Hall'ın yaygın sınıflandırmasında 0–45 cm, mahrem alan olarak adlandırılır. Mesafe tercihleri kültüre, ilişkiye ve bağlama göre değişebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-6-5nwo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Müzakere sürecinde tarafların kendi pozisyonlarından taviz vermeden sadece kendi kazanımlarına odaklandıkları 'Kazanan-Kaybeden' odaklı yaklaşım hangisidir?",
+    "options": [
+      "Bütünleştirici (İşbirliği) Müzakere",
+      "Dağıtımcı (Paylaşımcı) Müzakere",
+      "Yumuşak Müzakere",
+      "İlkeli Müzakere",
+      "Stratejik Ortaklık"
+    ],
+    "answer_index": 1,
+    "explanation": "Dağıtımcı müzakere, pastanın nasıl bölüşüleceğine odaklanır; bir tarafın kazancı diğerinin kaybıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-60-54h7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin 'Biz burada bir aileyiz' diyerek çalışanların sadakatini ve bağlılığını ön plana çıkarması hangi liderlik anlayışına yakındır?",
+    "options": [
+      "İşlemci (Etkileşimci) Liderlik",
+      "Babacan (Paternalist) Liderlik",
+      "Otokratik Liderlik",
+      "Bürokratik Liderlik",
+      "Narsistik Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Babacan (paternalist) liderlikte yönetici, koruyucu ve rehber bir ebeveyn figürü olarak görülür; buna karşılık bağlılık ve saygı beklentisi güçlü olabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-61-ctyz",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Soru Sorma' tekniklerinden 'Kapalı Uçlu Sorular' ne zaman tercih edilmelidir?",
+    "options": [
+      "Karşı tarafın duygularını anlamak istendiğinde",
+      "Yeni fikirler üretilmek istendiğinde",
+      "Net ve kesin bilgi (Evet/Hayır gibi) alınması gerektiğinde",
+      "Karşı tarafla konuşmanın kasıtlı olarak uzatılması istendiğinde",
+      "Konu hakkında derinlemesine bir analiz yapılması beklendiğinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Kapalı uçlu sorular, belirli bir odak noktasına yönelik hızlı ve net cevaplar almak için kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-62-tdb9",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Herzberg'e göre aşağıdakilerden hangisi bir 'Hijyen Faktörü'dür (yokluğu mutsuz eder ama varlığı tek başına motive etmez)?",
+    "options": [
+      "İşin içeriği",
+      "Sorumluluk alma",
+      "Ücret ve çalışma koşulları",
+      "Kişisel gelişim imkanı",
+      "Tanınma ve takdir edilme"
+    ],
+    "answer_index": 2,
+    "explanation": "Ücret, politika ve fiziksel şartlar hijyen faktörleridir; eksiklikleri tatminsizlik yaratır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-63-kpoo",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Yöneticinin astına verdiği geri bildirimin 'Ben' diliyle ifade edilmesi neden önemlidir?",
+    "options": [
+      "Yöneticinin sahip olduğu otoriteyi daha da artırmak için",
+      "Astın suçluluk hissetmesini sağlamak için",
+      "Savunmacı tutumu azaltmak ve yapıcı iletişimi sürdürmek için",
+      "Astın çalışma ortamında korumacı bir tutum sergilemesi için",
+      "Mesajın karmaşıklaşmasını önlemek için"
+    ],
+    "answer_index": 2,
+    "explanation": "Ben dili, davranışı kişiselleştirmeden duygu ve etkiyi aktardığı için direnci kırar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-64-n71i",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, astının yaptığı bir hatayı tüm ekip önünde sertçe eleştirmesi aşağıdakilerden hangisine yol açmaz?",
+    "options": [
+      "Astın motivasyonunun düşmesine",
+      "Kurum içi güven ortamının zedelenmesine",
+      "Diğer çalışanların korku hissetmesine",
+      "Verimliliğin sürdürülebilir şekilde artmasına",
+      "İletişim çatışmalarının artmasına"
+    ],
+    "answer_index": 3,
+    "explanation": "Toplum önünde eleştiri (utandırma), uzun vadede verimliliği ve bağlılığı düşürür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-65-jfh0",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişimde 'Bilgi Aşırı Yüklemesi' (Information Overload) durumunda çalışan ne gibi bir tepki verir?",
+    "options": [
+      "Alışılmış hızından çok daha hızlı çalışmaya başlar",
+      "Karar verme kalitesi düşer ve önemli bilgileri atlayabilir",
+      "Hafıza kapasitesi belirgin biçimde güçlenir",
+      "Mevcut iletişim kanallarını çok daha verimli kullanır",
+      "Genel mutluluk ve tatmin düzeyi artar"
+    ],
+    "answer_index": 1,
+    "explanation": "Kapasiteyi aşan bilgi akışı, kafa karışıklığına ve hata yapma riskinin artmasına neden olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-18T11:31:39.052387+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-67-6el8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Liderlikte 'Grid (Yönetsel Kafes) Kuramı'na göre, hem insana hem de üretime (işe) en yüksek (9,9) önemi veren liderlik tarzı hangisidir?",
+    "options": [
+      "Cılız (Zayıf) Liderlik",
+      "Şehir Kulübü Liderliği",
+      "Görev Liderliği",
+      "Ekip (Takım) Liderliği",
+      "Orta Yolcu Liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "9,9 lideri (Ekip yönetimi), çalışan bağlılığı ile iş başarısını en üst düzeyde birleştiren ideal tarzdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-68-ovyp",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgütsel iletişim ağlarında, merkezde tek bir kişinin bulunduğu ve tüm iletişimin bu kişi üzerinden gerçekleştiği, hızı yüksek ancak grup tatmini düşük olan iletişim modeli hangisidir?",
+    "options": [
+      "Çember Modeli",
+      "Yıldız (Tekerlek) Modeli",
+      "Zincir Modeli",
+      "Serbest (Tümü Kanallı) Model",
+      "Y Modeli"
+    ],
+    "answer_index": 1,
+    "explanation": "Yıldız (tekerlek) modelinde otorite merkezdedir. Kararlar hızlı alınır ancak merkezdeki kişi dışındakilerin iş tatmini düşüktür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-69-f0nm",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Eric Berne tarafından geliştirilen 'Transaksiyonel Analiz' kuramına göre; iletişim sırasında kişinin tamamen mantıklı, objektif ve veri odaklı davrandığı ego durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Çocuk Ego Durumu",
+      "Eleştirel Ebeveyn Ego Durumu",
+      "Koruyucu Ebeveyn Ego Durumu",
+      "Yetişkin Ego Durumu",
+      "Asi Çocuk Ego Durumu"
+    ],
+    "answer_index": 3,
+    "explanation": "Yetişkin ego durumu; duygu ve önyargılardan uzak, rasyonel, 'şimdi ve burada' odaklı iletişim kurduğumuz durumdur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-70-mlk7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bruce Tuckman'ın 'Grup Gelişim Evreleri' modeline göre; grup üyeleri arasında güç mücadelelerinin yaşandığı, fikir ayrılıklarının su yüzüne çıktığı ve çatışmaların yoğunlaştığı evre hangisidir?",
+    "options": [
+      "Oluşum (Forming)",
+      "Fırtına (Storming)",
+      "Kurallar/Normlaşma (Norming)",
+      "Performans (Performing)",
+      "Dağılma (Adjourning)"
+    ],
+    "answer_index": 1,
+    "explanation": "Fırtına (çatışma) evresi, liderlik mücadelelerinin olduğu ve üyelerin sınırları test ettiği gerilimli bir dönemdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-71-8r8t",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İşyerinde bir veya birden fazla kişinin, bir diğer kişiye yönelik olarak sistematik, sürekli ve kasıtlı olarak uyguladıkları psikolojik şiddet, baskı ve yıldırma eylemlerine ne ad verilir?",
+    "options": [
+      "Burnout (Tükenmişlik)",
+      "Bilişsel Çelişki",
+      "Cam Uçurum",
+      "Mobbing",
+      "Nepotizm"
+    ],
+    "answer_index": 3,
+    "explanation": "Heinz Leymann tarafından kavramsallaştırılan Mobbing, iş yerinde uygulanan sistematik psikolojik taciz ve yıldırmadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-72-p2ti",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Sözsüz iletişimde, iletişimin gerçekleştiği zaman dilimini, zamanın kullanım biçimini (örneğin toplantıya geç kalmak veya zamanında bitirmek) inceleyen alt dal aşağıdakilerden hangisidir?",
+    "options": [
+      "Kinesik",
+      "Haptik",
+      "Kronemik",
+      "Proksemik",
+      "Okülesik"
+    ],
+    "answer_index": 2,
+    "explanation": "Kronemik (Chronemics), zamanın iletişimdeki rolünü ve kullanımını inceler.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-73-t22r",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Paul Hersey ve Ken Blanchard tarafından geliştirilen, yöneticinin liderlik tarzını (yönlendirici, ikna edici, katılımcı, yetki devreden) astlarının gelişim düzeyine göre belirlemesi gerektiğini savunan kuram hangisidir?",
+    "options": [
+      "Yol-Amaç Kuramı",
+      "Durumsal Liderlik Kuramı",
+      "Özellikler Kuramı",
+      "Dönüşümcü Liderlik",
+      "Yönetsel Kafes Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Durumsal liderlik kuramına göre tek bir en iyi liderlik tarzı yoktur; liderlik davranışı, takipçilerin göreve ilişkin yetkinlik ve isteklilik düzeyine göre uyarlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-75-42a6",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurt Lewin'in üç aşamalı Örgütsel Değişim Modeli'nin ilk aşaması olan ve mevcut alışkanlıkların, dirençlerin kırılıp değişime ihtiyaç duyulduğunun kabul edildiği aşama aşağıdakilerden hangisidir?",
+    "options": [
+      "Değiştirme",
+      "Yeniden Dondurma",
+      "Buzları Çözme (Çözülme)",
+      "Kurumsallaşma",
+      "Uyumlandırma"
+    ],
+    "answer_index": 2,
+    "explanation": "Lewin'in modeli üç aşamalıdır: 1) Buzları Çözme (Unfreezing), 2) Değişim (Moving/Change), 3) Yeniden Dondurma (Refreezing).",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-76-sxzn",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir çalışanın aynı anda hem amiri tarafından ekstra mesaiye kalmasının istenmesi hem de ailesi tarafından evde olmasının beklenmesi durumunda yaşadığı çatışma türü hangisidir?",
+    "options": [
+      "Kişilerarası çatışma",
+      "Kişi (Birey) içi rol çatışması",
+      "Gruplararası çatışma",
+      "Örgütlerarası çatışma",
+      "Süreç çatışması"
+    ],
+    "answer_index": 1,
+    "explanation": "Bireyin kendisinden beklenen farklı rollerin (iş kadını/adamı rolü vs. ebeveyn rolü) birbiriyle çelişmesine kişi içi rol çatışması denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-77-8857",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Bir yöneticinin, personelinin fikirlerini dinliyormuş gibi görünüp aslında sadece onay beklediği ve farklı fikirlere kapalı olduğu iletişim iklimine ne ad verilir?",
+    "options": [
+      "Destekleyici iletişim iklimi",
+      "Açık iletişim iklimi",
+      "Savunucu iletişim iklimi",
+      "Empatik iletişim iklimi",
+      "Sinerjik iletişim iklimi"
+    ],
+    "answer_index": 2,
+    "explanation": "Savunucu iletişim ikliminde yöneticiler kesin inançlıdır (dogmatik) ve astlarını kontrol etmeye odaklanır, bu da iletişimi kapatır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-78-lruy",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kişinin bir konudaki inançları ile davranışları arasında bir uyuşmazlık olduğunda yaşadığı psikolojik gerginliğe ve huzursuzluğa ne ad verilir?",
+    "options": [
+      "Bilişsel Esneklik",
+      "Bilişsel Çelişki (Uyumsuzluk)",
+      "Öğrenilmiş Çaresizlik",
+      "Koşullanma",
+      "Grup Düşüncesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Leon Festinger'in Bilişsel Çelişki (Cognitive Dissonance) kuramı, tutumlar ve davranışlar arasındaki tutarsızlığın yarattığı stresi ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-81-79mf",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışan ile kurum arasında yazılı olmayan, her iki tarafın birbirlerinden karşılıklı gizli beklentilerini (sadakat, güven, adalet gibi) ifade eden kavrama ne denir?",
+    "options": [
+      "Hizmet Sözleşmesi",
+      "Toplu İş Sözleşmesi",
+      "Görev Tanımı",
+      "Psikolojik Sözleşme",
+      "Etik Kod"
+    ],
+    "answer_index": 3,
+    "explanation": "Psikolojik sözleşme, resmi evraklarda yer almayan, beklenti ve inançlara dayalı karşılıklı taahhütlerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-83-l83y",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Kurum içi informal (gayriresmi) iletişim ağları içinde en yaygın olan; bilginin seçilmiş ve güvenilen birkaç kişiye aktarıldığı, onların da kendi seçtikleri kişilere aktardığı model hangisidir?",
+    "options": [
+      "Tek zincir modeli",
+      "Dedikodu zinciri modeli",
+      "Olasılık zinciri modeli",
+      "Küme zinciri modeli",
+      "Tekerlek modeli"
+    ],
+    "answer_index": 3,
+    "explanation": "Küme (Cluster) zinciri modeli, bilginin rastgele değil, seçici olarak paylaşıldığı en gerçekçi ve yaygın informal iletişim türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-84-0obu",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Robert House tarafından geliştirilen; liderin temel görevinin astlarının hedeflerine ulaşması için engelleri kaldırmak ve onlara rehberlik etmek olduğunu savunan kuram hangisidir?",
+    "options": [
+      "Özellikler Kuramı",
+      "Yol-Amaç Kuramı",
+      "Yönetsel Kafes Kuramı",
+      "Davranışsal Kuram",
+      "Karizmatik Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Yol-Amaç (Path-Goal) kuramı, Vroom'un Beklenti teorisine dayanır. Lider, amaca giden yolu temizler ve ödülleri belirler.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-85-t0q2",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Aşağıdakilerden hangisi stresin her zaman olumsuz olmadığını, belirli bir seviyedeki stresin motivasyonu, uyanıklığı ve performansı artırdığını ifade eden kavramdır?",
+    "options": [
+      "Distres (Kötü stres)",
+      "Östres (Eustress - İyi stres)",
+      "Burnout (Tükenmişlik)",
+      "Depresyon",
+      "Anksiyete"
+    ],
+    "answer_index": 1,
+    "explanation": "Östres (Eustress), organizmayı harekete geçiren, yaratıcılığı ve motivasyonu tetikleyen optimum seviyedeki olumlu strestir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-86-svk7",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişimde 'Halo Etkisi'nin tam tersi olan; kişinin tek bir olumsuz özelliğine veya yaptığı tek bir hataya bakarak onunla ilgili genel olarak tamamen olumsuz bir yargıya varılması durumuna ne ad verilir?",
+    "options": [
+      "Pygmalion Etkisi",
+      "Boynuz (Horn) Etkisi",
+      "Zıtlık Etkisi",
+      "Stereotiplendirme",
+      "Yansıtma"
+    ],
+    "answer_index": 1,
+    "explanation": "Boynuz (Horn) etkisi, tek bir negatif özelliğin diğer tüm pozitif özellikleri gölgelemesi ve kişiyi tamamen yetersiz görme hatasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-87-ir53",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Çalışanların performansını çok yönlü olarak ölçmek için; amirlerin, astların, eş düzeydeki çalışma arkadaşlarının ve hatta müşterilerin değerlendirme sürecine katıldığı geri bildirim yöntemi hangisidir?",
+    "options": [
+      "Yukarıya Doğru Değerlendirme",
+      "Özdeğerlendirme",
+      "360 Derece Geri Bildirim",
+      "Klasik Performans Değerlendirme",
+      "Mülakat"
+    ],
+    "answer_index": 2,
+    "explanation": "360 derece geri bildirim, personelin etrafındaki tüm iletişim paydaşlarından veri toplayan kapsamlı bir değerlendirme sistemidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-88-hbkk",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Clayton Alderfer'in ERG Kuramı'na özgü olan; üst düzey bir ihtiyacın karşılanamaması durumunda bireyin motivasyonunu kaybederek bir alt düzeydeki ihtiyaca yönelmesini açıklayan ilke hangisidir?",
+    "options": [
+      "Gelişme İhtiyacı İlkesi",
+      "Engellenme-Gerileme İlkesi",
+      "Eşitlik İlkesi",
+      "Pekiştirme İlkesi",
+      "Hijyen İlkesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Engellenme-Gerileme (Frustration-Regression) ilkesine göre, birey üst ihtiyacını tatmin edemezse (örneğin terfi edemezse) alt ihtiyaca (örneğin arkadaşlık ilişkilerine) daha çok sarılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-90-v2y8",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Zaman yönetiminde işleri 'Aciliyet' ve 'Önem' derecelerine göre 4 farklı çeyreğe ayırarak önceliklendirmeyi sağlayan ünlü matris kimin adıyla anılır?",
+    "options": [
+      "Taylor Matrisi",
+      "Maslow Matrisi",
+      "Eisenhower Matrisi",
+      "Gantt Şeması",
+      "Pareto Analizi"
+    ],
+    "answer_index": 2,
+    "explanation": "Eisenhower Matrisi, işleri Acil-Önemli, Acil Değil-Önemli vb. şeklinde sınıflandırarak etkili zaman yönetimini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-91-2u20",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "İletişim sürecinde karşı tarafın ne hissettiğini anlamanın (empati) ötesine geçerek, doğrudan onunla aynı duyguyu yaşamak, onunla birlikte üzülmek veya ağlamak aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "options": [
+      "Empati",
+      "Sempati",
+      "Apati",
+      "Antipati",
+      "Telepati"
+    ],
+    "answer_index": 1,
+    "explanation": "Sempati (duygudaşlık), karşısındakiyle duygu birliğine girmektir. Empatide anlamak varken, sempatide aynı duyguyu yaşamak ve hak vermek vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-insan-iliskileri-mssy59aj-92-l1f3",
+    "topic_id": "yonetim-insan-iliskileri",
+    "prompt": "Örgüt kültürünü sınıflandıran Cameron ve Quinn'e göre; çalışanların bir aile gibi olduğu, takım çalışmasının, katılımın ve sadakatin çok yüksek olduğu kültür tipi hangisidir?",
+    "options": [
+      "Pazar (Market) Kültürü",
+      "Adhokrasi (Yenilikçi) Kültürü",
+      "Hiyerarşi (Bürokratik) Kültürü",
+      "Klan (Aile) Kültürü",
+      "Mekanik Kültür"
+    ],
+    "answer_index": 3,
+    "explanation": "Klan kültürü, insan odaklıdır. Çalışanlar kurumu bir aile olarak görür ve yöneticiler mentör/baba figürü gibidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:52:02.150497+00:00",
+    "updated_at": "2026-08-14T12:52:02.150497+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-0-e9az",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumun en üst düzey yöneticisinden en alt kademedeki memura kadar uzanan yetki ve sorumluluk zincirine ne ad verilir?",
+    "options": [
+      "Kurmay Yetki",
+      "Adokrasi",
+      "Matris Yapı",
+      "Fonksiyonellik",
+      "Hiyerarşi"
+    ],
+    "answer_index": 4,
+    "explanation": "Hiyerarşi, örgütteki üst-ast ilişkilerini ve emir-komuta zincirini ifade eden dikey sıralanıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-1-vzfl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim sürecinin ilk aşaması olan, kurumun gelecekte ulaşmak istediği amaçların belirlenmesi ve bu amaçlara ulaşmak için izlenecek yolların saptanmasını ifade eden fonksiyon aşağıdakilerden hangisidir?",
+    "options": [
+      "Örgütleme",
+      "Planlama",
+      "Koordinasyon",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "answer_index": 1,
+    "explanation": "Planlama, yönetim sürecinin temelidir ve kurumda neyin, nasıl, ne zaman yapılacağının önceden belirlenmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-10-ygzk",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Herzberg'in 'Çift Faktör Kuramı'na göre aşağıdakilerden hangisi çalışanları doğrudan motive eden faktörlerden (Motive ediciler) biridir?",
+    "options": [
+      "Maaş ve ücret",
+      "Çalışma koşulları",
+      "Kurumun politikaları",
+      "İş arkadaşlarıyla ilişkiler",
+      "İşte elde edilen başarı ve tanınma"
+    ],
+    "answer_index": 4,
+    "explanation": "Maaş, çalışma koşulları ve politikalar 'Hijyen' faktörleridir; yoklukları tatminsizlik yaratır ama doğrudan motive etmezler. Başarı, tanınma ve sorumluluk ise asıl motive edicilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-100-2h5w",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Daniel Goleman'ın 'Duygusal Zeka' (EQ) modeline göre aşağıdakilerden hangisi duygusal zekanın temel bileşenlerinden biri değildir?",
+    "options": [
+      "Özbilinç (Kendini Tanıma)",
+      "Özyönetim (Duyguları Kontrol)",
+      "Analitik Matematik Becerisi",
+      "Sosyal Beceriler",
+      "Empati"
+    ],
+    "answer_index": 2,
+    "explanation": "Analitik matematik becerisi Bilişsel Zekanın (IQ) bir konusudur, Duygusal Zekanın (EQ) değil.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-101-ua7e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Sistem Yaklaşımına göre, kurumların çevreleriyle madde, enerji ve bilgi alışverişinde bulunarak hayatta kaldığı sistem türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Kapalı Sistem",
+      "Açık Sistem",
+      "Mekanik Sistem",
+      "Soyut Sistem",
+      "İzole Sistem"
+    ],
+    "answer_index": 1,
+    "explanation": "Açık sistemler çevreleriyle sürekli etkileşim halinde olan, dışarıdan girdi alan ve dışarıya çıktı veren canlı organizasyonlardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-102-hm2i",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdaki çatışma türlerinden hangisi kurum için 'yapıcı' (fonksiyonel) kabul edilir ve belli bir düzeye kadar teşvik edilebilir?",
+    "options": [
+      "Kişiler arasındaki husumete dayalı kişisel çatışma",
+      "İletişim kopukluğundan ve yanlış anlaşılmalardan doğan çatışma",
+      "Görev ve süreçlere yönelik fikir uyuşmazlığına dayalı çatışma",
+      "Kaynak paylaşımındaki adaletsizlikten doğan çatışma",
+      "Mobbing yani sistematik yıldırmadan kaynaklanan çatışma"
+    ],
+    "answer_index": 2,
+    "explanation": "İşin nasıl daha iyi yapılacağına dair farklı fikirlerin tartışılması (görev çatışması), yenilikçiliği beslediği için düşük/orta seviyelerde yapıcı (fonksiyonel) kabul edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-103-oz6u",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bireylerin kendileri ve başkaları hakkındaki farkındalık düzeylerini açıklamak için kullanılan 'Johari Penceresi' modelinde, 'Kişinin kendisinin bilmediği ancak başkalarının onda gördüğü' alan hangisidir?",
+    "options": [
+      "Açık Alan",
+      "Aydınlık Alan",
+      "Gizli Alan",
+      "Bilinmeyen Alan",
+      "Kör Alan"
+    ],
+    "answer_index": 4,
+    "explanation": "Johari Penceresi'nde kör alan, başkalarının sizin hakkınızda bildiği veya fark ettiği ama sizin kendi hakkınızda farkında olmadığınız özelliklerinizi temsil eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-104-irf9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Toplam Kalite Yönetimi (TKY) anlayışında hataları bulmaktan ziyade hataları 'önlemeye' odaklanan ve üretimin her aşamasında kaliteyi güvence altına alan yaklaşımın temel taşı nedir?",
+    "options": [
+      "Üretim sonrası yapılan son denetim",
+      "Hataları cezalandırmaya dayalı ceza sistemi",
+      "Sürekli eğitim ve önleyici kontrol",
+      "Kısa vadeli maliyetleri düşürmeye odaklılık",
+      "Her aşamada üst makamdan onay alınması"
+    ],
+    "answer_index": 2,
+    "explanation": "TKY'nin temel felsefesi hataları oluştuktan sonra ayıklamak değil, süreci iyileştirerek hatanın oluşmasını (sıfır hata hedefi) önlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-105-995d",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel iletişimde 'üzüm salkımı' (grapevine) neyi ifade eder?",
+    "options": [
+      "Dedikodu ve söylentilerin yayıldığı informal iletişimi",
+      "Astların üstlere düzenli olarak yaptığı raporlamayı",
+      "Aynı düzeydeki birimler arasındaki resmi toplantıları",
+      "Emir-komuta zincirini izleyen resmi hiyerarşik iletişimi",
+      "Dış paydaşlarla resmi yazışmaları"
+    ],
+    "answer_index": 0,
+    "explanation": "Üzüm salkımı, kurum içindeki resmi olmayan (informal), kontrolü zor ve genellikle hızlı yayılan söylenti/dedikodu iletişim ağını tanımlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-106-i82a",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin, astlarına karar verme sürecinde söz hakkı tanıdığı, onların fikirlerini alarak nihai kararı şekillendirdiği liderlik tarzı hangisidir?",
+    "options": [
+      "Otokratik Liderlik",
+      "Demokratik (Katılımcı) Liderlik",
+      "Serbest Bırakıcı Liderlik",
+      "Bürokratik Liderlik",
+      "Paternalist Liderlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Demokratik liderler, karar alma süreçlerine çalışanları dahil eder ve takımın fikirlerine değer verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-107-q57q",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kriz sonrası yapılan değerlendirme çalışmasının temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Aynı risklerin tekrarını önleyecek dersleri ve iyileştirmeleri belirlemek",
+      "Krizin yaşandığı gerçeğini basından ve kamuoyundan tamamen gizlemek",
+      "Yaşanan krizin sorumluluğunu araştırmadan tek bir çalışana yüklemek",
+      "Mevcut kriz planını hiç incelemeden doğrudan yürürlükten kaldırmak",
+      "Krizin yol açtığı yalnızca maddi kayıpları kayda geçirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Kriz sonrası değerlendirme; uygulamaları gözden geçirme, öğrenilen dersleri belirleme ve kriz planını geliştirme amacını taşır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T08:54:58.120241+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-108-816k",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astın yetki ve sorumluluk düzeyinin 'dikey' olarak artırılmasına, yani çalışana daha fazla özerklik, kontrol ve planlama hakkı verilmesine ne denir?",
+    "options": [
+      "İş Genişletme",
+      "İş Bölümü",
+      "İş Rotasyonu",
+      "İş Değerlemesi",
+      "İş Zenginleştirme"
+    ],
+    "answer_index": 4,
+    "explanation": "İş zenginleştirme (Job enrichment), işin derinliğini artırarak çalışana işini planlama ve kontrol etme konusunda daha fazla inisiyatif verilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-11-7x55",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin kurum sorunlarını analiz edebilmesi, farklı olaylar arasındaki ilişkileri görebilmesi ve kurumu bir bütün olarak algılayabilme yeteneği hangi yönetim becerisi kapsamında değerlendirilir?",
+    "options": [
+      "Kavramsal Beceri",
+      "İnsani (Beşeri) Beceri",
+      "Teknik Beceri",
+      "İletişim Becerisi",
+      "Zaman Yönetimi Becerisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Bütünü görebilme, analitik düşünme ve karmaşık sorunları çözme kapasitesi özellikle üst düzey yöneticilerde bulunması gereken kavramsal becerilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-12-lkan",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir amirin, kurum hedeflerine ulaşmak için personelin katılımına izin vermediği, tüm kararları tek başına aldığı ve cezalandırma gücünü ön planda tuttuğu liderlik tarzı aşağıdakilerden hangisidir?",
+    "options": [
+      "Otokratik Liderlik",
+      "Dönüşümcü Liderlik",
+      "Demokratik Liderlik",
+      "Laissez-Faire (Serbest Bırakıcı) Liderlik",
+      "Hizmetkar Liderlik"
+    ],
+    "answer_index": 0,
+    "explanation": "Kararların tek elde toplandığı, emredici ve baskıcı yönetim biçimi otokratik liderliktir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-13-0l7b",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt içindeki iletişimde kaynaktan alıcıya giden mesajın tam ve doğru bir şekilde ulaşmasını engelleyen her türlü dış etken yönetim biliminde ne olarak adlandırılır?",
+    "options": [
+      "Geri bildirim (Feedback)",
+      "Kodlama",
+      "Gürültü (Bozucu etken)",
+      "Kanal",
+      "Dekodaj"
+    ],
+    "answer_index": 2,
+    "explanation": "Fiziksel, psikolojik veya anlamsal olarak mesajın anlaşılmasını zorlaştıran tüm engeller iletişimde 'gürültü' olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-14-304j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar verme süreci bir dizi mantıksal aşamadan oluşur. Rasyonel karar verme sürecinin ilk aşaması aşağıdakilerden hangisidir?",
+    "options": [
+      "Alternatifleri değerlendirmek",
+      "Alternatif çözümler geliştirmek",
+      "Kararı uygulamak",
+      "Problemi (Sorunu) tanımlamak",
+      "Sonuçları denetlemek"
+    ],
+    "answer_index": 3,
+    "explanation": "Karar verme sürecinin başarılı olabilmesi için ilk adım, ortadaki problemin doğru, eksiksiz ve net bir şekilde tanımlanmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-15-vd53",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astların ihtiyaçlarını merkeze alan, onların gelişimini destekleyen ve güçlendiren, 'yönetmekten çok hizmet etmeye' odaklanan çağdaş liderlik yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Karizmatik Liderlik",
+      "İşlemci Liderlik",
+      "Otokratik Liderlik",
+      "Hizmetkar Liderlik",
+      "Vizyoner Liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "Hizmetkar liderlik, liderin temel amacının astlarına, organizasyona ve topluma hizmet etmek olduğu; etik, güven ve empatiye dayalı yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-16-dqe3",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt yapısında 'Kontrol Alanı (Yönetim Alanı)' kavramı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Kurumun bir yıl içinde denetleyebildiği toplam bütçe miktarının tamamını",
+      "Kurumun dış çevresiyle kurduğu etkileşim kapasitesini ifade eder",
+      "Kurumun sahip olduğu fiziki alanın ve bina büyüklüğünün toplamını",
+      "Bir yöneticiye doğrudan bağlı ve onun etkin bir şekilde yönetebileceği ast sayısını",
+      "Merkez teşkilatınca doğrudan ve dolaylı olarak yönetilen birim sayısını"
+    ],
+    "answer_index": 3,
+    "explanation": "Kontrol alanı, bir yöneticinin etkin biçimde yönlendirebileceği ve denetleyebileceği ast/çalışan sayısını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T08:54:58.120241+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-17-drsz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kamu kurumunda tarafların (örneğin iki farklı şube müdürlüğünün) kendi isteklerinden bir miktar fedakarlık yaparak ortak bir orta yolda buluşması, çatışma yönetimi stratejilerinden hangisine girer?",
+    "options": [
+      "Kaçınma",
+      "Uyma",
+      "Rekabet Etme",
+      "Uzlaşma",
+      "Problem Çözme (İşbirliği)"
+    ],
+    "answer_index": 3,
+    "explanation": "Tarafların karşılıklı tavizler vererek kısmi tatmin sağladığı ve anlaşmaya vardığı çatışma çözme yöntemi 'uzlaşma'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-18-10ey",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Elton Mayo öncülüğünde yapılan ve yönetim biliminde 'İnsan İlişkileri Yaklaşımı'nın (Neo-Klasik Yaklaşım) doğmasına neden olan ünlü araştırmalar dizisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Zaman ve Hareket Etütleri",
+      "Hawthorne Araştırmaları",
+      "Tavistock Araştırmaları",
+      "Ohio State Liderlik Çalışmaları",
+      "Michigan Üniversitesi Çalışmaları"
+    ],
+    "answer_index": 1,
+    "explanation": "Hawthorne araştırmaları, verimliliğin sadece fiziksel koşullara bağlı olmadığını, çalışanların psikolojik ve sosyal ihtiyaçlarının da çok önemli olduğunu ortaya koymuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-19-guku",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik yönetim bağlamında, bir kamu kurumunun var oluş nedenini, hangi amaçla kurulduğunu ve temel görevini açıklayan ifadeye ne ad verilir?",
+    "options": [
+      "Vizyon",
+      "Hedef",
+      "Politika",
+      "Misyon (Özgörev)",
+      "Prosedür"
+    ],
+    "answer_index": 3,
+    "explanation": "Misyon, bir kurumun şu anda ne olduğunu, ne yaptığını ve var oluş nedenini tanımlayan temel bildirgedir. Vizyon ise gelecekte olmak istenen yeri ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-2-jjb4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Klasik yönetim kuramcılarından Henri Fayol'un yönetim ilkelerinden biri olan 'Komuta Birliği' ilkesi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Her astın yalnızca bir üsten emir almasını",
+      "Tüm kararların tepe yönetimde alınmasını",
+      "Yetkinin alt kademelere devredilmesini",
+      "İşlerin uzmanlık alanlarına göre bölünmesini",
+      "Kurumda takım çalışmasının desteklenmesini"
+    ],
+    "answer_index": 0,
+    "explanation": "Komuta birliği ilkesi, çatışma ve karmaşayı önlemek amacıyla her astın sadece tek bir amire bağlı olması ve ondan emir alması gerektiğini belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-20-mzic",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Toplam Kalite Yönetimi'nin (TKY) temel felsefelerinden olan, süreçlerin her gün küçük adımlarla sürekli olarak iyileştirilmesini ifade eden Japonca kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanban",
+      "Just-in-Time",
+      "Kaizen",
+      "Poka-Yoke",
+      "Muda"
+    ],
+    "answer_index": 2,
+    "explanation": "Kaizen, mevcut durumu korumakla yetinmeyip her gün küçük de olsa sürekli bir iyileştirme ve gelişim çabası içinde olmayı ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-21-huoy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu yönetiminde yetkilerin tek merkezde (Bakanlık vb.) toplanmadığı, karar alma ve uygulama yetkisinin merkezin dışındaki birimlere de verildiği yönetim ilkesi nedir?",
+    "options": [
+      "Merkeziyetçilik",
+      "Yerinden Yönetim",
+      "Fonksiyonel Örgütlenme",
+      "Dikey Hiyerarşi",
+      "Bürokrasi"
+    ],
+    "answer_index": 1,
+    "explanation": "Yerel ihtiyaçların daha hızlı ve etkin karşılanabilmesi için yetkilerin merkezi idareden mahalli veya bölgesel birimlere aktarılması yerinden yönetimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-22-kded",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astlarının ihtiyaçlarını anlayan, onların ilham almasını sağlayan, entelektüel uyarım yaratarak kurumu ve personeli daha üst hedeflere taşıyan liderlik türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Dönüşümcü (Transformasyonel) Liderlik",
+      "İşlemci (Etkileşimci) Liderlik",
+      "Laissez-Faire",
+      "Babacan (Paternalist) Liderlik",
+      "Otoriter Liderlik"
+    ],
+    "answer_index": 0,
+    "explanation": "Dönüşümcü liderlik; vizyon aşılayarak, kurumsal değişimi yöneterek ve çalışanları motive ederek büyük çaplı değişimler yaratan liderlik tarzıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-23-1t0d",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt içi iletişimde emirlerin, talimatların ve kurumsal politikaların üst kademelerden alt kademelere doğru iletilmesine ne ad verilir?",
+    "options": [
+      "Yatay İletişim",
+      "Yukarıdan Aşağıya İletişim",
+      "Aşağıdan Yukarıya İletişim",
+      "Çapraz İletişim",
+      "İnformal İletişim"
+    ],
+    "answer_index": 1,
+    "explanation": "Amirlerden memurlara doğru işleyen, emir, talimat ve kural aktarımını içeren hiyerarşik iletişim yukarıdan aşağıya iletişimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-24-hvmk",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi bir kurumda informal (biçimsel olmayan) örgütün ortaya çıkma nedenlerinden biri değildir?",
+    "options": [
+      "Kurum yönetiminin yasal bir zorunluluk olarak bunu kurması",
+      "Resmi iletişim kanallarının yetersiz kalması",
+      "Çalışanların sosyalleşme ihtiyacı",
+      "Ortak ilgi alanlarına sahip personelin bir araya gelmesi",
+      "Belirsizlik durumlarında çalışanların yardımlaşma güdüsü"
+    ],
+    "answer_index": 0,
+    "explanation": "İnformal örgütler, resmi yöneticiler tarafından yasa veya yönetmelikle kurulmazlar; çalışanların sosyal ilişkileri sonucu kendiliğinden doğal olarak oluşurlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-25-ht8v",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Modern organizasyon yapılarından olan, çalışanların hem fonksiyonel bir bölüm yöneticisine hem de çalıştıkları projenin yöneticisine bağlı oldukları ikili komuta sistemine dayanan yapı aşağıdakilerden hangisidir?",
+    "options": [
+      "Dikey Örgüt",
+      "Bölümlü Örgüt",
+      "Yatay Örgüt",
+      "Şebeke Örgüt",
+      "Matris Örgüt"
+    ],
+    "answer_index": 4,
+    "explanation": "Matris örgütlerde uzmanlar bir yandan uzmanlık alanlarındaki fonksiyonel müdüre bağlıyken, diğer yandan görevlendirildikleri proje yöneticisine bağlı çalışırlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-26-3sqx",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Henry Mintzberg'in yöneticilik rolleri sınıflandırmasına göre, kurum adına dışarıda anlaşmalar yapmak veya astlar arasındaki anlaşmazlıkları çözmek yöneticinin hangi tür rolleri arasındadır?",
+    "options": [
+      "Bilgi Sağlayıcı Roller",
+      "Karar Verici Roller",
+      "Kavramsal Roller",
+      "Bireylerarası (Kişilerarası) Roller",
+      "Teknik Roller"
+    ],
+    "answer_index": 1,
+    "explanation": "Kriz çözücü, kaynak dağıtıcı, girişimci ve müzakereci (anlaşma sağlayıcı) roller, Mintzberg'in modelinde yöneticinin Karar Verici rolleri grubuna girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-27-d86j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Denetim süreci zamanlamasına göre üçe ayrılır. Hatalar henüz ortaya çıkmadan, faaliyet başlamadan önce kaynakların kontrol edilerek önlem alınmasını sağlayan denetim türü hangisidir?",
+    "options": [
+      "İç Denetim",
+      "Eş Zamanlı (Süreç İçi) Denetim",
+      "Geri Bildirimli (Sonuç) Denetimi",
+      "İleriye Yönelik (Önleyici) Denetim",
+      "Dış Denetim"
+    ],
+    "answer_index": 3,
+    "explanation": "Faaliyetlere başlamadan önce girdi ve kaynakların standartlara uygun olup olmadığının kontrol edilmesi önleyici (ileriye dönük) denetimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-28-z21z",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlikte 'Durumsallık Yaklaşımı'nın temel varsayımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Liderlik doğuştan gelen kişisel özelliklere bağlıdır.",
+      "Her koşulda başarılı olan tek ve en iyi bir liderlik tarzı yoktur.",
+      "Liderin etkinliği astlarının tutumlarına bağlı değildir.",
+      "Liderin davranışları her kurumda standart ve aynı olmalıdır.",
+      "En iyi lider demokratik liderdir."
+    ],
+    "answer_index": 1,
+    "explanation": "Durumsallık kuramına göre 'en iyi liderlik tarzı' diye bir şey yoktur; etkili liderlik, içinde bulunulan koşullara, duruma, göreve ve astların niteliğine göre değişir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-29-wysu",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt iklimi ve örgüt kültürü arasındaki farkı en iyi ifade eden seçenek aşağıdakilerden hangisidir?",
+    "options": [
+      "İklim çalışanların o anki ruh halini yansıtan geçici bir durumdur, kültür ise yıllar içinde yerleşen kalıcı bir yapıdır.",
+      "Kültür derin inanç ve değerler sistemidir, iklim ise çalışanların çalışma ortamına dair algıladıkları genel atmosferdir.",
+      "İklim yalnızca üst düzey yöneticilerin tutumunu yansıtır, kültür ise tüm çalışanların ortak davranışlarını kapsar.",
+      "İklim, kurumun yazılı yasal düzenlemelerinden oluşur; kültür ise çalışanlar arasındaki gayriresmi alışkanlıklardan oluşur.",
+      "Aralarında herhangi bir kavramsal veya pratik fark bulunmamaktadır, ikisi de birbirinin yerine kullanılabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Örgüt kültürü zamanla oluşan kalıcı, köklü değerler ve normlar bütünü iken; örgüt iklimi, kişilerin bu ortamda hissettikleri, daha kolay değişebilen mevcut havadır (atmosfer).",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-3-igcu",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yetki devrinin etkili ve denetlenebilir olması için aşağıdakilerden hangisinin yapılması en uygundur?",
+    "options": [
+      "Devredilen işin kapsamını, yetki sınırını ve beklenen sonucu açıkça belirlemek",
+      "Astın yaptığı işle ilgili hiçbir bilgi istememek",
+      "Devredilen işle birlikte nihai hesap verebilirliği de tamamen bırakmak",
+      "Yetkiyi yazılı hale getirmeden sözlü ve belirsiz biçimde vermek",
+      "Astın işi yapması için gerekli kaynaklara erişimini tamamen engellemek"
+    ],
+    "answer_index": 0,
+    "explanation": "Etkili yetki devrinde işin sınırı, karar yetkisi, beklenen sonuç ve izleme biçimi açıkça belirlenir; üst yönetici nihai hesap verebilirliğini korur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-30-s13l",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticinin güç kaynaklarından olan 'Uzmanlık Gücü' (Expert Power) neye dayanır?",
+    "options": [
+      "Yöneticinin bulunduğu makama ve resmi unvanına",
+      "Yöneticinin ceza verebilme yetkisine",
+      "Yöneticinin sahip olduğu karizmatik kişiliğine ve etkileyiciliğine",
+      "Yöneticinin sahip olduğu bilgi, beceri, tecrübe ve liyakate",
+      "Yöneticinin astlarına terfi verebilmesine"
+    ],
+    "answer_index": 3,
+    "explanation": "Uzmanlık gücü, bireyin belirli bir alanda sahip olduğu derinlemesine bilgi, yetenek ve deneyim sayesinde başkaları üzerinde yarattığı etkidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-31-1vop",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Vroom’un 'Beklenti Kuramı'na göre bir çalışanın motive olması için aşağıdakilerden hangisinin gerçekleşmesi gerekir?",
+    "options": [
+      "Çaba gösterirse performans elde edeceğine ve bu performansın ödüle dönüşeceğine inanması",
+      "Çalışanın yalnızca aldığı maaşın miktarına odaklanması ve başka bir beklentisinin olmaması",
+      "Yöneticinin motivasyon aracı olarak yalnızca ceza ve baskı yöntemlerini kullanması",
+      "Çalışanın işini kaybetme korkusuyla iş güvencesinden yoksun olması",
+      "Kurumun gelecek vizyonunun tamamen belirsiz ve tanımsız olması"
+    ],
+    "answer_index": 0,
+    "explanation": "Beklenti Kuramı; motivasyonun 'Beklenti' (çaba-performans) ve 'Araçsallık' (performans-ödül) ve 'Valans' (ödülün değeri) unsurlarının bir bileşimi olduğunu savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-32-px1t",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt şemalarında aynı hiyerarşik düzeyde bulunan birimlerin (örneğin Personel Şube Müdürü ile Mali Hizmetler Şube Müdürü) arasındaki iletişim türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Dikey İletişim",
+      "Çapraz İletişim",
+      "Yatay İletişim",
+      "Yukarıdan Aşağıya İletişim",
+      "Resmi Olmayan İletişim"
+    ],
+    "answer_index": 2,
+    "explanation": "Aynı yetki ve sorumluluk düzeyindeki birimlerin koordinasyon amacıyla kurduğu iletişime yatay iletişim denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-33-v2uc",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik yönetim sürecinde kurumun güçlü ve zayıf yönleri ile dış çevreden gelen fırsat ve tehditlerin analiz edilmesine ne ad verilir?",
+    "options": [
+      "Balans Skor Kartı (BSK)",
+      "Kalite Çemberleri",
+      "Beyin Fırtınası",
+      "Kıyaslama (Benchmarking)",
+      "SWOT Analizi (GZFT)"
+    ],
+    "answer_index": 4,
+    "explanation": "SWOT analizi; Kurum içi (Strengths-Weaknesses) ve kurum dışı (Opportunities-Threats) faktörlerin değerlendirilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-34-xfd4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi kamu yönetiminde 'Liyakat Sistemi'nin temel amaçlarından biri değildir?",
+    "options": [
+      "Sadece kıdemli memurların yönetici olmasını sağlamak",
+      "Siyasi etkileri kamu hizmetinden uzak tutmak",
+      "Personelin keyfi olarak görevden alınmasını önlemek",
+      "İşin ehline verilmesini sağlamak",
+      "Kamu hizmetlerinde verimliliği artırmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Liyakat sistemi kıdemden ziyade bilgi, yetenek ve başarıyı esas alır; sadece kıdemli olmak liyakat için yeterli bir kriter değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-35-f6do",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Geleceğin liderlerinin yetiştirilmesi, çalışanların kariyer planlamasının yapılması ve potansiyellerinin açığa çıkarılması hangi yönetim fonksiyonunun bir parçasıdır?",
+    "options": [
+      "Yöneltme fonksiyonu",
+      "İnsan Kaynakları Yönetimi",
+      "Planlama fonksiyonu",
+      "Bütçeleme süreci",
+      "Denetim fonksiyonu"
+    ],
+    "answer_index": 1,
+    "explanation": "Kariyer yönetimi, eğitim ve geliştirme faaliyetleri İnsan Kaynakları Yönetimi'nin temel fonksiyonları arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-36-xbn6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderin, astlarını 'ödül ve ceza' mekanizmasıyla yönettiği, performans karşılığında vaatlerde bulunduğu geleneksel liderlik türü hangisidir?",
+    "options": [
+      "Dönüşümcü Liderlik",
+      "Karizmatik Liderlik",
+      "Demokratik Liderlik",
+      "Etkileşimci (İşlemci) Liderlik",
+      "Hizmetkar Liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "Etkileşimci (Transactional) liderlik, lider ile ast arasında bir çıkar ilişkisine ve karşılıklı alışverişe (ödül/ceza) dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-37-cn3m",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, kendisine verilen bir işi yaparken astlarına karşı 'Babacan' bir tavır sergilemesi, onları koruması ancak kararları yine kendisinin alması hangi yönetim tarzını ifade eder?",
+    "options": [
+      "Otokratik",
+      "Demokratik",
+      "Paternalist (Babacan)",
+      "Tam Serbesti Veren",
+      "Stratejik"
+    ],
+    "answer_index": 2,
+    "explanation": "Paternalist yönetimde yönetici, astlarını bir aile ferdi gibi korur ama otoriteyi elinde tutarak son sözü kendisi söyler.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-38-ccyr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel çatışma yönetimi yöntemlerinden olan 'Kaçınma' stratejisi hangi durumda tercih edilmelidir?",
+    "options": [
+      "Konunun kurum için çok önemli ve acil olduğu durumlarda",
+      "Tarafların mutlaka uzlaşması gerektiğinde",
+      "Çatışmanın çözülmesinin maliyeti, getirisinden fazla olduğunda",
+      "Yöneticinin kesin bir karar vermesi gerektiğinde",
+      "Taraflar arasında tam işbirliğinin şart olduğu durumlarda"
+    ],
+    "answer_index": 2,
+    "explanation": "Eğer çatışma konusu önemsizse veya çözüm çabası kurum için daha büyük zarar doğuracaksa yönetici geçici olarak kaçınma (yok sayma) yoluna gidebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-39-wboq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi 'Tam Serbesti Tanıyan (Laissez-Faire)' liderlik tarzının bir özelliğidir?",
+    "options": [
+      "Lider grup üyelerine müdahale etmez, kaynakları sağlar ve geri çekilir.",
+      "Kararlar mutlaka tüm grup üyeleriyle birlikte ortaklaşa alınır.",
+      "Lider, astlarını işin her aşamasında sıkı biçimde denetler.",
+      "Hata yapan çalışanlar istisnasız ağır biçimde cezalandırılır.",
+      "Lider, kurumun geleceği için sürekli yeni vizyon ve hedefler belirler."
+    ],
+    "answer_index": 0,
+    "explanation": "Laissez-faire liderliğinde lider, yetkiyi tamamen astlara bırakır ve sürece minimum düzeyde müdahale eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T08:54:58.120241+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-4-g5h5",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Tapu müdürlükleri gibi vatandaş işlemlerinin ve evrak akışının yoğun olduğu kamu kurumlarında; sicil, arşiv, güvenlik ve vezne gibi farklı birimler arasındaki faaliyetlerin zaman ve çaba yönünden birbirini tamamlayacak şekilde uyumlu hale getirilmesi işlemi hangi yönetim fonksiyonudur?",
+    "options": [
+      "Planlama",
+      "Örgütleme",
+      "Denetim",
+      "Karar Verme",
+      "Eşgüdümleme"
+    ],
+    "answer_index": 4,
+    "explanation": "Eşgüdümleme (Koordinasyon), kurum içindeki farklı birimlerin kurumun genel amaçları doğrultusunda uyum içinde çalışmasını sağlama faaliyetidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-40-pvrf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kamu kurumlarında bir işlemin nasıl yapılacağını adım adım gösteren, personelin uyması gereken teknik detayları içeren belgelere ne ad verilir?",
+    "options": [
+      "Misyon Bildirgesi",
+      "Stratejik Plan",
+      "Prosedür / Uygulama Yönergesi",
+      "Vizyon Bildirgesi",
+      "Organizasyon Şeması"
+    ],
+    "answer_index": 2,
+    "explanation": "Prosedürler, bir işin nasıl gerçekleştirileceğine dair standart uygulama yöntemlerini belirleyen dokümanlardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-14T12:28:30.527746+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-41-awor",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "J. Stacy Adams tarafından geliştirilen 'Eşitlik (Hakkaniyet) Kuramı'na göre çalışanlar motivasyonlarını neye göre belirler?",
+    "options": [
+      "Yalnızca aldıkları maaşın nominal miktarına bakarak",
+      "Yöneticinin kendilerine gösterdiği nezaket ve saygı düzeyine göre",
+      "Kendi emek-çıktı oranlarını, iş arkadaşlarıninkiyle karşılaştırarak",
+      "Kurumun binasının fiziksel görünümüne ve güzelliğine bakarak",
+      "Ellerindeki boş zamanın miktarının çokluğuna göre"
+    ],
+    "answer_index": 2,
+    "explanation": "Eşitlik Kuramı, insanların işe kattıkları emek ile aldıkları ödülü başkalarıyla kıyaslayarak 'adalet' algısı oluşturduklarını savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T08:54:58.120241+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-42-f3mc",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi iletişimin 'Kanal' öğesini ifade eder?",
+    "options": [
+      "Mesajın iletildiği yol",
+      "Mesajın içeriği",
+      "Mesajı gönderen kişi",
+      "Mesajı alan kişi",
+      "Mesajın yarattığı etki"
+    ],
+    "answer_index": 0,
+    "explanation": "Kanal, bilginin kaynaktan alıcıya aktarılmasını sağlayan araç veya yöntemdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mssxb01r-43-5pni",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin personeline güvenmesi, onların işlerini en iyi şekilde yapacağına inanması ve onlara 'Y' kuramı çerçevesinde yaklaşması hangi davranışa yol açar?",
+    "options": [
+      "Çalışanlar üzerinde daha sıkı denetim kurulması",
+      "Cezaların ağırlaştırılması",
+      "Yetki devrinin artması ve katılımın teşviki",
+      "Gizli raporlama sistemleri",
+      "İş tanımlarının daraltılması"
+    ],
+    "answer_index": 2,
+    "explanation": "McGregor'un Y kuramı çalışanların sorumluluk alabileceğini varsaydığı için, bu yaklaşımı benimseyen yöneticiler yetki devreder ve katılımı destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-14T12:28:30.527746+00:00",
+    "updated_at": "2026-08-18T07:39:26.746417+00:00"
+  }
+]

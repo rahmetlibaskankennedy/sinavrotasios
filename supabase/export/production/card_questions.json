@@ -1,65 +1,5 @@
 [
   {
-    "id": "ata1",
-    "deck_id": "ataturk",
-    "prompt": "Türkiye Cumhuriyeti'nin ilk anayasası hangi yıl kabul edilmiştir?",
-    "options": [
-      "1921",
-      "1924",
-      "1961",
-      "1982"
-    ],
-    "answer_index": 1,
-    "sort_order": 1,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "ata2",
-    "deck_id": "ataturk",
-    "prompt": "Aşağıdakilerden hangisi Atatürk'ün altı ilkesinden biri değildir?",
-    "options": [
-      "Cumhuriyetçilik",
-      "Halkçılık",
-      "Eşitlikçilik",
-      "Laiklik"
-    ],
-    "answer_index": 2,
-    "sort_order": 2,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "ata3",
-    "deck_id": "ataturk",
-    "prompt": "Harf İnkılabı hangi yıl yapılmıştır?",
-    "options": [
-      "1923",
-      "1926",
-      "1928",
-      "1934"
-    ],
-    "answer_index": 2,
-    "sort_order": 3,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "ata4",
-    "deck_id": "ataturk",
-    "prompt": "Milli Mücadele'nin askeri safhasını bitiren ateşkes antlaşması hangisidir?",
-    "options": [
-      "Mondros",
-      "Mudanya",
-      "Sevr",
-      "Lozan"
-    ],
-    "answer_index": 1,
-    "sort_order": 4,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
     "id": "gk1",
     "deck_id": "genel-kultur",
     "prompt": "Türkiye'nin en yüksek dağı hangisidir?",
@@ -75,6 +15,21 @@
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
   },
   {
+    "id": "is1",
+    "deck_id": "idare-sistemi",
+    "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon"
+    ],
+    "answer_index": 1,
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
     "id": "gk2",
     "deck_id": "genel-kultur",
     "prompt": "İstiklal Marşı'nın şairi kimdir?",
@@ -85,6 +40,21 @@
       "Ziya Gökalp"
     ],
     "answer_index": 1,
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00"
+  },
+  {
+    "id": "is2",
+    "deck_id": "idare-sistemi",
+    "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "Belediye",
+      "Bakanlık"
+    ],
+    "answer_index": 2,
     "sort_order": 2,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
@@ -133,186 +103,5 @@
     "sort_order": 5,
     "created_at": "2026-08-04T09:30:18.950992+00:00",
     "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "ih1",
-    "deck_id": "insan-haklari",
-    "prompt": "İnsan Hakları Evrensel Bildirgesi hangi yıl kabul edilmiştir?",
-    "options": [
-      "1945",
-      "1948",
-      "1950",
-      "1923"
-    ],
-    "answer_index": 1,
-    "sort_order": 1,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "ih2",
-    "deck_id": "insan-haklari",
-    "prompt": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin özelliklerinden biri değildir?",
-    "options": [
-      "Evrenseldir",
-      "Vazgeçilemez",
-      "Devredilemez",
-      "Sınırsızdır"
-    ],
-    "answer_index": 3,
-    "sort_order": 2,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "is1",
-    "deck_id": "idare-sistemi",
-    "prompt": "Türkiye'de illerin idaresi hangi esasa dayanır?",
-    "options": [
-      "Yerinden yönetim",
-      "Yetki genişliği",
-      "Özerklik",
-      "Federasyon"
-    ],
-    "answer_index": 1,
-    "sort_order": 1,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "is2",
-    "deck_id": "idare-sistemi",
-    "prompt": "Aşağıdakilerden hangisi mahalli idare birimlerinden biridir?",
-    "options": [
-      "Valilik",
-      "Kaymakamlık",
-      "Belediye",
-      "Bakanlık"
-    ],
-    "answer_index": 2,
-    "sort_order": 2,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "pr1",
-    "deck_id": "protokol",
-    "prompt": "Resmi yazışmalarda üst makama yazılan yazıların bitiriş ifadesi hangisi olmalıdır?",
-    "options": [
-      "Rica ederim",
-      "Arz ve rica ederim",
-      "Arz ederim",
-      "Bilgilerinize sunarım"
-    ],
-    "answer_index": 2,
-    "sort_order": 1,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "pr2",
-    "deck_id": "protokol",
-    "prompt": "Protokolde makam arabasında en onur verici (baş) köşe neresidir?",
-    "options": [
-      "Şoför yanı",
-      "Makam şoförünün arkası",
-      "Makam şoförünün çapraz arkası",
-      "Arka orta"
-    ],
-    "answer_index": 2,
-    "sort_order": 2,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk1",
-    "deck_id": "turkce",
-    "prompt": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
-    "options": [
-      "Herkez buraya baksın.",
-      "O da bizimle gelecek.",
-      "Bugün hava çok güzel.",
-      "Yarın akşam buluşalım."
-    ],
-    "answer_index": 0,
-    "sort_order": 1,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk2",
-    "deck_id": "turkce",
-    "prompt": "Hangisi bir noktalama işaretidir?",
-    "options": [
-      "Bağlaç",
-      "Virgül",
-      "Sıfat",
-      "Zamir"
-    ],
-    "answer_index": 1,
-    "sort_order": 2,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk3",
-    "deck_id": "turkce",
-    "prompt": "'Gelmek' fiilinin şimdiki zaman 1. tekil şahıs çekimi hangisidir?",
-    "options": [
-      "Geldim",
-      "Geliyorum",
-      "Geleceğim",
-      "Gelmeliyim"
-    ],
-    "answer_index": 1,
-    "sort_order": 3,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk4",
-    "deck_id": "turkce",
-    "prompt": "Hangisinde ünlü düşmesi vardır?",
-    "options": [
-      "Akıl -> Aklı",
-      "Kitap -> Kitabı",
-      "Dolap -> Dolabı",
-      "Ağaç -> Ağacı"
-    ],
-    "answer_index": 0,
-    "sort_order": 4,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk5",
-    "deck_id": "turkce",
-    "prompt": "Aşağıdakilerden hangisi isimden isim yapan ek almıştır?",
-    "options": [
-      "Gözlük",
-      "Bilgi",
-      "Sevgi",
-      "Yazı"
-    ],
-    "answer_index": 0,
-    "sort_order": 5,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
-  },
-  {
-    "id": "trk6",
-    "deck_id": "turkce",
-    "prompt": "Hangisi eş anlamlı kelimelere örnektir?",
-    "options": [
-      "Siyah - Beyaz",
-      "İyi - Kötü",
-      "Cevap - Yanıt",
-      "Uzun - Kısa"
-    ],
-    "answer_index": 2,
-    "sort_order": 6,
-    "created_at": "2026-08-04T09:30:18.950992+00:00",
-    "updated_at": "2026-08-04T09:30:18.950992+00:00"
   }
 ]
-
