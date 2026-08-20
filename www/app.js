@@ -1380,7 +1380,10 @@ function applySheetHeader({ title, subtitle, eyebrow, icon = 'book', iconClass =
 }
 
 function renderBreadcrumb(label, onClick) {
-  topicBreadcrumbWrap.innerHTML = `<button class="topic-breadcrumb" id="sheetBackButton" type="button">${svg('back')}<span>${escapeHtml(label)}</span></button>`;
+  topicBreadcrumbWrap.innerHTML = `<div class="topic-breadcrumb-wrap">
+      <button class="topic-breadcrumb-back" id="sheetBackButton" type="button" aria-label="Geri dön">${svg('back')}</button>
+      <span class="topic-breadcrumb-pill">${escapeHtml(label)}</span>
+    </div>`;
   document.getElementById('sheetBackButton').addEventListener('click', () => { haptic(14); onClick(); });
 }
 
@@ -1911,6 +1914,9 @@ function renderTrueFalse() {
           <div class="tf-result" id="tfResult" aria-live="polite" hidden></div>
         </div>
       </div>
+      <div class="tf-sticky-footer" id="tfStickyFooter" hidden>
+        <button type="button" class="tf-next-btn" id="tfNext">Sonraki Soru${svg('arrowRight')}</button>
+      </div>
     </div>`;
 
   const exit = () => {
@@ -1966,25 +1972,29 @@ function renderTrueFalse() {
     wrongBtn.disabled = true;
     correctBtn.disabled = true;
 
-    // Sonuç panelini doldur ve göster
-    const correctLabel = q.isCorrectShown ? 'Doğru' : 'Yanlış';
+    // Sonuç panelini doldur ve göster.
+    // Önceki sürümde burada hem "Doğru cevap: Yanlış/Doğru" (D/Y oyunundaki
+    // cevabı tekrarlıyordu — başlık zaten bunu ikon+renkle veriyordu) hem de
+    // "Açıklama" başlıklı uzun bir cümle vardı. İkisi de gereksiz tekrar/uzunluk
+    // yaratıyordu; artık tek, kısa bir satırda doğrudan doğru bilgi gösteriliyor.
     const resultBox = document.getElementById('tfResult');
     resultBox.hidden = false;
     resultBox.innerHTML = `
       <div class="tf-result-panel ${wasRight ? 'is-correct' : 'is-wrong'}">
         <div class="tf-result-head">
           <span class="tf-result-icon">${svg(wasRight ? 'check' : 'alertX')}</span>
-          <div>
-            <strong class="tf-result-title">${wasRight ? 'Doğru cevap' : 'Cevabınız yanlış'}</strong>
-            ${wasRight ? '' : `<span class="tf-result-sub">Doğru cevap: ${escapeHtml(correctLabel)}</span>`}
-          </div>
+          <strong class="tf-result-title">${wasRight ? 'Doğru cevap' : 'Cevabınız yanlış'}</strong>
         </div>
-        <span class="tf-result-label">Açıklama</span>
-        <p class="tf-result-desc">Doğru bilgi: “${escapeHtml(q.correctAnswer)}”.</p>
+        <p class="tf-result-oneline">Doğru cevap: “${escapeHtml(q.correctAnswer)}”</p>
         <div class="tf-result-source">${svg('book')}<span>${escapeHtml(tagLabel)}</span></div>
-      </div>
-      <button type="button" class="tf-next-btn" id="tfNext">Sonraki Soru${svg('arrowRight')}</button>`;
+      </div>`;
 
+    // "Sonraki Soru" butonu artık sonuç panelinin içinde değil, ekranın
+    // altına sabitlenmiş (sticky) ayrı bir footer'da — uzun soru/açıklama
+    // içeriğinde kullanıcı butona ulaşmak için kaydırmak zorunda kalmasın
+    // diye. Buton cevap verilene kadar gizli, cevap sonrası gösteriliyor.
+    const stickyFooter = document.getElementById('tfStickyFooter');
+    stickyFooter.hidden = false;
     document.getElementById('tfNext').onclick = () => {
       tf.index++;
       if (tf.index >= total) {
