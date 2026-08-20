@@ -346,6 +346,33 @@ function flushProgressSync() {
   return Promise.resolve();
 }
 
+// --- WEB KLAVYE ALGILAMA (visualViewport) ---
+// native-ux.js'teki Capacitor Keyboard eklentisi yalnızca native (Android/iOS
+// paketlenmiş) uygulamada çalışır. Tarayıcıda test ederken (veya native
+// eklenti henüz kurulu değilken) --keyboard-height / .keyboard-open hiç
+// güncellenmiyordu; bu da açık bir bottom-sheet'in (ör. arama paneli) klavye
+// açılınca ekranın altında, klavyenin arkasında kalıp görünmez olmasına yol
+// açıyordu. visualViewport API'si tarayıcıda klavye yüksekliğini tespit etmemizi
+// sağlar; aynı CSS değişkeni/class'ı besleyerek native ile aynı mekanizmayı
+// web'de de çalıştırırız. window.visualViewport yoksa (eski tarayıcı) sessizce
+// hiçbir şey yapılmaz.
+if (window.visualViewport) {
+  const vv = window.visualViewport;
+  let lastKeyboardHeight = 0;
+  const updateKeyboardHeight = () => {
+    // Adres çubuğu/araç çubuğu kaynaklı küçük farkları klavye sanmamak için
+    // eşik uyguluyoruz (150px altı fark klavye değildir).
+    const heightDiff = window.innerHeight - vv.height - vv.offsetTop;
+    const keyboardHeight = heightDiff > 150 ? Math.round(heightDiff) : 0;
+    if (keyboardHeight === lastKeyboardHeight) return;
+    lastKeyboardHeight = keyboardHeight;
+    document.documentElement.style.setProperty('--keyboard-height', `${keyboardHeight}px`);
+    document.body.classList.toggle('keyboard-open', keyboardHeight > 0);
+  };
+  vv.addEventListener('resize', updateKeyboardHeight);
+  vv.addEventListener('scroll', updateKeyboardHeight);
+}
+
 // Sekme arka plana alındığında / kapatılmak üzereyken bekleyen senkronizasyonu zorla.
 // 'pagehide' 'beforeunload'a göre daha güvenilir tetiklenir (bfcache dahil).
 document.addEventListener('visibilitychange', () => {

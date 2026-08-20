@@ -127,7 +127,7 @@ body{background:var(--bg)}
 .topic-sheet[aria-hidden="true"],.bottom-sheet[aria-hidden="true"]{visibility:hidden;pointer-events:none}
 #routeSheet{z-index:110}
 #topicSheet{z-index:120}
-#searchSheet{z-index:130;display:flex;flex-direction:column;max-height:min(72svh,540px);overflow:hidden}
+#searchSheet{z-index:130;display:flex;flex-direction:column;max-height:min(calc(72svh - var(--keyboard-height,0px)),540px);overflow:hidden}
 #searchResultsList{flex:0 1 auto;min-height:0;max-height:min(48svh,360px);padding-bottom:0;overscroll-behavior:contain}
 .topic-handle { width:40px; height:5px; background:#d0d6e0; border-radius:10px; margin:0 auto 16px; }
 .topic-sheet-head { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:16px; flex-shrink:0; }
@@ -802,12 +802,12 @@ body{background:var(--bg)}
 
 /* BUGÜNKÜ ROTA PANELİ (bottom-sheet) */
 .bottom-sheet{
-  position:absolute; bottom:0; left:0; right:0;
+  position:absolute; bottom:var(--keyboard-height,0px); left:0; right:0;
   background:#fff; border-radius:28px 28px 0 0;
   padding:20px 18px;
   transform:translateY(100%);
-  transition:0.35s cubic-bezier(0.3, 0.9, 0.4, 1);
-  z-index:110; max-height:88%; overflow-y:auto;
+  transition:0.35s cubic-bezier(0.3, 0.9, 0.4, 1), bottom 0.2s ease;
+  z-index:110; max-height:calc(88% - var(--keyboard-height,0px)); overflow-y:auto;
   box-shadow:0 -15px 30px rgba(0,0,0,0.15);
 }
 .bottom-sheet.open{ transform:translateY(0); }
