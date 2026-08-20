@@ -1781,6 +1781,20 @@ async function openRandomQuiz(documentItem, categoryKey) {
   }
 }
 
+// "Aşağıdakilerden hangisi..." kalıbındaki sorular (Türkçe'de çok yaygın bir
+// çoktan seçmeli kurgusu) D/Y moduna uygun değil: bu kalıp öğrenciye "şu
+// listeden birini seç" der, ama D/Y'de tek bir aday cevap gösteriliyor —
+// referans verdiği "aşağıdaki" liste hiç görünmüyor, soru anlamsızlaşıyor.
+// Bu fonksiyon Türkçe karakterleri normalize ederek ("İ"/"I" -> "i" gibi)
+// prompt'ta "aşağıd..." + "hangi..." birlikteliğini arar.
+function isChooseFromListPrompt(prompt) {
+  if (!prompt) return false;
+  const normalized = prompt
+    .toLocaleLowerCase('tr-TR')
+    .replace(/i̇/g, 'i'); // TR-TR küçük harfe çevirince "İ" çoğu zaman "i̇" (nokta + i) olur
+  return normalized.includes('aşağıd') && normalized.includes('hangi');
+}
+
 // ---- DOĞRU / YANLIŞ MODU ----------------------------------------
 async function openTrueFalseMode(documentItem, categoryKey) {
   if (!requirePremiumOrWarn()) return;
@@ -1795,7 +1809,12 @@ async function openTrueFalseMode(documentItem, categoryKey) {
     // bir veri kalitesi sorununu kullanıcıdan gizliyordu. Şimdi böyle
     // sorular D/Y havuzunun dışında tutuluyor (ÇS modunda hâlâ görünürler,
     // sadece D/Y'de kullanılmıyorlar).
-    const usableBank = bank.filter(q => q.options.filter((_, i) => i !== q.answerIndex).length > 0);
+    // Ayrıca "Aşağıdakilerden hangisi..." kalıbındaki sorular da aynı
+    // sebeple (yukarıdaki not) D/Y havuzunun dışında tutuluyor.
+    const usableBank = bank.filter(q =>
+      q.options.filter((_, i) => i !== q.answerIndex).length > 0 &&
+      !isChooseFromListPrompt(q.prompt)
+    );
     if (!usableBank.length) return showToast('Bu başlık için Doğru/Yanlış moduna uygun soru bulunmuyor.');
 
     // (2) Aynı konuda art arda "Tekrar Dene"ye basıldığında ya da modüle
