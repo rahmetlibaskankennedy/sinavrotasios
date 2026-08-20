@@ -159,39 +159,50 @@ body{background:var(--bg)}
 .article-range { display:inline-block; font-size:8.5px; background:var(--red2); color:var(--red); padding:3px 5px; border-radius:6px; font-weight:700; margin-bottom:3px; }
 .topic-arrow { color:#aab2c0; display:grid; place-items:center; }
 .topic-arrow svg { width:15px; height:15px; }
-.topic-breadcrumb {
-  display:inline-flex;
-  align-items:center;
-  gap:9px;
-  font-size:11.5px;
-  font-weight:800;
-  color:var(--navy);
-  margin-bottom:16px;
-  cursor:pointer;
-  background:#fff;
-  border:1.5px solid var(--line);
-  border-radius:30px;
-  padding:6px 16px 6px 6px;
-  width:fit-content;
-  flex-shrink:0;
-  box-shadow:0 3px 10px rgba(13,33,68,.05);
+/* Geri butonu artık ayrı, bağımsız bir daire; yanındaki metin ise kendi
+   hap (pill) şeklinde ayrı bir eleman — ikisi hafifçe iç içe geçiyor
+   (kullanıcının krokisine göre). Önceki tek-parça buton yerine bu iki
+   parçalı yapı geldi. Yazı rengi de daha açık bir kırmızı tonuna çekildi. */
+/* Geri butonu ile hap arasındaki boşluk artık mask hesabıyla değil, çok
+   daha güvenilir bir yöntemle yapılıyor: dairenin ETRAFINI eşit kalınlıkta
+   saran, sayfa zeminiyle aynı renkte (beyaz) gerçek bir halka (ring)
+   elemanı. Önceki mask denemesi ortada neredeyse hiç boşluk bırakmıyor,
+   üstte/altta ise aşırı büyük bir boşluk bırakıyordu (tutarsız hilal) —
+   bu yöntemde boşluk her yönde eşit ve öngörülebilir.
+   Katman sırası: pill (en altta) < ring (ortada, boşluğu oluşturan beyaz
+   daire) < back button (en üstte). */
+.topic-breadcrumb-wrap{
+  display:inline-flex;align-items:center;margin-bottom:16px;flex-shrink:0;width:fit-content;
+}
+.topic-breadcrumb-back{
+  position:relative;z-index:2;
+  width:38px;height:38px;flex-shrink:0;
+  border:none;border-radius:50%;
+  background:var(--red);color:#fff;
+  display:grid;place-items:center;cursor:pointer;
+  box-shadow:0 4px 12px rgba(233,50,56,.28);
   transition:.18s ease;
 }
-.topic-breadcrumb:hover {
-  border-color:#c9daf6;
-  background:#f7faff;
-  box-shadow:0 4px 12px rgba(13,33,68,.08);
-  transform:translateY(-1px);
-}
-.topic-breadcrumb svg {
-  width:26px;
-  height:26px;
-  padding:6px;
-  box-sizing:border-box;
-  border-radius:50%;
-  background:#edf3fb;
-  color:var(--blue);
-  flex-shrink:0;
+.topic-breadcrumb-back:hover{filter:brightness(1.08);transform:translateY(-1px)}
+.topic-breadcrumb-back svg{width:16px;height:16px;position:relative;left:1px}
+/* Hap'in sol kenarı, çizilen krokiye göre içe doğru kavisli (concave) —
+   bir mask ile hap'in KENDİ sol kenarında sabit bir "C" oyuğu açılıyor
+   (margin'den bağımsız, sabit). margin-left ise sadece hap kutusunu
+   daireye ne kadar yaklaştıracağını kontrol ediyor. */
+.topic-breadcrumb-pill{
+  position:relative;z-index:1;
+  display:inline-flex;align-items:center;
+  height:38px;box-sizing:border-box;
+  margin-left:-22px;
+  padding:0 18px 0 51px;
+  border:1.5px solid #f8cdd2;border-radius:30px;
+  background:var(--red2);
+  color:#ef7d82;
+  font-size:13px;font-weight:800;
+  box-shadow:0 4px 12px rgba(233,50,56,.08);
+  white-space:nowrap;
+  -webkit-mask-image:radial-gradient(circle 19px at 2px 50%, transparent 99%, #000 100%);
+  mask-image:radial-gradient(circle 19px at 2px 50%, transparent 99%, #000 100%);
 }
 
 /* Bottom Nav */
@@ -335,22 +346,33 @@ body{background:var(--bg)}
 .tf-result-panel{border-radius:20px;padding:16px 16px 14px;animation:tfResultIn .32s ease}
 .tf-result-panel.is-correct{background:var(--green2);border:1px solid #c5ead9}
 .tf-result-panel.is-wrong{background:var(--red2);border:1px solid #f8cdd2}
-.tf-result-head{display:flex;align-items:flex-start;gap:10px;margin-bottom:10px}
+/* Sonuç paneli artık daha kompakt: ikon+başlık tek satırda (altında
+   "Doğru cevap: Yanlış/Doğru" tekrarı yoktu artık), ardından tek satır
+   özet. Eski çok satırlı "Açıklama" bloğu (tf-result-label/tf-result-desc)
+   kaldırıldı — gereksiz tekrar ve uzunluk yaratıyordu. */
+.tf-result-head{display:flex;align-items:center;gap:10px;margin-bottom:10px}
 .tf-result-icon{width:30px;height:30px;flex-shrink:0;border-radius:50%;display:grid;place-items:center;color:#fff}
 .tf-result-panel.is-correct .tf-result-icon{background:var(--green)}
 .tf-result-panel.is-wrong .tf-result-icon{background:var(--red)}
 .tf-result-icon svg{width:16px;height:16px}
-.tf-result-title{display:block;font-size:14.5px;font-weight:800;color:var(--navy)}
-.tf-result-sub{display:block;font-size:12px;font-weight:700;margin-top:2px}
-.tf-result-panel.is-correct .tf-result-sub{color:var(--green)}
-.tf-result-panel.is-wrong .tf-result-sub{color:var(--red)}
-.tf-result-label{display:block;font-size:9.5px;font-weight:800;letter-spacing:.6px;color:var(--muted);text-transform:uppercase;margin-bottom:4px}
-.tf-result-desc{margin:0 0 10px;font-size:12.5px;line-height:1.5;color:var(--text)}
+.tf-result-title{font-size:14.5px;font-weight:800;color:var(--navy)}
+.tf-result-oneline{margin:0 0 10px;font-size:13px;font-weight:700;line-height:1.45;color:var(--navy)}
 .tf-result-source{display:flex;align-items:center;gap:6px;font-size:10.5px;font-weight:700;color:var(--muted)}
 .tf-result-source svg{width:13px;height:13px;flex-shrink:0}
 
 /* Sonraki soru butonu */
-.tf-next-btn{width:100%;margin-top:14px;min-height:56px;border:none;border-radius:18px;background:var(--navy);color:#fff;font-size:14.5px;font-weight:800;display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:transform .12s ease,filter .15s ease;animation:tfResultIn .32s ease}
+.tf-next-btn{width:100%;min-height:56px;border:none;border-radius:18px;background:var(--navy);color:#fff;font-size:14.5px;font-weight:800;display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:transform .12s ease,filter .15s ease;animation:tfResultIn .32s ease}
+/* "Sonraki Soru" butonu artık tf-body'nin (kaydırılabilir alan) dışında,
+   ekranın altına sabitlenmiş (sticky) bir footer'da — uzun soru/açıklama
+   içeriğinde kullanıcı butona ulaşmak için kaydırmak zorunda kalmasın diye.
+   Üstünde yumuşak bir gradyan var, böylece kayan içerik butonun altına
+   sert bir kesim gibi girmiyor. */
+.tf-sticky-footer{
+  flex-shrink:0;
+  padding:14px 18px calc(16px + env(safe-area-inset-bottom));
+  background:linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.94) 35%, #fff 100%);
+}
+.tf-sticky-footer[hidden]{display:none}
 .tf-next-btn svg{width:16px;height:16px}
 .tf-next-btn:hover{filter:brightness(1.12)}
 .tf-next-btn:active{transform:scale(.98)}
@@ -785,7 +807,7 @@ body{background:var(--bg)}
 .document-flow .document-section-item h4{margin:0 0 2px;font-size:11px;color:var(--navy)}
 .document-flow .document-section-item p{margin:0;font-size:8.5px;color:var(--muted)}
 .document-flow .document-section-arrow{color:#aab2c0;font-size:18px}
-.topic-breadcrumb{border:0;font:inherit}
+.topic-breadcrumb-back{border-width:1.5px;font:inherit}
 .summary-list{display:flex;flex-direction:column;gap:12px;padding-bottom:8px}
 .summary-section>h4{font-size:10px;letter-spacing:.65px;color:var(--red);margin:0 0 7px}
 .summary-section{display:flex;flex-direction:column;gap:7px}
@@ -1400,7 +1422,7 @@ body.auth-page{
   overflow:hidden;
 }
 .topic-sheet.card-study-active .topic-sheet-head,
-.topic-sheet.card-study-active .topic-breadcrumb,
+.topic-sheet.card-study-active .topic-breadcrumb-wrap,
 .topic-sheet.card-study-active .topic-progress-card{
   flex-shrink:0;
 }
@@ -1429,9 +1451,9 @@ body.auth-page{
 }
 
 /* --- Bu ekrana özel görsel incelik (breadcrumb / ilerleme çubuğu) --- */
-.topic-sheet.card-study-active .topic-breadcrumb{
-  background:#eef3fc;
-  box-shadow:0 2px 6px rgba(13,33,68,.04);
+.topic-sheet.card-study-active .topic-breadcrumb-back,
+.topic-sheet.card-study-active .topic-breadcrumb-pill{
+  box-shadow:0 3px 10px rgba(233,50,56,.06);
 }
 .topic-sheet.card-study-active .topic-progress-card{
   border-color:#e6ecf6;
