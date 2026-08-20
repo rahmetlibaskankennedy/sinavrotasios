@@ -236,43 +236,91 @@ body{background:var(--bg)}
 .reader-primary:hover{filter:brightness(1.08)}
 
 /* --- DOĞRU / YANLIŞ (TF) MODU --- */
-.tf-shell{display:flex;flex-direction:column;height:100%;box-sizing:border-box}
+.tf-shell{
+  display:flex;flex-direction:column;height:100%;box-sizing:border-box;
+  background-image:linear-gradient(180deg, rgba(245,247,251,.55) 0%, rgba(245,247,251,.72) 45%, rgba(245,247,251,.88) 100%), url('images/tf-bg.png');
+  background-size:cover;background-position:center;background-repeat:no-repeat;
+}
 
-/* Üst başlık alanı: geri / başlık / yer imi + ilerleme çubuğu */
+/* Üst başlık alanı: geri / başlık / yer imi + ilerleme çubuğu.
+   Arka plan artık açık renk olduğu için header metin/ikonları koyu tona
+   çevrildi (önceki koyu lacivert tabanda beyazdı). */
 .tf-header{flex-shrink:0;padding:calc(14px + env(safe-area-inset-top)) 18px 14px}
 .tf-header-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px}
-.tf-icon-btn{width:38px;height:38px;flex-shrink:0;border:none;border-radius:12px;background:rgba(255,255,255,.1);color:#fff;display:grid;place-items:center;cursor:pointer;transition:background .15s ease,transform .12s ease}
+.tf-icon-btn{width:38px;height:38px;flex-shrink:0;border:none;border-radius:12px;background:rgba(7,31,73,.07);color:var(--navy);display:grid;place-items:center;cursor:pointer;transition:background .15s ease,transform .12s ease}
 .tf-icon-btn svg{width:18px;height:18px}
-.tf-icon-btn:hover{background:rgba(255,255,255,.18)}
+.tf-icon-btn:hover{background:rgba(7,31,73,.13)}
 .tf-icon-btn:active{transform:scale(.94)}
 .tf-icon-btn.is-active{background:var(--blue);color:#fff}
 .tf-icon-btn:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
-.tf-header-title{margin:0;font-size:15px;font-weight:700;color:#fff;letter-spacing:.2px}
+.tf-header-title{margin:0;font-size:15.5px;font-weight:800;color:var(--navy);letter-spacing:.2px}
+/* Başlıktaki "Doğru"/"Yanlış" kelimeleri, uygulamanın zaten kullandığı
+   yeşil/kırmızı anlam diliyle eşleşiyor — sade bir "Doğru / Yanlış"
+   yazısı yerine başlık kendi içinde küçük bir önizleme veriyor. */
+.tf-title-correct{color:var(--green)}
+.tf-title-wrong{color:var(--red)}
+.tf-title-slash{color:rgba(7,31,73,.3);font-weight:600}
 .tf-progress-row{display:flex;align-items:center;gap:10px}
-.tf-progress-track{flex:1;height:5px;border-radius:4px;background:rgba(255,255,255,.14);overflow:hidden}
+.tf-progress-track{flex:1;height:5px;border-radius:4px;background:rgba(7,31,73,.1);overflow:hidden}
 .tf-progress-fill{height:100%;background:var(--blue);border-radius:4px;transition:width .35s ease}
-.tf-progress-label{flex-shrink:0;font-size:11px;font-weight:700;color:rgba(255,255,255,.7);white-space:nowrap}
+.tf-progress-label{flex-shrink:0;font-size:11px;font-weight:700;color:rgba(7,31,73,.55);white-space:nowrap}
 
 .tf-body{flex:1;overflow-y:auto;padding:4px 18px calc(22px + env(safe-area-inset-bottom));scrollbar-width:none}
 .tf-body::-webkit-scrollbar{display:none}
 
 /* Ana soru kartı */
-.tf-card{background:#fff;border-radius:30px;padding:22px 20px 24px;box-shadow:0 16px 36px rgba(0,0,0,.22)}
+.tf-card{
+  background:#fff;border-radius:30px;padding:22px 20px 24px;
+  box-shadow:0 18px 40px rgba(7,31,73,.16);
+}
 
-.tf-topic-tag{display:inline-flex;align-items:center;gap:7px;background:#edf3fb;color:var(--blue);padding:5px 12px 5px 5px;border-radius:20px;font-size:11.5px;font-weight:700;margin-bottom:16px}
+/* Soru+cevap içeriği, "Bu cevap doğru mu?" ve butonlardan artık kalın
+   mavi bir kenarlıkla değil, hafif bir zemin rengi farkıyla ayrışıyor —
+   çok fazla mavi birikmesin diye (konu etiketi + ilerleme çubuğu zaten
+   mavi). Kuyruk korunuyor, akışı hâlâ görsel olarak gösteriyor. */
+.tf-content-box{
+  position:relative;
+  background:#f8fafd;border-radius:20px;
+  padding:16px 16px 14px;margin-bottom:26px;
+}
+.tf-content-box::before{
+  content:'';position:absolute;left:34px;bottom:-9px;
+  width:0;height:0;
+  border-left:10px solid transparent;
+  border-right:10px solid transparent;
+  border-top:10px solid #f8fafd;
+}
+.tf-card-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:16px}
+.tf-topic-tag{display:inline-flex;align-items:center;gap:7px;background:#edf3fb;color:var(--blue);padding:5px 12px 5px 5px;border-radius:20px;font-size:11.5px;font-weight:700}
 .tf-topic-icon{width:22px;height:22px;flex-shrink:0;border-radius:50%;background:#fff;color:var(--blue);display:grid;place-items:center}
 .tf-topic-icon svg{width:12px;height:12px}
+.tf-bookmark-inline{width:34px;height:34px;background:#f4f6fa;color:var(--muted)}
+.tf-bookmark-inline:hover{background:#e9edf5}
+.tf-bookmark-inline.is-active{background:var(--blue);color:#fff}
 
-.tf-statement{margin:0 0 22px;font-size:18px;font-weight:700;color:var(--navy);line-height:1.5}
-.tf-statement-answer{color:var(--blue);text-decoration:underline;text-decoration-color:#c9daf6;text-underline-offset:3px}
+/* Soru kökü ve "iddia edilen cevap" artık ayrı, etiketli bloklar halinde
+   gösterilir — önceki sürümde tek paragrafta birleşip cevap kısmı bir
+   bağlantı gibi göründüğü için karışıklık yaratıyordu. */
+.tf-prompt-label,.tf-answer-label{display:block;font-size:9.5px;font-weight:800;letter-spacing:.6px;color:var(--muted);text-transform:uppercase;margin-bottom:6px}
+.tf-prompt{margin:0 0 18px;font-size:15.5px;font-weight:700;color:var(--navy);line-height:1.5}
+.tf-answer-chip{
+  background:#f4f6fa;border:1.5px solid #e4e9f2;border-radius:16px;
+  padding:14px 16px;font-size:17px;font-weight:800;color:var(--navy);
+  line-height:1.4;margin-bottom:14px;
+}
+.tf-question-cue{margin:0 0 18px;font-size:12.5px;font-weight:700;color:var(--muted);text-align:center}
 
 /* Doğru / Yanlış butonları */
 .tf-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.tf-btn{border:1.5px solid transparent;border-radius:20px;min-height:64px;padding:10px 12px;font-size:14.5px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;transition:transform .12s ease,box-shadow .15s ease,opacity .15s ease}
+.tf-btn{border:1.5px solid transparent;border-radius:20px;min-height:64px;padding:10px 12px;font-size:14.5px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;transition:transform .12s ease,box-shadow .15s ease,opacity .15s ease,background .15s ease,color .15s ease}
 .tf-btn:active:not(:disabled){transform:scale(.97)}
 .tf-btn:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 .tf-btn-icon{width:26px;height:26px;border-radius:50%;display:grid;place-items:center}
 .tf-btn-icon svg{width:14px;height:14px}
+/* Cevap verilmeden önce: nötr gri — renk erken ipucu vermesin */
+.tf-btn-neutral{background:#f4f6fa;color:var(--navy)}
+.tf-btn-neutral .tf-btn-icon{background:#e4e9f2;color:var(--navy)}
+/* Cevap verildikten sonra uygulanan renkler */
 .tf-btn-wrong{background:var(--red2);color:var(--red)}
 .tf-btn-wrong .tf-btn-icon{background:#f8cdd2;color:var(--red)}
 .tf-btn-correct{background:var(--green2);color:var(--green)}

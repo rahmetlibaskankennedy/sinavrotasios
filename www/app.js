@@ -1786,23 +1786,64 @@ async function openTrueFalseMode(documentItem, categoryKey) {
     const bank = tagQuestions(await loadQuestionBank(documentItem), documentItem, categoryKey);
     if (!bank.length) return showToast('Bu başlık için henüz soru bulunmuyor.');
 
+    // (1) Daha önce D/Y'ye SESSİZCE dahil edilen, hiç yanlış şıkkı olmayan
+    // (bozuk/tek-şıklı) sorular artık bankaya hiç girmiyor. Eskiden bu
+    // sorular "her zaman doğru cevap göster"e sessizce düşüyordu — bu,
+    // bir veri kalitesi sorununu kullanıcıdan gizliyordu. Şimdi böyle
+    // sorular D/Y havuzunun dışında tutuluyor (ÇS modunda hâlâ görünürler,
+    // sadece D/Y'de kullanılmıyorlar).
+    const usableBank = bank.filter(q => q.options.filter((_, i) => i !== q.answerIndex).length > 0);
+    if (!usableBank.length) return showToast('Bu başlık için Doğru/Yanlış moduna uygun soru bulunmuyor.');
+
+    // (2) Aynı konuda art arda "Tekrar Dene"ye basıldığında ya da modüle
+    // tekrar girildiğinde, mümkünse bir önceki turda görülen sorular hariç
+    // tutulur — bank yeterince büyükse kullanıcı sürekli aynı 20 soruyla
+    // karşılaşmaz. Bank küçükse (tekrar hariç tutunca 20'nin altına
+    // düşüyorsa) tekrar dahil edilir, boş ekran görünmesindense tekrar
+    // tercih edilir.
+    const seenKey = documentItem.id;
+    const recentlySeen = state.tfRecentlySeen?.get(seenKey) || new Set();
+    const fresh = usableBank.filter(q => !recentlySeen.has(q.id));
+    const pool = fresh.length >= Math.min(20, usableBank.length) ? fresh : usableBank;
+
     // Her soruyu D/Y kartına dönüştür:
     // %50 ihtimalle doğru şıkkı göster (cevap: DOĞRU)
     // %50 ihtimalle yanlış bir şıkkı göster (cevap: YANLIŞ)
-    const tfQuestions = shuffle(bank).slice(0, Math.min(20, bank.length)).map(q => {
+    const selected = shuffle(pool).slice(0, Math.min(20, pool.length));
+    const tfQuestions = selected.map(q => {
       const correctAnswer = q.options[q.answerIndex];
       const wrongOptions = q.options.filter((_, i) => i !== q.answerIndex);
-      const showCorrect = Math.random() < 0.5 || !wrongOptions.length;
+      const showCorrect = Math.random() < 0.5;
+      // (1) Distractor artık tamamen rastgele seçilmiyor — doğru cevaba
+      // uzunluk (karakter sayısı) olarak en yakın olan yanlış şık(lar)
+      // önceliklendiriliyor. Amaç: hem "bariz alakasız/çok kısa" şıkların
+      // soruyu anlamsızca kolaylaştırmasını azaltmak, hem de prompt+cevap
+      // birleşiminin daha doğal bir D/Y cümlesi gibi okunmasını sağlamak
+      // (çok farklı uzunluktaki şıklar genelde gramer olarak da uyumsuz
+      // düşüyor). Küçük bir rastgelelik payı (en yakın 2 aday arasından
+      // seçim) tekdüzeliği önlüyor.
+      let displayAnswer = correctAnswer;
+      if (!showCorrect) {
+        const byCloseness = wrongOptions
+          .map(opt => ({ opt, diff: Math.abs(opt.length - correctAnswer.length) }))
+          .sort((a, b) => a.diff - b.diff);
+        const candidates = byCloseness.slice(0, Math.min(2, byCloseness.length));
+        displayAnswer = candidates[Math.floor(Math.random() * candidates.length)].opt;
+      }
       return {
         id: q.id,
         prompt: q.prompt,
-        displayAnswer: showCorrect ? correctAnswer : wrongOptions[Math.floor(Math.random() * wrongOptions.length)],
+        displayAnswer,
         isCorrectShown: showCorrect,
         correctAnswer,
         categoryKey: q.categoryKey,
         sourceQuestion: q,
       };
     });
+
+    // (2) Bu turda gösterilen soruları "son görülenler" olarak işaretle.
+    if (!state.tfRecentlySeen) state.tfRecentlySeen = new Map();
+    state.tfRecentlySeen.set(seenKey, new Set(tfQuestions.map(q => q.id)));
 
     state.tfQuiz = {
       questions: tfQuestions,
@@ -1838,8 +1879,8 @@ function renderTrueFalse() {
       <div class="tf-header">
         <div class="tf-header-row">
           <button type="button" class="tf-icon-btn" id="tfClose" aria-label="Geri dön">${svg('back')}</button>
-          <h2 class="tf-header-title">Doğru / Yanlış</h2>
-          <button type="button" class="tf-icon-btn${bookmarked ? ' is-active' : ''}" id="tfBookmark" aria-label="Soruyu kaydet" aria-pressed="${bookmarked}">${svg('bookmark')}</button>
+          <h2 class="tf-header-title"><span class="tf-title-correct">Doğru</span> <span class="tf-title-slash">/</span> <span class="tf-title-wrong">Yanlış</span></h2>
+          <span class="tf-icon-btn" aria-hidden="true" style="visibility:hidden"></span>
         </div>
         <div class="tf-progress-row">
           <div class="tf-progress-track"><div class="tf-progress-fill" style="width:${progressPct}%"></div></div>
@@ -1848,13 +1889,22 @@ function renderTrueFalse() {
       </div>
       <div class="tf-body">
         <div class="tf-card">
-          <span class="tf-topic-tag"><span class="tf-topic-icon">${svg(tagMeta.icon)}</span>${escapeHtml(tagLabel)}</span>
-          <p class="tf-statement">${escapeHtml(q.prompt)} <span class="tf-statement-answer">${escapeHtml(q.displayAnswer)}</span></p>
+          <div class="tf-content-box">
+            <div class="tf-card-top">
+              <span class="tf-topic-tag"><span class="tf-topic-icon">${svg(tagMeta.icon)}</span>${escapeHtml(tagLabel)}</span>
+              <button type="button" class="tf-icon-btn tf-bookmark-inline${bookmarked ? ' is-active' : ''}" id="tfBookmark" aria-label="Soruyu kaydet" aria-pressed="${bookmarked}">${svg('bookmark')}</button>
+            </div>
+            <span class="tf-prompt-label">SORU</span>
+            <p class="tf-prompt">${escapeHtml(q.prompt)}</p>
+            <span class="tf-answer-label">GÖSTERİLEN CEVAP</span>
+            <div class="tf-answer-chip">${escapeHtml(q.displayAnswer)}</div>
+          </div>
+          <p class="tf-question-cue">Bu cevap doğru mu?</p>
           <div class="tf-buttons">
-            <button type="button" class="tf-btn tf-btn-wrong" id="tfWrong" aria-label="Bu ifade yanlış">
+            <button type="button" class="tf-btn tf-btn-neutral" id="tfWrong" aria-label="Bu ifade yanlış">
               <span class="tf-btn-icon">${svg('alertX')}</span>Yanlış
             </button>
-            <button type="button" class="tf-btn tf-btn-correct" id="tfCorrect" aria-label="Bu ifade doğru">
+            <button type="button" class="tf-btn tf-btn-neutral" id="tfCorrect" aria-label="Bu ifade doğru">
               <span class="tf-btn-icon">${svg('check')}</span>Doğru
             </button>
           </div>
@@ -1888,14 +1938,27 @@ function renderTrueFalse() {
     const wasRight = userSaidCorrect === q.isCorrectShown;
     tf.answers.push({ correct: wasRight });
     if (wasRight) tf.score++;
-    // Doğru/Yanlış modu da ana quiz ile aynı kalıcı ilerleme ve yanlış havuzuna
-    // yazılır. Kaynak soru her kartta saklanır; böylece yalnızca oturum içi
-    // skor tutan eski davranış ortadan kalkar.
-    if (q.sourceQuestion) {
+    // Doğru/Yanlış modu, ana quiz ile aynı kalıcı ilerleme ve yanlış havuzuna
+    // SADECE kartta doğru cevap gösterildiğinde (q.isCorrectShown) yazar.
+    // Neden: kartta yanlış bir şık gösterilip kullanıcı onu yanlışlıkla
+    // "doğru" işaretlerse, bu kullanıcının konuyu bilmediğini değil, sadece
+    // o tek distractor'ı doğru cevapla karıştırdığını gösterir — ÇS quiz'deki
+    // "yanlış şık işaretleme" ile aynı güvenilirlikte bir sinyal değildir.
+    // Bu yüzden sadece doğru-cevap-gösterilen kartlardaki performans kalıcı
+    // "wrongQuestions" / Zayıf Konular havuzuna yansıtılır; oturum içi D/Y
+    // skoru (tf.score) her iki durumda da normal şekilde tutulmaya devam eder.
+    if (q.sourceQuestion && q.isCorrectShown) {
       recordAnswer({ ...q.sourceQuestion, answerRecorded: false }, wasRight ? q.sourceQuestion.answerIndex : -1);
     }
 
-    // Seçilen / seçilmeyen butonu görsel olarak ayır, ikisini de devre dışı bırak
+    // Renkler (kırmızı/yeşil) sadece cevap verildikten SONRA uygulanır —
+    // cevap verilmeden önce butonlar nötr (gri) kalır, böylece renk kullanıcıyı
+    // önceden yönlendirmez. Seçilen buton kendi rengini (doğru/yanlış'a göre),
+    // diğer buton soluklaşmış nötr halini alır.
+    wrongBtn.classList.remove('tf-btn-neutral');
+    correctBtn.classList.remove('tf-btn-neutral');
+    wrongBtn.classList.add('tf-btn-wrong');
+    correctBtn.classList.add('tf-btn-correct');
     const selectedBtn = userSaidCorrect ? correctBtn : wrongBtn;
     const otherBtn = userSaidCorrect ? wrongBtn : correctBtn;
     selectedBtn.classList.add('is-selected');
