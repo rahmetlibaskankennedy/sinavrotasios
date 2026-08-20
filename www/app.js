@@ -1241,12 +1241,9 @@ function openSearchSheet() {
   searchScrollTop = scrollArea.scrollTop;
   closeAllSheets(searchSheet);
   clearSearchState({ dismissKeyboard: false, restoreScroll: false });
-  searchFocusTimer = window.setTimeout(() => {
-    // Sheet arada kapatıldıysa gizli input'a tekrar odaklanıp klavyeyi açma.
-    if (searchSheet.classList.contains('open') && searchSheet.getAttribute('aria-hidden') === 'false') {
-      searchInput.focus();
-    }
-  }, SEARCH_FOCUS_DELAY_MS);
+  // Not: input'a otomatik focus() ARTIK yapılmıyor, bu yüzden panel açılırken
+  // klavye kendiliğinden açılmıyor. Kullanıcı input'a dokununca klavye normal
+  // şekilde açılır.
   runSearch('');
 }
 
