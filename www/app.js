@@ -637,7 +637,7 @@ function bankView() {
     <div class="metric-strip"><div><strong>${stats.completedMocks}</strong><span>Tamamlanan deneme</span></div><div><strong>%${stats.accuracy}</strong><span>Genel doğruluk</span></div></div>
     <article class="practice-card">
       <div class="practice-card-icon">${svg('target')}</div>
-      <div><span>RESMÎ DAĞILIM</span><h3>Kadro Bazlı Gerçek Sınav</h3><p>Seçtiğin kadronun konu ağırlıklarına göre otomatik deneme oluştur.</p></div>
+      <div><h3>Kadro Bazlı Gerçek Sınav</h3><p>Seçtiğin kadronun konu ağırlıklarına göre otomatik deneme oluştur.</p></div>
       <button class="reader-primary" id="startKadroExamButton" type="button">Başlat</button>
     </article>
     <div class="section-head"><h3>${escapeHtml(roleLabel)} Denemeleri</h3></div>
