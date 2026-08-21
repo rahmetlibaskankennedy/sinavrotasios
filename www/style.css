@@ -177,14 +177,14 @@ body{background:var(--bg)}
 .topic-breadcrumb-back{
   position:relative;z-index:2;
   width:38px;height:38px;flex-shrink:0;
-  border:none;border-radius:50%;
+  border:3px solid #fff;border-radius:50%;
   background:var(--red);color:#fff;
   display:grid;place-items:center;cursor:pointer;
   box-shadow:0 4px 12px rgba(233,50,56,.28);
   transition:.18s ease;
 }
 .topic-breadcrumb-back:hover{filter:brightness(1.08);transform:translateY(-1px)}
-.topic-breadcrumb-back svg{width:16px;height:16px;position:relative;left:1px}
+.topic-breadcrumb-back svg{width:19px;height:19px;stroke-width:3.2;position:relative;left:1.5px;top:0.5px}
 /* Hap'in sol kenarı, çizilen krokiye göre içe doğru kavisli (concave) —
    bir mask ile hap'in KENDİ sol kenarında sabit bir "C" oyuğu açılıyor
    (margin'den bağımsız, sabit). margin-left ise sadece hap kutusunu
@@ -193,16 +193,16 @@ body{background:var(--bg)}
   position:relative;z-index:1;
   display:inline-flex;align-items:center;
   height:38px;box-sizing:border-box;
-  margin-left:-22px;
-  padding:0 18px 0 51px;
+  margin-left:-25px;
+  padding:0 18px 0 54px;
   border:1.5px solid #f8cdd2;border-radius:30px;
   background:var(--red2);
   color:#ef7d82;
   font-size:13px;font-weight:800;
   box-shadow:0 4px 12px rgba(233,50,56,.08);
   white-space:nowrap;
-  -webkit-mask-image:radial-gradient(circle 19px at 2px 50%, transparent 99%, #000 100%);
-  mask-image:radial-gradient(circle 19px at 2px 50%, transparent 99%, #000 100%);
+  -webkit-mask-image:radial-gradient(circle 22px at 2px 50%, transparent 99%, #000 100%);
+  mask-image:radial-gradient(circle 22px at 2px 50%, transparent 99%, #000 100%);
 }
 
 /* Bottom Nav */
@@ -323,7 +323,18 @@ body{background:var(--bg)}
 
 /* Doğru / Yanlış butonları */
 .tf-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.tf-btn{border:1.5px solid transparent;border-radius:20px;min-height:64px;padding:10px 12px;font-size:14.5px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;transition:transform .12s ease,box-shadow .15s ease,opacity .15s ease,background .15s ease,color .15s ease}
+.tf-btn{position:relative;overflow:hidden;border:1.5px solid transparent;border-radius:20px;min-height:64px;padding:10px 12px;font-size:14.5px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;transition:transform .12s ease,box-shadow .15s ease,opacity .15s ease,background .15s ease,color .15s ease}
+/* Cevap verildiğinde seçilen butonda kısa bir "parlama" (glow) efekti —
+   tam ekran overlay/bekleme yerine geldi (bkz. app.js answer() notu).
+   Hiçbir gecikme eklemiyor; sonuç paneliyle eş zamanlı oynuyor. */
+.tf-btn-glow{position:absolute;inset:-2px;border-radius:22px;opacity:0;pointer-events:none}
+.tf-btn-glow.play{animation:tfGlowPulse .5s ease-out}
+.tf-btn-glow.correct{color:rgba(31,157,98,.4)}
+.tf-btn-glow.wrong{color:rgba(233,50,56,.4)}
+@keyframes tfGlowPulse{
+  0%{opacity:1;box-shadow:0 0 0 0 currentColor}
+  100%{opacity:0;box-shadow:0 0 0 14px transparent}
+}
 .tf-btn:active:not(:disabled){transform:scale(.97)}
 .tf-btn:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 .tf-btn-icon{width:26px;height:26px;border-radius:50%;display:grid;place-items:center}
