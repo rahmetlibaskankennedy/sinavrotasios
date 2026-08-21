@@ -1924,9 +1924,11 @@ function renderTrueFalse() {
           <p class="tf-question-cue">Bu cevap doğru mu?</p>
           <div class="tf-buttons">
             <button type="button" class="tf-btn tf-btn-neutral" id="tfWrong" aria-label="Bu ifade yanlış">
+              <span class="tf-btn-glow" aria-hidden="true"></span>
               <span class="tf-btn-icon">${svg('alertX')}</span>Yanlış
             </button>
             <button type="button" class="tf-btn tf-btn-neutral" id="tfCorrect" aria-label="Bu ifade doğru">
+              <span class="tf-btn-glow" aria-hidden="true"></span>
               <span class="tf-btn-icon">${svg('check')}</span>Doğru
             </button>
           </div>
@@ -1990,6 +1992,19 @@ function renderTrueFalse() {
     otherBtn.classList.add('is-muted');
     wrongBtn.disabled = true;
     correctBtn.disabled = true;
+
+    // Seçilen butonda kısa bir "parlama" (glow) efekti + hafif titreşim —
+    // önceki tam ekran overlay denemesi (tik/çarpı + 1.2 sn bekleme) yerine
+    // geldi. Overlay hem gereksiz tekrar (renk zaten aynı bilgiyi veriyor)
+    // hem de her soruda 1+ saniyelik gecikme yaratıyordu; bu yöntemde hiç
+    // bekleme yok, glow ile sonuç paneli aynı anda görünür.
+    const glow = selectedBtn.querySelector('.tf-btn-glow');
+    if (glow) {
+      glow.classList.remove('correct', 'wrong', 'play');
+      void glow.offsetWidth; // animasyonu sıfırlayıp yeniden tetiklemek için reflow
+      glow.classList.add(wasRight ? 'correct' : 'wrong', 'play');
+    }
+    haptic(wasRight ? 10 : 18);
 
     // Sonuç panelini doldur ve göster.
     // Önceki sürümde burada hem "Doğru cevap: Yanlış/Doğru" (D/Y oyunundaki
