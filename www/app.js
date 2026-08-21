@@ -2004,7 +2004,13 @@ function renderTrueFalse() {
       void glow.offsetWidth; // animasyonu sıfırlayıp yeniden tetiklemek için reflow
       glow.classList.add(wasRight ? 'correct' : 'wrong', 'play');
     }
-    haptic(wasRight ? 10 : 18);
+    // Doğru/yanlış için farklı titreşim şiddeti: yanlışta DİZİ veriliyor,
+    // çünkü native-ux.js'deki haptic() fonksiyonu sadece dizi geldiğinde
+    // belirgin bir "hata" bildirimi (Taptic Engine'in buzz-buzz paterni)
+    // tetikliyor. Önceki haliyle her iki durumda da tek sayı veriliyordu,
+    // ikisi de aynı hafif "impact" kategorisine düşüp ayırt edilemiyordu —
+    // kullanıcı yanlışta hiçbir titreşim hissetmiyordu.
+    haptic(wasRight ? 14 : [12, 40, 12]);
 
     // Sonuç panelini doldur ve göster.
     // Önceki sürümde burada hem "Doğru cevap: Yanlış/Doğru" (D/Y oyunundaki
@@ -2020,7 +2026,6 @@ function renderTrueFalse() {
           <strong class="tf-result-title">${wasRight ? 'Doğru cevap' : 'Cevabınız yanlış'}</strong>
         </div>
         <p class="tf-result-oneline">Doğru cevap: “${escapeHtml(q.correctAnswer)}”</p>
-        <div class="tf-result-source">${svg('book')}<span>${escapeHtml(tagLabel)}</span></div>
       </div>`;
 
     // "Sonraki Soru" butonu artık sonuç panelinin içinde değil, ekranın
