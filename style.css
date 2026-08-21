@@ -1,0 +1,1733 @@
+:root{--navy:#071f49;--navy2:#123b77;--blue:#2d7ef7;--red:#e93238;--red2:#fff0f1;--green:#1f9d62;--green2:#eaf8f0;--amber:#d99019;--text:#10213f;--muted:#778196;--line:#e7ebf1;--bg:#f5f7fb;--white:#fff;--shadow:0 12px 32px rgba(13,33,68,.09);--keyboard-height:0px}
+*{box-sizing:border-box}
+/* Native klavye açıkken (native-ux.js) alt menü klavyeyle çakışmasın diye gizlenir. */
+.keyboard-open .bottom-nav{display:none}
+html,body{margin:0;min-height:100%;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Arial,sans-serif;color:var(--text);background:var(--bg)}
+html:has(body:not(.auth-page)), body:not(.auth-page){
+  height:100%;
+  overflow:hidden;
+}
+button{font:inherit}
+.ui-icon{display:block}
+body{background:var(--bg)}
+.phone{display:flex;flex-direction:column;width:100%;max-width:480px;margin:0 auto;height:100vh;height:100svh;min-height:100svh;position:relative;overflow:hidden;background:var(--bg);transition:max-width .2s}
+
+.scroll-area{flex:1;overflow-y:auto;overflow-x:hidden;scrollbar-width:none;position:relative}
+.scroll-area::-webkit-scrollbar{display:none}
+.app-scroll{padding-bottom:82px}
+
+.screen{padding:10px 14px 12px}
+.home-screen{padding-top:6px}
+
+/* HEADER */
+.app-header{flex-shrink:0;position:relative;z-index:10;color:#fff;background:#061229;padding:calc(max(6px,env(safe-area-inset-top)) + 10px) 14px 10px;border-radius:0 0 22px 22px}
+.app-header.hidden{display:none}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.topbar-user{display:flex;align-items:center;gap:10px; flex:1;}
+.avatar-wrap{position:relative;flex-shrink:0;min-width:48px;min-height:48px;display:flex;align-items:center;justify-content:center}
+.avatar-wrap img{width:40px;height:40px;border-radius:50%;object-fit:cover;display:block}
+.avatar-dot{position:absolute;top:0;right:0;width:11px;height:11px;border-radius:50%;background:#ff4d52;border:2px solid #061229}
+.user-text h1{font-size:14.5px;margin:0 0 2px;font-weight:400}
+.user-text h1 b{font-weight:600}
+.user-text p{font-size:10.5px;color:#8c9eb9;margin:0;line-height:1.3}
+.topbar-actions{display:flex;gap:8px;flex-shrink:0}
+.round-btn{width:48px;height:48px;border:0;border-radius:50%;background:#112143;color:#fff;position:relative;display:grid;place-items:center;touch-action:manipulation}
+.round-btn svg{width:16px;height:16px}
+.round-btn b{position:absolute;right:0px;top:0px;width:14px;height:14px;border-radius:50%;background:#ff4d52;display:grid;place-items:center;font-size:8px;font-weight:700;border:2px solid #061229}
+
+/* GÜNLÜK ÇALIŞMA KARTI */
+.goal-card{margin-top:10px;padding:10px;background:#101f3f;border-radius:14px}
+.goal-card-top{display:flex;align-items:center;gap:12px;}
+.goal-ring-wrap { position: relative; width: 66px; height: 66px; flex-shrink: 0;}
+.circular-chart { display: block; margin: 0 auto; max-width: 100%; max-height: 100%; }
+.circle-bg { fill: none; stroke: #1f3152; stroke-width: 2.8; }
+.circle { fill: none; stroke-width: 2.8; stroke-linecap: round; stroke: #ff4c4f; }
+.ring-content { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding:6px 4px 5px; text-align: center; }
+.ring-content span { font-size: 18px; font-weight: 500; color: #fff; line-height: 1; margin-top:0; letter-spacing: -0.5px;}
+.ring-content small { font-size: 9px; color: #8c9eb9; font-weight: 500; margin-top: 2px; line-height: 1; max-width:none; white-space:nowrap; }
+.goal-copy { flex: 1; min-width:0; }
+.goal-copy h3{font-size:13px;margin:0 0 3px;font-weight:600;color:#fff; letter-spacing:0.2px;}
+.goal-copy p{font-size:10.5px;color:#8c9eb9;margin:0 0 6px;line-height:1.3;font-weight:400}
+.progress-wrap{display:flex;flex-direction:column;gap:5px}
+.progress{height:4px;border-radius:10px;overflow:hidden;background:#1f3152}
+.progress i{height:100%;display:block;border-radius:10px;background:#ff4c4f}
+.goal-line{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.goal-line .count{color:#8c9eb9; font-size:10.5px; font-weight:400; flex:1; min-width:0;}
+.goal-line .count strong{color:#ff4c4f;font-weight:600;font-size:11px}
+.goal-line .deadline{color:#8c9eb9;font-weight:400; font-size:10.5px; flex-shrink:0;}
+
+/* Günlük hedef düzenleme (kalem ikonu + form) — hem header'daki koyu kartta
+   hem de profil sayfasındaki beyaz kartta (.profile-goal-edit) kullanılır. */
+.goal-edit-btn{
+  width:22px;height:22px;flex-shrink:0;border:0;border-radius:50%;
+  background:rgba(255,255,255,.12);color:#c9d4e8;
+  display:grid;place-items:center;cursor:pointer;transition:.15s;
+}
+.goal-edit-btn svg{width:11px;height:11px}
+.goal-edit-btn:hover{background:rgba(255,255,255,.2);color:#fff}
+.goal-edit-form{display:flex;align-items:center;gap:6px;margin-top:2px}
+.goal-edit-input{
+  flex:1;min-width:0;height:30px;border-radius:8px;border:1.5px solid #2a3f66;
+  background:#0b1a38;color:#fff;font-size:12px;font-weight:700;text-align:center;
+  padding:0 8px;outline:none;
+}
+.goal-edit-input:focus{border-color:var(--blue)}
+.goal-edit-save{
+  flex-shrink:0;height:30px;padding:0 12px;border:0;border-radius:8px;
+  background:#ff4c4f;color:#fff;font-size:10.5px;font-weight:700;cursor:pointer;
+}
+.goal-edit-cancel{
+  flex-shrink:0;width:26px;height:26px;border:0;border-radius:50%;
+  background:rgba(255,255,255,.1);color:#c9d4e8;font-size:14px;line-height:1;
+  display:grid;place-items:center;cursor:pointer;
+}
+.goal-edit-cancel:hover{background:rgba(255,255,255,.18);color:#fff}
+
+/* STATS */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);background:#fff;border-radius:14px;padding:10px 4px 9px;margin-bottom:10px;box-shadow:0 4px 12px rgba(13,33,68,.03)}
+.stat{text-align:center;position:relative;padding:0 4px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.stat:not(:last-child)::after{content:'';position:absolute;right:0;top:6px;bottom:6px;width:1px;background:var(--line)}
+.stat-icon{width:30px;height:30px;border-radius:10px;background:#edf3fb;color:var(--navy2);display:grid;place-items:center;flex-shrink:0}
+.stat-icon.accent{background:var(--red2);color:var(--red)}
+.stat-icon.amber{background:#fdf1de;color:var(--amber)}
+.stat-icon svg{width:16px;height:16px}
+.stat strong{display:block;font-size:14px;color:var(--text);font-weight:800;line-height:1}
+.stat span{display:block;font-size:10.5px;color:var(--muted);line-height:1.2;font-weight:600}
+
+/* SECTIONS */
+.section-head{display:flex;align-items:flex-end;justify-content:flex-start;margin:22px 4px 6px}
+.section-head h3{font-size:13.5px;font-weight:700;color:var(--text);margin:0}
+.categories{display:flex;flex-direction:column;gap:7px}
+.category{background:#fff;border:1px solid transparent;border-radius:12px;padding:10px 12px;display:grid;grid-template-columns:42px 1fr 18px;gap:10px;align-items:center;box-shadow:0 3px 8px rgba(13,33,68,.02);cursor:pointer}
+.cat-icon{width:42px;height:42px;border-radius:10px;background:var(--navy);color:#fff;display:grid;place-items:center}
+.cat-icon svg{width:20px;height:20px}
+.cat-icon.blue{background:var(--blue);color:#fff}
+.cat-icon.red{background:var(--red);color:#fff}
+.cat-copy h4{margin:0 0 2px;font-size:13px;color:var(--text);font-weight:700}
+.cat-copy p{margin:0 0 2px;font-size:10.5px;line-height:1.25;color:var(--muted);display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.cat-copy small{font-size:9.5px;color:var(--red);font-weight:700}
+.chevron{color:#c4c8d4;display:grid;place-items:center}
+.chevron svg{width:16px;height:16px}
+
+/* PRATİĞE BAŞLA */
+.cta-btn{width:100%;border:0;border-radius:12px;color:#fff;background:#071f49;display:grid;grid-template-columns:38px 1fr 16px;gap:10px;text-align:left;align-items:center;padding:10px 12px;box-shadow:0 6px 16px rgba(7,31,73,.15);cursor:pointer;margin-top:12px}
+.cta-icon{width:38px;height:38px;border-radius:10px;background:rgba(255,255,255,.08);display:grid;place-items:center;color:#fff}
+.cta-icon svg{width:18px;height:18px}
+.cta-btn strong{display:block;font-size:13.5px;font-weight:600;margin-bottom:2px}
+.cta-btn span{display:block;font-size:10px;color:rgba(255,255,255,.65);font-weight:400}
+.cta-btn .chevron-w{color:#fff;display:grid;place-items:center}
+.cta-btn .chevron-w svg{width:16px;height:16px}
+.cta-btn-flashcards{background:#1f8a4c}
+
+/* BOTTOM SHEET & TOPIC CSS */
+.topic-backdrop { position:absolute; inset:0; background:rgba(7,31,73,0.4); opacity:0; pointer-events:none; transition:0.3s; z-index:100; backdrop-filter:blur(3px); }
+.topic-backdrop.open { opacity:1; pointer-events:auto; }
+.topic-sheet { position:absolute; bottom:0; left:0; right:0; background:#fff; border-radius:28px 28px 0 0; padding:20px 18px; transform:translateY(100%); transition:0.35s cubic-bezier(0.3, 0.9, 0.4, 1); z-index:110; max-height:88%; display:flex; flex-direction:column; box-shadow:0 -15px 30px rgba(0,0,0,0.15); }
+.topic-sheet.open { transform:translateY(0); }
+.topic-sheet[aria-hidden="true"],.bottom-sheet[aria-hidden="true"]{visibility:hidden;pointer-events:none}
+#routeSheet{z-index:110}
+#topicSheet{z-index:120}
+#searchSheet{z-index:130;display:flex;flex-direction:column;max-height:min(calc(72svh - var(--keyboard-height,0px)),540px);overflow:hidden}
+#searchResultsList{flex:0 1 auto;min-height:0;max-height:min(48svh,360px);padding-bottom:0;overscroll-behavior:contain}
+.topic-handle { width:40px; height:5px; background:#d0d6e0; border-radius:10px; margin:0 auto 16px; }
+.topic-sheet-head { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:16px; flex-shrink:0; }
+.topic-heading-wrap { display:flex; gap:12px; align-items:center; }
+.topic-heading-icon { width:42px; height:42px; border-radius:12px; background:#edf3fb; color:var(--blue); display:grid; place-items:center; }
+.topic-heading-icon.red { background:var(--red2); color:var(--red); }
+.topic-heading-icon.blue { background:#edf3fb; color:var(--blue); }
+.topic-heading-icon svg { width:22px; height:22px; }
+.topic-eyebrow { font-size:9px; font-weight:800; color:var(--red); letter-spacing:1px; display:block; margin-bottom:2px; text-transform:uppercase;}
+#topicSheetTitle { margin:0 0 2px; font-size:16px; color:var(--navy); line-height:1.2; }
+#topicSheetSubtitle { margin:0; font-size:10px; color:var(--muted); }
+.topic-close { width:30px; height:30px; border-radius:50%; border:0; background:#f0f4f8; color:var(--navy); font-size:16px; display:grid; place-items:center; cursor:pointer; flex-shrink:0; }
+
+.topic-progress-card { background:#f8f9fc; border:1px solid var(--line); border-radius:14px; padding:12px; margin-bottom:14px; flex-shrink:0; }
+.topic-progress-card > div:first-child { display:flex; justify-content:space-between; font-size:10.5px; margin-bottom:6px; font-weight:600; color:var(--navy2); }
+.topic-progress-track { height:5px; background:#e7ebf1; border-radius:10px; overflow:hidden; }
+#topicProgressBar { display:block; height:100%; background:var(--green); border-radius:10px; transition:0.4s; }
+
+.topic-list { display:flex; flex-direction:column; gap:8px; overflow-y:auto; padding-bottom:40px; scrollbar-width:none; }
+.topic-list::-webkit-scrollbar { display:none; }
+.topic-item { display:grid; grid-template-columns:34px 1fr auto 16px; gap:10px; align-items:center; padding:10px; border:1px solid var(--line); border-radius:14px; background:#fff; cursor:pointer; }
+.topic-number { width:30px; height:30px; border-radius:8px; background:#f0f4f8; display:grid; place-items:center; font-size:10px; font-weight:800; color:var(--navy2); }
+.topic-item.completed .topic-number { background:var(--green2); color:var(--green); }
+.topic-item.is-disabled { cursor:not-allowed; opacity:.6; background:#fafbfd; }
+.topic-item.is-disabled .topic-number { background:#f0f2f6; color:#a7b0c0; }
+.topic-item.is-disabled .topic-copy h4 { color:#7c879c; }
+.topic-copy h4 { margin:0 0 3px; font-size:12.5px; color:var(--navy); }
+.topic-copy p { margin:0; font-size:9.5px; color:var(--muted); }
+.article-range { display:inline-block; font-size:8.5px; background:var(--red2); color:var(--red); padding:3px 5px; border-radius:6px; font-weight:700; margin-bottom:3px; }
+.topic-arrow { color:#aab2c0; display:grid; place-items:center; }
+.topic-arrow svg { width:15px; height:15px; }
+/* Geri butonu artık ayrı, bağımsız bir daire; yanındaki metin ise kendi
+   hap (pill) şeklinde ayrı bir eleman — ikisi hafifçe iç içe geçiyor
+   (kullanıcının krokisine göre). Önceki tek-parça buton yerine bu iki
+   parçalı yapı geldi. Yazı rengi de daha açık bir kırmızı tonuna çekildi. */
+/* Geri butonu ile hap arasındaki boşluk artık mask hesabıyla değil, çok
+   daha güvenilir bir yöntemle yapılıyor: dairenin ETRAFINI eşit kalınlıkta
+   saran, sayfa zeminiyle aynı renkte (beyaz) gerçek bir halka (ring)
+   elemanı. Önceki mask denemesi ortada neredeyse hiç boşluk bırakmıyor,
+   üstte/altta ise aşırı büyük bir boşluk bırakıyordu (tutarsız hilal) —
+   bu yöntemde boşluk her yönde eşit ve öngörülebilir.
+   Katman sırası: pill (en altta) < ring (ortada, boşluğu oluşturan beyaz
+   daire) < back button (en üstte). */
+.topic-breadcrumb-wrap{
+  display:inline-flex;align-items:center;margin-bottom:16px;flex-shrink:0;width:fit-content;
+}
+.topic-breadcrumb-back{
+  position:relative;z-index:2;
+  width:38px;height:38px;flex-shrink:0;
+  border:3px solid #fff;border-radius:50%;
+  background:var(--red);color:#fff;
+  display:grid;place-items:center;cursor:pointer;
+  box-shadow:0 4px 12px rgba(233,50,56,.28);
+  transition:.18s ease;
+}
+.topic-breadcrumb-back:hover{filter:brightness(1.08);transform:translateY(-1px)}
+.topic-breadcrumb-back svg{width:19px;height:19px;stroke-width:3.2;position:relative;left:-1px;top:1px}
+/* Hap'in sol kenarı, çizilen krokiye göre içe doğru kavisli (concave) —
+   bir mask ile hap'in KENDİ sol kenarında sabit bir "C" oyuğu açılıyor
+   (margin'den bağımsız, sabit). margin-left ise sadece hap kutusunu
+   daireye ne kadar yaklaştıracağını kontrol ediyor. */
+.topic-breadcrumb-pill{
+  position:relative;z-index:1;
+  display:inline-flex;align-items:center;
+  height:38px;box-sizing:border-box;
+  margin-left:-25px;
+  padding:0 18px 0 54px;
+  border:1.5px solid #f8cdd2;border-radius:30px;
+  background:var(--red2);
+  color:#ef7d82;
+  font-size:13px;font-weight:800;
+  box-shadow:0 4px 12px rgba(233,50,56,.08);
+  white-space:nowrap;
+  -webkit-mask-image:radial-gradient(circle 22px at 2px 50%, transparent 99%, #000 100%);
+  mask-image:radial-gradient(circle 22px at 2px 50%, transparent 99%, #000 100%);
+}
+
+/* Bottom Nav */
+.bottom-nav{position:absolute;left:0;right:0;bottom:0;height:auto;background:rgba(255,255,255,.98);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(5,1fr);padding:6px 4px calc(8px + env(safe-area-inset-bottom));z-index:20;backdrop-filter:blur(12px)}
+.bottom-nav button{border:0;background:none;color:#788295;font-size:18px;display:flex;flex-direction:column;align-items:center;gap:2px; cursor:pointer;}
+.bottom-nav button span{font-size:9px;font-weight:600;margin-top:2px}
+.bottom-nav button.active{color:var(--red);font-weight:700}
+
+.toast{position:absolute;left:50%;bottom:96px;transform:translate(-50%,18px);background:#071f49;color:#fff;padding:10px 14px;border-radius:11px;font-size:10px;opacity:0;pointer-events:none;transition:.25s;z-index:200;white-space:nowrap}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+
+@media(max-width:430px){
+  .phone{width:100vw;max-width:none;height:100svh;min-height:100svh}
+  .app-header{padding-top:max(12px,env(safe-area-inset-top))}
+  .bottom-nav{height:calc(56px + env(safe-area-inset-bottom));padding-bottom:calc(6px + env(safe-area-inset-bottom))}
+  .app-scroll{padding-bottom:calc(66px + env(safe-area-inset-bottom))}
+}
+
+.quiz-result-card{padding:20px;text-align:center;background:#f7faff;border:1px solid #dfe8f6;border-radius:14px;margin-bottom:16px}
+.quiz-result-card strong{display:block;font-size:24px;color:var(--navy);margin-bottom:4px}
+.quiz-result-card span{font-size:11px;color:var(--muted);font-weight:600}
+.quiz-result-list{display:flex;flex-direction:column;gap:8px;margin-bottom:16px}
+.quiz-result-list-title{font-size:9px;font-weight:800;color:var(--red);margin-bottom:4px;display:block}
+.quiz-result-item{padding:12px;background:#fff0f1;border:1px solid #fad4d6;border-radius:10px}
+.quiz-result-item p{margin:0 0 6px;font-size:14px;font-weight:600;color:var(--navy);line-height:1.45}
+.quiz-result-item small{display:block;font-size:12.5px;color:var(--red);font-weight:600;line-height:1.4}
+.quiz-result-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.quiz-result-perfect{text-align:center;padding:20px;background:#eaf8f0;color:var(--green);border-radius:12px;font-weight:700;font-size:13px;margin-bottom:16px}
+
+/* Genel "reader" buton görünümü — errorView'daki yeniden dene, quiz sonucundaki
+   tekrar dene / listeye dön ve profildeki günlük hedef kaydet butonu bu iki
+   sınıfı DOĞRUDAN (bir sarmalayıcıya ihtiyaç duymadan) kullanır. */
+.reader-primary,.reader-secondary{
+  display:inline-flex;align-items:center;justify-content:center;
+  min-height:44px;padding:11px 14px;border-radius:12px;
+  font-size:12.5px;font-weight:700;cursor:pointer;border:1.5px solid var(--navy);
+  transition:.15s;
+}
+.reader-secondary{background:#fff;color:var(--navy)}
+.reader-secondary:hover{background:#f7faff}
+.reader-primary{background:var(--navy);color:#fff}
+.reader-primary:hover{filter:brightness(1.08)}
+
+/* --- DOĞRU / YANLIŞ (TF) MODU --- */
+.tf-shell{
+  display:flex;flex-direction:column;height:100%;box-sizing:border-box;
+  background-image:linear-gradient(180deg, rgba(245,247,251,.55) 0%, rgba(245,247,251,.72) 45%, rgba(245,247,251,.88) 100%), url('images/tf-bg.png');
+  background-size:cover;background-position:center;background-repeat:no-repeat;
+}
+
+/* Üst başlık alanı: geri / başlık / yer imi + ilerleme çubuğu.
+   Arka plan artık açık renk olduğu için header metin/ikonları koyu tona
+   çevrildi (önceki koyu lacivert tabanda beyazdı). */
+.tf-header{flex-shrink:0;padding:calc(14px + env(safe-area-inset-top)) 18px 14px}
+.tf-header-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px}
+.tf-icon-btn{width:38px;height:38px;flex-shrink:0;border:none;border-radius:12px;background:rgba(7,31,73,.07);color:var(--navy);display:grid;place-items:center;cursor:pointer;transition:background .15s ease,transform .12s ease}
+.tf-icon-btn svg{width:18px;height:18px}
+.tf-icon-btn:hover{background:rgba(7,31,73,.13)}
+.tf-icon-btn:active{transform:scale(.94)}
+.tf-icon-btn.is-active{background:var(--blue);color:#fff}
+.tf-icon-btn:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.tf-header-title{margin:0;font-size:15.5px;font-weight:800;color:var(--navy);letter-spacing:.2px}
+/* Başlıktaki "Doğru"/"Yanlış" kelimeleri, uygulamanın zaten kullandığı
+   yeşil/kırmızı anlam diliyle eşleşiyor — sade bir "Doğru / Yanlış"
+   yazısı yerine başlık kendi içinde küçük bir önizleme veriyor. */
+.tf-title-correct{color:var(--green)}
+.tf-title-wrong{color:var(--red)}
+.tf-title-slash{color:rgba(7,31,73,.3);font-weight:600}
+.tf-progress-row{display:flex;align-items:center;gap:10px}
+.tf-progress-track{flex:1;height:5px;border-radius:4px;background:rgba(7,31,73,.1);overflow:hidden}
+.tf-progress-fill{height:100%;background:var(--blue);border-radius:4px;transition:width .35s ease}
+.tf-progress-label{flex-shrink:0;font-size:11px;font-weight:700;color:rgba(7,31,73,.55);white-space:nowrap}
+
+.tf-body{flex:1;overflow-y:auto;padding:4px 18px calc(22px + env(safe-area-inset-bottom));scrollbar-width:none}
+.tf-body::-webkit-scrollbar{display:none}
+
+/* Ana soru kartı */
+.tf-card{
+  background:#fff;border-radius:30px;padding:22px 20px 24px;
+  box-shadow:0 18px 40px rgba(7,31,73,.16);
+}
+
+/* Soru+cevap içeriği, "Bu cevap doğru mu?" ve butonlardan artık kalın
+   mavi bir kenarlıkla değil, hafif bir zemin rengi farkıyla ayrışıyor —
+   çok fazla mavi birikmesin diye (konu etiketi + ilerleme çubuğu zaten
+   mavi). Kuyruk korunuyor, akışı hâlâ görsel olarak gösteriyor. */
+.tf-content-box{
+  position:relative;
+  background:#f8fafd;border-radius:20px;
+  padding:16px 16px 14px;margin-bottom:26px;
+}
+.tf-content-box::before{
+  content:'';position:absolute;left:34px;bottom:-9px;
+  width:0;height:0;
+  border-left:10px solid transparent;
+  border-right:10px solid transparent;
+  border-top:10px solid #f8fafd;
+}
+.tf-card-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:16px}
+.tf-topic-tag{display:inline-flex;align-items:center;gap:7px;background:#edf3fb;color:var(--blue);padding:5px 12px 5px 5px;border-radius:20px;font-size:11.5px;font-weight:700}
+.tf-topic-icon{width:22px;height:22px;flex-shrink:0;border-radius:50%;background:#fff;color:var(--blue);display:grid;place-items:center}
+.tf-topic-icon svg{width:12px;height:12px}
+.tf-bookmark-inline{width:34px;height:34px;background:#f4f6fa;color:var(--muted)}
+.tf-bookmark-inline:hover{background:#e9edf5}
+.tf-bookmark-inline.is-active{background:var(--blue);color:#fff}
+
+/* Soru kökü ve "iddia edilen cevap" artık ayrı, etiketli bloklar halinde
+   gösterilir — önceki sürümde tek paragrafta birleşip cevap kısmı bir
+   bağlantı gibi göründüğü için karışıklık yaratıyordu. */
+.tf-prompt-label,.tf-answer-label{display:block;font-size:9.5px;font-weight:800;letter-spacing:.6px;color:var(--muted);text-transform:uppercase;margin-bottom:6px}
+.tf-prompt{margin:0 0 18px;font-size:15.5px;font-weight:700;color:var(--navy);line-height:1.5}
+.tf-answer-chip{
+  background:#f4f6fa;border:1.5px solid #e4e9f2;border-radius:16px;
+  padding:14px 16px;font-size:17px;font-weight:800;color:var(--navy);
+  line-height:1.4;margin-bottom:14px;
+}
+.tf-question-cue{margin:0 0 18px;font-size:12.5px;font-weight:700;color:var(--muted);text-align:center}
+
+/* Doğru / Yanlış butonları */
+.tf-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.tf-btn{position:relative;overflow:hidden;border:1.5px solid transparent;border-radius:20px;min-height:64px;padding:10px 12px;font-size:14.5px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;transition:transform .12s ease,box-shadow .15s ease,opacity .15s ease,background .15s ease,color .15s ease}
+/* Cevap verildiğinde seçilen butonda kısa bir "parlama" (glow) efekti —
+   tam ekran overlay/bekleme yerine geldi (bkz. app.js answer() notu).
+   Hiçbir gecikme eklemiyor; sonuç paneliyle eş zamanlı oynuyor. */
+.tf-btn-glow{position:absolute;inset:-2px;border-radius:22px;opacity:0;pointer-events:none}
+.tf-btn-glow.play{animation:tfGlowPulse .5s ease-out}
+.tf-btn-glow.correct{color:rgba(31,157,98,.4)}
+.tf-btn-glow.wrong{color:rgba(233,50,56,.4)}
+@keyframes tfGlowPulse{
+  0%{opacity:1;box-shadow:0 0 0 0 currentColor}
+  100%{opacity:0;box-shadow:0 0 0 14px transparent}
+}
+.tf-btn:active:not(:disabled){transform:scale(.97)}
+.tf-btn:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.tf-btn-icon{width:26px;height:26px;border-radius:50%;display:grid;place-items:center}
+.tf-btn-icon svg{width:14px;height:14px}
+/* Cevap verilmeden önce: nötr gri — renk erken ipucu vermesin */
+.tf-btn-neutral{background:#f4f6fa;color:var(--navy)}
+.tf-btn-neutral .tf-btn-icon{background:#e4e9f2;color:var(--navy)}
+/* Cevap verildikten sonra uygulanan renkler */
+.tf-btn-wrong{background:var(--red2);color:var(--red)}
+.tf-btn-wrong .tf-btn-icon{background:#f8cdd2;color:var(--red)}
+.tf-btn-correct{background:var(--green2);color:var(--green)}
+.tf-btn-correct .tf-btn-icon{background:#c5ead9;color:var(--green)}
+.tf-btn.is-selected{border-color:currentColor;box-shadow:0 6px 16px rgba(15,23,42,.14)}
+.tf-btn.is-muted{opacity:.45}
+.tf-btn:disabled{cursor:default}
+
+/* Sonuç paneli */
+.tf-result{margin-top:16px}
+.tf-result[hidden]{display:none}
+.tf-result-panel{border-radius:20px;padding:16px 16px 14px;animation:tfResultIn .32s ease}
+.tf-result-panel.is-correct{background:var(--green2);border:1px solid #c5ead9}
+.tf-result-panel.is-wrong{background:var(--red2);border:1px solid #f8cdd2}
+/* Sonuç paneli artık daha kompakt: ikon+başlık tek satırda (altında
+   "Doğru cevap: Yanlış/Doğru" tekrarı yoktu artık), ardından tek satır
+   özet. Eski çok satırlı "Açıklama" bloğu (tf-result-label/tf-result-desc)
+   kaldırıldı — gereksiz tekrar ve uzunluk yaratıyordu. */
+.tf-result-head{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.tf-result-icon{width:30px;height:30px;flex-shrink:0;border-radius:50%;display:grid;place-items:center;color:#fff}
+.tf-result-panel.is-correct .tf-result-icon{background:var(--green)}
+.tf-result-panel.is-wrong .tf-result-icon{background:var(--red)}
+.tf-result-icon svg{width:16px;height:16px}
+.tf-result-title{font-size:14.5px;font-weight:800;color:var(--navy)}
+.tf-result-oneline{margin:0 0 10px;font-size:13px;font-weight:700;line-height:1.45;color:var(--navy)}
+.tf-result-source{display:flex;align-items:center;gap:6px;font-size:10.5px;font-weight:700;color:var(--muted)}
+.tf-result-source svg{width:13px;height:13px;flex-shrink:0}
+
+/* Sonraki soru butonu */
+.tf-next-btn{width:100%;min-height:56px;border:none;border-radius:18px;background:var(--navy);color:#fff;font-size:14.5px;font-weight:800;display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:transform .12s ease,filter .15s ease;animation:tfResultIn .32s ease}
+/* "Sonraki Soru" butonu artık tf-body'nin (kaydırılabilir alan) dışında,
+   ekranın altına sabitlenmiş (sticky) bir footer'da — uzun soru/açıklama
+   içeriğinde kullanıcı butona ulaşmak için kaydırmak zorunda kalmasın diye.
+   Üstünde yumuşak bir gradyan var, böylece kayan içerik butonun altına
+   sert bir kesim gibi girmiyor. */
+.tf-sticky-footer{
+  flex-shrink:0;
+  padding:14px 18px calc(16px + env(safe-area-inset-bottom));
+  background:linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.94) 35%, #fff 100%);
+}
+.tf-sticky-footer[hidden]{display:none}
+.tf-next-btn svg{width:16px;height:16px}
+.tf-next-btn:hover{filter:brightness(1.12)}
+.tf-next-btn:active{transform:scale(.98)}
+.tf-next-btn:focus-visible{outline:2px solid #fff;outline-offset:2px}
+
+@keyframes tfResultIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:360px){
+  .tf-buttons{grid-template-columns:1fr}
+}
+
+@media(prefers-reduced-motion:reduce){
+  .tf-btn,.tf-icon-btn,.tf-next-btn{transition:none}
+  .tf-result-panel,.tf-next-btn{animation:none}
+}
+
+/* Final skor ekranı */
+.tf-result-card{background:#fff;border-radius:24px;padding:36px 22px;margin-top:16px;text-align:center;box-shadow:0 16px 36px rgba(0,0,0,.22)}
+.tf-result-score{display:block;font-size:32px;font-weight:800;color:var(--navy);margin-bottom:4px}
+.tf-result-pct{display:block;font-size:13px;font-weight:700;color:var(--muted)}
+
+/* --- YENİ PREMIUM QUIZ EKRANI TASARIMI (Görsele Uygun) --- */
+.topic-sheet.quiz-active {
+  padding: 0 !important;
+  background: #0B1939; /* Görseldeki koyu lacivert arkaplan */
+  height: 100% !important;
+  max-height: 100% !important;
+  border-radius: 0 !important;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.topic-sheet.quiz-active .topic-sheet-head,
+.topic-sheet.quiz-active .topic-progress-card,
+.topic-sheet.quiz-active #topicBreadcrumbWrap,
+.topic-sheet.quiz-active .topic-handle { display: none !important; }
+
+.topic-sheet.quiz-active .topic-list {
+  padding: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.quiz-premium-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #f7f9fc;
+  position: relative;
+}
+
+/* Üst Lacivert Alan */
+/* Üst Beyaz Alan */
+.quiz-premium-header {
+  background: #fff;
+  padding: calc(14px + env(safe-area-inset-top)) 20px 20px;
+  color: var(--navy);
+  border-bottom: 1px solid var(--line);
+}
+
+.quiz-premium-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  gap: 8px;
+}
+.quiz-premium-topbar > button,
+.quiz-premium-top-actions {
+  margin-top: 2px;
+}
+
+.quiz-premium-topbar button {
+  background: #f0f4f8;
+  border: none;
+  color: var(--navy);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.quiz-premium-topbar button svg { width: 18px; height: 18px; }
+.topbar-action svg { width: 16px; height: 16px; }
+.topbar-action.active {
+  background: var(--red2);
+  color: var(--red);
+}
+.topbar-action:disabled {
+  opacity: .55;
+  cursor: default;
+}
+
+.quiz-premium-titles {
+  text-align: center;
+  flex: 1;
+}
+.quiz-premium-titles h2 { font-size: 16px; font-weight: 700; margin: 0 0 2px; color: var(--navy); }
+.quiz-premium-titles span { font-size: 14px; font-weight: 600; color: var(--muted); }
+
+.quiz-premium-top-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.quiz-premium-timer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--red);
+  background: var(--red2);
+  padding: 6px 12px;
+  border-radius: 12px;
+}
+.quiz-premium-timer svg { width: 14px; height: 14px; }
+
+/* İlerleme Çubuğu */
+.quiz-premium-progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.progress-text {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 500;
+  white-space: nowrap;
+}
+.progress-text strong {
+  color: var(--navy);
+  font-weight: 700;
+  font-size: 14px;
+}
+.progress-track {
+  flex: 1;
+  height: 5px;
+  background: var(--line);
+  border-radius: 4px;
+  position: relative;
+}
+.progress-fill {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  background: var(--navy);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+.progress-handle {
+  position: absolute;
+  top: 50%;
+  width: 9px;
+  height: 9px;
+  background: var(--navy);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(13,33,68,.25);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: left 0.3s ease;
+}
+
+/* İçerik Kartı */
+/* İçerik Kartı */
+.quiz-premium-card-wrapper {
+  flex: 1;
+  background: #f7f9fc;
+  position: relative;
+}
+.quiz-premium-card {
+  background: #fff;
+  border-radius: 20px;
+  margin: 14px 14px 0;
+  padding: 14px 18px 16px;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  overflow-y: auto;
+  border: 1px solid var(--line);
+  box-shadow: 0 4px 16px rgba(13,33,68,.05);
+  scrollbar-width: none;
+}
+
+.quiz-premium-card::-webkit-scrollbar { display: none; }
+
+.quiz-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.quiz-badge {
+  background: #FFF0F1;
+  color: #E31E24;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 12px;
+}
+
+.quiz-card-actions {
+  display: flex;
+  gap: 16px;
+}
+.action-btn {
+  background: none;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  color: #778196;
+  font-size: 9px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+}
+.action-btn svg { width: 22px; height: 22px; stroke-width: 1.5; }
+.action-btn.active { color: var(--red); }
+.action-btn:disabled { cursor: default; opacity: .75; }
+
+.quiz-question-text {
+  font-size: 14.5px;
+  font-weight: 700;
+  color: #10213F;
+  line-height: 1.5;
+  margin: 0 0 12px;
+  letter-spacing: -0.2px;
+}
+
+/* Şıklar */
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.quiz-option {
+  display: flex;
+  align-items: center;
+  padding: 12px 14px;
+  border: 1.5px solid #E5E9F0;
+  border-radius: 14px;
+  background: #fff;
+  cursor: pointer;
+  text-align: left;
+  transition: 0.2s ease;
+}
+.quiz-option-letter {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1.5px solid #E5E9F0;
+  display: grid;
+  place-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: #10213F;
+  margin-right: 14px;
+  flex-shrink: 0;
+}
+.quiz-option-text {
+  font-size: 13px;
+  color: #10213F;
+  line-height: 1.4;
+  flex: 1;
+  font-weight: 500;
+}
+
+/* Seçili / Doğru / Yanlış Şık Stilleri */
+.quiz-option.selected {
+  border-color: #10213F;
+  background: #F7F9FC;
+}
+.quiz-option.selected .quiz-option-letter {
+  background: #10213F;
+  border-color: #10213F;
+  color: #fff;
+}
+.quiz-option.correct {
+  border-color: var(--green);
+  background: var(--green2);
+}
+.quiz-option.correct .quiz-option-letter {
+  background: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
+.quiz-option.correct .status-icon { color: var(--green); }
+.quiz-option.wrong {
+  border-color: var(--red);
+  background: var(--red2);
+}
+.quiz-option.wrong .quiz-option-letter {
+  background: var(--red);
+  border-color: var(--red);
+  color: #fff;
+}
+.quiz-option.wrong .status-icon { color: var(--red); }
+.status-icon {
+  width: 22px;
+  height: 22px;
+  color: #10213F;
+  margin-left: 10px;
+}
+.quiz-option:disabled {
+  cursor: default;
+  opacity: 0.9;
+}
+
+/* Alt Butonlar */
+.quiz-premium-footer {
+  display: flex;
+  gap: 10px;
+  padding: 16px 20px calc(20px + env(safe-area-inset-bottom));
+  background: #fff;
+  border-top: 1px solid #E5E9F0;
+  box-shadow: 0 -4px 16px rgba(0,0,0,0.02);
+}
+.footer-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 12px;
+  border-radius: 12px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1.5px solid #E5E9F0;
+  background: #fff;
+  color: #10213F;
+  flex: 1;
+  white-space: nowrap;
+}
+.footer-btn svg { width: 18px; height: 18px; stroke-width: 2.5;}
+.footer-btn.btn-grid {
+  flex: 0.9;
+}
+.footer-btn.btn-next {
+  background: #E31E24;
+  border-color: #E31E24;
+  color: #fff;
+  flex: 1.3;
+}
+.footer-btn:disabled { opacity: 0.5; }
+
+/* Soru Haritası (Sorular / ⋮ menü) Overlay */
+.quiz-nav-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(7,31,73,.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: .2s;
+  z-index: 30;
+  display: flex;
+  align-items: flex-end;
+}
+.quiz-nav-overlay.open { opacity: 1; pointer-events: auto; }
+#premiumModalOverlay { z-index: 500; }
+.quiz-nav-sheet {
+  background: #fff;
+  border-radius: 20px 20px 0 0;
+  padding: 16px 18px 22px;
+  width: 100%;
+  max-height: 70%;
+  overflow-y: auto;
+}
+.quiz-nav-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:14px; }
+.quiz-nav-head strong { font-size: 13px; color: var(--navy); }
+.quiz-nav-head button { width:28px; height:28px; border-radius:50%; border:0; background:#f0f4f8; color:var(--navy); font-size:15px; cursor:pointer; }
+.quiz-nav-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:8px; }
+.quiz-nav-cell { height:38px; border-radius:10px; border:1.5px solid #E5E9F0; background:#fff; color:var(--navy); font-size:12px; font-weight:700; cursor:pointer; }
+.quiz-nav-cell.current { border-color: var(--navy); background: var(--navy); color:#fff; }
+.quiz-nav-cell.answered-correct { border-color: var(--green); background: var(--green2); color: var(--green); }
+.quiz-nav-cell.answered-wrong { border-color: var(--red); background: var(--red2); color: var(--red); }
+.quiz-nav-cell.flagged { box-shadow: 0 0 0 2px var(--amber) inset; }
+
+/* GENELLEŞTİRİLMİŞ İÇERİK VE İLERLEME EKRANLARI */
+.bottom-nav button>svg{width:24px;height:24px}
+.stat-button{border:0;background:transparent;font:inherit;cursor:pointer}
+.stat-button:focus-visible,.category:focus-visible,.topic-item:focus-visible,.document-section-item:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.stat-button:hover .stat-icon{transform:translateY(-1px)}
+.stat-icon{transition:transform .18s ease}
+.content-screen{padding-top:16px}
+.neutral-screen{min-height:calc(100dvh - 255px);display:grid;place-items:center}
+.page-heading{margin:0 4px 14px}
+.page-heading>span{display:block;font-size:9px;font-weight:800;letter-spacing:1px;color:var(--red);margin-bottom:4px}
+.page-heading h2{font-size:19px;line-height:1.18;margin:0 0 5px;color:var(--navy)}
+.page-heading p{font-size:11px;line-height:1.45;color:var(--muted);margin:0;max-width:320px}
+.empty-state{width:100%;padding:26px 18px;border:1px solid var(--line);border-radius:16px;background:#fff;text-align:center;box-shadow:0 4px 12px rgba(13,33,68,.03)}
+.empty-state-icon{width:44px;height:44px;border-radius:13px;display:grid;place-items:center;margin:0 auto 11px;background:#edf3fb;color:var(--blue)}
+.empty-state-icon svg{width:22px;height:22px}
+.empty-state h3{font-size:14px;color:var(--navy);margin:0 0 6px}
+.empty-state p{font-size:10.5px;line-height:1.5;color:var(--muted);margin:0 auto;max-width:260px}
+.empty-state .reader-primary{margin-top:16px;min-width:120px;padding:10px 14px;border-radius:10px;font-size:11px;font-weight:700}
+.empty-state-error .empty-state-icon{background:#fff0f1;color:var(--red)}
+.document-flow .document-overview-card{padding:14px;border:1px solid var(--line);background:#fff;border-radius:16px;box-shadow:0 4px 12px rgba(13,33,68,.04)}
+.document-flow .document-overview-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:9px;gap:8px}
+.document-flow .document-number{background:var(--red2);color:var(--red);padding:4px 7px;border-radius:7px;font-size:10px;font-weight:800}
+.document-flow .document-status{font-size:8px;font-weight:800;color:var(--green);letter-spacing:.45px;text-align:right}
+.document-flow .document-status.is-pending{color:var(--amber)}
+.document-flow .document-overview-card h4{margin:0 0 5px;font-size:14px;color:var(--navy)}
+.document-flow .document-overview-card p{margin:0;color:var(--muted);font-size:10px;line-height:1.45}
+.document-flow .document-stats{display:flex;gap:10px;margin-top:11px;padding-top:10px;border-top:1px solid var(--line);font-size:9px;color:var(--muted);flex-wrap:wrap}
+.document-flow .document-stats strong{color:var(--navy);font-size:11px}
+.document-flow .document-mode-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:12px 0 14px}
+.document-flow .document-mode-card{min-height:94px;padding:11px;border:1px solid var(--line);border-radius:13px;background:#fff;text-align:left;color:var(--navy);cursor:pointer;transition:border-color .18s,transform .18s,box-shadow .18s}
+.document-flow .document-mode-card:hover:not(:disabled){border-color:#c9daf6;transform:translateY(-1px);box-shadow:0 5px 12px rgba(13,33,68,.05)}
+.document-flow .document-mode-card.is-disabled{cursor:not-allowed;background:#fafbfd;color:#929bac}
+.document-flow .document-mode-icon{display:grid;place-items:center;width:26px;height:26px;margin-bottom:7px;border-radius:8px;background:#edf3fb;color:var(--blue)}
+.document-flow .document-mode-card:nth-child(2) .document-mode-icon{background:#f4eff6;color:#85679e}
+.document-flow .document-mode-card:nth-child(3) .document-mode-icon,.document-flow .document-mode-card:nth-child(4) .document-mode-icon{background:var(--red2);color:var(--red)}
+.document-flow .document-mode-icon svg{width:14px;height:14px}
+.document-flow .document-mode-card strong{display:block;font-size:10.5px;line-height:1.25}
+.document-flow .document-mode-card small{display:block;margin-top:4px;font-size:8.5px;line-height:1.3;color:var(--muted)}
+.document-flow .document-mode-card.is-disabled small{color:#aab1bf}
+.document-flow .document-section-head{margin:4px 0 7px}
+.document-flow .document-section-head span{display:block;font-size:8px;font-weight:800;letter-spacing:.7px;color:var(--red)}
+.document-flow .document-section-head strong{display:block;margin-top:2px;font-size:11px;color:var(--navy)}
+.document-flow .document-section-list{display:flex;flex-direction:column;gap:7px}
+.document-flow .document-section-item{display:grid;grid-template-columns:30px 1fr 16px;gap:9px;align-items:center;padding:10px;border:1px solid var(--line);border-radius:12px;background:#fff;cursor:pointer}
+.document-flow .document-section-item.completed{border-color:#cfead9;background:#fbfffc}
+.document-flow .document-section-number{display:grid;place-items:center;width:28px;height:28px;border-radius:8px;background:#f1f4f9;color:var(--navy2);font-size:9px;font-weight:800}
+.document-flow .document-section-item.completed .document-section-number{background:var(--green2);color:var(--green)}
+.document-flow .document-section-number svg{width:15px;height:15px}
+.document-flow .document-section-item h4{margin:0 0 2px;font-size:11px;color:var(--navy)}
+.document-flow .document-section-item p{margin:0;font-size:8.5px;color:var(--muted)}
+.document-flow .document-section-arrow{color:#aab2c0;font-size:18px}
+.topic-breadcrumb-back{border-width:1.5px;font:inherit}
+.summary-list{display:flex;flex-direction:column;gap:12px;padding-bottom:8px}
+.summary-section>h4{font-size:10px;letter-spacing:.65px;color:var(--red);margin:0 0 7px}
+.summary-section{display:flex;flex-direction:column;gap:7px}
+.summary-item{padding:11px;border:1px solid var(--line);border-radius:13px;background:#fff}
+.summary-item>span{display:inline-block;padding:3px 6px;border-radius:6px;background:#edf3fb;color:var(--blue);font-size:8.5px;font-weight:800;margin-bottom:6px}
+.summary-item h5{font-size:10.5px;line-height:1.45;color:var(--navy);margin:0}
+.summary-item ul{display:flex;flex-direction:column;gap:4px;margin:8px 0 0;padding-left:15px;color:var(--muted)}
+.summary-item li{font-size:9px;line-height:1.4}
+.summary-section>.summary-text{font-size:10.5px;line-height:1.5;color:var(--navy);margin:0;padding:0 1px}
+.summary-section>ul{display:flex;flex-direction:column;gap:5px;margin:2px 0 0;padding-left:16px;color:var(--muted)}
+.summary-section>ul>li{font-size:10px;line-height:1.45}
+.summary-empty{font-size:10px;color:var(--muted);margin:0;font-style:italic}
+.content-plan{margin-top:2px}
+.plan-points{display:flex;flex-direction:column;align-items:flex-start;gap:7px;margin:16px auto 0;max-width:214px}
+.plan-points span{display:flex;align-items:center;gap:7px;font-size:10px;color:var(--navy2);font-weight:700}
+.plan-points svg{width:15px;height:15px;color:var(--green)}
+.practice-card{display:grid;grid-template-columns:42px 1fr auto;gap:11px;align-items:center;padding:14px;border:1px solid #d9e4f5;border-radius:16px;background:#fff;box-shadow:0 5px 14px rgba(13,33,68,.04);margin-top:16px}
+.practice-card-icon{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:#edf3fb;color:var(--blue)}
+.practice-card-icon svg{width:21px;height:21px}
+.practice-card span{display:block;font-size:8px;font-weight:800;color:var(--red);letter-spacing:.65px;margin-bottom:3px}
+.practice-card h3{font-size:12px;color:var(--navy);margin:0 0 3px}
+.practice-card p{font-size:9px;line-height:1.35;color:var(--muted);margin:0}
+.practice-card .reader-primary{border:0;border-radius:9px;padding:8px 9px;font-size:10px;font-weight:700;cursor:pointer;min-height:auto}
+.practice-card .reader-primary:disabled{opacity:.45;cursor:not-allowed}
+.metric-strip{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+.deneme-list{display:flex;flex-direction:column;gap:9px}
+.deneme-card{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px;border:1px solid #d9e4f5;border-radius:16px;background:#fff;box-shadow:0 5px 14px rgba(13,33,68,.04)}
+.deneme-card-info h3{font-size:12px;color:var(--navy);margin:0 0 3px}
+.deneme-card-info p{font-size:9.5px;color:var(--muted);margin:0}
+.deneme-card .reader-primary{border:0;border-radius:9px;padding:9px 14px;font-size:10.5px;font-weight:700;cursor:pointer;min-height:auto;flex-shrink:0}
+.metric-strip>div,.study-grid article{padding:12px;border-radius:13px;background:#fff;border:1px solid var(--line)}
+.metric-strip strong,.study-grid strong{display:block;color:var(--navy);font-size:15px;margin-bottom:3px}
+.metric-strip span,.study-grid span{font-size:9px;line-height:1.3;color:var(--muted)}
+.study-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.empty-inline{padding:14px;text-align:center;border:1px dashed #d9dfe9;border-radius:11px;font-size:10px;color:var(--muted)}
+.reset-progress{display:flex;align-items:center;justify-content:center;gap:7px;flex:1;border:1.5px solid var(--line);background:#fff;color:var(--navy2);font-size:11.5px;font-weight:700;cursor:pointer;padding:14px 10px;border-radius:14px;transition:.15s}
+.reset-progress:hover{background:#f7f9fc;border-color:#d7deea}
+.reset-progress svg{width:16px;height:16px;flex-shrink:0}
+.profile-summary{display:flex;align-items:center;gap:12px;padding:14px;background:#fff;border:1px solid var(--line);border-radius:15px}
+.profile-summary-avatar{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--navy);color:#fff;font-size:16px;font-weight:800}
+.profile-summary strong{display:block;font-size:16px;color:var(--navy);margin-bottom:4px}
+.profile-summary span{display:block;font-size:10.5px;color:var(--muted)}
+
+/* Profil sayfası — Günlük çalışma hedefi kartı (beyaz zemin) */
+.profile-goal-card{margin-top:12px;padding:14px;background:#fff;border:1px solid var(--line);border-radius:15px}
+.profile-goal-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px}
+.profile-goal-head>span{font-size:9px;font-weight:800;letter-spacing:.6px;color:var(--red)}
+.profile-goal-head>strong{font-size:12px;color:var(--navy);flex-shrink:0}
+.profile-goal-desc{margin:0 0 12px;font-size:10.5px;line-height:1.5;color:var(--muted)}
+.profile-goal-edit{display:flex;align-items:center;gap:8px}
+.profile-goal-edit .goal-edit-input{
+  flex:1;min-width:0;height:42px;border-radius:11px;border:1.5px solid var(--line);
+  background:#f6f8fb;color:var(--navy);font-size:14px;font-weight:700;text-align:center;
+}
+.profile-goal-edit .goal-edit-input:focus{border-color:var(--blue);background:#fff}
+.profile-goal-edit .reader-primary{flex-shrink:0;min-height:42px;padding:0 16px}
+
+.profile-notice{padding:12px;margin-top:10px;border-radius:12px;background:#edf3fb;color:var(--navy2);font-size:9.5px;line-height:1.5}
+.profile-account-actions{display:flex;flex-direction:row;gap:10px;margin-top:18px}
+.quiz-modern-badge{max-width:100%;line-height:1.35}
+@media(max-width:370px){.practice-card{grid-template-columns:38px 1fr}.practice-card .reader-primary{grid-column:2;justify-self:start}.document-flow .document-mode-grid{grid-template-columns:1fr}.topic-sheet{padding-left:14px;padding-right:14px}}
+
+/* BUGÜNKÜ ROTA PANELİ (bottom-sheet) */
+.bottom-sheet{
+  position:absolute; bottom:var(--keyboard-height,0px); left:0; right:0;
+  background:#fff; border-radius:28px 28px 0 0;
+  padding:20px 18px;
+  transform:translateY(100%);
+  transition:0.35s cubic-bezier(0.3, 0.9, 0.4, 1), bottom 0.2s ease;
+  z-index:110; max-height:calc(88% - var(--keyboard-height,0px)); overflow-y:auto;
+  box-shadow:0 -15px 30px rgba(0,0,0,0.15);
+}
+.bottom-sheet.open{ transform:translateY(0); }
+
+.sheet-handle{ width:40px; height:5px; background:#d0d6e0; border-radius:10px; margin:0 auto 16px; }
+
+.sheet-head{ display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:18px; }
+.sheet-title{ display:flex; align-items:center; gap:8px; font-size:16px; margin:0 0 4px; color:var(--navy); }
+.sheet-title-icon{ width:20px; height:20px; color:var(--red); flex-shrink:0; }
+.sheet-head p{ margin:0; font-size:10.5px; color:var(--muted); line-height:1.4; }
+.sheet-close { width:30px; height:30px; border-radius:50%; border:0; background:#f0f4f8; color:var(--navy); font-size:16px; display:grid; place-items:center; cursor:pointer; flex-shrink:0; position:relative; z-index:100; pointer-events:auto; }
+.sheet-section{ margin-bottom:18px; }
+.sheet-label{ display:block; font-size:9px; font-weight:800; letter-spacing:1px; color:var(--red); margin-bottom:10px; text-transform:uppercase; }
+
+.mode-grid{ display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+.mode-option{ display:flex; flex-direction:column; gap:4px; text-align:left; padding:12px; border:1.5px solid var(--line); border-radius:13px; background:#fff; cursor:pointer; }
+.mode-option strong{ display:flex; align-items:center; gap:6px; font-size:11px; color:var(--navy); font-weight:700; }
+.mode-option .option-icon{ width:15px; height:15px; color:var(--navy2); flex-shrink:0; }
+.mode-option > span{ font-size:9px; color:var(--muted); line-height:1.3; }
+.mode-option.selected{ border-color:var(--navy); background:#f7faff; }
+.mode-option.selected .option-icon{ color:var(--navy); }
+
+.choice-row{ display:flex; gap:8px; }
+.choice{ flex:1; padding:10px; border:1.5px solid var(--line); border-radius:11px; background:#fff; font-size:12px; font-weight:700; color:var(--navy2); cursor:pointer; display:flex; align-items:center; justify-content:center; gap:6px; }
+.choice-icon{ width:14px; height:14px; }
+.choice.selected{ border-color:var(--navy); background:var(--navy); color:#fff; }
+
+.sheet-summary{ display:flex; justify-content:space-between; align-items:center; padding:12px; background:#f8f9fc; border:1px solid var(--line); border-radius:14px; margin-bottom:16px; }
+.sheet-summary span{ display:block; font-size:8.5px; color:var(--muted); font-weight:700; letter-spacing:.4px; margin-bottom:3px; text-transform:uppercase; }
+.sheet-summary strong{ font-size:13px; color:var(--navy); }
+
+.sheet-primary{ width:100%; border:0; border-radius:14px; padding:15px; background:var(--navy); color:#fff; font-size:14px; font-weight:700; cursor:pointer; }
+
+/* ARAMA PANELİ */
+.search-input-wrap{ display:flex; align-items:center; gap:10px; height:46px; border:1.5px solid var(--line); border-radius:13px; padding:0 14px; margin-bottom:14px; background:#f6f8fb; flex-shrink:0; }
+.search-input-wrap:focus-within{ border-color:var(--blue); background:#fff; box-shadow:0 0 0 3px rgba(45,126,247,.1); }
+.search-input-wrap svg{ width:17px; height:17px; color:var(--muted); flex-shrink:0; }
+.search-input{ border:none; outline:none; flex:1; min-width:0; background:transparent; font-size:14px; color:var(--text); }
+.search-input::placeholder{ color:#a7b0c0; }
+
+/* ================= AUTH (ÜYELİK / GİRİŞ) — normal, responsive web page (phone mockup DEĞİL) ================= */
+html, body.auth-page{height:auto}
+body.auth-page{
+  min-height:100dvh;
+  background:
+    linear-gradient(rgba(255,255,255,.75),rgba(255,255,255,.75)),
+    url("images/background.png");
+  background-size:cover;
+  background-position:center;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+}
+.auth-shell{
+  height:100dvh;
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+  padding:calc(clamp(10px,3vh,28px) + env(safe-area-inset-top)) 20px calc(clamp(10px,3vh,28px) + env(safe-area-inset-bottom));
+}
+.auth-card-wrap{width:100%;max-width:400px;display:flex;flex-direction:column;align-items:center;max-height:100%}
+
+/* Brand lockup: icon + wordmark + tagline */
+.auth-brand{display:flex;flex-direction:column;align-items:center;margin:0 0 clamp(8px,2vh,22px);text-align:center;flex-shrink:0}
+.auth-brand-icon{width:clamp(38px,7vh,60px);height:clamp(38px,7vh,60px);object-fit:contain;margin-bottom:clamp(4px,1vh,10px)}
+.auth-brand-word{font-size:clamp(17px,3.4vh,22px);font-weight:800;letter-spacing:-.2px;line-height:1}
+.auth-brand-word .w-navy{color:var(--navy)}
+.auth-brand-word .w-red{color:var(--red)}
+.auth-brand-tag{font-size:11px;color:var(--muted);margin:4px 0 0;font-weight:500}
+
+.auth-card{
+  width:100%;
+  background:#fff;
+  border:1px solid rgba(21,59,115,.06);
+  border-radius:24px;
+  padding:clamp(16px,3vh,28px) 24px;
+  box-shadow:0 16px 40px rgba(13,33,68,.08);
+  overflow-y:auto;
+  max-height:100%;
+}
+.auth-heading{text-align:center;margin-bottom:4px}
+.auth-heading h1{font-size:clamp(17px,3vh,21px);margin:0;color:var(--navy);font-weight:800;letter-spacing:-.2px}
+.auth-heading p{font-size:12px;color:var(--muted);margin:4px 0 0}
+
+.auth-form{display:flex;flex-direction:column}
+.auth-form .field{
+  display:flex;align-items:center;gap:10px;height:clamp(42px,7vh,50px);border-radius:13px;padding:0 14px;
+  margin-top:clamp(8px,1.6vh,13px);background:#f6f8fb;border:1px solid var(--line);flex-shrink:0;
+}
+.auth-form .field:focus-within{border-color:var(--blue);background:#fff;box-shadow:0 0 0 3px rgba(45,126,247,.1)}
+.auth-form .field svg{width:17px;height:17px;flex-shrink:0}
+.auth-form .field input{border:none;outline:none;flex:1;min-width:0;background:transparent;font-size:14px;color:var(--text)}
+.auth-form .field input::placeholder{color:#a7b0c0}
+.auth-form .field .eye{cursor:pointer}
+
+.row-between{display:flex;justify-content:space-between;align-items:center;margin-top:clamp(8px,1.6vh,14px);font-size:12.5px;flex-wrap:wrap;gap:8px}
+.remember{display:flex;align-items:center;gap:6px;color:#4a5a70;cursor:pointer}
+.remember input{width:14px;height:14px;accent-color:var(--blue)}
+.forgot{color:var(--blue);font-weight:600;cursor:pointer;background:none;border:none;font-size:12.5px;padding:0}
+
+.terms{display:flex;align-items:flex-start;gap:7px;margin-top:clamp(8px,1.6vh,13px);font-size:11.5px;color:#4a5a70;line-height:1.35}
+.terms input{width:14px;height:14px;margin-top:2px;accent-color:var(--blue);flex-shrink:0}
+.terms label{cursor:pointer}
+
+.auth-error{color:var(--red);font-size:12px;margin:8px 0 0;min-height:14px}
+.auth-info{color:var(--green);font-size:12px;margin:8px 0 0;line-height:1.35}
+
+.auth-form .primary-btn{
+  width:100%;margin-top:clamp(10px,2vh,18px);color:#fff;font-size:14.5px;font-weight:700;cursor:pointer;border:none;
+  height:clamp(44px,7vh,52px);border-radius:14px;background:var(--blue);flex-shrink:0;
+  box-shadow:0 10px 24px rgba(45,126,247,.28);transition:.2s;
+}
+.auth-form .primary-btn:hover{filter:brightness(1.05)}
+.auth-form .primary-btn:active{transform:scale(.98)}
+.auth-form .primary-btn:disabled{opacity:.6;cursor:default;box-shadow:none;transform:none}
+
+.auth-redirect-note{text-align:center;color:var(--muted);font-size:12.5px;margin-top:14px}
+
+.divider{display:flex;align-items:center;gap:10px;margin:clamp(10px,2vh,20px) 0 clamp(8px,1.6vh,16px);flex-shrink:0}
+.divider .line{flex:1;height:1px;background:var(--line)}
+.divider span{font-size:11.5px;color:var(--muted);white-space:nowrap}
+
+.socials{display:flex;gap:10px;justify-content:center;flex-shrink:0}
+.social-box{
+  flex:1;max-width:80px;height:clamp(38px,6vh,48px);border-radius:13px;cursor:pointer;
+  border:1px solid var(--line);display:flex;align-items:center;justify-content:center;
+  background:#f6f8fb;transition:.15s;
+}
+.social-box:hover{background:#eef2f7}
+.social-box:disabled{opacity:.5;cursor:default}
+.social-box svg{width:20px;height:20px}
+
+.auth-switch{margin-top:clamp(8px,1.8vh,18px);text-align:center;font-size:13px;color:#4a5a70;flex-shrink:0}
+.auth-switch a{color:var(--blue);font-weight:700;text-decoration:none}
+.auth-switch a:hover{text-decoration:underline}
+
+@media(max-width:380px){
+  .auth-shell{padding-left:14px;padding-right:14px}
+  .auth-card{padding-left:16px;padding-right:16px}
+  .auth-brand-word{font-size:clamp(16px,3.2vh,20px)}
+}
+
+@media(max-height:700px){
+  .auth-brand{display:none}
+}
+
+/* Geniş ekranlarda (tablet/masaüstü) kartı ortalı ve ferah tut — sahte telefon çerçevesi yok */
+@media(min-width:640px){
+  .auth-card-wrap{max-width:420px}
+  .auth-card{padding:34px 32px}
+}
+
+/* ================= UYGULAMA — GERÇEK BİR WEB SİTESİ, SAHTE TELEFON ÇERÇEVESİ DEĞİL =================
+   Bu blok dosyanın EN SONUNDA olmalı: aynı özgüllükteki (specificity) kurallarda tarayıcı
+   kaynak sırasında SONRA geleni uygular — yukarıdaki mobil-öncelikli .categories/.bottom-nav
+   tanımlarının bu kuralları ezmemesi için buraya taşındı.
+   Mobilde tam ekran uygulama hissi korunur; tablet ve masaüstünde içerik genişler,
+   kategoriler çok sütunlu ızgaraya döner ve alt gezinme menüsü kalıcı bir yan menüye dönüşür. */
+@media(min-width:641px){
+  .phone{max-width:640px;box-shadow:0 0 0 1px var(--line)}
+  .app-header{padding-left:24px;padding-right:24px}
+  .screen{padding-left:20px;padding-right:20px}
+  .categories{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  .stats{padding:14px 8px}
+}
+
+@media(min-width:1000px){
+  html,body{background:#eef1f6}
+  .phone{
+    max-width:1180px;height:100dvh;
+    display:grid;grid-template-columns:236px 1fr;
+    box-shadow:0 0 0 1px var(--line),0 30px 70px rgba(13,33,68,.10);
+  }
+  .scroll-area{position:relative;grid-column:2;overflow-y:auto;height:100%}
+  .app-scroll{padding-bottom:28px}
+  .app-header{border-radius:0 26px 0 0}
+  .screen{padding-left:26px;padding-right:26px;max-width:840px}
+  .categories{grid-template-columns:repeat(2,1fr);gap:12px}
+
+  /* Alt gezinme menüsü -> kalıcı sol yan menü */
+  .bottom-nav{
+    position:relative;grid-column:1;grid-row:1/-1;order:unset;
+    height:100%;width:auto;border-top:0;border-right:1px solid var(--line);
+    background:#fff;backdrop-filter:none;
+    display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;
+    gap:4px;padding:26px 14px;grid-template-columns:none;
+  }
+  .bottom-nav button{
+    flex-direction:row;justify-content:flex-start;align-items:center;gap:12px;
+    padding:12px 14px;border-radius:12px;font-size:13.5px;color:#4a5a70;
+  }
+  .bottom-nav button>svg{width:20px;height:20px}
+  .bottom-nav button span{font-size:13px;font-weight:600;margin-top:0}
+  .bottom-nav button.active{background:var(--red2);color:var(--red)}
+
+  /* Bottom sheet / topic sheet masaüstünde ortalanmış bir panel gibi davransın */
+  .topic-sheet,.bottom-sheet{left:50%;right:auto;width:min(560px,92%);transform:translate(-50%,100%);border-radius:28px}
+  .topic-sheet.open,.bottom-sheet.open{transform:translate(-50%,0)}
+  .toast{left:calc(50% + 118px)}
+}
+
+/* KİLİTLİ İÇERİK (rol bazlı ileride kilitlenecek kategoriler için) */
+.topic-item.locked{opacity:.7}
+.topic-item.locked .topic-number{background:var(--red2);color:var(--red)}
+
+/* KADRO SEÇİM KAPISI (zorunlu, tam ekran) */
+.role-gate{position:fixed;inset:0;z-index:1000;background:var(--bg);display:flex;align-items:center;justify-content:center;padding:28px 20px;overflow-y:auto}
+.role-gate[aria-hidden="true"]{display:none}
+.role-gate-card{width:100%;max-width:420px}
+.role-gate-dots{display:flex;gap:8px;justify-content:center;margin-bottom:22px}
+.role-gate-dots .dot{width:9px;height:9px;border-radius:50%;background:#d7dce4}
+.role-gate-dots .dot:nth-child(1){background:var(--navy)}
+.role-gate-dots .dot:nth-child(2){background:var(--red)}
+.role-gate-card h1{font-size:25px;font-weight:800;color:var(--navy);text-align:center;margin:0 0 8px;letter-spacing:-.4px}
+.role-gate-card>p{font-size:12.5px;color:var(--muted);text-align:center;margin:0 0 22px}
+.role-gate-list{display:flex;flex-direction:column;gap:10px;margin-bottom:20px}
+.role-gate-item{width:100%;display:flex;align-items:center;gap:14px;padding:14px 16px;border:1.5px solid var(--line);border-radius:16px;background:#fff;cursor:pointer;box-shadow:0 3px 10px rgba(13,33,68,.03);text-align:left}
+.role-gate-item-icon{width:46px;height:46px;border-radius:50%;background:#edf3fb;color:var(--navy2);display:grid;place-items:center;flex-shrink:0}
+.role-gate-item-icon svg{width:21px;height:21px}
+.role-gate-item strong{flex:1;font-size:15.5px;color:var(--navy);font-weight:800}
+.role-gate-item-arrow{color:#c4c8d4;display:grid;place-items:center;flex-shrink:0}
+.role-gate-item-arrow svg{width:17px;height:17px}
+.role-gate-item.selected{border-color:var(--navy);background:#f7faff}
+.role-gate-item.selected .role-gate-item-icon{background:var(--navy);color:#fff}
+.role-gate-item.selected .role-gate-item-arrow{color:var(--navy)}
+.role-gate-cta{width:100%;border:0;border-radius:14px;padding:16px;background:#c7cddb;color:#fff;font-size:14.5px;font-weight:700;cursor:not-allowed}
+.role-gate-cta.enabled{background:var(--navy);cursor:pointer;box-shadow:0 10px 24px rgba(7,31,73,.22)}
+@media(min-width:641px){.role-gate-card{max-width:440px}}
+
+/* Font büyütme — site genelinde tutarlı, okunabilir bir ölçek: gövde metni ~10.5px,
+   etiket/eyebrow metni ~9.5px. Çok küçük (8-9px) punto boyutları buradan büyütülür. */
+.user-text p{font-size:10.5px}
+.goal-copy p{font-size:10.5px}
+.goal-line .count{font-size:10.5px}
+.goal-line .deadline{font-size:10.5px}
+.stat span{font-size:10.5px}
+.cat-copy p{font-size:12px;line-height:1.3;-webkit-line-clamp:2}
+.cta-btn span{font-size:10.5px}
+.page-heading p{font-size:12px}
+.page-heading>span{font-size:9.5px}
+.empty-state p{font-size:11.5px}
+.document-flow .document-mode-card small{font-size:11px}
+.document-flow .document-status{font-size:9.5px}
+.document-flow .document-stats{font-size:10px}
+.document-flow .document-section-head span{font-size:9.5px}
+.document-flow .document-section-item p{font-size:10px}
+.practice-card p{font-size:10px}
+.practice-card span{font-size:9.5px}
+.metric-strip span,.study-grid span{font-size:10px}
+.profile-summary span{font-size:10.5px}
+.profile-goal-desc{font-size:11px}
+.profile-goal-head>span{font-size:9.5px}
+.profile-notice{font-size:10.5px}
+.topic-copy p{font-size:10.5px}
+.topic-eyebrow{font-size:9.5px}
+.article-range{font-size:9px}
+.sheet-head p{font-size:11.5px}
+.sheet-label{font-size:9.5px}
+.sheet-summary span{font-size:9.5px}
+.mode-option>span{font-size:10px}
+.quiz-result-list-title{font-size:9.5px}
+.summary-item>span{font-size:9.5px}
+.summary-item li{font-size:10.5px}
+.action-btn{font-size:9.5px}
+.bottom-nav button span{font-size:9.5px}
+.flip-card-label{font-size:9.5px}
+.flip-card-hint{font-size:9.5px}
+.topic-sheet.card-study-active .topic-eyebrow{font-size:9.5px}
+.topic-sheet.card-study-active #topicSheetSubtitle{font-size:10px}
+
+@media(max-width:430px){
+  .bottom-nav button>svg{width:21px;height:21px}
+  .bottom-nav button span{font-size:9.5px}
+}
+
+/* Çıkış Yap tasarımı */
+.signout-btn{
+  flex:1;display:flex;align-items:center;justify-content:center;gap:7px;
+  padding:14px 10px;border-radius:14px;
+  border:1.5px solid #fad4d6;background:var(--red2);color:var(--red);
+  font-size:11.5px;font-weight:700;cursor:pointer;transition:.15s;
+}
+.signout-btn:hover{background:#fde3e4}
+.signout-btn svg{width:17px;height:17px}
+
+/* Kadro ibaresi (header chip) — belirgin, rozet hissi veren tasarım */
+.role-badge{
+  display:inline-flex;align-items:center;gap:5px;
+  margin-top:5px;padding:4px 10px 4px 8px;
+  border-radius:20px;
+  background:linear-gradient(135deg,#ff6a6d,#e2262c);
+  color:#fff;
+  font-size:10px;font-weight:800;letter-spacing:.4px;
+  text-transform:uppercase;
+  box-shadow:0 4px 10px rgba(233,50,56,.35),0 0 0 1px rgba(255,255,255,.14) inset;
+}
+.role-badge::before{
+  content:'';width:5px;height:5px;border-radius:50%;flex-shrink:0;
+  background:#fff;
+  box-shadow:0 0 0 3px rgba(255,255,255,.28);
+}
+/* ================= BİLGİ KARTLARI — FLIP CARD ÇALIŞMA MODU =================
+   app.js -> renderCardStudy() tarafından üretilen markup ile eşleşir:
+   .card-study-wrap > .flip-card(.flipped) > .flip-card-inner >
+     .flip-card-face.flip-card-front / .flip-card-back
+   + .card-study-nav > .card-nav-btn / .card-nav-count
+   topicSheet'e her zaman 'document-flow card-study-active' birlikte eklenir,
+   bu yüzden .card-study-active kuralları kart moduna giren TÜM kategoriler
+   (Genel Mevzuat, MEB Mevzuatı, Genel Kültür) için otomatik geçerlidir.
+
+   iOS/WebKit DÜZELTMESİ (revize): backface-visibility:hidden bazı iOS Safari
+   sürümlerinde -webkit- öneksiz transform/transform-style ile birlikte
+   güvenilmez çalışıyor, bu da arka yüzün öne "sızıp" ters/aynalı görünmesine
+   yol açıyordu. Aşağıda ilgili tüm transform özelliklerine -webkit- öneki
+   eklendi ve 3D bağlamının atası olan .topic-list'teki overflow:hidden
+   kaldırıldı (bkz. PANEL İÇİ SIĞDIRMA bölümü). */
+
+.card-study-wrap{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:14px;
+  padding:2px 2px 4px;
+}
+
+/* --- Kart (taban / panel dışı bağlamlar için yedek boyutlandırma) --- */
+.flip-card{
+  width:100%;
+  max-width:320px;
+  aspect-ratio:3/4;
+  perspective:1500px;
+  -webkit-perspective:1500px;
+  cursor:pointer;
+  margin:0 auto;
+  -webkit-tap-highlight-color:transparent;
+  border-radius:22px;
+}
+.flip-card-inner{
+  position:relative;
+  width:100%;
+  height:100%;
+  transition:transform .55s cubic-bezier(.4,.2,.2,1);
+  transform-style:preserve-3d;
+  -webkit-transform-style:preserve-3d;
+}
+.flip-card.flipped .flip-card-inner{
+  transform:rotateY(180deg);
+  -webkit-transform:rotateY(180deg);
+}
+
+.flip-card-face{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  backface-visibility:hidden;
+  -webkit-backface-visibility:hidden;
+  transform: translateZ(1px);
+  -webkit-transform: translateZ(1px);
+  padding:22px 20px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  box-shadow:var(--shadow); 
+}
+
+/* Ön yüz — soru */
+.flip-card-front{
+  background:radial-gradient(120% 90% at 15% 0%,#1b3468 0%,#0b1e46 55%,#0a1b3f 100%);
+  color:#fff;
+}
+.flip-card-label{
+  position:absolute;
+  top:14px; left:14px;
+  font-size:9.5px;
+  font-weight:800;
+  letter-spacing:.6px;
+  text-transform:uppercase;
+  padding:5px 10px;
+  border-radius:20px;
+  background:rgba(255,255,255,.1);
+  color:#c9d4e8;
+}
+.flip-card-q-mark{
+  position:absolute;
+  top:0; right:10px;
+  font-size:64px;
+  font-weight:800;
+  line-height:1;
+  color:rgba(255,255,255,.07);
+  pointer-events:none;
+}
+.flip-card-text{
+  position:relative;
+  z-index:1;
+  font-size:15.5px;
+  font-weight:700;
+  line-height:1.5;
+  margin:0;
+  max-width:240px;
+  color:#fff;
+}
+.flip-card-hint{
+  position:absolute;
+  left:50%; bottom:14px;
+  transform:translateX(-50%);
+  -webkit-transform:translateX(-50%);
+  font-size:9.5px;
+  font-weight:700;
+  letter-spacing:.3px;
+  color:rgba(255,255,255,.65);
+  background:rgba(255,255,255,.08);
+  padding:5px 11px;
+  border-radius:20px;
+  white-space:nowrap;
+}
+
+/* Arka yüz — cevap */
+.flip-card-back{
+  background:radial-gradient(120% 90% at 15% 0%,#f2fbf6 0%,var(--green2) 55%,#fff 100%);
+  border:1.5px solid #cfead9;
+  transform: rotateY(180deg) translateZ(1px);
+  -webkit-transform: rotateY(180deg) translateZ(1px);
+  color:var(--navy);
+}
+.flip-card-back .flip-card-text{
+  font-size:19px;
+  color:var(--navy);
+  max-width:250px;
+}
+.flip-card-back .flip-card-hint{
+  color:var(--green);
+  font-weight:800;
+  background:#fff;
+  box-shadow:0 2px 6px rgba(13,33,68,.06);
+}
+.flip-card-back::before{
+  content:'';
+  position:absolute;
+  top:14px; left:14px;
+  width:24px; height:24px;
+  border-radius:50%;
+  background:#fff;
+  border:1.5px solid #b9e3c9;
+  box-shadow:0 2px 6px rgba(13,33,68,.05);
+}
+.flip-card-back::after{
+  content:'✓';
+  position:absolute;
+  top:14px; left:14px;
+  width:24px; height:24px;
+  display:grid;
+  place-items:center;
+  font-size:12px;
+  font-weight:800;
+  color:var(--green);
+}
+
+/* --- Leitner puanlama butonları (Zor / Orta / Kolay) --- */
+.card-rating-row{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  width:100%;
+  max-width:320px;
+  flex-shrink:0;
+  margin:2px 0 4px;
+}
+.card-rating-btn{
+  flex:1;
+  padding:11px 8px;
+  border-radius:12px;
+  border:1.5px solid var(--line);
+  background:#fff;
+  font-size:13px;
+  font-weight:800;
+  cursor:pointer;
+  transition:.15s;
+}
+.card-rating-btn:hover{ transform:translateY(-1px); }
+.card-rating-zor{ color:#c0392b; border-color:#f2c4bd; }
+.card-rating-zor:hover{ background:#fdf1ef; }
+.card-rating-orta{ color:#a9720c; border-color:#f0dcae; }
+.card-rating-orta:hover{ background:#fdf7ea; }
+.card-rating-kolay{ color:#1f8a4c; border-color:#bfe6cc; }
+.card-rating-kolay:hover{ background:#eefaf2; }
+
+/* --- Alt gezinme (önceki / sayaç / sonraki) --- */
+.card-study-nav{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:20px;
+  width:100%;
+  max-width:320px;
+  flex-shrink:0;
+}
+.card-nav-btn{
+  width:42px; height:42px;
+  border-radius:50%;
+  border:1.5px solid var(--line);
+  background:#fff;
+  color:var(--navy);
+  display:grid;
+  place-items:center;
+  cursor:pointer;
+  box-shadow:0 4px 10px rgba(13,33,68,.05);
+  flex-shrink:0;
+  transition:.15s;
+}
+.card-nav-btn svg{ width:18px; height:18px; }
+.card-nav-btn:hover:not(:disabled){ border-color:#c9daf6; background:#f7faff; transform:translateY(-1px); }
+.card-nav-btn:disabled{ opacity:.35; cursor:not-allowed; }
+.card-nav-count{
+  font-size:12px;
+  font-weight:800;
+  color:var(--navy2);
+  min-width:64px;
+  text-align:center;
+}
+
+/* ================= PANEL İÇİ SIĞDIRMA (kesin çözüm) =================
+   Panel SABİT yükseklikli bir flex-column. Header/breadcrumb/ilerleme
+   sabit yer kaplar (flex-shrink:0). .topic-list kalanı flex:1 ile doldurur.
+   .flip-card artık aspect-ratio KULLANMIYOR, bunun yerine flex:1 ile
+   "nav çıkarıldıktan sonra kalan boşluğun TAMAMINI VE SADECE TAMAMINI"
+   alıyor. Matematiksel olarak taşma/kırpılma imkânsız.
+
+   ÖNEMLİ (revize): .topic-list'te overflow:hidden ARTIK KULLANILMIYOR.
+   iOS/WebKit'te 3D transform (backface-visibility) içeren torun elementlerle
+   overflow:hidden birlikte kullanıldığında flip animasyonu bozuluyor
+   (arka yüz öne sızıp ters/aynalı görünüyor). Taşma riski zaten
+   flex:1 + min-height:0 kombinasyonuyla engelleniyor, bu yüzden
+   overflow:hidden'a ihtiyaç yok. */
+.topic-sheet.card-study-active{
+  height:88%;
+  overflow:hidden;
+}
+.topic-sheet.card-study-active .topic-sheet-head,
+.topic-sheet.card-study-active .topic-breadcrumb-wrap,
+.topic-sheet.card-study-active .topic-progress-card{
+  flex-shrink:0;
+}
+.topic-sheet.card-study-active .topic-list{
+  flex:1;
+  min-height:0;
+  padding-bottom:0;
+}
+.topic-sheet.card-study-active .card-study-wrap{
+  height:100%;
+  padding:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:14px;
+}
+.topic-sheet.card-study-active .flip-card{
+  flex:1 1 auto;
+  min-height:0;
+  width:100%;
+  max-width:320px;
+  aspect-ratio:auto;
+}
+.topic-sheet.card-study-active .card-study-nav{
+  flex-shrink:0;
+}
+
+/* --- Bu ekrana özel görsel incelik (breadcrumb / ilerleme çubuğu) --- */
+.topic-sheet.card-study-active .topic-breadcrumb-back,
+.topic-sheet.card-study-active .topic-breadcrumb-pill{
+  box-shadow:0 3px 10px rgba(233,50,56,.06);
+}
+.topic-sheet.card-study-active .topic-progress-card{
+  border-color:#e6ecf6;
+  box-shadow:0 3px 10px rgba(13,33,68,.03);
+}
+.topic-sheet.card-study-active #topicProgressBar{
+  background:linear-gradient(90deg,var(--blue),var(--navy2));
+}
+
+@media(max-width:370px){
+  .flip-card{ max-width:270px; }
+  .flip-card-text{ font-size:14px; }
+  .flip-card-q-mark{ font-size:52px; }
+}
+
+@media(min-width:641px){
+  .flip-card{ max-width:320px; }
+}
+/* ================= KART ÇALIŞMA EKRANI — ÜST BÖLÜM YENİDEN TASARIMI =================
+   Bu blok style.css'in EN SONUNA eklenmeli (aynı kaynak sırasında sonra gelen
+   kural kazanır — önceki flip-card bloğundaki .topic-heading-icon /
+   .topic-eyebrow / .topic-breadcrumb tanımlarını üzerine yazar).
+   Sadece .card-study-active kapsamında çalışır -> Genel Mevzuat, MEB Mevzuatı,
+   Genel Kültür kart modlarının HEPSİNDE otomatik geçerlidir. Quiz/konu akışlarını
+   etkilemez. */
+
+/* --- İkon rozeti: kare değil, gradyanlı daire --- */
+.topic-sheet.card-study-active .topic-heading-icon{
+  width:48px; height:48px;
+  border-radius:50%;
+  background:linear-gradient(135deg,#1c3a72,#0a1b3f);
+  color:#fff;
+  box-shadow:0 6px 16px rgba(10,27,63,.28);
+}
+.topic-sheet.card-study-active .topic-heading-icon svg{ width:21px; height:21px; }
+
+/* --- "BİLGİ KARTLARI" etiketi: düz yazı değil, dolgulu rozet --- */
+.topic-sheet.card-study-active .topic-eyebrow{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+  background:var(--red2);
+  color:var(--red);
+  padding:4px 9px 4px 7px;
+  border-radius:20px;
+  font-size:9.5px;
+  margin-bottom:7px;
+}
+.topic-sheet.card-study-active .topic-eyebrow::before{
+  content:'';
+  width:4px; height:4px;
+  border-radius:50%;
+  background:var(--red);
+  flex-shrink:0;
+}
+
+/* --- Başlık --- */
+.topic-sheet.card-study-active #topicSheetTitle{
+  font-size:17px;
+  letter-spacing:-.2px;
+  line-height:1.25;
+}
+
+/* --- "1 / 30" sayacı: düz yazı değil, minik kapsül --- */
+.topic-sheet.card-study-active #topicSheetSubtitle{
+  display:inline-block;
+  margin-top:4px;
+  font-size:9.5px;
+  font-weight:800;
+  color:var(--navy2);
+  background:#eef3fc;
+  padding:3px 9px;
+  border-radius:10px;
+}
+
+@media(max-width:400px){
+  .quiz-premium-footer{
+    gap: 6px;
+    padding: 14px 12px calc(18px + env(safe-area-inset-bottom));
+  }
+  .footer-btn{
+    padding: 14px 8px;
+    font-size: 12px;
+    gap: 5px;
+  }
+  .footer-btn svg{ width:15px; height:15px; }
+
+  .quiz-premium-titles h2{
+    font-size: 14.5px;
+    line-height: 1.3;
+  }
+  .quiz-premium-header{
+    padding: calc(12px + env(safe-area-inset-top)) 16px 16px;
+  }
+  .quiz-premium-topbar{
+    margin-bottom: 18px;
+  }
+}
+
+/* ================= YÜKSELEN SEKME — MOBİL ALT MENÜ =================
+   Aktif sekmenin ikonu menünün üzerine çıkar. 1000 px ve üzerindeki
+   kalıcı sol menü düzeni bu bloktan etkilenmez. */
+@media(max-width:999px){
+  .bottom-nav{
+    height:calc(72px + env(safe-area-inset-bottom));
+    padding:6px 4px calc(6px + env(safe-area-inset-bottom));
+    overflow:visible;
+    background:rgba(255,255,255,.98);
+    border-top:1px solid var(--line);
+    box-shadow:0 -8px 24px rgba(13,33,68,.06);
+  }
+
+  .app-scroll{
+    padding-bottom:calc(88px + env(safe-area-inset-bottom));
+  }
+
+  .bottom-nav button{
+    position:relative;
+    min-width:0;
+    min-height:60px;
+    padding:2px 2px 4px;
+    gap:3px;
+    transition:color .2s ease,transform .2s ease;
+  }
+
+  .bottom-nav button>svg{
+    width:21px;
+    height:21px;
+    flex-shrink:0;
+    transition:color .22s ease,background .22s ease,box-shadow .22s ease;
+  }
+
+  .bottom-nav button>span{
+    transition:color .2s ease,transform .2s ease;
+  }
+
+  .bottom-nav button.active{
+    color:var(--red);
+  }
+
+  .bottom-nav button.active>svg{
+    position:absolute;
+    top:-18px;
+    left:50%;
+    width:21px;
+    height:21px;
+    box-sizing:content-box;
+    padding:8px;
+    border:4px solid var(--bg);
+    border-radius:50%;
+    color:#fff;
+    background:var(--red);
+    box-shadow:0 8px 18px rgba(233,50,56,.28);
+    transform:translateX(-50%);
+  }
+
+  .bottom-nav button.active>span{
+    position:absolute;
+    right:0;
+    bottom:4px;
+    left:0;
+    color:var(--red);
+    font-weight:700;
+    transform:translateY(-1px);
+  }
+
+  .bottom-nav button:focus-visible{
+    outline:2px solid var(--blue);
+    outline-offset:-2px;
+    border-radius:12px;
+  }
+}
+
+@media(max-width:360px){
+  .bottom-nav button.active>svg{
+    top:-16px;
+    padding:7px;
+  }
+}
+
+@media(prefers-reduced-motion:reduce){
+  .bottom-nav button,
+  .bottom-nav button>svg,
+  .bottom-nav button>span{
+    transition:none;
+  }
+}
+
+/* --- BİLDİRİM MODALI --- */
+.report-modal-sheet { display: flex; flex-direction: column; gap: 12px; }
+.report-modal-desc { font-size: 13px; color: var(--muted); margin: 0; line-height: 1.5; }
+.report-modal-textarea {
+  width: 100%; box-sizing: border-box;
+  border: 1.5px solid var(--line); border-radius: 12px;
+  padding: 10px 12px; font-size: 13px; font-family: inherit;
+  color: var(--navy); resize: none; outline: none;
+  transition: border-color .15s;
+}
+.report-modal-textarea:focus { border-color: var(--blue); }
+.report-modal-send {
+  width: 100%; padding: 13px;
+  background: var(--red); color: #fff;
+  border: 0; border-radius: 12px;
+  font-size: 14px; font-weight: 700; cursor: pointer;
+  transition: opacity .15s;
+}
+.report-modal-send:active { opacity: .85; }
+.report-modal-undo {
+  background: var(--line);
+  color: var(--navy);
+}
+
+/* --- PREMIUM SATIN ALMA --- */
+.premium-purchase-options { display:flex; flex-direction:column; gap:10px; }
+.premium-buy-btn {
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+  width:100%; box-sizing:border-box;
+  border:1.5px solid var(--line); border-radius:14px;
+  padding:14px 16px; background:var(--white);
+  cursor:pointer; transition:opacity .15s, transform .1s;
+}
+.premium-buy-btn:active { opacity:.85; transform:scale(.99); }
+.premium-buy-btn:disabled { opacity:.6; cursor:default; transform:none; }
+.premium-btn-label { font-size:14px; font-weight:700; color:var(--navy); display:flex; align-items:center; gap:6px; }
+.premium-btn-price { font-size:14px; font-weight:800; color:var(--blue); white-space:nowrap; }
+.premium-btn-badge {
+  font-size:10px; font-weight:800; letter-spacing:.02em;
+  color:var(--green); background:var(--green2);
+  padding:2px 8px; border-radius:20px;
+}
+.premium-buy-btn.featured { background:var(--navy); border-color:var(--navy); }
+.premium-buy-btn.featured .premium-btn-label,
+.premium-buy-btn.featured .premium-btn-price { color:#fff; }
+.premium-buy-btn.featured .premium-btn-badge { background:var(--red); color:#fff; }
+
+/* RESPONSIVE: Küçük ekranlar (emulator / kompakt cihazlar) */
+@media (max-height:640px) {
+  .app-header {
+    padding: calc(max(4px, env(safe-area-inset-top)) + 8px) 12px 8px;
+  }
+  .topbar-user .user-text p {
+    display: none;
+  }
+  .user-text h1 {
+    font-size: 13.5px;
+    margin-bottom: 0;
+  }
+  .goal-card {
+    margin-top: 6px;
+    padding: 8px;
+  }
+  .goal-copy h3 {
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .goal-copy p {
+    display: none;
+  }
+  .progress-wrap {
+    gap: 3px;
+  }
+  .goal-ring-wrap {
+    width: 56px;
+    height: 56px;
+  }
+}
