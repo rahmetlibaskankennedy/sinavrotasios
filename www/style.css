@@ -184,7 +184,7 @@ body{background:var(--bg)}
   transition:.18s ease;
 }
 .topic-breadcrumb-back:hover{filter:brightness(1.08);transform:translateY(-1px)}
-.topic-breadcrumb-back svg{width:19px;height:19px;stroke-width:3.2;position:relative;left:-2.25px;top:1.5px}
+.topic-breadcrumb-back svg{width:19px;height:19px;stroke-width:3.2;position:relative;left:-1.75px;top:1px}
 /* Hap'in sol kenarı, çizilen krokiye göre içe doğru kavisli (concave) —
    bir mask ile hap'in KENDİ sol kenarında sabit bir "C" oyuğu açılıyor
    (margin'den bağımsız, sabit). margin-left ise sadece hap kutusunu
