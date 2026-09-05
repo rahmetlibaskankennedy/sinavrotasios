@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "law-657-section-memurluga-alinma-mtn3v32g-7-zzq8",
+    "topic_id": "law-657-section-memurluga-alinma",
+    "prompt": "Aşağıdakilerden hangisi Devlet memuru olamaz?",
+    "options": [
+      "İlkokul mezunu olanlar",
+      "3 ay hapis cezası ile hükümlü olanlar",
+      "Muvazzaf askerlik hizmetini erteletmiş olanlar",
+      "Hırsızlık suçundan 4 ay hapis cezası ile hükümlü olanlar",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hırsızlık suçundan 4 ay hapis cezası ile hükümlü olanlar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 48.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:10.071568+00:00",
+    "updated_at": "2026-09-04T15:25:10.071568+00:00"
+  },
+  {
+    "id": "law-657-section-memurluga-alinma-mtn3v32g-8-ler3",
+    "topic_id": "law-657-section-memurluga-alinma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 56 ncı maddesine göre, adaylık süresi içinde aylıktan kesme veya kademe ilerlemesinin durdurulması cezası alan aday memurun ilişiği hangi usulle kesilir?",
+    "options": [
+      "Yalnız disiplin kurulunun kararıyla",
+      "Disiplin amirinin teklifi ve atamaya yetkili amirin onayıyla",
+      "Yalnız atamaya yetkili amirin kararıyla",
+      "Valinin doğrudan kararıyla",
+      "Yüksek disiplin kurulunun kararıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Disiplin amirinin teklifi ve atamaya yetkili amirin onayıyla. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 56.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:10.071568+00:00",
+    "updated_at": "2026-09-04T15:25:10.071568+00:00"
+  },
+  {
+    "id": "law-657-section-memurluga-alinma-mtn3v32g-9-30n2",
+    "topic_id": "law-657-section-memurluga-alinma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memuru olmaya engel hükümlülük hâllerindendir?",
+    "options": [
+      "Taksirli suç",
+      "Hırsızlık suçu",
+      "Tecil edilmiş ağır hapis cezası",
+      "6 aydan az hapis cezası",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hırsızlık suçu. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 48.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:10.071568+00:00",
+    "updated_at": "2026-09-04T15:25:10.071568+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-0-bub5",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Aşağıdakilerden hangi 657 sayılı Devlet Memurları Kanunu’na göre Devlet memurluğunun sona ermesi hâllerinden birisi değildir?",
+    "options": [
+      "Memurluktan çekilme",
+      "Yurt dışı görevlendirmesi",
+      "Memurluğa alınma şartlarını sonradan kaybetme",
+      "Yaş haddi",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yurt dışı görevlendirmesi. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-1-f0j4",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, 94 üncü maddenin ikinci ve üçüncü fıkralarına uygun olarak memuriyetten çekilenler kaç ay geçmeden yeniden Devlet memurluğuna alınamazlar?",
+    "options": [
+      "6 ay",
+      "3 ay",
+      "1 yıl",
+      "2 yıl",
+      "4 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 6 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 97.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-10-z5n9",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Memuriyetten çekilmek isteyen bir memur, yerine atanan kimsenin gelmesine veya çekilme, isteğinin kabulüne kadar görevine devam etmek zorundadır. Yerine atanan kimse bir aya kadar gelmezse veya yerine bir vekil atanmazsa memurun yapması gereken işlem nedir?",
+    "options": [
+      "Görevi bırakamaz, beklemeye devam eder.",
+      "Üstüne haber vererek görevini bırakabilir.",
+      "Mülki amire şikâyette bulunur.",
+      "Noter kanalıyla ihtarname çeker.",
+      "İstifa etmekten vazgeçmiş sayılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Üstüne haber vererek görevini bırakabilir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-11-2e4t",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "I. Memurun ölümü II. Memurun istifası III. Memurun emekliye ayrılması IV. Memurun görevden uzaklaştırılması 657 sayılı Devlet Memurları Kanunu’na göre yukarıdakilerden hangisi memuriyetin sona ermesi hâllerinden biri değildir?",
+    "options": [
+      "Yalnız IV",
+      "I ve II",
+      "II ve III",
+      "II ve IV",
+      "I, II ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yalnız IV. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 98.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-12-0en6",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Kanun’un 48. maddesinde belirtilen genel şartları taşımadığı sonradan anlaşılan veya memuriyetleri sırasında bu şartlardan herhangi birini kaybeden memurlar hakkında yapılacak işlem nedir?",
+    "options": [
+      "Durumları düzelene kadar aylıksız izinli sayılırlar.",
+      "Memuriyetlerine son verilir.",
+      "Hizmetli kadrosuna atanırlar.",
+      "Uyarma cezası verilerek görevlerine devam ederler.",
+      "Emeklilik haklarını kazanmışlarsa re’sen emekli edilirler, yoksa görevden uzaklaştırılırlar."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Memuriyetlerine son verilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 98.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-13-59nm",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, çekilme isteğinde bulunan memur 94 üncü maddenin ikinci fıkrasındaki usule uymadan görevinden ayrılırsa kaç yıl geçmeden yeniden Devlet memurluğuna alınamaz?",
+    "options": [
+      "6 ay",
+      "2 yıl",
+      "3 yıl",
+      "1 yıl",
+      "Hiçbir surette yeniden alınamaz."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 1 yıl. Dayanak: 657 sayılı Devlet Memurları Kanunu, Maddeler 94 ve 97.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-14-1p6n",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Aşağıdakilerden hangisi Devlet memurluğunu sona erdiren durumlardan değildir?",
+    "options": [
+      "Memurluktan çekilme ya da çekilmiş sayılma",
+      "İstek, yaş haddi ve malullük sebeplerinden biri ile emekliye ayrılma",
+      "Görevden uzaklaştırılma",
+      "Memurluğa alınma şartlarından herhangi birini taşımadığının sonradan anlaşılması ya da memuriyeti sırasında bu şartlardan birini kaybetme",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Görevden uzaklaştırılma. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-15-vgvw",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Devlet Memurları Kanunu’nda memurluğun sona ermesi hâlleri sıralanmıştır. Buna göre aşağıdaki hâllerden hangisinin olması durumunda memurluk sona ermez?",
+    "options": [
+      "Memurluktan çekilme",
+      "Açığa alınma",
+      "Ölüm",
+      "Emekliye ayrılma",
+      "Memurluktan çıkarılma"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Açığa alınma. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-16-wopn",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi memurluğun sona ermesi hâllerinden biri değildir?",
+    "options": [
+      "Ölüm",
+      "Yaş haddi nedeniyle emeklilik",
+      "Memurluktan çekilme",
+      "Devlet memurluğundan çıkarma cezası verilmesi",
+      "İki defa uyarma cezası alınması"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – İki defa uyarma cezası alınması. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 98.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-17-wyos",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "“657 sayılı Devlet Memurları Kanunu’na göre, olağanüstü mazeretle çekilenler, üstüne haber vermek şartıyla bir ay kaydına tabi değildirler. Hükmüne uygun olarak memuriyetten çekilenler kaç ay geçmeden Devlet memurluğuna alınmazlar?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 6. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-18-3cdq",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "I. Memurluktan çıkarılması II. Memurluktan çekilmesi III. Yaş haddi ile emekliye ayrılması 657 sayılı Devlet Memurları Kanunu’na yukarıda verilenlerden hangisi “Memurluğun sona ermesi” durumlarındandır?",
+    "options": [
+      "Yalnız III",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – I, II ve III. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-19-okln",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Kanun’a göre, olağanüstü mazeretle memurluktan çekilme isteğinde bulunup ayrılanlar, ne kadar süre sonra Devlet memurluğuna tekrar atanabilirler?",
+    "options": [
+      "3 ay",
+      "1 yıl",
+      "2 yıl",
+      "6 ay",
+      "3 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 6 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-2-2acb",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Bir memur hangi halde, görevinden çekilme isteğinde bulunmuş sayılır?",
+    "options": [
+      "Çekilme isteğini amirine yazıyla bildirmişse",
+      "Bir yıl içerisinde toplam 20 gün göreve gelmemişse",
+      "Göreve geç gelip, erken ayrılıyorsa",
+      "Görevini mazeretsiz ve kesintisiz 10 gün terk etmişse",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Görevini mazeretsiz ve kesintisiz 10 gün terk etmişse. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 94.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-20-vnao",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Usulüne uygun olarak istifa eden (çekilen) bir memur, ne kadar süre geçmeden yeniden Devlet memurluğuna alınamaz?",
+    "options": [
+      "3 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "6 ay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 6 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-21-tujt",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Olağanüstü hal, seferberlik ve savaş hâllerinde, çekilme istekleri kabul edilmeden görevlerini terk eden memurların tekrar memuriyete dönme durumu nedir?",
+    "options": [
+      "1 yıl sonra dönebilirler",
+      "3 yıl sonra dönebilirler",
+      "Hiçbir surette alınmazlar",
+      "5 yıl sonra dönebilirler",
+      "Cezalarını çektikten sonra dönebilirler"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hiçbir surette alınmazlar. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-22-yzcc",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Memuriyetten çekilenler (istifa edenler), malî ve cezaî sorumlulukları saklı kalmak üzere, usulüne uygun çekilmişlerse ne kadar süre geçmeden yeniden memurluğa alınamazlar?",
+    "options": [
+      "6 ay",
+      "3 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 6 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-23-62cd",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "İzinsiz veya mazeretsiz olarak görevini terk eden ve bu terki kesintisiz........................gün devam eden memur, çekilme isteğinde bulunmuş (çekilmiş) sayılır.",
+    "options": [
+      "5",
+      "7",
+      "15",
+      "20",
+      "10"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 10. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-24-5xfx",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Devir-teslim yükümlülüğüne uymadan görevini bırakan memur........................yıl geçmeden yeniden memuriyete alınamaz.",
+    "options": [
+      "6 ay",
+      "1",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 3. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-25-awx8",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 95. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin aylıkları",
+      "Silah altına alınmazdan önce kadrolarından açıkta bulunanların aylıkları",
+      "Çekilmede devir ve teslim süresi",
+      "Eğitim merkezleri",
+      "Yükselinebilecek derecenin üstünde bir dereceye yükselme"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 95. maddesi “Çekilmede devir ve teslim süresi” konusunu düzenler. Maddeye göre çekilen Devlet memurlarından devir ve teslim ile yükümlü olanlar, bu işlemlerin sonuna kadar görevlerini bırakamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-26-mzm5",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 96. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Emeklilik hakları",
+      "Cenaze giderleri",
+      "Kanunun yürütülmesi",
+      "Olağanüstü yönetim hallerinde çekilme usulü",
+      "Kadrosuzluk sebebiyle derece yükselmesi yapamayanların aylıkları"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 96. maddesi “Olağanüstü yönetim hallerinde çekilme usulü” konusunu düzenler. Maddeye göre olağanüstü hal, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere uğrayan yerlerdeki Devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-27-vyx7",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 97. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Giyecek yardımı",
+      "Mecburi hizmetle ilgili yükümlülükler",
+      "Sınıflandırmada öğrenim unsuru",
+      "İkinci görev yasağı",
+      "Çekilen ve çekilmiş sayılanların yeniden atanmaları"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 97. maddesi “Çekilen ve çekilmiş sayılanların yeniden atanmaları” konusunu düzenler. Maddeye göre memurlardan mali ve cezai sorumlulukları saklı kalmak üzere; A) 94 üncü maddenin 2 nci ve 3 üncü fıkrasına uygun olarak memuriyetten çekilenler altı ay geçmeden, B) Bu Kanuna göre çekilmiş sayılanlar ile 94 üncü maddenin 2 nci fıkrasına uymadan görevlerinden ayrılanlar bir yıl geçmeden, C) 95 inci maddede yazılı zorunluluklara u.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-28-bcbu",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Çekilen Devlet memurlarından devir ve teslim ile yükümlü olanlar görevlerini ne zamana kadar bırakamazlar?",
+    "options": [
+      "Atama onayı çıkıncaya kadar",
+      "Çekilme isteğini verdikleri anda",
+      "Devir ve teslim işlemlerinin sonuna kadar",
+      "Mali yılın sonuna kadar",
+      "Yıllık izin süresinin sonuna kadar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Devir ve teslim ile yükümlü olanlar, bu işlemlerin sonuna kadar görevlerini bırakamazlar. Dayanak: Madde 95.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-3-1bpq",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Kanuna göre aşağıdakilerden hangisi, usulüne uygun olarak çekilmenin gereklerinden biri değildir?",
+    "options": [
+      "Makul bir gerekçe",
+      "Yazılı başvuru",
+      "İsteğin kabulüne kadar bekleme",
+      "Yerine atananın gelmesini bekleme",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Makul bir gerekçe. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 94.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-4-bdje",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Aşağıdakilerden hangisi çekilen ve çekilmiş sayılanların yeniden atanabilmesi için öngörülmüş sürelerden biri değildir?",
+    "options": [
+      "İsteğiyle ve usulünce memuriyetten çekilenler için altı ay",
+      "Çekilmiş sayılanlar için bir yıl",
+      "Devir ve teslim ile yükümlülüğünü yerine getirmeden ayrılanlar için 3 yıl",
+      "Hiçbiri",
+      "96 ncı maddeye aykırı hareket edenler için 5 yıl"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 96 ncı maddeye aykırı hareket edenler hiçbir surette Devlet memurluğuna alınamaz; 5 yıllık bir bekleme süresi öngörülmemiştir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Maddeler 96 ve 97.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-5-ap8g",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Kanuna göre Devlet memurluğu hangi halde sona ermez?",
+    "options": [
+      "Bu Kanun hükümlerine göre memurluktan çıkarılma",
+      "Memurluktan çekilme",
+      "Yaş haddi veya malullük sebeplerinden biri ile emekliye ayrılma",
+      "Hiçbiri",
+      "Görevi yapmaya engel olacak derecede ağır hastalık"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Görevi yapmaya engel olacak derecede ağır hastalık. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 98.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-6-mpuo",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Olağanüstü hâl, sıkıyönetim, seferberlik ve savaş hâllerinde veya genel hayata müessir afetlere uğrayan yerlerde görev yapan ve görevden çekilme talebinde bulunan memur, yerine atanan kişi gelip işe başlamadan önce görevinden ayrılırsa ne kadar süre ile Devlet memurluğuna alınmaz?",
+    "options": [
+      "Hiçbir surette",
+      "6 ay",
+      "1 yıl",
+      "3 yıl",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Hiçbir surette. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 96 ve Madde 97/d.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-7-7sex",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Devir teslimle yükümlü olup bu işlemi tamamlamadan görevinden çekilen bir memurun yeniden memuriyete atanabilmesi hususunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "3 yıl geçmeden",
+      "1 yıl geçmeden",
+      "2 yıl geçmeden",
+      "Hiçbir şekilde atanamazlar.",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 3 yıl geçmeden. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 97.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-8-i5zd",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, mezuniyetsiz veya kurumlarınca kabul edilen mazereti olmaksızın görevin terk edilmesi ve bu terkin kesintisiz kaç gün devam etmesi hâlinde memur çekilme isteğinde bulunmuş sayılır?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "15 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 10 gün. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 94.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-memurlugun-sona-ermesi-mtn3ve8n-9-4ppb",
+    "topic_id": "law-657-section-memurlugun-sona-ermesi",
+    "prompt": "Olağanüstü hal, seferberlik ve savaş hâllerinde veya genel hayata müessir afetlere uğrayan yerlerdeki devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar. Bu zorunluluğa uymadan görevlerini bırakan memurların hukuki durumu nedir?",
+    "options": [
+      "1 yıl süreyle Devlet memurluğuna alınmazlar.",
+      "3 yıl süreyle Devlet memurluğuna alınmazlar.",
+      "Hiçbir surette Devlet memurluğuna alınmazlar.",
+      "Sadece istifa etmiş sayılırlar, herhangi bir yaptırımı yoktur.",
+      "6 ay süreyle Devlet memurluğuna alınmazlar."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hiçbir surette Devlet memurluğuna alınmazlar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 96 ve Madde 97/d.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:24.514720+00:00",
+    "updated_at": "2026-09-04T15:25:24.514720+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-0-tdrc",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nda Devlet memurlarının ödev ve sorumlulukları arasında yer almaz?",
+    "options": [
+      "Sadakat",
+      "Tarafsızlık ve devlete bağlılık",
+      "Davranış ve iş birliği",
+      "Liyakat",
+      "Mal bildirimi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Liyakat. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6-14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-1-i8i7",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre kişilerin uğradıkları zararlar ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kişiler kamu hukukuna tabi görevlerle ilgili olarak uğradıkları zararlardan dolayı bu görevleri yerine getiren personel aleyhine dava açabilirler.",
+      "Kişilerin uğradıkları zararlarla ilgili devlet daireleri sorumlu değildir.",
+      "Kişiler uğradıkları zararla ilgili doğrudan icra yoluna başvurabilirler.",
+      "Hiçbiri",
+      "Gerekli şartların oluşması hâlinde devlet sorumlu personele rücu hakkına haizdir."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Gerekli şartların oluşması hâlinde devlet sorumlu personele rücu hakkına haizdir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-10-278w",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’ndaki ödevler ve sorumluluklar arasında yer almaz?",
+    "options": [
+      "Hiçbiri",
+      "Davranış ve iş birliği",
+      "Kişisel sorumluluk ve zarar",
+      "Tarafsızlık ve Devlete bağlılık",
+      "İsnat ve iftiralara karşı koruma"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – İsnat ve iftiralara karşı koruma (Genel Haklar DMK. Bölüm 3). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-11-46v1",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Konusu suç teşkil eden emir, hiçbir suretle........................“ cümlesinde boşluğu tamamlayan en uygun ifade hangisidir?",
+    "options": [
+      "geciktirilemez; sorumluluktan kaçılamaz",
+      "ifa edilmez; edilmeyeceği açıkça bildirilir",
+      "yerine getirilmez; yerine getiren sorumluluktan kurtulamaz",
+      "geciktirilemez; emri veren sorumluluktan kurtulamaz",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – yerine getirilmez; yerine getiren sorumluluktan kurtulamaz. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-12-9wz0",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Kanuna göre kişiler kamu hukukuna tabi görevlerle ilgili olarak uğradıkları zararlardan dolayı kimin aleyhine dava açabilirler?",
+    "options": [
+      "İlgili kişi",
+      "İlgili kurum",
+      "Daireamiri",
+      "Bakan",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İlgili kurum. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-13-fp3s",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Memurlar için tarafsızlık ilkesi aşağıdakilerden hangisini içermez?",
+    "options": [
+      "Siyasi partilere üye olmamayı",
+      "Her ne sebeple olursa olsun ayrım yapmamayı",
+      "Üçüncü kişilerin fayda veya zararını hedef tutmamayı",
+      "Basına bilgi ve demeç vermemeyi",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Basına bilgi ve demeç vermemeyi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-14-ykyq",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa bu zararın hangi bedel üzerinden ödenmesi esastır?",
+    "options": [
+      "Rayiç bedeli",
+      "Maliyet bedeli",
+      "Alış bedeli",
+      "Kayıtlı bedeli",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Rayiç bedeli. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-15-mjxf",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi Devlet Memurunun haklarından değildir?",
+    "options": [
+      "Uygulamayı isteme",
+      "İzin",
+      "Çekilme",
+      "Mal bildiriminde bulunması",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mal bildiriminde bulunması. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-16-qpz6",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi Devlet Memurlarının mal bildirimlerine konu olmaz?",
+    "options": [
+      "Annesine ait taşınmaz mallar",
+      "Kendilerine ait taşınmaz mallar",
+      "Eşine ait taşınmaz mallar",
+      "Velayeti altındaki çocuğa ait taşınmaz mallar",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Annesine ait taşınmaz mallar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-17-0d5o",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "“Memurlar görevlerini dil, ırk, cinsiyet, siyasal düşünce, felsefi inanç, din ve mezhep ayrımı yapmadan yerine getirmekle yükümlüdür. ” İfadesi aşağıdakilerden hangisinin kapsamı içinde yer alır?",
+    "options": [
+      "Sadakat",
+      "Liyakat",
+      "Davranış ve iş birliği",
+      "Hiçbiri",
+      "Tarafsızlık ve devlete bağlılık"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Tarafsızlık ve devlete bağlılık. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-18-u5n8",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet memurları, mal bildirim beyannamesinde aşağıdakilerden hangisiyle ilgili olarak bilgi vermek zorunda değildir?",
+    "options": [
+      "Eşi",
+      "Kendisi",
+      "Velayeti altındaki çocukları",
+      "Anne ve babası",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Anne ve babası. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-19-qzsg",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurları, aslî Devlet memurluğuna atandıktan sonra en geç ne kadar süre içinde yemin ederler?",
+    "options": [
+      "15 gün",
+      "2 ay",
+      "1 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-2-t9yn",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi Devlet memurlarının ödev ve sorumlulukları arasında yer almaz?",
+    "options": [
+      "Tarafsızlık ve Devlete bağlılık",
+      "Uygulamayı isteme",
+      "Kişilerin uğradıkları zararlar",
+      "Mal bildiriminde bulunma",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Uygulamayı isteme. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-20-j1e4",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Kanun“un 6. maddesinde düzenlenen ”Sadakat’ yükümlülüğü çerçevesinde, devlet memurları aşağıdakilerden hangisini korumak ve şerefleri üzerine yemin etmek zorundadır?",
+    "options": [
+      "Türkiye Cumhuriyeti Anayasası ve kanunlarını",
+      "Amirlerin şahsi talimatlarını",
+      "Siyasi iktidarın programını",
+      "Kurumun iç yönetmeliklerini",
+      "Uluslararası sözleşmeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Türkiye Cumhuriyeti Anayasası ve kanunlarını. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-21-agon",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 13 üncü maddesine göre, kamu hizmetlerinin yürütülmesi sırasında kişilerin uğradıkları zararlardan dolayı açılacak davalarla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kişiler, kamu hukukuna tâbi görevlerle ilgili uğradıkları zararlardan dolayı bu görevleri yerine getiren personel aleyhine değil, ilgili kurum aleyhine dava açarlar.",
+      "Dava doğrudan zararı veren memur aleyhine adlî yargıda açılır.",
+      "Dava doğrudan zararı veren memur aleyhine idarî yargıda açılır.",
+      "Zarar gören kişi dilerse memura, dilerse kuruma karşı dava açabilir.",
+      "Memurun kusuru varsa memura, kusuru yoksa kuruma dava açılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kişiler, kamu hukukuna tâbi görevlerle ilgili uğradıkları zararlardan dolayı bu görevleri yerine getiren personel aleyhine değil, ilgili kurum aleyhine dava açarlar. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-22-mptu",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "“Konusu suç teşkil eden emir........................” Yukarıdaki cümleyi en iyi tamamlayan seçenek aşağıdakilerden hangisidir?",
+    "options": [
+      "Emri veren amire bildirilir, amir yazılı olarak ısrar ederse bu emir yerine getirilir.",
+      "Emri veren amire bildirilir, amir sözlü olarak ısrar ederse bu emir yerine getirir.",
+      "Kesinlikle yerine getirilir.",
+      "Hiçbiri",
+      "Kesinlikle yerine getirilmez."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kesinlikle yerine getirilmez. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-23-k9az",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdaki seçeneklerden hangisi “Tarafsızlık ve Devlete bağlılık” ödevi kapsamında değildir?",
+    "options": [
+      "Devlet memurları, herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan davranışta bulunmazlar.",
+      "Devlet memurları, hiçbir şekilde siyasal ve ideolojik amaçlı beyanda bulunamazlar.",
+      "Devlet memurları, hiçbir şekilde siyasal ve ideolojik amaçlı eylemde bulunamazlar.",
+      "Hiçbiri",
+      "Devlet omemurları, Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunamazlar."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Devlet omemurları, Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunamazlar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-24-nu2g",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre amir durumda olan Devlet memurlarının görev ve sorumluluklarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Amir, maiyetindeki memurlara hakkaniyet ve eşitlik içinde davranır.",
+      "Amir, maiyetindeki memurlara kanunlara aykırı emir verebilir.",
+      "Amir, maiyetindeki memurların görevlerini şahsen üstlenmek zorundadır.",
+      "Amir, maiyetindeki memurlar arasında siyasi görüşlerine göre ayrım yapabilir.",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Amir, maiyetindeki memurlara hakkaniyet ve eşitlik içinde davranır. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-25-3c7s",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 8 inci maddesine göre Devlet memurlarının hizmet içindeki ve dışındaki davranışlarıyla göstermeleri gereken temel özellik aşağıdakilerden hangisidir?",
+    "options": [
+      "Yalnız amirlerinin takdirini kazanmak",
+      "Resmî sıfatlarının gerektirdiği itibar ve güvene layık olmak",
+      "Siyasi görüşlerini açıklamak",
+      "Her durumda bireysel menfaatlerini gözetmek",
+      "Görev dışında hiçbir davranış kuralına tâbi olmamak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Resmî sıfatlarının gerektirdiği itibar ve güvene layık olmak. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-26-hvgo",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 6 ncı maddesine göre Devlet memurları, aslî Devlet memurluğuna atandıktan sonra en geç ne kadar süre içinde yemin ederler?",
+    "options": [
+      "15 gün",
+      "2 ay",
+      "1 ay",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-27-apwk",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 7 nci maddesine göre Devlet memurları aşağıdakilerden hangisine üye olamaz?",
+    "options": [
+      "Meslek kuruluşuna",
+      "Kooperatife",
+      "Yardım sandığına",
+      "Siyasi partiye",
+      "Derneğe"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Siyasi partiye. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-28-a5xj",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 7 nci maddesine göre Devlet memurları görevlerini yerine getirirken aşağıdakilerden hangisine göre ayrım yapamaz?",
+    "options": [
+      "Hizmet gerekleri",
+      "Görev unvanı",
+      "Kanuni yetki",
+      "Görev yeri",
+      "Dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-29-duhe",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 8 inci maddesine göre Devlet memurlarının çalışma ilişkilerinde esas olan ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "İş birliği",
+      "Rekabet",
+      "Bireysel çalışma",
+      "Siyasi dayanışma",
+      "Hiyerarşi dışı çalışma"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – İş birliği. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-3-wbl4",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurları, T. C. Anayasasına ve Kanunlarına sadakatle bağlı kalmak zorunda olduklarını ne ile beyan ederler?",
+    "options": [
+      "Sözlü yemin",
+      "Taahhütname",
+      "Bildiri",
+      "Hiçbiri",
+      "Yemin"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yemin. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-30-2i3n",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 9 uncu maddesine göre, yabancı ülkelerde bulunan Devlet memurları aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "Meslekî inceleme yapmak",
+      "Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunmak",
+      "Yetişme amacıyla bulunmak",
+      "Araştırma yapmak",
+      "Geçici görevle bulunmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunmak. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-31-1zqc",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 10 uncu maddesine göre amir, maiyetindeki memurdan aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "Görevin zamanında yapılmasını istemek",
+      "Hizmetin eksiksiz yürütülmesini istemek",
+      "Hususî bir menfaat temin edecek talepte bulunmak",
+      "Mevzuata uygun emir vermek",
+      "Memurun yetişmesini takip etmek"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hususî bir menfaat temin edecek talepte bulunmak. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-32-q78g",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 10 uncu maddesine göre amir, maiyetindeki memurlara nasıl davranmalıdır?",
+    "options": [
+      "Siyasi görüşlerine göre",
+      "Kişisel yakınlığa göre",
+      "Yalnız kıdem esasına göre",
+      "Hakkaniyet ve eşitlik içinde",
+      "Her durumda farklı işlem yaparak"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hakkaniyet ve eşitlik içinde. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-33-uc58",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 11 inci maddesine göre konusu suç teşkil eden emir hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yazılı yenilenirse yerine getirilir.",
+      "Yalnız acil hâllerde yerine getirilir.",
+      "Amirin sorumluluğu üstlenmesi yeterlidir.",
+      "Disiplin kurulunun izniyle yerine getirilir.",
+      "Hiçbir suretle yerine getirilmez."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hiçbir suretle yerine getirilmez. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-34-w95m",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 12 nci maddesine göre, memurun kasıt, kusur, ihmal veya tedbirsizliği sonucu idarenin uğradığı zararın hangi bedel üzerinden ödenmesi esastır?",
+    "options": [
+      "Rayiç bedel",
+      "Maliyet bedeli",
+      "Muhasebe kayıt değeri",
+      "Vergi değeri",
+      "Amortismanlı değer"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Rayiç bedel. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-35-tfrl",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 13 üncü maddesine göre kişiler, kamu hukukuna tâbi görevlerle ilgili uğradıkları zararlardan dolayı kimin aleyhine dava açarlar?",
+    "options": [
+      "Görevi yapan personelin",
+      "İlgili kurumun",
+      "Personelin amirinin",
+      "Disiplin kurulunun",
+      "Valiliğin"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İlgili kurumun. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-36-j7n9",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 16 ncı maddesine göre Devlet memurları görevleriyle ilgili resmî belge, araç ve gereçleri hangi amaçla kullanamaz?",
+    "options": [
+      "Hizmet amacıyla",
+      "Yetkili makamın verdiği görevde",
+      "Hususî işlerinde",
+      "Kurum içi resmî işlemlerde",
+      "Görevin gerektirdiği hâllerde"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hususî işlerinde. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-37-6zzo",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 14 üncü maddesine göre Devlet memurlarının mal bildiriminde bulunacağı kişiler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kendisi",
+      "Eşi",
+      "Velayeti altındaki çocukları",
+      "Kardeşi",
+      "Kendisi ve eşi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kardeşi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-38-jtom",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 15 inci maddesine göre, kamu görevleri hakkında basına, haber ajanslarına veya radyo ve televizyon kurumlarına gerekli bilgiyi kim verebilir?",
+    "options": [
+      "Bakanın yetkili kılacağı görevli; illerde vali veya yetkili kılacağı görevli",
+      "Her Devlet memuru",
+      "Yalnız sendika temsilcisi",
+      "Yalnız kurumun en kıdemli memuru",
+      "Her birim amiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bakanın yetkili kılacağı görevli; illerde vali veya yetkili kılacağı görevli. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-39-ydvr",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi Devlet Memurlarının ödev, görev ve sorumluluklarından biri değildir?",
+    "options": [
+      "Tarafsızlık ve devlete bağlılık",
+      "Davranış ve iş birliği",
+      "Güvenlik hakkı",
+      "Mal bildiriminde bulunma",
+      "Kişisel sorumluluk ve zarar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Güvenlik hakkı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-4-zn4c",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurları, TC Anayasasına ve kanunlarına sadakatle bağlı kaldıklarını ne zamanki yeminleriyle belirtirler?",
+    "options": [
+      "Asli Devlet Memurluğuna atandıktan sonra en geç bir ay içinde yapılacak yemin merasiminde",
+      "Aday memurluğa başladıktan sonra 1 ay içinde yapılacak yemin merasimiyle",
+      "Aday memurluğa başladıktan sonra 6 ay içinde yapılacak yemin merasimiyle",
+      "Asli Devlet Memurluğuna atandıktan sonra en geç altı ay içinde yapılacak yemin merasiminde",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Asli Devlet Memurluğuna atandıktan sonra en geç bir ay içinde yapılacak yemin merasiminde. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-40-01sv",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Kanunsuz emirle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Memur, hukuka aykırı emri yerine getirmemelidir.",
+      "Amir emrinde ısrar edebilir.",
+      "Amir emrinde ısrarını yazı ile yenileyebilir.",
+      "Memur, emri hemen yerine getirmelidir.",
+      "Memur, hukuka aykırı gördüğü emri, bu emri verene bildirmelidir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Memur, emri hemen yerine getirmelidir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-41-d7y2",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet Memurları Kanunu’na göre, Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucunda idare zarara uğradığı tespit edilmişse idare bu zararın aşağıdakilerden hangisi üzerinden geri ödenmesini talep eder?",
+    "options": [
+      "Rayiç bedel",
+      "Kayıtlı değer",
+      "Esas bedel",
+      "Maliyet bedeli",
+      "TEFE Oranı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Rayiç bedel. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-42-kuae",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 14 üncü maddesine göre mal bildirimi aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "Taşınır mallar",
+      "Taşınmaz mallar",
+      "Öğrenim notları",
+      "Alacaklar",
+      "Borçlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Öğrenim notları. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-43-w570",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 11 inci maddesine göre memur, amirinden aldığı emri Anayasa, kanun, Cumhurbaşkanlığı kararnamesi veya yönetmelik hükümlerine aykırı görürse ne yapar?",
+    "options": [
+      "Emri koşulsuz yerine getirir.",
+      "Doğrudan mahkemeye başvurur.",
+      "Emri sözlü olarak reddedip görevi bırakır.",
+      "Emri yerine getirir ve sonradan itiraz eder.",
+      "Emri yerine getirmez ve aykırılığı emri verene bildirir."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Emri yerine getirmez ve aykırılığı emri verene bildirir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-44-poen",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet Memuru amirinden aldığı emri; Anayasa, kanun ve yönetmelik hükümlerine aykırı görürse, aşağıdakilerden hangisini yapmalıdır?",
+    "options": [
+      "Yerine getirmez ve bir üst makama bildirir.",
+      "Yerine getirmez ve bu aykırılığı o emri verene bildirir.",
+      "Yerine getirir fakat, bu aykırılığı o emri verene bildirir.",
+      "Yerine getirir fakat, yargıya başvurur.",
+      "Yerine getirmez, emri yazılı olarak amirinden yinelemesini ister."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yerine getirmez ve bu aykırılığı o emri verene bildirir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-45-j5tc",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idarenin zarara uğratılması hâlinde bu memura aşağıdakilerden hangisinin uygulanması esastır?",
+    "options": [
+      "Aylıktan kesme",
+      "Devlet memurluğundan çıkarma",
+      "Kademe ilerlemesinin durdurulması",
+      "Zararın rayiç bedelinden ödetilmesi",
+      "Zararın brüt tutarından ödetilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Zararın rayiç bedelinden ödetilmesi. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-46-08vm",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Memurların idare veya kişilere bile bile, isteyerek zarar vermesi hâline ne denir?",
+    "options": [
+      "Kasdi zarar",
+      "Tedbirsizlik sonucu zarar",
+      "Geciktirme sonucu zarar",
+      "İhmal sonucu zarar",
+      "Akdi nihai zarar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kasdi zarar. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-47-9qi7",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, aşağıdakilerden hangisi memurların ödev ve sorumluluklarından değildir?",
+    "options": [
+      "Davranış ve iş birliği",
+      "Mal Bildirimi",
+      "Uygulamayı isteme",
+      "Sadakat",
+      "Tarafsızlık ve devlete bağlılık"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Uygulamayı isteme. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-48-uu16",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "I. Anne ve Babası II. Velayeti altındaki çocukları III. Eşi IV. Kardeşi 657 sayılı Devlet Memurları Kanunu’na göre devlet memurları yukarıdakilerden hangisi veya hangileri için mal bildirimi yapmak zorundadır?",
+    "options": [
+      "II ve III",
+      "I, II ve III",
+      "Yalnız III",
+      "I ve IV",
+      "I, II ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – II ve III. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-49-jl0e",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zararın ilgili memur tarafından ne şekilde ödenmesi esastır?",
+    "options": [
+      "Rayiç bedelin %25 fazlası",
+      "Rayiç bedelin %50 fazlası",
+      "Rayiç bedelin %100 fazlası",
+      "Rayiç bedeli üzerinden",
+      "Brüt tutar üzerinden"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Rayiç bedeli üzerinden. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-5-zf6p",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi memurların hakları arasında değildir?",
+    "options": [
+      "Uygulamayı isteme hakkı",
+      "Sadakat",
+      "Güvenlik",
+      "Emeklilik",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Sadakat. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-50-k75s",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, “Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zararın ilgili memur tarafından rayiç bedeli üzerinden ödenmesi esastır.” şeklinde ifade edilen husus aşağıdakilerden hangisidir?",
+    "options": [
+      "İsnat ve iftiralara karşı koruma",
+      "Amir durumda olan Devlet memurlarının görev ve sorumlulukları",
+      "Kişisel sorumluluk ve zarar",
+      "Yurt dışında davranış",
+      "Kişilerin uğradıkları zararlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kişisel sorumluluk ve zarar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-51-2a5r",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "I-Taşınmaz malları II-Taşınır Malları III-Alacakları IV-Borçları 657 sayılı Devlet Memurları Kanunu’na göre Devlet memurları, kendileriyle, eşlerine ve velayetleri altındaki çocuklarına ait yukarıdakilerden hangileri hakkında, özel kanunda yazılı hükümler uyarınca mal bildirimi verirler?",
+    "options": [
+      "I-II-III",
+      "I-II-III-IV",
+      "II-III-IV",
+      "I-III-IV",
+      "I ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – I-II-III-IV. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-52-lu6v",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu“na göre Devlet memurları “asli Devlet Memurluğu”na atandıktan sonra en geç ne kadar zaman içinde yapacakları yeminle sadakatlerini belirtirler?",
+    "options": [
+      "60 gün",
+      "20 gün",
+      "30 gün",
+      "45 gün",
+      "40 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 30 gün. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-53-3adq",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, Devlet memurları “Asli Devlet Memurluğuna” atandıktan sonra en geç hangi süre içerisinde kurumlarınca düzenlenecek merasimle yetkili amirlerin huzurunda yemin ederler?",
+    "options": [
+      "1 ay",
+      "3 ay",
+      "2 ay",
+      "15 gün",
+      "10 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-54-hiz3",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre “Yemin Belgesi” Asli Devlet Memurluğuna atanlara kaç ay sonra düzenlenir?",
+    "options": [
+      "2 ay",
+      "4 ay",
+      "6 ay",
+      "1 ay",
+      "9 ay"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-55-ggua",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre amir durumda olan devlet memurlarının görev ve sorumlulukları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Amir, maiyetindeki memurlara hakkaniyet ve eşitlik içinde davranır.",
+      "Amir, maiyetindeki memurlara kanunlara aykırı emir veremez.",
+      "Devlet memurları amiri oldukları kuruluş ve hizmet birimlerinde maiyetindeki memurların hâl ve hareketlerini takip ve kontrol etmekle görevli sorumlu değildirler.",
+      "Amirlik yetkisini kanun ve diğer mevzuatta belirtilen esaslar içinde kullanır.",
+      "Amir maiyetindeki memurdan hususi bir menfaat temin edecek bir talepte bulunamaz."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Devlet memurları amiri oldukları kuruluş ve hizmet birimlerinde maiyetindeki memurların hâl ve hareketlerini takip ve kontrol etmekle görevli sorumlu değildirler. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-56-ck7m",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nun “ödevler ve sorumluluklar” bölümünde zikredilen hususlardan biri değildir?",
+    "options": [
+      "Sadakat",
+      "Mal bildirimi",
+      "Davranış ve iş birliği",
+      "Tarafsızlık ve devlete bağlılık",
+      "Liyakat"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Liyakat. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-57-xa2i",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, “Amir durumda olan devlet memurlarının görev ve sorumlulukları”na ait verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Maiyetindeki memurdan borç almasında sakında yoktur.",
+      "Amir, maiyetindeki memurlara kanunlara ve Cumhurbaşkanlığı kararnamelerine aykırı emir veremez.",
+      "Maiyetindeki memurdan hususi bir menfaat temin edecek bir talepte bulunamaz.",
+      "Maiyetindeki memurdan hediye kabul edemez.",
+      "Maiyetindeki memurlarını yetiştirmekten, hal ve hareketlerini takip ve kontrol etmekten görevli sorumludurlar."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Maiyetindeki memurdan borç almasında sakında yoktur. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-58-96sh",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre amir durumda olan devlet memurlarının görev ve sorumlulukları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Amir, maiyetindeki memurlara hakkaniyet ve eşitlik içinde davranır.",
+      "Amir, maiyetindeki memurlardan hediye kabul edebilir borç alabilir.",
+      "Amir, amirlik yetkisini kanun ve diğer mevzuatta belirtilen esaslar içinde kullanır.",
+      "Devlet memurları amiri oldukları kuruluş ve hizmet birimlerinde kanun ve diğer mevzuatla belirlenen görevleri zamanında ve eksiksiz olarak yapmaktan ve yaptırmaktan görevli sorumludurlar.",
+      "Amir, maiyetindeki memurlara kanunlara ve Cumhurbaşkanlığı kararnamelerine aykırı emir veremez ve maiyetindeki memurdan hususi bir menfaat temin edecek bir talepte bulunamaz, hediyesini kabul edemez ve borç alamaz"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Amir, maiyetindeki memurlardan hediye kabul edebilir borç alabilir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-59-11a9",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nda geçen “Türk Milletinin millî, ahlaki, insani, manevi ve kültürel değerlerini benimseyip, koruyup bunları geliştirmek için çalışacağıma namusum ve şerefim üzerine yemin ederim.” ifadesini içinde barındıran ödev ve sorumluluk aşağıdakilerden hangisidir?",
+    "options": [
+      "Davranış ve iş birliği",
+      "Tarafsızlık ve devlete bağlılık",
+      "Sadakat",
+      "Devlet memurlarının görev ve sorumlulukları",
+      "Liyakat"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Sadakat. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-6-e3ks",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zarar hangi bedel üzerinden ödenir?",
+    "options": [
+      "Kayıtlı değer",
+      "Vergi değeri",
+      "Rayiç bedel",
+      "Maliyet bedeli",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Rayiç bedel. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-60-prpu",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nun “Ödevler ve Sorumluluklar” bölümünde ele alınmamıştır?",
+    "options": [
+      "Yurt dışında davranış",
+      "Kişilerin uğradıkları zararlar",
+      "Tarafsızlık ve devlete bağlılık",
+      "Müracaat, şikâyet ve dava açma",
+      "Davranış ve iş birliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Müracaat, şikâyet ve dava açma. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-61-rbd6",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre memurun özlük dosyasına; I. Mal bildirimleri II. Mesleki bilgileri III. Ödül ve başarı belgesi IV. İnceleme, soruşturma, denetim raporları, disiplin cezaları ile ilgili bilgi ve belgelerden hangileri konulur?",
+    "options": [
+      "I ve II",
+      "I, II, III ve IV",
+      "III ve IV",
+      "II, III ve IV",
+      "II ve III"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – I, II, III ve IV. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-62-n4ay",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "IDevlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zararın ilgili memur tarafından rayiç bedeli üzerinden ödenmesi esastır. IIDevlet memurları, görevlerini dikkat ve itina ile yerine getirmek ve kendilerine teslim edilen Devlet malını korumak ve her an hizmete hazır halde bulundurmak için gerekli tedbirleri almak zorundadırlar. IIIKişiler kamu hukukuna tabi görevlerle ilgili olarak uğradıkları zararlardan dolayı bu görevleri yerine getiren personel aleyhine dava açarlar. IVAvrupa İnsan Hakları Mahkemesince verilen kararlar sonucunda ödenecek tazminatlar vakit kaybetmeden ilgili memur tarafından hak sahibine ödenir. 657 sayılı Kanun’a göre; yukarıda yer alan hükümlerden hangisi/ hangileri doğrudur?",
+    "options": [
+      "Yalnız IV",
+      "III ve IV",
+      "I ve II",
+      "I-II ve III",
+      "Yalnız III"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – I ve II. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-63-icgq",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Kanun’a göre “Asli Devlet Memurluğuna” atandıktan sonra en geç ne kadar süre içinde yemin belgesi imzalanır?",
+    "options": [
+      "15 gün",
+      "2 ay",
+      "6 ay",
+      "1 yıl",
+      "1 ay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-64-p39f",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 14 üncü maddesine göre Devlet memurları, aşağıdakilerden hangisine ait mal, alacak ve borçlar hakkında mal bildirimi vermek zorunda değildir?",
+    "options": [
+      "Anne ve babaları",
+      "Kendileri",
+      "Eşleri",
+      "Velayetleri altındaki çocukları",
+      "Kendileri ve eşleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anne ve babaları. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-65-smp5",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Memurun, amirinden aldığı emri Anayasa, kanun, Cumhurbaşkanlığı kararnamesi ve yönetmelik hükümlerine aykırı görmesi hâlinde izleyeceği yol nedir?",
+    "options": [
+      "Emri derhal yerine getirir.",
+      "Emri yerine getirmez ve durumu bir üst amire bildirir.",
+      "Emri yerine getirir ancak sorumluluk kabul etmez.",
+      "Emri yerine getirmez ve aykırılığı emri verene bildirir.",
+      "Emri yerine getirmez ve Cumhuriyet Savcılığına suç duyurusunda bulunur."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Emri yerine getirmez ve aykırılığı emri verene bildirir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-66-cogf",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Amir, memurun aykırılık iddiasına rağmen emrinde ısrar eder ve bu emrini yazı ile yenilerse memurun tutumu ne olmalıdır?",
+    "options": [
+      "Emri yine yerine getirmez.",
+      "Emri yerine getirir ve sorumluluğa ortak olur.",
+      "İstifa eder.",
+      "Sendikasına bildirir.",
+      "Emri yerine getirmeye mecburdur, sorumluluk emri verene aittir."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Emri yerine getirmeye mecburdur, sorumluluk emri verene aittir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-67-1egv",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Konusu suç teşkil eden emir (örneğin işkence yapılması) hakkında memurun sorumluluğu nedir?",
+    "options": [
+      "Hiçbir suretle yerine getirmez; yerine getiren sorumluluktan kurtulamaz.",
+      "Yazılı olarak verilirse yerine getirir, sorumlu olmaz.",
+      "Amir ısrar ederse yerine getirir.",
+      "Valinin onayı varsa yerine getirir.",
+      "Olağanüstü hâllerde yerine getirir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Hiçbir suretle yerine getirmez; yerine getiren sorumluluktan kurtulamaz. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-68-dd0v",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Asli memurluğa atananlar, en geç ne kadar süre içinde yemin ederler?",
+    "options": [
+      "1 hafta",
+      "15 gün",
+      "2 ay",
+      "1 ay",
+      "3 ay"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 1 ay. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-69-3vbh",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Memurların Türkiye Cumhuriyeti Anayasasına ve kanunlarına........................ile bağlı kalmaları asli ödevlerindendir.",
+    "options": [
+      "Tarafsızlık",
+      "Liyakat",
+      "Kariyer",
+      "Sadakat",
+      "Güvenlik"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sadakat. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-7-jh8r",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, fiilin meydana geldiği tarihte en alt derecenin birinci kademesinde bulunan memurun brüt aylığının yarısını geçmeyen zararlar, kabul etmesi hâlinde disiplin amiri veya yetkili disiplin kurulu kararına göre ilgili memurca ödenir. Buna göre boşluğa gelmesi gereken ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Brüt aylığının tamamını",
+      "Net aylığının yarısını",
+      "Net aylığının tamamını",
+      "Brüt aylığının yarısını",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Brüt aylığının yarısını. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-70-76md",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurları, görevleri hakkında basına, haber ajanslarına veya radyo ve televizyon kurumlarına yetkili kılınmadıkça........................veremezler.",
+    "options": [
+      "Rapor",
+      "Tutanak",
+      "Talimat",
+      "Dilekçe",
+      "Demeç"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Demeç. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-71-thfc",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memuru, amirinden aldığı emri Anayasa ve kanunlara aykırı görürse yerine getirmez ve bu aykırılığı........................bildirir.",
+    "options": [
+      "Emri verene",
+      "Disiplin kuruluna",
+      "Atamaya yetkili amire",
+      "Valiye",
+      "Yüksek disiplin kuruluna"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Emri verene. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-72-s40y",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Amir, aykırı emrinde ısrar eder ve yazılı olarak yenilerse memur emri yapar; sorumluluk........................aittir.",
+    "options": [
+      "Memura",
+      "Emri verene (Amire)",
+      "Kuruma",
+      "Disiplin kuruluna",
+      "Valiye"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Emri verene (Amire). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-73-9dhd",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Konusu........................teşkil eden emir, hiçbir suretle yerine getirilmez; yerine getiren sorumluluktan kurtulamaz.",
+    "options": [
+      "Kusur",
+      "İhmal",
+      "Suç",
+      "Hata",
+      "Disiplin"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Suç. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-74-a1jq",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Devlet memurları; kendileriyle, eşlerine ve velayetleri altındaki çocuklarına ait taşınır ve taşınmaz mallar ile........................hakkında mal bildirimi verirler.",
+    "options": [
+      "Meslekî bilgileri",
+      "Görev yeri bilgileri",
+      "Sicil notları",
+      "İzin bilgileri",
+      "Alacak ve borçları"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Alacak ve borçları. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-75-1rul",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 14 üncü maddesine göre mal bildiriminin usul ve ayrıntıları........................hükümlerine göre belirlenir.",
+    "options": [
+      "Özel kanun",
+      "Yönetmelik",
+      "Genelge",
+      "Toplu sözleşme",
+      "Kurum yönergesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Özel kanun. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-76-wz0g",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "Asli Devlet memurluğuna atananlar en geç........................ay içinde yemin ederler.",
+    "options": [
+      "1 (Bir) ay",
+      "2 ay",
+      "1 (Bir)",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1 (Bir). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-77-hmts",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 9. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Disiplin amiri ve disiplin cezaları",
+      "Görevden uzaklaştırmada süre",
+      "Vekalet görevinin fiilen yapılması şartı",
+      "Cenaze giderleri",
+      "Yurt dışında davranış"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 9. maddesi “Yurt dışında davranış” konusunu düzenler. Maddeye göre devlet memurlarından sürekli veya geçici görevle veya yetişme, inceleme ve araştırma için yabancı memleketlerde bulunanlar Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-78-qwj3",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 15. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Basına bilgi veya demeç verme",
+      "Kademe aylığı",
+      "Kademe ilerlemesinde aylığa hak kazanma",
+      "Hastalık ve analık sigortası",
+      "Mecburi hizmetle ilgili yükümlülükler"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 15. maddesi “Basına bilgi veya demeç verme” konusunu düzenler. Maddeye göre devlet Memurları, kamu görevleri hakkında basına, haber ajanslarına veya radyo ve televizyon kurumlarına bilgi veya demeç veremezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-79-pdpt",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 16. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Derece değişikliğinde aylığa hak kazanma",
+      "Resmî belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve iadesi",
+      "Hazarda eğitim ve manevra için silah altına alınanların aylıklarının ödenmesi",
+      "Yiyecek yardımı",
+      "Denetimindeki teşebbüsten menfaat sağlama yasağı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 16. maddesi “Resmî belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve iadesi” konusunu düzenler. Maddeye göre devlet memurları görevleri ile ilgili resmi belge araç ve gereçleri, yetki verilen mahaller dışına çıkaramazlar, hususi işlerinde kullanamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-8-xevv",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, aşağıdakilerden hangisi memurların ödev ve sorumluluklarından değildir?",
+    "options": [
+      "Sadakat",
+      "Çekilme",
+      "Tarafsızlık ve devlete bağlılık",
+      "Davranış ve iş birliği",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Çekilme. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-odevler-sorumluluklar-mtn3umks-9-agcg",
+    "topic_id": "law-657-section-odevler-sorumluluklar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, aşağıdakilerden hangisi Devlet memurlarına sağlanan genel haklardan biridir?",
+    "options": [
+      "Davranış ve iş birliği",
+      "Kişisel sorumluluk ve zarar",
+      "Hediye alma, menfaat sağlama",
+      "Hiçbiri",
+      "Uygulamayı isteme"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Uygulamayı isteme. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:24:48.711017+00:00",
+    "updated_at": "2026-09-04T15:24:48.711017+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-0-zcgq",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, üstün başarı belgesi aşağıdakilerden hangisine verilir?",
+    "options": [
+      "Bir yıl içerisinde iki defa başarı belgesi alanlara",
+      "İki defa başarı belgesi alanlara",
+      "Hizmette beş yılını dolduran tüm memurlara",
+      "Üç defa başarı belgesi alanlara",
+      "Emekliliğine kadar herhangi bir disiplin cezası almamış olanlara"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Üç defa başarı belgesi alanlara. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-1-6pvl",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "1. Başarı Belgesi 11. Üstün Başarı Belgesi 11. Ödül 657 sayılı Kanun’un 122. maddesine göre, yukarıdaki belgelerin/ödüllerin veriliş hiyerarşisi ve şartları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Üç defa başarı belgesi alanlara doğrudan ödül verilir.",
+      "Üç defa başarı belgesi alanlara üstün başarı belgesi verilir.",
+      "Ödül yalnızca bakan tarafından verilebilir.",
+      "Başarı belgesini yalnız valiler verebilir.",
+      "Üstün başarı belgesi verilenlere en yüksek Devlet memuru aylığının %300’üne kadar ödül verilebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Üç defa başarı belgesi alanlara üstün başarı belgesi verilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-10-nu8b",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Memurların başarı belgesi alabilmeleri için yetkili amirler (Vali, Kaymakam vb.) tarafından değerlendirilmeleri gerekir. Üç defa başarı belgesi alan memura aşağıdaki belgelerden hangisi verilir?",
+    "options": [
+      "Takdir Belgesi",
+      "Teşekkür Belgesi",
+      "Ödül Belgesi",
+      "Üstün Başarı Belgesi",
+      "Onur Belgesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Üstün Başarı Belgesi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-11-sbh3",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Üstün başarı belgesi verilenlere, merkezde bağlı veya ilgili bakan ve illerde valiler tarafından uygun görülmesi hâlinde en yüksek Devlet memuru aylığının (ek gösterge dâhil) yüzde kaçına kadar ödül verilebilir?",
+    "options": [
+      "%100",
+      "%150",
+      "%250",
+      "%300",
+      "%200"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – %200. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-12-hd83",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Memurlar, Türkiye Cumhuriyeti kimlik numarası esas alınarak kurumlarınca tutulacak personel bilgi sistemine kaydolunurlar. Her memur için ne tutulur?",
+    "options": [
+      "Personel özlük dosyası",
+      "Performans dosyası",
+      "Denetim dosyası",
+      "Özlük dosyası",
+      "Atama dosyası"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Özlük dosyası. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 109.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-13-wrq2",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde ve derece yükselmelerinde esas alınan dosya hangisidir?",
+    "options": [
+      "Sicil dosyası",
+      "Disiplin dosyası",
+      "Özlük dosyası",
+      "Performans dosyası",
+      "Atama dosyası"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Özlük dosyası. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 109.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-14-g3gu",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Kalkınmada 1. derecede öncelikli yörelerde görev yapan memurlara, bu yörelerde fiilen çalışmak suretiyle geçirilen her iki yıl için ne verilir?",
+    "options": [
+      "Bir derece yükselmesi",
+      "Bir kademe ilerlemesi (İlave)",
+      "İki kat maaş",
+      "Üstün başarı belgesi",
+      "30 gün ek izin"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Bir kademe ilerlemesi (İlave). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-15-pgbw",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Üstün başarı belgesi verilenlere, en yüksek Devlet memuru aylığının %........................’sine kadar ödül verilebilir.",
+    "options": [
+      "200",
+      "50",
+      "100",
+      "150",
+      "250"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 200. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-2-sktl",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 122 nci maddesine göre, memurlara başarı belgesi vermeye yetkili makamlarla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Merkezde yalnız Cumhurbaşkanı yetkilidir.",
+      "İllerde kaymakamlar yetkilidir.",
+      "Merkezde bağlı veya ilgili bakan, illerde vali, ilçelerde kaymakam başarı belgesi verebilir.",
+      "Yalnız atamaya yetkili amirler başarı belgesi verebilir.",
+      "Başarı belgesini yalnız yüksek disiplin kurulu verir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Merkezde bağlı veya ilgili bakan, illerde vali, ilçelerde kaymakam başarı belgesi verebilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-3-ufm5",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "“Kamu kurum ve kuruluşları, yürütmekte oldukları hizmetlerin özelliklerini göz önünde bulundurarak memurlarının başarı, verimlilik ve gayretlerini ölçmek üzere, Devlet Personel Başkanlığının uygun görüşü alınmak kaydıyla,........................belirleyebilir. ” Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "performans hedefleri",
+      "performans yöntemleri",
+      "değerlendirme teknikleri",
+      "Hiçbiri",
+      "değerlendirme ölçütleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – değerlendirme ölçütleri. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-4-fnil",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Üç defa başarı belgesi alan memurlara aşağıdaki belgelerden hangisi verilir?",
+    "options": [
+      "Üstün Başarı Belgesi",
+      "Takdirname",
+      "Teşvik",
+      "İkramiye",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Üstün Başarı Belgesi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-5-rerz",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Devlet memurlarına kimler ödül verilebilir?",
+    "options": [
+      "Merkezde atamaya yetkili amirler, illerde valiler, ilçelerde kaymakamlar",
+      "Merkezde bağlı veya ilgili bakan, illerde valiler, ilçelerde kaymakamlar",
+      "Merkezde atamaya yetkili amirler, illerde valiler",
+      "Hiçbiri",
+      "Merkezde bağlı veya ilgili bakan, illerde valiler"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Merkezde bağlı veya ilgili bakan, illerde valiler. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-6-7368",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "Kanunda belirtilen şartlarda merkezdeki memurlara başarı belgesi vermeye kim yetkilidir?",
+    "options": [
+      "Bağlı veya ilgili Bakan",
+      "Müsteşar",
+      "Bakan yardımcısı",
+      "Başbakan",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bağlı veya ilgili Bakan. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-7-fi8j",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre “ÜSTÜN BAŞARI BELGESİ” verilenlere, illerde valiler tarafından uygun görülmesi hâlinde en yüksek Devlet memuru aylığının (ek gösterge dahil) % kaçına kadar ödül verilebilir?",
+    "options": [
+      "200’üne",
+      "25’ine",
+      "50’sine",
+      "100’üne",
+      "500’üne"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 200’üne. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-8-l5lw",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre; Devlet Memurunun özlük dosyasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Denetim Raporlar",
+      "Sicil Raporları",
+      "Mal bildirimleri",
+      "Memurun mesleki bilgileri",
+      "Yemin Belgesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Sicil Raporları. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 109.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-ozluk-dosyasi-mtn3voyx-9-5266",
+    "topic_id": "law-657-section-ozluk-dosyasi",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 122. Maddesine göre ilgili makamlar tarafından uygun görülmesi hâlinde “üstün başarı belgesi” verilenlere, en yüksek Devlet memuru aylığının (ek gösterge dahil) yüzde kaçı oranına kadar ödül verilebilir?",
+    "options": [
+      "50",
+      "75",
+      "200",
+      "100",
+      "150"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 200. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 122.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:38.406497+00:00",
+    "updated_at": "2026-09-04T15:25:38.406497+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhm-0-j0lz",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu ile ilgili olarak aşağıdaki seçeneklerden hangisi yanlıştır?",
+    "options": [
+      "Memur, sözleşmeli personel, geçici personel, işçi istihdam şekillerine tabidirler.",
+      "Devlet memurları, kamu hizmetleri ile ilgili gizli bilgileri yetkili bakanın yazılı izni olması hâlinde açıklayabilir.",
+      "Sözleşmeli personel seçiminde uygulanacak sınav ile istisnaları, bunlara ödenebilecek ücretlerin üst sınırları ile verilecek iş sonu tazminatı miktarı, kullandırılacak izinler, pozisyon unvan ve nitelikleri, sözleşme hükümlerine uyulmaması hâllerindeki müeyyideler, sözleşme fesih hâlleri, pozisyonların iptali, istihdamına dair hususlar ile sözleşme esas ve usulleri TBMM tarafından belirlenir.",
+      "657 sayılı Devlet Memurları Kanunu’nda öngörülen yönetmelikler Cumhurbaşkanınca yürürlüğe konulur.",
+      "Devlet kamu hizmetleri görevlerini ve bu görevlerde çalışan Devlet memurlarını görevlerin gerektirdiği niteliklere ve mesleklere göre sınıflara ayırmaktır."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Sözleşmeli personel seçiminde uygulanacak sınav ile istisnaları, bunlara ödenebilecek ücretlerin üst sınırları ile verilecek iş sonu tazminatı miktarı, kullandırılacak izinler, pozisyon unvan ve nitelikleri, sözleşme hükümlerine uyulmaması hâllerindeki müeyyideler, sözleşme fesih hâlleri, pozisyonların iptali, istihdamına dair hususlar ile sözleşme esas ve usulleri TBMM tarafından belirlenir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-1-3s4m",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, aşağıdakilerden hangisi memurlar için belirlenen hizmet sınıflarından biri değildir?",
+    "options": [
+      "Genel idare hizmetleri sınıfı",
+      "Kültür ve sanat hizmetleri sınıfı",
+      "Avukatlık hizmetleri sınıfı",
+      "Eğitim ve öğretim hizmetleri sınıfı",
+      "Millî İstihbarat Hizmetleri Sınıfı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kültür ve sanat hizmetleri sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-10-s0ax",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre memurluğa girmeden önce veya memuriyeti sırasında yükseköğrenim üstü master derecesi almış olan bir Devlet memuru aşağıdaki derece ve kademe ilerlemelerinden hangisini hak etmiş olur?",
+    "options": [
+      "Bir derece ilerlemesi",
+      "Bir kademe ilerlemesi",
+      "İki kademe ilerlemesi",
+      "Bir derece bir kademe ilerlemesi",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Bir kademe ilerlemesi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-11-74b8",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre; hangi hizmet sınıfına dahil personel tarafından yerine getirilmesi gereken hizmetler, üçüncü şahıslara ihale yoluyla gördürülebilir?",
+    "options": [
+      "Genel idare",
+      "Yardımcı hizmetler",
+      "Eğitim ve öğretim",
+      "Avukatlık",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yardımcı hizmetler. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-12-xm1w",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "5 yıllık yükseköğrenimi bitirerek jeolog unvanını almış bir kişinin genel idare hizmetleri sınıfında memur olarak atanması hâlinde memuriyete giriş derece ve kademesi aşağıdakilerden hangisidir?",
+    "options": [
+      "8/1",
+      "9/2",
+      "9/1",
+      "8/2",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 9/2. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-13-f57x",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memuriyete girmeden önce mesleğini 10 yıl süreyle serbest olarak ifa eden bir mühendisin memuriyete başlaması hâlinde 10 yıllık serbest çalışmasının ne kadarı memuriyette geçmiş sayılır?",
+    "options": [
+      "10 yıl",
+      "6 yıl",
+      "7, 5 yıl (3/4)",
+      "5 yıl",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 7, 5 yıl (3/4). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-14-einv",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Kaymakamlar Devlet Memurları Kanunu’nda belirtilen sınıflardan hangisine girerler?",
+    "options": [
+      "Genel İdare Hizmetleri Sınıfı",
+      "Yönetim Hizmetleri Sınıfı",
+      "Millî İstihbarat Hizmetleri Sınıfı",
+      "Mülki İdare Amirliği Hizmetleri Sınıfı",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mülki İdare Hizmetleri Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-15-z8w4",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "8 inci derecenin 2 inci kademesinden aylık alan bir memur kadro karşılık gösterilmek suretiyle en fazla aşağıdakilerden hangi dereceli kadroya atanabilir?",
+    "options": [
+      "7’ nci dereceli kadroya",
+      "5’inci dereceli kadroya",
+      "8’ inci dereceli kadroya",
+      "6’ncı dereceli kadroya",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 5’inci dereceli kadroya. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 45.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-16-99k3",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Milli emlak kontrolörü, 657 sayılı Devlet Memurları Kanunu’na göre hangi hizmet sınıfında yer alır?",
+    "options": [
+      "Mülki İdare Hizmetleri Sınıfı",
+      "Denetim Hizmetleri Sınıfı",
+      "Malî Hizmetler Sınıfı",
+      "Hiçbiri",
+      "Genel İdari Hizmetler Sınıfı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Genel İdari Hizmetler Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-17-coxy",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Dört yıl süreli iktisat fakültesi mezunu bir kişi, 657 sayılı Devlet Memurları Kanunu’na tabi olarak aşağıda belirtilen hangi derece ve kademeden göreve başlar?",
+    "options": [
+      "8“inci derecenin 1”inci kademesinden",
+      "9“uncu derecenin 1”inci kademesinden",
+      "9“uncu derecenin 2”nci kademesinden",
+      "9“uncu derecenin 3”üncü kademesinden",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 9“uncu derecenin 1”inci kademesinden. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-18-4dug",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "o 657 sayılı Devlet Memurları Kanunu’na göre 4 yıl süreli yüksek öğrenimi bitirenler (istisnai durumlar hariç) kaçıncı dereceden göreve başlarlar?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "10",
+      "1"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 9. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-19-xvb1",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre bir meslek veya sanat okulunu bitirenlerin Devlet memuru olabilmeleri için kazai rüşt kararı almak şartıyla en az kaç yaşını doldurmuş olmaları gerekir?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "15",
+      "1"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 15. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-2-ls4r",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Bu Kanunda öngörülen yönetmelikler Cumhurbaşkanınca yürürlüğe konulur.",
+      "Kurumlararası eğitim ihtiyaçlarını karşılamak üzere, Cumhurbaşkanı kararıyla, kurumlararası eğitim merkezleri de açılabilir.",
+      "Devlet memurları eğitimi genel planı, Cumhurbaşkanı kararıyla yürürlüğe konulur.",
+      "Mevcut kuruluş biçimine bakılmaksızın, Devlet ve diğer kamu tüzel kişiliklerince genel idare esaslarına göre yürütülen asli ve sürekli kamu hizmetlerini ifa ile görevlendirilenler, bu Kanunun uygulanmasında sözleşmeli personel sayılır.",
+      "Sözleşmeli personel seçiminde uygulanacak sınav ile istisnaları, bunlara ödenebilecek ücretlerin üst sınırları ile verilecek iş sonu tazminatı miktarı, kullandırılacak izinler, pozisyon unvan ve nitelikleri, sözleşme hükümlerine uyulmaması hâllerindeki müeyyideler, sözleşme fesih hâlleri, pozisyonların iptali, istihdamına dair hususlar ile sözleşme esas ve usulleri Cumhurbaşkanınca belirlenir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mevcut kuruluş biçimine bakılmaksızın, Devlet ve diğer kamu tüzel kişiliklerince genel idare esaslarına göre yürütülen asli ve sürekli kamu hizmetlerini ifa ile görevlendirilenler, bu Kanunun uygulanmasında sözleşmeli personel sayılır. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-20-lky7",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdaki görevlerden hangisi, 657 sayılı Devlet Memurları Kanunu’na göre Genel İdare Hizmetleri sınıfı kapsamına girer?",
+    "options": [
+      "Şube müdürü",
+      "Avukat",
+      "Biyolog",
+      "Mühendis",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Şube müdürü. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-21-0cpm",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre 2 yıl süreli yüksek öğrenimi bitirenlerin memuriyete giriş derece ve kademesi aşağıdakilerden hangisinde verilmiştir?",
+    "options": [
+      "9/1",
+      "10/1",
+      "11/2",
+      "Hiçbiri",
+      "10/2"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 10/2. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-22-5725",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu“nun ”Temel İlkeler başlıklı bölümünde, Devlet memurluğunu bir meslek olarak kabul eden ve sınıflar içinde en yüksek derecelere kadar ilerleme imkanı sağlayan ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kariyer",
+      "Liyakat",
+      "Sınıflandırma",
+      "Eşitlik",
+      "Güvenlik"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kariyer. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-23-t5az",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "I. Kurumlarınca eğitim ve öğretim hizmetleri sınıfı dışında bir sınıfta çalıştırılanlar II. Avukatlık Hizmetleri Sınıfı III. Mülki İdare Amirliği Hizmetleri Sınıfı IV. Jandarma Hizmetleri Sınıfı Yukarıdakilerden hangileri 657 sayılı Devlet Memurları Kanunu’nun 36 ncı maddesinde düzenlenen hizmet sınıfları arasında yer alır?",
+    "options": [
+      "Yalnız I",
+      "II, III ve IV",
+      "I ve II",
+      "III ve IV",
+      "I, II ve III"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – II, III ve IV. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-24-876q",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurların kurumlararâsı nakil yolüyla atanmaları ile ilgili olarak, kazanılmış hak dereceleri üzerinden memuriyete atânabilmeleri için, bulundukları sınıftan başka bir sınıfa geçişlerinde aşağıdaki şartlardan hangisi aranır? “",
+    "options": [
+      "Eski kurumununmmuvafakati olması yeterlidir.",
+      "Sadece yaş şartını taşıması gerekir.",
+      "Yeni kurumun sınavını kazanması şarttır.",
+      "Geçeceği sınıf için gerekli olan diplomayı almış olması şarttır.",
+      "Toplam hizmet süresinin 10 yılı geçmesi gerekir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Geçeceği sınıf için gerekli olan diplomayı almış olması şarttır. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-25-miqt",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Kanun“un 36. maddesine göre, ”Teknik Hizmetler Sınıfı’na giren bir memurun, memuriyete girmeden önce özel sektörde mesleği ile ilgili geçirdiği sürelerin değerlendirilmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Özel sektörde geçen sürelerin 3/4’ü, memuriyette geçmiş sayılarak her yılı bir kademe ilerlemesi ve her üç yılı bir derece yükselmesi şeklinde değerlendirilir.",
+      "Özel sektörde geçen sürelerin tamamı kazanılmış hak aylığında değerlendirilir.",
+      "Sadece kamu kurumlarında geçen süreler değerlendirilir, özel sektör dikkate alınmaz.",
+      "Özel sektörde geçen süreler sadece emeklilik keseneğinde değerlendirilir, derece ve kademede dikkate alınmaz.",
+      "Özel sektörde geçen sürelerin 1/2’si değerlendirilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Özel sektörde geçen sürelerin 3/4’ü, memuriyette geçmiş sayılarak her yılı bir kademe ilerlemesi ve her üç yılı bir derece yükselmesi şeklinde değerlendirilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-26-9gpx",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi 657“sayılı Kanun”un 36. maddesinde sayılan “Sağlık Hizmetleri v e Yardımcı Sağlık/Hizmetleri Sınıfı”na dahil unvanlardan biri değildir?",
+    "options": [
+      "Tabip",
+      "Diş Tabibi",
+      "Sosyolog",
+      "Eczacı",
+      "Veteriner Hekim"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Sosyolog. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-27-7g9q",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet memurlarına verilen ’Hastalık İzinleri“ ile ilgili olarak, görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan memurun izin süresi ne kadardır?",
+    "options": [
+      "12 ay",
+      "İyileşinceye kadar",
+      "18 ay",
+      "24 ay",
+      "Sağlık kurulu raporunda belirtilen süre kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İyileşinceye kadar. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-28-xo7g",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet memurlarının kooperatiflere üye olmaları ve bu kooperatiflerin yönetim kurullarında görev almaları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Üye olabilirler; yapı, kalkınma ve tüketim kooperatiflerinin yönetim ve denetim kurullarında görev alabilirler.",
+      "Kesinlikle yasaktır; ticaret yasağı kapsamındadır.",
+      "Üye olabilirler ancak yönetim ve denetim kurullarında görev alamazlar.",
+      "Sadece yapı kooperatiflerine üye olabilirler.",
+      "Sadece valilik izni ile görev alabilirler."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Üye olabilirler; yapı, kalkınma ve tüketim kooperatiflerinin yönetim ve denetim kurullarında görev alabilirler. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-29-skcu",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 33 üncü maddesine göre kadrolar nasıl düzenlenir?",
+    "options": [
+      "Cumhurbaşkanlığı kararnamesinde gösterildiği şekilde",
+      "Yalnız TBMM kararıyla",
+      "Yalnız Hazine ve Maliye Bakanlığınca",
+      "Kurumların tek taraflı işlemiyle",
+      "İl valisinin onayıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Cumhurbaşkanlığı kararnamesinde gösterildiği şekilde. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 33.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-3-svvv",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nda tesis edilen sınıflardan değildir?",
+    "options": [
+      "TeknikHizmetler Sınıfı",
+      "o Avukatlık Hizmetleri Sınıfı",
+      "İtfaiye Hizmetleri Sınıfı",
+      "EmniyetHizmetleri Sınıfı",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İtfaiye Hizmetleri Sınıfı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-30-ujex",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Kanun’un 36. maddesine (Ortak Hükümler A/11) göre, mesleğe özel yarışma sınavı ile giren ve belirli bir yetişme süresi sonunda yeterlik sınavı ile atanan müfettiş ve uzmanların, derece yükselmelerinde (bir defaya mahsus) nasıl bir ayrıcalık tanınır?",
+    "options": [
+      "Kazanılmış hak aylıklarına iki derece ilave edilir.",
+      "Kazanılmış hak aylıklarına bir kademe ilave edilir.",
+      "Kazanılmış hak aylıklarına bir derece ilave edilir.",
+      "Sadece kıdem aylığı puanları artırılır.",
+      "Her yıl için iki kademe ilerlemesi verilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kazanılmış hak aylıklarına bir derece ilave edilir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-31-ztzm",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi Devlet memurları için sağlanan sosyal hak ve yardımlardan değildir?",
+    "options": [
+      "Emeklilik",
+      "Aile yardımı ödeneği",
+      "Yolluk giderleri ve gündelikler",
+      "Tedavi yardımı",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yolluk giderleri ve gündelikler. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-32-4yq1",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurluktan çıkarma cezası kararını, aşağıdakilerden hangisi verir?",
+    "options": [
+      "Disiplin kurulu",
+      "Disiplin amirleri",
+      "Atamaya yetkili amir",
+      "Yüksek disiplin kurulu",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yüksek disiplin kurulu. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-33-27hr",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi Devlet memurları için öngörülmüş olan disiplin cezalarından değildir?",
+    "options": [
+      "Kademe ilerlemesinin durdurulması",
+      "Uyarma",
+      "Aylıktan kesme",
+      "Derece yükselmesinin durdurulması",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Derece yükselmesinin durdurulması. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-34-b6ab",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet Memurları Kanunu’na göre Devlet memurluğunun temel ilkeleri; sınıflandırma, kariyer ve liyakattir. Buna göre aşağıdakilerden hangisi 657 sayılı kanunla düzenlenen sınıflardan biri değildir?",
+    "options": [
+      "Genel İdare Hizmetleri Sınıfı",
+      "Avukatlık Hizmetleri Sınıfı",
+      "Askeri Hizmetler Sınıfı",
+      "Teknik Hizmetler Sınıfı",
+      "Din Hizmetleri Sınıfı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Askeri Hizmetler Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-35-x1dp",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet Memurları Kanunu’na göre Valiler ve Kaymakamlar ile bu sıfatları kazanmış olup İçişleri Bakanlığı merkez ve İl Teşkilatında çalışanların dâhil olduğu hizmet sınıfı aşağıdakilerden hangisidir?",
+    "options": [
+      "Emniyet Hizmetleri Sınıfı",
+      "Eğitim ve Öğretim Hizmetleri Sınıfı",
+      "Millî İstihbarat Hizmetleri Sınıfı",
+      "Mülki İdare Amirliği Hizmetleri Sınıfı",
+      "Yardımcı Hizmetler Sınıfı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mülki İdare Amirliği Hizmetleri Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-36-wndm",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Teknik Hizmetler Sınıfında yer almaz?",
+    "options": [
+      "Matematikçi",
+      "Röntgen teknisyeni",
+      "Teknisyen",
+      "Tekniker",
+      "Mühendis"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Röntgen teknisyeni. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-37-6ugu",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre ortaokul ve dengi, lise ve dengi okulların, normal öğrenim süresinden fazla olması hâlinde, başarılı her öğrenim yılı için derece ve kademe verilmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İki kademe verilir",
+      "Bir kademe verilir",
+      "Bir derece verilir",
+      "İki derece verilir",
+      "Üç kademe verilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Bir kademe verilir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-38-y440",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre bu Kanuna tabi kurumlarda görevlendirilen memurlara hizmetlerinin karşılığında, kadroya dayanılarak ay itibariyle ödenen paraya ne ad verilir?",
+    "options": [
+      "Sözleşmeli ücreti",
+      "Gündelik",
+      "Aylık",
+      "Ödül",
+      "İkramiye"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Aylık. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-39-cucv",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "IDevlet Personel Başkanlığı IIAile, Çalışma ve Sosyal Hizmetler Bakanlığı IIIHazine ve Maliye Bakanlığı IVCumhurbaşkanı 657 sayılı Devlet Memurları Kanunu’na göre sözleşmeli olarak çalıştırılacak personele ödenebilecek ücretlerin üst sınırı yukarıdaki seçeneklerdeki hangi/hangileri tarafından belirlenir?",
+    "options": [
+      "I ve II",
+      "Yalnız III",
+      "I ve III",
+      "Yalnız IV",
+      "Yalnız II"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yalnız IV. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-4-odu9",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre genel olarak Devlet memuru olabilmek için yaş sınırı kaçtır?",
+    "options": [
+      "16",
+      "17",
+      "20",
+      "18",
+      "1"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 18. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-40-ndnz",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, bu kanunda öngörülen yönetmelikler aşağıdakilerden hangisi tarafından yürürlüğe konulur?",
+    "options": [
+      "İlgili Bakanlık",
+      "TBMM Başkanınca",
+      "Hazine ve Maliye Bakanlığınca",
+      "Devlet Personel Başkanlığınca",
+      "Cumhurbaşkanınca"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanınca. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-41-9uvi",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet memurlarının yetişmelerini sağlamak, verimliliğini artırmak ve daha ileriki görevlere hazırlamak amacıyla uygulanacak hizmet içi eğitim aşağıdaki hangi mevzuat dâhilinde yürütülür?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Kanun",
+      "Yönerge",
+      "Kanun Hükmünde Kararname",
+      "Yönetmelik"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yönetmelik. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-42-vcfk",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’na tabi değildir?",
+    "options": [
+      "Danıştay ve Sayıştay meslek grupları",
+      "Genel ve Katma Bütçeli kuruluşlarda çalışanlar",
+      "Kefalet sandıklarında çalışanlar",
+      "Beden Terbiyesi Bölge Müdürlüğünde çalışanlar",
+      "İl Özel İdarelerinde çalışanlar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Danıştay ve Sayıştay meslek grupları. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-43-gu9t",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nda sayılan hizmet sınıflarından değildir?",
+    "options": [
+      "Avukatlık Hizmetleri",
+      "Eğitim ve Öğretim Hizmetleri",
+      "Emniyet Hizmetleri",
+      "Adalet Hizmetleri",
+      "Din Hizmetleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Adalet Hizmetleri. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-44-eamp",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Kaymakamlar, aşağıdaki sınıflardan hangisine girerler?",
+    "options": [
+      "Teknik Hizmetler Sınıfı",
+      "Eğitim ve Öğretim Hizmetleri Sınıfı",
+      "Mülki İdare Amirliği Hizmetleri Sınıfı",
+      "Millî İstihbarat Hizmetleri Sınıfı",
+      "Genel İdare Hizmetleri Sınıfı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Mülki İdare Hizmetleri Sınıfı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-45-1iwj",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki unvanlardan hangisi Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri sınıfında yer alır?",
+    "options": [
+      "Vali",
+      "Mimar",
+      "Avukat",
+      "Öğretmen",
+      "Tabip"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Tabip. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-46-9qg1",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Amir memur ilişkilerini hangi kanun düzenlemektedir?",
+    "options": [
+      "1593 sayılı Umumi Hıfzıssıhha Kanunu",
+      "1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanun",
+      "657 sayılı Devlet Memurları Kanunu",
+      "3359 sayılı Sağlık Hizmetleri Temel Kanunu",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 657 sayılı Devlet Memurları Kanunu. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-47-l8d8",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi, 657 sayılı Devlet Memurları Kanunu’nda belirtilen hizmet sınıflarından biri değildir?",
+    "options": [
+      "Emniyet hizmetleri",
+      "Teknik hizmetler",
+      "Sağlık hizmetleri ve yardımcı sağlık hizmetleri",
+      "Ulaşım hizmetleri",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Ulaşım hizmetleri. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-48-okvb",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Teknik Hizmetler sınıfından değildir?",
+    "options": [
+      "Diş tabibi",
+      "Jeolog",
+      "Mühendis",
+      "Kimyager",
+      "Hareket araştırmacısı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Diş tabibi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-49-pqze",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, yaptıkları hizmetler için lüzumlu bilgilere ve yetişme şartlarına uygun şekilde, sınıfları içinde en yüksek derecelere kadar ilerleme imkanını sağlamak ilkesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Adalet",
+      "Eşitlik",
+      "Liyakat",
+      "Güvenlik",
+      "Kariyer"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kariyer. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-5-dqxl",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre bir meslek okulunu bitirmiş kişinin memuriyete girişinde yaş sınırı kaçtır?",
+    "options": [
+      "17",
+      "18",
+      "20",
+      "1",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 15. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-50-p64t",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, “hizmetleri görevlerine girmeyi, sınıflar içinde ilerleme ve yükselmeyi, görevin sona erdirilmesini” hangi ilkeye dayandırılmaktadır?",
+    "options": [
+      "Liyakat",
+      "Kariyer",
+      "Planlılık",
+      "Adalet",
+      "Güvenlik"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Liyakat. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-51-d28e",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı Devlet Memurları Kanunu’nda memurlar için belirlenen hizmet sınıflarından biri değildir?",
+    "options": [
+      "Avukatlık hizmetleri sınıfı",
+      "Genel idare hizmetleri sınıfı",
+      "Eğitim ve öğretim hizmetleri sınıfı",
+      "Kültür ve sanat hizmetleri sınıfı",
+      "Din hizmetleri sınıfı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kültür ve sanat hizmetleri sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-52-5aqz",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre lise dengi mesleki veya teknik öğrenimi bitiren devlet memurları ilk defa göreve atanırken aşağıdaki hangi derece ve kademeden göreve başlar?",
+    "options": [
+      "10/1",
+      "10/2",
+      "11/2",
+      "12/2",
+      "13/3"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 12/2. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-53-57bn",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre; Türk Medeni Kanununun 12. maddesine göre kazai rüşt kararı almak şartıyla bir meslek veya sanat okulunu bitirenler en az kaç yaşında devlet memurluklarına atanabilirler?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "17",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 15. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-54-a1lk",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nda öngörülen yönetmelikler aşağıdakilerden hangisi tarafından yürürlüğe konulur?",
+    "options": [
+      "Devlet Personel Başkanı",
+      "Cumhurbaşkanı",
+      "Hazine ve Maliye Bakanı",
+      "Türkiye Büyük Millet Meclisi Başkanı",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-55-tciy",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre 4 yıl süreli yükseköğrenimi bitirenlerin (istisnai durumlar hariç) memuriyete giriş derece ve kademeleri aşağıdakilerden hangisidir?",
+    "options": [
+      "9/1",
+      "9/2",
+      "9/3",
+      "10/1",
+      "10/2"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 9/1. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-56-gdsr",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi “Teknik Hizmetler Sınıfı”nı teşkil eden memurlardan biri değildir?",
+    "options": [
+      "Jeolog",
+      "Mimar",
+      "Kimyager",
+      "Biyolog",
+      "Mühendis"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Biyolog. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-57-3m8c",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre lise veya dengi okullar üstü 2 yıl veya ortaokul üstü en az 5 yıllık mesleki veya teknik öğrenimi bitirenlerin (istisnai durumlar hariç) memuriyete giriş derece ve kademeleri aşağıdakilerden hangisidir?",
+    "options": [
+      "9/2",
+      "9/3",
+      "10/2",
+      "11/1",
+      "10/1"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 10/1. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-58-t2si",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, Hastalık raporlarının hangi hâllerde, hangi hekimler veya sağlık kurulları tarafından verileceği ve süreleri ile bu konuya ilişkin diğer hususlar belirlenirken, hangi kurum/kuruluşun görüşlerine başvurulmaz?",
+    "options": [
+      "Sağlık Bakanlığı",
+      "T. C. Hazine ve Maliye Bakanlığı",
+      "Dışişleri Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Sosyal Güvenlik Kurumunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İçişleri Bakanlığı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-59-jc3z",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre kurum ve kuruluşlar çalıştırdıkları ve işten ayrılan özürlü personel sayısını üç ayda bir hangi kuruma bildirmekle yükümlüdürler?",
+    "options": [
+      "Türkiye İstatistik Kurumuna",
+      "Özürlüler İdaresi Başkanlığına",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanlığına",
+      "Devlet Personel Başkanlığına"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Devlet Personel Başkanlığına. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-6-9d7q",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıda sayılanlardan hangisi 657 sayılı Devlet Memurları Kanunu hükümlerine göre devlet memurlarının genel haklarından birisi değildir?",
+    "options": [
+      "Emeklilik",
+      "Çekilme",
+      "Eğitim",
+      "Sendika kurma",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Eğitim. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-60-2aa0",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, memuriyetten kendi isteğiyle en fazla kaç defa çekilenler tekrar memurluğa dönebilirler?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1",
+      "Memurluğa dönemezler."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 2. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-61-4r03",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Emniyet Hizmetleri Sınıfı kapsamında yer almaz?",
+    "options": [
+      "Emniyet amiri",
+      "Polis müfettişi",
+      "Çarşı ve mahalle bekçisi",
+      "Emniyet Müdürü sıfatını kazanmış emniyet mensubu memurları",
+      "Uzman jandarma"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Uzman jandarma. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-62-isty",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre istisnai durumlar hariç olmak üzere 5 yıl süreli yükseköğrenimi bitirenlerin memuriyete giriş derece ve kademesi aşağıdakilerden hangisidir?",
+    "options": [
+      "9/2",
+      "9/1",
+      "10/2",
+      "10/3",
+      "11/2"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 9/2. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-63-f365",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi, Devlet memurları için tesis edilen sınıflardan değildir?",
+    "options": [
+      "Genel idari hizmetler sınıfı",
+      "Din hizmetleri",
+      "Millî İstihbarat Teşkilatı",
+      "Eğitim ve Öğretim Hizmetleri",
+      "Hakimlik ve savcılık hizmetleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hakimlik ve savcılık hizmetleri. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-64-p6nz",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre bu kanunun kapsamına dahil kurumlarda yönetim, icra, büro ve benzeri hizmetleri gören ve diğer hizmet sınıflara girmeyen memurlar, aşağıdaki hizmet sınıflarından hangisini oluşturur?",
+    "options": [
+      "Yardımcı Hizmetler Sınıfı",
+      "Genel İdare Hizmetleri Sınıfı",
+      "Teknik Hizmetler Sınıfı",
+      "Avukatlık Hizmetleri Sınıfı",
+      "Eğitim ve Öğretim Hizmetleri Sınıfı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Genel İdare Hizmetleri Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-65-ka72",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet memuru olabilmek için genel olarak kaç yaşını tamamlamış olmak gerekir?",
+    "options": [
+      "15",
+      "20",
+      "18",
+      "21",
+      "25"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 18. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-66-ayhn",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Aşağıdaki hizmet sınıflarından hangisi 657 sayılı Kanun’da yer almaz?",
+    "options": [
+      "Genel İdare Hizmetleri Sınıfı",
+      "Eğitim ve Öğretim Hizmetleri Sınıfı",
+      "Jandarma Hizmetleri Sınıfı",
+      "Denetim Hizmetleri Sınıfı",
+      "Mülki İdare Amirliği Hizmetleri Sınıfı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Denetim Hizmetleri Sınıfı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-67-1fr1",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurun bulunduğu kademede en az bir yıl çalışmış olması ve bulunduğu derecede ilerleyebileceği bir kademenin bulunması, aşağıdakilerden hangisinin şartıdır?",
+    "options": [
+      "Derece yükselmesi",
+      "Asli memurluğa geçiş",
+      "Yer değiştirme",
+      "Kademe ilerlemesi",
+      "Görevde yükselme"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kademe ilerlemesi. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-68-17mz",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi (rotasyon) ile ilgili olarak; memurlar istekleri ile, kurumlarında kazanılmış hak derecelerinin en çok kaç derece altına atanabilirler?",
+    "options": [
+      "1 derece",
+      "3 derece",
+      "2 derece",
+      "4 derece",
+      "Derece farkı gözetilmez"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 3 derece. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-69-ndre",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Kanun’a göre aşağıdakilerden hangisi memurlara sağlanan “Sosyal Haklar” kapsamında değildir?",
+    "options": [
+      "Emeklilik",
+      "Vekâlet aylığı",
+      "Aile yardımı",
+      "Ölüm yardımı",
+      "Lojman (Konut) tahsisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Vekâlet aylığı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-7-m19v",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, Kanunlarda yazılı hâller dışında Devlet memurunun memurluğuna son verilememesi ve aylık ve başka haklarının elinden alınamaması hangi hakkın bir sonucudur?",
+    "options": [
+      "Emeklilik",
+      "Çekilme",
+      "Kovuşturma ve yargılama",
+      "Güvenlik",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Güvenlik. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-70-yvl0",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurların görevlerinden uzaklaştırılması (açığa alınması) ihtiyatî bir tedbirdir. Bu tedbir en çok ne kadar süre devam edebilir (Disiplin kovuşturması nedeniyle)?",
+    "options": [
+      "1 ay",
+      "2 ay",
+      "6 ay",
+      "1 yıl",
+      "3 ay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 3 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-71-echb",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurluktan kendi isteğiyle çekilenler (istifa edenler), en fazla kaç defa memuriyete geri dönebilirler?",
+    "options": [
+      "1 defa",
+      "3 defa",
+      "5 defa",
+      "2 defa",
+      "Sınırsız"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 2 defa. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-72-7zxs",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Bir meslek veya sanat okulunu bitirenlerin, kazai rüşt kararı almak şartıyla Devlet memuru olabilmeleri için en az kaç yaşını doldurmuş olmaları gerekir?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 15. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-73-axui",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Devlet memuru olabilmek için en az hangi öğrenim düzeyinden mezun olmak şarttır (İstisnai hâller ve köy/kasaba hizmetleri hariç)?",
+    "options": [
+      "İlkokul",
+      "Lise",
+      "Yüksekokul",
+      "Ortaokul",
+      "Fakülte"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Ortaokul. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  }
+]

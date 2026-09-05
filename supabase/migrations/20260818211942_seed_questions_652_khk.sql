@@ -1,0 +1,4 @@
+INSERT INTO questions (id, topic_id, prompt, options, answer_index, sort_order) VALUES
+('652-khk-01','652-khk','652 sayılı KHK tarihsel olarak neyi düzenlemek üzere çıkarılmıştır?','["Millî Eğitim Bakanlığının teşkilat ve görevlerini","Sadece öğretmen maaşlarını","Sadece sınav sistemini","Sadece ders kitaplarını"]'::jsonb, 0, 1),
+('652-khk-02','652-khk','652 sayılı KHK sonrasında MEB teşkilat yapısı hangi düzenlemeyle güncellenmiştir?','["1 Sayılı Cumhurbaşkanlığı Kararnamesi ile","Sadece yönetmeliklerle","Sadece genelgelerle","Değişmemiştir"]'::jsonb, 0, 2),
+('652-khk-03','652-khk','652 sayılı KHK''nın kapsamına giren temel konu hangisidir?','["Bakanlığın merkez ve taşra teşkilatının görev, yetki ve sorumlulukları","Sadece bütçe kalemleri","Sadece disiplin cezaları","Sadece sendikal haklar"]'::jsonb, 0, 3);

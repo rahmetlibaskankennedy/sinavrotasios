@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mtn84yab-137-bxs0",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin en son katılan üyesi hangisidir?",
+    "options": [
+      "Romanya",
+      "Bulgaristan",
+      "Hırvatistan",
+      "Kıbrıs",
+      "Slovenya"
+    ],
+    "answer_index": 2,
+    "explanation": "Hırvatistan, 2013 yılında AB'ye katılan en son üye ülkedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-138-p84r",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Para Fonu'nun (IMF) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Londra",
+      "Cenevre",
+      "Washington D.C.",
+      "Paris"
+    ],
+    "answer_index": 3,
+    "explanation": "IMF'nin genel merkezi ABD'nin başkenti Washington D.C.'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-139-uo32",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla IMF Başkanı (Genel Müdürü) kimdir?",
+    "options": [
+      "Christine Lagarde",
+      "Gita Gopinath",
+      "Ajay Banga",
+      "Janet Yellen",
+      "Kristalina Georgieva"
+    ],
+    "answer_index": 4,
+    "explanation": "Bulgar ekonomist Kristalina Georgieva, 2019'dan bu yana IMF Genel Müdürü olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-14-6n5s",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO'nun açılımı nedir?",
+    "options": [
+      "Birleşmiş Milletler Sağlık Örgütü",
+      "Birleşmiş Milletler Ekonomik ve Sosyal Konseyi",
+      "Birleşmiş Milletler Çevre Programı",
+      "Birleşmiş Milletler Kalkınma Fonu",
+      "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü"
+    ],
+    "answer_index": 4,
+    "explanation": "UNESCO, eğitim, bilim ve kültür alanlarında faaliyet gösteren BM uzmanlık kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-140-rhg0",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF hangi yıl kurulmuştur?",
+    "options": [
+      "1944",
+      "1930",
+      "1948",
+      "1955",
+      "1960"
+    ],
+    "answer_index": 0,
+    "explanation": "IMF, 1944'te Bretton Woods Konferansı sonucunda kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-141-9dz5",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF geleneksel olarak hangi bölgeden bir başkan tarafından yönetilir?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Gayriresmî bir gelenek olarak IMF Başkanlığı genellikle bir Avrupalıya, Dünya Bankası Başkanlığı ise bir Amerikalıya verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-142-lgun",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'nin özel çekme hakkı birimi hangi kısaltma ile bilinir?",
+    "options": [
+      "FDI",
+      "SWIFT",
+      "SDR",
+      "GDP",
+      "ODA"
+    ],
+    "answer_index": 2,
+    "explanation": "SDR (Special Drawing Rights - Özel Çekme Hakkı), IMF'nin oluşturduğu uluslararası rezerv varlığıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-143-6y0u",
+    "topic_id": "topic-guncel",
+    "prompt": "Bretton Woods sisteminin ürünü olan iki kuruluş hangileridir?",
+    "options": [
+      "BM ve NATO",
+      "AB ve WHO",
+      "WTO ve OECD",
+      "IMF ve Dünya Bankası",
+      "G7 ve G20"
+    ],
+    "answer_index": 3,
+    "explanation": "1944 Bretton Woods Konferansı, IMF ve Dünya Bankası'nın kuruluşuna öncülük etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-144-jt06",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'de üye ülkelerin oy gücü genellikle neye göre belirlenir?",
+    "options": [
+      "Nüfus",
+      "Üyelik süresi",
+      "Coğrafi büyüklük",
+      "Askerî güç",
+      "Kota (malî katkı payı)"
+    ],
+    "answer_index": 4,
+    "explanation": "IMF'de oy gücü, üye ülkenin kuruma yaptığı malî katkıyı yansıtan kotasına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-145-tv5o",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası Grubu'nun merkezi hangi şehirdedir?",
+    "options": [
+      "Washington D.C.",
+      "New York",
+      "Cenevre",
+      "Paris",
+      "Londra"
+    ],
+    "answer_index": 0,
+    "explanation": "Dünya Bankası, IMF gibi Washington D.C.'de konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-146-wfec",
+    "topic_id": "topic-guncel",
+    "prompt": "Suudi Arabistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Londra",
+      "Riyad",
+      "Amsterdam",
+      "Minsk",
+      "Dakka"
+    ],
+    "answer_index": 1,
+    "explanation": "Suudi Arabistan devletinin başkenti Riyad şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-147-e5gh",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Dünya Bankası Başkanı kimdir?",
+    "options": [
+      "David Malpass",
+      "Jim Yong Kim",
+      "Ajay Banga",
+      "Kristalina Georgieva",
+      "Robert Zoellick"
+    ],
+    "answer_index": 2,
+    "explanation": "Ajay Banga, 2023'ten bu yana Dünya Bankası Başkanı olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-148-0obe",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası'nın temel misyonu aşağıdakilerden hangisidir?",
+    "options": [
+      "Uluslararası ticareti serbestleştirmek",
+      "Askerî güvenliği sağlamak",
+      "Küresel para politikasını yönetmek",
+      "Yoksulluğu azaltmak ve kalkınmayı desteklemek",
+      "İklim anlaşmalarını denetlemek"
+    ],
+    "answer_index": 3,
+    "explanation": "Dünya Bankası, gelişmekte olan ülkelere kalkınma projeleri için finansman ve teknik destek sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-149-zmzi",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası Grubu'na bağlı, özel sektöre yatırım yapan kuruluş hangisidir?",
+    "options": [
+      "IDA",
+      "IBRD",
+      "ICSID",
+      "MIGA",
+      "IFC"
+    ],
+    "answer_index": 4,
+    "explanation": "IFC (Uluslararası Finans Kurumu), Dünya Bankası Grubu içinde özel sektör yatırımlarına odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-15-156v",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO'nun merkezi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Cenevre",
+      "Roma",
+      "Viyana",
+      "Londra"
+    ],
+    "answer_index": 0,
+    "explanation": "UNESCO'nun genel merkezi Fransa'nın başkenti Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-150-sbxv",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası'nın en yoksul ülkelere düşük faizli/faizsiz kredi sağlayan birimi hangisidir?",
+    "options": [
+      "IDA",
+      "IBRD",
+      "IFC",
+      "MIGA",
+      "WTO"
+    ],
+    "answer_index": 0,
+    "explanation": "IDA (Uluslararası Kalkınma Birliği), en yoksul ülkelere uygun koşullu finansman sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-151-ude9",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası hangi yıl kurulmuştur?",
+    "options": [
+      "1930",
+      "1944",
+      "1950",
+      "1960",
+      "1970"
+    ],
+    "answer_index": 1,
+    "explanation": "Dünya Bankası, IMF ile birlikte 1944 Bretton Woods Konferansı'nda kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-152-52e8",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Sağlık Örgütü'nün (WHO/DSÖ) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Paris",
+      "Cenevre",
+      "Roma",
+      "Viyana"
+    ],
+    "answer_index": 2,
+    "explanation": "DSÖ'nün genel merkezi İsviçre'nin Cenevre şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-153-jny7",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla DSÖ Genel Direktörü kimdir?",
+    "options": [
+      "Margaret Chan",
+      "Peter Piot",
+      "Ngozi Okonjo-Iweala",
+      "Tedros Adhanom Ghebreyesus",
+      "Soumya Swaminathan"
+    ],
+    "answer_index": 3,
+    "explanation": "Etiyopyalı Tedros Adhanom Ghebreyesus, 2017'den bu yana DSÖ Genel Direktörü'dür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-154-8fj6",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1946",
+      "1955",
+      "1950",
+      "1948"
+    ],
+    "answer_index": 4,
+    "explanation": "DSÖ, 7 Nisan 1948'de kurulmuştur; bu tarih Dünya Sağlık Günü olarak kutlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-155-942e",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ, 11 Mart 2020'de COVID-19 salgınını nasıl nitelendirmiştir?",
+    "options": [
+      "Pandemi",
+      "Bölgesel salgın",
+      "Endemik hastalık",
+      "Epidemik uyarı",
+      "Yerel kriz"
+    ],
+    "answer_index": 0,
+    "explanation": "DSÖ, 30 Ocak 2020'de COVID-19 için Uluslararası Öneme Sahip Halk Sağlığı Acil Durumu (PHEIC) ilan etmiş; 11 Mart 2020'de ise salgının pandemi olarak nitelendirilebileceğini açıklamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-156-qqnu",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ, BM'nin hangi tür kuruluşları arasında yer alır?",
+    "options": [
+      "Yardımcı organ",
+      "Uzmanlık kuruluşu",
+      "Bağımsız STK",
+      "Askerî ittifak",
+      "Ticaret bloğu"
+    ],
+    "answer_index": 1,
+    "explanation": "DSÖ, BM'nin sağlık alanındaki uzmanlık kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-157-5p3e",
+    "topic_id": "topic-guncel",
+    "prompt": "ABD, DSÖ'den çekilme kararını hangi dönemde yeniden gündeme getirmiştir?",
+    "options": [
+      "Obama döneminde",
+      "Biden'ın ikinci döneminde",
+      "Trump'ın ikinci döneminde",
+      "Clinton döneminde",
+      "Bush döneminde"
+    ],
+    "answer_index": 2,
+    "explanation": "Donald Trump, ikinci başkanlık döneminde ABD'yi DSÖ'den çekme kararını yeniden imzalamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-158-brhr",
+    "topic_id": "topic-guncel",
+    "prompt": "DSÖ'nün bulaşıcı olmayan hastalıklarla mücadele kapsamında öncelik verdiği alanlardan biri değildir?",
+    "options": [
+      "Kalp-damar hastalıkları",
+      "Kanser",
+      "Diyabet",
+      "Sıtma",
+      "Kronik solunum hastalıkları"
+    ],
+    "answer_index": 3,
+    "explanation": "Sıtma bulaşıcı bir hastalıktır; DSÖ'nün bulaşıcı olmayan hastalık önceliklerinde yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-159-krpn",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Sağlık Asamblesi hangi organın karar alma organıdır?",
+    "options": [
+      "IMF",
+      "FAO",
+      "Dünya Bankası",
+      "UNESCO",
+      "DSÖ"
+    ],
+    "answer_index": 4,
+    "explanation": "Dünya Sağlık Asamblesi, DSÖ'nün en üst karar alma organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-16-wi51",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi WTO üyesi değildir?",
+    "options": [
+      "Türkiye",
+      "Kuzey Kore",
+      "Brezilya",
+      "Almanya",
+      "Japonya"
+    ],
+    "answer_index": 1,
+    "explanation": "Kuzey Kore, WTO üyesi olmayan az sayıdaki ülkeden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-160-k7wo",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Ticaret Örgütü'nün (WTO) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Brüksel",
+      "New York",
+      "Paris",
+      "Viyana"
+    ],
+    "answer_index": 0,
+    "explanation": "WTO'nun genel merkezi Cenevre'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-161-z0ix",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla WTO Genel Direktörü kimdir?",
+    "options": [
+      "Roberto Azevêdo",
+      "Ngozi Okonjo-Iweala",
+      "Pascal Lamy",
+      "Kristalina Georgieva",
+      "Tedros Adhanom"
+    ],
+    "answer_index": 1,
+    "explanation": "Nijeryalı-Amerikalı Ngozi Okonjo-Iweala, 2021'den bu yana WTO Genel Direktörü'dür ve bu görevi üstlenen ilk kadın ve ilk Afrikalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-162-e4qc",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO hangi yıl kurulmuştur?",
+    "options": [
+      "1944",
+      "1948",
+      "1995",
+      "1957",
+      "2001"
+    ],
+    "answer_index": 2,
+    "explanation": "WTO, GATT'ın yerini alarak 1995 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-163-c95h",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO'dan önce uluslararası ticareti düzenleyen anlaşma hangisidir?",
+    "options": [
+      "Bretton Woods Anlaşması",
+      "Roma Antlaşması",
+      "Marshall Planı",
+      "GATT",
+      "Lizbon Antlaşması"
+    ],
+    "answer_index": 3,
+    "explanation": "GATT (Gümrük Tarifeleri ve Ticaret Genel Anlaşması), WTO kurulmadan önce ticareti düzenlemekteydi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-164-si2b",
+    "topic_id": "topic-guncel",
+    "prompt": "BAE devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Belgrad",
+      "Podgoritsa",
+      "Yeni Delhi",
+      "Wellington",
+      "Abu Dabi"
+    ],
+    "answer_index": 4,
+    "explanation": "BAE devletinin başkenti Abu Dabi şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-165-bwf3",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'nin ilk zirvesi hangi şehirde düzenlenmiştir?",
+    "options": [
+      "Belgrad",
+      "Kahire",
+      "Cakarta",
+      "Delhi",
+      "Havana"
+    ],
+    "answer_index": 0,
+    "explanation": "Hareketin ilk zirvesi 1961'de Yugoslavya'nın başkenti Belgrad'da yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-166-t5gh",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'ne üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "50",
+      "120",
+      "80",
+      "150",
+      "180"
+    ],
+    "answer_index": 1,
+    "explanation": "Bağlantısızlar Hareketi, dünya genelinde 120'nin üzerinde üye ülkeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-167-gl90",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi OPEC üyesi değildir?",
+    "options": [
+      "Suudi Arabistan",
+      "İran",
+      "Rusya",
+      "Nijerya",
+      "Venezuela"
+    ],
+    "answer_index": 2,
+    "explanation": "Rusya, OPEC üyesi değildir; OPEC+ çerçevesinde OPEC ile koordinasyon içinde çalışan OPEC dışı bir ülkedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-168-uxy5",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'ın açılımı nedir?",
+    "options": [
+      "Güney Asya Bölgesel İşbirliği Örgütü",
+      "Asya-Pasifik Ekonomik İşbirliği",
+      "Asya Kalkınma Bankası",
+      "Güneydoğu Asya Uluslar Birliği",
+      "Doğu Asya Zirvesi"
+    ],
+    "answer_index": 3,
+    "explanation": "ASEAN, Güneydoğu Asya Uluslar Birliği'nin kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-169-pn48",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN hangi yıl kurulmuştur?",
+    "options": [
+      "1955",
+      "1961",
+      "1985",
+      "1975",
+      "1967"
+    ],
+    "answer_index": 4,
+    "explanation": "ASEAN, 1967 yılında Bangkok'ta kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-17-gj9h",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye OECD'nin kurucu üyelerinden biri midir?",
+    "options": [
+      "Hayır, 2000'de katılmıştır",
+      "Hayır, 1980'de katılmıştır",
+      "Evet, kurucu üyedir",
+      "Hayır, henüz üye değildir",
+      "Sadece gözlemci statüsündedir"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, OECD'nin 1961'deki kurucu üyelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-170-tq05",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'ın merkezi hangi şehirdedir?",
+    "options": [
+      "Jakarta",
+      "Bangkok",
+      "Manila",
+      "Singapur",
+      "Kuala Lumpur"
+    ],
+    "answer_index": 0,
+    "explanation": "ASEAN Sekreteryası, Endonezya'nın başkenti Jakarta'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-171-6ba0",
+    "topic_id": "topic-guncel",
+    "prompt": "ASEAN'a üye ülke sayısı kaçtır?",
+    "options": [
+      "8",
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer_index": 1,
+    "explanation": "Timor-Leste, 26 Ekim 2025'te ASEAN'ın 11'inci üye devleti olarak kabul edilmiştir. Bu nedenle 2026 itibarıyla ASEAN'ın 11 üyesi vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-172-7jts",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS ifadesindeki harfler hangi ülkeleri temsil eder?",
+    "options": [
+      "Brezilya, Romanya, Hindistan, Kanada, İsveç",
+      "Belçika, Romanya, İtalya, Çin, İspanya",
+      "Brezilya, Rusya, Hindistan, Çin, Güney Afrika",
+      "Bulgaristan, Rusya, İtalya, Çin, İspanya",
+      "Brezilya, Rusya, İrlanda, Çin, Singapur"
+    ],
+    "answer_index": 2,
+    "explanation": "BRICS adı Brezilya, Rusya, Hindistan, Çin ve Güney Afrika'nın İngilizce ülke adlarının baş harflerinden oluşur. Güney Afrika'nın katılımından önce grup BRIC olarak anılıyordu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-173-b6fk",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS'in kalkınma projelerini finanse etmek için kurduğu banka hangisidir?",
+    "options": [
+      "IMF",
+      "Asya Kalkınma Bankası",
+      "Afrika Kalkınma Bankası",
+      "Yeni Kalkınma Bankası (NDB)",
+      "Dünya Bankası"
+    ],
+    "answer_index": 3,
+    "explanation": "BRICS ülkeleri, 2014'te Yeni Kalkınma Bankası'nı (New Development Bank) kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-174-xmyw",
+    "topic_id": "topic-guncel",
+    "prompt": "2024 yılında BRICS'e resmî olarak katılan ülkelerden biri değildir?",
+    "options": [
+      "Mısır",
+      "Etiyopya",
+      "İran",
+      "Birleşik Arap Emirlikleri",
+      "Almanya"
+    ],
+    "answer_index": 4,
+    "explanation": "Almanya, BRICS üyesi değildir; 2024'te Mısır, Etiyopya, İran ve BAE gibi ülkeler gruba katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-175-2ty4",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS'in kuruluşunda Güney Afrika ne zaman gruba dahil olmuştur?",
+    "options": [
+      "2010",
+      "2006",
+      "2001",
+      "2015",
+      "2020"
+    ],
+    "answer_index": 0,
+    "explanation": "Grup başlangıçta BRIC olarak anılırken, Güney Afrika 2010'da katılarak isim BRICS'e dönüşmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-176-hkya",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın (eski adıyla Türk Konseyi) merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "Astana",
+      "Bakü",
+      "Bişkek"
+    ],
+    "answer_index": 1,
+    "explanation": "Türk Devletleri Teşkilatı Sekretaryası ve genel merkez ofisi İstanbul'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-177-thv2",
+    "topic_id": "topic-guncel",
+    "prompt": "2025 yılı G7 dönem başkanlığını hangi ülke üstlenmiştir?",
+    "options": [
+      "Fransa",
+      "İtalya",
+      "Kanada",
+      "Japonya",
+      "Almanya"
+    ],
+    "answer_index": 2,
+    "explanation": "Kanada, 2025 yılı G7 dönem başkanlığını üstlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-178-dgis",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı hangi yıl kurulmuştur (Nahçıvan Anlaşması ile)?",
+    "options": [
+      "2001",
+      "2005",
+      "2015",
+      "2009",
+      "2020"
+    ],
+    "answer_index": 3,
+    "explanation": "Örgüt, 2009 yılında Nahçıvan Anlaşması ile Türk Konseyi adıyla kurulmuş, 2021'de adı Türk Devletleri Teşkilatı olarak değiştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-179-10br",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın kurucu üyeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Türkiye",
+      "Azerbaycan",
+      "Kazakistan",
+      "Kırgızistan",
+      "Özbekistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Özbekistan, örgüte sonradan (2019'da) tam üye olarak katılmıştır; kurucu üyeler Türkiye, Azerbaycan, Kazakistan ve Kırgızistan'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-18-1jfg",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD üyeliği genellikle hangi tür ülkeleri kapsar?",
+    "options": [
+      "Sadece Avrupa ülkeleri",
+      "Sadece BM Güvenlik Konseyi üyeleri",
+      "Sadece petrol ihracatçısı ülkeler",
+      "Genellikle gelişmiş piyasa ekonomileri",
+      "Sadece Asya ülkeleri"
+    ],
+    "answer_index": 3,
+    "explanation": "OECD, çoğunlukla gelişmiş piyasa ekonomilerini bir araya getiren bir kuruluştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-180-vc6y",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'na gözlemci statüsünde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Türkmenistan",
+      "Fransa",
+      "Almanya",
+      "Kanada",
+      "Brezilya"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkmenistan, Türk Devletleri Teşkilatı'na gözlemci statüsünde katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-181-dgdu",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Devletleri Teşkilatı'nın isim değişikliği (Türk Konseyi'nden bu adı almasına) hangi yıl gerçekleşmiştir?",
+    "options": [
+      "2019",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer_index": 1,
+    "explanation": "Örgütün ismi, 2021 yılındaki İstanbul Zirvesi'nde Türk Devletleri Teşkilatı olarak değiştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-182-po38",
+    "topic_id": "topic-guncel",
+    "prompt": "Macaristan, Türk Devletleri Teşkilatı'nda hangi statüdedir?",
+    "options": [
+      "Tam üye",
+      "Hiçbir ilişkisi yok",
+      "Gözlemci üye",
+      "Kurucu üye",
+      "Aday üye"
+    ],
+    "answer_index": 2,
+    "explanation": "Macaristan, Türk Devletleri Teşkilatı'na gözlemci üye statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-183-rfdf",
+    "topic_id": "topic-guncel",
+    "prompt": "Ekonomik İşbirliği Teşkilatı'nın (ECO) merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "Bakü",
+      "İslamabad",
+      "Tahran",
+      "Taşkent"
+    ],
+    "answer_index": 3,
+    "explanation": "ECO'nun genel merkezi İran'ın başkenti Tahran'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-184-b17d",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'nun kurucu üyeleri hangileridir?",
+    "options": [
+      "Türkiye, Irak, Suriye",
+      "Türkiye, Suudi Arabistan, Mısır",
+      "Türkiye, Azerbaycan, Kazakistan",
+      "Türkiye, Katar, BAE",
+      "Türkiye, İran, Pakistan"
+    ],
+    "answer_index": 4,
+    "explanation": "ECO, 1985'te Türkiye, İran ve Pakistan tarafından kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-185-7vcj",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'ya üye ülke sayısı kaçtır?",
+    "options": [
+      "10",
+      "6",
+      "3",
+      "15",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "1992'de Orta Asya ülkelerinin katılımıyla ECO'nun üye sayısı 10'a yükselmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-186-x4sq",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Dünya Gıda Programı'nın (WFP) temel görevi nedir?",
+    "options": [
+      "Uluslararası ticareti düzenlemek",
+      "Açlıkla mücadele ve gıda yardımı sağlamak",
+      "İklim anlaşmalarını denetlemek",
+      "Sağlık standartları belirlemek",
+      "Askerî lojistik sağlamak"
+    ],
+    "answer_index": 1,
+    "explanation": "WFP, dünya genelinde açlıkla mücadele eden ve acil durumlarda gıda yardımı sağlayan en büyük insani yardım kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-187-qo3w",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Sınai Kalkınma Örgütü'nün (UNIDO) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "Viyana",
+      "Roma",
+      "New York"
+    ],
+    "answer_index": 2,
+    "explanation": "UNIDO'nun genel merkezi Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-188-s1gy",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Uyuşturucu ve Suç Ofisi'nin (UNODC) merkezi hangi şehirdedir?",
+    "options": [
+      "Lahey",
+      "Cenevre",
+      "New York",
+      "Viyana",
+      "Roma"
+    ],
+    "answer_index": 3,
+    "explanation": "UNODC, uyuşturucu kaçakçılığı ve organize suçla mücadele alanında çalışan BM ofisidir; merkezi Viyana'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-189-dywa",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İnsani İşler Koordinasyon Ofisi'nin (OCHA) temel görevi nedir?",
+    "options": [
+      "Askerî operasyonları koordine etmek",
+      "Fikri mülkiyeti korumak",
+      "Ticaret anlaşmazlıklarını çözmek",
+      "Para politikası belirlemek",
+      "İnsani yardım müdahalelerini koordine etmek"
+    ],
+    "answer_index": 4,
+    "explanation": "OCHA, doğal afet ve çatışma bölgelerindeki insani yardım çalışmalarını koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-19-lvh8",
+    "topic_id": "topic-guncel",
+    "prompt": "Belçika devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Lübliyana",
+      "Bağdat",
+      "Seul",
+      "Atina",
+      "Brüksel"
+    ],
+    "answer_index": 4,
+    "explanation": "Belçika devletinin başkenti Brüksel şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-190-szlc",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Genel Kurulu'nun olağan oturumları genellikle hangi ayda başlar?",
+    "options": [
+      "Eylül",
+      "Mart",
+      "Haziran",
+      "Ocak",
+      "Kasım"
+    ],
+    "answer_index": 0,
+    "explanation": "BM Genel Kurulu'nun yıllık olağan oturumu genellikle Eylül ayında başlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-191-jo1z",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Barış Gücü askerlerinin kullandığı miğfer/bereden dolayı aldıkları yaygın isim nedir?",
+    "options": [
+      "Yeşil Bereliler",
+      "Mavi Bereliler",
+      "Kızıl Bereliler",
+      "Beyaz Bereliler",
+      "Siyah Bereliler"
+    ],
+    "answer_index": 1,
+    "explanation": "BM barış gücü askerleri, mavi renkli miğfer veya bereleri nedeniyle 'Mavi Bereliler' olarak anılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-192-gazx",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Şartı kaç yılında imzalanmıştır?",
+    "options": [
+      "1941",
+      "1943",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "answer_index": 2,
+    "explanation": "BM Şartı, 26 Haziran 1945'te San Francisco'da imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-193-sucr",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin öncülü olan, I. Dünya Savaşı sonrası kurulan uluslararası örgüt hangisidir?",
+    "options": [
+      "Dörtlü İttifak",
+      "Kutsal İttifak",
+      "Avrupa Konseyi",
+      "Milletler Cemiyeti",
+      "Bağdat Paktı"
+    ],
+    "answer_index": 3,
+    "explanation": "Milletler Cemiyeti (Cemiyet-i Akvam), BM'den önce 1920'de kurulmuş ve II. Dünya Savaşı sonrası işlevini yitirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-194-ftj3",
+    "topic_id": "topic-guncel",
+    "prompt": "BM barış gücü operasyonlarının maliyeti temel olarak nasıl karşılanır?",
+    "options": [
+      "Sadece ABD tarafından",
+      "IMF kredileriyle",
+      "Bağışlarla",
+      "Sadece Güvenlik Konseyi daimi üyelerince",
+      "Üye devletlerin katkı paylarıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "BM barış gücü operasyonları, üye devletlerin zorunlu katkı paylarıyla finanse edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-195-pmqt",
+    "topic_id": "topic-guncel",
+    "prompt": "İslam İşbirliği Teşkilatı'nın (İİT) merkezi hangi şehirdedir?",
+    "options": [
+      "Cidde",
+      "Riyad",
+      "Kahire",
+      "İstanbul",
+      "Rabat"
+    ],
+    "answer_index": 0,
+    "explanation": "İİT'nin genel merkezi Suudi Arabistan'ın Cidde şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-196-8n2s",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT hangi yıl kurulmuştur?",
+    "options": [
+      "1957",
+      "1969",
+      "1963",
+      "1975",
+      "1981"
+    ],
+    "answer_index": 1,
+    "explanation": "İİT, 25 Eylül 1969'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-197-lsai",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla İİT Genel Sekreteri kimdir?",
+    "options": [
+      "Yusuf bin Ahmed el-Useymin",
+      "Ekmeleddin İhsanoğlu",
+      "Hüseyin İbrahim Taha",
+      "İyad Madani",
+      "Abdullah bin Zayed"
+    ],
+    "answer_index": 2,
+    "explanation": "Çadlı diplomat Hüseyin İbrahim Taha, 2021'den bu yana İİT Genel Sekreteri'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-198-vgcc",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT'ye üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "35",
+      "45",
+      "65",
+      "57",
+      "75"
+    ],
+    "answer_index": 3,
+    "explanation": "İİT, BM'den sonra en fazla üyeye sahip ikinci büyük hükümetlerarası örgüt olup 57 üyesi bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-199-8zmx",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye İİT'nin kuruluşundan bu yana üyesi midir?",
+    "options": [
+      "Hayır, sonradan katılmıştır",
+      "Hayır, hiç üye olmamıştır",
+      "Hayır, sadece gözlemcidir",
+      "Evet ama üyeliği askıya alınmıştır",
+      "Evet, kurucu üyelerdendir"
+    ],
+    "answer_index": 4,
+    "explanation": "Türkiye, İİT'nin kuruluşundan itibaren üyesidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-2-274m",
+    "topic_id": "topic-guncel",
+    "prompt": "Cezayir devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Stokholm",
+      "Manila",
+      "Cezayir",
+      "Bükreş",
+      "Havana"
+    ],
+    "answer_index": 2,
+    "explanation": "Cezayir devletinin başkenti Cezayir şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-20-fcv3",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD'nin üç harfli ismi Türkçede neyin kısaltmasıdır?",
+    "options": [
+      "Ekonomik Kalkınma ve İşbirliği Örgütü",
+      "Avrupa Kalkınma ve İşbirliği Örgütü",
+      "Ekonomik Ticaret ve Kalkınma Örgütü",
+      "Dünya Kalkınma ve İşbirliği Örgütü",
+      "Ekonomik Güvenlik ve İşbirliği Örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "OECD, Türkçede Ekonomik Kalkınma ve İşbirliği Örgütü olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-200-tuz1",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi (Non-Aligned Movement) hangi Soğuk Savaş bağlamında ortaya çıkmıştır?",
+    "options": [
+      "ABD-Sovyet blokları dışında kalma isteği",
+      "AB'ye alternatif oluşturma",
+      "NATO'ya karşı askerî ittifak kurma",
+      "Sadece Afrika ülkelerini birleştirme",
+      "Petrol fiyatlarını kontrol etme"
+    ],
+    "answer_index": 0,
+    "explanation": "Bağlantısızlar Hareketi, Soğuk Savaş döneminde ABD ve Sovyetler Birliği bloklarının dışında kalmayı amaçlayan ülkelerce kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-201-9dso",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağlantısızlar Hareketi'nin kurucularından kabul edilen liderlerden biri hangisidir?",
+    "options": [
+      "Winston Churchill",
+      "Josip Broz Tito",
+      "Charles de Gaulle",
+      "Konrad Adenauer",
+      "Franklin Roosevelt"
+    ],
+    "answer_index": 1,
+    "explanation": "Yugoslavya lideri Josip Broz Tito, Bağlantısızlar Hareketi'nin kurucu liderlerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-202-gi7h",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC hangi yıl kurulmuştur?",
+    "options": [
+      "1975",
+      "1980",
+      "1989",
+      "1995",
+      "2001"
+    ],
+    "answer_index": 2,
+    "explanation": "APEC, 1989 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-203-bbem",
+    "topic_id": "topic-guncel",
+    "prompt": "Pasifik Adaları Forumu (Pacific Islands Forum) hangi bölgedeki ülkeleri kapsar?",
+    "options": [
+      "Karayipler",
+      "Orta Doğu",
+      "Kuzey Avrupa",
+      "Güney Pasifik",
+      "Batı Afrika"
+    ],
+    "answer_index": 3,
+    "explanation": "Pasifik Adaları Forumu, Avustralya, Yeni Zelanda ve çeşitli Güney Pasifik ada devletlerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-204-jxxy",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC üyeleri resmî olarak ne şekilde anılır?",
+    "options": [
+      "Ülkeler",
+      "Federasyonlar",
+      "Bölgeler",
+      "Cumhuriyetler",
+      "Ekonomiler"
+    ],
+    "answer_index": 4,
+    "explanation": "Tayvan gibi siyasi hassasiyetler nedeniyle APEC üyeleri 'ekonomiler' olarak anılır, 'ülkeler' denmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-205-7kzi",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılında APEC'e hangi ekonomi ev sahipliği yapmaktadır?",
+    "options": [
+      "Çin",
+      "Güney Kore",
+      "Peru",
+      "ABD",
+      "Japonya"
+    ],
+    "answer_index": 0,
+    "explanation": "APEC'in resmî 2026 programına göre ev sahibi ekonomi Çin'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-206-ozjb",
+    "topic_id": "topic-guncel",
+    "prompt": "Amerika Devletleri Örgütü'nün (OAS) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Washington D.C.",
+      "Ottawa",
+      "Meksiko",
+      "Bogota"
+    ],
+    "answer_index": 1,
+    "explanation": "OAS'ın genel merkezi Washington D.C.'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-207-3e9i",
+    "topic_id": "topic-guncel",
+    "prompt": "Mercosur birliğinin kurucu üyeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Kolombiya",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "answer_index": 2,
+    "explanation": "Kolombiya, Mercosur'un kurucu üyesi değildir; kurucular Brezilya, Arjantin, Uruguay ve Paraguay'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-208-3shz",
+    "topic_id": "topic-guncel",
+    "prompt": "NAFTA'nın yerini alan ve ABD, Kanada ile Meksika arasındaki güncel ticaret anlaşması hangisidir?",
+    "options": [
+      "CPTPP",
+      "CAFTA",
+      "TPP",
+      "USMCA",
+      "Mercosur"
+    ],
+    "answer_index": 3,
+    "explanation": "NAFTA'nın yerini 2020'de yürürlüğe giren USMCA (ABD-Meksika-Kanada Anlaşması) almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-209-l0ci",
+    "topic_id": "topic-guncel",
+    "prompt": "And Topluluğu'na (Comunidad Andina) üye ülkelerden biri değildir?",
+    "options": [
+      "Bolivya",
+      "Ekvador",
+      "Peru",
+      "Kolombiya",
+      "Şili"
+    ],
+    "answer_index": 4,
+    "explanation": "Şili, And Topluluğu'nun tam üyesi değildir; üyeler Bolivya, Ekvador, Peru ve Kolombiya'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-21-dtv5",
+    "topic_id": "topic-guncel",
+    "prompt": "G7 grubuna aşağıdaki ülkelerden hangisi dahil değildir?",
+    "options": [
+      "Almanya",
+      "Çin",
+      "İtalya",
+      "Japonya",
+      "Kanada"
+    ],
+    "answer_index": 1,
+    "explanation": "Çin, G7 üyesi değildir; G7 üyeleri ABD, Kanada, Almanya, Fransa, İtalya, Japonya ve İngiltere'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-210-ygwb",
+    "topic_id": "topic-guncel",
+    "prompt": "Pasifik İttifakı'nı (Pacific Alliance) oluşturan Latin Amerika ülkeleri hangileridir?",
+    "options": [
+      "Meksika, Kolombiya, Peru, Şili",
+      "Brezilya, Arjantin, Uruguay, Paraguay",
+      "Venezuela, Ekvador, Bolivya, Küba",
+      "Kanada, ABD, Meksika, Küba",
+      "Panama, Kosta Rika, Nikaragua, Honduras"
+    ],
+    "answer_index": 0,
+    "explanation": "Pasifik İttifakı, Meksika, Kolombiya, Peru ve Şili tarafından 2011'de kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-211-fzru",
+    "topic_id": "topic-guncel",
+    "prompt": "USMCA anlaşması hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "2016",
+      "2020",
+      "2018",
+      "2022",
+      "2024"
+    ],
+    "answer_index": 1,
+    "explanation": "USMCA, 1 Temmuz 2020'de yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-212-y66d",
+    "topic_id": "topic-guncel",
+    "prompt": "Amerika Devletleri Örgütü'nün (OAS) üye sayısı yaklaşık kaçtır?",
+    "options": [
+      "15",
+      "25",
+      "35",
+      "45",
+      "55"
+    ],
+    "answer_index": 2,
+    "explanation": "OAS, Amerika kıtasındaki neredeyse tüm bağımsız devletleri kapsayan 35 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-213-4qq4",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'ye aday ülke statüsünde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Birleşik Krallık",
+      "Norveç",
+      "İsviçre",
+      "Türkiye",
+      "İzlanda (güncel olarak değil)"
+    ],
+    "answer_index": 3,
+    "explanation": "Türkiye, uzun süredir AB'ye aday ülke statüsünde bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-214-ngsg",
+    "topic_id": "topic-guncel",
+    "prompt": "Batı Afrika Devletleri Ekonomik Topluluğu'nun (ECOWAS) merkezi hangi şehirdedir?",
+    "options": [
+      "Accra",
+      "Bamako",
+      "Dakar",
+      "Lagos",
+      "Abuja"
+    ],
+    "answer_index": 4,
+    "explanation": "ECOWAS'ın genel merkezi Nijerya'nın başkenti Abuja'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-215-juhm",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Afrika Kalkınma Topluluğu'nun (SADC) kapsadığı bölge hangisidir?",
+    "options": [
+      "Güney Afrika",
+      "Batı Afrika",
+      "Kuzey Afrika",
+      "Doğu Afrika",
+      "Orta Afrika"
+    ],
+    "answer_index": 0,
+    "explanation": "SADC, Güney Afrika bölgesindeki ülkeleri bir araya getiren bir kalkınma topluluğudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-216-z78n",
+    "topic_id": "topic-guncel",
+    "prompt": "Nordik Konseyi'ni (Nordic Council) oluşturan ülkeler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Danimarka",
+      "Almanya",
+      "İsveç",
+      "Finlandiya",
+      "Norveç"
+    ],
+    "answer_index": 1,
+    "explanation": "Almanya, Nordik Konseyi üyesi değildir; üyeler Danimarka, Norveç, İsveç, Finlandiya ve İzlanda'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-217-sn06",
+    "topic_id": "topic-guncel",
+    "prompt": "Visegrad Grubu'nu oluşturan Orta Avrupa ülkeleri hangileridir?",
+    "options": [
+      "Romanya, Bulgaristan, Yunanistan, Sırbistan",
+      "Almanya, Fransa, İtalya, İspanya",
+      "Polonya, Çekya, Slovakya, Macaristan",
+      "Avusturya, İsviçre, Slovenya, Hırvatistan",
+      "Litvanya, Letonya, Estonya, Polonya"
+    ],
+    "answer_index": 2,
+    "explanation": "Visegrad Grubu (V4), Polonya, Çekya, Slovakya ve Macaristan'dan oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-218-4z66",
+    "topic_id": "topic-guncel",
+    "prompt": "Üç Deniz Girişimi (Three Seas Initiative) hangi denizler arasındaki bölgeyi kapsar?",
+    "options": [
+      "Ege, Marmara ve Karadeniz",
+      "Akdeniz, Kızıldeniz ve Hint Okyanusu",
+      "Kuzey Denizi, Manş ve Atlantik",
+      "Baltık, Adriyatik ve Karadeniz",
+      "Hazar, Karadeniz ve Akdeniz"
+    ],
+    "answer_index": 3,
+    "explanation": "Üç Deniz Girişimi, Baltık, Adriyatik ve Karadeniz arasında kalan Orta ve Doğu Avrupa ülkelerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-219-q3je",
+    "topic_id": "topic-guncel",
+    "prompt": "Benelux birliğini oluşturan ülkeler hangileridir?",
+    "options": [
+      "Polonya, Çekya, Slovakya",
+      "Fransa, Almanya, İsviçre",
+      "İtalya, İspanya, Portekiz",
+      "Danimarka, Norveç, İsveç",
+      "Belçika, Hollanda, Lüksemburg"
+    ],
+    "answer_index": 4,
+    "explanation": "Benelux, Belçika, Hollanda ve Lüksemburg'un baş harflerinden oluşan bir ekonomik birliktir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-22-kkv4",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye G20'nin üyesi midir?",
+    "options": [
+      "Hayır",
+      "Sadece gözlemci statüsündedir",
+      "Evet, kurucu üyelerdendir",
+      "Hayır, sadece G7'ye üyedir",
+      "Evet ama geçici üyedir"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, G20'nin 1999'daki kuruluşundan bu yana daimi üyesidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-220-cyy7",
+    "topic_id": "topic-guncel",
+    "prompt": "Visegrad Grubu hangi yıl kurulmuştur?",
+    "options": [
+      "1991",
+      "1985",
+      "1995",
+      "2000",
+      "2004"
+    ],
+    "answer_index": 0,
+    "explanation": "Visegrad Grubu, 1991 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-221-6xn7",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Serbest Ticaret Birliği'ne (EFTA) üye ülkelerden biri değildir?",
+    "options": [
+      "Norveç",
+      "Danimarka",
+      "İzlanda",
+      "Lihtenştayn",
+      "İsviçre"
+    ],
+    "answer_index": 1,
+    "explanation": "Danimarka, AB üyesi olduğu için EFTA üyesi değildir; EFTA üyeleri Norveç, İsviçre, İzlanda ve Lihtenştayn'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-222-j7j7",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Ekonomik Alanı (EEA) hangi grupları bir araya getirir?",
+    "options": [
+      "Sadece NATO üyeleri",
+      "Sadece AB üyeleri",
+      "AB üyeleri ve bazı EFTA ülkeleri",
+      "Sadece Balkan ülkeleri",
+      "Sadece Baltık ülkeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "EEA, AB üyelerini ve EFTA üyelerinden Norveç, İzlanda ile Lihtenştayn'ı ortak pazar çerçevesinde birleştirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-223-676d",
+    "topic_id": "topic-guncel",
+    "prompt": "Arktik Konseyi'nin daimi üyeleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Rusya",
+      "Kanada",
+      "ABD",
+      "Almanya",
+      "Norveç"
+    ],
+    "answer_index": 3,
+    "explanation": "Almanya, Arktik Konseyi'nin daimi üyesi değildir, sadece gözlemci statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-224-low3",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin yasama sürecinde Avrupa Parlamentosu ile birlikte karar alan organ hangisidir?",
+    "options": [
+      "Avrupa Komisyonu",
+      "Avrupa Sayıştayı",
+      "Avrupa Adalet Divanı",
+      "Avrupa Merkez Bankası",
+      "AB Konseyi (Bakanlar Konseyi)"
+    ],
+    "answer_index": 4,
+    "explanation": "AB Konseyi (Bakanlar Konseyi), çoğu yasama alanında Avrupa Parlamentosu ile birlikte ortak karar alma sürecinde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-225-wcw8",
+    "topic_id": "topic-guncel",
+    "prompt": "Antarktika Antlaşması hangi yıl imzalanmıştır?",
+    "options": [
+      "1959",
+      "1945",
+      "1972",
+      "1982",
+      "1991"
+    ],
+    "answer_index": 0,
+    "explanation": "Antarktika Antlaşması, 1959 yılında imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-226-u3bi",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Ödemeler Bankası'nın (BIS) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Basel",
+      "Frankfurt",
+      "Zürih",
+      "Londra"
+    ],
+    "answer_index": 1,
+    "explanation": "BIS'in genel merkezi İsviçre'nin Basel şehrindedir; merkez bankalarının bankası olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-227-vkuh",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Gümrük Örgütü'nün (WCO) merkezi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Cenevre",
+      "Brüksel",
+      "Londra",
+      "Roma"
+    ],
+    "answer_index": 2,
+    "explanation": "Dünya Gümrük Örgütü'nün genel merkezi Brüksel'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-228-y9wm",
+    "topic_id": "topic-guncel",
+    "prompt": "2022 NATO Zirvesi'nde kabul edilen ve Rusya'yı doğrudan tehdit olarak tanımlayan belge hangisidir?",
+    "options": [
+      "Lizbon Protokolü",
+      "Washington Antlaşması",
+      "Roma Deklarasyonu",
+      "Yeni Stratejik Kavram",
+      "Helsinki Senedi"
+    ],
+    "answer_index": 3,
+    "explanation": "NATO'nun 2022 Madrid Zirvesi'nde kabul edilen Yeni Stratejik Kavram, Rusya'yı doğrudan ve önemli bir tehdit olarak tanımlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-229-78kk",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun deniz kuvvetlerini içeren daimi görev gücü uygulamalarından biri hangisidir?",
+    "options": [
+      "Iron Curtain Squadron",
+      "Blue Helmets Fleet",
+      "Green Berets Navy",
+      "Peace Corps Fleet",
+      "Standing NATO Maritime Group"
+    ],
+    "answer_index": 4,
+    "explanation": "NATO, Standing NATO Maritime Group gibi daimi deniz görev güçleri bulundurur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-23-k15c",
+    "topic_id": "topic-guncel",
+    "prompt": "Hollanda devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Astana",
+      "Kolombo",
+      "Belgrad",
+      "Amsterdam",
+      "Dakka"
+    ],
+    "answer_index": 3,
+    "explanation": "Hollanda devletinin başkenti Amsterdam şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-230-mdh5",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO üyesi olmayan ancak NATO ile yakın ortaklık içinde bulunan ülkelerden biri hangisidir?",
+    "options": [
+      "Ukrayna",
+      "Fransa",
+      "İtalya",
+      "Kanada",
+      "Polonya"
+    ],
+    "answer_index": 0,
+    "explanation": "Ukrayna, NATO üyesi olmamakla birlikte yoğun bir ortaklık ilişkisi içindedir ve üyelik hedefini beyan etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-231-gojo",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun kuzey kanadını genişleten en son iki üye hangileridir?",
+    "options": [
+      "Polonya ve Çekya",
+      "Finlandiya ve İsveç",
+      "Norveç ve Danimarka",
+      "Estonya ve Letonya",
+      "Slovenya ve Hırvatistan"
+    ],
+    "answer_index": 1,
+    "explanation": "Finlandiya (2023) ve İsveç (2024), NATO'ya katılan en son iki üyedir ve ittifakın kuzey kanadını güçlendirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-232-wvu3",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun 75. kuruluş yıl dönümü hangi yılda kutlanmıştır?",
+    "options": [
+      "2019",
+      "2020",
+      "2024",
+      "2022",
+      "2025"
+    ],
+    "answer_index": 2,
+    "explanation": "NATO, 1949'da kurulduğu için 75. yılını 2024'te kutlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-233-qwla",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin yürütme organı olarak kabul edilen kurum hangisidir?",
+    "options": [
+      "Avrupa Parlamentosu",
+      "AB Konseyi (Bakanlar Konseyi)",
+      "Avrupa Konseyi",
+      "Avrupa Komisyonu",
+      "Avrupa Adalet Divanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Avrupa Komisyonu, AB'nin yürütme organı olarak yasa tekliflerini hazırlar ve politikaları uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-234-6gby",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Parlamentosu üyeleri kaç yılda bir seçilir?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer_index": 4,
+    "explanation": "Avrupa Parlamentosu üyeleri, 5 yılda bir doğrudan halk oyuyla seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-235-gle7",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin dış sınırlarının korunmasından sorumlu ajansı hangisidir?",
+    "options": [
+      "Frontex",
+      "Europol",
+      "Eurojust",
+      "ECDC",
+      "EASO"
+    ],
+    "answer_index": 0,
+    "explanation": "Frontex, AB'nin dış sınır güvenliğinden sorumlu ajansıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-236-pmcq",
+    "topic_id": "topic-guncel",
+    "prompt": "Cenevre Sözleşmeleri kaç ana sözleşmeden oluşur?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 1,
+    "explanation": "Cenevre Sözleşmeleri, 1949'da kabul edilen 4 ana sözleşmeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-237-xc1t",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa İnsan Hakları Sözleşmesi'ni denetleyen mahkeme nerede bulunur?",
+    "options": [
+      "Lahey",
+      "Lüksemburg",
+      "Strazburg",
+      "Brüksel",
+      "Cenevre"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi, Fransa'nın Strazburg şehrinde faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-238-bfgr",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası insancıl hukukun temel ilkelerinden biri değildir?",
+    "options": [
+      "Ayrım gözetme (sivil-asker ayrımı)",
+      "Orantılılık",
+      "Askerî gereklilik",
+      "Serbest ticaret",
+      "İnsanlık"
+    ],
+    "answer_index": 3,
+    "explanation": "Serbest ticaret, uluslararası insancıl hukukun temel ilkeleri arasında yer almaz; bu ilkeler savaş hukukuyla ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-239-t7yn",
+    "topic_id": "topic-guncel",
+    "prompt": "CERN'in (Avrupa Nükleer Araştırma Merkezi) merkezi hangi ülkede bulunur?",
+    "options": [
+      "Fransa",
+      "Belçika",
+      "Almanya",
+      "İtalya",
+      "İsviçre"
+    ],
+    "answer_index": 4,
+    "explanation": "CERN, İsviçre'nin Cenevre yakınlarında, Fransa sınırında konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-24-zy1o",
+    "topic_id": "topic-guncel",
+    "prompt": "İsviçre devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bişkek",
+      "Kuala Lumpur",
+      "Wellington",
+      "Kolombo",
+      "Bern"
+    ],
+    "answer_index": 4,
+    "explanation": "İsviçre devletinin başkenti Bern şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-240-vg2b",
+    "topic_id": "topic-guncel",
+    "prompt": "ITER projesi hangi alanda uluslararası bir iş birliğidir?",
+    "options": [
+      "Füzyon enerjisi araştırması",
+      "Uzay keşfi",
+      "İklim modellemesi",
+      "Yapay zeka geliştirme",
+      "Deniz araştırmaları"
+    ],
+    "answer_index": 0,
+    "explanation": "ITER, dünyanın en büyük uluslararası füzyon enerjisi araştırma projesidir ve Fransa'da inşa edilmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-241-hdgr",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Uzay Ajansı'nın (ESA) merkezi hangi şehirdedir?",
+    "options": [
+      "Londra",
+      "Paris",
+      "Berlin",
+      "Roma",
+      "Madrid"
+    ],
+    "answer_index": 1,
+    "explanation": "ESA'nın genel merkezi Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-242-7og7",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Fikri Mülkiyet Örgütü'nün (WIPO) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Paris",
+      "Cenevre",
+      "Viyana",
+      "New York"
+    ],
+    "answer_index": 2,
+    "explanation": "WIPO'nun genel merkezi Cenevre'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-243-uoq7",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İklim Değişikliği Çerçeve Sözleşmesi'nin (UNFCCC) kısaltması neyi ifade eder?",
+    "options": [
+      "Birleşmiş Milletler Fon ve Çevre Komitesi",
+      "Birleşmiş Milletler Finans ve Çevre Konseyi",
+      "Birleşmiş Milletler Federal Çevre Konseyi",
+      "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi",
+      "Birleşmiş Milletler İklim ve Finans Çerçevesi"
+    ],
+    "answer_index": 3,
+    "explanation": "UNFCCC, 1992'de kabul edilen ve küresel iklim müzakerelerinin temelini oluşturan sözleşmedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-244-bmfg",
+    "topic_id": "topic-guncel",
+    "prompt": "COP (Conference of the Parties) toplantıları hangi konuda düzenlenir?",
+    "options": [
+      "Fikri mülkiyet",
+      "Ticaret anlaşmazlıkları",
+      "Askerî güvenlik",
+      "Sağlık politikaları",
+      "İklim değişikliği müzakereleri"
+    ],
+    "answer_index": 4,
+    "explanation": "COP toplantıları, UNFCCC çerçevesinde yıllık olarak düzenlenen iklim müzakereleri zirveleridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-245-qpej",
+    "topic_id": "topic-guncel",
+    "prompt": "Kyoto Protokolü hangi yıl kabul edilmiştir?",
+    "options": [
+      "1997",
+      "1992",
+      "2005",
+      "2015",
+      "2020"
+    ],
+    "answer_index": 0,
+    "explanation": "Kyoto Protokolü, 1997 yılında kabul edilmiş, 2005'te yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-246-n3zh",
+    "topic_id": "topic-guncel",
+    "prompt": "ABD'nin Paris İklim Anlaşması'ndan çekilme kararını ikinci kez aldığı dönem hangisidir?",
+    "options": [
+      "Obama'nın ilk dönemi",
+      "Trump'ın ikinci dönemi",
+      "Biden dönemi",
+      "Trump'ın ilk dönemi",
+      "Clinton dönemi"
+    ],
+    "answer_index": 1,
+    "explanation": "ABD, Trump'ın ikinci başkanlık döneminde Paris İklim Anlaşması'ndan yeniden çekilme kararı almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-247-2bzp",
+    "topic_id": "topic-guncel",
+    "prompt": "UEFA'nın (Avrupa Futbol Federasyonları Birliği) merkezi hangi ülkededir?",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "İsviçre",
+      "İspanya",
+      "İtalya"
+    ],
+    "answer_index": 2,
+    "explanation": "UEFA'nın genel merkezi İsviçre'nin Nyon şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-248-bsn0",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Atletizm Federasyonu'nun (World Athletics) eski adı nedir?",
+    "options": [
+      "UEFA",
+      "FIFA",
+      "IOC",
+      "IAAF",
+      "FIBA"
+    ],
+    "answer_index": 3,
+    "explanation": "World Athletics, daha önce IAAF (Uluslararası Amatör Atletizm Federasyonları Birliği) olarak biliniyordu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-249-wfre",
+    "topic_id": "topic-guncel",
+    "prompt": "Modern Olimpiyat Oyunları'nın kurucusu kabul edilen kişi kimdir?",
+    "options": [
+      "Juan Antonio Samaranch",
+      "Henry Dunant",
+      "Jules Rimet",
+      "Avery Brundage",
+      "Pierre de Coubertin"
+    ],
+    "answer_index": 4,
+    "explanation": "Fransız eğitimci Pierre de Coubertin, modern Olimpiyat Oyunları'nın kurucusu kabul edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-25-z78i",
+    "topic_id": "topic-guncel",
+    "prompt": "Avusturya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Viyana",
+      "Taşkent",
+      "Yeni Delhi",
+      "Bakü",
+      "Beyrut"
+    ],
+    "answer_index": 0,
+    "explanation": "Avusturya devletinin başkenti Viyana şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-250-wjn7",
+    "topic_id": "topic-guncel",
+    "prompt": "İlk modern Olimpiyat Oyunları hangi yıl ve şehirde düzenlenmiştir?",
+    "options": [
+      "1896, Atina",
+      "1900, Paris",
+      "1904, St. Louis",
+      "1908, Londra",
+      "1912, Stokholm"
+    ],
+    "answer_index": 0,
+    "explanation": "İlk modern Olimpiyat Oyunları, 1896 yılında Atina'da düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-251-56kh",
+    "topic_id": "topic-guncel",
+    "prompt": "2028 Yaz Olimpiyat Oyunları'na hangi şehir ev sahipliği yapacaktır?",
+    "options": [
+      "Paris",
+      "Los Angeles",
+      "Brisbane",
+      "Tokyo",
+      "Londra"
+    ],
+    "answer_index": 1,
+    "explanation": "2028 Yaz Olimpiyat Oyunları, ABD'nin Los Angeles şehrinde düzenlenecektir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-252-5nu5",
+    "topic_id": "topic-guncel",
+    "prompt": "Nobel Ödülleri'nin fon kaynağı kimin vasiyetine dayanır?",
+    "options": [
+      "Albert Einstein",
+      "Henry Dunant",
+      "Alfred Nobel",
+      "John D. Rockefeller",
+      "Andrew Carnegie"
+    ],
+    "answer_index": 2,
+    "explanation": "Nobel Ödülleri, İsveçli mucit ve iş insanı Alfred Nobel'in vasiyeti doğrultusunda oluşturulan fonla verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-253-730u",
+    "topic_id": "topic-guncel",
+    "prompt": "Nobel Barış Ödülü diğer Nobel ödüllerinden farklı olarak hangi ülkede verilir?",
+    "options": [
+      "İsveç",
+      "Finlandiya",
+      "Danimarka",
+      "Norveç",
+      "İzlanda"
+    ],
+    "answer_index": 3,
+    "explanation": "Diğer Nobel ödülleri Stockholm'de verilirken, Nobel Barış Ödülü Oslo'da (Norveç) verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-254-k7g0",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk yazarlardan Orhan Pamuk hangi dalda Nobel Ödülü almıştır?",
+    "options": [
+      "Barış",
+      "Kimya",
+      "Ekonomi",
+      "Fizik",
+      "Edebiyat"
+    ],
+    "answer_index": 4,
+    "explanation": "Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'ne layık görülmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-255-0sid",
+    "topic_id": "topic-guncel",
+    "prompt": "G20'nin ilk kez lider düzeyinde toplandığı yıl hangisidir?",
+    "options": [
+      "2008",
+      "2005",
+      "1999",
+      "2012",
+      "2015"
+    ],
+    "answer_index": 0,
+    "explanation": "G20, 2008 küresel finans krizinin ardından ilk kez lider düzeyinde toplanmıştır; öncesinde maliye bakanları düzeyindeydi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-256-f08u",
+    "topic_id": "topic-guncel",
+    "prompt": "WEF'in kurucusu kimdir?",
+    "options": [
+      "Kristalina Georgieva",
+      "Klaus Schwab",
+      "Christine Lagarde",
+      "Angela Merkel",
+      "George Soros"
+    ],
+    "answer_index": 1,
+    "explanation": "Alman ekonomist Klaus Schwab, Dünya Ekonomik Forumu'nun kurucusudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-257-gtv9",
+    "topic_id": "topic-guncel",
+    "prompt": "G7 ülkeleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kanada",
+      "Japonya",
+      "Rusya",
+      "İtalya",
+      "Fransa"
+    ],
+    "answer_index": 2,
+    "explanation": "Rusya, 2014'te Kırım'ın ilhakı sonrası gruptan çıkarılmış (önceki adı G8 idi) ve o zamandan beri G7 üyesi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-258-9exe",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin 2026 itibarıyla gözlemci veya ortak statüsünde yer aldığı gruplardan biri hangisidir?",
+    "options": [
+      "G7 (tam üye)",
+      "AB (tam üye)",
+      "NATO (aday üye)",
+      "Şanghay İşbirliği Örgütü (diyalog ortağı)",
+      "ASEAN (tam üye)"
+    ],
+    "answer_index": 3,
+    "explanation": "Türkiye, Şanghay İşbirliği Örgütü'nde diyalog ortağı statüsündedir. BRICS'in resmî partner ülkeleri listesinde Türkiye yer almamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-259-tb4q",
+    "topic_id": "topic-guncel",
+    "prompt": "2023 Türkiye depremlerinin ardından BM sistemi içinde uluslararası insani yardım koordinasyonunda öne çıkan ofis hangisidir?",
+    "options": [
+      "ITU",
+      "ICAO",
+      "IMO",
+      "ISO",
+      "OCHA"
+    ],
+    "answer_index": 4,
+    "explanation": "BM İnsani İşler Koordinasyon Ofisi (OCHA), büyük insani krizlerde uluslararası yardım aktörlerinin koordinasyonunu destekler ve 2023 Türkiye-Suriye depremleri sonrasında bu rolde yer almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-26-6fss",
+    "topic_id": "topic-guncel",
+    "prompt": "Polonya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Yeni Delhi",
+      "Varşova",
+      "Zagreb",
+      "Saraybosna",
+      "Bratislava"
+    ],
+    "answer_index": 1,
+    "explanation": "Polonya devletinin başkenti Varşova şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-260-iimc",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin Karadeniz Ekonomik İşbirliği Örgütü'ndeki (KEİ) konumu nedir?",
+    "options": [
+      "Kurucu üye",
+      "Gözlemci",
+      "Aday üye",
+      "Hiç üye değil",
+      "Askıya alınmış üye"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye, 1992'de kurulan Karadeniz Ekonomik İşbirliği Örgütü'nün (KEİ) kurucu üyelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-261-slem",
+    "topic_id": "topic-guncel",
+    "prompt": "KEİ'nin (Karadeniz Ekonomik İşbirliği Örgütü) merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "Bükreş",
+      "Odesa",
+      "Soçi"
+    ],
+    "answer_index": 1,
+    "explanation": "KEİ'nin genel sekreterya merkezi İstanbul'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-262-e8al",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin 2026 itibarıyla İİT, NATO, AGİT, Avrupa Konseyi gibi çoklu üyelikleri onun dış politikasında hangi kavramla ifade edilir?",
+    "options": [
+      "Sadece Batı yönelimi",
+      "Tek taraflı izolasyonizm",
+      "Çok yönlü/çok boyutlu dış politika",
+      "Sadece Doğu yönelimi",
+      "Tarafsızlık politikası"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye'nin birçok uluslararası ve bölgesel örgüte üyeliği, literatürde çok yönlü/çok boyutlu dış politika olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-263-dr1h",
+    "topic_id": "topic-guncel",
+    "prompt": "Katar devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Tahran",
+      "Tokyo",
+      "Kuveyt",
+      "Doha",
+      "Ottawa"
+    ],
+    "answer_index": 3,
+    "explanation": "Katar devletinin başkenti Doha şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-264-wush",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin 2026 itibarıyla Avrupa Konseyi'ndeki üyelik statüsü nedir?",
+    "options": [
+      "Aday üyedir",
+      "Üye değildir",
+      "Askıya alınmıştır",
+      "Sadece gözlemcidir",
+      "Kurucu üyedir"
+    ],
+    "answer_index": 4,
+    "explanation": "Türkiye, Avrupa Konseyi'nin 1949'daki ilk genişlemesinde katılan kurucu üyelerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-265-bkfn",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin Şanghay İşbirliği Örgütü ile ilişkisi hangi statüde sürmektedir?",
+    "options": [
+      "Diyalog ortağı",
+      "Tam üye",
+      "Kurucu üye",
+      "Hiç ilişkisi yok",
+      "Askıya alınmış üye"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye, Şanghay İşbirliği Örgütü'nde diyalog ortağı statüsündedir ve tam üyelik ilgisini zaman zaman dile getirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-266-6r48",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Bankası'nın yatırım anlaşmazlıklarını çözen tahkim kurumu hangisidir?",
+    "options": [
+      "IFC",
+      "ICSID",
+      "MIGA",
+      "IDA",
+      "IBRD"
+    ],
+    "answer_index": 1,
+    "explanation": "ICSID (Yatırım Uyuşmazlıklarının Çözümü için Uluslararası Merkez), Dünya Bankası Grubu'na bağlı bir tahkim kurumudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-267-hnhg",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Af Örgütü'nün merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Cenevre",
+      "Londra",
+      "Paris",
+      "Brüksel"
+    ],
+    "answer_index": 2,
+    "explanation": "Uluslararası Af Örgütü'nün genel merkezi Londra'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-268-rs9o",
+    "topic_id": "topic-guncel",
+    "prompt": "Sınır Tanımayan Doktorlar (MSF) hangi yıl kurulmuştur?",
+    "options": [
+      "1959",
+      "1995",
+      "1985",
+      "1971",
+      "2001"
+    ],
+    "answer_index": 3,
+    "explanation": "MSF, 1971 yılında Fransa'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-269-3kgg",
+    "topic_id": "topic-guncel",
+    "prompt": "MSF hangi yıl Nobel Barış Ödülü'nü almıştır?",
+    "options": [
+      "1988",
+      "2015",
+      "2005",
+      "2010",
+      "1999"
+    ],
+    "answer_index": 4,
+    "explanation": "Sınır Tanımayan Doktorlar, 1999 yılında Nobel Barış Ödülü'ne layık görülmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-27-3zmk",
+    "topic_id": "topic-guncel",
+    "prompt": "Çekya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Singapur",
+      "Berlin",
+      "Prag",
+      "Bükreş",
+      "Madrid"
+    ],
+    "answer_index": 2,
+    "explanation": "Çekya devletinin başkenti Prag şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-270-096n",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Kriz Grubu (International Crisis Group) hangi alanda çalışan bir kuruluştur?",
+    "options": [
+      "Çatışma önleme ve analiz",
+      "Ticaret politikaları",
+      "Sağlık standartları",
+      "Fikri mülkiyet",
+      "Uzay hukuku"
+    ],
+    "answer_index": 0,
+    "explanation": "International Crisis Group, dünya genelinde çatışmaları önlemeye yönelik analiz ve politika önerileri sunan bağımsız bir örgüttür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-271-3zmd",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya Doğayı Koruma Vakfı'nın (WWF) temel çalışma alanı nedir?",
+    "options": [
+      "Uluslararası ticaret",
+      "Doğa ve biyoçeşitlilik koruma",
+      "Askerî güvenlik",
+      "Sağlık politikaları",
+      "Fikri mülkiyet"
+    ],
+    "answer_index": 1,
+    "explanation": "WWF, dünya genelinde doğa koruma ve biyolojik çeşitliliğin sürdürülebilirliği için çalışan bir örgüttür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-272-hh8o",
+    "topic_id": "topic-guncel",
+    "prompt": "Greenpeace hangi tür bir örgüttür?",
+    "options": [
+      "BM uzmanlık kuruluşu",
+      "Hükümetlerarası kuruluş",
+      "Bağımsız çevre STK'sı",
+      "Askerî ittifak",
+      "Ticaret bloğu"
+    ],
+    "answer_index": 2,
+    "explanation": "Greenpeace, çevre koruma ve iklim aktivizmi alanında faaliyet gösteren bağımsız, hükümetlerden bağımsız bir örgüttür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-273-x8qm",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Şeffaflık Örgütü'nün yayınladığı ve ülkeleri yolsuzluk algısına göre sıraladığı endeks hangisidir?",
+    "options": [
+      "Demokrasi Endeksi",
+      "İnsani Gelişme Endeksi",
+      "Küresel Rekabet Endeksi",
+      "Yolsuzluk Algı Endeksi (CPI)",
+      "Mutluluk Endeksi"
+    ],
+    "answer_index": 3,
+    "explanation": "Yolsuzluk Algı Endeksi (Corruption Perceptions Index), Transparency International tarafından her yıl yayınlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-274-lbgo",
+    "topic_id": "topic-guncel",
+    "prompt": "Kuveyt devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Manila",
+      "Tunus",
+      "Abuja",
+      "Pekin",
+      "Kuveyt"
+    ],
+    "answer_index": 4,
+    "explanation": "Kuveyt devletinin başkenti Kuveyt şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-275-bpgm",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Sürdürülebilir Kalkınma Amaçları (SDG) toplam kaç amaçtan oluşur?",
+    "options": [
+      "17",
+      "12",
+      "15",
+      "10",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "BM'nin 2030 Gündemi, 17 Sürdürülebilir Kalkınma Amacı (SDG) içerir. Bu amaçların altında ayrıca çok sayıda alt hedef bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-276-m975",
+    "topic_id": "topic-guncel",
+    "prompt": "SDG'lerin (Sürdürülebilir Kalkınma Amaçları) hedeflenen tamamlanma yılı nedir?",
+    "options": [
+      "2025",
+      "2030",
+      "2035",
+      "2040",
+      "2050"
+    ],
+    "answer_index": 1,
+    "explanation": "BM Sürdürülebilir Kalkınma Amaçları'nın 2030 yılına kadar gerçekleştirilmesi hedeflenmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-277-qmyv",
+    "topic_id": "topic-guncel",
+    "prompt": "Almanya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Meksiko",
+      "Singapur",
+      "Berlin",
+      "Belgrad",
+      "Aşkabat"
+    ],
+    "answer_index": 2,
+    "explanation": "Almanya devletinin başkenti Berlin şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-278-vmfb",
+    "topic_id": "topic-guncel",
+    "prompt": "Fransa devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Taşkent",
+      "Abuja",
+      "Rabat",
+      "Paris",
+      "Bişkek"
+    ],
+    "answer_index": 3,
+    "explanation": "Fransa devletinin başkenti Paris şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-279-b5sw",
+    "topic_id": "topic-guncel",
+    "prompt": "İtalya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Minsk",
+      "Abu Dabi",
+      "Dodoma",
+      "Abuja",
+      "Roma"
+    ],
+    "answer_index": 4,
+    "explanation": "İtalya devletinin başkenti Roma şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-28-ngo6",
+    "topic_id": "topic-guncel",
+    "prompt": "Macaristan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Manila",
+      "Aşkabat",
+      "Riyad",
+      "Budapeşte",
+      "Brüksel"
+    ],
+    "answer_index": 3,
+    "explanation": "Macaristan devletinin başkenti Budapeşte şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-280-bmv4",
+    "topic_id": "topic-guncel",
+    "prompt": "İspanya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Madrid",
+      "Havana",
+      "Kopenhag",
+      "Varşova",
+      "Bağdat"
+    ],
+    "answer_index": 0,
+    "explanation": "İspanya devletinin başkenti Madrid şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-281-n7qe",
+    "topic_id": "topic-guncel",
+    "prompt": "Japonya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Tiran",
+      "Tokyo",
+      "Varşova",
+      "Aşkabat",
+      "Bişkek"
+    ],
+    "answer_index": 1,
+    "explanation": "Japonya devletinin başkenti Tokyo şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-282-d0s4",
+    "topic_id": "topic-guncel",
+    "prompt": "Çin devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Dodoma",
+      "Aşkabat",
+      "Pekin",
+      "Bangkok",
+      "Singapur"
+    ],
+    "answer_index": 2,
+    "explanation": "Çin devletinin başkenti Pekin şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-283-1ia0",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Kore devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bogota",
+      "Madrid",
+      "Minsk",
+      "Seul",
+      "Bağdat"
+    ],
+    "answer_index": 3,
+    "explanation": "Güney Kore devletinin başkenti Seul şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-284-kboo",
+    "topic_id": "topic-guncel",
+    "prompt": "Hindistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Wellington",
+      "Singapur",
+      "Cakarta",
+      "Tunus",
+      "Yeni Delhi"
+    ],
+    "answer_index": 4,
+    "explanation": "Hindistan devletinin başkenti Yeni Delhi şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-285-x57u",
+    "topic_id": "topic-guncel",
+    "prompt": "Brezilya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Brazilya",
+      "Belgrad",
+      "Mogadişu",
+      "Beyrut",
+      "Taşkent"
+    ],
+    "answer_index": 0,
+    "explanation": "Brezilya devletinin başkenti Brazilya şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-286-qn9w",
+    "topic_id": "topic-guncel",
+    "prompt": "Arjantin devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Wellington",
+      "Buenos Aires",
+      "Belgrad",
+      "Tokyo",
+      "Pekin"
+    ],
+    "answer_index": 1,
+    "explanation": "Arjantin devletinin başkenti Buenos Aires şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-287-7geo",
+    "topic_id": "topic-guncel",
+    "prompt": "Meksika devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Budapeşte",
+      "Berlin",
+      "Meksiko",
+      "Priştine",
+      "Kiev"
+    ],
+    "answer_index": 2,
+    "explanation": "Meksika devletinin başkenti Meksiko şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-288-oxs1",
+    "topic_id": "topic-guncel",
+    "prompt": "Kanada devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Belgrad",
+      "Prag",
+      "Meksiko",
+      "Ottawa",
+      "Budapeşte"
+    ],
+    "answer_index": 3,
+    "explanation": "Kanada devletinin başkenti Ottawa şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-289-k4mk",
+    "topic_id": "topic-guncel",
+    "prompt": "Avustralya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Hanoi",
+      "Meksiko",
+      "Astana",
+      "Paris",
+      "Kanberra"
+    ],
+    "answer_index": 4,
+    "explanation": "Avustralya devletinin başkenti Kanberra şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-29-o6tc",
+    "topic_id": "topic-guncel",
+    "prompt": "Romanya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Erivan",
+      "Kiev",
+      "Aşkabat",
+      "Trablus",
+      "Bükreş"
+    ],
+    "answer_index": 4,
+    "explanation": "Romanya devletinin başkenti Bükreş şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-290-i2kf",
+    "topic_id": "topic-guncel",
+    "prompt": "Mısır devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kahire",
+      "Ankara",
+      "Kopenhag",
+      "Bogota",
+      "Minsk"
+    ],
+    "answer_index": 0,
+    "explanation": "Mısır devletinin başkenti Kahire şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-291-1i0c",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Afrika'nın idari/yürütme başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Rabat",
+      "Pretoria",
+      "Amsterdam",
+      "Prag",
+      "Bern"
+    ],
+    "answer_index": 1,
+    "explanation": "Güney Afrika'nın üç başkenti vardır: Pretoria idari/yürütme, Cape Town yasama, Bloemfontein ise yargı başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-292-ieeg",
+    "topic_id": "topic-guncel",
+    "prompt": "Nijerya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bratislava",
+      "Ottawa",
+      "Abuja",
+      "Pretoria",
+      "Brazilya"
+    ],
+    "answer_index": 2,
+    "explanation": "Nijerya devletinin başkenti Abuja şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-293-79qh",
+    "topic_id": "topic-guncel",
+    "prompt": "İngiltere devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Erivan",
+      "Cezayir",
+      "Zagreb",
+      "Londra",
+      "Yeni Delhi"
+    ],
+    "answer_index": 3,
+    "explanation": "İngiltere devletinin başkenti Londra şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-294-puuc",
+    "topic_id": "topic-guncel",
+    "prompt": "Rusya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Erivan",
+      "Belgrad",
+      "Cezayir",
+      "Kabil",
+      "Moskova"
+    ],
+    "answer_index": 4,
+    "explanation": "Rusya devletinin başkenti Moskova şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-295-46ol",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Ankara",
+      "Kiev",
+      "Pekin",
+      "Londra",
+      "Viyana"
+    ],
+    "answer_index": 0,
+    "explanation": "Türkiye devletinin başkenti Ankara şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-296-rm84",
+    "topic_id": "topic-guncel",
+    "prompt": "Yunanistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kudüs/Tel Aviv",
+      "Atina",
+      "Lübliyana",
+      "Sofya",
+      "Mogadişu"
+    ],
+    "answer_index": 1,
+    "explanation": "Yunanistan devletinin başkenti Atina şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-297-1qpf",
+    "topic_id": "topic-guncel",
+    "prompt": "İsveç devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kiev",
+      "Abuja",
+      "Stokholm",
+      "Kuala Lumpur",
+      "Amman"
+    ],
+    "answer_index": 2,
+    "explanation": "İsveç devletinin başkenti Stokholm şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-298-h4iq",
+    "topic_id": "topic-guncel",
+    "prompt": "Norveç devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Hartum",
+      "Bern",
+      "Seul",
+      "Oslo",
+      "Cakarta"
+    ],
+    "answer_index": 3,
+    "explanation": "Norveç devletinin başkenti Oslo şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-299-s3jq",
+    "topic_id": "topic-guncel",
+    "prompt": "Finlandiya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bükreş",
+      "Şam",
+      "Zagreb",
+      "Seul",
+      "Helsinki"
+    ],
+    "answer_index": 4,
+    "explanation": "Finlandiya devletinin başkenti Helsinki şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-3-r3kf",
+    "topic_id": "topic-guncel",
+    "prompt": "Tunus devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Podgoritsa",
+      "Amman",
+      "Abu Dabi",
+      "Tunus",
+      "Minsk"
+    ],
+    "answer_index": 3,
+    "explanation": "Tunus devletinin başkenti Tunus şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-30-gt0b",
+    "topic_id": "topic-guncel",
+    "prompt": "Bulgaristan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Sofya",
+      "Riyad",
+      "Tunus",
+      "Astana",
+      "Wellington"
+    ],
+    "answer_index": 0,
+    "explanation": "Bulgaristan devletinin başkenti Sofya şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-300-rvjs",
+    "topic_id": "topic-guncel",
+    "prompt": "Danimarka devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kopenhag",
+      "Londra",
+      "Mogadişu",
+      "Tahran",
+      "Dodoma"
+    ],
+    "answer_index": 0,
+    "explanation": "Danimarka devletinin başkenti Kopenhag şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-301-afha",
+    "topic_id": "topic-guncel",
+    "prompt": "Sudan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bratislava",
+      "Hartum",
+      "Taşkent",
+      "Kuala Lumpur",
+      "Lübliyana"
+    ],
+    "answer_index": 1,
+    "explanation": "Sudan devletinin başkenti Hartum şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-302-0neu",
+    "topic_id": "topic-guncel",
+    "prompt": "Etiyopya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kabil",
+      "Lima",
+      "Addis Ababa",
+      "Kahire",
+      "Amman"
+    ],
+    "answer_index": 2,
+    "explanation": "Etiyopya devletinin başkenti Addis Ababa şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-303-bbya",
+    "topic_id": "topic-guncel",
+    "prompt": "Somali devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Karakas",
+      "Doha",
+      "Brüksel",
+      "Mogadişu",
+      "Kopenhag"
+    ],
+    "answer_index": 3,
+    "explanation": "Somali devletinin başkenti Mogadişu şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-304-ivol",
+    "topic_id": "topic-guncel",
+    "prompt": "Kenya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bişkek",
+      "Tahran",
+      "Saraybosna",
+      "Kuveyt",
+      "Nairobi"
+    ],
+    "answer_index": 4,
+    "explanation": "Kenya devletinin başkenti Nairobi şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-305-ni3z",
+    "topic_id": "topic-guncel",
+    "prompt": "Tanzanya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Dodoma",
+      "Londra",
+      "Rabat",
+      "Brazilya",
+      "İslamabad"
+    ],
+    "answer_index": 0,
+    "explanation": "Tanzanya devletinin başkenti Dodoma şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-306-vbsf",
+    "topic_id": "topic-guncel",
+    "prompt": "Endonezya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Ottawa",
+      "Cakarta",
+      "Pekin",
+      "Seul",
+      "Belgrad"
+    ],
+    "answer_index": 1,
+    "explanation": "Endonezya devletinin başkenti Cakarta şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-307-m6fn",
+    "topic_id": "topic-guncel",
+    "prompt": "Malezya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bükreş",
+      "Cezayir",
+      "Kuala Lumpur",
+      "Hartum",
+      "Tokyo"
+    ],
+    "answer_index": 2,
+    "explanation": "Malezya devletinin başkenti Kuala Lumpur şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-308-w162",
+    "topic_id": "topic-guncel",
+    "prompt": "Tayland devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bağdat",
+      "Yeni Delhi",
+      "Bükreş",
+      "Bangkok",
+      "Dakka"
+    ],
+    "answer_index": 3,
+    "explanation": "Tayland devletinin başkenti Bangkok şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-309-bt4h",
+    "topic_id": "topic-guncel",
+    "prompt": "Vietnam devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Wellington",
+      "Nairobi",
+      "Bükreş",
+      "Abuja",
+      "Hanoi"
+    ],
+    "answer_index": 4,
+    "explanation": "Vietnam devletinin başkenti Hanoi şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-31-5kgk",
+    "topic_id": "topic-guncel",
+    "prompt": "Sırbistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Addis Ababa",
+      "Belgrad",
+      "Hanoi",
+      "Tunus",
+      "Rabat"
+    ],
+    "answer_index": 1,
+    "explanation": "Sırbistan devletinin başkenti Belgrad şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-310-ks4c",
+    "topic_id": "topic-guncel",
+    "prompt": "Filipinler devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Manila",
+      "Lima",
+      "Hartum",
+      "Bişkek",
+      "Şam"
+    ],
+    "answer_index": 0,
+    "explanation": "Filipinler devletinin başkenti Manila şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-311-tllh",
+    "topic_id": "topic-guncel",
+    "prompt": "Singapur devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Tiran",
+      "Singapur",
+      "Sofya",
+      "Kiev",
+      "Hartum"
+    ],
+    "answer_index": 1,
+    "explanation": "Singapur devletinin başkenti Singapur şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-312-h5r1",
+    "topic_id": "topic-guncel",
+    "prompt": "Pakistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Buenos Aires",
+      "Astana",
+      "İslamabad",
+      "Bakü",
+      "Kabil"
+    ],
+    "answer_index": 2,
+    "explanation": "Pakistan devletinin başkenti İslamabad şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-313-ox4e",
+    "topic_id": "topic-guncel",
+    "prompt": "Afganistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Santiago",
+      "Manila",
+      "Erivan",
+      "Kabil",
+      "Doha"
+    ],
+    "answer_index": 3,
+    "explanation": "Afganistan devletinin başkenti Kabil şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-314-q7cm",
+    "topic_id": "topic-guncel",
+    "prompt": "Bangladeş devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Belgrad",
+      "Santiago",
+      "Kahire",
+      "Havana",
+      "Dakka"
+    ],
+    "answer_index": 4,
+    "explanation": "Bangladeş devletinin başkenti Dakka şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-315-77ej",
+    "topic_id": "topic-guncel",
+    "prompt": "Sri Lanka devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Sri Jayawardenepura Kotte",
+      "Dakka",
+      "Üsküp",
+      "Kabil",
+      "Tahran"
+    ],
+    "answer_index": 0,
+    "explanation": "Sri Lanka'nın idari başkenti Sri Jayawardenepura Kotte'dir; Colombo ülkenin en büyük ve ticari başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-316-g12y",
+    "topic_id": "topic-guncel",
+    "prompt": "Yeni Zelanda devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Madrid",
+      "Wellington",
+      "Helsinki",
+      "Kudüs/Tel Aviv",
+      "Kabil"
+    ],
+    "answer_index": 1,
+    "explanation": "Yeni Zelanda devletinin başkenti Wellington şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  }
+]

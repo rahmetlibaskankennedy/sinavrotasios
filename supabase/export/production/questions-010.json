@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-101-r2r4",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gizlilik dereceli veya açıklanması yasak bilgiler ile açıklanabilir bilgiler aynı belgede bulunuyor ve birbirinden ayrılabiliyorsa, ayırma gerekçesi başvurana nasıl bildirilir?",
+    "options": [
+      "Sözlü olarak",
+      "Yalnız telefonla",
+      "Yazılı olarak",
+      "Yalnız kurum panosunda ilanla",
+      "Bildirilmesine gerek olmaksızın"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 9. Gizli veya açıklanması yasak bilgiler ayrıldıktan sonra belge başvurana sunulur ve ayırma gerekçesi yazılı olarak bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-102-mauy",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Aşağıdakilerden hangisi Bilgi Edinme Değerlendirme Kurulu ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "Kurul üyelerinin görev süreleri dört yıldır. Görev süresi sona erenler yeniden seçilemezler.",
+      "Kurulun görev ve çalışmalarına ilişkin esas ve usuller Cumhurbaşkanlığınca hazırlanarak yürürlüğe konulacak bir yönetmelikle düzenlenir.",
+      "Kurulun sekretarya hizmetleri Adalet Bakanlığı tarafından yerine getirilir.",
+      "Kurul, belirleyeceği konularda komisyonlar ve çalışma grupları kurabilir; ayrıca gerekli gördüğü takdirde, ilgili bakanlık ile diğer kurum ve kuruluşların ve sivil toplum örgütlerinin temsilcilerini bilgi almak üzere toplantılarına katılmaya davet edebilir.",
+      "Kurul üyeliğine önerilen adayların muvafakatları aranır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. Kurul üyelerinin görev süresi dört yıldır ve görev süresi sona erenler yeniden seçilebilir. Bu nedenle A seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-103-rdez",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Tüzel kişi tarafından yapılan bilgi edinme başvurusunda aşağıdakilerden hangisinin dilekçede bulunması gerekir?",
+    "options": [
+      "Tüzel kişinin unvanı ve adresi ile yetkili kişinin imzası ve yetki belgesi",
+      "Tüzel kişinin son üç yıllık bilançosu",
+      "Tüzel kişinin vergi borcu bulunmadığına ilişkin belge",
+      "Tüzel kişinin ortaklarının tamamının nüfus bilgileri",
+      "Tüzel kişinin faaliyet raporunun onaylı örneği"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 6. Tüzel kişi başvurularında tüzel kişinin unvanı ve adresi ile yetkili kişinin imzası ve yetki belgesi aranır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-104-6p9u",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Kanun’a göre Kurul üyeliğine önerilen adayların ______ aranır.",
+    "options": [
+      "Mal bildirimleri",
+      "Muvafakatları",
+      "Siyasi parti üyelikleri",
+      "Kefaletleri",
+      "Sicil amirlerinin görüşleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. Kurul üyeliğine önerilen adayların muvafakatları aranır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-105-6g0x",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "İstenen bilgi veya belge başvurulan kurum veya kuruluştan başka bir yerde bulunuyorsa ne yapılır?",
+    "options": [
+      "Başvuru işlemden kaldırılır.",
+      "Başvuru doğrudan Kurula gönderilir.",
+      "Başvuru dilekçesi ilgili kurum veya kuruluşa gönderilir ve durum başvurana yazılı olarak bildirilir.",
+      "Başvuru sahibinden yeni bir ücret alınarak aynı kurumda inceleme yapılır.",
+      "Başvuru hiçbir bildirim yapılmadan reddedilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 7. İstenen bilgi veya belge başka bir yerde bulunuyorsa başvuru dilekçesi ilgili kurum veya kuruluşa gönderilir ve durum ilgiliye yazılı olarak bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-106-o2a0",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum ve kuruluşlar, Bilgi Edinme Değerlendirme Kurulunun istediği her türlü bilgi veya belgeyi kaç iş günü içinde vermekle yükümlüdür?",
+    "options": [
+      "Üç iş günü",
+      "Beş iş günü",
+      "Yedi iş günü",
+      "On iş günü",
+      "On beş iş günü"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 13. Kurum ve kuruluşlar, Kurulun istediği her türlü bilgi veya belgeyi on beş iş günü içinde vermekle yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-107-s56n",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Kanun’a göre bilgi edinme başvurusu kural olarak hangi bilgi veya belgelere ilişkin olmalıdır?",
+    "options": [
+      "Başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya belgelere",
+      "Başvuru üzerine ayrıca oluşturulacak her türlü yeni analiz ve araştırmaya",
+      "Tavsiye ve mütalaa taleplerine",
+      "Devlet sırrı niteliğindeki gizlilik dereceli bilgi veya belgelere",
+      "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgelere"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 7. Başvuru, başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya belgelere ilişkin olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-108-gmm6",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre aşağıdakilerden hangisi Bilgi Edinme Değerlendirme Kurulu üyeliği için Kanunda öngörülen kaynaklardan biri değildir?",
+    "options": [
+      "Baro başkanı seçilme yeterliliğine sahip kişiler arasından Türkiye Barolar Birliğinin göstereceği aday",
+      "Danıştay Genel Kurulunun kendi kurumu içinden önereceği aday",
+      "Ceza hukuku alanında profesör veya doçent unvanına sahip kişi",
+      "Anayasa Mahkemesi üyesi",
+      "Anayasa hukuku alanında profesör veya doçent unvanına sahip kişi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. Kurulun üye kaynakları arasında Yargıtay ve Danıştay genel kurullarınca önerilecek adaylar, belirli hukuk alanlarında profesör veya doçent unvanına sahip kişiler, Türkiye Barolar Birliğince gösterilecek adaylar, en az genel müdür düzeyinde görev yapanlar ve Adalet Bakanının önerisi üzerine Bakanlıkta idarî görevlerde çalışan hâkimler yer alır. Anayasa Mahkemesi üyeliği için ayrı bir kontenjan öngörülmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-109-2bgz",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu gerekli gördüğü takdirde aşağıdakilerden hangilerini bilgi almak üzere toplantılarına katılmaya davet edebilir?",
+    "options": [
+      "Yalnız yargı mensuplarını",
+      "Yalnız başvuru sahiplerini",
+      "İlgili bakanlık ile diğer kurum ve kuruluşların ve sivil toplum örgütlerinin temsilcilerini",
+      "Yalnız siyasi parti temsilcilerini",
+      "Yalnız yabancı ülke temsilcilerini"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. Kurul gerekli gördüğü takdirde ilgili bakanlık ile diğer kurum ve kuruluşların ve sivil toplum örgütlerinin temsilcilerini bilgi almak üzere toplantılarına katılmaya davet edebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-110-9c7y",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre kurum ve kuruluşlar, yapılan başvurulara hangi hâlde olumsuz cevap verebilirler?",
+    "options": [
+      "Yargı denetimi dışında kalan idarî işlemlerden kişinin çalışma hayatını ve meslekî onurunu etkileyecek nitelikte olanlar",
+      "Kurum içi görüş, bilgi notu ve tavsiyelerin istenmesi hâlinde",
+      "Bilgi veya belgeye erişimin masraflı olması hâlinde",
+      "Bilgi veya belgenin başka bir yerde bulunması hâlinde",
+      "Bilgi veya belgenin oluşturulmasında ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz gerektirmesi hâlinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 7. Ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz sonucunda oluşturulabilecek türden bir bilgi veya belge için yapılan başvurulara kurum ve kuruluşlar olumsuz cevap verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-111-2nty",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre aşağıdakilerden hangisinin söz konusu olması hâlinde bilgi edinme başvurusu reddedilebilir?",
+    "options": [
+      "Bilgi edinmeye konu olan bilginin nerede ve ne amaçla kullanılacağı belirtilmemişse",
+      "Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi ve belgelere ilişkinse",
+      "İstenen bilgi veya belge başvurulan kurum veya kuruluştan başka bir yerde bulunuyorsa",
+      "İstenen bilgi veya belgenin oluşturulması ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz gerektiriyorsa",
+      "Bilgi edinme başvurusu, tüzel kişilerce gerçekleştiriliyorsa"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 7. Ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz sonucunda oluşturulabilecek türden bir bilgi veya belge için yapılacak başvurulara kurum ve kuruluşlar olumsuz cevap verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-112-n60j",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu, belirleyeceği konularda aşağıdakilerden hangilerini kurabilir?",
+    "options": [
+      "Komisyonlar ve çalışma grupları",
+      "Yalnız yüksek mahkemeler",
+      "Yalnız disiplin kurulları",
+      "Yalnız sürekli denetim birimleri",
+      "Bağımsız yargı mercileri"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. Kurul, belirleyeceği konularda komisyonlar ve çalışma grupları kurabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-86-8dl8",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusunun elektronik ortamda veya diğer iletişim araçlarıyla yapılabilmesi için aşağıdaki koşullardan hangisi aranır?",
+    "options": [
+      "Başvurunun yalnız mesai saatleri içinde gönderilmesi",
+      "Kişinin kimliğinin ve imzasının veya yazının kimden neşet ettiğinin tespitine yarayacak bilgilerin yasal olarak belirlenebilir olması",
+      "Başvurunun noter tarafından onaylanması",
+      "İstenen bilginin daha önce yayımlanmış olması",
+      "Kurul Başkanının önceden izin vermesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 6. Elektronik ortam veya diğer iletişim araçlarıyla başvuru, kişinin kimliği ve imzası veya yazının kimden neşet ettiğinin tespitine yarayacak bilgilerin yasal olarak belirlenebilir olması kaydıyla yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-87-9naa",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusunun reddedilmesi hâlinde kurumun cevabında aşağıdakilerden hangileri belirtilmelidir?",
+    "options": [
+      "Yalnız başvuruyu inceleyen personelin adı",
+      "Yalnız kurumun yıllık başvuru sayısı",
+      "Ret kararının gerekçesi ve bu karara karşı başvuru yolları",
+      "Başvuru sahibinin mesleği ve gelir durumu",
+      "Yalnız Kurulun toplantı tarihi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 12. Başvurunun reddedilmesi hâlinde ret kararının gerekçesi ve bu karara karşı başvuru yolları belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-88-hwet",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre Bilgi Edinme Değerlendirme Kurulu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İhtiyaç duyulduğu her zaman Adalet Bakanının çağrısı üzerine toplanır.",
+      "Görev süresi sona erenler yeniden seçilebilir.",
+      "Kurul, en az ayda bir defa toplanır.",
+      "Yeni seçilen Kurul göreve başlayıncaya kadar önceki Kurul görevine devam eder.",
+      "Kurul üyelerinin görev süresi dört yıldır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. Kurul, en az ayda bir defa veya ihtiyaç duyulduğu her zaman Başkanın çağrısı üzerine toplanır. Bu nedenle A seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-89-np4o",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum veya kuruluşça daha önce yayımlanmış ya da kamuya açıklanmış bir bilgi için başvuru yapılırsa başvurana ne bildirilir?",
+    "options": [
+      "Belgenin yeniden hazırlanacağı tarih",
+      "Başvurunun Kurula gönderildiği tarih",
+      "Bilginin hangi personel tarafından hazırlandığı",
+      "Bilginin ne şekilde, ne zaman ve nerede yayımlandığı veya açıklandığı",
+      "Kurumun yıllık başvuru sayısı"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 8. Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler başvuruya konu olamaz; bunların ne şekilde, ne zaman ve nerede yayımlandığı veya açıklandığı başvurana bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-90-b3b5",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Yeni seçilen Bilgi Edinme Değerlendirme Kurulu göreve başlayıncaya kadar hangi kurul görevine devam eder?",
+    "options": [
+      "Önceki Kurul",
+      "Danıştay Genel Kurulu",
+      "Yargıtay Genel Kurulu",
+      "Adalet Bakanlığı bünyesinde geçici bir kurul",
+      "Türkiye Barolar Birliği yönetimi"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. Yeni seçilen Kurul göreve başlayıncaya kadar önceki Kurul görevine devam eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-91-z2el",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre bilgi veya belgeye erişim konusunda aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İstenen belgenin kopyası verilir.",
+      "İstenen bilgi ve belgenin görülmesine izin verilir.",
+      "Görüntü şeklindeki belgenin izlenmesine izin verilir.",
+      "İstenen bilgi ve belgenin aslı verilebilir.",
+      "İstenilen belgenin kopyası onaylanarak verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 10. Kurum ve kuruluşlar başvuru sahibine onaylı kopya verir; kopya mümkün değilse inceleme, not alma, dinleme veya izleme olanağı sağlar. Belgenin aslının başvuru sahibine teslim edilmesi öngörülmemiştir; bu nedenle D seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-92-luqr",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre Bilgi Edinme Değerlendirme Kurulu üyelerinin bir ayda fiilen görev yaptıkları gün sayısının kaçı aşması hâlinde, aşan günler için huzur hakkı ödenmez?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. Bir ayda fiilen görev yapılan gün sayısının dördü aşması hâlinde, aşan günler için huzur hakkı ödenmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-93-b7ox",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre Bilgi Edinme Değerlendirme Kurulu en az ayda kaç defa toplanır?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1",
+      "6"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. Kurul, en az ayda bir defa veya ihtiyaç duyulduğu her zaman Başkanın çağrısı üzerine toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-94-qecn",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi veya belgeye erişimin otuz iş günü içinde sağlanacağı hâllerde, sürenin uzatılması ve gerekçesi ne zaman bildirilmelidir?",
+    "options": [
+      "Otuz iş günlük sürenin sonunda",
+      "Başvurudan itibaren üç iş günü içinde",
+      "Yalnız başvuru sahibi isterse",
+      "Kurul kararından sonra",
+      "On beş iş günlük sürenin bitiminden önce"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 11. Sürenin uzatılması ve bunun gerekçesi, başvuru sahibine yazılı olarak on beş iş günlük sürenin bitiminden önce bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-95-oyoc",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "I. Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya belgelere ilişkin olmalıdır.\nII. Kurum ve kuruluşlar, ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz neticesinde oluşturulabilecek türden bir bilgi veya belge için yapılacak başvurulara olumsuz cevap verebilirler.\nIII. İstenen bilgi veya belge, başvurulan kurum ve kuruluştan başka bir yerde bulunuyorsa başvuru dilekçesi bu kurum veya kuruluşa gönderilir ve durum ilgiliye yazılı olarak bildirilir.\n\n4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre yukarıdaki ifadelerden hangileri doğrudur?",
+    "options": [
+      "I – II",
+      "I – II – III",
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 7. I, II ve III numaralı ifadelerin tamamı Kanundaki düzenlemeyle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-96-950i",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Erişim için gereken maliyet tutarı başvuru sahibine bildirildikten sonra başvuru sahibi on beş iş günü içinde bu ücreti ödemezse ne olur?",
+    "options": [
+      "Başvuru sahibi talebinden vazgeçmiş sayılır.",
+      "Kurum ücreti kendiliğinden düşürür.",
+      "Erişim süresi otuz iş günü uzar.",
+      "Başvuru otomatik olarak Kurula gider.",
+      "Belge ücretsiz olarak verilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 11. Başvuru sahibi, bildirilen erişim ücretini on beş iş günü içinde ödemezse talebinden vazgeçmiş sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-97-s928",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme istemi reddedilen başvuru sahibinin Bilgi Edinme Değerlendirme Kuruluna yaptığı itiraz aşağıdakilerden hangisini durdurur?",
+    "options": [
+      "Başvuru sahibinin idarî yargıya başvurma süresini",
+      "Bilgi veya belgeye erişim için ücret ödeme süresini",
+      "Kurumun başvuruyu cevaplandırma süresini",
+      "Kurulun karar verme süresini",
+      "Kurumların yıllık rapor hazırlama süresini"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 13. Kurula itiraz, başvuru sahibinin idarî yargıya başvurma süresini durdurur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-98-kup0",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Görev süresi dolmadan görevinden ayrılan bir Bilgi Edinme Değerlendirme Kurulu üyesinin yerine aynı usule göre seçilen üyenin görev süresi nasıl belirlenir?",
+    "options": [
+      "Dört yıllık yeni bir süre başlar.",
+      "Yerine seçildiği üyenin kalan görev süresini tamamlar.",
+      "Bir yıllık geçici görev süresi uygulanır.",
+      "Yeni Kurul seçilinceye kadar görev yapar.",
+      "Görev süresini Cumhurbaşkanı ayrıca belirler."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. Görev süresi dolmadan ayrılan üyenin yerine aynı usule göre seçilen üye, yerine seçildiği üyenin görev süresini tamamlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-99-jl9g",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi veya belgenin niteliği gereği kopyasının verilmesinin mümkün olmadığı veya kopya çıkarılmasının aslına zarar vereceği hâllerde, kurum ve kuruluşlar aşağıdakilerden hangisini sağlamakla yükümlü değildir?",
+    "options": [
+      "Görüntü kaydı şeklindeki bilgi veya belgelerin izlenebilmesini",
+      "Belgeye zarar vermemek koşuluyla mümkün olan başka bir erişim yolunun sağlanmasını",
+      "Yazılı veya basılı belgenin aslının incelenmesini ve not alınabilmesini",
+      "Ses kaydı şeklindeki bilgi veya belgelerin dinlenebilmesini",
+      "Ses ve görüntü kayıtlarının başvuru sahibine ödünç verilmesini"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 10. Kanun, belgenin aslının incelenmesi ve not alınması, ses kayıtlarının dinlenmesi, görüntü kayıtlarının izlenmesi ve mümkünse belgeye zarar vermeyen başka bir erişim yolunun sağlanmasını düzenler; kayıtların ödünç verilmesini öngörmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-0-j3x0",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kanuna göre bilgi edinme hakkının sahibi kimdir?",
+    "options": [
+      "Yalnız vatandaşlar",
+      "Herkes",
+      "Sadece kamu görevlileri",
+      "Yalnız tüzel kişiler",
+      "Sadece ikametgâhı Türkiye’de olanlar"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 4. B seçeneğindeki “Herkes” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-1-1zvg",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de ikamet eden yabancının bilgi edinme hakkından yararlanabilmesi için istediği bilgiyle ilgili aranan koşul hangisidir?",
+    "options": [
+      "Bilginin kendisiyle veya faaliyet alanıyla ilgili olması",
+      "Türk vatandaşı bir kefil göstermesi",
+      "Kamu görevlisi olması",
+      "Başvuru ücretinden muaf olması",
+      "Kurul üyesi olması"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 4. A seçeneğindeki “Bilginin kendisiyle veya faaliyet alanıyla ilgili olması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-10-e0ws",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Aşağıdakilerden hangisi bilgi verme yükümlülüğünün kapsamı dışındadır?",
+    "options": [
+      "Başvurana sunulabilecek bilgi",
+      "Kurumun elindeki açık bilgi",
+      "Başvuruda açıkça istenen belge",
+      "Kapsam içindeki kayıt",
+      "Kanunda öngörülen istisna kapsamındaki bilgi veya belge"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 5. E seçeneğindeki “Kanunda öngörülen istisna kapsamındaki bilgi veya belge” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-11-d5yd",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bir kurum, bilgi edinme başvurularını etkin, süratli ve doğru sonuçlandırmak için gerekli teknik tedbirleri almayı reddetmektedir. Bu tutum Kanunun hangi yükümlülüğüyle çelişir?",
+    "options": [
+      "Gerekli idarî ve teknik tedbirleri alma yükümlülüğüyle",
+      "Ticarî sır istisnasıyla",
+      "Yalnız itiraz süresini durdurma kuralıyla",
+      "Yargı denetimi dışında kalan işlemlere ilişkin hükümle",
+      "Rapor düzenlenmesine ilişkin hükümle"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 5. Kurum ve kuruluşlar, bilgi edinme başvurularını etkin, süratli ve doğru sonuçlandırmak üzere gerekli idarî ve teknik tedbirleri almakla yükümlüdürler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-12-bqfx",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kanunun yürürlüğe girmesinden sonra diğer kanunlarda yer alan 4982 sayılı Kanun’a aykırı hükümler için ne öngörülmüştür?",
+    "options": [
+      "Öncelikle uygulanırlar.",
+      "Yalnız Kurul izniyle uygulanırlar.",
+      "Her durumda yönetmelikle uygulanırlar.",
+      "Sadece yabancılar için uygulanırlar.",
+      "Uygulanmazlar."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 5. E seçeneğindeki “Uygulanmazlar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-13-2lsn",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kurumların bilgi verme yükümlülüğü bakımından aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İstisnalar dışındaki bilgi ve belgeler yararlanmaya sunulur.",
+      "Kurumlar yalnız teknik tedbir alır, idarî tedbir alamaz.",
+      "Başvurular etkin sonuçlandırılmalıdır.",
+      "Başvurular süratli sonuçlandırılmalıdır.",
+      "Başvurular doğru sonuçlandırılmalıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 5. “Kurumlar yalnız teknik tedbir alır, idarî tedbir alamaz.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-14-x6cr",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Yabancı gerçek kişi ile yabancı tüzel kişinin Kanundan yararlanması bakımından ortak koşul hangisidir?",
+    "options": [
+      "Türk vatandaşı olma",
+      "Kamu görevlisi olma",
+      "Kuruldan ön izin alma",
+      "İstenen bilginin kişiyle veya faaliyet alanıyla ilgili olması",
+      "Türkiye’de taşınmaz sahibi olma"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 4. D seçeneğindeki “İstenen bilginin kişiyle veya faaliyet alanıyla ilgili olması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-15-tm1l",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bilgi edinme başvurusunun etkin, süratli ve doğru sonuçlandırılması amacıyla yükümlülük kime aittir?",
+    "options": [
+      "Yalnız başvuru sahibine",
+      "Sadece Kurula",
+      "Kurum ve kuruluşlara",
+      "İdarî yargı mercilerine",
+      "Türkiye Barolar Birliğine"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 5. C seçeneğindeki “Kurum ve kuruluşlara” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-16-oyb4",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de ikamet eden bir yabancı, kendi çalışma alanıyla ilgili bir bilgi istemektedir. Karşılıklılık koşulu da sağlanmıştır. Bu kişi bakımından hangi sonuç doğar?",
+    "options": [
+      "Kanun hükümlerinden yararlanabilir.",
+      "Sadece Türk vatandaşıyla birlikte başvurabilir.",
+      "Hiçbir şekilde başvuramaz.",
+      "Yalnız sözlü başvuru yapabilir.",
+      "Mutlaka yargı yoluna gitmelidir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 4. A seçeneğindeki “Kanun hükümlerinden yararlanabilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-17-eabt",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bilgi verme yükümlülüğüne ilişkin;\nI. İstisnalar dışındaki bilgi ve belgeler yararlanmaya sunulur.\nII. Kurumlar gerekli idarî ve teknik tedbirleri alır.\nIII. Başvuruların doğru sonuçlandırılması amaçlanmaz.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I, II ve III",
+      "II ve III",
+      "I ve II"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 5. E seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-18-btrv",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de faaliyette bulunan yabancı tüzel kişiler, ______ ilkesi çerçevesinde Kanun hükümlerinden yararlanır.",
+    "options": [
+      "Gizlilik",
+      "Yerindelik",
+      "Hiyerarşi",
+      "Karşılıklılık",
+      "Kıdem"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 4. D seçeneğindeki “Karşılıklılık” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-19-6s7g",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Aşağıdakilerden hangisi Kanunda bilgi edinme hakkının kullanılmasına ilişkin doğru bir sonuç değildir?",
+    "options": [
+      "Herkes bilgi edinme hakkına sahiptir.",
+      "Kurumlar başvuruları yalnız uygun gördükleri zaman sonuçlandırır.",
+      "Kurumlar gerekli teknik tedbirleri alır.",
+      "Uluslararası sözleşmelerden doğan haklar saklıdır.",
+      "Kanuna aykırı diğer kanun hükümleri uygulanmaz."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 4-5. “Kurumlar başvuruları yalnız uygun gördükleri zaman sonuçlandırır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-2-j5jf",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de faaliyette bulunan yabancı tüzel kişiler, Kanundan hangi ilke çerçevesinde yararlanır?",
+    "options": [
+      "Hiyerarşi",
+      "Karşılıklılık",
+      "Hukukî güvenlik",
+      "İdarenin takdir yetkisi",
+      "Gizlilik"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 4. B seçeneğindeki “Karşılıklılık” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-20-65vk",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de ikamet eden yabancı gerçek kişilerin 4982 sayılı Kanun’dan yararlanabilmesi için aşağıdaki şartlardan hangileri birlikte aranır?",
+    "options": [
+      "Yalnız Türkiye Cumhuriyeti vatandaşıyla aynı işyerinde çalışma şartı",
+      "Bilginin yalnız kamuya açıklanmış olması",
+      "Başvurunun mutlaka noter aracılığıyla yapılması",
+      "İstenen bilginin kendileriyle ilgili olması ve karşılıklılık ilkesinin bulunması",
+      "Kuruldan önceden izin alınması"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 4. Türkiye’de ikamet eden yabancılar, isteyecekleri bilginin kendileriyle ilgili olması ve karşılıklılık ilkesinin bulunması kaydıyla Kanundan yararlanırlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-21-g5pf",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kurum ve kuruluşlar, bilgi edinme başvurularını etkin, süratli ve doğru sonuçlandırmak üzere ne yapmakla yükümlüdür?",
+    "options": [
+      "Başvuruları yalnız elektronik ortamda kabul etmek",
+      "Her başvuru için yeni bir komisyon kurmak",
+      "Gerekli idarî ve teknik tedbirleri almak",
+      "Bütün belgeleri önceden kamuya açıklamak",
+      "Başvuruları doğrudan Kurula göndermek"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 5. Kurum ve kuruluşlar, başvuruları etkin, süratli ve doğru sonuçlandırmak üzere gerekli idarî ve teknik tedbirleri almakla yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-22-7glv",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "4982 sayılı Kanun yürürlüğe girdikten sonra diğer kanunların bu Kanuna aykırı hükümlerinin durumu nedir?",
+    "options": [
+      "Yalnız Kurul kararıyla uygulanır.",
+      "Beş yıl süreyle uygulanmaya devam eder.",
+      "Uygulanmaz.",
+      "Yalnız kamu kurumu niteliğindeki meslek kuruluşlarında uygulanır.",
+      "Cumhurbaşkanının onayıyla uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 5. Kanun yürürlüğe girdiği tarihten itibaren diğer kanunların bu Kanuna aykırı hükümleri uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-3-0i5d",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Yabancıların Kanundan yararlanmasına ilişkin;\nI. Türkiye’de ikamet eden yabancılar yararlanabilir.\nII. İstenen bilgi yabancının kendisiyle veya faaliyet alanıyla ilgili olmalıdır.\nIII. Karşılıklılık ilkesi aranmaz.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 4. D seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-4-zgcp",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bilgi edinme hakkı bakımından Türkiye’nin taraf olduğu uluslararası sözleşmelerden doğan hak ve yükümlülüklerin durumu nedir?",
+    "options": [
+      "Kanunla tamamen kaldırılmıştır.",
+      "Sadece yabancılar bakımından uygulanır.",
+      "Saklıdır.",
+      "Kurul kararıyla sona erer.",
+      "Yalnız idarî yargıda uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 4. C seçeneğindeki “Saklıdır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-5-yv1p",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Türkiye’de faaliyeti bulunmayan yabancı bir şirket, Türkiye ile ilgisiz genel piyasa bilgisi istemektedir. Kanundan yararlanması bakımından hangi unsur eksiktir?",
+    "options": [
+      "Yazılı başvuru yapma",
+      "İtiraz yoluna başvurma",
+      "Kurumun teknik tedbir alması",
+      "Belgeye erişim maliyetini ödeme",
+      "Türkiye’de faaliyette bulunma ve ilgi koşulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 4. E seçeneğindeki “Türkiye’de faaliyette bulunma ve ilgi koşulu” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-6-26fb",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bilgi edinme hakkına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Herkes bilgi edinme hakkına sahiptir.",
+      "Yabancı tüzel kişiler Kanundan koşulsuz olarak yararlanır.",
+      "Yabancılar için ilgi koşulu aranır.",
+      "Karşılıklılık ilkesi yabancılar bakımından öngörülmüştür.",
+      "Uluslararası sözleşmelerden doğan hak ve yükümlülükler saklıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 4. “Yabancı tüzel kişiler Kanundan koşulsuz olarak yararlanır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-7-qf6u",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kurum ve kuruluşlar, istisnalar dışındaki bilgi veya belgeleri başvuranların ______ sunmakla yükümlüdür.",
+    "options": [
+      "Ticarî kullanımına",
+      "Sonsuza dek gizlemesine",
+      "Yararlanmasına",
+      "Mahkeme izni olmadan yok etmesine",
+      "Yalnız kurum içinde tutmasına"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 5. C seçeneğindeki “Yararlanmasına” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-8-a3e9",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Kurum ve kuruluşlar, bilgi edinme başvurularını hangi niteliklerle sonuçlandırmak için tedbir almakla yükümlüdür?",
+    "options": [
+      "Yalnız elektronik ve ücretsiz",
+      "Gizli, sınırlı ve sözlü",
+      "Yavaş, ayrıntılı ve ücretli",
+      "Etkin, süratli ve doğru",
+      "Sadece yazılı ve gecikmeli"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 5. D seçeneğindeki “Etkin, süratli ve doğru” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa-mtn4nujz-9-e62s",
+    "topic_id": "t-bilgi-edinme-hakki-ve-bilgi-verme-yukuml-rpdaa",
+    "prompt": "Bilgi verme yükümlülüğünün gereği olarak kurum ve kuruluşların alması gereken tedbirler hangisidir?",
+    "options": [
+      "Gerekli idarî ve teknik tedbirler",
+      "Yalnız malî tedbirler",
+      "Sadece yargısal tedbirler",
+      "Yalnız güvenlik soruşturması",
+      "Sadece disiplin tedbirleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 5. A seçeneğindeki “Gerekli idarî ve teknik tedbirler” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:32.087410+00:00",
+    "updated_at": "2026-09-04T15:47:32.087410+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-0-0ss4",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yargı denetimi dışında kalan idarî işlemlerden hangileri bilgi edinme hakkı kapsamına dahildir?",
+    "options": [
+      "Hiçbiri",
+      "Yalnız malî yaptırım içerenler",
+      "Kişinin çalışma hayatını ve meslekî onurunu etkileyecek nitelikte olanlar",
+      "Sadece yargı denetimine açık olanlar",
+      "Yalnız kurum içi yazışmalar"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 15. C seçeneğindeki “Kişinin çalışma hayatını ve meslekî onurunu etkileyecek nitelikte olanlar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-1-3c31",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yargı denetimi dışında kalan idarî işlemler hakkında bilgi edinme hakkına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Çalışma hayatını etkileyen işlemler kapsamda olabilir.",
+      "Bilgi edinme hakkı işlemin yargı denetimine açılması sonucunu doğurmaz.",
+      "Meslekî onuru etkileyen işlemler kapsamda olabilir.",
+      "Bilgi edinme hakkının kullanılması işlemi yargı denetimine açar.",
+      "Kapsama girme için işlemin niteliği önem taşır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 15. “Bilgi edinme hakkının kullanılması işlemi yargı denetimine açar.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-10-ie6y",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler için temel kural nedir?",
+    "options": [
+      "Her durumda açıklanır.",
+      "Yalnız Kurul izniyle yayımlanır.",
+      "Yalnız gecikmeli açıklanır.",
+      "Sadece ticarî sır sayılır.",
+      "Bilgi edinme hakkı kapsamı dışındadır."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 18. E seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-11-y7sn",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İstihbarat birimine ait bir bilgi, kişinin çalışma hayatını ve meslekî onurunu etkilemektedir. Bu bilgi için hangi özel kural uygulanır?",
+    "options": [
+      "Her durumda kapsam dışıdır.",
+      "Bilgi edinme hakkı kapsamı içinde değerlendirilir.",
+      "Yalnız noter aracılığıyla verilir.",
+      "Yalnız kurum içi personele açıklanır.",
+      "Ticarî sır sayılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 18. B seçeneğindeki “Bilgi edinme hakkı kapsamı içinde değerlendirilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-12-r1co",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İstihbarata ilişkin bilgi ve belgeler bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kişinin çalışma hayatını etkileyen istihbarat bilgileri hiçbir durumda kapsam içine girmez.",
+      "Askerî istihbarat birimleri de hüküm kapsamındadır.",
+      "Meslekî onuru etkileyen bilgi için istisna öngörülmüştür.",
+      "Sivil istihbarat birimleri de hüküm kapsamındadır.",
+      "Temel kural kapsam dışı olmalarıdır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 18. “Kişinin çalışma hayatını etkileyen istihbarat bilgileri hiçbir durumda kapsam içine girmez.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-13-e39g",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturmayla ilgili bir belgenin istisna kapsamında kalması için açıklanmasının hangi sonucu doğurması aranabilir?",
+    "options": [
+      "Kurumun bütçesini artırması",
+      "Kurulun toplanması",
+      "Başvuru sahibinin not alması",
+      "Belgenin kopyalanabilmesi",
+      "Kişilerin özel hayatına açıkça haksız müdahale sonucunu doğurması"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 19/a. E seçeneğindeki “Kişilerin özel hayatına açıkça haksız müdahale sonucunu doğurması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-14-7e5x",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturma belgesinin açıklanması, kişilerin veya soruşturmayı yürüten görevlilerin hangi değerini tehlikeye sokarsa istisna uygulanabilir?",
+    "options": [
+      "Maaşını ya da izin hakkını",
+      "Eğitimini ya da unvanını",
+      "Görev yerini ya da kıdemini",
+      "Hayatını ya da güvenliğini",
+      "Mülkiyetini ya da vergisini"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 19/b. D seçeneğindeki “Hayatını ya da güvenliğini” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-15-jrz1",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturma belgesinin açıklanması hangi hâlde kapsam dışılık sonucunu doğurabilir?",
+    "options": [
+      "Başvuru sahibi belgeyi okumak isterse",
+      "Belge onaylı kopya hâlindeyse",
+      "Soruşturmanın güvenliğini tehlikeye düşürürse",
+      "Başvurunun yazılı yapılması hâlinde",
+      "Kurumda elektronik kayıt varsa"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 19/c. C seçeneğindeki “Soruşturmanın güvenliğini tehlikeye düşürürse” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-16-emo0",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizli kalması gereken bilgi kaynağının açığa çıkmasına neden olacak idarî soruşturma bilgileri için hangi sonuç geçerlidir?",
+    "options": [
+      "Yalnız ticarî amaçla kullanılır.",
+      "Belgenin tamamı yayımlanır.",
+      "Yalnız başvurucuya sesli okunur.",
+      "Her durumda Kurula itiraz edilir.",
+      "Bilgi edinme hakkı kapsamı dışındadır."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 19/d. E seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-17-qbr4",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturma dosyasındaki bir bilginin açıklanması, gizli kalması gereken bilgi kaynağının açığa çıkmasına veya benzeri bilgi kaynaklarının temin edilmesinin güçleşmesine yol açacaktır. Bu bilgi bakımından hangi hüküm uygulanır?",
+    "options": [
+      "Belgeyi ticarî amaçla çoğaltır.",
+      "Bilgiyi hiçbir koşul olmadan yayımlar.",
+      "Başvurucunun talebini başvuru formuna dönüştürür.",
+      "Bilgi veya belge Kanun kapsamı dışındadır.",
+      "Bilgiye erişimi otuz iş gününde zorunlu kılar."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 19/d. Açıklanması gizli kalması gereken bilgi kaynağını açığa çıkaracak veya soruşturmayla ilgili benzeri bilgi ve bilgi kaynaklarının temin edilmesini güçleştirecek bilgi veya belgeler Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-18-t2mv",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturma istisnası bakımından;\nI. Soruşturmanın güvenliğini tehlikeye düşürecek bilgi kapsam dışı olabilir.\nII. Gizli bilgi kaynağını açığa çıkaracak bilgi kapsam dışı olabilir.\nIII. İdarî soruşturmaya ilişkin her bilgi istisnasız açıklanır.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 19. A seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-19-38r7",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "İdarî soruşturmaya ilişkin bilgi veya belgelerde aşağıdakilerden hangisi istisna sebebi değildir?",
+    "options": [
+      "Özel hayata haksız müdahale",
+      "Belgenin başvuru sahibinin ilgisini çekmesi",
+      "Güvenliği tehlikeye sokma",
+      "Soruşturma güvenliğini tehlikeye düşürme",
+      "Gizli kaynağı açığa çıkarma"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 19. “Belgenin başvuru sahibinin ilgisini çekmesi” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-2-6yzp",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yargı denetimi dışında kalan bir idarî işlem, memurun meslekî onurunu etkileyebilecek niteliktedir. Bu işlemle ilgili bilgi istemi bakımından hangi sonuç doğar?",
+    "options": [
+      "Her durumda kapsam dışındadır.",
+      "İşlem kendiliğinden yargı denetimine açılır.",
+      "Bilgi edinme hakkı kapsamına girer.",
+      "Başvurucuya disiplin cezası verilir.",
+      "Yalnız ticarî sır kuralları uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 15. C seçeneğindeki “Bilgi edinme hakkı kapsamına girer” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-20-6wbl",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Adlî soruşturma veya kovuşturmaya ilişkin bir bilginin açıklanması suç işlenmesine yol açacak nitelikteyse hangi sonuç doğar?",
+    "options": [
+      "Belge zorunlu olarak yayımlanır.",
+      "Başvurucuya onaylı kopya verilir.",
+      "Bilgi edinme hakkı kapsamı dışında kalır.",
+      "Yalnız maliyet alınır.",
+      "Kurum içi düzenleme sayılır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 20/a. C seçeneğindeki “Bilgi edinme hakkı kapsamı dışında kalır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-21-87sm",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Suçların önlenmesini ve soruşturulmasını tehlikeye düşürecek bilgi veya belgeler için Kanundaki sonuç hangisidir?",
+    "options": [
+      "Her durumda erişime açık olmaları",
+      "Kapsam dışı olmaları",
+      "Yalnız Kurul üyelerine açık olmaları",
+      "Başvuru sahibine satılmaları",
+      "Sadece yayımlandıkları yerin bildirilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 20/b. B seçeneğindeki “Kapsam dışı olmaları” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-22-6w3b",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yargılama görevinin gereğince yerine getirilmesini engelleyecek bilgi veya belgeler için hangi yaklaşım geçerlidir?",
+    "options": [
+      "Yalnız gecikmeli açıklanır.",
+      "Her zaman basınla paylaşılır.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Kurum içi görüş sayılır.",
+      "Ticarî sır niteliği aranır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 20/c. C seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-23-pvl7",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Hakkında dava açılmış bir kişinin hangi hakkını ihlâl edecek bilgi veya belgeler kapsam dışı tutulur?",
+    "options": [
+      "Dilekçe hakkını",
+      "Seçme hakkını",
+      "Seyahat hakkını",
+      "Mülkiyet hakkını",
+      "Adil yargılanma hakkını"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 20/d. E seçeneğindeki “Adil yargılanma hakkını” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-24-i7al",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yargılama görevinin engellenmesi istisna sebebi değildir.",
+      "Suçların önlenmesini tehlikeye düşürme istisna sebebi olabilir.",
+      "Suç işlenmesine yol açma istisna sebebi olabilir.",
+      "Adil yargılanma hakkını ihlâl etme istisna sebebi olabilir.",
+      "Özel kanun hükümleri saklıdır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 20. “Yargılama görevinin engellenmesi istisna sebebi değildir.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-25-gv2a",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması, hakkında dava açılmış kişinin adil yargılanma hakkını ihlâl edecek bir dosya bilgisi istenmiştir. Kurumun kararı ne olabilir?",
+    "options": [
+      "Belgenin tamamını yayımlamak",
+      "Yalnız başvuru sahibine satmak",
+      "Belgeyi ticarî amaçla çoğaltmak",
+      "İstisna kapsamında bilgi vermemek",
+      "Başvuruyu otomatik olarak kabul etmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 20. D seçeneğindeki “İstisna kapsamında bilgi vermemek” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-26-49kk",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Adlî soruşturma ve kovuşturmaya ilişkin bilgi ve belgelerde Kanunun saklı tuttuğu hükümler arasında hangisi vardır?",
+    "options": [
+      "Diğer özel kanun hükümleri",
+      "Yalnız kurum genelgeleri",
+      "Yalnız il özel idaresi kararları",
+      "Yalnız meslek kuruluşu tüzükleri",
+      "Yalnız özel şirket sözleşmeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 20. A seçeneğindeki “Diğer özel kanun hükümleri” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-27-y32r",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kişinin izin verdiği hâller saklı kalmak üzere, aşağıdakilerden hangisi Madde 21’de bilgi edinme hakkı kapsamı dışında sayılan bilgiler arasında açıkça yer alır?",
+    "options": [
+      "Kamuya açık harita",
+      "Kurumun genel çalışma saatleri",
+      "Kamuya açıklanmış ihale ilanı",
+      "Yayımlanmış broşür",
+      "Kişinin sağlık bilgileri"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 21. Kişinin izin verdiği hâller saklı kalmak üzere, kişinin sağlık bilgileri özel hayatın gizliliğine ilişkin düzenleme kapsamında bilgi edinme hakkı kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-28-jtjj",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Özel hayatın gizliliği istisnası kapsamında aşağıdakilerden hangisi sayılmıştır?",
+    "options": [
+      "Kamuya açıklanmış ihale ilanı",
+      "Yayımlanmış broşür",
+      "Kurumun genel çalışma saati",
+      "Özel ve aile hayatı",
+      "Kamuya açık harita"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 21. D seçeneğindeki “Özel ve aile hayatı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-29-vs36",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması kişinin şeref ve haysiyetine haksız müdahale oluşturacak bilgi veya belgeler için temel kural nedir?",
+    "options": [
+      "Her durumda açıklanır.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Yalnız ses kaydı olarak verilir.",
+      "Kurum içi düzenleme sayılır.",
+      "Yalnız başvurucuya verilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 21. B seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-3-ggak",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Aşağıdakilerden hangisi açıklanması hâlinde Devletin emniyetine, dış ilişkilerine, millî savunmasına veya millî güvenliğine açıkça zarar verecek nitelikteki gizlilik dereceli bilgiler için doğrudur?",
+    "options": [
+      "Her durumda açıklanır.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Sadece başvuru ücretliyse açıklanır.",
+      "Kurum içi düzenleme sayılır.",
+      "Yalnız başvuranın talebiyle yayımlanır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 16. B seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-30-1ukx",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kişinin meslekî ve ekonomik değerlerine haksız müdahale oluşturacak bilgi veya belgeler hangi istisna ile ilişkilidir?",
+    "options": [
+      "Devlet sırrı",
+      "Fikir ve sanat eserleri",
+      "Özel hayatın gizliliği",
+      "Tavsiye talepleri",
+      "Yayımlanmış belge"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 21. C seçeneğindeki “Özel hayatın gizliliği” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-31-pzw7",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgeler açıklanabilmek için hangi koşul aranır?",
+    "options": [
+      "Başvuru sahibinin sözlü onayı",
+      "Kurum personelinin oy çokluğu",
+      "Yalnız yönetmelik çıkarılması",
+      "Herhangi bir koşul aranmaması",
+      "İlgili kişiye önceden haber verilerek yazılı rızasının alınması"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 21. E seçeneğindeki “İlgili kişiye önceden haber verilerek yazılı rızasının alınması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-32-ce1n",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kamu yararı nedeniyle kişisel bilgi açıklanmadan önce ilgili kişiye en az kaç gün önceden haber verilmelidir?",
+    "options": [
+      "Üç gün",
+      "Bir gün",
+      "Yedi gün",
+      "On beş gün",
+      "Otuz gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 21. C seçeneğindeki “Yedi gün” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-33-k7yz",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum, kamu yararı gerekçesiyle kişisel bir belgeyi açıklamak istemektedir. İlgiliye sekiz gün önceden haber vermiş; yazılı rızasını almıştır. Kanuna göre ne söylenebilir?",
+    "options": [
+      "Her hâlde açıklama yasaktır.",
+      "Açıklama için öngörülen koşullar sağlanmıştır.",
+      "Önceden haber verme zorunlu değildir.",
+      "Yalnız sözlü rıza aranır.",
+      "Başvuru sahibi Kurul üyesi olmalıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 21. B seçeneğindeki “Açıklama için öngörülen koşullar sağlanmıştır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-34-r0eo",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Özel hayatın gizliliğine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yazılı rıza koşulu öngörülmüştür.",
+      "Kişinin izin verdiği hâller saklıdır.",
+      "Sağlık bilgileri istisna kapsamında olabilir.",
+      "Kamu yararı varsa ilgili kişiye haber verilmeden ve rıza alınmadan açıklama yapılır.",
+      "Haber verme için en az yedi gün aranır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 21. “Kamu yararı varsa ilgili kişiye haber verilmeden ve rıza alınmadan açıklama yapılır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-35-zb67",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler için Kanunun yaklaşımı nedir?",
+    "options": [
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Yalnız kurum personeline verilir.",
+      "Sadece başvuru sahibine açıklanır.",
+      "Her durumda yayımlanır.",
+      "Kurum içi görüş sayılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 22. A seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-36-4nk0",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Aşağıdakilerden hangisi haberleşmenin gizliliği istisnası kapsamında değerlendirilebilecek bir sonuca işaret eder?",
+    "options": [
+      "İletişim kayıtları ticarî amaçla kullanılır.",
+      "Haberleşme kayıtları her başvuruda verilir.",
+      "Başvurucu talep ederse gizlilik ortadan kalkar.",
+      "Kurum yalnız maliyet tahsil eder.",
+      "Haberleşme gizliliğini ihlâl eden bilgiye erişim sağlanmaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 22. E seçeneğindeki “Haberleşme gizliliğini ihlâl eden bilgiye erişim sağlanmaz” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-37-rqid",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler için hangi kural geçerlidir?",
+    "options": [
+      "Mutlaka onaylı kopya verilir.",
+      "Yalnız yabancılara verilir.",
+      "Kurum içi düzenleme sayılır.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Kamuya açıklanmış sayılır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 23. D seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-38-1lft",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum ve kuruluşların gerçek veya tüzel kişilerden hangi kayıtla sağladıkları ticarî ve malî bilgiler kapsam dışındadır?",
+    "options": [
+      "Ücretsiz olması kaydıyla",
+      "Gizli kalması kaydıyla",
+      "Noter huzurunda alınması kaydıyla",
+      "Yazılı olmaması kaydıyla",
+      "Yabancı kaynaklı olması kaydıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 23. B seçeneğindeki “Gizli kalması kaydıyla” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-39-yq5x",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Bir şirket, ticarî ve malî bilgilerini bir kamu kurumuna gizli kalması kaydıyla vermiştir. Bu bilgiler için bilgi edinme başvurusu yapıldığında hangi hüküm uygulanır?",
+    "options": [
+      "Her durumda onaylı kopya verilir.",
+      "Yalnız dinletilerek açıklanır.",
+      "Bu ticarî ve malî bilgiler Kanun kapsamı dışındadır.",
+      "Yayımlanmış sayılır.",
+      "Başvurucuya ticarî kullanma izni verilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 23. Kurum ve kuruluşlar tarafından gerçek veya tüzel kişilerden gizli kalması kaydıyla sağlanan ticarî ve malî bilgiler Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-4-360b",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Devlet sırrı istisnası için bilgi veya belgenin niteliği bakımından aranan unsur hangisidir?",
+    "options": [
+      "Yalnız eski tarihli olması",
+      "Kurumda saklanması",
+      "Başvuru sahibinin yabancı olması",
+      "Ücretli erişime tabi olması",
+      "Devlet sırrı olan gizlilik dereceli nitelik"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 16. E seçeneğindeki “Devlet sırrı olan gizlilik dereceli nitelik” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-40-cibr",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Ticarî sır istisnasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Gizli kalması kaydıyla sağlanan ticarî bilgi her durumda açıklanır.",
+      "Kanunlarda ticarî sır sayılan bilgiler kapsam dışıdır.",
+      "Gizli kalması kaydıyla sağlanan malî bilgiler kapsam dışı olabilir.",
+      "Gerçek kişilerden sağlanan bilgiler de hüküm kapsamına girebilir.",
+      "Tüzel kişilerden sağlanan bilgiler de hüküm kapsamına girebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 23. “Gizli kalması kaydıyla sağlanan ticarî bilgi her durumda açıklanır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-41-wb9i",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Fikir ve sanat eserlerine ilişkin bilgi edinme başvuruları hakkında hangi hükümler uygulanır?",
+    "options": [
+      "Yalnız Kurul kararları",
+      "Yalnız 4982 sayılı Kanun’un tüm hükümleri",
+      "İlgili kanun hükümleri",
+      "Yalnız kurum genelgeleri",
+      "Yalnız ticarî sır hükümleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 24. C seçeneğindeki “İlgili kanun hükümleri” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-42-rfyu",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi edinme başvuruları hakkında hangi hükümler uygulanır?",
+    "options": [
+      "Yalnız rapor düzenleme hükmü",
+      "İlgili kanun hükümleri",
+      "Yalnız Kurulun sekretaryasına ilişkin hükümler",
+      "Yalnız idarî soruşturmaya ilişkin hükümler",
+      "Yalnız maliyet tahsiline ilişkin hükümler"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 24. Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi edinme başvuruları hakkında ilgili kanun hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-43-wqs2",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kamuoyunu ilgilendirmeyen ve yalnız kurum personeli ile kurum içi uygulamalara ilişkin düzenlemeler için temel kural nedir?",
+    "options": [
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Her durumda halka açıklanır.",
+      "Yalnız ticarî sır olarak korunur.",
+      "Yalnız Kurula gönderilir.",
+      "Yalnız elektronik ortamda paylaşılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 25. A seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-44-lsvm",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Sadece kurumun personel uygulamasını ilgilendiren ve kamuoyunu ilgilendirmeyen iç düzenleme hakkında dışarıdan bilgi istenmiştir. Kural olarak hangi sonuç doğar?",
+    "options": [
+      "Kopyası hemen verilir.",
+      "Yargı denetimine açılır.",
+      "Başvuru otomatik kabul edilir.",
+      "Yalnız noter onayı aranır.",
+      "Kapsam dışı değerlendirilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 25. E seçeneğindeki “Kapsam dışı değerlendirilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-45-bt1f",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum içi düzenlemeden etkilenen kurum çalışanlarının bilgi edinme hakkı bakımından hangi kural geçerlidir?",
+    "options": [
+      "Yalnız mahkeme kararıyla öğrenebilirler.",
+      "Hiçbir hakları yoktur.",
+      "Sadece Kurul üyeleri başvurabilir.",
+      "Hakları saklıdır.",
+      "Ticarî sır kuralı uygulanır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 25. D seçeneğindeki “Hakları saklıdır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-46-cax1",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum içi düzenlemeler için aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Düzenlemeden etkilenen çalışanların bilgi edinme hakları da kapsam dışıdır.",
+      "Sadece kurum içi uygulamaya ilişkin olma unsuru önemlidir.",
+      "Kamuoyunu ilgilendirmeme unsuru önemlidir.",
+      "Kural olarak bu düzenlemeler kapsam dışındadır.",
+      "Etkilenen çalışanların hakları saklıdır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 25. “Düzenlemeden etkilenen çalışanların bilgi edinme hakları da kapsam dışıdır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-47-ronc",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum ve kuruluşların faaliyetlerini yürütmek üzere elde ettikleri görüş, bilgi notu, teklif ve tavsiye niteliğindeki bilgiler için temel kural nedir?",
+    "options": [
+      "Her durumda kapsam dışıdır.",
+      "Sadece ticarî sır sayılır.",
+      "Yalnız Kurul kararına bağlıdır.",
+      "Kurum aksi kararlaştırmadıkça bilgi edinme hakkı kapsamındadır.",
+      "Yalnız kurum çalışanlarına açıktır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 26. D seçeneğindeki “Kurum aksi kararlaştırmadıkça bilgi edinme hakkı kapsamındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-48-02kb",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Bilimsel, kültürel, istatistik, teknik, tıbbî, malî veya hukukî uzmanlık alanlarında görüş verme yükümlülüğü bulunan birimlerin görüşleri hangi koşulla bilgi edinme istemlerine açıktır?",
+    "options": [
+      "Başvuru sahibinin memur olması kaydıyla",
+      "Kurumun alacağı kararlara esas teşkil etmesi kaydıyla",
+      "Belgenin ücretsiz olması kaydıyla",
+      "Kurul üyelerince hazırlanması kaydıyla",
+      "Yalnız yabancılar istemesi kaydıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 26. B seçeneğindeki “Kurumun alacağı kararlara esas teşkil etmesi kaydıyla” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-49-z0op",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Bir teknik birimin yasal görüş verme yükümlülüğü kapsamında hazırladığı görüş, kurumun kararına esas alınmıştır. Bu görüş için hangi yaklaşım geçerlidir?",
+    "options": [
+      "Her durumda kapsam dışıdır.",
+      "Sadece ticarî sır olarak korunur.",
+      "Başvuru sahibinin rızası aranır.",
+      "Yalnız sesli erişim sağlanır.",
+      "Bilgi edinme istemine açıktır."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 26. E seçeneğindeki “Bilgi edinme istemine açıktır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-5-lzh7",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Devlet sırrına ilişkin bilgi veya belgelere dair aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Her gizlilik dereceli belge, Devlet sırrı istisnası için başka hiçbir koşul aranmaksızın kapsam dışıdır.",
+      "Açıklanmanın Devlet güvenliğine açıkça zarar vermesi aranır.",
+      "Dış ilişkilere zarar verme istisna kapsamına girebilir.",
+      "Millî savunmaya zarar verme istisna kapsamına girebilir.",
+      "Millî güvenliğe zarar verme istisna kapsamına girebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 16. “Her gizlilik dereceli belge, Devlet sırrı istisnası için başka hiçbir koşul aranmaksızın kapsam dışıdır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-50-nmk7",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum, faaliyetini yürütmek için aldığı bir tavsiye notunun bilgi edinme kapsamı dışında kalmasını istiyorsa ne yapmalıdır?",
+    "options": [
+      "Başvuruyu hiç kayda almamalıdır.",
+      "Belgeyi otomatik imha etmelidir.",
+      "Aksi yönde karar vermelidir.",
+      "Yalnız ücret talep etmelidir.",
+      "Tüm belgeyi yayımlamalıdır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 26. C seçeneğindeki “Aksi yönde karar vermelidir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-51-hdl9",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum içi görüş, bilgi notu ve tavsiyelere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kurum aksi kararlaştırabilir.",
+      "Faaliyetleri yürütmek üzere elde edilmiş görüşler düzenleme kapsamındadır.",
+      "Yasal görüş verme yükümlülüğü önem taşır.",
+      "Kararlara esas olan uzman görüşleri açık olabilir.",
+      "Bu nitelikteki tüm bilgi ve belgeler hiçbir koşulda bilgi edinme istemine açık değildir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 26. “Bu nitelikteki tüm bilgi ve belgeler hiçbir koşulda bilgi edinme istemine açık değildir.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-52-d8tq",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum içi görüşlere ilişkin;\nI. Görüş, bilgi notu ve tavsiye niteliğindeki belgeler kural olarak kapsam içindedir.\nII. Kurum aksi yönde karar verebilir.\nIII. Karara esas olan yasal uzman görüşleri hiçbir zaman açık değildir.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 26. A seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-53-dvq2",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Tavsiye ve mütalaa talepleri için Kanunun öngördüğü temel kural nedir?",
+    "options": [
+      "Her zaman onaylı kopya verilir.",
+      "Yalnız elektronik ortamda cevaplanır.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Kurum içi düzenleme sayılır.",
+      "Yalnız yabancılar için açıktır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 27. C seçeneğindeki “Bilgi edinme hakkı kapsamı dışındadır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-54-n4l3",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Bir kişi, kurumdan ileride izleyeceği yol konusunda hukukî mütalaa istemektedir. Bu başvuru hangi kapsamda değerlendirilir?",
+    "options": [
+      "Yayımlanmış belge olarak açık",
+      "Onaylı kopya talebi olarak zorunlu",
+      "İstihbarat bilgisi olarak açık",
+      "Tavsiye ve mütalaa talebi olarak kapsam dışı",
+      "Kurulun sekretarya işi olarak açık"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 27. D seçeneğindeki “Tavsiye ve mütalaa talebi olarak kapsam dışı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-55-m7rh",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizliliği kaldırılmış bilgi veya belgelerin bilgi edinme başvurularına açık hâle gelmesi için hangi ek koşul aranır?",
+    "options": [
+      "Başvuru sahibinin kamu görevlisi olması",
+      "Kanunda belirtilen diğer istisnalar kapsamına girmemeleri",
+      "Belgenin ücretli olması",
+      "Kurulun ayda bir toplanması",
+      "Belgenin elektronik ortamda bulunması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 28. B seçeneğindeki “Kanunda belirtilen diğer istisnalar kapsamına girmemeleri” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-56-n6q2",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizliliği kaldırılan bilgi veya belgelere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Hüküm, gizliliği kaldırılmış bilgi veya belgeleri konu edinir.",
+      "Diğer istisnalar kapsamına girmeyen bilgi veya belgeler başvuruya açık hâle gelir.",
+      "Gizlilik kaldırılmışsa, diğer istisnalara girse bile bilgi veya belge her hâlde erişime açılır.",
+      "Belgenin başvuruya açılabilmesi için diğer istisnalar ayrıca dikkate alınır.",
+      "Gizliliğin kaldırılmış olması, Kanundaki diğer istisnaların uygulanmasını ortadan kaldırmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 28. Gizliliği kaldırılmış bilgi veya belgeler ancak Kanunda belirtilen diğer istisnalar kapsamına girmiyorsa bilgi edinme başvurularına açık hâle gelir. Bu nedenle C seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-57-313x",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizlilik derecesi kaldırılmış bir belgenin ayrıca ticarî sır istisnası kapsamında olduğu anlaşılmıştır. Bilgi edinme bakımından hangi sonuç doğar?",
+    "options": [
+      "Belge diğer istisna nedeniyle kapsam dışı kalabilir.",
+      "Başvurucu belgeyi ticarî amaçla kullanabilir.",
+      "Gizlilik kalktığı için mutlaka açıklanır.",
+      "Belge hiç kayıt altına alınmaz.",
+      "Kurum yeni belge üretmek zorundadır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 28. A seçeneğindeki “Belge diğer istisna nedeniyle kapsam dışı kalabilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-58-iki8",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizliliği kaldırılan bilgi veya belgelere ilişkin;\nI. Diğer istisnalar yoksa başvuruya açık hâle gelir.\nII. Gizlilik kalkınca tüm istisnalar etkisizleşir.\nIII. Diğer istisnaların varlığı ayrıca değerlendirilir.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I, II ve III",
+      "II ve III",
+      "I ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 28. E seçeneğindeki “I ve III” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-59-70ma",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Bu bilgi veya belgeler her durumda bilgi edinme hakkı kapsamındadır.",
+      "Yalnız maliyet gerektirenler kapsam dışındadır.",
+      "Yalnız elektronik ortamda bulunanlar kapsam dışındadır.",
+      "Bu bilgi veya belgeler kural olarak Kanun kapsamı dışındadır; ancak kişilerin çalışma hayatını ve meslek onurunu etkileyecek nitelikte olanlar kapsam içindedir.",
+      "Yalnız kurumun yıllık raporunda yer alanlar kapsam dışındadır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 18. Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler kural olarak Kanun kapsamı dışındadır. Ancak kişilerin çalışma hayatını ve meslek onurunu etkileyecek nitelikte olanlar bilgi edinme hakkı kapsamı içindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-6-94eo",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması millî savunmaya açıkça zarar verecek ve niteliği itibarıyla Devlet sırrı olan bir belge için hangi karar uygundur?",
+    "options": [
+      "Onaylı kopyasının verilmesi",
+      "Başvurucunun izlemesine izin verilmesi",
+      "Belgenin yayımlandığı yerin bildirilmesi",
+      "Bilgi edinme hakkı kapsamı dışında bırakılması",
+      "Kurula gönderilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 16. D seçeneğindeki “Bilgi edinme hakkı kapsamı dışında bırakılması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-60-sav8",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum içi düzenleme ile tavsiye ve mütalaa talebinin ortak yönü hangisidir?",
+    "options": [
+      "Her ikisinin de mutlaka kamuya açıklanması",
+      "Kanunda kapsam dışı sayılabilmeleridir.",
+      "Her ikisinin de yalnız ticarî sır olması",
+      "Her ikisinin de yargı denetimini açması",
+      "Her ikisinin de Kurul tarafından hazırlanması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 25 ve 27. B seçeneğindeki “Kanunda kapsam dışı sayılabilmeleridir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-61-8p9s",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Devlet sırrı niteliğindeki gizlilik dereceli bilgi veya belgeler her durumda Kanun kapsamındadır.",
+      "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler Kanun kapsamındadır.",
+      "Kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgeler, ilgili kişiye en az yedi gün önceden haber verilerek ve yazılı rızası alınarak açıklanabilir.",
+      "Tavsiye ve mütalaa talepleri Kanun kapsamındadır.",
+      "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler Kanun kapsamındadır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 21. Kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgeler, ilgili kişiye en az yedi gün önceden haber verilerek ve yazılı rızası alınarak açıklanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-62-14iu",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "4982 sayılı Kanun’a göre tavsiye ve mütalaa taleplerinin durumu nedir?",
+    "options": [
+      "Her durumda cevaplandırılması zorunludur.",
+      "Yalnız kamu kurumlarının başvurularında kapsam içindedir.",
+      "Kurulun izniyle kapsam içine alınır.",
+      "Bu Kanun kapsamı dışındadır.",
+      "Yalnız elektronik başvurularda kapsam dışındadır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 27. Tavsiye ve mütalaa talepleri bu Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-63-h2wc",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Aşağıdakilerden hangisi, 4982 sayılı Bilgi Edinme Hakkı Kanunu uyarınca idarî soruşturmaya ilişkin bilgi veya belgelerin Kanun kapsamı dışında tutulma nedenlerinden biri değildir?",
+    "options": [
+      "Bilgi ve belgenin maliyet tutarının yüksek olması",
+      "Soruşturmanın güvenliğini tehlikeye düşürmesi",
+      "Kişilerin özel hayatına açıkça haksız müdahale sonucunu doğurması",
+      "Kişilerin ya da soruşturmayı yürüten görevlilerin hayatını ya da güvenliğini tehlikeye sokacak olması",
+      "Gizli kalması gereken bilgi kaynağının açığa çıkmasına neden olacak veya soruşturma ile ilgili benzeri bilgi ve bilgi kaynaklarının temin edilmesini güçleştirmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 19. Maliyet tutarının yüksek olması, idarî soruşturmaya ilişkin bilgi veya belgelerin Kanun kapsamı dışında tutulma nedenleri arasında sayılmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-64-7sqa",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Adlî soruşturma ve kovuşturmaya ilişkin aşağıdaki bilgi veya belgelerden hangisi, belirtilen niteliği nedeniyle Madde 20 uyarınca Kanun kapsamı dışında değildir?",
+    "options": [
+      "Hakkında dava açılmış bir kişinin adil yargılanma hakkını ihlâl edecek bilgi veya belgeler",
+      "Suçluların kanunî yollarla yakalanıp kovuşturulmasını tehlikeye düşürecek bilgi veya belgeler",
+      "Suç işlenmesine yol açacak bilgi veya belgeler",
+      "Suçların önlenmesini ve soruşturulmasını tehlikeye düşürecek bilgi veya belgeler",
+      "Yargılama görevinin gereğince yerine getirilmesini engellemeyecek bilgi veya belgeler"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 20. Kanun kapsamı dışında olma hâllerinden biri, açıklamanın yargılama görevinin gereğince yerine getirilmesini engellemesidir. E seçeneğinde ise böyle bir engelleme bulunmadığı belirtilmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-65-cmj3",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Gizliliği kaldırılmış bir bilgi veya belge hangi şartla bilgi edinme başvurularına açık hâle gelir?",
+    "options": [
+      "Başvuru sahibinin kamu görevlisi olması şartıyla",
+      "Bilginin en az on yıllık olması şartıyla",
+      "Yalnız elektronik ortamda bulunması şartıyla",
+      "Kurulun oybirliğiyle karar vermesi şartıyla",
+      "Kanunda belirtilen diğer istisnalar kapsamına girmemesi şartıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 28. Gizliliği kaldırılmış bilgi veya belgeler, Kanunda belirtilen diğer istisnalar kapsamına girmiyorsa bilgi edinme başvurularına açık hâle gelir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-66-6k2o",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgelerin açıklanabilmesi için aşağıdaki şartlardan hangisi birlikte aranır?",
+    "options": [
+      "Yalnız Kurul kararı ve ücret ödenmesi",
+      "İlgili kişiye en az yedi gün önceden haber verilmesi ve yazılı rızasının alınması",
+      "Bilginin daha önce basında yayımlanmış olması ve kurumun uygun görmesi",
+      "İlgili kişinin sözlü rızası ve aynı gün bildirim",
+      "Başvuru sahibinin kamu görevlisi olması ve bilgi talebinin yazılı olması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 21. Kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgeler, ilgili kişiye en az yedi gün önceden haber verilerek ve yazılı rızası alınarak açıklanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-67-ncld",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler bakımından 4982 sayılı Kanun’un 20 nci maddesi hangi düzenlemeleri saklı tutmuştur?",
+    "options": [
+      "Yalnız kurum içi yönergeleri",
+      "Hiçbir başka düzenlemeyi",
+      "Yalnız belediye meclisi kararlarını",
+      "Yalnız uluslararası sözleşmeleri",
+      "İlgili usul kanunları ile diğer özel kanun hükümlerini"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 20. Ceza Muhakemeleri Usulü Kanunu, Hukuk Usulü Muhakemeleri Kanunu, İdarî Yargılama Usulü Kanunu ve diğer özel kanun hükümleri saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-68-hvl8",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kamuoyunu ilgilendirmeyen ve yalnız kurum personeli ile kurum içi uygulamalara ilişkin bir düzenlemeden doğrudan etkilenen kurum çalışanlarının bilgi edinme hakkının durumu nedir?",
+    "options": [
+      "Saklıdır.",
+      "Yalnız Kurulun izniyle kullanılabilir.",
+      "Yalnız emeklilikten sonra kullanılabilir.",
+      "Sadece sözlü bilgiyle sınırlıdır.",
+      "Tamamen ortadan kalkar."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 25. Bu tür kurum içi düzenlemeler genel olarak kapsam dışı olmakla birlikte, düzenlemeden etkilenen kurum çalışanlarının bilgi edinme hakları saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-69-gr5m",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Aşağıdakilerden hangisi, 4982 sayılı Kanun’a göre belirtilen şartın gerçekleşmesi hâlinde bilgi edinme başvurularına açık hâle gelir?",
+    "options": [
+      "Devlet sırrı niteliğindeki gizlilik dereceli bilgi veya belgeler",
+      "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler",
+      "Gizliliği kaldırılmış olup Kanundaki diğer istisnalar kapsamına girmeyen bilgi veya belgeler",
+      "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler",
+      "Tavsiye ve mütalaa talepleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 28. Gizliliği kaldırılmış bilgi veya belgeler, Kanunda belirtilen diğer istisnalar kapsamına girmiyorsa bilgi edinme başvurularına açık hâle gelir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-7-23sv",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması veya zamanından önce açıklanması ülkenin ekonomik çıkarlarına zarar verecek bilgi ve belgeler hangi kapsamda değerlendirilir?",
+    "options": [
+      "Her zaman açık",
+      "Yalnız kurum içi görüş",
+      "Bilgi edinme hakkı kapsamı dışında",
+      "Yalnız özel hayat bilgisi",
+      "Yalnız fikrî eser"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 17. C seçeneğindeki “Bilgi edinme hakkı kapsamı dışında” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-70-kb48",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Kurum ve kuruluşların gerçek veya tüzel kişilerden gizli kalması kaydıyla sağladıkları ticarî ve malî bilgiler 4982 sayılı Kanun’a göre nasıl değerlendirilir?",
+    "options": [
+      "Her durumda kamuya açıklanır.",
+      "Yalnız sözlü olarak verilir.",
+      "Kurulun izni olmadan başvuru konusu olamaz ancak kapsam içindedir.",
+      "Bilgi edinme hakkı kapsamı dışındadır.",
+      "Sadece yabancı başvuru sahiplerine verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 23. Kurum ve kuruluşların gerçek veya tüzel kişilerden gizli kalması kaydıyla sağladıkları ticarî ve malî bilgiler Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-71-mv0i",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yargı denetimi dışında kalan bir idarî işlem hakkında Madde 15 kapsamında bilgi edinilmesi aşağıdaki sonuçlardan hangisini doğurmaz?",
+    "options": [
+      "Başvuru sahibinin bilgi edinme hakkından yararlanmasını",
+      "Kanunun bu işlemler bakımından uygulanmasını",
+      "Çalışma hayatını etkileyen bilgiye erişilmesini",
+      "Meslekî onuru etkileyen bilgiye erişilmesini",
+      "İşlemin yargı denetimine açılmasını"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 15. Bu kapsamda sağlanan bilgi edinme hakkı, işlemin yargı denetimine açılması sonucunu doğurmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-72-zq5l",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "4982 sayılı Kanun’a göre kamu yararının gerektirdiği hâllerde kişisel bilgi veya belgelerin açıklanabilmesi için ilgili kişiye en az kaç gün önceden haber verilmesi gerekir?",
+    "options": [
+      "10",
+      "7",
+      "15",
+      "30",
+      "45"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 21. Kişisel bilgi veya belgeler, kamu yararının gerektirdiği hâllerde ilgili kişiye en az yedi gün önceden haber verilerek ve yazılı rızası alınarak açıklanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-73-ah9q",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler hangi hâlde bilgi edinme hakkı kapsamı içinde olabilir?",
+    "options": [
+      "Bilgi daha önce basında yer almışsa",
+      "Başvuru sahibi kamu görevlisiyse",
+      "Belge on yıldan eskiyse",
+      "Başvuru elektronik ortamda yapılmışsa",
+      "Bilgi veya belge kişinin çalışma hayatını ve meslek onurunu etkileyecek nitelikteyse"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 18. İstihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler kural olarak kapsam dışıdır; ancak kişinin çalışma hayatını ve meslek onurunu etkileyecek nitelikteyse kapsam içindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-74-2wwc",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "4982 sayılı Kanun’a göre aşağıdakilerden hangisi, kamuoyunu ilgilendirmemesi ve yalnız kurum personeli ile kurum içi uygulamalara ilişkin olması hâlinde bilgi edinme hakkı kapsamı dışındadır?",
+    "options": [
+      "Gizliliği kaldırılmış ve diğer istisnalara girmeyen bilgi veya belgeler",
+      "Kurumun aksi kararlaştırmadığı görüş ve bilgi notları",
+      "Kurum içi düzenlemeler hakkındaki bilgi veya belgeler",
+      "Kararlara esas teşkil eden ve yasal olarak görüş verme yükümlülüğü bulunan uzmanların görüşleri",
+      "Kurumun elinde bulunan ve herhangi bir istisna kapsamına girmeyen bilgi veya belgeler"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 25. Kamuoyunu ilgilendirmeyen ve yalnız kurum personeli ile kurum içi uygulamalara ilişkin düzenlemeler hakkındaki bilgi veya belgeler kapsam dışındadır; bu düzenlemelerden etkilenen çalışanların bilgi edinme hakları saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-75-vjbx",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre aşağıdakilerden hangisi bilgi edinme hakkı kapsamındadır?",
+    "options": [
+      "Yargı denetimi dışında kalan idarî işlemlerden kişinin çalışma hayatını ve meslekî onurunu etkileyecek nitelikte olanlar",
+      "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin ve çalışma hayatı ile meslek onurunu etkilemeyen bilgi veya belgeler",
+      "Açıklanması kişinin meslekî ve ekonomik değerlerine haksız müdahale oluşturacak özel hayat kapsamındaki bilgi veya belgeler",
+      "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler",
+      "Gizli kalması gereken bilgi kaynağını açığa çıkaracak idarî soruşturma bilgi veya belgeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 15. Yargı denetimi dışında kalan idarî işlemlerden kişinin çalışma hayatını ve meslekî onurunu etkileyecek nitelikte olanlar Kanun kapsamındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-76-fu2r",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Yasal olarak görüş verme yükümlülüğü bulunan kişi, birim veya kurumların uzmanlık görüşleri hangi şartla bilgi edinme istemlerine açıktır?",
+    "options": [
+      "Her durumda gizli tutulmaları şartıyla",
+      "Kurum ve kuruluşların alacakları kararlara esas teşkil etmeleri kaydıyla",
+      "Yalnız sözlü olarak verilmek şartıyla",
+      "Sadece Kurul üyelerine sunulmaları hâlinde",
+      "Başvuru sahibinin kamu görevlisi olması şartıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 26. Yasal olarak görüş verme yükümlülüğü bulunan uzman kişi, birim veya kurumların görüşleri, kurum ve kuruluşların alacakları kararlara esas teşkil etmesi kaydıyla bilgi edinme istemlerine açıktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-8-l5um",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması ya da zamanından önce açıklanması hâlinde haksız rekabet ve kazanca sebep olacak bilgi veya belgeler için Kanundaki sonuç nedir?",
+    "options": [
+      "Mutlaka yayımlanır.",
+      "Bu Kanun kapsamı dışındadır.",
+      "Kurum içi düzenleme sayılır.",
+      "Başvuru sahibine satılır.",
+      "Yalnız yabancılara verilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 17. Açıklanması ya da zamanından önce açıklanması hâlinde ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler bu Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i-mtn4nmn1-9-r18y",
+    "topic_id": "t-bilgi-edinme-hakkinin-sinirlari-rpz2i",
+    "prompt": "Açıklanması veya zamanından önce açıklanması hâlinde haksız rekabet ve kazanca sebep olacak bir kamu ekonomik verisi istenmiştir. Bu bilgi bakımından hangi hüküm uygulanır?",
+    "options": [
+      "Bilgi veya belge Kanun kapsamı dışındadır.",
+      "Yalnız ses kaydı olarak vermelidir.",
+      "Veriyi derhal yayımlamak zorundadır.",
+      "Başvurucu adına araştırma yapmalıdır.",
+      "Bilgiyi ticarî amaçla çoğaltmalıdır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 17. Açıklanması veya zamanından önce açıklanması ülkenin ekonomik çıkarlarına zarar verecek ya da haksız rekabet ve kazanca sebep olacak bilgi veya belgeler Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:21.807677+00:00",
+    "updated_at": "2026-09-04T15:47:21.807677+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-0-xkr2",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre, okullar hariç kurum açma izni hangi şartla \"Valilikçe\" verilir?",
+    "options": [
+      "Bakanlığın uygun görüşü alınarak",
+      "Belediye ruhsatı alındıktan sonra",
+      "Doğrudan Valilik incelemesi sonucunda uygun görülmesiyle",
+      "Muhtar onayıyla",
+      "Kaymakamlık onayıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Doğrudan Valilik incelemesi sonucunda uygun görülmesiyle\". İlgili hüküm: \"Valilikçe yapılan inceleme sonucunda açılması uygun görülen okullar dışındaki kurumlara kurum açma izni verilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-1-i9nx",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kanun’un 1. maddesindeki şartları taşıyan ancak, bu Kanuna uygun olarak kurum açma izni almadan (ruhsatsız) eğitim faaliyeti yürüten yerleri işletenlere verilecek ceza aşağıdakilerden hangisidir?",
+    "options": [
+      "Brüt asgari ücretin 10 katı idarî para cezası",
+      "Brüt asgari ücretin 20 katı idarî para cezası ve kapatma",
+      "1 yıldan 3 yıla kadar hapis cezası",
+      "Sadece kapatma cezası",
+      "Brüt asgari ücretin 5 katı idarî para cezası"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Brüt asgari ücretin 20 katı idarî para cezası ve kapatma\". İlgili hüküm: \"Bu Kanun kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanuna uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu yerler valiliklerce kapatılır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-10-foa3",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Özel öğretim kurumları mevzuatına uygun olmak kaydıyla işyeri açma ve çalışma ruhsatını verme yetkisi hangi makama aittir?",
+    "options": [
+      "Sanayi Odası",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Ticaret Odası",
+      "Belediye",
+      "Millî Eğitim Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre işyeri açma ve çalışma ruhsatı Bakanlıkça verilir; Bakanlık bu yetkisini valiliklere devredebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-11-v59s",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum açma izni verilirken binanın standartlara uygunluğunu kim belirler?",
+    "options": [
+      "Sağlık Bakanlığı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Millî Eğitim Bakanlığı",
+      "Valilik",
+      "Belediye"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Millî Eğitim Bakanlığı\". İlgili hüküm: \"Kurum açma izni verilmesi, binanın kullanılış amaçlarına ve Bakanlıkça belirlenen standartlara uygun ve yeterli bulunmasıyla birlikte aşağıdaki şartların yerine getirilmesine bağlıdır:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-12-jgfj",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurumun yönetmelikleri ile öğretim programı kim tarafından incelenip onanmadan kurum açma izni verilmez?",
+    "options": [
+      "Teftiş Kurulu",
+      "İl millî eğitim müdürlüğü",
+      "Okul yönetimi",
+      "Millî Eğitim Bakanlığı",
+      "Maarif müfettişleri"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre kurumun yönetmelikleriyle öğretim programının Bakanlıkça incelenip onanmış olması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-13-o1pu",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre kurum açma izni alınmadıkça aşağıdaki işlemlerden hangisi yapılamaz?",
+    "options": [
+      "Kurum için ad önerilmesi",
+      "Kuruma öğrenci kaydı yapılması",
+      "Ders araç-gereci hazırlanması",
+      "Kurum binasının standartlara uygun hâle getirilmesi",
+      "Öğretim programının hazırlanması"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre kurum açma izni alınmadıkça kuruma öğrenci kaydı yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-14-gxgf",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum açma izni verilmesinde yönetici, öğretmen ve diğer personel bakımından aşağıdaki şartlardan hangisi aranır?",
+    "options": [
+      "Tüm personelin kamu görevlisi olması",
+      "Tüm personelin aynı ilde ikamet etmesi",
+      "Personelin yalnız kurucu tarafından belirlenmesi",
+      "Yalnız kurum müdürünün niteliklerinin belgelendirilmesi",
+      "Personelin sayı ve nitelikleri yönünden uygun bulunması ve bu kurumda çalışacaklarının belgelendirilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre yönetici, öğretmen ve diğer personelin sayı ve nitelikleri yönünden uygun bulunması ve bu kurumda çalışacaklarının belgelendirilmesi gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-15-oyf4",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Okullara (kolejler vb.) kurum açma izni vermeye.......... yetkilidir.",
+    "options": [
+      "Valilik",
+      "İl Millî Eğitim Müdürlüğü",
+      "Kaymakamlık",
+      "Millî Eğitim Bakanlığı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Millî Eğitim Bakanlığı\". İlgili hüküm: \"Valilikçe açılması uygun görülen okullara ilişkin başvurular ise kurum açma izni verilmek üzere Bakanlığa gönderilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-16-47bu",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "İlkokul, ortaokul ve liseler için.......... tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerli olur.",
+    "options": [
+      "1 Haziran",
+      "1 Ekim",
+      "1 Eylül",
+      "15 Temmuz",
+      "1 Ocak"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"1 Eylül\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-17-nlww",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kanuna aykırı olarak kurum açma izni almadan (ruhsatsız) faaliyet yürüten yerlere brüt asgari ücretin.......... katı idarî para cezası verilir ve bu yerler kapatılır.",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "25",
+      "50"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"20\". İlgili hüküm: \"Bu Kanun kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanuna uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu yerler valiliklerce kapatılır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-18-39qb",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Valiliğin kurum açma izni talebini reddetmesinden sonraki itiraz yoluna ilişkin hangi ifade doğru değildir?",
+    "options": [
+      "Süre, ret işleminin tebliğiyle işlemeye başlar.",
+      "Bakanlık itirazı on beş iş günü içinde karara bağlar.",
+      "İtiraz yedi iş gününde yapılır, Bakanlık otuz iş gününde karar verir.",
+      "Kurucu veya kurucu temsilcisi Bakanlığa itiraz edebilir.",
+      "İtiraz süresi, ret işleminin tebliğinden itibaren on beş iş günüdür."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"İtiraz yedi iş gününde yapılır, Bakanlık otuz iş gününde karar verir.\". İlgili hüküm: \"Valilikçe açılması uygun görülen okullara ilişkin başvurular ise kurum açma izni verilmek üzere Bakanlığa gönderilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-19-tvnb",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Valilikçe verilen ret işleminin tebliğinden itibaren.......... içinde Bakanlığa itiraz edilebilir; Bakanlık itirazı.......... içinde karara bağlar.",
+    "options": [
+      "on beş iş günü/on beş iş günü",
+      "otuz iş günü/yedi iş günü",
+      "on beş iş günü/otuz iş günü",
+      "bir ay/bir ay",
+      "yedi iş günü/on beş iş günü"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"on beş iş günü/on beş iş günü\". İlgili hüküm: \"Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren onbeş iş günü içinde Bakanlığa itirazda bulunulabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-2-qymr",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre yalnız yabancı uyruklu öğrencilerin devam edebileceği kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Milletlerarası özel öğretim kurumu",
+      "Özel eğitime ihtiyaç duyan bireylere hizmet veren okul",
+      "Sosyal ve mesleki beceri geliştiren kurs",
+      "Belediyelerce işletilen öğrenci destek merkezi",
+      "Yalnız belirli azınlığın Türkiye Cumhuriyeti uyruklu çocuklarına hizmet veren okul"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Milletlerarası özel öğretim kurumu\". İlgili hüküm: \"1) Yalnız yabancı uyruklu öğrencilerin devam edebilecekleri yüksek öğretim dışındaki milletlerarası özel öğretim kurumu; yabancı uyruklu gerçek ve tüzel kişiler tarafından veya Türk vatandaşlarıyla ortaklık yolu ile 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu çerçevesinde Cumhurbaşkanının izniyle açılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-20-eq91",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum açma izni verilmesinde ders araç-gereci yönünden aranan koşul aşağıdakilerden hangisidir?",
+    "options": [
+      "Ders araç-gerecinin yalnız kurucu tarafından üretilmesi",
+      "Ders araç-gerecinin yalnız yabancı menşeli ürünlerden seçilmesi",
+      "Kurumun amaç ve ihtiyaçları için yeterli olduğunun raporla tespit edilmesi",
+      "Ders araç-gerecinin öğrencilere ücretsiz dağıtılmasının taahhüt edilmesi",
+      "Ders araç-gerecinin her yıl belediyece yenilenmesinin zorunlu olması"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Kurumun amaç ve ihtiyaçları için yeterli olduğunun raporla tespit edilmesi\". İlgili hüküm: \"a) Ders araç-gerecinin kurumun amaç ve ihtiyaçları için yeterli olduğunun bir rapor ile tespit edilmesi.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-21-8rhv",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum açma izni verilmesinde yönetici, öğretmen ve diğer personel bakımından hangi koşul aranır?",
+    "options": [
+      "Sayı ve nitelikler yönünden uygun bulunmaları ve çalışacaklarının belgelendirilmesi",
+      "Personelin kamu görevlisi statüsünde bulunması",
+      "Tüm personelin kurucu ile akrabalık ilişkisinin bulunması",
+      "Yalnız kurum müdürünün belgelendirilmesi",
+      "Personelin aynı ilde en az beş yıl çalışmış olması"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Sayı ve nitelikler yönünden uygun bulunmaları ve çalışacaklarının belgelendirilmesi\". İlgili hüküm: \"b) Kurumun; yönetici, öğretmen ve diğer personelinin sayı ve nitelikleri yönünden uygun bulunması ve bu kurumda çalışacaklarının belgelendirilmesi.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-22-4zhn",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum açma izni verilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Ders araç-gerecinin yeterliliği raporla tespit edilmelidir.",
+      "Kurum yönetmelikleri ve öğretim programı yalnız valilikçe incelenip onanır.",
+      "Çalışacak personelin sayı ve nitelikleri yönünden uygunluk aranır.",
+      "Kurum yönetmelikleri ile öğretim programı Bakanlıkça incelenip onanır.",
+      "Kurum binasının kullanım amacına ve Bakanlık standartlarına uygun olması gerekir."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Kurum yönetmelikleri ve öğretim programı yalnız valilikçe incelenip onanır.\". İlgili hüküm: \"Valilikçe açılması uygun görülen okullara ilişkin başvurular ise kurum açma izni verilmek üzere Bakanlığa gönderilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-23-ub56",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumları hariç bir özel ortaokula 1 Eylül tarihinden sonra kurum açma izni verilmiştir. Bu izin ne zaman geçerli olur?",
+    "options": [
+      "Ertesi eğitim-öğretim yılından itibaren",
+      "Takip eden takvim ayının başında",
+      "İznin verildiği gün",
+      "İlk öğrenci kaydının yapıldığı tarihte",
+      "Aynı eğitim-öğretim yılının ikinci yarısında"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Ertesi eğitim-öğretim yılından itibaren\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-24-k63c",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "1 Eylül tarihinden sonra verilen kurum açma izinlerinin ertesi eğitim-öğretim yılında geçerli olması kuralının istisnası olan kurum hangisidir?",
+    "options": [
+      "Özel lise",
+      "Özel eğitim okulu",
+      "Özel ilkokul",
+      "Özel ortaokul",
+      "Milletlerarası özel öğretim kurumu"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Milletlerarası özel öğretim kurumu\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-25-k0hg",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Gerçek ve tüzel kişilerin, hizmet içi eğitim kapsamına girmeyen Kanun kapsamındaki faaliyetleri yürütmesi için hangi işlem zorunludur?",
+    "options": [
+      "Yükseköğretim Kurulundan görüş alınması",
+      "Yalnız vergi dairesine bildirim verilmesi",
+      "İl genel meclisinden karar alınması",
+      "Yetkili makamlardan kurum açma izni alınması",
+      "Ticaret odasına üyelik yapılması"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Yetkili makamlardan kurum açma izni alınması\". İlgili hüküm: \"Gerçek ve tüzel kişiler tarafından; hizmet içi eğitim kapsamına giren faaliyetler dışında Kanun kapsamında belirtilen faaliyetler, bu Kanuna göre yetkili makamlardan kurum açma izni alınmadan yapılamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-26-7gmq",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Bir işletme, “atölye” adı altında düzenli eğitim ve öğretim faaliyeti yürütmektedir. Kanuna göre bu faaliyet için hangi yaklaşım doğrudur?",
+    "options": [
+      "Faaliyet yalnız öğrenci talebi varsa Bakanlığın denetimine girer.",
+      "Faaliyet kısa süreliyse kurum açma izni aranmaksızın yürütülebilir.",
+      "Faaliyet adına bakılmaksızın yalnız belediyenin denetimine tabidir.",
+      "Faaliyet ticari nitelikteyse hiçbir eğitim mevzuatına tabi değildir.",
+      "Faaliyet Bakanlığın izin ve denetimine tabidir; işletenler Kanundaki kurallara uymalıdır."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Faaliyet Bakanlığın izin ve denetimine tabidir; işletenler Kanundaki kurallara uymalıdır.\". İlgili hüküm: \"Her ne ad altında olursa olsun, eğitim ve öğretim sunmak amacıyla yürütülen faaliyetler Bakanlığın izin ve denetimine tabidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-27-hc1w",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kanuna uygun kurum açma izni ve işyeri açma ve çalışma ruhsatı bulunmadan eğitim-öğretim faaliyeti yürüttüğü belirlenen bir yer için aşağıdaki yaptırımlardan hangisi uygulanır?",
+    "options": [
+      "Brüt asgari ücretin yirmi katı idarî para cezası ve valilikçe kapatma",
+      "Brüt asgari ücretin beş katı para cezası ve Bakanlıkça uyarma",
+      "Brüt asgari ücretin on katı para cezası ve belediyece mühürleme",
+      "Bir aylık gelir tutarında para cezası ve kaymakamlıkça denetim",
+      "Yalnız öğrenci kayıtlarının silinmesi ve vergi dairesine bildirim"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Brüt asgari ücretin yirmi katı idarî para cezası ve valilikçe kapatma\". İlgili hüküm: \"Bu Kanun kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanuna uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu yerler valiliklerce kapatılır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-28-xe22",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’nun 3 üncü maddesine göre bir kurumda öğretime başlayabilmek için öncelikle aşağıdakilerden hangisinin alınması zorunludur?",
+    "options": [
+      "Sınav merkezi yetkisi",
+      "Öğrenci kontenjan onayı",
+      "Kurum açma izni",
+      "Öğretmen atama kararı",
+      "Belediye encümen kararı"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Kurum açma izni\". İlgili hüküm: \"Bir kurumda öğretime başlayabilmek için kurum açma izni alınması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-29-phgh",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurum açma izni başvuruları ilk olarak hangi makama yapılır?",
+    "options": [
+      "İlçe kaymakamlığına",
+      "Yükseköğretim Kuruluna",
+      "İlgili belediye başkanlığına",
+      "Doğrudan Bakanlığa",
+      "İlgili millî eğitim müdürlüğüne"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"İlgili millî eğitim müdürlüğüne\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-3-p8f2",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanun’a uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin kaç katı idarî para cezası uygulanır?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "5",
+      "10"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"20\". İlgili hüküm: \"Bu Kanun kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanuna uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu yerler valiliklerce kapatılır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-30-pjix",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurum açma izni alınmamış bir kurum bakımından aşağıdaki işlemlerden hangisi yapılamaz?",
+    "options": [
+      "Ders araç-gereci için fiyat alınması",
+      "Kurucu temsilcisinin belirlenmesi",
+      "Kuruma öğrenci kaydı yapılması",
+      "Öğretim programı taslağı hazırlanması",
+      "Kuruma ait binanın kiralanması"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Kuruma öğrenci kaydı yapılması\". İlgili hüküm: \"Kurum açma izni alınmadıkça, kuruma öğrenci kaydı yapılamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-31-racs",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre aşağıdaki kurumların hangilerinin aynı veya benzeri özel öğretim kurumları açılamaz?",
+    "options": [
+      "İmam hatip liseleri",
+      "Spor liseleri",
+      "Güzel sanatlar liseleri",
+      "Askerî okullar, emniyet teşkilâtına bağlı okullar ve din eğitimi-öğretimi yapan kurumlar",
+      "Sağlık meslek liseleri"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre askerî okulların, emniyet teşkilâtına bağlı okulların ve din eğitimi-öğretimi yapan kurumların aynı veya benzeri özel öğretim kurumları açılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-32-h0fs",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre, meyhane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması zorunludur?",
+    "options": [
+      "200",
+      "100",
+      "1000",
+      "500",
+      "50"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"100\". İlgili hüküm: \"Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-33-ar5z",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Buna göre, uzaklıkla ilgili müştereken hazırlanacak yönetmelik çalışmalarında aşağıdaki bakanlıklardan hangisi yer almaz?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Sağlık Bakanlığı",
+      "Kültür ve Turizm Bakanlığı",
+      "Millî Eğitim Bakanlığı",
+      "Gençlik ve Spor Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Gençlik ve Spor Bakanlığı\". İlgili hüküm: \"Uzaklıkla ilgili esaslar İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacakları yönetmelikle belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-34-l9l8",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin okul binalarından uzaklıkları ile ilgili esasların belirlendiği yönetmeliğin müştereken hazırlanmasında aşağıdaki hangi bakanlık yer almaz?",
+    "options": [
+      "Kültür ve Turizim Bakanlığı",
+      "Adalet Bakanlığı",
+      "Sağlık Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Millî Eğitim Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Adalet Bakanlığı\". İlgili hüküm: \"Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-35-gkom",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre gerçek kişi kurucularda, kasten işlenen bir suçtan dolayı kaç ay veya daha fazla süreyle hapis cezası almamış olma şartı aranır?",
+    "options": [
+      "18",
+      "6",
+      "30",
+      "3",
+      "12"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 4 üncü maddesine göre kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası almamış olma şartı aranır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-36-3o75",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Okullar ile içkili yerler arasındaki mesafe şartı, aşağıdaki kurum türlerinden hangisinde aranmaz?",
+    "options": [
+      "Özel Eğitim Okulları dışındaki diğer özel öğretim kurumları (Kurslar vb.)",
+      "Özel İlkokullar",
+      "Özel Anadolu Liseleri",
+      "Özel Fen Liseleri",
+      "Özel Ortaokullar"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Özel Eğitim Okulları dışındaki diğer özel öğretim kurumları (Kurslar vb.)\". İlgili hüküm: \"Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okullar dışındaki diğer özel öğretim kurumlarında bu zorunluluk aranmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-37-rizg",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Özel öğretim kurumlarının kurucularında, affa uğramış olsa bile aşağıda sayılan suçlardan hangisinden mahkûm olmama şartı aranır?",
+    "options": [
+      "Taksirli suçlar",
+      "Çevreyi kasten kirletme",
+      "Trafik güvenliğini tehlikeye sokma",
+      "İhaleye fesat karıştırma",
+      "Hakaret"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"İhaleye fesat karıştırma\". İlgili hüküm: \"Özel öğretim kurumlarının gerçek kişi kurucularında, tüzel kişi kurucularının yönetim organlarında, kurucu temsilcilerinde ve personelinde; 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası ya da affa uğramış olsa bile Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, millî savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık suçları, cinsel dokunulmazlığa karşı suçlar ve 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında işlenen suçlardan ceza almamış olması, terör örgütlerine ya da Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti ya da iltisakı yahut bunlarla irtibatı olmaması şartı aranır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-38-gi19",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Özel öğretim kurumları ile ilgili \"Mesafe (100 metre) tespitinde\" hangi bakanlıkların müşterek yönetmeliği esas alınır?",
+    "options": [
+      "İçişleri - Çevre Şehircilik - MEB - Sağlık - Kültür Turizm",
+      "MEB - Maliye - Adalet - İçişleri",
+      "Sadece İçişleri ve MEB",
+      "Ulaştırma - MEB - İçişleri",
+      "MEB - Tarım - Sağlık"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"İçişleri - Çevre Şehircilik - MEB - Sağlık - Kültür Turizm\". İlgili hüküm: \"Uzaklıkla ilgili esaslar İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacakları yönetmelikle belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-39-zdqz",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Turizmin yoğun olduğu yörelerdeki okulların.......... olduğu dönemlerde, içkili yerler ile okullar arasında mesafe şartı aranmaz.",
+    "options": [
+      "Açık",
+      "Sınav",
+      "Kayıt",
+      "Tatil",
+      "Yarıyıl"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Tatil\". İlgili hüküm: \"Turizmin yoğun olduğu yörelerde bulunan okulların tatil olduğu dönemlerde, yukarıda belirtilen iş yerleri ile okullar arasında yüz metre uzaklık şartı aranmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-4-is6x",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurum açma izni ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Valilikçe yapılan inceleme sonucunda açılması uygun görülen okullar dışındaki kurumlara kurum açma izni verilir.",
+      "Askerî okullar, emniyet teşkilâtına bağlı okullar ve din eğitimi-öğretimi yapan kurumların aynı veya benzeri özel öğretim kurumları açılamaz.",
+      "İzin başvuruları valiliklere yapılır.",
+      "Kurum açma izni alınmadıkça, kuruma öğrenci kaydı yapılamaz.",
+      "Kurumlara ad verilmesine ilişkin esaslar yönetmelikle belirlenir."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"İzin başvuruları valiliklere yapılır.\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-40-oisq",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre, kurucularda, kasten işlenen bir suçtan dolayı.......... veya daha fazla süreyle hapis cezası almamış olma şartı aranır.",
+    "options": [
+      "6 ay",
+      "18 ay",
+      "1 yıl",
+      "3 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"1 yıl\". İlgili hüküm: \"Özel öğretim kurumlarının gerçek kişi kurucularında, tüzel kişi kurucularının yönetim organlarında, kurucu temsilcilerinde ve personelinde; 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası ya da affa uğramış olsa bile Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, millî savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık suçları, cinsel dokunulmazlığa karşı suçlar ve 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında işlenen suçlardan ceza almamış olması, terör örgütlerine ya da Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti ya da iltisakı yahut bunlarla irtibatı olmaması şartı aranır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-41-iqor",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum binalarının nitelikleri, bu binalarda açılabilecek kurumlar ile tesis ve donanıma ilişkin standartları hangi makam belirler?",
+    "options": [
+      "İlçe kaymakamlığı",
+      "Bakanlık",
+      "İlgili valilik makamı",
+      "Belediye meclisi",
+      "Ticaret odası"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Bakanlık\". İlgili hüküm: \"Kurum binalarının nitelikleri, bu binalarda açılabilecek kurumlar ile her tür tesis ve donanıma ilişkin standartlar Bakanlıkça belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-42-yff6",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yüz metre uzaklık şartının aranmadığı durum aşağıdakilerden hangisidir?",
+    "options": [
+      "Turizmin yoğun olduğu yörelerde okulların tatil olduğu dönemler",
+      "Valiliğin talep ettiği her eğitim-öğretim dönemi",
+      "Okulların eğitim-öğretime devam ettiği dönemler",
+      "Kurum binasının kiraya verildiği tüm hâller",
+      "Özel ilkokulların bulunduğu tüm bölgeler"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Turizmin yoğun olduğu yörelerde okulların tatil olduğu dönemler\". İlgili hüküm: \"Turizmin yoğun olduğu yörelerde bulunan okulların tatil olduğu dönemlerde, yukarıda belirtilen iş yerleri ile okullar arasında yüz metre uzaklık şartı aranmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-43-ie2c",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okulların üzerinde kuruldukları araziler genişletilmemek şartıyla bina kapasitesini 1 misli artırma iznini kim verir?",
+    "options": [
+      "Belediye",
+      "Tapu Kadastro",
+      "Valilik",
+      "Bakanlık",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Bakanlık\". İlgili hüküm: \"2) Üzerinde kuruldukları araziler genişletilmemek şartı ve Bakanlığın izni ile mevcut arazi üzerindeki bina, öğrenci ve donanım kapasitelerini en çok bir mislini geçmemek üzere artırabilir veya yenileyebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-44-shdv",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Okullar dışındaki diğer özel öğretim kurumları bakımından yüz metre uzaklık şartı aranmasa da aşağıdaki kurallardan hangisine uyulması zorunludur?",
+    "options": [
+      "Öğrenci kayıtlarını yalnız yaz aylarında yapmaları",
+      "Yalnız belediye mülkiyetindeki binalarda faaliyette bulunmaları",
+      "Bina kiralarını Bakanlığa bildirmeleri",
+      "Sadece gündüz öğretimi yürütmeleri",
+      "Sayılan umuma açık yerler ile aynı binada bulunmamaları"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Sayılan umuma açık yerler ile aynı binada bulunmamaları\". İlgili hüküm: \"Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-45-0607",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Turizmin yoğun olduğu yörelerdeki okullara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Okulların tatil olduğu dönemlerde de sayılan iş yerleriyle yüz metre uzaklık korunmalıdır.",
+      "Kural, sayılan umuma açık yerler ile açık alkollü içki satılan yerleri kapsar.",
+      "Uzaklık kuralı kapıdan kapıya ölçülür.",
+      "Uzaklığa ilişkin esaslar ortak yönetmelikle belirlenir.",
+      "Okulların tatil olduğu dönemlerde yüz metre uzaklık şartı aranmaz."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Okulların tatil olduğu dönemlerde de sayılan iş yerleriyle yüz metre uzaklık korunmalıdır.\". İlgili hüküm: \"Turizmin yoğun olduğu yörelerde bulunan okulların tatil olduğu dönemlerde, yukarıda belirtilen iş yerleri ile okullar arasında yüz metre uzaklık şartı aranmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-46-jv64",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurum binalarıyla umuma açık yerler arasındaki uzaklığa ilişkin esasları belirleyecek yönetmelik aşağıdaki bakanlıklardan hangilerinin müşterek hazırlığıyla çıkarılır?",
+    "options": [
+      "Çevre ve Şehircilik, Tarım ve Orman, Sanayi ve Teknoloji ile Millî Eğitim Bakanlıkları",
+      "Millî Eğitim, Adalet, Hazine ve Maliye ile Ticaret Bakanlıkları",
+      "Aile ve Sosyal Hizmetler, Millî Savunma, Sağlık ile Kültür ve Turizm Bakanlıkları",
+      "İçişleri, Ulaştırma, Gençlik ve Spor ile Sağlık Bakanlıkları",
+      "İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık ile Kültür ve Turizm Bakanlıkları"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık ile Kültür ve Turizm Bakanlıkları\". İlgili hüküm: \"Uzaklıkla ilgili esaslar İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacakları yönetmelikle belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-47-a334",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre kurum binalarının nitelikleri, bu binalarda açılabilecek kurumlar ile her tür tesis ve donanıma ilişkin standartlar kim tarafından belirlenir?",
+    "options": [
+      "Bakanlıkça",
+      "Belediye meclisince",
+      "İl özel idaresince",
+      "Valilikçe",
+      "Kaymakamlıkça"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Bakanlıkça\". İlgili hüküm: \"Kurum binalarının nitelikleri, bu binalarda açılabilecek kurumlar ile her tür tesis ve donanıma ilişkin standartlar Bakanlıkça belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-48-xixw",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları bakımından yüz metre uzaklık şartına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Bu kurumlarda mesafe şartı valiliğin takdirine bırakılmıştır.",
+      "Bu kurumlarda da yüz metre şartı aynen aranır.",
+      "Bu kurumlarda elli metre şartı uygulanır.",
+      "Bu kurumlarda mesafe şartı yalnızca il merkezlerinde aranır.",
+      "Bu kurumlarda yüz metre şartı aranmaz, ancak söz konusu kurumlarla umuma açık yerler aynı binada bulunamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Bu kurumlarda yüz metre şartı aranmaz, ancak söz konusu kurumlarla umuma açık yerler aynı binada bulunamaz.\". İlgili hüküm: \"Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okullar dışındaki diğer özel öğretim kurumlarında bu zorunluluk aranmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-49-pins",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre kurucu/kurucu temsilcisinin nitelikleri ile kurum binalarına ilişkin düzenlemeler hangi maddede yer alır?",
+    "options": [
+      "Madde 5",
+      "Madde 4",
+      "Madde 6",
+      "Madde 2",
+      "Madde 3"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"Madde 4\". İlgili hüküm: \"Özel öğretim kurumlarının gerçek kişi kurucularında, tüzel kişi kurucularının yönetim organlarında, kurucu temsilcilerinde ve personelinde; 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezası ya da affa uğramış olsa bile Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, millî savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık suçları, cinsel dokunulmazlığa karşı suçlar ve 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında işlenen suçlardan ceza almamış olması, terör örgütlerine ya da Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti ya da iltisakı yahut bunlarla irtibatı olmaması şartı aranır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-5-dcbd",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurum açma iznine ilişkin verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bir kurumda öğretime başlayabilmek için kurum açma izni alınması zorunludur.",
+      "Kurum açma izni alınmadıkça, kuruma öğrenci kaydı yapılamaz.",
+      "Milletlerarası özel öğretim kurumları hariç bu Kanun kapsamındaki ilkokul, ortaokul, lise ve özel eğitim okulları için 1 Eylül tarihinden sonra verilen kurum açma izinleri, ertesi eğitim-öğretim yılından itibaren geçerlidir.",
+      "İzin başvuruları ilgili millî eğitim müdürlüğüne yapılır.",
+      "Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren 30 iş günü içinde Bakanlığa itirazda bulunulabilir."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren 30 iş günü içinde Bakanlığa itirazda bulunulabilir.\". İlgili hüküm: \"Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren onbeş iş günü içinde Bakanlığa itirazda bulunulabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-50-idm1",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre, 5 inci maddenin (b) bendinde izin verilen hâller dışında yabancı okullar bakımından aşağıdakilerden hangisi yapılamaz?",
+    "options": [
+      "Mevcut binada ihtiyaç hâlinde valilik izniyle tadilat yapılması",
+      "Cumhurbaşkanının izniyle yeni arazi edinilmesi",
+      "Bakanlığın izniyle mevcut arazi üzerindeki kapasitenin artırılması",
+      "Taşınmaz malların Cumhurbaşkanının izniyle Bakanlığa devredilmesi",
+      "Şube açılması"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 5 inci maddesine göre belirtilen izinli hâller dışında yabancı okulların şubeleri açılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-51-0xtd",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Meyhane, kahvehane, kıraathane, bar ve elektronik oyun merkezleri gibi umuma açık yerlerin okul binalarından uzaklığına ilişkin esaslar hangi bakanlıkların birlikte hazırlayacağı yönetmelikle belirlenir?",
+    "options": [
+      "Yalnızca Millî Eğitim ve Sağlık bakanlıkları",
+      "Adalet, İçişleri ve Millî Eğitim bakanlıkları",
+      "İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıkları",
+      "Yalnızca İçişleri Bakanlığı",
+      "Millî Eğitim, Hazine ve Maliye, Ticaret bakanlıkları"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 4 maddesi uyarınca doğru cevap: \"İçişleri, Çevre ve Şehircilik, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıkları\". İlgili hüküm: \"Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-52-opwz",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre milletlerarası özel öğretim kurumları (yükseköğretim dışındakiler dâhil) yabancı uyruklu gerçek veya tüzel kişiler tarafından hangi usulle açılabilir?",
+    "options": [
+      "Yükseköğretim Kurulunun kararıyla",
+      "Doğrudan yabancı yatırımlar mevzuatı çerçevesinde Cumhurbaşkanının izniyle",
+      "Belediye meclisinin uygun görüşüyle",
+      "İlçe millî eğitim müdürlüğünün yazısıyla",
+      "Yalnız valiliğin kararıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Doğrudan yabancı yatırımlar mevzuatı çerçevesinde Cumhurbaşkanının izniyle\". İlgili hüküm: \"1) Yalnız yabancı uyruklu öğrencilerin devam edebilecekleri yüksek öğretim dışındaki milletlerarası özel öğretim kurumu; yabancı uyruklu gerçek ve tüzel kişiler tarafından veya Türk vatandaşlarıyla ortaklık yolu ile 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu çerçevesinde Cumhurbaşkanının izniyle açılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-53-accf",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre milletlerarası özel öğretim kurumları ve yabancı okullar ve azınlık okulları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Yabancı okulların taşınmaz malları, kurucularının veya yetkililerinin önerisi ileBakanlığa ya da kuruluş amaçları eğitim vermek olan 4721 sayılı Türk Medenî Kanunu’na görekurulan vakıflara Cumhurbaşkanının izni ile devredilebilir.",
+      "Mevcut binalarında ihtiyaç hâlinde valiliğin izni ile tadilat yapabilir.",
+      "Cumhurbaşkanının izni ile yeni arazi edinebilir ve kapasitelerini en fazla beş misline kadar artırabilir.",
+      "Bu kurumlarda öğretim programları, eğitim-öğretim faaliyetleri ve diğer hususlarla ilgili işlemler, kurum yönetimince hazırlanan ve Bakanlıkça onaylanan esaslara göre yürütülür.",
+      "Üzerinde kuruldukları arazileri genişletip gerekli tesisleri yapabilirler."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Üzerinde kuruldukları arazileri genişletip gerekli tesisleri yapabilirler.\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları, yabancı okullar ve azınlık okullarına ilişkin esaslar aşağıda belirtilmiştir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-54-imrs",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okulların, mevcut arazi üzerindeki bina ve donanım kapasitelerini en çok bir mislini geçmemek üzere artırmasına veya yenilemesine izin vermeye yetkili makam hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Valilik",
+      "Millî Eğitim Bakanlığı",
+      "İl Millî Eğitim Müdürlüğü",
+      "Vakıflar Genel Müdürlüğü"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Millî Eğitim Bakanlığı\". İlgili hüküm: \"2) Üzerinde kuruldukları araziler genişletilmemek şartı ve Bakanlığın izni ile mevcut arazi üzerindeki bina, öğrenci ve donanım kapasitelerini en çok bir mislini geçmemek üzere artırabilir veya yenileyebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-55-h9wd",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Azınlık okullarında aşağıdakilerden hangisi öğrenci olarak okuyabilir?",
+    "options": [
+      "Bölgede yaşayan tüm T. C. vatandaşları",
+      "Kendi azınlığına mensup T. C. vatandaşları",
+      "Herhangi bir azınlığa mensup T. C. vatandaşları",
+      "Yalnızca yabancı uyruklu öğrenciler",
+      "Sınavla belirlenen başarılı öğrenciler"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Kendi azınlığına mensup T. C. vatandaşları\". İlgili hüküm: \"Bu okullarda yalnız kendi azınlığına mensup Türkiye Cumhuriyeti vatandaşlarının çocukları okuyabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-56-0cpk",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "\"Milletlerarası özel öğretim kurumları\"na devam ederken Türk vatandaşlığını kazananlar ne zamana kadar öğrenimlerine devam edebilirler?",
+    "options": [
+      "Bulunduğu öğretim kademesinin sonuna kadar.",
+      "O öğretim yılının sonuna kadar.",
+      "Mezun olana kadar.",
+      "1 yıl daha.",
+      "Derhal ilişikleri kesilir."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Bulunduğu öğretim kademesinin sonuna kadar.\". İlgili hüküm: \"Bu kurumlara devam ederken Türk vatandaşlığını kazananlar, bulunduğu öğretim kademesinin sonuna kadar aynı kurumda veya aynı programı uygulayan başka bir milletlerarası özel öğretim kurumunda öğrenimlerine devam edebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-57-77ld",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okullar, üzerinde kuruldukları arazileri genişletmemek ve Bakanlığın iznini almak şartıyla mevcut arazi üzerindeki bina, öğrenci ve donanım kapasitelerini en çok ne kadar artırabilir?",
+    "options": [
+      "Beş misli",
+      "Üç misli",
+      "Bir misli",
+      "On misli",
+      "Sınırsız"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 5 inci maddesine göre yabancı okullar, mevcut arazi üzerindeki bina, öğrenci ve donanım kapasitelerini en çok bir mislini geçmemek üzere artırabilir veya yenileyebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-58-iopn",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okulların taşınmaz malları, kurucularının veya yetkililerinin önerisiyle Bakanlığa ya da kuruluş amaçları eğitim vermek olan vakıflara kimin izniyle devredilebilir?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Valilik",
+      "Bakanlar Kurulu",
+      "Bakanlık"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 inci maddesine göre bu devir Cumhurbaşkanının izniyle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-59-6sed",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumlarında öğretim programları ve eğitim-öğretim faaliyetlerine ilişkin işlemler hangi esaslara göre yürütülür?",
+    "options": [
+      "Yalnız kurucu tarafından belirlenen esaslara göre",
+      "Belediye encümenince kararlaştırılan esaslara göre",
+      "Öğrenci velilerinin oylamasıyla belirlenen esaslara göre",
+      "Kurum yönetimince hazırlanıp Bakanlıkça onaylanan esaslara göre",
+      "Yabancı ülke temsilciliklerince bildirilen esaslara göre"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Kurum yönetimince hazırlanıp Bakanlıkça onaylanan esaslara göre\". İlgili hüküm: \"3) Bu kurumlarda öğretim programları, eğitim-öğretim faaliyetleri ve diğer hususlarla ilgili işlemler, kurum yönetimince hazırlanan ve Bakanlıkça onaylanan esaslara göre yürütülür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-6-n5jn",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren kaç iş günü içinde Bakanlığa itirazda bulunulabilir?",
+    "options": [
+      "On beş",
+      "Altmış",
+      "Otuz",
+      "Yirmi",
+      "On"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"On beş\". İlgili hüküm: \"Kurum açma izni talebinin valilikçe reddedilmesi hâlinde, kurucu veya kurucu temsilcisi tarafından taleplerinin reddine ilişkin işlemin tebliğinden itibaren onbeş iş günü içinde Bakanlığa itirazda bulunulabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-60-1fjb",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumunda öğrenim görürken Türk vatandaşlığını kazanan öğrenci için aşağıdaki uygulamalardan hangisi Kanuna uygundur?",
+    "options": [
+      "Bulunduğu öğretim kademesinin sonuna kadar aynı kurumda veya aynı programı uygulayan başka bir milletlerarası kurumda devam etmesi",
+      "Bir ay içinde yurtdışında bulunan farklı programlı bir okula herhangi bir tercih hakkı tanınmadan gönderilmesi",
+      "Mezun olana kadar değil, öğretim kademesi sınırı gözetilmeksizin süresiz biçimde aynı kurumda tutulması",
+      "Öğrencinin yalnız resmî ortaokula zorunlu nakledilerek aynı öğretim kademesine orada devam ettirilmesi",
+      "Vatandaşlığı kazandığı gün hiçbir geçiş süreci olmadan eğitim hakkının ve okul kaydının birlikte sona erdirilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Bulunduğu öğretim kademesinin sonuna kadar aynı kurumda veya aynı programı uygulayan başka bir milletlerarası kurumda devam etmesi\". İlgili hüküm: \"Bu kurumlara devam ederken Türk vatandaşlığını kazananlar, bulunduğu öğretim kademesinin sonuna kadar aynı kurumda veya aynı programı uygulayan başka bir milletlerarası özel öğretim kurumunda öğrenimlerine devam edebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-61-gk6s",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumlarıyla ilgili olarak Bakanlığın hangi yetkisi saklı tutulmuştur?",
+    "options": [
+      "Bina mülkiyetini devralma",
+      "Öğrenci kabulünü tamamen serbest bırakma",
+      "Öğretmen maaşlarını belirleme",
+      "Denetim hakkı",
+      "Kurucu seçimini yapma"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Denetim hakkı\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları, yabancı okullar ve azınlık okullarına ilişkin esaslar aşağıda belirtilmiştir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-62-4pdn",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumlarında aşağıdaki eğitim-öğretim faaliyetlerinden hangisine izin verilmez?",
+    "options": [
+      "Kurum yönetimince hazırlanan eğitim-öğretim düzenlemelerinin yürütülmesine",
+      "Türk Devletinin ülkesi ve milletiyle bölünmez bütünlüğüne aykırı eğitim yapılmasına",
+      "Bakanlığın denetim hakkını kullanmasına",
+      "Bakanlıkça onaylanan esaslara göre öğretim programı uygulanmasına",
+      "Öğrencilerin bulundukları öğretim kademesinde öğrenim görmesine"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Türk Devletinin ülkesi ve milletiyle bölünmez bütünlüğüne aykırı eğitim yapılmasına\". İlgili hüküm: \"2) Bu öğretim kurumlarında; Türk Devletinin ülkesi ve milletiyle bölünmez bütünlüğüne, güvenliğine ve menfaatlerine aykırı, Türk Milletinin millî, ahlâkî, insanî, manevî ve kültürel değerleri aleyhinde eğitim-öğretim yapılamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-63-64dk",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Mevcut arazisini genişletmeksizin bina, öğrenci ve donanım kapasitesini artırmak veya yenilemek isteyen yabancı okul için doğru eşleştirme aşağıdakilerden hangisidir?",
+    "options": [
+      "Belediye izniyle mevcut kapasitenin sınırsız artırımı",
+      "Cumhurbaşkanı izniyle mevcut kapasitenin en çok on misline kadar artırım",
+      "Valilik izniyle mevcut kapasitenin en çok beş misline kadar artırım",
+      "Bakanlık izniyle mevcut kapasitenin en çok bir misline kadar artırım veya yenileme",
+      "Kaymakamlık izniyle mevcut kapasitenin en çok iki misline kadar artırım"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Bakanlık izniyle mevcut kapasitenin en çok bir misline kadar artırım veya yenileme\". İlgili hüküm: \"2) Üzerinde kuruldukları araziler genişletilmemek şartı ve Bakanlığın izni ile mevcut arazi üzerindeki bina, öğrenci ve donanım kapasitelerini en çok bir mislini geçmemek üzere artırabilir veya yenileyebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-64-nbaw",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okullara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Mevcut binalarının yerine kaim olmak üzere yeni bina inşa edemezler.",
+      "Bu amaçla herhangi bir mülk edinemez veya kiralayamazlar.",
+      "Binalarını genişletemezler.",
+      "Mevcut binalarında ihtiyaç hâlinde valiliğin izniyle tadilat yapabilirler.",
+      "Yabancı okullar, valiliğin izniyle yeni şubeler açabilir."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Yabancı okullar, valiliğin izniyle yeni şubeler açabilir.\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları, yabancı okullar ve azınlık okullarına ilişkin esaslar aşağıda belirtilmiştir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-65-y10d",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okulların taşınmaz mallarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kuruluş amacı eğitim vermek olan belirli vakıflara devir yapılabilir.",
+      "Devir için Cumhurbaşkanının izni aranır.",
+      "Taşınmazlar yalnız Bakanlığa devredilebilir; eğitim amacı taşıyan vakıflara devredilemez.",
+      "Devir, kurucularının veya yetkililerinin önerisiyle yapılabilir.",
+      "Korunması yararlı görülen kurumları Bakanlık tespit eder."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Taşınmazlar yalnız Bakanlığa devredilebilir; eğitim amacı taşıyan vakıflara devredilemez.\". İlgili hüküm: \"5) Yabancı okulların taşınmaz malları, kurucularının veya yetkililerinin önerisi ile Bakanlığa ya da kuruluş amaçları eğitim vermek olan 4721 sayılı Türk Medenî Kanununa göre kurulan vakıflara Cumhurbaşkanının izni ile devredilebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-66-gxao",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Azınlık okullarına öğrenci kabulü bakımından aşağıdaki ifadelerden hangisi Kanuna uygun değildir?",
+    "options": [
+      "Yönetmelikte belirtilmeyen hususlarda resmî okul mevzuatının uygulanması",
+      "Kendi azınlığına mensup Türkiye Cumhuriyeti vatandaşı çocukların okuyabilmesi",
+      "Özellik gösteren hususların yönetmelikle tespit edilmesi",
+      "İlgili ülkelerin mütekabil mevzuat ve uygulamalarının dikkate alınması",
+      "Yalnız yabancı uyruklu öğrencilerin devam edebilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Yalnız yabancı uyruklu öğrencilerin devam edebilmesi\". İlgili hüküm: \"1) Yalnız yabancı uyruklu öğrencilerin devam edebilecekleri yüksek öğretim dışındaki milletlerarası özel öğretim kurumu; yabancı uyruklu gerçek ve tüzel kişiler tarafından veya Türk vatandaşlarıyla ortaklık yolu ile 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu çerçevesinde Cumhurbaşkanının izniyle açılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-67-nn9o",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Azınlık okullarına ilişkin yönetmelikte düzenlenmeyen hususlarda hangi mevzuat uygulanır?",
+    "options": [
+      "Yükseköğretim mevzuatı",
+      "Resmî okullar mevzuatı",
+      "Özel şirket ana sözleşmesi",
+      "Yabancı ülke okul mevzuatı",
+      "Belediye zabıta mevzuatı"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Resmî okullar mevzuatı\". İlgili hüküm: \"Yönetmelikte belirtilmeyen hususlarda resmî okullar mevzuatı uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-68-nbdx",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Milletlerarası özel öğretim kurumlarıyla ilgili olarak; I. Yabancı uyruklu gerçek ve tüzel kişilerce belirli izinle açılabilir. II. Türkiye Cumhuriyeti uyrukluları da kendi adlarına aynı amaçla kurum açabilir. III. Öğretim programları kurum yönetimince hazırlanıp Bakanlıkça onaylanan esaslara göre yürütülür. İfadelerinden hangileri doğrudur?",
+    "options": [
+      "II ve III",
+      "I ve III",
+      "Yalnız II",
+      "I, II ve III",
+      "I ve II"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"I, II ve III\". İlgili hüküm: \"Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler de kendi adlarına aynı amaçla milletlerarası mahiyette özel öğretim kurumu açabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-69-742a",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okullar için; I. Yeni arazi edinerek kapasite artırımı Cumhurbaşkanının izniyle belirli sınıra kadar yapılabilir. II. Mevcut arazi genişletilmeden kapasite artırımında Bakanlık izni aranır. III. Mevcut binada ihtiyaç hâlinde tadilat için valilik izni aranır. İfadelerinden hangileri doğrudur?",
+    "options": [
+      "I ve III",
+      "II ve III",
+      "I, II ve III",
+      "Yalnız I",
+      "I ve II"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"I, II ve III\". İlgili hüküm: \"1) Cumhurbaşkanının izni ile yeni arazi edinebilir ve kapasitelerini en fazla beş misline kadar artırabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-7-k05x",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre, \"Okullar\" (kolejler vb.) için kurum açma izni vermeye yetkili makam aşağıdakilerden hangisidir?",
+    "options": [
+      "Büyükşehir Belediyesi",
+      "Valilik",
+      "İl Millî Eğitim Müdürlüğü",
+      "İlçe Millî Eğitim Müdürlüğü",
+      "Millî Eğitim Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Millî Eğitim Bakanlığı\". İlgili hüküm: \"Gerçek ve tüzel kişiler tarafından; hizmet içi eğitim kapsamına giren faaliyetler dışında Kanun kapsamında belirtilen faaliyetler, bu Kanuna göre yetkili makamlardan kurum açma izni alınmadan yapılamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-70-v0oy",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Yabancı okulların kapasite ve bina işlemleri bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yeni arazi edinerek kapasite artırımı Cumhurbaşkanının izniyle en fazla beş misline kadar yapılabilir.",
+      "Mevcut arazi genişletilmeden yapılacak kapasite artışı, Bakanlık izniyle en fazla beş misline kadar olabilir.",
+      "Mevcut arazi genişletilmeden kapasite artışı Bakanlık izniyle yapılabilir.",
+      "Mevcut binada ihtiyaç hâlindeki tadilat için valilik izni aranır.",
+      "Mevcut arazi üzerindeki artırım veya yenileme en çok bir misliyle sınırlıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Mevcut arazi genişletilmeden yapılacak kapasite artışı, Bakanlık izniyle en fazla beş misline kadar olabilir.\". İlgili hüküm: \"1) Cumhurbaşkanının izni ile yeni arazi edinebilir ve kapasitelerini en fazla beş misline kadar artırabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-71-0hyy",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre yabancı okulların yeni arazi edinerek kapasitelerini artırabilmesi, kapasitenin en fazla.......... kadar artırılması şartıyla.......... iznine tabidir.",
+    "options": [
+      "sınırsız/Valiliğin",
+      "iki misline/Belediyenin",
+      "üç misline/Kaymakamın",
+      "beş misline/Cumhurbaşkanının",
+      "bir misline/Bakanlığın"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"beş misline/Cumhurbaşkanının\". İlgili hüküm: \"1) Cumhurbaşkanının izni ile yeni arazi edinebilir ve kapasitelerini en fazla beş misline kadar artırabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-8-8813",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre, okullar dışındaki diğer özel öğretim kurumlarına (kurslar, rehabilitasyon merkezleri vb.) kurum açma izni vermeye yetkili makam hangisidir?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "İl Millî Eğitim Müdürlüğü",
+      "Millî Eğitim Bakanlığı",
+      "Belediye Başkanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Valilik\". İlgili hüküm: \"Valilikçe yapılan inceleme sonucunda açılması uygun görülen okullar dışındaki kurumlara kurum açma izni verilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1m-9-30sq",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Kurumlara ad verilmesine ilişkin esaslar ne ile belirlenir?",
+    "options": [
+      "Cumhurbaşkanı Kararnamesiyle",
+      "Valilik emriyle",
+      "Yönetmelikle",
+      "Kanunla",
+      "Genelgeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"Yönetmelikle\". İlgili hüküm: \"Kurumlara ad verilmesine ilişkin esaslar yönetmelikle belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1n-72-gxaf",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre yabancı okulun mevcut binasında ihtiyaç hâlinde tadilat yapabilmesine izin vermeye yetkili makam hangisidir?",
+    "options": [
+      "Valilik",
+      "Bakanlık merkez teşkilatı",
+      "İlçe millî eğitim müdürlüğü",
+      "Cumhurbaşkanlığı",
+      "Belediye başkanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 5 maddesi uyarınca doğru cevap: \"Valilik\". İlgili hüküm: \"Milletlerarası özel öğretim kurumları, yabancı okullar ve azınlık okullarına ilişkin esaslar aşağıda belirtilmiştir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1n-73-9ial",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "Özel hukuk tüzel kişisi tarafından açılan kurumun kurucularında yabancı ortaklık tespit edilmiştir. Kuruma.......... idarî para cezası uygulanır ve ortaklığın sona erdirilmesi için.......... süre verilir.",
+    "options": [
+      "brüt asgari ücretin beş katı/on beş iş günü",
+      "brüt asgari ücretin on katı/bir ay",
+      "brüt asgari ücretin yirmi katı/altmış gün",
+      "brüt asgari ücretin elli katı/bir yıl",
+      "brüt asgari ücretin yirmi katı/otuz iş günü"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 3 maddesi uyarınca doğru cevap: \"brüt asgari ücretin yirmi katı/otuz iş günü\". İlgili hüküm: \"Bu Kanunun 1 inci maddesinde belirtilen şartları taşıyıp özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılan özel öğretim kurumlarının kurucularında yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının tespit edilmesi hâlinde söz konusu kurumlara brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu kurumlara yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının sona erdirilmesine ilişkin 30 iş günü süre verilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  }
+]

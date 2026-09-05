@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-7-ok1b",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği ne zaman yürürlüğe girer?",
+    "options": [
+      "Resmî Gazete'de yayımından 30 gün sonra",
+      "Bakan onayı tarihinde",
+      "Yayımı tarihinde",
+      "Her yıl 1 Eylül'de"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7: Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-8-wmqe",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği'nin hükümlerini kim yürütür?",
+    "options": [
+      "Müsteşar",
+      "Millî Eğitim Bakanı",
+      "İnsan Kaynakları Genel Müdürü",
+      "Bakan Yardımcısı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 8: Bu Yönetmelik hükümlerini Millî Eğitim Bakanı yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-9-fmjb",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği ilk olarak hangi tarihte Resmî Gazete'de yayımlanmıştır?",
+    "options": [
+      "3/6/1991",
+      "11/7/2025",
+      "2/1/2022",
+      "14/7/1965"
+    ],
+    "answer_index": 2,
+    "explanation": "Yönetmelik 2/1/2022 tarihli ve 31707 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-0-r6g9",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Öğretmenlerin Atama ve Yer Değiştirme Yönetmeliğinin amacı nedir?",
+    "options": [
+      "Öğretmenlerin disiplin işlemlerini düzenlemek",
+      "Millî Eğitim Bakanlığına bağlı resmî eğitim kurumlarının öğretmen kadrolarına atama ile kadrolu öğretmenlerin yer değiştirmelerine ilişkin usul ve esasları düzenlemek",
+      "Yöneticilerin atanmasını düzenlemek",
+      "Özel öğretim kurumlarının denetimini düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 1(1): Yönetmeliğin amacı, öğretmen kadrolarına atama ile kadrolu öğretmenlerin yer değiştirmelerine ilişkin usul ve esasları düzenlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-1-5y8o",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmelik kimleri kapsamaktadır?",
+    "options": [
+      "Yalnızca yöneticileri",
+      "Yalnızca sözleşmeli öğretmenleri",
+      "Kadrolu öğretmen olarak atanacaklar ile bu kurumlarda görev yapan öğretmenleri",
+      "Millî Eğitim Bakanlığı merkez teşkilatı memurlarını"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 1(2): Yönetmelik, kadrolu öğretmen olarak atanacaklar ile eğitim kurumlarında görev yapan öğretmenleri kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-10-qv6k",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Öğretmen kadrolarına atanacaklarda aranan şartlardan biri değildir:",
+    "options": [
+      "Türk vatandaşı olmak",
+      "Kamu haklarından mahrum bulunmamak",
+      "Sağlık durumu yönünden öğretmenliğe engel olmamak",
+      "En az yüksek lisans mezunu olmak"
+    ],
+    "answer_index": 3,
+    "explanation": "MADDE 7(1): Yükseköğretim programından mezun olma şartı aranır; yüksek lisans şartı yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-11-c2t8",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Ataması yapılanlara tebligat hangi Kanuna göre yapılır?",
+    "options": [
+      "7201 sayılı Tebligat Kanunu",
+      "657 sayılı Devlet Memurları Kanunu",
+      "2577 sayılı İdari Yargılama Usulü Kanunu",
+      "6245 sayılı Harcırah Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 8(1): Tebligat, 7201 sayılı Tebligat Kanununa göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-12-dl11",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Belge ile ispatı mümkün olmayan zorlayıcı sebep bulunmaksızın süresi içinde göreve başlamayanların durumu nedir?",
+    "options": [
+      "Bir yıl göreve başlama hakları saklı tutulur",
+      "Atamaları iptal edilir",
+      "Uyarı cezası verilir",
+      "Aylıksız izinli sayılırlar"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 8(3): Süresi içinde göreve başlamayanların atamaları iptal edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-13-qawc",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "BİLSEM'e öğretmen olarak başvurabilmek için Bakanlık kadro/pozisyonlarında en az kaç yıl görev yapmış olmak gerekir?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 9(2): Başvurunun son günü itibarıyla en az 3 yıl görev yapmış olanlar başvurabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-14-89lp",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İl öğretmen değerlendirme komisyonu kararlarını nasıl alır?",
+    "options": [
+      "Oy birliği ile",
+      "Oy çokluğu ile",
+      "Başkanın tek başına kararıyla",
+      "Kura ile"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 10(2): Komisyon kararları oy çokluğu ile alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-15-17d5",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Sözlü sınav komisyonu kaç üyeden oluşur?",
+    "options": [
+      "3 üye",
+      "5 üye",
+      "7 üye",
+      "9 üye"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 11(1): Sözlü sınav komisyonu toplam üç üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-16-mpra",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "BİLSEM sözlü sınavında ilan edilen kontenjanın kaç katı aday sınava alınır?",
+    "options": [
+      "İki katı",
+      "Üç katı",
+      "Dört katı",
+      "Beş katı"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 12(2): En yüksek puandan başlanarak kontenjanın üç katı aday sözlü sınava alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-17-2255",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "BİLSEM sözlü sınavında başarılı sayılmak için en az kaç puan almak gerekir?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "75"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 12(4): Sözlü sınavdan 60 ve üzerinde puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-18-fluk",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "BİLSEM atamaya esas puan nasıl hesaplanır?",
+    "options": [
+      "Değerlendirme puanının %50'si + sözlü sınav puanının %50'si",
+      "Değerlendirme puanının %60'ı + sözlü sınav puanının %40'ı",
+      "Yalnızca sözlü sınav puanı esas alınır",
+      "Değerlendirme puanının %40'ı + sözlü sınav puanının %60'ı"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 13(1): Değerlendirme puanının %60'ı ile sözlü sınav puanının %40'ının toplamı atamaya esas puanı oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-19-q1fk",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "BİLSEM tercih başvurusu yapabilmek için atamaya esas puanın en az kaç olması gerekir?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 13(1): Atamaya esas puanı 40 ve üzeri olanlar tercih başvurusu yapmaya hak kazanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-2-1apq",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmeliğin dayanaklarından biri olan ve öğretmenlik mesleği ile ilgili özel kanun hangisidir?",
+    "options": [
+      "657 sayılı Devlet Memurları Kanunu",
+      "7528 sayılı Öğretmenlik Mesleği Kanunu",
+      "1739 sayılı Millî Eğitim Temel Kanunu",
+      "5580 sayılı Özel Öğretim Kurumları Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 2: Yönetmelik, diğerlerinin yanı sıra 10/10/2024 tarihli ve 7528 sayılı Öğretmenlik Mesleği Kanununa dayanılarak hazırlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-20-3bf3",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Spor liseleri beden eğitimi öğretmeni seçiminde başvuru ve atamalara ilişkin işlemler hangi ayda tamamlanır?",
+    "options": [
+      "Ağustos",
+      "Eylül",
+      "Ekim",
+      "Haziran"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 15(1): Başvuru ve atamalara ilişkin iş ve işlemler eylül ayı içinde tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-21-k1yb",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Değerlendirme ve uygulama sınav komisyonu kaç üyeden oluşur?",
+    "options": [
+      "3 üye",
+      "5 üye",
+      "7 üye",
+      "4 üye"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 16(1): Komisyon toplam beş üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-22-icep",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Uygulama sınavında başarılı sayılmak için en az kaç puan gerekir?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 17(3): Uygulama sınavından 60 ve üzerinde puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-23-vrx5",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Spor/güzel sanatlar öğretmenliği atamaya esas puan hesaplamasında değerlendirme puanının ve uygulama sınavı puanının ağırlıkları nedir?",
+    "options": [
+      "Değerlendirme %50 - uygulama %50",
+      "Değerlendirme %30 - uygulama %70",
+      "Değerlendirme %70 - uygulama %30",
+      "Değerlendirme %40 - uygulama %60"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 18(1): Değerlendirme puanının %30'u ile uygulama sınavı puanının %70'i alınarak belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-24-lthx",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmeliğe göre iller kaç hizmet bölgesine ayrılmıştır?",
+    "options": [
+      "İki",
+      "Üç",
+      "Dört",
+      "Beş"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 19(1): İller gruplandırılarak üç hizmet bölgesi oluşturulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-25-9r99",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eğitim kurumları kaç hizmet alanına ayrılır?",
+    "options": [
+      "Dört",
+      "Beş",
+      "Altı",
+      "Yedi"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 20(1): Eğitim kurumları elektronik ortamda gruplandırılarak altı hizmet alanına ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-26-7cpn",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eğitim kurumlarının hizmet alanları her yıl hangi ayda Tebliğler Dergisinde yayımlanır?",
+    "options": [
+      "Ocak",
+      "Haziran",
+      "Aralık",
+      "Eylül"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 20(2): Hizmet alanları her yıl aralık ayında Bakan onayından sonra yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-27-gxeh",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Nöbetçi belletici öğretmenlere yatılı bölge ortaokulu pansiyonlarındaki her bir görev için kaç hizmet puanı verilir?",
+    "options": [
+      "0,1",
+      "0,2",
+      "0,3",
+      "0,5"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(2): Yatılı bölge ortaokulları vb. pansiyonlarında her görev için 0,2 hizmet puanı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-28-v4jw",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İl zümre başkanlığı yapan öğretmenlere toplamda en fazla kaç hizmet puanı verilebilir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 21(9): İl zümre başkanlığı için her yıl 1, toplamda en fazla 4 hizmet puanı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-29-mt0a",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Sözleşmeli öğretmenlerin sözleşme süresince hak ettikleri hizmet puanları ne zaman hesaplanır?",
+    "options": [
+      "Sözleşme imzalandığında",
+      "Kadroya atanmaları hâlinde",
+      "İlk yıl sonunda",
+      "Hiçbir zaman hesaplanmaz"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(11): Sözleşmeli öğretmenlerin hizmet puanları kadroya atanmaları hâlinde hesaplanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-3-v6m1",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmelikte 'hizmet puanı' tanımı neyi ifade eder?",
+    "options": [
+      "Öğretmenin sınav başarı puanını",
+      "Öğretmenin mezuniyet notunu",
+      "Görev yerinin coğrafi, ekonomik, sosyal durumu ile hizmet gerekleri dikkate alınarak verilen puanı",
+      "Öğretmenin performans değerlendirme puanını"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 3/j: Hizmet puanı, görev yerinin özellikleri dikkate alınarak verilen puandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-30-t10q",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Mehil müddetinde geçen süreler hizmet puanı hesabında hangi görev yerine göre değerlendirilir?",
+    "options": [
+      "Yeni görev yerine göre",
+      "Eski görev yerine göre",
+      "Bakanlık merkez teşkilatına göre",
+      "Değerlendirilmez"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(5): Mehil müddetinde geçen süreler eski görev yeri için öngörülen hizmet puanı üzerinden değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-31-3ku3",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "16/6/2023 tarihinden sonra göreve başlayan öğretmenler birinci hizmet bölgesinin 6 ncı hizmet alanında en az kaç yıl zorunlu çalışmakla yükümlüdür?",
+    "options": [
+      "3 yıl",
+      "4 yıl",
+      "5 yıl",
+      "7 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 23(1)/a-3: Birinci hizmet bölgesi 6 ncı hizmet alanında en az 5 yıl çalışma yükümlülüğü vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-32-svh4",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Zorunlu çalışma yükümlüsü öğretmenler yer değiştirme yapılacak yılın hangi tarihi itibarıyla değerlendirilir?",
+    "options": [
+      "1 Ocak",
+      "30 Haziran",
+      "30 Eylül",
+      "31 Aralık"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 24(1): Yer değiştirme yapılacak yılın 30 Eylül tarihi esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-33-5idx",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "16/6/2023 tarihinden önce göreve başlayan öğretmenler zorunlu çalışma yükümlülüğü açısından ne durumdadır?",
+    "options": [
+      "Yükümlülükten muaftırlar",
+      "Yükümlülüğe tabidirler",
+      "Yalnızca il içi yükümlüdürler",
+      "Sadece 3. hizmet bölgesinde yükümlüdürler"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 25(1)/a: 16/6/2023 tarihinden önce göreve başlayanlar zorunlu çalışma yükümlülüğünden muaf tutulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-34-lqoo",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "En az yüzde kaç oranında çalışma gücünden yoksun olduğunu belgelendiren öğretmenler zorunlu çalışma yükümlülüğünden muaftır?",
+    "options": [
+      "Yüzde 20",
+      "Yüzde 30",
+      "Yüzde 40",
+      "Yüzde 50"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 25(1)/c: En az yüzde 40 oranında çalışma gücünden yoksun olanlar muaf tutulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-35-jikx",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eşi 30 Eylül itibarıyla askerde olan öğretmenlerin zorunlu çalışma yükümlülüğü ne olur?",
+    "options": [
+      "İptal edilir",
+      "Bir sonraki yer değiştirme dönemine kadar ertelenir",
+      "Süresi kısaltılır",
+      "Etkilenmez"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 26(1)/c: Eşi askerde olanların zorunlu çalışma yükümlülüğü bir sonraki döneme kadar ertelenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-36-osh7",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eğitim öğretim yılı içinde toplam kaç günü geçmeyen geçici görev süreleri zorunlu çalışma süresinden sayılır?",
+    "options": [
+      "60 gün",
+      "90 gün",
+      "120 gün",
+      "180 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 27(1)/e: Toplam 90 günü geçmeyen geçici görev süreleri zorunlu çalışma süresinden sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-37-h2oo",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Öğretmenler aynı eğitim kurumunda toplamda en fazla kaç yıl görev yapabilir?",
+    "options": [
+      "8 yıl",
+      "10 yıl",
+      "12 yıl",
+      "15 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 28(1): Öğretmenler aynı eğitim kurumunda toplamda en fazla 12 yıl görev yapabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-38-pfgy",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "MADDE 28 kapsamındaki atamalarda öğretmenlere en fazla kaç eğitim kurumu tercih hakkı verilir?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 28(4): Bu madde kapsamında en fazla 40 eğitim kurumu tercih hakkı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-39-t87i",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Aile birliği, sağlık, can güvenliği mazeretlerine bağlı yer değiştirmeler ne zaman yapılır?",
+    "options": [
+      "Sadece güz döneminde",
+      "Yarıyıl ve yaz tatillerinde",
+      "Her ay düzenli olarak",
+      "Sadece yaz tatilinde"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 29(1): Bu mazeretlere bağlı yer değiştirmeler yarıyıl ve yaz tatillerinde yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-4-sypr",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmelikte 'zorunlu çalışma yükümlülüğü' hangi hizmet bölgesi/alanları kapsar?",
+    "options": [
+      "Yalnızca birinci hizmet bölgesini",
+      "Üçüncü hizmet bölgesinin tüm alanları ile birinci ve ikinci hizmet bölgelerinin 4, 5 ve 6 ncı hizmet alanlarını",
+      "Yalnızca BİLSEM'leri",
+      "Yalnızca özel eğitim okullarını"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 3/y: Zorunlu çalışma yükümlülüğü tanımı bu kapsamı belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-40-1wpv",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Mazeretin bulunduğu ilçe ile görev yapılan ilçe aynı ilçe grubunda ise ne olur?",
+    "options": [
+      "Mazerete bağlı yer değişikliği başvurusu yapılabilir",
+      "Mazerete bağlı yer değişikliği başvurusunda bulunulamaz",
+      "Yalnızca il dışına başvuru yapılabilir",
+      "Otomatik olarak atama yapılır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 29(5): Aynı ilçe grubunda ise mazerete bağlı başvuru yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-41-j11o",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Haklarında adli/idari soruşturma sonucu il dışına görev yeri değiştirilenler daha önce görev yaptıkları ile ne kadar süre geçmeden atanma isteğinde bulunamaz?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 30(2): Aradan 3 yıl geçmeden eski göreve dönme talebinde bulunulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-42-9zzo",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eşi veya çocuğu vefat eden öğretmenler vefat tarihinden itibaren ne kadar süre içinde yer değiştirme isteğinde bulunabilir?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(1): Vefat tarihinden itibaren 1 yıl içinde yer değiştirme isteğinde bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-43-y149",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eşi emekli olan öğretmen eşinin ikamet ettiği yere ne kadar süre içinde yer değiştirme isteyebilir?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "18 ay",
+      "2 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(2): Eşin emekliye ayrılış tarihinden itibaren 1 yıl içinde istekte bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-44-215x",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İl içi isteğe bağlı yer değiştirme başvurusu için kadrolu öğretmenlerin aynı eğitim kurumunda tamamlaması gereken çalışma süresi kaç yıldır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "4 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 32(1)/a: Fiilen 3 yıllık çalışma süresinin tamamlanması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-45-73sq",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İl içi isteğe bağlı yer değiştirmeler Bakanlık tarafından hangi ayda yayımlanan duyuruya göre yapılır?",
+    "options": [
+      "Mart",
+      "Nisan",
+      "Mayıs",
+      "Haziran"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 32(5): İl içi isteğe bağlı yer değiştirmeler nisan ayında yayımlanan duyuruya göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-46-x7ud",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İl içi isteğe bağlı yer değiştirmeler hangi ayda gerçekleştirilir?",
+    "options": [
+      "Nisan",
+      "Mayıs",
+      "Haziran",
+      "Temmuz"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 32(7): Atamalar mayıs ayında Bakanlık tarafından gerçekleştirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-47-4zdz",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İller arası isteğe bağlı yer değiştirme başvurusu için kadrolu öğretmenin aynı ilde tamamlaması gereken çalışma süresi kaç yıldır?",
+    "options": [
+      "2 yıl",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 33(1)/a: Kadrolu öğretmenlerin fiilen 3 yıllık çalışma süresini tamamlaması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-48-q9rm",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İller arası isteğe bağlı yer değiştirmelerde hizmet puanı eşitliği hâlinde önceliği kim alır?",
+    "options": [
+      "Yaşça büyük olan",
+      "Öğretmenlikteki hizmet süresi daha fazla olan",
+      "Daha önce il dışı atanmamış olan",
+      "Eşi memur olan"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 33(7): Hizmet puanı eşitse öğretmenlikteki hizmet süresi fazla olana öncelik verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-49-is71",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İhtiyaç veya norm kadro fazlası öğretmenler belirlenirken hizmet puanı eşitliğinde ilk sırada hangi kriter dikkate alınır?",
+    "options": [
+      "Öğretmenlikteki hizmet süresi daha az olan",
+      "Yaşı büyük olan",
+      "Daha önce ödül almış olan",
+      "Eğitim durumu yüksek olan"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 34(1): Hizmet puanı eşitliğinde önce öğretmenlikteki hizmet süresi daha az olan norm kadro fazlası belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-5-wowm",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yer değiştirme suretiyle atamalarda esas alınan temel ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kıdem sırasına göre atama yapılması",
+      "Hizmet puanı üstünlüğüne göre atama yapılması",
+      "Kura ile atama yapılması",
+      "Talep sırasına göre atama yapılması"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 4/c: Elektronik ortamda yapılan atamalar hizmet puanı üstünlüğüne göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-50-7ilr",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Eğitim öğretime yeni açılan eğitim kurumlarının öğretmen ihtiyacı öncelikle nasıl karşılanır?",
+    "options": [
+      "Sözleşmeli öğretmen alımıyla",
+      "Yer değiştirme dönemlerinde",
+      "Kurayla",
+      "Vekil öğretmen atamasıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 35(1): Yeni açılan kurumların öğretmen ihtiyacı yer değiştirme dönemlerinde karşılanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-51-8k4z",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Mazeret durumları nedeniyle yer değiştirmesi yapılamayan öğretmenler aylıksız izin isteyebilir; bu süre en fazla ne kadardır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 37(1): Aylıksız izin süresi 3 yıldan fazla olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-52-vrxc",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Öğretmenlik görevini sağlık kurulu raporuyla devamlı yapamayacağı belirlenenler ne yapılabilir?",
+    "options": [
+      "Doğrudan emekli edilir",
+      "Diğer hizmet sınıflarındaki durumlarına uygun kadrolara atanabilir",
+      "Görevden uzaklaştırılır",
+      "Aylıksız izne çıkarılır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 38(1)/a: Bu durumdakiler diğer hizmet sınıflarına uygun kadrolara atanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-53-jmie",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Alan değişikliğine bağlı yer değiştirmede hizmet puanı eşitliği hâlinde kime öncelik verilir?",
+    "options": [
+      "Öğretmenlikteki hizmet süresi daha fazla olana",
+      "Yaşı küçük olana",
+      "Daha önce alan değiştirmemiş olana",
+      "Kadroya daha önce atanana"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 40(5): Hizmet puanı eşitse öğretmenlikteki hizmet süresi fazla olana öncelik verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-54-f09f",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "İlçe grupları hangi amaçla oluşturulmuştur?",
+    "options": [
+      "Maaş hesaplaması için",
+      "Coğrafi özellikler, ulaşım imkânları ve eğitim hizmetlerinin etkin yürütülmesi için",
+      "Sadece istatistiksel amaçla",
+      "Denetim bölgelerini belirlemek için"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 41(1): İlçe grupları coğrafi özellikler ve ulaşım imkânları dikkate alınarak oluşturulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-55-2fx9",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Yönetmelikte hüküm bulunmayan hâllerde hangi mevzuat uygulanır?",
+    "options": [
+      "Yalnızca 657 sayılı Kanun",
+      "657 sayılı Kanun, 7528 sayılı Kanun ve Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik",
+      "Yalnızca Anayasa hükümleri",
+      "Yalnızca İş Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 42: Hüküm bulunmayan hâllerde belirtilen üç mevzuat uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-56-mjcy",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Bu Yönetmelik ile hangi yönetmelik yürürlükten kaldırılmıştır?",
+    "options": [
+      "17/4/2015 tarihli ve 29329 sayılı Millî Eğitim Bakanlığı Öğretmen Atama ve Yer Değiştirme Yönetmeliği",
+      "Devlet Memurları Kanunu",
+      "Norm Kadro Yönetmeliği",
+      "Millî Eğitim Temel Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 43: 17/4/2015 tarihli ve 29329 sayılı eski Yönetmelik yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-57-6ysh",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Kahramanmaraş depremlerinden ağır etkilenen iller EK-1'in Üçüncü Hizmet Bölgesinde hangi tarihe kadar sayılır?",
+    "options": [
+      "1/9/2025",
+      "1/9/2026",
+      "1/1/2027",
+      "1/9/2028"
+    ],
+    "answer_index": 1,
+    "explanation": "GEÇİCİ MADDE 2: İlgili iller 1/9/2026 tarihine kadar Üçüncü Hizmet Bölgesinde sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-58-w7fy",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Hizmet puanlarının hesabına ilişkin geçiş hükümlerine göre eski yönetmelik hükümleri hangi tarihe kadar uygulanır?",
+    "options": [
+      "1/2/2025",
+      "1/2/2026",
+      "1/9/2026",
+      "1/1/2027"
+    ],
+    "answer_index": 1,
+    "explanation": "GEÇİCİ MADDE 4(1): 1/2/2026 tarihine kadar eski Yönetmelik hükümlerine göre hesaplama yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-59-3b59",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Bu Yönetmeliğin diğer maddeleri (21 inci madde hariç) ne zaman yürürlüğe girer?",
+    "options": [
+      "Yayımı tarihinde",
+      "1/2/2026 tarihinde",
+      "1/4/2025 tarihinde",
+      "1/9/2026 tarihinde"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 44/c: Diğer maddeler yayımı tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-6-592e",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Sözleşmeli öğretmenler kaç yıllık çalışma süresini tamamladıklarında talepleri hâlinde kadroya atanabilir?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 5(1): 3 yıllık çalışma süresini tamamlayan sözleşmeli öğretmenler talepleri hâlinde kadroya atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-60-p55z",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Bu Yönetmelik hükümlerini kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Millî Eğitim Bakanı",
+      "Personel Genel Müdürü",
+      "İl Millî Eğitim Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 45: Yönetmelik hükümlerini Millî Eğitim Bakanı yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-7-46sd",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Kadroya atanan sözleşmeli öğretmenler mazerete bağlı yer değiştirmeler hariç kaç yıl süreyle yer değiştiremezler?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 5(1): Kadroya atananlar mazerete bağlı haller dışında 1 yıl süreyle yer değiştiremezler.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-8-drcr",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "Devlet memurluğundan ayrılıp yeniden öğretmen olarak atanmak isteyenler hangi kapsamda başvuruda bulunur?",
+    "options": [
+      "Kurumlar arası yeniden atama",
+      "Yeniden atama",
+      "Alan değişikliği",
+      "İl içi yer değiştirme"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(1)/a: Devlet memurluğundan ayrılanlar 'yeniden atama' kapsamında başvurabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t-mtek99zg-9-wo0w",
+    "topic_id": "t-meb-ogretmenlerin-atama-ve-yer-degistirm-zd65t",
+    "prompt": "MADDE 6 kapsamındaki atamalarda hizmet süresi eşitliği halinde kura dışında öncelik neye göre belirlenir?",
+    "options": [
+      "Yaşa göre",
+      "Diğer unvanlarda Devlet memuru olarak geçen hizmet süresine göre",
+      "Mezuniyet tarihine göre",
+      "Askerlik durumuna göre"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(2): Hizmet süresi eşitliğinde diğer unvanlarda geçen memuriyet süresi fazla olana öncelik verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:54:10.370461+00:00",
+    "updated_at": "2026-08-29T15:54:10.370461+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-0-k3dt",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bu Yönetmeliğin amacı nedir?",
+    "options": [
+      "Öğretmenlerin yer değiştirmesini düzenlemek",
+      "Bakanlık merkez ve taşra teşkilatı kadrolarına görevde yükselme, unvan değişikliği ve yer değiştirme suretiyle atanmada uygulanacak usul ve esasları belirlemek",
+      "Sözleşmeli personel istihdamını düzenlemek",
+      "Disiplin cezalarını düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 1: Yönetmeliğin amacı, liyakat ve kariyer ilkeleri çerçevesinde görevde yükselme, unvan değişikliği ve yer değiştirme suretiyle atamalara ilişkin usul ve esasları belirlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-1-94rp",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bu Yönetmelik kimleri kapsar?",
+    "options": [
+      "Yalnızca öğretmenleri",
+      "Bakanlık merkez ve taşra teşkilatında 657 sayılı Kanuna tabi görev yapanlardan belirtilen görevlere atanacakları",
+      "Yalnızca sözleşmeli personeli",
+      "Yalnızca il millî eğitim müdürlerini"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 2: Yönetmelik, 657 sayılı Kanuna tabi olarak görev yapanlardan sayılan görevlere atanacakları kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-10-w7wt",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Görevde yükselme yazılı sınavında başarılı olanlardan ilan edilen kadro sayısının kaç katına kadar aday sözlü sınava alınır?",
+    "options": [
+      "İki katı",
+      "Üç katı",
+      "Dört katı",
+      "Beş katı"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 16(1): İlan edilen kadro sayısının üç katına kadar aday puan üstünlüğüne göre sözlü sınava alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-11-5t36",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Sözlü sınavda 100 üzerinden en az kaç puan alanlar başarılı sayılır?",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 16(3): Sözlü sınavda 100 üzerinden en az 70 puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-12-hhup",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Sözlü sınav konularından 'genel kültürü ve genel yeteneği' değerlendirmesinin ağırlığı yüzde kaçtır?",
+    "options": [
+      "%10",
+      "%15",
+      "%20",
+      "%25"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 16(2)/d: Genel kültür ve genel yetenek değerlendirmesinin ağırlığı %20'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-13-d9xz",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Sınav sonuçları sınavların yapıldığı tarihten itibaren en geç kaç gün içinde duyurulur?",
+    "options": [
+      "15 gün",
+      "20 gün",
+      "30 gün",
+      "45 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 17(1): Sınav sonuçları en geç otuz gün içinde Bakanlığın internet sitesinde duyurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-14-atnp",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yazılı sınav sonuçlarına yapılan itirazlar Merkez Sınav Kurulu tarafından en geç kaç iş günü içinde incelenir?",
+    "options": [
+      "5 iş günü",
+      "10 iş günü",
+      "15 iş günü",
+      "20 iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 18(1): İtirazlar en geç on iş günü içinde incelenir ve sonucu bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-15-gp7l",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Atamada başarı puanı nasıl belirlenir?",
+    "options": [
+      "Yalnızca yazılı sınav puanı esas alınır",
+      "Yazılı ve sözlü sınav puanlarının aritmetik ortalaması esas alınır",
+      "Yalnızca sözlü sınav puanı esas alınır",
+      "Kıdem esas alınır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(1): Başarı puanı, yazılı ve sözlü sınav puanlarının aritmetik ortalaması esas alınarak belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-16-ylk3",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Başarı puanının eşitliği hâlinde ilk sırada hangi kritere göre öncelik verilir?",
+    "options": [
+      "Yaşı büyük olana",
+      "Hizmet süresi fazla olana",
+      "Üst öğrenim mezuniyet notu yüksek olana",
+      "Daha önce başka kurumda çalışmış olana"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(2)/a: Eşitlik hâlinde önce hizmet süresi fazla olana öncelik verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-17-7d1g",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Atanma isteğinde bulunanlara en fazla kaç tercih hakkı verilir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 21(4): Atanma isteğinde bulunanlara en fazla 20 tercih hakkı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-18-dobv",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Görevde yükselme suretiyle atananlar, mazeret halleri hariç kaç yıl süreyle yer değişikliği talebinde bulunamaz?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 21(7): Bu madde kapsamında atananlar, belirtilen istisnalar hariç üç yıl süreyle yer değişikliği talebinde bulunamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-19-40z3",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Doktora öğrenimini bitirmiş olan personel hangi haktan yararlanabilir?",
+    "options": [
+      "Otomatik olarak şube müdürü olur",
+      "Unvan değişikliği sınavına tabi tutulmaksızın kendi alanında öğrenimle kazanılan görevlere atanabilir",
+      "Sınavsız olarak her kadroya atanabilir",
+      "Ek tazminat alır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(3): Doktora mezunları unvan değişikliği sınavına tabi tutulmaksızın kendi alanındaki görevlere atanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-2-vhkg",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "'Yer değiştirmeye esas puan' hangi görevlerin yer değiştirmesinde esas alınır?",
+    "options": [
+      "Şube müdürü ve şef",
+      "İl millî eğitim müdür yardımcısı, ilçe millî eğitim müdürü, il ve ilçe millî eğitim şube müdürleri",
+      "Yalnızca öğretmenler",
+      "Yalnızca okul müdürleri"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 4/ç: Yer değiştirmeye esas puan, bu yöneticilik kadrolarının bölge hizmeti ve isteğe bağlı yer değiştirmelerinde esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-20-sb1w",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İlçe millî eğitim müdürü olarak atanabilmek için aranan şartlardan biri hangisidir?",
+    "options": [
+      "Şube müdürü kadrosunda en az iki yıl asaleten görev yapmış olmak (sınavla atanmış olmak şartıyla)",
+      "En az 10 yıl öğretmenlik yapmış olmak",
+      "Doktora mezunu olmak",
+      "İl dışında görev yapmamış olmak"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 23(1)/a: Şube müdürü kadrosunda en az iki yıl asaleten görev yapmış olmak şartlarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-21-jssn",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İl millî eğitim müdür yardımcısı kadrosuna atanacaklarda eğitim kurumu müdürlüğünde en az kaç yıl görev yapmış olma şartı aranır?",
+    "options": [
+      "2 yıl",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 23(2): Eğitim kurumu müdürlüğü görevinde en az dört yıl görev yapmış olmak şartı aranır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-22-gugy",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bölge hizmetine bağlı yer değiştirmeye tabi kadrolar hangileridir?",
+    "options": [
+      "Şube müdürü ve şef",
+      "İl millî eğitim müdür yardımcısı, ilçe millî eğitim müdürü, il/ilçe millî eğitim şube müdürü",
+      "Yalnızca öğretmenler",
+      "Yalnızca okul müdürleri"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 26(1): Bu kadrolarda asaleten görev yapanlar bölge hizmetine bağlı yer değiştirmeye tabidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-23-ccq0",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "5. hizmet bölgesi için öngörülen bölge hizmeti süresi ve puanı nedir?",
+    "options": [
+      "2 yıl / 14,4 puan",
+      "4 yıl / 10,8 puan",
+      "6 yıl / 6 puan",
+      "2 yıl / 12 puan"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 28(1): 5. hizmet bölgesi için bölge hizmeti süresi 2 yıl, puanı 14,4'tür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-24-b6jo",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "1. hizmet bölgesi için öngörülen bölge hizmeti süresi kaç yıldır?",
+    "options": [
+      "2 yıl",
+      "4 yıl",
+      "6 yıl",
+      "8 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 28(1): 1. hizmet bölgesi için bölge hizmeti süresi 6 yıldır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-25-6pme",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bölge hizmeti süresini 31 Mayıs itibarıyla tamamlamış olanların yer değiştirme işlemleri hangi ayda sonuçlandırılır?",
+    "options": [
+      "Mayıs",
+      "Haziran",
+      "Temmuz",
+      "Ağustos"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 29(1): Bölge hizmeti süresini 31 Mayıs itibarıyla tamamlayanların işlemleri Haziran ayında sonuçlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-26-25mj",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bölge hizmetine bağlı yer değiştirmeye tabi yöneticilere kaç tercih hakkı verilir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 29(2): Bölge hizmetine bağlı yer değiştirmeye tabi yöneticilere 20 tercih hakkı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-27-nqev",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yer değiştirmeye esas puanın hesabında hangi tarih esas alınır (bölge hizmetine bağlı yer değiştirmede)?",
+    "options": [
+      "1 Ocak",
+      "31 Mayıs",
+      "30 Haziran",
+      "30 Eylül"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 29(4): Yer değiştirmeye esas puanın hesabında 31 Mayıs tarihi esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-28-5kyb",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yöneticilerin isteğe bağlı yer değiştirme başvurusunda bulunabilmesi için bulundukları bölgede bölge hizmeti süresinin en az yarısını hangi tarih itibarıyla tamamlamış olmaları gerekir?",
+    "options": [
+      "31 Mart",
+      "30 Haziran",
+      "30 Eylül",
+      "31 Aralık"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(1): Bölge hizmeti süresinin en az yarısını 30 Haziran itibarıyla tamamlayanlar başvurabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-29-zu1d",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yöneticilerin isteğe bağlı yer değiştirmesinde en fazla kaç tercih hakkı vardır?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(2): İsteğe bağlı yer değiştirme talebinde bulunanlar en fazla on tercihte bulunabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-3-xbtn",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yazılı sınavda başarılı sayılmak için 100 üzerinden en az kaç puan almak gerekir?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "70"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 13(1): Yazılı sınavda 100 üzerinden 60 ve üzeri puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-30-wdz4",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yöneticilerin isteğe bağlı yer değiştirme ataması hangi ayda yapılır?",
+    "options": [
+      "Haziran",
+      "Temmuz",
+      "Ağustos",
+      "Eylül"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(3): Atamalar Temmuz ayında tercihler dikkate alınarak yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-31-d19b",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İl içi isteğe bağlı yer değiştirme başvurusu için bulunulan kurumda 30 Eylül itibarıyla kesintisiz en az kaç yıl görev yapmış olmak gerekir?",
+    "options": [
+      "2 yıl",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 32(1): 30 Eylül itibarıyla kesintisiz en az üç yıl görev yapanlar başvurabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-32-l2eb",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İl içi isteğe bağlı yer değiştirme başvuruları hangi ayda alınır?",
+    "options": [
+      "Nisan",
+      "Mayıs",
+      "Haziran",
+      "Temmuz"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 32(2): Başvurular Mayıs ayında alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-33-30j6",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İl içi isteğe bağlı yer değiştirmede en fazla kaç kuruma tercih yapılabilir?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 32(2): En fazla on kuruma tercihte bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-34-chaz",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İller arası isteğe bağlı yer değiştirme başvuruları hangi ayda alınır?",
+    "options": [
+      "Mayıs",
+      "Haziran",
+      "Temmuz",
+      "Ağustos"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 33(2): Başvurular Haziran ayında alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-35-u1p1",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İller arası isteğe bağlı yer değiştirmede en fazla kaç kuruma tercih yapılabilir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 33(2): En fazla yirmi kuruma tercihte bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-36-x3am",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bu Yönetmelikte hüküm bulunmayan hâllerde hangi mevzuat uygulanır?",
+    "options": [
+      "Yalnızca 657 sayılı Kanun",
+      "657 sayılı Kanun, Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik ve Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik",
+      "Yalnızca Anayasa",
+      "Yalnızca 652 sayılı KHK"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 35: Hüküm bulunmayan hâllerde belirtilen üç mevzuat birlikte uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-37-fhbx",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bu Yönetmelik hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "Yayımı tarihinde",
+      "1 ay sonra",
+      "3 ay sonra",
+      "Bir sonraki yıl başında"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 37: Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-38-z6zu",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bu Yönetmelik hükümlerini kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Millî Eğitim Bakanı",
+      "Personel Genel Müdürü",
+      "İl Millî Eğitim Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 38: Yönetmelik hükümlerini Millî Eğitim Bakanı yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-39-l0bg",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Sözlü sınav sonrasında atanmak üzere tercih hakkı kazananların atama başvuruları ne zaman ve nasıl alınır?",
+    "options": [
+      "Yazılı sınav sonrasında, kâğıt ortamında",
+      "Sözlü sınav sonuçlarının kesinleştiği tarihten itibaren ilan edilen süre içinde elektronik ortamda",
+      "Yalnızca il millî eğitim müdürlüklerine dilekçeyle",
+      "Sınavdan hemen önce, tahmini olarak"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(3): Atama başvuruları, sözlü sınav sonuçlarının kesinleştiği tarihten itibaren ilan edilen süre içinde elektronik ortamda alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-4-ifwa",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Şube müdürü kadrosu için görevde yükselme yazılı sınavına katılmada aranan asgari eğitim şartı nedir?",
+    "options": [
+      "En az iki yıllık yüksekokul mezunu olmak",
+      "En az fakülte veya dört yıllık yüksekokul mezunu olmak",
+      "En az lise mezunu olmak",
+      "Yüksek lisans mezunu olmak"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(2)/a-1: Şube müdürü kadrosu için en az fakülte veya dört yıllık yüksekokul mezunu olmak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-40-3ibc",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Başarılı olduğu hâlde yapılan duyuruda tercihte bulunmayanların durumu nedir?",
+    "options": [
+      "Bir sonraki döneme ertelenir",
+      "Atama hakkından vazgeçmiş sayılır",
+      "Kura ile ataması yapılır",
+      "Otomatik olarak en düşük tercihe atanır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(5): Tercihte bulunmayanlar atama hakkından vazgeçmiş sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-41-ianw",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Atanma hakkından vazgeçmiş sayılanların yeniden atanabilmesi için ne yapması gerekir?",
+    "options": [
+      "Doğrudan başvuru yeterlidir",
+      "Görevde yükselme veya unvan değişikliği sınavlarına yeniden girip başarılı olmaları gerekir",
+      "Sadece dilekçe vermeleri yeterlidir",
+      "Bir yıl beklemeleri yeterlidir"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(6): Bu kişilerin yeniden atanabilmesi için sınavlara yeniden girip başarılı olmaları gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-42-2apd",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Görevde yükselme suretiyle atananların üç yıl yer değişikliği talep edememe kuralının istisnaları nelerdir?",
+    "options": [
+      "29 ve 31 inci maddelere göre yapılacak yer değiştirmeler ile atandıktan sonra ortaya çıkan belgeli mazeret hâlleri",
+      "Yalnızca sağlık mazereti",
+      "Hiçbir istisnası yoktur",
+      "Yalnızca eş durumu mazereti"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 21(7): İstisnalar, 29 ve 31 inci maddeye göre yapılan yer değiştirmeler ile atandıktan sonra ortaya çıkan belgeli mazeret hâlleridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-43-e4td",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Aynı hizmet grubunun alt görev grubu içinde aynı düzeydeki görevlerden üst bentlerdeki görevlere geçiş nasıl yapılır?",
+    "options": [
+      "Doğrudan atama ile",
+      "Sınavla",
+      "Kura ile",
+      "Kıdem sırasına göre"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(1)/a: Üst bentlerde yer alan görevlere sınavla atama yapılır; aynı veya alt bentlere sınavsız atanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-44-jkv0",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Bakanlıkta veya diğer kamu kurumlarında daha önce asaleten bulunulan görevlere ilgilinin talebi üzerine nasıl atama yapılabilir?",
+    "options": [
+      "Görevde yükselme sınavına tabi tutulmadan ve hizmet şartı aranmadan",
+      "Yalnızca sınavla",
+      "Yalnızca kurumlar arası naklen",
+      "Bu şekilde atama yapılamaz"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 22(1)/b: İlgilinin talebi üzerine, daha önce asaleten bulunulan görevlere sınavsız ve hizmet şartı aranmadan atama yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-45-py6o",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Unvan değişikliğine tabi kadrolar arasındaki geçişler neye göre yapılır?",
+    "options": [
+      "Kıdeme göre",
+      "Atanacak kadro için düzenlenen unvan değişikliği sınavı sonucuna göre",
+      "Mülakatla",
+      "Kurumun takdirine göre"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(2): Unvan değişikliğine tabi kadrolar arası geçişler, ilgili unvan değişikliği sınavı sonucuna göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-46-kcnv",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Avukat kadrosundan hukuk müşaviri kadrosuna atama nasıl yapılabilir?",
+    "options": [
+      "Sınavla",
+      "Genel hükümlere göre",
+      "Kura ile",
+      "Bu geçiş mümkün değildir"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(4): Avukat kadrosundan hukuk müşaviri kadrosuna genel hükümlere göre atama yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-47-ca2n",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "İlçe millî eğitim müdürü olarak atanabilmek için 657 sayılı Kanunun 68/B şartlarına ek olarak hangi genel şart aranır?",
+    "options": [
+      "Doktora mezunu olmak",
+      "Öğretmenlikte adaylığı kaldırılmış olmak ve maddede sayılan şartlardan en az birini taşımak",
+      "En az 15 yıl kıdem",
+      "İl dışı görev deneyimi"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 23(1): Öğretmenlikte adaylığı kaldırılmış olmak ve sayılan şartlardan birini taşımak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-48-m72u",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Diğer kamu kurum ve kuruluşlarında görevli personelin bu Yönetmelikteki aynı veya aynı/alt gruptaki unvanlara ataması nasıl adlandırılır?",
+    "options": [
+      "Görevde yükselme",
+      "Naklen atama",
+      "Unvan değişikliği",
+      "Bölge hizmeti ataması"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 24: Diğer kamu kurumlarından bu Yönetmelikteki unvanlara genel hükümlere göre yapılan atama naklen atamadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-49-8wke",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun uyarınca ilk defa yapılan atamalarda bu Yönetmeliğin hangi hükümleri uygulanmaz?",
+    "options": [
+      "Yer değiştirmeye ilişkin hükümler",
+      "Görevde yükselme ve unvan değişikliğine dair hükümler",
+      "Sınav itirazına ilişkin hükümler",
+      "Tüm Yönetmelik hükümleri uygulanmaz"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 25: Özelleştirilen kuruluşlardan ilk defa yapılan atamalarda görevde yükselme ve unvan değişikliğine dair hükümler uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-5-vnpo",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Şef kadrosu için Devlet memurluğunda en az kaç yıl görev yapmış olmak şartı aranır?",
+    "options": [
+      "3 yıl",
+      "4 yıl",
+      "5 yıl",
+      "6 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 6(2)/b-2: Son iki yılı Bakanlıkta olmak üzere Devlet memurluğunda en az 5 yıl görev yapmış olmak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-6-9wn6",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Avukat kadrosuna unvan değişikliği ile atanabilmek için hangi şart aranır?",
+    "options": [
+      "İşletme fakültesi mezunu olmak",
+      "Hukuk fakültesi mezunu olmak ve avukatlık ruhsatına sahip olmak",
+      "Kamu yönetimi mezunu olmak",
+      "En az 5 yıl hizmet süresi"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 7/f: Avukat kadrosu için hukuk fakültesi mezunu olmak ve avukatlık ruhsatına sahip olmak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-7-rl5j",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Merkez Sınav Kurulu kaç kişiden oluşur?",
+    "options": [
+      "3 kişi",
+      "4 kişi",
+      "5 kişi",
+      "7 kişi"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 8(1): Kurul, bakan yardımcısı başkanlığında dört üye olmak üzere toplam beş kişiden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-8-dcav",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Merkez Sınav Kurulu kararlarını nasıl alır?",
+    "options": [
+      "Oy birliğiyle",
+      "Oy çokluğuyla",
+      "Başkanın onayıyla",
+      "Kura ile"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 8(2): Kurul kararları oy çokluğu ile alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps-mtekl8gi-9-jnbx",
+    "topic_id": "t-meb-personelin-gorevde-yukselme-unvan-de-zcpps",
+    "prompt": "Yazılı sınav, sınavın Bakanlıkça yapılması hâlinde sınav tarihinden en az ne kadar önce duyurulur?",
+    "options": [
+      "15 gün",
+      "1 ay",
+      "2 ay",
+      "45 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 10(1): Yazılı sınav, sınav tarihinden en az bir ay önce duyurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:03:28.172296+00:00",
+    "updated_at": "2026-08-29T16:03:28.172296+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-0-72gl",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "MEB İzin Yönergesi'nin amacı nedir?",
+    "options": [
+      "Personelin görev tanımlarını düzenlemek",
+      "Personelin izin haklarına ilişkin usul ve esasları düzenlemek",
+      "Personelin atama ve nakil işlemlerini düzenlemek",
+      "Personelin disiplin işlemlerini düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Yönerge Madde 1: Amacı, MEB personelinin izin haklarına ilişkin usul ve esasları düzenlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-1-bzbn",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "MEB İzin Yönergesi hangi personeli kapsamaktadır?",
+    "options": [
+      "Yalnızca öğretmenleri",
+      "Yalnızca yöneticileri",
+      "Tüm Millî Eğitim Bakanlığı personelini",
+      "Yalnızca merkez teşkilatı personelini"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 2: Yönerge, Millî Eğitim Bakanlığı personelini kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-10-oa4x",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Öğretmen dışındaki memurlarda hizmet süresi 1-10 yıl (10 yıl dahil) olanların yıllık izin süresi kaç gündür?",
+    "options": [
+      "10 gün",
+      "14 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/1: Hizmet süresi 1-10 yıl (10 yıl dahil) olan memurlara 20 gün yıllık izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-11-z199",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Öğretmen dışındaki memurlarda hizmet süresi 10 yıldan fazla olanların yıllık izin süresi kaç gündür?",
+    "options": [
+      "20 gün",
+      "25 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/1: Hizmet süresi 10 yıldan fazla olan memurlara 30 gün yıllık izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-12-godz",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yıllık izin süresinin hesabında hangi hizmet süreleri dikkate alınır?",
+    "options": [
+      "Yalnızca MEB'de geçen süreler",
+      "Yalnızca devlet kurumlarında geçen süreler",
+      "Hangi statüde olursa olsun kamu kurumlarında geçen ve kazanılmış hak aylığında değerlendirilen hizmet süreleri",
+      "Yalnızca sözleşmeli personel olarak geçirilen süreler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/2: Yıllık izin hesabında hangi statüde olursa olsun kamu kurumlarında geçen süreler esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-13-h8yx",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Memuriyet dışında yıllık iznini geçirecek memurlara yol süresi olarak en fazla kaç gün eklenebilir?",
+    "options": [
+      "Gidiş ve dönüş için toplam 2 gün",
+      "Gidiş için 2, dönüş için 2 gün olmak üzere en çok ikişer gün",
+      "Gidiş için 3, dönüş için 3 gün",
+      "Hiç ek süre verilmez"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7/3: Uzaklık dikkate alınarak gidiş ve dönüş için en çok ikişer gün yol süresi eklenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-14-r21z",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yıllık izinlerin biriktirilerek kullanılmasına ilişkin kural nedir?",
+    "options": [
+      "Hiçbir şekilde biriktirilemez",
+      "Birbirini izleyen iki yılın izni aynı yıl kullanılabilir; önceki yıldan devredenin kullanılamaması halinde sadece o yıla denk kısım bir sonraki yıla aktarılabilir",
+      "Sınırsız biriktirilip istenildiğinde kullanılabilir",
+      "En fazla üç yılın izni birleştirilebilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7/5: Birbirini izleyen iki yılın izni aynı yıl kullanılabilir; sadece o yılın iznine denk kısım bir sonraki yıla aktarılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-15-m7fz",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Öğretmenlere ayrıca yıllık izin verilmez; çünkü ne zaman izinli sayılırlar?",
+    "options": [
+      "Tüm hafta sonları",
+      "Yaz ve dinlenme tatillerinde",
+      "Yalnızca yaz tatilinde",
+      "Resmi tatillerde"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7/10: Öğretmenler yaz ve dinlenme tatillerinde izinli sayılır; bunlara ayrıca yıllık izin verilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-16-ofpf",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Aday memurlara yıllık izin hangi koşulda verilir?",
+    "options": [
+      "Göreve başladıkları andan itibaren",
+      "6 aylık hizmet süresini dolduranlar",
+      "İzin süresinin hesabında değerlendirilecek süreler bakımından bir yıllık hizmet süresini dolduranlar",
+      "Asaletleri onaylandıktan sonra"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/8: Aday memurlara, izin hesabında değerlendirilecek süreler bakımından bir yıllık hizmet süresini doldurduklarında yıllık izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-17-q71t",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Memurlara gelecek yılın izninden düşülmek üzere yıllık izin verilebilir mi?",
+    "options": [
+      "Evet, amir uygun bulursa verilebilir",
+      "Evet, ancak yalnızca 5 güne kadar",
+      "Hayır, verilemez",
+      "Yalnızca acil durumlarda verilebilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/9: Memurlara gelecek yılın izninden düşülmek üzere yıllık izin verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-18-dim1",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İzinli memur göreve çağrılabilir mi?",
+    "options": [
+      "Hayır, hiçbir şekilde çağrılamaz",
+      "Evet; izin vermeye yetkili amir veya üst amirce yazılı ya da kayıt altına alınarak sözlü olarak çağrılabilir",
+      "Yalnızca Bakan çağırabilir",
+      "Evet, ama çağrı en az 1 hafta önceden yapılmalıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9/1: Hizmetine ihtiyaç duyulan memur, yetkili amirce yazılı veya kayıt altına alınmak suretiyle sözlü çağrılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-19-vdgh",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kadın memura analık izni doğumdan kaç hafta önce ve kaç hafta sonra olmak üzere toplam kaç hafta verilir?",
+    "options": [
+      "6 hafta önce + 6 hafta sonra = 12 hafta",
+      "8 hafta önce + 8 hafta sonra = 16 hafta",
+      "10 hafta önce + 10 hafta sonra = 20 hafta",
+      "4 hafta önce + 12 hafta sonra = 16 hafta"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 10/a: Kadın memura doğumdan önce 8, doğumdan sonra 8 hafta olmak üzere toplam 16 hafta aylıklı analık izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-2-u8ah",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "MEB İzin Yönergesi hangi kanuna dayanılarak hazırlanmıştır?",
+    "options": [
+      "Yalnızca 657 sayılı Devlet Memurları Kanunu'na",
+      "657, 4857 ve 652 sayılı mevzuat ile Sözleşmeli Personele İlişkin Esaslar'a",
+      "Yalnızca 4857 sayılı İş Kanunu'na",
+      "Yalnızca 652 sayılı KHK'ya"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3: Yönerge; 657 sayılı DMK, 4857 sayılı İş Kanunu, 652 sayılı KHK ve Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar'a dayanılarak hazırlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-20-583u",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Çoğul gebelik halinde doğum öncesi analık iznine kaç hafta eklenir?",
+    "options": [
+      "1 hafta",
+      "2 hafta",
+      "3 hafta",
+      "4 hafta"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 10/a: Çoğul gebelik halinde doğumdan önceki 8 haftalık süreye 2 hafta eklenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-21-2b12",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kadın memura çocuğunu emzirmesi için doğum sonrası analık izni bitiminden ilk altı ayda günde kaç saat süt izni verilir?",
+    "options": [
+      "1 saat",
+      "1,5 saat",
+      "2 saat",
+      "3 saat"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10/d: İlk altı ayda günde üç saat süt izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-22-y3bj",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kadın memura çocuğunu emzirmesi için ikinci altı ayda günde kaç saat süt izni verilir?",
+    "options": [
+      "3 saat",
+      "2 saat",
+      "1,5 saat",
+      "1 saat"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/d: İkinci altı ayda günde bir buçuk saat süt izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-23-yhr9",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Erkek memura eşinin doğum yapması nedeniyle kaç gün izin verilir?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "10 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10/e: Erkek memura eşinin doğum yapması nedeniyle doğum tarihinden itibaren 10 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-24-lql1",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Memurun veya çocuğunun evlenmesi halinde kaç gün mazeret izni verilir?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "10 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/f: Resmi nikah veya düğün tarihinden itibaren 7 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-25-g65q",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Memurun eşinin, çocuğunun veya eş/öz ana-baba-kardeşin ölümü halinde kaç gün mazeret izni verilir?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "14 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/g: Ölüm tarihinden itibaren 7 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-26-6xf9",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "En az %70 oranında engelli ya da süreğen hastalığı olan çocuğun hastalanması halinde ana veya babaya bir yıl içinde toptan veya bölümler halinde en fazla kaç gün mazeret izni verilebilir?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "15 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/ğ: Hastalık raporuna dayalı olarak ana veya babadan birinin kullanması kaydıyla bir yıl içinde en fazla 10 güne kadar mazeret izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-27-y0b5",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Amirin takdirine bağlı mazeret izninde memura bir yıl içinde toptan veya kısım kısım olarak kaç gün izin verilebilir?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "20 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/2-a: Mazeretleri nedeniyle bir yıl içinde en fazla 10 gün izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-28-2qzw",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Zorunluluk halinde ikinci kez verilen mazeret izninde memurun gelecek yıl izninden düşülmek üzere kaç gün daha verilebilir?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "15 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/2-b: Zorunluluk halinde gelecek yıl izninden düşülmek üzere 10 gün daha mazeret izni verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-29-0g5j",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İkinci kez mazeret izni öğretmenlere verilebilir mi?",
+    "options": [
+      "Evet, aynı koşullarda verilebilir",
+      "Evet, ama sadece 5 günle sınırlı",
+      "Hayır, bu izin öğretmenlere verilmez",
+      "Yalnızca okul müdürü uygun görürse verilebilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10/2-b: İkinci defa 10 günlük mazeret izni öğretmenlere verilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-3-xiz4",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yönergede 'memuriyet mahalli' kavramı nasıl tanımlanmıştır?",
+    "options": [
+      "Memurun çalıştığı ilin tamamı",
+      "Memurun görevli olduğu binanın bulunduğu cadde",
+      "Asıl görevli veya ikametgahın bulunduğu şehrin belediye sınırları ve kurumca taşıt sağlanan yakın yerleşim yerleri",
+      "Memurun doğduğu il"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4/h: Memuriyet mahalli; belediye sınırları içindeki mahaller ile devamı niteliğindeki yerleşim yerleridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-30-jcbu",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kanser, verem gibi uzun süreli tedavi gerektiren hastalıklarda memura azami kaç aya kadar hastalık izni verilir?",
+    "options": [
+      "6 ay",
+      "12 ay",
+      "18 ay",
+      "24 ay"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/1: Kanser, verem ve akıl hastalığı gibi uzun süreli tedavi gerektiren hallerde 18 aya kadar hastalık izni verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-31-o8f4",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Diğer hastalık hallerinde memura azami kaç aya kadar hastalık izni verilir?",
+    "options": [
+      "6 ay",
+      "12 ay",
+      "18 ay",
+      "24 ay"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/1: Diğer hastalık hallerinde 12 aya kadar hastalık izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-32-8wvf",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Tek hekim raporu ile memurun bir defada alabileceği hastalık raporu süresi en çok kaç gündür?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "14 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/4: Tek hekim raporu ile bir defada en çok 10 gün rapor verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-33-g5gw",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Bir takvim yılı içinde tek hekim tarafından verilebilecek hastalık raporlarının toplamı kaç günü geçemez?",
+    "options": [
+      "20 gün",
+      "30 gün",
+      "40 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/6: Tek hekim tarafından bir takvim yılında verilebilecek raporların toplamı 40 günü geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-34-9m48",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "40 günü aşan hastalık raporları hangi makam tarafından verilir?",
+    "options": [
+      "Tek hekim",
+      "Sağlık kurulu",
+      "Aile hekimi",
+      "Kurum tabipliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/6: 40 günü aşan hastalık raporları sağlık kurulunca verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-35-q39q",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kontrol muayenesi sonrası hastalık raporunun 10 günü aşması durumunda ne yapılması gerekir?",
+    "options": [
+      "Tek hekim daha fazla rapor verebilir",
+      "Raporun sağlık kurulunca verilmesi zorunludur",
+      "Memur göreve başlamak zorundadır",
+      "Amir onayı yeterlidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/5: Kontrol muayenesi sonrası 10 günü aşan hastalık raporunun sağlık kurulunca verilmesi zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-36-tc0m",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Refakat izninde memurun bakmakla yükümlü olduğu yakınları için sağlık kurulu raporu şartıyla kaç aya kadar izin verilir?",
+    "options": [
+      "1 ay",
+      "2 ay",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/9: Sağlık kurulu raporu şartıyla aylık ve özlük hakları korunarak 3 aya kadar refakat izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-37-d5qk",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Gerektiğinde refakat izni süresi ne kadar uzatılabilir?",
+    "options": [
+      "1 aya kadar",
+      "Bir katına kadar",
+      "İki katına kadar",
+      "Uzatılamaz"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/9-b: Gerektiğinde 3 aylık refakat izni süresi bir katına kadar uzatılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-38-auz6",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Aynı kişi ve aynı vakaya dayalı olarak verilebilecek refakat izninin toplam süresi ne kadardır?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "12 ay",
+      "18 ay"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/9-ç: Aynı kişi ve aynı vakaya dayalı refakat izninin toplam süresi 6 ayı geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-39-0sw7",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Aynı kişiyle ilgili aynı dönemde kaç memur refakat izni kullanabilir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Sınırsız"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 11/9-c: Aynı kişiyle ilgili olarak aynı dönemde birden fazla memur refakat izni kullanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-4-g57z",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yönergede geçen 'yıl' kavramı ne anlama gelmektedir?",
+    "options": [
+      "Hizmet yılını",
+      "Mali yılı",
+      "Eğitim-öğretim yılını",
+      "Bir takvim yılını"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 4/i: Yıl; bir takvim yılını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-40-exfe",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Azami hastalık izni süresini kullanan memurun göreve başlayabilmesi için ne ibraz etmesi gerekmektedir?",
+    "options": [
+      "İşe başlama dilekçesi",
+      "Amirine yazılı bildirim",
+      "İyileştiğine dair resmi sağlık kurulu raporu",
+      "Herhangi bir belgeye gerek yoktur"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 14/1: Azami süre sonunda işe başlayabilmek için iyileştiğine dair resmi sağlık kurulu raporu ibraz edilmesi zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-41-lk3y",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yıllık iznini kullanmakta iken hastalık raporu verilen ve hastalık izni süresi yıllık izninden fazla olan memur ne yapmalıdır?",
+    "options": [
+      "Yıllık iznini kullanmaya devam eder",
+      "Hastalık izninin bitiminde göreve başlaması zorunludur",
+      "Her iki izni toplar ve bitiminde göreve başlar",
+      "Yöneticisine bilgi verir, o karar verir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13/2: Hastalık izninin kalan yıllık izinden fazla olması durumunda hastalık izninin bitiminde göreve başlamak zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-42-pjbt",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Hastalık raporlarının hastalık iznine çevrilebilmesi için raporların nasıl düzenlenmesi gerekir?",
+    "options": [
+      "Herhangi bir hekim tarafından verilebilir",
+      "Özel hastane hekimleri tarafından da verilebilir",
+      "Kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi gerekir",
+      "Yalnızca devlet hastanesi tarafından verilmesi gerekir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 12/a: Hastalık raporlarının ilgili mevzuatta belirtilen usulde kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-43-0q4o",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Hastalık raporunun aslının veya örneğinin bağlı olunan disiplin amirine ulaştırılması için son süre nedir?",
+    "options": [
+      "Raporun düzenlendiği gün",
+      "Raporun düzenlendiği günü takip eden günün mesai saati bitimi",
+      "3 iş günü içinde",
+      "1 hafta içinde"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 12/2: Hastalık raporunun aslı veya örneği en geç raporun düzenlendiği günü takip eden günün mesai saati bitimine kadar disiplin amirine ulaştırılmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-44-zgrj",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Refakat izninin bitiminden itibaren memura sağlık kurulu raporu şartıyla ne kadar aylıksız izin verilebilir?",
+    "options": [
+      "6 aya kadar",
+      "12 aya kadar",
+      "18 aya kadar",
+      "24 aya kadar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 15/1: Refakat izninin bitiminden itibaren sağlık kurulu raporuyla 18 aya kadar aylıksız izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-45-e1qt",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Doğum yapan memura doğum sonrası analık izninin bitiminden itibaren ne kadar aylıksız izin verilebilir?",
+    "options": [
+      "6 aya kadar",
+      "12 aya kadar",
+      "18 aya kadar",
+      "24 aya kadar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 15/2: Doğum yapan memura doğum sonrası analık izni süresinin bitiminden itibaren 24 aya kadar aylıksız izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-46-3i6z",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "5 hizmet yılını tamamlayan memura memuriyeti boyunca ve en fazla kaç defada kullanılmak üzere ne kadar aylıksız izin verilebilir?",
+    "options": [
+      "En fazla 1 defada 6 aya kadar",
+      "En fazla 2 defada toplam 1 yıla kadar",
+      "En fazla 3 defada toplam 2 yıla kadar",
+      "En fazla 1 defada 1 yıla kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 15/5: 5 hizmet yılını tamamlayan memura memuriyeti boyunca en fazla 2 defada toplam 1 yıla kadar aylıksız izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-47-gnid",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Aylıksız izin süresinin bitiminde görevine dönmeyen memur ne sayılır?",
+    "options": [
+      "İzinsiz ayrılmış sayılır, uyarı alır",
+      "Memuriyetten çekilmiş sayılır",
+      "Disiplin soruşturması açılır",
+      "Kadrosu otomatik olarak kaldırılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 16/1: Aylıksız izin süresinin bitiminde veya mazeretin kalkmasını izleyen 10 gün içinde göreve dönmeyenler memuriyetten çekilmiş sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-48-5ezd",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Muvazzaf askerlik için aylıksız izne ayrılanların göreve dönmek için başvuru tarihinden itibaren azami kaç gün içinde göreve başlatılmaları zorunludur?",
+    "options": [
+      "7 gün",
+      "15 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 16/2: Muvazzaf askerlik için aylıksız izine ayrılanlar başvuru tarihinden itibaren azami 30 gün içinde göreve başlatılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-49-lt6g",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yabancı memleketlerin resmi kurumlarında görev alan memurlara en fazla kaç yıla kadar aylıksız izin verilebilir?",
+    "options": [
+      "5 yıl",
+      "7 yıl",
+      "10 yıl",
+      "21 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 15/6: Yabancı memleketlerin resmi kurumlarında görev alanlar için 10 yıla kadar aylıksız izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-5-tc42",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Merkez teşkilatında Müsteşara izin verme yetkisi kime aittir?",
+    "options": [
+      "Bakan Yardımcısı",
+      "Bakan",
+      "Müsteşar Yardımcısı",
+      "İnsan Kaynakları Genel Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6/a-1: Müsteşar, TTKB Başkanı ve belirtilen diğer üst düzey yöneticilere Bakan izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-50-xtdf",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Uluslararası kuruluşlarda görev alan memurlara en fazla kaç yıla kadar aylıksız izin verilebilir?",
+    "options": [
+      "10 yıl",
+      "15 yıl",
+      "18 yıl",
+      "21 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 15/6: Uluslararası kuruluşlarda görev alanlar için 21 yıla kadar aylıksız izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-51-ox0j",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Merkez teşkilatında diğer memurlara aylıksız izin verme yetkisi kime aittir?",
+    "options": [
+      "Birim amiri",
+      "Müsteşar",
+      "İnsan Kaynakları Genel Müdürü",
+      "Bakan"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 17/a-3: Merkez teşkilatında diğer memurlara aylıksız izin İnsan Kaynakları Genel Müdürü tarafından verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-52-73jb",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Radyoaktif ışınlarla çalışan personele yıllık izinlerine ilaveten kaç aylık sağlık izni verilir?",
+    "options": [
+      "2 hafta",
+      "1 ay",
+      "3 ay",
+      "6 ay"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 18/c: Radyoaktif ışınlarla çalışan personele her yıl yıllık izinlerine ilaveten 1 ay sağlık izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-53-1km4",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Günlük çalışma saatleri dışında fazla çalıştırılan memura her kaç saati için 1 gün izin verilir?",
+    "options": [
+      "4 saat",
+      "6 saat",
+      "8 saat",
+      "10 saat"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 18/d: Fazla çalışmanın her 8 saati bir gün hesap edilerek izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-54-g6n7",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Fazla çalışma karşılığında verilen iznin yıllık izinle birleştirilebilecek azami kısmı kaç gündür?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "15 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 18/d: Bu şekilde verilen iznin en çok 10 günlük kısmı yıllık izinle birleştirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-55-0uev",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli personelden hizmet süresi 1-10 yıl (10 yıl dahil) olanların yıllık izin süresi kaç gündür?",
+    "options": [
+      "10 gün",
+      "14 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 20/1: Sözleşmeli personelden hizmet süresi 1-10 yıl (dahil) olanların yıllık izni 20 gündür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-56-rboo",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli personelden hizmet süresi 10 yıldan fazla olanların yıllık izin süresi kaç gündür?",
+    "options": [
+      "20 gün",
+      "25 gün",
+      "30 gün",
+      "45 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 20/1: Sözleşmeli personelden hizmet süresi 10 yıldan fazla olanların yıllık izni 30 gündür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-57-up1a",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli personele yıllık izin süresinin hesabında hangi süreler dikkate alınır?",
+    "options": [
+      "Yalnızca MEB'de geçen süreler",
+      "217 sayılı KHK kapsamındaki kurumlarda SGK'ya prim ödemek suretiyle geçen süreler",
+      "Özel sektörde geçen süreler",
+      "Yalnızca sözleşmeli personel olarak geçirilen süreler"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 20/2: 217 sayılı KHK kapsamındaki kurumlarda SGK'ya prim ödemek suretiyle geçen süreler dikkate alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-58-3xfk",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli öğretmenler yıllık izin bakımından ne zaman izinli sayılırlar?",
+    "options": [
+      "Tüm resmi tatillerde",
+      "Yaz ve dinlenme tatillerinde",
+      "Okul dışı hafta sonlarında",
+      "Hiçbir zaman; çünkü yıllık izin hakkı yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 20/4: Sözleşmeli öğretmenler yaz ve dinlenme tatillerinde izinli sayılır; bunlara ayrıca yıllık izin verilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-59-3i44",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Erkek sözleşmeli personele eşinin doğum yapması nedeniyle kaç gün izin verilir?",
+    "options": [
+      "1 gün",
+      "2 gün",
+      "3 gün",
+      "7 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 23/c: Erkek sözleşmeli personele eşinin doğum yapması nedeniyle 2 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-6-qvws",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Taşra teşkilatında il millî eğitim müdürlerine izin verme yetkisi kime aittir?",
+    "options": [
+      "Kaymakama",
+      "Müsteşara",
+      "Valiye",
+      "Bakana"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6/b-1: İl millî eğitim müdürlerine vali izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-60-8x60",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli personele kendisinin veya çocuğunun evlenmesi halinde kaç gün mazeret izni verilir?",
+    "options": [
+      "1 gün",
+      "2 gün",
+      "3 gün",
+      "7 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 23/ç: Sözleşmeli personele evlilik tarihinden itibaren 3 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-61-w5de",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Sözleşmeli personele yakınının ölümü halinde kaç gün mazeret izni verilir?",
+    "options": [
+      "1 gün",
+      "2 gün",
+      "3 gün",
+      "7 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 23/d: Sözleşmeli personele ölüm tarihinden itibaren 3 gün izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-62-uo13",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Kadın sözleşmeli personele 1 yaşından küçük çocuğunu emzirmesi için günde kaç saat süt izni verilir?",
+    "options": [
+      "1 saat",
+      "1,5 saat",
+      "2 saat",
+      "3 saat"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 23/b: Kadın sözleşmeli personele günde toplam 1,5 saat süt izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-63-4syb",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Geçici personele çalıştıkları her ay için azami kaç gün ücretli izin verilebilir?",
+    "options": [
+      "1 gün",
+      "2 gün",
+      "3 gün",
+      "5 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 27/1: Geçici personele çalıştıkları her ay için azami 2 gün ücretli izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-64-53xk",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Geçici personele hastalık nedeniyle yılda en fazla kaç gün ücretli hastalık izni verilebilir?",
+    "options": [
+      "10 gün",
+      "20 gün",
+      "30 gün",
+      "40 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 29/1: Geçici personele resmi hekim raporuna bağlı olarak yılda 30 günü geçmemek üzere ücretli hastalık izni verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-65-cl82",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Geçici personele eşinin doğum yapması nedeniyle kaç gün ücretli mazeret izni verilir?",
+    "options": [
+      "2 gün",
+      "3 gün",
+      "5 gün",
+      "7 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 28/3: Geçici personele eşinin doğum yapması nedeniyle 7 gün ücretli mazeret izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-66-skth",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Geçici personele kendisinin veya çocuğunun evlenmesi halinde kaç gün ücretli mazeret izni verilir?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "10 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 28/4: Geçici personele evlilik tarihinden itibaren 7 gün ücretli mazeret izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-67-qj4w",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Geçici personele yakınının ölümü halinde kaç gün ücretli mazeret izni verilir?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "10 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 28/5: Geçici personele ölüm tarihinden itibaren 7 gün ücretli mazeret izni verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-68-goei",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İşçilerin yıllık ücretli izne hak kazanabilmesi için en az kaç yıl çalışmış olması gerekir?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32/1: İşyerinde işe başladığı günden itibaren en az 1 yıl çalışmış olan işçilere yıllık ücretli izin verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-69-mqzv",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Hizmet süresi 1-5 yıl (5 yıl dahil) olan işçilere yıllık ücretli izin süresi en az kaç gündür?",
+    "options": [
+      "10 gün",
+      "14 gün",
+      "20 gün",
+      "26 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32/4: Hizmet süresi 1-5 yıl (dahil) olan işçilere 14 günden az yıllık izin verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-7-s43n",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Taşra teşkilatında ilçe millî eğitim müdürlerine izin verme yetkisi kime aittir?",
+    "options": [
+      "Valiye",
+      "İl millî eğitim müdürüne",
+      "Kaymakama",
+      "Bakana"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6/b-1: İlçe millî eğitim müdürlerine kaymakamlar izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-70-k1pk",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Hizmet süresi 5 yıldan fazla 15 yıldan az olan işçilere yıllık ücretli izin süresi en az kaç gündür?",
+    "options": [
+      "14 gün",
+      "20 gün",
+      "24 gün",
+      "26 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32/4: 5 yıldan fazla 15 yıldan az hizmet süresinde 20 günden az yıllık izin verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-71-x356",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Hizmet süresi 15 yıl (dahil) ve daha fazla olan işçilere yıllık ücretli izin süresi en az kaç gündür?",
+    "options": [
+      "20 gün",
+      "24 gün",
+      "26 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 32/4: 15 yıl ve daha fazla hizmet süresinde 26 günden az yıllık izin verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-72-h996",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "18 yaşından küçük veya 50 yaşından büyük işçilere yıllık ücretli izin süresi en az kaç gün olmalıdır?",
+    "options": [
+      "14 gün",
+      "20 gün",
+      "26 gün",
+      "30 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32/4: 18 ve daha küçük yaştaki ile 50 ve daha büyük yaştaki işçilere 20 günden az yıllık izin verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-73-tr4k",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İşçilerin yıllık ücretli izin süresinin hesabında izin süresine rastlayan ulusal bayram, hafta tatili ve genel tatil günleri ne olur?",
+    "options": [
+      "İzin süresinden sayılır",
+      "İzin süresinden sayılmaz",
+      "Yarım gün olarak hesaplanır",
+      "İşveren inisiyatifine bırakılmıştır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 35/4: Yıllık ücretli izin günlerinin hesabında izin süresine rastlayan ulusal bayram, hafta tatili ve genel tatil günleri izin süresinden sayılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-74-v3ej",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İşçi başka yerde yıllık iznini geçirecekse işveren gidiş-dönüş için en fazla kaç güne kadar ücretsiz izin vermek zorundadır?",
+    "options": [
+      "2 gün",
+      "4 gün",
+      "6 gün",
+      "8 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 35/5: İşveren gidiş ve dönüşlerde yolda geçen süreyi karşılamak üzere toplam 4 güne kadar ücretsiz izin vermek zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-75-luhe",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "10 hizmet yılını tamamlamış işçiye bir defada kullanılmak üzere ne kadar ücretsiz izin verilebilir?",
+    "options": [
+      "3 aya kadar",
+      "6 aya kadar",
+      "1 yıla kadar",
+      "2 yıla kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 36/2: 10 hizmet yılını tamamlamış işçiye bir defada kullanılmak üzere 6 aya kadar ücretsiz izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-76-8hnm",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yurt içine/dışına sürekli görevle atanan memurların işçi olan eşlerine ne kadar ücretsiz izin verilebilir?",
+    "options": [
+      "Her defasında 1 yıldan az olmamak üzere en çok 4 yıla kadar",
+      "Her defasında 1 yıldan az olmamak üzere en çok 8 yıla kadar",
+      "Her defasında 6 aydan az olmamak üzere en çok 5 yıla kadar",
+      "En çok 2 yıla kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 36/3: Yurt içi/dışına sürekli görevle atanan memurların işçi eşine her defasında 1 yıldan az olmamak üzere en çok 8 yıla kadar ücretsiz izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-77-0rax",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İşçilerin refakat izninde ağır kaza veya hastalık durumunda ne kadar ücretsiz izin verilebilir?",
+    "options": [
+      "3 aya kadar",
+      "6 aya kadar",
+      "12 aya kadar",
+      "18 aya kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 36/1: Aynı şartlarla uzatma hakkıyla en çok 6 aya kadar ücretsiz izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-78-t0d5",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Savaş ve olağanüstü durumlarda izinleri kaldırma veya kısaltma yetkisi kimdedir?",
+    "options": [
+      "Yalnızca Bakan",
+      "Başbakan, Bakan ve Vali",
+      "Yalnızca Başbakan",
+      "Müsteşar ve Vali"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 37/1: Savaş ve olağanüstü durumlarda izinler Başbakan, Bakan ve valilerce kaldırılabilir veya süresi kısaltılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-79-dydd",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İzin kullanan personelin izin bitimini izleyen ilk çalışma gününde göreve başlamamasının yaptırımı nedir?",
+    "options": [
+      "Ücret kesimi yapılır",
+      "İlgili disiplin hükümleri uygulanır",
+      "Görev yeri değiştirilir",
+      "Sadece yazılı uyarı verilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 41/1: İzin bitiminde özürsüz göreve başlamamak, yanlış beyanda bulunmak veya onaylı belgelere aykırı davranmak disiplin hükümlerinin uygulanmasına neden olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-8-ummu",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yurt dışı teşkilatında eğitim müşavirlerine izin verme yetkisi kime aittir?",
+    "options": [
+      "Başkonsolosluğa",
+      "Büyükelçiye",
+      "Müsteşara",
+      "Bakana"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6/c-1: Eğitim müşavirlerine büyükelçiler izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-80-6s2p",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İzin vermeye yetkili amirler yetkilerini devredebilir mi?",
+    "options": [
+      "Hayır, devredilemez",
+      "Evet, alt kademelere devredebilirler",
+      "Yalnızca yurt dışı iznini devredebilirler",
+      "Sadece Bakan onayıyla devredilebilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 42/1: İzin vermekle yetkili amirler bu yetkilerini alt kademelere devredebilirler.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-81-te5c",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yıllık iznini yurt dışında geçirmek isteyen personelin yapması gereken nedir?",
+    "options": [
+      "Bakanlıktan özel izin almak",
+      "Bu durumu İzin Onay Belgesi'nde belirtmesi",
+      "Valilikten onay almak",
+      "Gideceği ülke büyükelçiliğine haber vermek"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 43/1: Yurt dışında yıllık iznini geçirmek isteyen personelin bu durumu İzin Onay Belgesi'nde belirtmesi yeterlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-82-6f0u",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İzne ayrılan personele kimin vekâlet edeceğini kim belirler?",
+    "options": [
+      "İnsan Kaynakları Genel Müdürü",
+      "İzin vermeye yetkili amirler",
+      "İzne ayrılan personelin kendisi",
+      "Bir üst amir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 40/1: İzin vermeye yetkili amirler, izne ayrılacak personele kimin vekâlet edeceğini personelin izne ayrılmasından önce belirler.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-83-kqlf",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "İzinlere ilişkin bilgiler hangi sisteme işlenmelidir?",
+    "options": [
+      "e-Devlet sistemine",
+      "MEBBİS e-personel modülüne",
+      "Uyap sistemine",
+      "SGK sistemine"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 38/1: İzinlere ilişkin bilgiler düzenli olarak MEBBİS e-personel modülüne işlenerek sisteme yansıtılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-84-lud7",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yönergede hüküm bulunmayan hallerde ne uygulanır?",
+    "options": [
+      "Okul yönetmeliği hükümleri",
+      "Valilik genelgeleri",
+      "İlgili mevzuat hükümleri",
+      "Bakan kararları"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 45: Yönergede hüküm bulunmayan hallerde ilgili mevzuat hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-85-ldvh",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Bu Yönerge hükümlerini kim yürütür?",
+    "options": [
+      "Müsteşar",
+      "İnsan Kaynakları Genel Müdürü",
+      "Bakan",
+      "Vali"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 48: Yönerge hükümlerini Bakan yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-86-5jst",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "MEB İzin Yönergesi ne zaman yürürlüğe girer?",
+    "options": [
+      "Resmi Gazete'de yayım tarihinde",
+      "Onay tarihinde",
+      "Bakan imzasından 15 gün sonra",
+      "Yeni eğitim-öğretim yılı başında"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 47: Bu Yönerge onay tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  }
+]

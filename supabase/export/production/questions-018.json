@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-44-itf1",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Merkezî yönetim bütçe Kanun'unun uygulanmasında harcamalarda tasarrufu sağlamak ve kamu idareleri için uyulması zorunlu düzenlemeler yapmak konusunda yetkili makam hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Sayıştay",
+      "Hazine ve Maliye Bakanı",
+      "TBMM Başkanlığı",
+      "İç Denetim Koordinasyon Kurulu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Cumhurbaşkanı. Dayanak: 5018 sayılı Kanun, Madde 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-45-gqez",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu idaresinin nakit mevcudu bütün ödemeleri karşılamıyorsa aşağıdakilerden hangisine öncelik verilen ödemeler arasında yer alır?",
+    "options": [
+      "Temsil ve ağırlama giderleri",
+      "İlama bağlı borçlar",
+      "Yurt dışı görevlendirme avansları",
+      "İsteğe bağlı sosyal yardımlar",
+      "Yeni yatırım projeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İlama bağlı borçlar. Dayanak: 5018 sayılı Kanun, Madde 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-46-k0pi",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre avans vermek veya kredi açmak suretiyle ön ödeme yapılabilmesinin şartlarından biri hangisidir?",
+    "options": [
+      "Ödeneğin ertesi yıl bütçesine bırakılması",
+      "Sayıştayın önceden uygunluk vermesi",
+      "TBMM komisyon kararı alınması",
+      "Harcama yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması",
+      "Sadece genel bütçeli idarelerde yapılması"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Harcama yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması. Dayanak: 5018 sayılı Kanun, Madde 35.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-47-f1zp",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "TBMM merkezî yönetim bütçe Kanun'unun uygulama sonuçlarını onama yetkisini hangi belgeyle kullanır?",
+    "options": [
+      "Birim faaliyet raporu",
+      "Genel uygunluk bildirimi",
+      "Genel faaliyet raporu",
+      "İdare faaliyet raporu",
+      "Kesin hesap kanunu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kesin hesap kanunu. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-48-f3h8",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'un 17 nci maddesine göre gelir ve gider tekliflerinin hazırlanmasında aşağıdakilerden hangisi dikkate alınmaz?",
+    "options": [
+      "Muhasebe yetkilisinin kişisel kanaati",
+      "Kurumun stratejik planı çerçevesinde belirlenmiş ödenek tavanları",
+      "İdarenin performans hedefleri",
+      "Orta vadeli programda belirlenen temel büyüklükler ile ilke ve esaslar",
+      "Stratejik planla uyumlu çok yıllı bütçeleme anlayışı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Muhasebe yetkilisinin kişisel kanaati. Dayanak: 5018 sayılı Kanun, Madde 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-49-6wjs",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Gelir politikaları ve uygulamaları konusundaki ilkeler, amaçlar, stratejiler ve taahhütler ne zaman kamuoyuna duyurulur?",
+    "options": [
+      "Her üç ayda bir",
+      "Malî yıl sonunda",
+      "Sayıştay raporundan sonra",
+      "Bütçe kesinleştikten iki ay sonra",
+      "Her malî yıl başında"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Her malî yıl başında. Dayanak: 5018 sayılı Kanun, Madde 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-5-0aog",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Merkezî yönetim bütçe kanunu teklifi, malî yılbaşından en az .............. gün önce Cumhurbaşkanı tarafından TBMM’ye sunulur.",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "45",
+      "75"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 75. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-50-5eqd",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Genel yönetim kapsamındaki kamu idarelerinin gelirlerinin kanuni dayanakları nerede gösterilir?",
+    "options": [
+      "Bütçelerinde",
+      "Stratejik planlarda",
+      "Kesin hesap cetvellerinde",
+      "İç denetim raporlarında",
+      "Faaliyet raporlarında"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bütçelerinde. Dayanak: 5018 sayılı Kanun, Madde 37.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-51-bnik",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Ödenek Gönderme Belgesi aşağıdaki idare türlerinden hangisinde kullanılır?",
+    "options": [
+      "İl Özel İdareleri",
+      "KİT’lerde",
+      "Merkezî yönetim kapsamındaki kamu idarelerinin merkez dışı birimlerinde",
+      "Belediyeler",
+      "Sosyal Güvenlik Kurumlarında"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Merkezî yönetim kapsamındaki kamu idarelerinin merkez dışı birimlerinde. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-52-jh03",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu gelirlerinin tarh, tahakkuk ve tahsiliyle yetkili ve görevli olanlar hangi husustan sorumludur?",
+    "options": [
+      "Tarh, tahakkuk ve tahsil işlemlerinin zamanında ve eksiksiz yapılmasından",
+      "Gelir tarifelerinin belirlenmesinden",
+      "Yalnızca gelir tahminlerinin artırılmasından",
+      "Bütçe Kanun'unun yayımlanmasından",
+      "Ödenek aktarmalarının yapılmasından"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Tarh, tahakkuk ve tahsil işlemlerinin zamanında ve eksiksiz yapılmasından. Dayanak: 5018 sayılı Kanun, Madde 38.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-53-lihh",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Merkezî yönetim bütçe Kanun'unun gider cetvelinin bölümleri ne esas alınarak düzenlenir?",
+    "options": [
+      "Ekonomik sınıflandırma",
+      "Analitik bütçe sınıflandırması esas alınarak programlar itibarıyla",
+      "Kurumsal sınıflandırma",
+      "Finansman tipi sınıflandırma",
+      "Fonksiyonel sınıflandırma"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Analitik bütçe sınıflandırması esas alınarak programlar itibarıyla. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-54-xb99",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Malî yıl içinde kullanılabilecek özel ödenek miktarı için 5018 sayılı Kanunda hangi sınır öngörülmüştür?",
+    "options": [
+      "Genel bütçe gelirlerinin yüzde birini geçemez",
+      "Başlangıç ödeneğinin iki katını geçemez",
+      "Tahsil edilen özel gelir tutarını geçemez",
+      "Üst yöneticinin belirlediği tutarı geçemez",
+      "Herhangi bir sınır yoktur"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Tahsil edilen özel gelir tutarını geçemez. Dayanak: 5018 sayılı Kanun, Madde 39.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-55-62kr",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Afetlerle ilgili olanlar hariç, belirlenen sınırın üzerindeki yeni kamu yatırım projesi tekliflerinin fayda-maliyet veya maliyet-etkinlik analizleri ile çevresel analizleri içerecek şekilde hangi belgeyle birlikte sunulması öngörülmüştür?",
+    "options": [
+      "Yapılabilirlik etüdüyle",
+      "Yıllık faaliyet raporuyla",
+      "Kesin hesap cetveliyle",
+      "İç denetim raporuyla",
+      "Ödenek gönderme belgesiyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yapılabilirlik etüdüyle. Dayanak: 5018 sayılı Kanun, Madde 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-56-b70i",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu yararına kullanılmak üzere yapılan şartlı bağış ve yardımlardan bütçeye ödenek kaydedilen tutarlar hakkında hangisi doğrudur?",
+    "options": [
+      "Herhangi bir tertibe serbestçe aktarılabilir",
+      "Yıl sonunda kendiliğinden genel bütçeye gelir olur",
+      "Şart kılındığı amaç dışında başka bir tertibe aktarılamaz",
+      "İç denetçinin izniyle amaç değiştirilebilir",
+      "Yalnızca personel giderlerine aktarılabilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Şart kılındığı amaç dışında başka bir tertibe aktarılamaz. Dayanak: 5018 sayılı Kanun, Madde 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-57-bsi8",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kesin hesap kanun teklifine eklenen belgeler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Yılı içinde silinen kamu alacakları cetveli",
+      "Devlet borçları ve Hazine garantilerine ilişkin cetveller",
+      "Bütçe gelir ve giderlerinin iller ve idareler itibarıyla dağılımı",
+      "Yıllık performans denetim raporu",
+      "Genel Mizan"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yıllık performans denetim raporu. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-58-jc7c",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu yatırım projelerinin gerçekleşme ve uygulama sonuçları, ilgili kamu idaresi tarafından izleyen yılın Mart ayı sonuna kadar bir rapor hâlinde kimlere gönderilir?",
+    "options": [
+      "İçişleri Bakanlığı ve Sayıştay",
+      "Sayıştay, Cumhurbaşkanlığı ve Hazine ve Maliye Bakanlığı",
+      "Yalnız Sayıştay",
+      "Yalnız Cumhurbaşkanlığı",
+      "TBMM ve Sayıştay"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Sayıştay, Cumhurbaşkanlığı ve Hazine ve Maliye Bakanlığı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-59-4nsu",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Sayıştayın genel uygunluk bildirimini hazırlarken dikkate aldığı belgeler arasında aşağıdakilerden hangisi vardır?",
+    "options": [
+      "Yalnızca stratejik planlar",
+      "Sadece toplu iş sözleşmeleri",
+      "İdare faaliyet raporları",
+      "Personel sicil raporları",
+      "Yalnızca yatırım fizibilite raporları"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İdare faaliyet raporları. Dayanak: 5018 sayılı Kanun, Madde 43.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-6-be22",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kredi işlemlerinde mahsup süresi .............. aydır.",
+    "options": [
+      "2",
+      "3",
+      "12",
+      "6",
+      "1"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 3. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-60-qxh4",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu idarelerinin merkez teşkilatı harcama yetkilileri merkez dışı birimlere ödenekleri hangi belgeyle gönderir?",
+    "options": [
+      "Harcama belgesi",
+      "Muhasebe işlem fişi",
+      "Ödenek gönderme belgesi",
+      "Ödenek talep belgesi",
+      "Ödeme emri belgesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Ödenek gönderme belgesi. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-61-tt6b",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu idarelerinde gerçekleştirme görevlilerini kim belirler?",
+    "options": [
+      "Muhasebe yetkilisi",
+      "Vali",
+      "Üst yönetici",
+      "Harcama yetkilisi",
+      "Malî hizmetler birimi yöneticisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Harcama yetkilisi. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-62-qmad",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre kamu idareleri, bütçe gelir ve gider tahminleri ile uygulama sonuçlarının raporlanmasında;\nI. Açıklık\nII. Doğruluk\nIII. Malî saydamlık\nilkelerinden hangilerine uymalıdır?",
+    "options": [
+      "Yalnız I",
+      "I, II ve III",
+      "II ve III",
+      "I ve II",
+      "Yalnız II"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – I, II ve III. Dayanak: 5018 sayılı Kanun, Madde 13/l.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-63-mrtg",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Harcama yetkisinin devredilmesi durumunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yetkiyi devredenin idari sorumluluğu tamamen ortadan kalkar",
+      "Sorumluluk tamamen devralana geçer",
+      "Yetkiyi devredenin idari sorumluluğu ortadan kalkmaz",
+      "Sadece malî sorumluluk devredilir",
+      "Devir işlemi Sayıştay onayı ile geçerlilik kazanır"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yetkiyi devredenin idari sorumluluğu ortadan kalkmaz. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-64-soe7",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre genel bütçeli idareler (I) sayılı cetvel) hangi tüzel kişiliğe dâhildir?",
+    "options": [
+      "Mahallî idare tüzel kişiliğine",
+      "Kendi özel kamu tüzel kişiliğine",
+      "Vakıf tüzel kişiliğine",
+      "Özerk kamu tüzel kişiliğine",
+      "Devlet tüzel kişiliğine"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Devlet tüzel kişiliğine. Dayanak: 5018 sayılı Kanun, Madde 12/3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-65-mfnq",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Genel bütçe kapsamındaki kamu idareleri ayrıntılı harcama programlarını (AHP) hazırlar ve vize edilmek üzere nereye gönderir?",
+    "options": [
+      "Sayıştaya",
+      "Cumhurbaşkanlığına",
+      "TBMM’ye",
+      "Hazine ve Maliye Bakanlığına",
+      "İlgili Bakanlığa"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanlığına. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-66-lb8t",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre genel bütçe gelirlerinin tarh, tahakkuk ve tahsili kural olarak kim tarafından yapılır?",
+    "options": [
+      "Adalet Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Hazine ve Maliye Bakanlığı veya ilgili mevzuatına göre yetkili idareler",
+      "Sanayi ve Teknoloji Bakanlığı",
+      "Ticaret Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hazine ve Maliye Bakanlığı veya ilgili mevzuatına göre yetkili idareler. Dayanak: 5018 sayılı Kanun, Madde 37/2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-67-vmt4",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na göre düzenleyici ve denetleyici kurumlar aşağıda belirtilen maddelerden hangisine tâbi değildir?",
+    "options": [
+      "Madde 12 (Bütçe türleri ve kapsamı)",
+      "Madde 68 (Dış denetim)",
+      "Madde 25 (Kamu yatırım projeleri)",
+      "Madde 42 (Kesin hesap kanunu)",
+      "Madde 20 (Ödeneklerin kullanılması)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Madde 20 (Ödeneklerin kullanılması). Düzenleyici ve denetleyici kurumların tâbi olduğu maddeler arasında 20 nci madde yer almamaktadır. Dayanak: 5018 sayılı Kanun, Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-68-g3ga",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanun'a ekli (II) sayılı cetvelde yer alan özel bütçeli idarelerden biridir?",
+    "options": [
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK)",
+      "Sayıştay",
+      "Adalet Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK). Dayanak: 5018 sayılı Kanun, (II) sayılı cetvel.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-69-ueg8",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanun'a ekli (I) sayılı cetvelde yer alan bakanlıklardan biridir?",
+    "options": [
+      "Avrupa Birliği Bakanlığı",
+      "Gümrük ve Ticaret Bakanlığı",
+      "Orman ve Su İşleri Bakanlığı",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "Kalkınma Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Çevre, Şehircilik ve İklim Değişikliği Bakanlığı. Dayanak: 5018 sayılı Kanun, (I) sayılı cetvel.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-7-d5v6",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu yatırım programı, merkezî yönetim bütçe Kanun'unun yürürlüğe girdiği tarihten itibaren .............. gün içinde Cumhurbaşkanı kararıyla Resmî Gazete’de yayımlanır.",
+    "options": [
+      "60",
+      "30",
+      "7",
+      "15",
+      "45"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 15. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-70-09t8",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi gerçekleştirme görevlilerinin görevlerinden biri değildir?",
+    "options": [
+      "Teslim almaya ilişkin işlemlerin yapılması",
+      "Belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması",
+      "Ödeme emri belgesinin imzalanması (Harcama yetkilisi adına)",
+      "İşin yaptırılması",
+      "Mal veya hizmetin alınması"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Ödeme emri belgesinin imzalanması (Harcama yetkilisi adına). Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-71-knb1",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanunda sayılan bütçe ilkelerinden biri değildir?",
+    "options": [
+      "Bütçelerde gelir ve gider denkliğinin sağlanması esastır",
+      "Tüm gelir ve giderler gayri safi olarak bütçelerde gösterilir",
+      "Bütçelerde bütçeyi ilgilendirmeyen hususlara yer verilmez",
+      "Belirli gelirlerin belirli giderlere tahsis edilmemesi esastır",
+      "Bütçeler geçmiş yıl harcamalarının ortalaması alınarak hazırlanır"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Bütçeler geçmiş yıl harcamalarının ortalaması alınarak hazırlanır. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-72-lpz2",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanun'a ekli (III) sayılı cetvelde yer alan (düzenleyici ve denetleyici) kurumlardan biridir?",
+    "options": [
+      "Karayolları Genel Müdürlüğü",
+      "Sermaye Piyasası Kurulu (SPK)",
+      "Türkiye İş Kurumu (İŞKUR)",
+      "Sosyal Güvenlik Kurumu (SGK)",
+      "Devlet Su İşleri Genel Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Sermaye Piyasası Kurulu (SPK). Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-73-8pj1",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Genel yönetim kapsamındaki kamu idareleri ile merkezî yönetim bütçesinden yardım alan kurum ve benzeri teşekküller, istenilmesi hâlinde gelir-gider tahminleri, malî tabloları ve diğer malî bilgileri hangi makama vermek zorundadır?",
+    "options": [
+      "TBMM Başkanlığına",
+      "Hazine ve Maliye Bakanlığına",
+      "Sayıştaya",
+      "Cumhurbaşkanlığına",
+      "Türkiye Cumhuriyet Merkez Bankasına"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanlığına. Dayanak: 5018 sayılı Kanun, Madde 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-74-gm7f",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi (II) sayılı cetvelde yer alan üniversiteler grubunda yer almaz?",
+    "options": [
+      "Galatasaray Üniversitesi",
+      "Orta Doğu Teknik Üniversitesi",
+      "İstanbul Teknik Üniversitesi",
+      "Millî Savunma Üniversitesi",
+      "Boğaziçi Üniversitesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Millî Savunma Üniversitesi. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-75-6ega",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanun'a ekli (II) sayılı cetvelde Atatürk Kültür, Dil ve Tarih Yüksek Kurumu ile birlikte sayılan kurumlardan biri değildir?",
+    "options": [
+      "Türk Dil Kurumu",
+      "Atatürk Araştırma Merkezi",
+      "Atatürk Kültür Merkezi",
+      "Türk Tarih Kurumu",
+      "Yunus Emre Enstitüsü"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yunus Emre Enstitüsü. Dayanak: 5018 sayılı Kanun, (II) sayılı cetvel.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-76-mt6d",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre;\nI. Afyon Kocatepe Üniversitesi\nII. Strateji ve Bütçe Başkanlığı\nIII. Türkiye İş Kurumu Genel Müdürlüğü\nkurumlarından hangilerinin bütçesi merkezî yönetim bütçesi içinde yer alır?",
+    "options": [
+      "I ve II",
+      "Yalnız II",
+      "Yalnız III",
+      "II ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – I ve II. Dayanak: 5018 sayılı Kanun, Madde 12 ((I), (II) ve (III) sayılı cetveller = merkezî yönetim).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-77-ujgl",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre aşağıdaki sürelerden hangisi yanlıştır?",
+    "options": [
+      "Madde 28’de sayılan belirli mal ve hizmet alımlarında gelecek yıllara yaygın yüklenme süresi: 3 yıl",
+      "Kesin hesap kanunu teklifinin TBMM’ye sunulması: İzleyen yılın Mart ayı sonu",
+      "Kamu zararı ve para cezalarında zamanaşımı: 10 yıl",
+      "Emanet hesaplarındaki belirli tutarların gelir kaydedilmesi: 5 yıl",
+      "Kamu idarelerinin bütçe tekliflerini Cumhurbaşkanlığına göndermesi: Eylül ayı sonu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kesin hesap kanunu teklifinin TBMM’ye sunulması: İzleyen yılın Mart ayı sonu. Kesin hesap kanun teklifi izleyen malî yılın Haziran ayı sonuna kadar TBMM’ye sunulur. Dayanak: 5018 sayılı Kanun, Madde 42.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-78-1whs",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdaki işlerden hangisi için ertesi yıla geçen yüklenme yapılamaz?",
+    "options": [
+      "Temini güç ilaç ve aşı alımları",
+      "Büro mobilyası ve tefrişat alımları",
+      "Personel taşıma hizmetleri (Servis)",
+      "Süreli yayın alımı",
+      "Yiyecek ve yakacak alımları"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Büro mobilyası ve tefrişat alımları. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-79-wtad",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      "Jandarma Genel Komutanlığı – Genel bütçe",
+      "Emniyet Genel Müdürlüğü – Genel bütçe",
+      "Göç İdaresi Başkanlığı – Genel bütçe",
+      "Karayolları Genel Müdürlüğü – Genel bütçe",
+      "Sahil Güvenlik Komutanlığı – Genel bütçe"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Karayolları Genel Müdürlüğü – Genel bütçe. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-8-1s5h",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu idareleri, kendi bütçeleri içinde aktarma yapılacak tertipteki ödeneğin yüzde kaçına kadar kendi yetkileriyle aktarma yapabilir?",
+    "options": [
+      "20",
+      "25",
+      "5",
+      "0",
+      "15"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 20. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-80-vlak",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'un 40 ıncı maddesine göre bağış ve yardımlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Nakdî olmayan her türlü bağış ve yardımlar iz bedelleri üzerinden kayıtlara alınır",
+      "Bu ödeneklerden malî yıl sonuna kadar harcanmamış olan tutarlar ertesi yıl bütçesine devir olunarak kaydedilir",
+      "Bağış ve yardımlar amaç dışı kullanılamaz",
+      "Şartlı bağış ve yardımlar idarenin üst yöneticisi tarafından uygun görülmesi hâlinde ödenek kaydedilir",
+      "Kamu idarelerine yapılan her türlü bağış ve yardımlar gelir kaydedilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Nakdî olmayan her türlü bağış ve yardımlar iz bedelleri üzerinden kayıtlara alınır. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-81-oaq2",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Aşağıdakilerden hangisi 5018 sayılı Kanunda belirtilen bütçe türlerinden biri değildir?",
+    "options": [
+      "Mahallî idare bütçesi",
+      "Orta vadeli bütçe",
+      "Genel bütçe",
+      "Düzenleyici ve denetleyici kurum bütçesi",
+      "Sosyal güvenlik kurumu bütçesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Orta vadeli bütçe. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-82-os2n",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre süresi içerisinde mahsup edilmeyen avanslar hakkında aşağıdaki hükümlerden hangisi uygulanır?",
+    "options": [
+      "İcra ve İflas Kanunu",
+      "Türk Ticaret Kanunu",
+      "6183 sayılı Kanun",
+      "Borçlar Kanunu",
+      "3095 sayılı Kanun"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 6183 sayılı Kanun. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-83-oufv",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre özel gelir aşağıdaki kamu idarelerinin hangisinde kullanılabilir?",
+    "options": [
+      "Genel yönetim kapsamındaki tüm idarelerde",
+      "Merkezî yönetim kapsamındaki tüm idarelerde",
+      "Yalnızca mahallî idarelerde",
+      "Özel bütçeli tüm idarelerde",
+      "Genel bütçe kapsamındaki tüm idarelerde"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Genel bütçe kapsamındaki tüm idarelerde. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-84-5xjg",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre merkezî yönetim kapsamındaki kamu idarelerinin bütçeleri arasındaki ödenek aktarmalarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sayıştay onayıyla yapılır",
+      "Kural olarak kanunla yapılır; genel bütçe ödeneklerinin %10’unu geçmemek kaydıyla aktarmalara ilişkin yetki ve işlemler merkezî yönetim bütçe Kanun'unda belirlenir",
+      "Her durumda Cumhurbaşkanı kararıyla yapılır",
+      "Her durumda üst yönetici onayıyla yapılır",
+      "Her durumda yönetmelikle yapılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kural olarak kanunla yapılır; genel bütçe ödeneklerinin %10’unu geçmemek kaydıyla aktarmalara ilişkin yetki ve işlemler merkezî yönetim bütçe Kanun'unda belirlenir. Dayanak: 5018 sayılı Kanun, Madde 21/1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-85-9no8",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre merkezî yönetim kapsamındaki kamu idarelerinde ödenek gönderilmesine ilişkin usul ve esasları belirlemeye aşağıdakilerden hangisi yetkilidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "İçişleri Bakanı",
+      "Hazine ve Maliye Bakanı",
+      "Sayıştay Başkanı",
+      "TBMM"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hazine ve Maliye Bakanı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-86-ryec",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre merkezî yönetim bütçesini oluşturan bütçeler hangileridir?",
+    "options": [
+      "Genel bütçe – Özel bütçe – Düzenleyici ve denetleyici kurum bütçesi",
+      "Genel bütçe – Özel bütçe – Mahallî idare bütçesi",
+      "Genel bütçe – Sosyal güvenlik kurumu bütçesi – Mahallî idare bütçesi",
+      "Mahallî idare bütçesi – Özel bütçe – Düzenleyici ve denetleyici kurum bütçesi",
+      "Düzenleyici ve denetleyici kurum bütçesi – Sosyal güvenlik kurumu bütçesi – Mahallî idare bütçesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Genel bütçe – Özel bütçe – Düzenleyici ve denetleyici kurum bütçesi. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-87-r0m7",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre kesin hesap kanunu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kesin hesap kanun teklifi Hazine ve Maliye Bakanlığınca hazırlanır",
+      "Kesin hesap kanun teklifinde yılı içinde silinen kamu alacakları cetveli de yer alır",
+      "Kesin hesap kanunu teklifi Hazine ve Maliye Bakanı tarafından TBMM’ye sunulur",
+      "Kesin hesap kanun teklifi izleyen malî yılın Haziran ayı sonuna kadar sunulur",
+      "TBMM bütçe Kanun'unun uygulama sonuçlarını onama yetkisini kesin hesap kanunuyla kullanır"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kesin hesap kanunu teklifi Hazine ve Maliye Bakanı tarafından TBMM’ye sunulur. Bu ifade yanlıştır; teklif TBMM’ye Cumhurbaşkanı tarafından sunulur. Dayanak: 5018 sayılı Kanun, Madde 42.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-88-77uz",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Yılı yatırım programına ek yatırım cetvellerinde yer alan projelerde değişiklik yapılması hâlinde, değişikliğin gerektirdiği tertipler arası ödenek aktarma işlemlerinin tamamını yapmaya kim yetkilidir?",
+    "options": [
+      "TBMM Plan ve Bütçe Komisyonu",
+      "Sayıştay",
+      "Muhasebe yetkilileri",
+      "İlgili idareler",
+      "İç denetçiler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İlgili idareler. Dayanak: 5018 sayılı Kanun, Madde 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-89-vjq0",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Kamu idaresinin nakit mevcudunun tüm ödemeleri karşılayamaması hâlinde, Kanunda öncelik verilen ödeme grupları dışında kalan giderler hangi sıraya göre ödenir?",
+    "options": [
+      "Harcama tutarının büyüklüğüne göre",
+      "Harcama yetkilisinin tercihine göre",
+      "Alfabetik sıraya göre",
+      "Bütçe tertip numarasına göre",
+      "Muhasebe kayıtlarına alınma sırasına göre"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Muhasebe kayıtlarına alınma sırasına göre. Dayanak: 5018 sayılı Kanun, Madde 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-9-0nms",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "Genel faaliyet raporunu hazırlayan makam ile raporun gönderildiği makam aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Hazine ve Maliye Bakanlığı / TBMM",
+      "Strateji ve Bütçe Başkanlığı / Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanlığı / Sayıştay",
+      "İçişleri Bakanlığı / TBMM",
+      "Sayıştay / Cumhurbaşkanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanlığı / Sayıştay. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-90-cmlc",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre her mutemet, ön ödemelerden harcadığı tutara ilişkin kanıtlayıcı belgeleri, ilgili kanunlarında süre belirtilmemişse hangi sürelerde muhasebe yetkilisine vermek ve artan tutarı iade etmekle yükümlüdür?",
+    "options": [
+      "Kredilerde ve avanslarda 3 ay",
+      "Kredilerde 6 ay, avanslarda 15 gün",
+      "Kredilerde 1 ay, avanslarda 3 ay",
+      "Kredilerde 3 ay, avanslarda 1 ay",
+      "Kredilerde ve avanslarda 1 ay"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kredilerde 3 ay, avanslarda 1 ay. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-91-sah3",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre harcama yetkisinin devredilmesi, yetkiyi devredenin hangi sorumluluğunu ortadan kaldırmaz?",
+    "options": [
+      "Disiplin sorumluluğu",
+      "Malî ve cezai sorumluluk",
+      "Cezai sorumluluk",
+      "Malî sorumluluk",
+      "İdari sorumluluk"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – İdari sorumluluk. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-92-ivcn",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre gelir teklifi Cumhurbaşkanlığı tarafından hazırlanan bütçe aşağıdakilerden hangisidir?",
+    "options": [
+      "Genel bütçe",
+      "Özel bütçe",
+      "Merkezî yönetim bütçesi",
+      "Genel yönetim bütçesi",
+      "Sosyal güvenlik kurumları bütçesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Genel bütçe. 5018 sayılı Kanun'un 17 nci maddesine göre genel bütçe gelir teklifi Cumhurbaşkanlığı tarafından hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-93-26s2",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre genel uygunluk bildirimi hazırlanırken aşağıdaki belgelerden hangisi dikkate alınır?",
+    "options": [
+      "Birim faaliyet raporları",
+      "Stratejik planlar",
+      "İdare faaliyet raporları",
+      "Kesin hesap cetvelleri",
+      "Bütçe Hazırlama Rehberi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İdare faaliyet raporları. Madde 43'e göre genel uygunluk bildirimi; dış denetim raporları, idare faaliyet raporları ve genel faaliyet raporu dikkate alınarak hazırlanır. Dayanak: 5018 sayılı Kanun, Madde 43.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-94-sjfs",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre genel bütçe gelir teklifi kim tarafından hazırlanır?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "İlgili kamu idareleri",
+      "Sayıştay",
+      "Cumhurbaşkanlığı",
+      "TBMM"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanlığı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-95-ci1i",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre geçmiş yıllara ait olup ödenememiş tazminat farkı mahkeme kararı ile cari yılda ödenmek istenirse nereden ödenir?",
+    "options": [
+      "Düyundan",
+      "Emanet hesabından",
+      "Örtülü ödenekten",
+      "Yedek ödenekten",
+      "Cari yıl bütçesinden"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cari yıl bütçesinden. İlama bağlı borçlar ilgili kamu idaresinin cari yıl bütçesinden ödenir. Dayanak: 5018 sayılı Kanun, Madde 20/d.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-96-sa8k",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre bütçelerde öngörülmeyen hizmetler için konulan ödeneğe ne denir?",
+    "options": [
+      "Yedek ödenek",
+      "Tamamlayıcı ödenek",
+      "Ek ödenek",
+      "Özel ödenek",
+      "Geçici ödenek"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yedek ödenek. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-97-nle1",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre aşağıdakilerden hangisi bütçe ödeneklerinin kullanılmasında uyulması gereken esaslardan biri değildir?",
+    "options": [
+      "Ödenekler tahsis edildikleri amaçlar için kullanılır",
+      "Kamu idareleri bütçelerinde yer alan ödeneklerin üzerinde harcama yapamaz",
+      "Cari yılda kullanılmayan ödenekler iptal edilmez, ertesi yıla devredilir",
+      "Geçen yıllar borçları cari yıl bütçesinden ödenir",
+      "Ayrıntılı harcama/finansman programları esas alınır"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cari yılda kullanılmayan ödenekler iptal edilmez, ertesi yıla devredilir. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-98-u9r1",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre bütçelerden giderlerin gerçekleştirilmesi süreci aşağıdakilerden hangisiyle tamamlanır?",
+    "options": [
+      "Ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle",
+      "Harcama yetkilisinin sözlü talimatıyla",
+      "Harcama talimatının verilmesiyle",
+      "Sayıştay vizesinin alınmasıyla",
+      "Gider belgelerinin muhasebe birimine teslim edilmesiyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle. 5018 sayılı Kanun'un 33 üncü maddesine göre giderlerin gerçekleştirilmesi; harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kamu-idare-butceleri-ydaz7-mtmz95zb-99-qvnb",
+    "topic_id": "t-kamu-idare-butceleri-ydaz7",
+    "prompt": "5018 sayılı Kanun'a göre aşağıdakilerden hangisi faaliyet raporu türlerinden biri değildir?",
+    "options": [
+      "Birim faaliyet raporu",
+      "Merkezî yönetim faaliyet raporu",
+      "İdare faaliyet raporu",
+      "Mahallî idareler genel faaliyet raporu",
+      "Genel faaliyet raporu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Merkezî yönetim faaliyet raporu. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:08.903063+00:00",
+    "updated_at": "2026-09-04T13:16:08.903063+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-0-fbbv",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "21 inci maddenin (b) ve (c) bentleri kapsamındaki ihaleler hariç olmak üzere, idareye şikâyet başvurusu kaç gün içinde yapılmalıdır?",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "7",
+      "15"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"10\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 55.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-1-mpl9",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "İdareye yapılan şikâyet başvurusu üzerine alınan karar uygun bulunmazsa veya süresi içinde karar verilmezse hangi başvuru yoluna gidilir?",
+    "options": [
+      "İdareye yeniden şikâyet başvurusu",
+      "Doğrudan dava açma",
+      "İhtiyati tedbir talebi",
+      "Kuruma itirazen şikâyet başvurusu",
+      "Tazminat davası"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 54 ve Madde 55 uyarınca idareye yapılan şikâyet başvurusu üzerine alınan kararın uygun bulunmaması ya da süresinde karar verilmemesi hâlinde Kuruma itirazen şikâyet başvurusunda bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-10-p7ce",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Genel kural olarak, Kuruma itirazen şikâyet başvurusunda bulunabilmek için öncelikle ne yapılmalıdır?",
+    "options": [
+      "Dava açılmalıdır",
+      "İdareye şikâyet başvurusunda bulunulmalıdır",
+      "CİMER'e yazılmalıdır",
+      "Bakanlığa gidilmelidir",
+      "Savcılığa suç duyurusunda bulunulmalıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B’dir. Madde 55 ve 56 uyarınca genel kural, önce idareye şikâyet başvurusunda bulunulmasıdır. Ancak şikâyet veya itirazen şikâyet üzerine alınan ihalenin iptali kararlarına karşı beş gün içinde doğrudan Kuruma başvurulabilen istisna bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-11-sy2a",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kamu İhale Kurumu ile ilişkili bakanlık .................... Bakanlığıdır.",
+    "options": [
+      "Maliye",
+      "İçişleri",
+      "Çevre ve Şehircilik",
+      "Sanayi ve Teknoloji",
+      "Ticaret"
+    ],
+    "answer_index": 0,
+    "explanation": "Cevap: Maliye. Gönderilen 4734 sayılı Kanun metninin 53 üncü maddesinde Kamu İhale Kurumu’nun Maliye Bakanlığı ile ilişkili olduğu belirtilmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-12-5vz1",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "İtirazen şikâyet başvuruları Kuruma hitaben nasıl yapılır?",
+    "options": [
+      "Sözlü olarak",
+      "Telefonla",
+      "Faksla",
+      "Kuruma hitaben yazılmış imzalı dilekçe ile",
+      "Noter kanalıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D’dir. Madde 54 uyarınca itirazen şikâyet başvuruları Kuruma hitaben yazılmış imzalı dilekçelerle yapılır. Elektronik ortamda yapılmasına ilişkin usul ve esasları belirlemeye Kurum yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-13-1l12",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kamu İhale Kurumunun merkezi neresidir?",
+    "options": [
+      "İstanbul",
+      "İzmir",
+      "Ankara",
+      "Bursa",
+      "Antalya"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 53 uyarınca Kurumun merkezi Ankara'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-14-4tg2",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kurum (KİK), itirazen şikâyet başvurusunu dosyanın kayıtlara alındığı tarihi izleyen kaç gün içinde sonuçlandırır?",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45",
+      "20"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap E seçeneğidir: \"20\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 56.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-15-w77n",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Şikâyetlerle ilgili olarak Kamu İhale Kurumu tarafından verilen nihai kararlar nerede dava konusu edilebilir?",
+    "options": [
+      "Türkiye Cumhuriyeti Mahkemelerine",
+      "Sayıştay'a",
+      "İhale Makamına",
+      "Danıştay'a",
+      "Anayasa Mahkemesine"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A’dır. Madde 57'ye göre şikâyetlerle ilgili olarak Kurum tarafından verilen nihai kararlar Türkiye Cumhuriyeti Mahkemelerinde dava konusu edilebilir ve bu davalar öncelikle görülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-16-96es",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, ihalelere yönelik başvurularla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Şikâyet başvuruları idareye, itirazen şikâyet başvuruları Kamu İhale Kurumuna hitaben yazılmış imzalı dilekçelerle yapılır",
+      "İhale ve sözleşme sürecindeki hukuka aykırı işlem veya eylemler nedeniyle bir hak kaybına veya zarara uğradığını veya zarara uğramasının muhtemel olduğunu iddia eden aday veya istekli ile istekli olabilecekler başvuruda bulunabilirler",
+      "Şikâyet ve itirazen şikâyet başvuruları, dava açılmadan önce tüketilmesi zorunlu idarî başvuru yollarıdır",
+      "Dilekçelerde başvurunun konusu, sebepleri ve dayandığı deliller yer alır",
+      "Başvurular, Kanunda öngörülen süre ve usullere uygun olarak yapılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B’dir. Madde 54/1 yalnızca ihale sürecindeki hukuka aykırı işlem veya eylemler nedeniyle hak kaybı veya zarar iddiasını kapsar; B şıkkındaki “ve sözleşme” ibaresi bu kapsamı genişletmektedir. Aynı maddede şikâyet ve itirazen şikâyetin zorunlu idarî başvuru yolları olduğu ve dilekçelerde başvurunun konusu, sebepleri ve dayandığı delillere yer verileceği düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-17-mc7s",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "4734 sayılı Kanun'un 57 nci maddesine göre, şikâyetlerle ilgili Kurum tarafından verilen nihai kararlara ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Yalnızca Sayıştayda dava konusu edilebilir",
+      "Yalnızca Danıştayda dava konusu edilebilir",
+      "Türkiye Cumhuriyeti Mahkemelerinde dava konusu edilebilir ve bu davalar öncelikle görülür",
+      "Doğrudan Anayasa Mahkemesinde dava konusu edilebilir",
+      "Bu kararlara karşı dava açılamaz"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir. Madde 57 uyarınca şikâyetlerle ilgili Kurum tarafından verilen nihai kararlar Türkiye Cumhuriyeti Mahkemelerinde dava konusu edilebilir ve bu davalar öncelikle görülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-18-f8up",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "4734 sayılı Kanun'un 53 üncü maddesine göre, bu Kanunda öngörülen hükümler saklı kalmak kaydıyla Kurum personeli hangi Kanun'a tâbidir?",
+    "options": [
+      "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na",
+      "2886 sayılı Devlet İhale Kanunu'na",
+      "657 sayılı Devlet Memurları Kanunu'na",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na",
+      "6245 sayılı Harcırah Kanunu'na"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 53 uyarınca Kurum personeli, bu Kanunda öngörülen hükümler saklı kalmak kaydıyla 657 sayılı Devlet Memurları Kanunu'na tâbidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-2-3wyl",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "İdare, şikâyet başvurusu üzerine kaç gün içinde gerekçeli karar almak zorundadır?",
+    "options": [
+      "5",
+      "7",
+      "15",
+      "20",
+      "10"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap E seçeneğidir: \"10\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 55.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-3-k8et",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Şikâyet başvuruları ...................., itirazen şikâyet başvuruları .................... yapılır.",
+    "options": [
+      "Kuruma, İdareye",
+      "İdareye, Kuruma (KİK)",
+      "Mahkemeye, İdareye",
+      "İdareye, Mahkemeye",
+      "Kuruma, Sayıştaya"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: İdareye, Kuruma (KİK). Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 54.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-4-j65e",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kamu İhale Kurumu (KİK) hangi bakanlıkla ilişkilidir?",
+    "options": [
+      "Maliye Bakanlığı",
+      "Adalet Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Sanayi ve Teknoloji Bakanlığı",
+      "Ticaret Bakanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A’dır: Maliye Bakanlığı. Madde 53’te Kamu İhale Kurumunun ilişkili olduğu Bakanlık Maliye Bakanlığı olarak belirtilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-5-zf8r",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kamu İhale Kurulu üyeleri kim tarafından atanır?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Hazine ve Maliye Bakanı",
+      "Sayıştay Başkanı",
+      "Yargıtay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B seçeneğidir: \"Cumhurbaşkanı\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 53.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-6-iich",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Aşağıdakilerden hangisi Kamu İhale Kurumunun gelirlerinden biridir?",
+    "options": [
+      "Şans oyunları vergisi",
+      "Belediye vergileri",
+      "İtirazen şikâyet başvuru bedelleri",
+      "Pasaport harçları",
+      "Trafik cezaları"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"İtirazen şikâyet başvuru bedelleri\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 53.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-7-mni9",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "İdarenin şikâyet üzerine aldığı karara karşı veya süresi içinde karar verilmemesi hâlinde, Kamu İhale Kurumuna kaç gün içinde itirazen şikâyet başvurusu yapılabilir?",
+    "options": [
+      "5",
+      "15",
+      "20",
+      "10",
+      "30"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 55 uyarınca, idarece alınan kararın bildirimini izleyen on gün içinde Kuruma itirazen şikâyet başvurusunda bulunulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-8-n3s6",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "İdareye şikâyet başvurusunda bulunulması hâlinde, idare karar verene kadar aşağıdakilerden hangisi yapılamaz?",
+    "options": [
+      "Sözleşme imzalanabilir",
+      "İhale iptal edilir",
+      "Teminatlar iade edilir",
+      "İnşaat başlar",
+      "Sözleşme imzalanamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap E seçeneğidir: \"Sözleşme imzalanamaz.\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 55.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje-mtn0c3b5-9-zdln",
+    "topic_id": "t-kisim-madde-araligi-genel-hukumler-1-17--tgcje",
+    "prompt": "Kamu İhale Kurulu, itirazen şikâyete ilişkin nihai kararını, gerekli bilgi ve belgeler ile ihale işlem dosyasının kayıtlara alındığı tarihi izleyen kural olarak kaç gün içinde verir?",
+    "options": [
+      "5 gün",
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D’dir. Madde 56 uyarınca Kurum, itirazen şikâyete ilişkin nihai kararını, gerekli bilgi ve belgeler ile ihale işlem dosyasının kayıtlara alındığı tarihi izleyen yirmi gün içinde vermek zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:24.985492+00:00",
+    "updated_at": "2026-09-04T13:46:24.985492+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-0-ypta",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Aşağıdakilerden hangisi için önceden izin almaya gerek yoktur?",
+    "options": [
+      "Banka kurmak",
+      "Üniversite kurmak",
+      "Dernek kurmak",
+      "Kooperatif kurmak",
+      "Şirket kurmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Dernek kurmak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Dernek kurmak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-1-eatf",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Aşağıdakilerden hangisi Anayasanın “Kişinin Hakları ve Ödevleri” bölümünde yer alır?",
+    "options": [
+      "Çalışma hakkı",
+      "Özel hayatın gizliliği",
+      "Eğitim hakkı",
+      "Dilekçe hakkı",
+      "Kamu hizmetine girme hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Özel hayatın gizliliği. Özel hayatın gizliliği, Anayasanın İkinci Kısmının “Kişinin Hakları ve Ödevleri” bölümünde düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-10-en7l",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Basın hürriyeti ile ilgili olarak Anayasa’da yer alan “Basımevi kurmak . ve . şartına bağlanamaz” cümlesindeki boşluklara ne gelmelidir?",
+    "options": [
+      "Bildirimde bulunma - Vergi ödeme",
+      "Ruhsat alma - Harç yatırma",
+      "İzin alma - Malî teminat yatırma",
+      "Denetim - Teminat",
+      "İzin alma - Diploma ibraz etme"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İzin alma - Malî teminat yatırma. Madde 28’e göre basımevi kurmak izin alma ve malî teminat yatırma şartına bağlanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-11-l83g",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Dernek kurma hürriyeti ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Herkes önceden izin almaksızın dernek kurabilir.",
+      "Silahlı Kuvvetler mensuplarının dernek kurması kanunla sınırlanamaz.",
+      "Hiç kimse bir derneğe üye olmaya zorlanamaz.",
+      "Dernekler hâkim kararıyla kapatılabilir.",
+      "Dernek kurma hürriyeti kamu düzeni sebebiyle sınırlanabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Silahlı Kuvvetler mensuplarının dernek kurması kanunla sınırlanamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Silahlı Kuvvetler mensuplarının dernek kurması kanunla sınırlanamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-12-3dav",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Toplantı ve gösteri yürüyüşü düzenleme hakkı için Anayasa’da aranan ön şart nedir?",
+    "options": [
+      "Valilikten izin almak",
+      "Emniyete 48 saat önce bildirmek",
+      "Sadece hafta sonları düzenlemek",
+      "Siyasi parti desteği almak",
+      "Önceden izin almadan, silahsız ve saldırısız olmak"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Önceden izin almadan, silahsız ve saldırısız olmak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Önceden izin almadan, silahsız ve saldırısız olmak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-13-bjvc",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Mülkiyet hakkı ancak hangi amaçla kanunla sınırlanabilir?",
+    "options": [
+      "Devletin geliri amacıyla",
+      "Belediye kararıyla",
+      "Ekonomik kriz durumunda",
+      "Kamu yararı amacıyla",
+      "Uluslararası şirketlerin talebiyle"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kamu yararı amacıyla. Madde 35’e göre mülkiyet ve miras hakları ancak kamu yararı amacıyla ve kanunla sınırlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-14-yqx1",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "2004 yılında Anayasa’nın 38. maddesinde (Suç ve Cezalar) yapılan değişiklikle aşağıdakilerden hangisi tamamen kaldırılmıştır?",
+    "options": [
+      "Müebbet hapis cezası",
+      "Para cezası",
+      "Sürgün cezası",
+      "Kamu hizmetinden men cezası",
+      "Genel müsadere ve Ölüm cezası"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Genel müsadere ve Ölüm cezası. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 38. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-15-4sk2",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "“Kanuna aykırı olarak elde edilmiş bulgular, delil olarak kabul edilemez.” hükmü Anayasa’ya hangi yıl eklenmiştir?",
+    "options": [
+      "1982",
+      "1995",
+      "2001",
+      "2010",
+      "2017"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2001. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2001”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-16-vetn",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 40. maddesine göre, devlet işlemlerinde ilgili kişilerin hangi kanun yolları ve mercilere başvuracağını ve sürelerini belirtmek zorunda mıdır?",
+    "options": [
+      "Hayır, vatandaş bilmek zorundadır.",
+      "Sadece mahkeme kararlarında zorunludur.",
+      "Sadece idarî para cezalarında zorunludur.",
+      "Evet, zorundadır",
+      "Sadece olağanüstü hâllerde zorunludur."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Evet, zorundadır. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 40. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-17-bysa",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "“Hiç kimse, yalnızca sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz.” ilkesi Anayasa’da hangi başlık altında düzenlenmiştir?",
+    "options": [
+      "Kişi hürriyeti ve güvenliği",
+      "Suç ve cezalara ilişkin esaslar",
+      "Özel hayatın gizliliği",
+      "Hak arama hürriyeti",
+      "Mülkiyet hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Suç ve cezalara ilişkin esaslar. Bu güvence Madde 38’de, “Suç ve cezalara ilişkin esaslar” başlığı altında düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-18-itax",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "2001 değişikliği ile “Millî güvenlik, kamu düzeni, genel ahlak ve sağlığın korunması sebepleri dışında” halkın haber almasını engelleyici kayıtlar konulamayacağı belirtilen alan hangisidir?",
+    "options": [
+      "Gazeteler",
+      "Dergiler",
+      "Kitaplar",
+      "Basın dışı kitle haberleşme araçları",
+      "Sinema filmleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Basın dışı kitle haberleşme araçları. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Basın dışı kitle haberleşme araçları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-19-dnop",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 39. maddesine göre “İspat Hakkı” hangi davalarda sanığa tanınmıştır?",
+    "options": [
+      "Hırsızlık davalarında",
+      "Kamu görevlilerine karşı görevleri ile ilgili hakaret davalarında",
+      "Boşanma davalarında",
+      "Alacak davalarında",
+      "Trafik kazalarında"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kamu görevlilerine karşı görevleri ile ilgili hakaret davalarında. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 39. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-2-msdj",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasaya göre “Angarya” yasaktır. Ancak aşağıdakilerden hangisi zorla çalıştırma sayılmaz?",
+    "options": [
+      "Olağanüstü hâllerde vatandaşlardan istenecek hizmetler",
+      "Bir işverenin işçisini mesaiye bırakması",
+      "Özel güvenlik görevlisi çalıştırma",
+      "Tarlada çalıştırma",
+      "Ev hizmetleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Olağanüstü hâllerde vatandaşlardan istenecek hizmetler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Olağanüstü hâllerde vatandaşlardan istenecek hizmetler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-20-hto5",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 17. maddesine göre, meşru müdafaa hâlinde meydana gelen öldürme fiilleri için hangisi söylenebilir?",
+    "options": [
+      "Yaşama hakkı ihlali sayılır.",
+      "Devlet tazminat öder.",
+      "Olağanüstü hal ilanı gerekir.",
+      "Yaşama hakkı hükmü dışındadır",
+      "Sadece kolluk kuvvetleri yapabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yaşama hakkı hükmü dışındadır. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 17. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-21-jdns",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 18. maddesinde zorla çalıştırma sayılmayan çalışmaların şekil ve şartları neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Yönetmelikle",
+      "Cumhurbaşkanı kararıyla",
+      "Mahkeme içtihadıyla",
+      "Toplu sözleşmeyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanunla. Madde 18, hükümlülük veya tutukluluk süresindeki çalışmalar, olağanüstü hâllerde vatandaşlardan istenecek hizmetler ve vatandaşlık ödevi niteliğindeki çalışmaların şekil ve şartlarının kanunla düzenleneceğini belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-22-b00x",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Kişinin yakalandığı veya tutuklandığı, yakınlarına ne zaman bildirilir?",
+    "options": [
+      "Hâkim kararı çıktıktan sonra",
+      "Derhal",
+      "İfadesi alındıktan sonra",
+      "24 saat içinde",
+      "Cezaevine konulunca"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Derhal. Madde 19’a göre kişinin yakalandığı veya tutuklandığı yakınlarına derhal bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-23-zonu",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Hürriyeti kısıtlanan bir kişi, bu işlemin kanuna aykırılığı hâlinde ne yapma hakkına sahiptir?",
+    "options": [
+      "Yetkili bir yargı merciine başvurmak",
+      "Tazminat davası açmadan beklemek",
+      "Basına açıklama yapmak",
+      "Açlık grevi yapmak",
+      "Sadece idareye dilekçe yazmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yetkili bir yargı merciine başvurmak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yetkili bir yargı merciine başvurmak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-24-8avz",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Özel hayatın gizliliğine dokunulamaz ilkesinin istisnası (arama/el koyma) için “gecikmesinde sakınca bulunan hâllerde” kimin emri gerekir?",
+    "options": [
+      "Cumhuriyet Savcısının",
+      "Kolluk amirinin",
+      "Kanunla yetkili kılınmış merciin yazılı emri",
+      "Valinin sözlü emri",
+      "Bakanın talimatı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kanunla yetkili kılınmış merciin yazılı emri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla yetkili kılınmış merciin yazılı emri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-25-ibjn",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Yerleşme hürriyeti aşağıdakilerden hangisi için sınırlanamaz?",
+    "options": [
+      "Genel ahlakı korumak",
+      "Suç işlenmesini önlemek",
+      "Sosyal ve ekonomik gelişmeyi sağlamak",
+      "Sağlıklı ve düzenli kentleşmeyi gerçekleştirmek",
+      "Kamu mallarını korumak"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Genel ahlakı korumak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Genel ahlakı korumak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-26-kv8p",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Vatandaş sınır dışı edilebilir mi?",
+    "options": [
+      "Evet, suç işlerse edilebilir.",
+      "Evet, vatana ihanet ederse edilebilir.",
+      "Hayır, vatandaş sınır dışı edilemez.",
+      "Evet, başka ülke vatandaşlığı varsa edilebilir.",
+      "Evet, Cumhurbaşkanı kararıyla edilebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hayır, vatandaş sınır dışı edilemez. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, vatandaş sınır dışı edilemez.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-27-wdoh",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 24. maddesine göre ibadet, dini ayin ve törenler hangi maddeye aykırı olmamak şartıyla serbesttir?",
+    "options": [
+      "Madde 10",
+      "Madde 14",
+      "Madde 5 (Devletin amaçları)",
+      "Madde 42 (Eğitim hakkı)",
+      "Madde 66 (Vatandaşlık)"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Madde 14. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 24. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-28-bqs3",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Düşünceyi açıklama hürriyeti; radyo, TV, sinema gibi yollarla yapılan yayımların hangi sisteme bağlanmasına engel değildir?",
+    "options": [
+      "Sansür sistemine",
+      "Yasaklama sistemine",
+      "Tekel sistemine",
+      "Devletleştirme sistemine",
+      "İzin sistemine"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – İzin sistemine. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İzin sistemine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-29-efu4",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Bilim ve sanat hürriyeti kapsamındaki “yayma hakkı” neyi sağlamak amacıyla kullanılamaz?",
+    "options": [
+      "Anayasa’nın 1, 2 ve 3. maddelerinin değiştirilmesini",
+      "Hükümetin istifasını",
+      "Ekonomik reformları",
+      "Eğitim sisteminin eleştirilmesini",
+      "Sendikal hakları"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anayasa’nın 1, 2 ve 3. maddelerinin değiştirilmesini. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Anayasa’nın 1, 2 ve 3. maddelerinin değiştirilmesini”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-3-kyjv",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 17. maddesine göre tıbbi deneylerle ilgili kural nedir?",
+    "options": [
+      "Sadece Sağlık Bakanlığı izni yeterlidir.",
+      "Kişinin rızası olsa bile yapılamaz.",
+      "Tıbbi zorunluluklar dışında yapılamaz.",
+      "Sadece tutuklu ve hükümlüler üzerinde yapılamaz.",
+      "Kişinin rızası olmadan bilimsel ve tıbbi deneylere tâbi tutulamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kişinin rızası olmadan bilimsel ve tıbbi deneylere tâbi tutulamaz. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 17. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-30-shv6",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Basın hürriyeti kapsamında “Tedbir yolu ile dağıtım” kimin kararıyla önlenebilir?",
+    "options": [
+      "Vali",
+      "İçişleri Bakanı",
+      "Emniyet Müdürü",
+      "Hâkim",
+      "RTÜK Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hâkim. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hâkim”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-31-2c5k",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Süreli yayın çıkarabilmek için ne yapılması yeterlidir?",
+    "options": [
+      "İzin almak",
+      "Yetkili mercie bilgi ve belge vermek",
+      "Teminat yatırmak",
+      "Dernek kurmak",
+      "Şirket olmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yetkili mercie bilgi ve belge vermek. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yetkili mercie bilgi ve belge vermek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-32-n017",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Düzeltme ve cevap hakkı (Tekzip) hangi durumda doğar?",
+    "options": [
+      "Her türlü haberde",
+      "Sadece siyasi haberlerde",
+      "Kişilerin haysiyet ve şereflerine dokunulması veya gerçeğe aykırı yayın yapılması hâlinde",
+      "Yazarın yorumunu beğenmediğinde",
+      "Gazete tirajı yüksekse"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kişilerin haysiyet ve şereflerine dokunulması veya gerçeğe aykırı yayın yapılması hâlinde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kişilerin haysiyet ve şereflerine dokunulması veya gerçeğe aykırı yayın yapılması hâlinde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-33-lzgy",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Dernek kurma hürriyetinin kullanılmasında uygulanacak şekil ve şartlar nerede gösterilir?",
+    "options": [
+      "Dernek tüzüğünde",
+      "Yönetmelikte",
+      "Kararnamede",
+      "Kanunda",
+      "Genelgede"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kanunda. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunda”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-34-0874",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 34. maddesine göre toplantı ve gösteri yürüyüşü hakkı hangi amaçla sınırlanamaz?",
+    "options": [
+      "Millî güvenlik",
+      "Kamu düzeni",
+      "Genel sağlık",
+      "Suç işlenmesinin önlenmesi",
+      "Ekonomik kalkınma"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Ekonomik kalkınma. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 34. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-35-r95u",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Mülkiyet hakkının kullanılması neye aykırı olamaz?",
+    "options": [
+      "Devletin çıkarlarına",
+      "Toplum yararına",
+      "Hükümet programına",
+      "Komşunun rızasına",
+      "Belediye planlarına"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Toplum yararına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Toplum yararına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-36-pbnq",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz ilkesi hangi haktır?",
+    "options": [
+      "Kanuni hâkim güvencesi",
+      "Masumiyet karinesi",
+      "İspat hakkı",
+      "Hak arama hürriyeti",
+      "Duruşma aleniyeti"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hak arama hürriyeti. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hak arama hürriyeti”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-37-pob7",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Bir kimseyi kanunen tâbi olduğu mahkemeden başka bir merci önüne çıkarma sonucunu doğuran ne kurulamaz?",
+    "options": [
+      "İstinaf mahkemesi",
+      "İhtisas mahkemesi",
+      "Olağanüstü merciler",
+      "Disiplin kurulu",
+      "Tahkim kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Olağanüstü merciler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Olağanüstü merciler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-38-b6cq",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "“Suçluluğu hükmen sabit oluncaya kadar, kimse suçlu sayılamaz” ilkesinin adı nedir?",
+    "options": [
+      "Cezaların şahsiliği",
+      "Masumiyet karinesi",
+      "Kanunsuz suç ve ceza olmaz",
+      "Şüpheden sanık yararlanır",
+      "Adil yargılanma hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Masumiyet karinesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Masumiyet karinesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-39-w885",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Ceza sorumluluğu ile ilgili temel ilke nedir?",
+    "options": [
+      "Şahsidir",
+      "Aileseldir",
+      "Bölgeseldir",
+      "Kurumsaldır",
+      "Kolektiftir"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Şahsidir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Şahsidir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-4-vkpp",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Aşağıdakilerden hangisi “Zorla çalıştırma” (Angarya) yasağının istisnalarından biri değildir?",
+    "options": [
+      "Hükümlülük süresindeki çalıştırmalar",
+      "İşverenin düşük ücretle fazla mesai yaptırması",
+      "Olağanüstü hâllerde vatandaşlardan istenecek hizmetler",
+      "Ülke ihtiyaçlarının zorunlu kıldığı beden ve fikir çalışmaları",
+      "Tutukluluk süresindeki çalıştırmalar"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İşverenin düşük ücretle fazla mesai yaptırması. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İşverenin düşük ücretle fazla mesai yaptırması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-40-a2cv",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Uluslararası Ceza Divanı’na taraf olmanın getirdiği yükümlülükler hariç, vatandaş suç sebebiyle ne yapılamaz?",
+    "options": [
+      "Tutuklanamaz",
+      "Yargılanamaz",
+      "Cezalandırılamaz",
+      "Yabancı bir ülkeye verilemez",
+      "Kamu hizmetinden men edilemez"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yabancı bir ülkeye verilemez. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yabancı bir ülkeye verilemez”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-41-12fp",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa ile tanınmış hakları ihlal edilen kişi, ne isteme hakkına sahiptir?",
+    "options": [
+      "Sadece tazminat",
+      "Sadece özür dilenmesini",
+      "Yasa değişikliği",
+      "Basın açıklaması",
+      "Yetkili makama geciktirilmeden başvurma imkanının sağlanmasını"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yetkili makama geciktirilmeden başvurma imkanının sağlanmasını. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yetkili makama geciktirilmeden başvurma imkanının sağlanmasını”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-42-9f8f",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Hiç kimse kendisini veya kanunda gösterilen yakınlarını suçlayan bir beyanda bulunmaya zorlanamaz. Bu ilke hangi maddededir?",
+    "options": [
+      "Madde 38 (Suç ve cezalara ilişkin esaslar)",
+      "Madde 17",
+      "Madde 19",
+      "Madde 36 (Hak arama)",
+      "Madde 40 (Temel hakların korunması)"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Madde 38 (Suç ve cezalara ilişkin esaslar). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Madde 38 (Suç ve cezalara ilişkin esaslar)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-43-8m1t",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Dernekler, kanunun öngördüğü hâllerde kimin kararıyla kapatılabilir?",
+    "options": [
+      "Valinin",
+      "İçişleri Bakanının",
+      "Dernekler Masasının",
+      "Emniyet Müdürünün",
+      "Hakimin"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hakimin. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hakimin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-44-3zh4",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Basın hürriyeti maddesinde yer alan “Basın hürdür, … edilemez.” cümlesindeki boşluğa ne gelmelidir?",
+    "options": [
+      "Kontrol",
+      "Tehdit",
+      "Tenkit",
+      "Sansür",
+      "Takip"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sansür. Madde 28’in ilk cümlesi “Basın hürdür, sansür edilemez.” şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-45-8u1r",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Süreli yayınların çıkarılması için kanun ne koyamaz?",
+    "options": [
+      "Yaş şartı",
+      "Eğitim şartı",
+      "Vatandaşlık şartı",
+      "Adres gösterme şartı",
+      "Engelleyici veya zorlaştırıcı siyasal, ekonomik, malî ve teknik şartlar"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Engelleyici veya zorlaştırıcı siyasal, ekonomik, malî ve teknik şartlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Engelleyici veya zorlaştırıcı siyasal, ekonomik, malî ve teknik şartlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-46-3hpl",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Kamu tüzel kişilerinin elindeki basın dışı kitle haberleşme araçlarından (TRT vb.) kimler yararlanma hakkına sahiptir?",
+    "options": [
+      "Kişiler ve siyasi partiler",
+      "Sadece iktidar partisi",
+      "Sadece meclis grubu olan partiler",
+      "Sadece şirketler",
+      "Sadece dernekler"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kişiler ve siyasi partiler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kişiler ve siyasi partiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-47-8jvm",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Kişinin maddî ve manevî varlığını koruma hakkı (Madde 17) kapsamında, rıza olmadan ve tıbbi zorunluluk dışında kişiye ne yapılamaz?",
+    "options": [
+      "Aşı yapılamaz",
+      "İlaç verilemez",
+      "Vücut bütünlüğüne dokunulamaz",
+      "Seyahat ettirilemez",
+      "Eğitim verilemez"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Vücut bütünlüğüne dokunulamaz. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 17. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-48-8s9u",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Özel hayatın gizliliği maddesine göre, yetkili merciin arama kararı 24 saat içinde kime sunulur?",
+    "options": [
+      "Savcıya",
+      "Emniyet Amirine",
+      "Valiye",
+      "Kaymakama",
+      "Görevli Hakime"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Görevli Hakime. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Görevli Hakime”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-49-jy70",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Basın hürriyeti kapsamında yer alan “Devlet, basın ve haber alma hürriyetlerini sağlayacak … alır.” cümlesindeki boşluğa ne gelmelidir?",
+    "options": [
+      "Vergileri",
+      "Yasakları",
+      "Tedbirleri",
+      "İzinleri",
+      "Cezaları"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Tedbirleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Tedbirleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-5-75ku",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Yakalanan veya tutuklanan bir kişi, toplu işlenen suçlarda en çok ne kadar süre içinde hâkim önüne çıkarılır (yol süresi hariç)?",
+    "options": [
+      "4 gün",
+      "24 saat",
+      "48 saat",
+      "7 gün",
+      "15 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 4 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “4 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-50-q4qu",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Düzeltme ve cevap yayımlanmazsa, hâkim başvurudan itibaren en geç kaç gün içinde karar verir?",
+    "options": [
+      "3 gün",
+      "15 gün",
+      "1 ay",
+      "24 saat",
+      "7 gün"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 7 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “7 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-51-s7sx",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Hiç kimse kanunen tâbi olduğu mahkemeden başka bir merci önüne çıkarılamaz. Bu ilke hangisidir?",
+    "options": [
+      "Kanuni hâkim güvencesi",
+      "Adil yargılanma",
+      "Masumiyet karinesi",
+      "Hukuk devleti",
+      "Yargı bağımsızlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanuni hâkim güvencesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanuni hâkim güvencesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-52-59xh",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "İdarenin kişi hürriyetinin kısıtlanması sonucunu doğuran bir müeyyide (hapis vb.) uygulayamayacağı kuralının istisnası nedir?",
+    "options": [
+      "Vergi dairesi",
+      "Polis vazife kanunu",
+      "Belediyeler",
+      "Silahlı Kuvvetlerin iç düzeni",
+      "Okul disiplin kurulları"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Silahlı Kuvvetlerin iç düzeni. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Silahlı Kuvvetlerin iç düzeni”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-53-tto3",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 40. maddesine göre, resmî görevlilerin haksız işlemleri sonucu uğranılan zarar kim tarafından tazmin edilir?",
+    "options": [
+      "Görevlinin kendisi tarafından",
+      "Sigorta şirketi tarafından",
+      "Devletçe",
+      "Sendika tarafından",
+      "Tazmin edilmez"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Devletçe. Madde 40’a göre resmî görevlilerin haksız işlemleri sonucu uğranılan zarar kanuna göre Devletçe tazmin edilir; Devletin sorumlu görevliye rücu hakkı saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-54-eh7z",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 25. maddesine göre herkes hangi hürriyete sahiptir?",
+    "options": [
+      "Basın hürriyetine",
+      "Mülkiyet hürriyetine",
+      "Düşünce ve kanaat hürriyetine",
+      "Çalışma hürriyetine",
+      "Yerleşme hürriyetine"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Düşünce ve kanaat hürriyetine. Madde 25, herkesin düşünce ve kanaat hürriyetine sahip olduğunu düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-55-kenn",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 25. maddesine göre bir kimse düşünce ve kanaatleri sebebiyle aşağıdakilerden hangisine tâbi tutulamaz?",
+    "options": [
+      "Vergi ödemekten muaf tutulur",
+      "Kamu görevine doğrudan atanır",
+      "Seçimlerde oy kullanamaz",
+      "Kınanamaz ve suçlanamaz",
+      "Dernek üyeliği sona erer"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kınanamaz ve suçlanamaz. Madde 25’e göre kimse düşünce ve kanaatlerini açıklamaya zorlanamaz; düşünce ve kanaatleri sebebiyle kınanamaz ve suçlanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-56-at8i",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 21. maddesine göre gecikmesinde sakınca bulunan hâller dışında konuta girilmesi ve arama yapılması için kural olarak ne gerekir?",
+    "options": [
+      "Belediye başkanının sözlü emri",
+      "Muhtarın yazılı izni",
+      "Usulüne göre verilmiş hâkim kararı",
+      "Savcının telefon talimatı",
+      "Herhangi bir kamu görevlisinin kararı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Usulüne göre verilmiş hâkim kararı. Madde 21’e göre kural olarak usulüne göre verilmiş hâkim kararı olmadan konuta girilemez, arama yapılamaz ve eşyaya el konulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-57-hml5",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 22. maddesine göre haberleşme hürriyetinin temel ilkesi nedir?",
+    "options": [
+      "Haberleşme önceden izne bağlıdır",
+      "Haberleşme yalnız kamu görevlilerine tanınır",
+      "Haberleşme araçları serbestçe denetlenebilir",
+      "Haberleşme hakkı yalnız yazılı iletişimi kapsar",
+      "Haberleşmenin gizliliği esastır"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Haberleşmenin gizliliği esastır. Madde 22, herkesin haberleşme hürriyetine sahip olduğunu ve haberleşmenin gizliliğinin esas olduğunu düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-58-q2f4",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 27. maddesine göre yabancı yayınların ülkeye girmesi ve dağıtımı neyle düzenlenebilir?",
+    "options": [
+      "Kanunla",
+      "Yalnız mahkeme içtihadıyla",
+      "Belediye kararıyla",
+      "Siyasi parti kararıyla",
+      "Üniversite senatosu kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanunla. Madde 27, yabancı yayınların ülkeye girmesi ve dağıtımının kanunla düzenlenmesine bilim ve sanat hürriyeti hükmünün engel olmadığını belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-59-gild",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Kanuna uygun şekilde basın işletmesi olarak kurulan basımevi ve eklentileri, yalnız suç aleti olduğu gerekçesiyle ne yapılamaz?",
+    "options": [
+      "Vergilendirilemez",
+      "Satılamaz",
+      "Devredilemez",
+      "Sigortalanamaz",
+      "Zapt ve müsadere edilemez"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Zapt ve müsadere edilemez. Madde 30’a göre kanuna uygun şekilde basın işletmesi olarak kurulan basımevi, eklentileri ve basın araçları suç aleti olduğu gerekçesiyle zapt ve müsadere edilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-6-udpk",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 20. maddesine 2010 yılında eklenen fıkra ile güvence altına alınan hak hangisidir?",
+    "options": [
+      "Bilgi edinme hakkı",
+      "Kişisel verilerin korunması hakkı",
+      "Kamu denetçisine başvurma hakkı",
+      "Grev hakkı",
+      "Toplu sözleşme hakkı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kişisel verilerin korunması hakkı. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 20. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-60-i0d1",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 30. maddesine göre kanuna uygun basın işletmesinin basın araçları suç aleti olduğu gerekçesiyle aşağıdakilerden hangisine tâbi tutulamaz?",
+    "options": [
+      "Bakım yapılmasına",
+      "Sigorta ettirilmesine",
+      "İşletilmekten alıkonulamaz",
+      "Teknik yenilemeye",
+      "Mülkiyet devrine"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İşletilmekten alıkonulamaz. Madde 30, bu basın araçlarının suç aleti olduğu gerekçesiyle işletilmekten alıkonulamayacağını da düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-61-jbbc",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasanın 36. maddesine göre hiçbir mahkeme hangi davranışta bulunamaz?",
+    "options": [
+      "Görev ve yetkisi içindeki davaya bakmaktan kaçınamaz",
+      "Kararını gerekçeli yazamaz",
+      "Duruşmayı hiçbir koşulda kapatamaz",
+      "Kanun hükümlerini uygulayamaz",
+      "Tarafların savunmasını dinleyemez"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Görev ve yetkisi içindeki davaya bakmaktan kaçınamaz. Madde 36, hiçbir mahkemenin görev ve yetkisi içindeki davaya bakmaktan kaçınamayacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-62-aqbf",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Kamu görevlilerine görevleriyle ilgili isnatlardan dolayı açılan hakaret davaları dışındaki hâllerde ispat istemi hangi şartlardan biri varsa kabul edilebilir?",
+    "options": [
+      "Yalnız sanığın kamu görevlisi olması",
+      "Savcının tek başına istemesi",
+      "Kamu yararı bulunması veya şikâyetçinin ispata razı olması",
+      "Davanın mutlaka ceza mahkemesinde görülmesi",
+      "İsnadın basında yayımlanmış olması"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kamu yararı bulunması veya şikâyetçinin ispata razı olması. Madde 39’a göre bu hâller dışında ispat istemi, fiilin doğruluğunun anlaşılmasında kamu yararı bulunmasına veya şikâyetçinin ispata razı olmasına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-63-uyf5",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Hâkim kararı olmadan yakalama, Anayasa’nın 19. maddesine göre hangi hâllerde yapılabilir?",
+    "options": [
+      "Yalnızca toplu suçlarda",
+      "Suçüstü hâlinde veya gecikmesinde sakınca bulunan hâllerde",
+      "Yalnızca savaş hâlinde",
+      "Yalnızca tutuklama kararı verildikten sonra",
+      "Hiçbir hâlde"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 19’a göre hâkim kararı olmadan yakalama, ancak suçüstü hâlinde veya gecikmesinde sakınca bulunan hâllerde yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-64-dmy0",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 20. maddesine göre kişisel veriler hangi durumda işlenebilir?",
+    "options": [
+      "Yalnızca kişinin açık rızasıyla",
+      "Yalnızca kanunda öngörülen hâllerde",
+      "Kanunda öngörülen hâllerde veya kişinin açık rızasıyla",
+      "Her durumda yetkili merciin yazılı emriyle",
+      "Yalnızca hâkim kararıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 20’ye göre kişisel veriler, ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-65-per0",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 28. maddesine göre olaylar hakkında yayım yasağı konusunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her durumda yayım yasağı konabilir",
+      "Yalnızca yetkili merciin emriyle yayım yasağı konabilir",
+      "Yayım yasağı yalnızca toplatma kararıyla birlikte uygulanabilir",
+      "Süreli yayınlar hakkında hiçbir şekilde yayım yasağı uygulanamaz",
+      "Yargılama görevinin amacına uygun olarak yerine getirilmesi için kanunla belirtilecek sınırlar içinde hâkim tarafından verilen kararlar saklıdır"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 28’e göre, yargılama görevinin amacına uygun olarak yerine getirilmesi için kanunla belirtilecek sınırlar içinde hâkim tarafından verilen kararlar saklı olmak üzere olaylar hakkında yayım yasağı konamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-7-9bla",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Özel hayat, konut dokunulmazlığı ve haberleşme hürriyetiyle ilgili gecikmesinde sakınca bulunan hâllerde, kanunla yetkili kılınmış merciin kararı kaç saat içinde görevli hâkimin onayına sunulur?",
+    "options": [
+      "12 saat",
+      "48 saat",
+      "24 saat",
+      "1 hafta",
+      "4 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 24 saat. Anayasanın 20, 21 ve 22. maddelerinde yetkili merciin kararının yirmi dört saat içinde görevli hâkimin onayına sunulacağı; hâkimin ise kararını kırk sekiz saat içinde açıklayacağı düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-8-v0jb",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Vatandaşın yurt dışına çıkma hürriyeti 2010 değişikliğine göre hangi sebeple sınırlanabilir?",
+    "options": [
+      "Ülkenin ekonomik durumu",
+      "Vergi borcu",
+      "Askerlik ödevi",
+      "Sadece suç soruşturması veya kovuşturması",
+      "Salgın hastalık"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sadece suç soruşturması veya kovuşturması. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sadece suç soruşturması veya kovuşturması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kisinin-haklari-ve-odevleri-x1zii-mtmyv4fw-9-1tkr",
+    "topic_id": "t-kisinin-haklari-ve-odevleri-x1zii",
+    "prompt": "Anayasa’nın 24. maddesine göre Din Kültürü ve Ahlak öğretimi ile ilgili hangisi doğrudur?",
+    "options": [
+      "İsteğe bağlıdır.",
+      "İlk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasındadır.",
+      "Sadece ortaöğretimde zorunludur.",
+      "Cami ve kurslarda verilir.",
+      "Velinin yazılı talebine bağlıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İlk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasındadır. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 24. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:13.683331+00:00",
+    "updated_at": "2026-09-04T13:05:13.683331+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-0-rewc",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Doğu Cephesi'nde Ermeni birliklerinin işgal ettiği ve TBMM kuvvetlerinin geri aldığı yerleşim yeri aşağıdakilerden hangisidir?",
+    "options": [
+      "Mudanya",
+      "Geyve",
+      "Soma",
+      "Bandırma",
+      "Oltu"
+    ],
+    "answer_index": 4,
+    "explanation": "Ermenistan'ın Oltu'yu işgali, Doğu Cephesi'ndeki askerî harekâtın başlamasında etkili olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-1-67mw",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Doğu Cephesi'nde TBMM ordularının temelini oluşturan birlik aşağıdakilerden hangisidir?",
+    "options": [
+      "1. Kolordu",
+      "15. Kolordu",
+      "5. Kolordu",
+      "Yıldırım Orduları",
+      "Kuva-yı İnzibatiye"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğu Cephesi'ndeki TBMM kuvvetlerinin çekirdeğini Kazım Karabekir Paşa komutasındaki 15. Kolordu oluşturmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-10-plg7",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Doğu Cephesi'nde kazanılan başarıların sonuçlarından biri DEĞİLDİR?",
+    "options": [
+      "Doğu sınırının güvence altına alınması",
+      "TBMM'nin uluslararası saygınlığının artması",
+      "Doğu Cephesi'ndeki kuvvetlerin Batı'ya kaydırılabilmesi",
+      "Batı Cephesi'nin kesin olarak kapanması",
+      "Gümrü Antlaşması'nın imzalanması"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğu Cephesi'nin kapanması, Batı Cephesi'nin değil Doğu Cephesi'nin güvenliğini sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-11-4uhk",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki devletlerden hangisi Kars Antlaşması'nın taraflarından biri DEĞİLDİR?",
+    "options": [
+      "Fransa",
+      "Ermenistan",
+      "Azerbaycan",
+      "Gürcistan",
+      "Türkiye Büyük Millet Meclisi Hükûmeti"
+    ],
+    "answer_index": 0,
+    "explanation": "Kars Antlaşması'nda Fransa taraf değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-12-ccdm",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Doğu Cephesi'nde - - - - ile yapılan savaşın ardından - - - - Antlaşması imzalanmıştır.",
+    "options": [
+      "Fransa / Ankara",
+      "Ermenistan / Gümrü",
+      "Yunanistan / Mudanya",
+      "İngiltere / Lozan",
+      "İtalya / Uşi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğu Cephesi'nde Ermenistan'a karşı kazanılan zaferden sonra Gümrü Antlaşması imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-13-fjnd",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki yargılardan hangileri Doğu Cephesi ve antlaşmalarıyla ilgili doğrudur? I. Gümrü Antlaşması Ermenistan ile imzalanmıştır. II. Moskova Antlaşması Sovyet Rusya ile imzalanmıştır. III. Kars Antlaşması Türkiye'nin doğu sınırını kesinleştirmiştir.",
+    "options": [
+      "I, II ve III",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "Üç yargı da doğrudur; her antlaşma Doğu Cephesi'nin siyasi sonuçlarını tamamlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-14-7rjv",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Güney Cephesi'nde Fransız işgal kuvvetleri içinde yoğun biçimde kullanılan askerî birlik aşağıdakilerden hangisidir?",
+    "options": [
+      "Yunan Evzon Birlikleri",
+      "Ermeni Lejyonu",
+      "Rus Kazak Birlikleri",
+      "İtalyan Bersaglieri Birlikleri",
+      "Bulgar Komitacı Birlikleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Fransa, Güney Cephesi'nde Ermeni Lejyonundan geniş ölçüde yararlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-15-ovt7",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Güney Cephesi'nde halkın direnişiyle işgalden kurtarılan şehirlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Dumlupınar",
+      "Mudanya",
+      "Maraş",
+      "Lozan",
+      "Trablusgarp"
+    ],
+    "answer_index": 2,
+    "explanation": "Maraş, Urfa ve Antep halk direnişinin öne çıktığı Güney Cephesi şehirleridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-16-ghcf",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Maraş'taki direnişin sembol isimlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Cevat Çobanlı",
+      "Halil Kut",
+      "Liman von Sanders",
+      "Sütçü İmam",
+      "Damat Ferit Paşa"
+    ],
+    "answer_index": 3,
+    "explanation": "Sütçü İmam, Maraş direnişinin sembol isimlerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-17-lh4j",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Antep savunmasında Fransızlara karşı direnişiyle tanınan kişi aşağıdakilerden hangisidir?",
+    "options": [
+      "Damat Ferit Paşa",
+      "Salih Paşa",
+      "Ahmet İzzet Paşa",
+      "Hasan Tahsin",
+      "Şahin Bey"
+    ],
+    "answer_index": 4,
+    "explanation": "Şahin Bey, Antep savunmasının öne çıkan kahramanlarındandır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-18-4het",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "TBMM Hükûmeti ile Fransa arasındaki Ankara Antlaşması hangi tarihte imzalanmıştır?",
+    "options": [
+      "3 Aralık 1920",
+      "16 Mart 1921",
+      "11 Ekim 1922",
+      "20 Ekim 1921",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 3,
+    "explanation": "Ankara Antlaşması 20 Ekim 1921'de imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-19-g2iz",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Ankara Antlaşması sonrasında Türkiye sınırları dışında kalan İskenderun Sancağı, daha sonra hangi adla Türkiye'ye katılmıştır?",
+    "options": [
+      "Kars",
+      "Artvin",
+      "Karaağaç",
+      "Batum",
+      "Hatay"
+    ],
+    "answer_index": 4,
+    "explanation": "Ankara Antlaşması sonrasında Türkiye sınırları dışında kalan İskenderun Sancağı, 1939'da Hatay adıyla Türkiye'ye katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-2-lhhq",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Gümrü Antlaşması hangi tarihte imzalanmıştır?",
+    "options": [
+      "23 Nisan 1920",
+      "16 Mart 1921",
+      "20 Ekim 1921",
+      "3 Aralık 1920",
+      "11 Ekim 1922"
+    ],
+    "answer_index": 3,
+    "explanation": "Gümrü Antlaşması 3 Aralık 1920'de imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-20-7aon",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Ankara Antlaşması sonrasında Türkiye sınırları dışında kalan bölge aşağıdakilerden hangisidir?",
+    "options": [
+      "Batum",
+      "Hatay",
+      "Maraş",
+      "Urfa",
+      "Antep"
+    ],
+    "answer_index": 1,
+    "explanation": "Hatay, Ankara Antlaşması ile Türkiye sınırları dışında kalmış; daha sonra 1939'da Türkiye'ye katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-21-3wuf",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Güney Cephesi'nde Fransız işgaline karşı halkın direnişiyle elde edilen başarı, aşağıdakilerden hangisini göstermektedir?",
+    "options": [
+      "Savaşın yalnız denizde sürdüğünü",
+      "İstanbul Hükûmetinin üstün olduğunu",
+      "Yerel direnişin Millî Mücadele'ye katkı sağladığını",
+      "Kuva-yı İnzibatiye'nin başarılı olduğunu",
+      "Balkan devletlerinin destek verdiğini"
+    ],
+    "answer_index": 2,
+    "explanation": "Güney Cephesi'ndeki yerel direniş, işgalin sona ermesinde önemli rol oynamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-22-yq2p",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Ankara Antlaşması ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "İngiltere ile imzalanmış ve Musul sorununu çözmüştür.",
+      "TBMM Hükûmeti ile Fransa arasında imzalanmıştır.",
+      "Güney Cephesi'nin kapanmasını sağlamıştır.",
+      "Fransa'nın Anadolu'daki işgal alanlarından çekilmesini sağlamıştır.",
+      "Hatay Türkiye sınırları dışında kalmıştır."
+    ],
+    "answer_index": 0,
+    "explanation": "Ankara Antlaşması Fransa ile imzalanmıştır; Musul sorunu bu antlaşma ile çözülmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-23-p8o9",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Güney Cephesi ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Halk direnişi önemli rol oynamıştır.",
+      "Fransız işgaline karşı mücadele edilmiştir.",
+      "Mücadele, düzenli ordunun büyük meydan savaşlarıyla yürütülmüştür.",
+      "Maraş, Urfa ve Antep'te direniş öne çıkmıştır.",
+      "Ankara Antlaşması ile cephe kapanmıştır."
+    ],
+    "answer_index": 2,
+    "explanation": "Güney Cephesi'nde halkın ve yerel millî kuvvetlerin direnişi belirleyici olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-24-1c85",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Güney Cephesi'nde halk direnişinin öne çıktığı şehirlerden biri değildir?",
+    "options": [
+      "Kars",
+      "Maraş",
+      "Urfa",
+      "Antep",
+      "Adana"
+    ],
+    "answer_index": 0,
+    "explanation": "Kars Doğu Cephesi ile ilişkilidir; Güney Cephesi'nde Maraş, Urfa, Antep ve Adana çevresinde direniş yaşanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-25-d07j",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Ankara Antlaşması'nın sonuçlarından biri DEĞİLDİR?",
+    "options": [
+      "Fransa ile savaş hâlinin sona ermesi",
+      "Güney Cephesi'nin kapanması",
+      "Batı Cephesi'ne daha çok kuvvet ayrılabilmesi",
+      "Fransa'nın TBMM Hükûmetiyle anlaşması",
+      "Türkiye'nin doğu sınırının kesinleşmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğu sınırının kesinleşmesi Kars Antlaşması ile ilgilidir; Ankara Antlaşması Güney Cephesi'ni kapatmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-26-2jis",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Güney Cephesi'nde - - - - işgaline karşı mücadele edilmiş, cephe - - - - Antlaşması ile kapanmıştır.",
+    "options": [
+      "İtalyan / Uşi",
+      "Fransız / Ankara",
+      "İngiliz / Lozan",
+      "Yunan / Mudanya",
+      "Rus / Moskova"
+    ],
+    "answer_index": 1,
+    "explanation": "Güney Cephesi'nde Fransa'ya karşı mücadele edilmiş ve Ankara Antlaşması ile cephe kapanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-27-2syx",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki yargılardan hangileri Güney Cephesi ile ilgili doğrudur? I. Maraş, Urfa ve Antep'te halk direnişi etkili olmuştur. II. Fransa ile Ankara Antlaşması imzalanmıştır. III. Ankara Antlaşması ile Güney Cephesi kapanmıştır.",
+    "options": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III",
+      "I ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Üç yargı da Güney Cephesi'nin mücadele ve diplomasi sürecini doğru açıklar.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-28-d1d1",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Kuva-yı Milliye birliklerinin düzenli ordudan ayrılan temel özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Yalnız deniz kuvvetlerinden oluşması",
+      "Yerel halkın gönüllü katılımıyla oluşması",
+      "Yabancı devletlerce kurulması",
+      "Padişahın emriyle çalışması",
+      "Sadece subaylardan oluşması"
+    ],
+    "answer_index": 1,
+    "explanation": "Kuva-yı Milliye, işgallere karşı yerel halkın oluşturduğu gönüllü direniş birlikleridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-29-kfi6",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Güney Cephesi'nde Fransa ile anlaşmaya varılması, TBMM Hükûmetinin dış politikada aşağıdakilerden hangisini başardığını gösterir?",
+    "options": [
+      "İtilaf Devletlerini tek bir ordu altında birleştirmeyi",
+      "Kapitülasyonları sürdürmeyi",
+      "Saltanatı güçlendirmeyi",
+      "İtilaf Devletleri arasında görüş ayrılığı oluşturmayı",
+      "Manda yönetimini kabul etmeyi"
+    ],
+    "answer_index": 3,
+    "explanation": "Fransa ile anlaşma sağlanması, İtilaf Devletleri arasındaki birlikteliği zayıflatmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-3-5pd2",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Gümrü Antlaşması'nın Millî Mücadele açısından en önemli özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Saltanatı kaldırması",
+      "TBMM'nin imzaladığı ilk uluslararası antlaşma olması",
+      "Boğazlar sorununu çözmesi",
+      "Batı Cephesi'ni kapatması",
+      "Kapitülasyonları kaldırması"
+    ],
+    "answer_index": 1,
+    "explanation": "Gümrü Antlaşması, TBMM'nin imzaladığı ilk uluslararası antlaşmadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-30-ij7n",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Gediz Taarruzu'nun başarısız olması, Millî Mücadele'de hangi askerî dönüşümü hızlandırmıştır?",
+    "options": [
+      "Düzenli ordunun kurulmasını",
+      "Donanmanın dağıtılmasını",
+      "Kuva-yı İnzibatiye'nin güçlendirilmesini",
+      "İstanbul Hükûmetinin yeniden kurulmasını",
+      "Ateşkes imzalanmasını"
+    ],
+    "answer_index": 0,
+    "explanation": "Gediz Taarruzu'nun başarısızlığı, düzensiz birliklerin yetersizliğini göstererek düzenli orduya geçişi hızlandırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-31-hhhk",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "I. İnönü Savaşı'nda Türk ordusunun komutanı aşağıdakilerden hangisidir?",
+    "options": [
+      "Liman von Sanders",
+      "Damat Ferit Paşa",
+      "Salih Paşa",
+      "Ahmet İzzet Paşa",
+      "İsmet İnönü"
+    ],
+    "answer_index": 4,
+    "explanation": "I. İnönü Savaşı'nda Batı Cephesi Komutanı İsmet Bey'dir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-32-yw4w",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "I. İnönü Zaferi sonrasında TBMM Hükûmetinin Londra Konferansı'na çağrılması, aşağıdakilerden hangisini gösterir?",
+    "options": [
+      "İstanbul Hükûmetinin savaşı kazandığını",
+      "Mondros'un yürürlükten kalktığını",
+      "TBMM'nin diplomatik muhataplığının güçlendiğini",
+      "Yunan işgalinin sona erdiğini",
+      "Saltanatın kaldırıldığını"
+    ],
+    "answer_index": 2,
+    "explanation": "I. İnönü Zaferi, TBMM Hükûmetinin uluslararası alandaki saygınlığını artırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-33-icqg",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "II. İnönü Savaşı'nın ardından Mustafa Kemal'in İsmet Paşa'ya gönderdiği ve “Siz orada yalnız düşmanı değil, milletin makûs talihini de yendiniz.” sözünü içeren telgraf hangi zaferle ilgilidir?",
+    "options": [
+      "Sakarya Meydan Muharebesi",
+      "Başkomutanlık Meydan Muharebesi",
+      "Kütahya-Eskişehir Savaşları",
+      "Mudanya Ateşkesi",
+      "II. İnönü Zaferi"
+    ],
+    "answer_index": 4,
+    "explanation": "Söz, II. İnönü Zaferi sonrasında İsmet Paşa'ya gönderilen telgrafta yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-34-r89c",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Kütahya-Eskişehir Savaşlarından sonra ordunun Sakarya'nın doğusuna çekilmesiyle elde edilmek istenen başlıca yarar aşağıdakilerden hangisidir?",
+    "options": [
+      "İzmir'i teslim etmek",
+      "Müttefik devletlere katılmak",
+      "Ordunun yeniden düzenlenmesi için zaman kazanmak",
+      "İstanbul Hükûmetini güçlendirmek",
+      "Kuva-yı Milliye'yi dağıtmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Geri çekilme, ordunun toparlanması ve savunma hazırlıklarının yapılması için zaman kazandırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-35-0070",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Başkomutanlık Kanunu ile Mustafa Kemal Paşa'ya verilen yetkinin ilk süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "Bir ay",
+      "Altı ay",
+      "Bir yıl",
+      "Üç ay",
+      "Süresiz"
+    ],
+    "answer_index": 3,
+    "explanation": "Başkomutanlık yetkisi ilk olarak üç aylık süreyle verilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-36-fkc9",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Tekâlif-i Milliye Emirlerinin uygulanmasını sağlamak üzere her kazada kurulan kurullar aşağıdakilerden hangisidir?",
+    "options": [
+      "Tekâlif-i Milliye Komisyonları",
+      "Müdafaa-i Hukuk Meclisleri",
+      "Ayan Komisyonları",
+      "Kapitülasyon Kurulları",
+      "Barış Komisyonları"
+    ],
+    "answer_index": 0,
+    "explanation": "Tekâlif-i Milliye Emirlerinin uygulanması için yerel komisyonlar kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-37-d2ju",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Sakarya Meydan Muharebesi'nden sonra Mustafa Kemal Paşa'ya unvan ve rütbe verilmesini öngören TBMM kararı hangi tarihte alınmıştır?",
+    "options": [
+      "23 Nisan 1920",
+      "19 Eylül 1921",
+      "20 Ocak 1921",
+      "26 Ağustos 1922",
+      "29 Ekim 1923"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM, Sakarya Zaferi sonrasında 19 Eylül 1921'de Mustafa Kemal Paşa'ya Gazi unvanı ve Mareşal rütbesi vermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-38-gsz6",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Büyük Taarruz'un hazırlık ve sevk merkezlerinden biri olan şehir aşağıdakilerden hangisidir?",
+    "options": [
+      "Afyonkarahisar",
+      "Samsun",
+      "Trabzon",
+      "Edirne",
+      "Mardin"
+    ],
+    "answer_index": 0,
+    "explanation": "Büyük Taarruz, Afyonkarahisar çevresinde yoğunlaştırılan hazırlıklarla başlatılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-39-mmpx",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Başkomutanlık Meydan Muharebesi'nin kazanıldığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "1 Nisan 1921",
+      "30 Ağustos 1922",
+      "13 Eylül 1921",
+      "9 Eylül 1922",
+      "11 Ekim 1922"
+    ],
+    "answer_index": 1,
+    "explanation": "Başkomutanlık Meydan Muharebesi 30 Ağustos 1922'de kazanılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-4-roe2",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Moskova Antlaşması'nda Nahçıvan'ın statüsüyle ilgili kabul edilen düzenleme aşağıdakilerden hangisidir?",
+    "options": [
+      "Türkiye'ye bağlanması",
+      "Ermenistan'a bırakılması",
+      "İngiltere mandasına verilmesi",
+      "Azerbaycan'ın koruyuculuğunda özerk bölge olması",
+      "Bağımsız devlet olması"
+    ],
+    "answer_index": 3,
+    "explanation": "Moskova Antlaşması'nda Nahçıvan'ın Azerbaycan'ın koruyuculuğunda özerk bir bölge olması kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-40-klgp",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi I. İnönü Savaşı ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Düzenli ordu ilk zaferini kazanmıştır.",
+      "TBMM'nin saygınlığı artmıştır.",
+      "Savaş sonunda Sevr Antlaşması yürürlüğe girmiştir.",
+      "İtilaf Devletleri Londra Konferansı'na TBMM'yi de çağırmıştır.",
+      "Anayasa çalışmalarına moral katkı sağlamıştır."
+    ],
+    "answer_index": 2,
+    "explanation": "I. İnönü Zaferi Sevr'i yürürlüğe sokmamış; TBMM'nin saygınlığını artırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-41-1bou",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi II. İnönü Savaşı ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Türk ordusu Yunan kuvvetlerine karşı savaşmıştır.",
+      "Düzenli ordunun başarısı pekişmiştir.",
+      "Mustafa Kemal İsmet Paşa'yı kutlamıştır.",
+      "Savaş İtalya ile yapılmıştır.",
+      "Batı Cephesi'nde kazanılan savunma zaferlerinden biridir."
+    ],
+    "answer_index": 3,
+    "explanation": "II. İnönü Savaşı İtalya ile değil, Yunan kuvvetlerine karşı yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-42-93ir",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Kütahya-Eskişehir Savaşları ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Türk ordusu Sakarya Nehri'nin doğusuna çekilmiştir.",
+      "Mustafa Kemal'e Başkomutanlık yetkisi verilmiştir.",
+      "Tekâlif-i Milliye Emirleri yayımlanmıştır.",
+      "Sakarya Savaşı öncesinde yaşanmıştır.",
+      "Türk ordusu kesin bir saldırı zaferi kazanmıştır."
+    ],
+    "answer_index": 4,
+    "explanation": "Kütahya-Eskişehir Savaşları sonrasında Türk ordusu geri çekilmek zorunda kalmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-43-b61a",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Sakarya Meydan Muharebesi'nin savunma anlayışını özetleyen “Hattı müdafaa yoktur” sözü, savunmanın hangi biçimde yapılacağını belirtir?",
+    "options": [
+      "Yalnız siper hattında",
+      "Sadece şehir merkezlerinde",
+      "Deniz kuvvetleriyle",
+      "Geniş bir vatan sathında",
+      "Yabancı birliklerle"
+    ],
+    "answer_index": 3,
+    "explanation": "Mustafa Kemal Paşa, savunmanın tek bir çizgide değil vatanın bütününde yapılacağını vurgulamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-44-09g5",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Büyük Taarruz ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "26 Ağustos 1922'de başlamıştır.",
+      "30 Ağustos'ta Başkomutanlık Meydan Muharebesi kazanılmıştır.",
+      "Yunan ordusu Anadolu'dan çıkarılmıştır.",
+      "İzmir 9 Eylül 1922'de kurtarılmıştır.",
+      "Taarruz sonunda Yunan ordusu Doğu Anadolu'ya çekilmiştir."
+    ],
+    "answer_index": 4,
+    "explanation": "Büyük Taarruz sonunda Yunan ordusu Doğu Anadolu'ya değil, Batı Anadolu'dan denize doğru çekilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-45-5vsy",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki antlaşma-sonuç eşleştirmelerinden hangisi YANLIŞTIR?",
+    "options": [
+      "Gümrü Antlaşması - Doğu Cephesi'nde Ermenistan ile anlaşma",
+      "Mudanya Ateşkes Antlaşması - Halifeliğin kaldırılması",
+      "Ankara Antlaşması - Güney Cephesi'nin kapanması",
+      "Kars Antlaşması - Türkiye'nin doğu sınırının kesinleşmesi",
+      "Lozan Barış Antlaşması - Kapitülasyonların kaldırılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Halifelik Mudanya Ateşkesi ile değil, 3 Mart 1924'te TBMM tarafından kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-46-tkis",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Batı Cephesi'nde gerçekleşen savaşlardan biri DEĞİLDİR?",
+    "options": [
+      "I. İnönü Savaşı",
+      "II. İnönü Savaşı",
+      "Gümrü Savaşı",
+      "Sakarya Meydan Muharebesi",
+      "Başkomutanlık Meydan Muharebesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Gümrü bir savaş adı değildir; Doğu Cephesi'nde Ermenistan ile imzalanan antlaşmanın adıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-47-pz96",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Tekâlif-i Milliye Emirleri kapsamında halktan istenen katkı aşağıdakilerden hangisine örnektir?",
+    "options": [
+      "Ordunun ihtiyaçları için malzeme ve taşıt sağlamaya",
+      "Dış borçları kapatmaya",
+      "Yeni vergi kanunu yazmaya",
+      "Mebusan Meclisini açmaya",
+      "Kapitülasyonları yenilemeye"
+    ],
+    "answer_index": 0,
+    "explanation": "Tekâlif-i Milliye Emirleri, ordunun lojistik ihtiyaçlarının halkın imkânlarıyla karşılanmasını amaçlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-48-03p3",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Sakarya Meydan Muharebesi'nin sonuçlarından biri DEĞİLDİR?",
+    "options": [
+      "Yunan saldırı gücünün kırılması",
+      "Mustafa Kemal'e Gazi ve Mareşal unvanlarının verilmesi",
+      "Yunanistan'ın Anadolu'daki işgalinin derhal ve tamamen sona ermesi",
+      "Fransa ile Ankara Antlaşması'nın imzalanmasına ortam oluşması",
+      "Kars Antlaşması'nın imzalanmasına ortam oluşması"
+    ],
+    "answer_index": 2,
+    "explanation": "Yunan işgali Sakarya'dan sonra değil, Büyük Taarruz sonrasında tamamen sona ermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-49-s6og",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Kütahya-Eskişehir Savaşları sonrasında alınan önlemlerden biri değildir?",
+    "options": [
+      "Sevr Antlaşması'nın kabul edilmesi",
+      "Başkomutanlık Kanunu'nun çıkarılması",
+      "Tekâlif-i Milliye Emirleri'nin yayımlanması",
+      "Ordunun Sakarya Nehri'nin doğusuna çekilmesi",
+      "Savunma hazırlıklarının hızlandırılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Kütahya-Eskişehir sonrasında Sevr kabul edilmemiş; Sakarya öncesi savunma hazırlıkları yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-5-53qc",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Kars Antlaşması'nın tarafları arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "Azerbaycan",
+      "Fransa",
+      "İngiltere",
+      "Almanya",
+      "Avusturya-Macaristan"
+    ],
+    "answer_index": 0,
+    "explanation": "Kars Antlaşması; TBMM, Ermenistan, Azerbaycan ve Gürcistan arasında imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-50-hvpr",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Başkomutanlık Kanunu ile - - - - Başkomutanlığa getirilmiş, ordunun ihtiyaçları için - - - - Emirleri yayımlanmıştır.",
+    "options": [
+      "İsmet İnönü / Hıyanet-i Vataniye",
+      "Kazım Karabekir / Tevhid-i Tedrisat",
+      "Rauf Orbay / Takrir-i Sükûn",
+      "Ali Fuat Cebesoy / Kabotaj",
+      "Mustafa Kemal / Tekâlif-i Milliye"
+    ],
+    "answer_index": 4,
+    "explanation": "Başkomutanlık Kanunu ile Mustafa Kemal Başkomutan olmuş, ardından Tekâlif-i Milliye Emirleri çıkarılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-51-h348",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Sakarya Meydan Muharebesi sırasında cephe savaşının tek bir savunma çizgisine bağlı tutulmaması, hangi askerî ihtiyaca cevap vermiştir?",
+    "options": [
+      "Donanmayı büyütme ihtiyacına",
+      "Geri çekilerek savunmayı sürdürme ve düşmanı yıpratma ihtiyacına",
+      "Yeni cephe açma zorunluluğuna",
+      "Ateşkes imzalama isteğine",
+      "Yabancı devletlerden yardım alma ihtiyacına"
+    ],
+    "answer_index": 1,
+    "explanation": "Sakarya'da savunmanın geniş alana yayılması, ordunun geri çekilerek savaşı sürdürmesini sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-52-71y7",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "I. İnönü Zaferi'nin ardından imzalanan Moskova Antlaşması, TBMM'nin hangi devletle ilişkilerini güçlendirmiştir?",
+    "options": [
+      "İngiltere ile",
+      "Yunanistan ile",
+      "İtalya ile",
+      "Sovyet Rusya ile",
+      "Ermenistan ile"
+    ],
+    "answer_index": 3,
+    "explanation": "I. İnönü Zaferi sonrasında TBMM'nin diplomatik konumu güçlenmiş, Sovyet Rusya ile Moskova Antlaşması imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-53-plpv",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Sakarya Zaferi'nin Fransa ile Ankara Antlaşması'na ortam hazırlaması, hangi sonucu doğurmuştur?",
+    "options": [
+      "Doğu Cephesi'nin yeniden açılmasını",
+      "Güney Cephesi'ndeki askerî yükün azalmasını",
+      "Yunan işgalinin hemen bitmesini",
+      "İstanbul'un işgal edilmesini",
+      "Kapitülasyonların geri gelmesini"
+    ],
+    "answer_index": 1,
+    "explanation": "Sakarya Zaferi sonrası Fransa ile anlaşmaya varılması, Güney Cephesi'ni kapatmış ve TBMM'nin askerî yükünü azaltmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-54-369n",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki olayların gerçekleşme sırası hangi seçenekte doğru verilmiştir? I. I. İnönü Savaşı II. II. İnönü Savaşı III. Kütahya-Eskişehir Savaşları",
+    "options": [
+      "I - III - II",
+      "II - I - III",
+      "II - III - I",
+      "I - II - III",
+      "III - I - II"
+    ],
+    "answer_index": 3,
+    "explanation": "I. İnönü Ocak 1921'de, II. İnönü Mart-Nisan 1921'de, Kütahya-Eskişehir Savaşları Temmuz 1921'de gerçekleşmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-55-5dxj",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Mudanya Ateşkes Antlaşması'nın imzalandığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "11 Ekim 1922",
+      "30 Ağustos 1922",
+      "9 Eylül 1922",
+      "1 Kasım 1922",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Mudanya Ateşkes Antlaşması 11 Ekim 1922'de imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-56-leg6",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Mudanya Ateşkes Görüşmelerinde Yunanistan adına doğrudan temsilci bulunmamasının nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Yunanistan'ın savaşı kazanması",
+      "TBMM'nin Yunanistan'ı tanımaması",
+      "Yunanistan'ın Balkan İttifakına katılması",
+      "Yunanistan'ın Osmanlı Devleti'ne bağlı olması",
+      "Yunanistan'ın görüşmelere İtilaf Devletleri aracılığıyla katılması"
+    ],
+    "answer_index": 4,
+    "explanation": "Mudanya Görüşmelerinde Yunanistan doğrudan temsil edilmemiş, İtilaf Devletleri aracılığıyla sürece katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-57-k1wq",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Barış Konferansı'nda Türk heyetinde başdelegelik dışında görev alan isimlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Damat Ferid Paşa",
+      "Liman von Sanders",
+      "Rıza Nur",
+      "Calthorpe",
+      "General Harington"
+    ],
+    "answer_index": 2,
+    "explanation": "Lozan'da Türk heyetinde İsmet Paşa'nın yanı sıra Rıza Nur ve Hasan Saka görev almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  }
+]

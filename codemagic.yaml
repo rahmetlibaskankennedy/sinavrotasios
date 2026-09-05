@@ -1,0 +1,693 @@
+workflows:
+
+  # ============================================================
+  # 1) iOS SIMULATOR SMOKE TEST
+  # ============================================================
+  ios-simulator:
+    name: SınavRotası iOS Simulator Smoke Test
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    environment:
+      node: 22
+
+    scripts:
+      - name: Install dependencies
+        script: |
+          set -euo pipefail
+          npm ci
+
+      - name: Install Capacitor iOS
+        script: |
+          set -euo pipefail
+          npm install @capacitor/ios@8.5.0
+
+      - name: Add iOS platform
+        script: |
+          set -euo pipefail
+          npx cap add ios
+
+      - name: Configure iOS deep link
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          echo "Configuring iOS URL scheme..."
+          echo "Info.plist: $PLIST_PATH"
+
+          if [ ! -f "$PLIST_PATH" ]; then
+            echo "ERROR: Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Delete :CFBundleURLTypes" \
+            "$PLIST_PATH" 2>/dev/null || true
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0 dict" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleTypeRole string Editor" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasi" \
+            "$PLIST_PATH"
+
+      - name: Sync Capacitor
+        script: |
+          set -euo pipefail
+          npx cap sync ios
+
+      - name: Verify deep link after sync
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          SCHEME=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleURLTypes:0:CFBundleURLSchemes:0" \
+              "$PLIST_PATH"
+          )
+
+          echo "Detected scheme: $SCHEME"
+
+          if [ "$SCHEME" != "sinavrotasi" ]; then
+            echo "ERROR: sinavrotasi URL scheme is missing."
+            exit 1
+          fi
+
+      - name: Build unsigned iOS Simulator app
+        script: |
+          set -euo pipefail
+
+          xcodebuild \
+            -project ios/App/App.xcodeproj \
+            -scheme App \
+            -configuration Debug \
+            -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath build/ios \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Find available iPhone Simulator
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(
+            xcrun simctl list devices available \
+              | grep "iPhone" \
+              | head -1 \
+              | grep -oE '[0-9A-F-]{36}'
+          )
+
+          if [ -z "$DEVICE_ID" ]; then
+            echo "ERROR: No available iPhone Simulator found."
+            exit 1
+          fi
+
+          echo "$DEVICE_ID" > /tmp/simulator_id
+
+      - name: Boot iOS Simulator
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          xcrun simctl boot "$DEVICE_ID" || true
+          xcrun simctl bootstatus "$DEVICE_ID" -b
+
+      - name: Verify generated app
+        script: |
+          set -euo pipefail
+
+          APP_PATH="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app"
+
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: App.app was not generated."
+            exit 1
+          fi
+
+      - name: Install app on Simulator
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          APP_PATH="$CM_BUILD_DIR/build/ios/Build/Products/Debug-iphonesimulator/App.app"
+
+          xcrun simctl install "$DEVICE_ID" "$APP_PATH"
+
+      - name: Launch SınavRotası
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          BUNDLE_ID="com.sinavrotasi.mebgys"
+
+          if ! LAUNCH_RESULT=$(xcrun simctl launch "$DEVICE_ID" "$BUNDLE_ID" 2>&1); then
+            echo "$LAUNCH_RESULT"
+            exit 1
+          fi
+
+          echo "$LAUNCH_RESULT"
+
+          if ! echo "$LAUNCH_RESULT" | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: Unexpected launch result."
+            exit 1
+          fi
+
+      - name: Verify process after launch
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          BUNDLE_ID="com.sinavrotasi.mebgys"
+
+          sleep 8
+
+          if ! xcrun simctl spawn "$DEVICE_ID" launchctl list \
+            | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: SınavRotası process is not running."
+            exit 1
+          fi
+
+      - name: Test iOS deep link
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          xcrun simctl openurl \
+            "$DEVICE_ID" \
+            "sinavrotasi://auth-callback"
+
+          sleep 5
+
+      - name: Verify process after deep link
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          BUNDLE_ID="com.sinavrotasi.mebgys"
+
+          if ! xcrun simctl spawn "$DEVICE_ID" launchctl list \
+            | grep -q "$BUNDLE_ID"; then
+            echo "ERROR: Application stopped after deep link."
+            exit 1
+          fi
+
+      - name: Capture iOS screenshot
+        script: |
+          set -euo pipefail
+
+          DEVICE_ID=$(cat /tmp/simulator_id)
+
+          SCREENSHOT_DIR="$CM_BUILD_DIR/build/screenshots"
+          SCREENSHOT_PATH="$SCREENSHOT_DIR/sinavrotasi-ios.png"
+
+          mkdir -p "$SCREENSHOT_DIR"
+
+          xcrun simctl io \
+            "$DEVICE_ID" \
+            screenshot \
+            "$SCREENSHOT_PATH"
+
+          test -f "$SCREENSHOT_PATH"
+
+      - name: Shutdown Simulator
+        script: |
+          DEVICE_ID=$(cat /tmp/simulator_id)
+          xcrun simctl shutdown "$DEVICE_ID" || true
+
+    artifacts:
+      - build/ios/Build/Products/Debug-iphonesimulator/*.app
+      - build/ios/Build/Products/Debug-iphonesimulator/**/*.app
+      - build/screenshots/*.png
+
+
+  # ============================================================
+  # 2) REAL iPHONE BUILD FOR ALTSTORE
+  # ============================================================
+  ios-device-altstore:
+    name: SınavRotası iPhone IPA for AltStore
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    environment:
+      node: 22
+
+    scripts:
+      - name: Install dependencies
+        script: |
+          set -euo pipefail
+          npm ci
+
+      - name: Guard against dev (live-reload) config in release build
+        script: |
+          set -euo pipefail
+
+          # capacitor.config.dev.json bir "server.url" içerir (GitHub Pages'ten
+          # canlı yükleme yapar). Bu, App Store/AltStore'a giden RELEASE build'inde
+          # asla olmamalı — release her zaman www/ içeriğini IPA'ya gömmeli.
+          if grep -q '"url"' capacitor.config.json 2>/dev/null; then
+            echo "ERROR: capacitor.config.json bir server.url içeriyor."
+            echo "Bu release/AltStore workflow'u için YASAK — dev config production'a karışmış olabilir."
+            echo "capacitor.config.json dosyasını kontrol et (server.url alanı olmamalı)."
+            exit 1
+          fi
+
+          echo "OK: capacitor.config.json temiz, local www gömülecek."
+
+      - name: Install Capacitor iOS
+        script: |
+          set -euo pipefail
+          npm install @capacitor/ios@8.5.0
+
+      - name: Add iOS platform
+        script: |
+          set -euo pipefail
+          npx cap add ios
+
+      - name: Configure iOS deep link
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          if [ ! -f "$PLIST_PATH" ]; then
+            echo "ERROR: Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Delete :CFBundleURLTypes" \
+            "$PLIST_PATH" 2>/dev/null || true
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0 dict" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleTypeRole string Editor" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasi" \
+            "$PLIST_PATH"
+
+      - name: Sync Capacitor
+        script: |
+          set -euo pipefail
+          npx cap sync ios
+
+      - name: Verify native configuration
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          BUNDLE_ID=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleIdentifier" \
+              "$PLIST_PATH" 2>/dev/null || true
+          )
+
+          SCHEME=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleURLTypes:0:CFBundleURLSchemes:0" \
+              "$PLIST_PATH"
+          )
+
+          echo "Configured URL scheme: $SCHEME"
+
+          if [ "$SCHEME" != "sinavrotasi" ]; then
+            echo "ERROR: Deep link scheme is missing."
+            exit 1
+          fi
+
+      - name: Build unsigned iPhone app
+        script: |
+          set -euo pipefail
+
+          echo "Building for REAL iPhone / iphoneos..."
+
+          # NOT (2026-09-04 düzeltme): Release'e çevrildi. Debug config
+          # get-task-allow (debugger-attach) entitlement'ı taşıyor; bazı
+          # yeniden-imzalama/sideload akışlarında (AltStore dahil) modern
+          # iOS bunu "integrity could not be verified" hatasıyla reddedebiliyor.
+          # AltStore/sideload için doğru config Release'dir (bkz. codemagic
+          # dokümantasyonu: unsigned build rehberleri Release kullanır; dev
+          # live-reload build'i — ios-device-dev workflow'u — zaten ayrı ve
+          # sadece yerel test için, o Debug kalabilir).
+          xcodebuild \
+            -project ios/App/App.xcodeproj \
+            -scheme App \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/device \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Find generated iPhone app
+        script: |
+          set -euo pipefail
+
+          APP_PATH="$CM_BUILD_DIR/build/device/Build/Products/Release-iphoneos/App.app"
+
+          echo "Expected app:"
+          echo "$APP_PATH"
+
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: Real-device App.app was not generated."
+
+            echo "Available apps:"
+            find "$CM_BUILD_DIR/build/device" \
+              -name "*.app" \
+              -type d \
+              -print || true
+
+            exit 1
+          fi
+
+          echo "$APP_PATH" > /tmp/device_app_path
+
+      - name: Verify real-device architecture
+        script: |
+          set -euo pipefail
+
+          APP_PATH=$(cat /tmp/device_app_path)
+          EXECUTABLE="$APP_PATH/App"
+
+          if [ ! -f "$EXECUTABLE" ]; then
+            echo "ERROR: App executable not found."
+            exit 1
+          fi
+
+          echo "Executable architectures:"
+          lipo -info "$EXECUTABLE" || file "$EXECUTABLE"
+
+          FILE_INFO=$(file "$EXECUTABLE")
+
+          echo "$FILE_INFO"
+
+          if ! echo "$FILE_INFO" | grep -Eq "arm64|Mach-O 64-bit"; then
+            echo "ERROR: Expected an iPhone arm64 executable."
+            exit 1
+          fi
+
+          echo "SUCCESS: Device binary architecture verified."
+
+      - name: Verify built Info.plist
+        script: |
+          set -euo pipefail
+
+          APP_PATH=$(cat /tmp/device_app_path)
+          APP_PLIST="$APP_PATH/Info.plist"
+
+          if [ ! -f "$APP_PLIST" ]; then
+            echo "ERROR: Built Info.plist not found."
+            exit 1
+          fi
+
+          BUNDLE_ID=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleIdentifier" \
+              "$APP_PLIST"
+          )
+
+          SCHEME=$(
+            /usr/libexec/PlistBuddy \
+              -c "Print :CFBundleURLTypes:0:CFBundleURLSchemes:0" \
+              "$APP_PLIST"
+          )
+
+          echo "Bundle ID: $BUNDLE_ID"
+          echo "URL scheme: $SCHEME"
+
+          if [ "$BUNDLE_ID" != "com.sinavrotasi.mebgys" ]; then
+            echo "ERROR: Unexpected bundle identifier."
+            exit 1
+          fi
+
+          if [ "$SCHEME" != "sinavrotasi" ]; then
+            echo "ERROR: Deep-link scheme missing from built app."
+            exit 1
+          fi
+
+      - name: Create unsigned IPA for AltStore
+        script: |
+          set -euo pipefail
+
+          APP_PATH=$(cat /tmp/device_app_path)
+
+          IPA_ROOT="$CM_BUILD_DIR/build/altstore"
+          PAYLOAD_DIR="$IPA_ROOT/Payload"
+          IPA_PATH="$CM_BUILD_DIR/build/SinavRotasi-AltStore.ipa"
+
+          rm -rf "$IPA_ROOT"
+          rm -f "$IPA_PATH"
+
+          mkdir -p "$PAYLOAD_DIR"
+
+          echo "Copying App.app into Payload..."
+
+          cp -R "$APP_PATH" "$PAYLOAD_DIR/App.app"
+
+          echo "IPA structure:"
+          find "$IPA_ROOT" -maxdepth 3 -print
+
+          cd "$IPA_ROOT"
+
+          /usr/bin/zip \
+            -qry \
+            "$IPA_PATH" \
+            Payload
+
+          if [ ! -f "$IPA_PATH" ]; then
+            echo "ERROR: IPA was not generated."
+            exit 1
+          fi
+
+          echo "SUCCESS: IPA generated:"
+          ls -lh "$IPA_PATH"
+
+      - name: Validate IPA structure
+        script: |
+          set -euo pipefail
+
+          IPA_PATH="$CM_BUILD_DIR/build/SinavRotasi-AltStore.ipa"
+
+          echo "IPA contents:"
+
+          unzip -l "$IPA_PATH" | head -100
+
+          if ! unzip -l "$IPA_PATH" \
+            | grep -q "Payload/App.app/Info.plist"; then
+            echo "ERROR: IPA does not contain Payload/App.app."
+            exit 1
+          fi
+
+          echo "SUCCESS: IPA structure is valid for sideloading."
+
+      - name: Show final artifact
+        script: |
+          set -euo pipefail
+
+          echo ""
+          echo "============================================"
+          echo "ALTSTORE BUILD READY"
+          echo "============================================"
+          echo ""
+          echo "File:"
+          echo "$CM_BUILD_DIR/build/SinavRotasi-AltStore.ipa"
+          echo ""
+          ls -lh "$CM_BUILD_DIR/build/SinavRotasi-AltStore.ipa"
+
+    artifacts:
+      - build/SinavRotasi-AltStore.ipa
+      - build/device/Build/Products/Release-iphoneos/*.app
+      - build/device/Build/Products/Release-iphoneos/**/*.app
+
+  # ============================================================
+  # 3) DEV BUILD — LIVE RELOAD (GitHub Pages'ten www yükler)
+  # ============================================================
+  # SADECE geliştirme/test içindir. www/ içeriğini IPA'ya gömmez,
+  # bunun yerine capacitor.config.dev.json'daki server.url'den
+  # (GitHub Pages) HTML/CSS/JS'yi her açılışta çeker. app.js, style.css
+  # veya index.html değiştirip main'e push ettiğinde ve GitHub Pages
+  # deploy tamamlandığında, uygulamayı telefonda kapat-aç yeterli —
+  # yeni IPA/AltStore güncellemesi GEREKMEZ.
+  #
+  # Production ile AYNI bundle ID'yi (com.sinavrotasi.mebgys) kullanır — ücretsiz
+  # Apple ID'nin yeni App ID kaydı / eşzamanlı sideload app limitlerine takılmamak
+  # için. Bunun sonucu: dev IPA'yı kurduğunda mevcut production uygulamanın YERİNE
+  # geçer (ikisi aynı anda telefonda ayrı ayrı duramaz). Production'a dönmek
+  # istediğinde ios-device-altstore workflow'undan üretilen IPA'yı tekrar kurman
+  # yeterli.
+  ios-device-dev:
+    name: SınavRotası iPhone DEV IPA (Live Reload)
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+
+    environment:
+      node: 22
+
+    scripts:
+      - name: Install dependencies
+        script: |
+          set -euo pipefail
+          npm ci
+
+      - name: Switch to DEV capacitor config (GitHub Pages server.url)
+        script: |
+          set -euo pipefail
+
+          if [ ! -f capacitor.config.dev.json ]; then
+            echo "ERROR: capacitor.config.dev.json bulunamadı."
+            exit 1
+          fi
+
+          cp capacitor.config.json capacitor.config.json.prod.bak
+          cp capacitor.config.dev.json capacitor.config.json
+
+          echo "DEV config aktif:"
+          cat capacitor.config.json
+
+      - name: Install Capacitor iOS
+        script: |
+          set -euo pipefail
+          npm install @capacitor/ios@8.5.0
+
+      - name: Add iOS platform
+        script: |
+          set -euo pipefail
+          npx cap add ios
+
+      - name: Configure iOS deep link
+        script: |
+          set -euo pipefail
+
+          PLIST_PATH="$CM_BUILD_DIR/ios/App/App/Info.plist"
+
+          if [ ! -f "$PLIST_PATH" ]; then
+            echo "ERROR: Info.plist not found."
+            exit 1
+          fi
+
+          /usr/libexec/PlistBuddy \
+            -c "Delete :CFBundleURLTypes" \
+            "$PLIST_PATH" 2>/dev/null || true
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0 dict" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleTypeRole string Editor" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLName string com.sinavrotasi.mebgys" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes array" \
+            "$PLIST_PATH"
+
+          /usr/libexec/PlistBuddy \
+            -c "Add :CFBundleURLTypes:0:CFBundleURLSchemes:0 string sinavrotasi" \
+            "$PLIST_PATH"
+
+      - name: Sync Capacitor
+        script: |
+          set -euo pipefail
+          npx cap sync ios
+
+      - name: Build unsigned iPhone app (DEV)
+        script: |
+          set -euo pipefail
+
+          xcodebuild \
+            -project ios/App/App.xcodeproj \
+            -scheme App \
+            -configuration Debug \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/device \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Create unsigned DEV IPA for AltStore
+        script: |
+          set -euo pipefail
+
+          APP_PATH="$CM_BUILD_DIR/build/device/Build/Products/Debug-iphoneos/App.app"
+
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: DEV App.app oluşmadı."
+            exit 1
+          fi
+
+          IPA_ROOT="$CM_BUILD_DIR/build/altstore-dev"
+          PAYLOAD_DIR="$IPA_ROOT/Payload"
+          IPA_PATH="$CM_BUILD_DIR/build/SinavRotasi-Dev.ipa"
+
+          rm -rf "$IPA_ROOT"
+          rm -f "$IPA_PATH"
+          mkdir -p "$PAYLOAD_DIR"
+
+          cp -R "$APP_PATH" "$PAYLOAD_DIR/App.app"
+
+          cd "$IPA_ROOT"
+          /usr/bin/zip -qry "$IPA_PATH" Payload
+
+          if [ ! -f "$IPA_PATH" ]; then
+            echo "ERROR: DEV IPA oluşmadı."
+            exit 1
+          fi
+
+          echo "SUCCESS: DEV IPA hazır (yalnızca BİR KEZ kurulacak, sonrası live reload):"
+          ls -lh "$IPA_PATH"
+
+    artifacts:
+      - build/SinavRotasi-Dev.ipa

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-3-bh0a",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı Kanun’un kabul tarihi hangi yıldır?",
+    "options": [
+      "1923",
+      "1949",
+      "1961",
+      "1982",
+      "2005"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanunun üst bilgisi: 5442 sayılı İl İdaresi Kanunu 10/6/1949 tarihinde kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-4-hihj",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre afet ve acil durum hâllerinde, arama ve kurtarma amacıyla telefon abone ve konum bilgilerine ulaşma yetkisi kime verilmiştir?",
+    "options": [
+      "Telekom Müdürü",
+      "Belediye Başkanı",
+      "Kaymakam",
+      "Emniyet Müdürü",
+      "AFAD Başkanlığı veya ilgili valilik"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 2/a: Afet ve acil durum hâllerinde arama, kurtarma ve müdahale faaliyetleri kapsamında AFAD Başkanlığının veya ilgili valiliğin ihtiyaç duyduğu telefon abone ve konum bilgileri gecikmeksizin karşılanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-5-tu8f",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre 112 Acil Çağrı Merkezlerine yapılan çağrılarda, arayan kişiye ulaşmak amacıyla konum bilgisi kimin ihtiyacı üzerine temin edilir?",
+    "options": [
+      "112 Acil Çağrı Merkezi veya ilgili valilik",
+      "Sağlık Bakanlığı",
+      "Kaymakamlık",
+      "Jandarma",
+      "Belediye"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 2/b: 112 Acil Çağrı Merkezlerine yapılan çağrılarda, arayan kişiye ulaşmak amacıyla 112 Acil Çağrı Merkezlerinin veya ilgili valiliğin ihtiyaç duyduğu konum bilgisi temin edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-6-lh7e",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 1’e göre görevlendirilen mülki idare amiri, teknik, istatistiki ve mali konular hariç personel hakkında aşağıdakilerden hangisini yapabilir?",
+    "options": [
+      "Atamayı doğrudan yapabilir.",
+      "Değerlendirme raporu düzenleyebilir, disiplin kovuşturması yaptırabilir ve gerektiğinde uyarma veya kınama cezası verebilir.",
+      "Emeklilik işlemini sonuçlandırabilir.",
+      "Maaş miktarını belirleyebilir.",
+      "Personeli kurumundan çıkarabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 1: Görevlendirilen mülki idare amiri, teknik, istatistiki ve mali konular hariç olmak üzere personel hakkında belirtilen değerlendirme ve disiplin yetkilerini kullanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-7-s4it",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre mülki idare amirleri, sınır kapılarında şüpheli durumlarda, Kaçakçılık Kanunu hükümleri saklı kalmak kaydıyla, arama emrini nasıl verir?",
+    "options": [
+      "Yalnız yazılı olarak",
+      "Savcı onayıyla verir",
+      "Yazılı olarak; ivedi hâllerde sözlü olarak ve sonradan yazılı şekle dönüştürülmek kaydıyla",
+      "Yalnız sözlü olarak",
+      "Mahkeme kararı olmadan veremez"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1: Arama emri yazılı olarak verilir; ivedi durumlarda sözlü emir derhâl yerine getirilir ve en kısa zamanda yazılı olarak teyit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-8-94jj",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre toplumsal olaylarda kamu düzenini sağlamak amacıyla alınan kararlara uymayanlara uygulanacak hapis cezasının alt sınırı kaç aydır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "12"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 66: Üç aydan bir yıla kadar hapis.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-9-buzi",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 1’e göre vali, sivil hava meydanları, limanlar ve sınır kapılarındaki yetkilerinin tamamını veya bir kısmını kime devredebilir?",
+    "options": [
+      "Kaymakama",
+      "Cumhuriyet savcısına",
+      "İl İdare Kuruluna",
+      "Belediye başkanına",
+      "Görevlendirdiği mülki idare amirine"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 1: Vali, yetkilerinin tamamını veya bir kısmını görevlendirdiği mülki idare amirine devredebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-0-lcr7",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kanunun uygulanmasında ihmâli, kusuru veya kastı bulunan memurlar ve diğer kamu görevlileri hakkında hangi yaptırım uygulanır?",
+    "options": [
+      "Tabi oldukları mevzuatta yer alan disiplin cezaları",
+      "Yalnız Kurul üyeliğinden çıkarma",
+      "Yalnız para cezası",
+      "Yalnız ticarî yasak",
+      "Her durumda hapis cezası"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 29. A seçeneğindeki “Tabi oldukları mevzuatta yer alan disiplin cezaları” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-1-qzun",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kanunun uygulanmasında sorumluluğu bulunan kamu görevlileri bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İhmâl sorumluluğa yol açabilir.",
+      "Kusur sorumluluğa yol açabilir.",
+      "Fiil ceza kovuşturması gerektiriyorsa genel hükümler uygulanmaz.",
+      "Genel hükümlere göre ceza kovuşturması gerektiren fiiller saklıdır.",
+      "Kast sorumluluğa yol açabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 29. “Fiil ceza kovuşturması gerektiriyorsa genel hükümler uygulanmaz.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-10-a02a",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulunun, kendi genel raporu ile kurum ve kuruluşların bir önceki yıla ait raporlarını Nisan ayının sonuna kadar Türkiye Büyük Millet Meclisine göndermesinden sonra, bu raporlar kaç ay içinde Türkiye Büyük Millet Meclisi Başkanlığınca kamuoyuna açıklanır?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 30. Bu raporlar, Türkiye Büyük Millet Meclisi Başkanlığınca takip eden iki ay içinde kamuoyuna açıklanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-11-c4pu",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu ne zaman yürürlüğe girer?",
+    "options": [
+      "Yayımlandığı gün",
+      "Yayımı tarihinden itibaren altı ay sonra",
+      "Yayımını izleyen ilk yılın başında",
+      "Cumhurbaşkanının ayrıca belirleyeceği tarihte",
+      "Yayımından bir yıl sonra"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 32. Kanun, yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-12-quc4",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Bağlı, ilgili ve ilişkili kamu kurum ve kuruluşları, bir önceki yıla ait bilgi edinme raporlarını Bilgi Edinme Değerlendirme Kuruluna nasıl iletirler?",
+    "options": [
+      "Yargıtay Genel Kurulu aracılığıyla",
+      "Doğrudan Türkiye Büyük Millet Meclisi Başkanlığı aracılığıyla",
+      "Yalnız Cumhurbaşkanlığı aracılığıyla",
+      "Bağlı, ilgili ya da ilişkili oldukları bakanlık vasıtasıyla",
+      "Türkiye Barolar Birliği aracılığıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 30. Bağlı, ilgili ve ilişkili kamu kurum ve kuruluşları raporlarını bağlı, ilgili ya da ilişkili oldukları bakanlık vasıtasıyla iletirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-13-uuoy",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Kanun’la erişilen bilgi ve belgelerin ticarî amaçla kullanılması bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ücret ödenirse serbesttir.",
+      "Yalnız tüzel kişilerce kullanılabilir.",
+      "Ticarî amaçla çoğaltılamaz ve kullanılamaz.",
+      "Kurulun izniyle sınırsız kullanılabilir.",
+      "Sadece yurt dışında kullanılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 29. Bu Kanunla erişilen bilgi ve belgeler ticarî amaçla çoğaltılamaz ve kullanılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-14-3yvi",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum ve kuruluşlar, bir önceki yıla ait bilgi edinme raporlarını her yıl ne zamana kadar Bilgi Edinme Değerlendirme Kuruluna gönderirler?",
+    "options": [
+      "Ocak ayının sonuna kadar",
+      "Mart ayının sonuna kadar",
+      "Nisan ayının sonuna kadar",
+      "Şubat ayının sonuna kadar",
+      "Haziran ayının sonuna kadar"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 30. Kurum ve kuruluşlar, bir önceki yıla ait raporlarını her yıl Şubat ayının sonuna kadar Bilgi Edinme Değerlendirme Kuruluna gönderirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-15-xmac",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Kanun’un uygulanmasına ilişkin esas ve usulleri belirleyen yönetmelik hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her kamu kurumu kendi yönetmeliğini ayrı ayrı çıkarır.",
+      "Kanunun yayımından iki yıl sonra Türkiye Büyük Millet Meclisi tarafından çıkarılır.",
+      "Yalnız Bilgi Edinme Değerlendirme Kurulu tarafından hazırlanır.",
+      "Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak yürürlüğe konulur.",
+      "Yönetmelik çıkarılması Kanunda öngörülmemiştir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 31. Kanunun uygulanmasına ilişkin esas ve usulleri belirleyen yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak yürürlüğe konulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-16-sxqz",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu hükümlerini kim yürütür?",
+    "options": [
+      "Türkiye Büyük Millet Meclisi Başkanı",
+      "Cumhurbaşkanı",
+      "Adalet Bakanı",
+      "Bilgi Edinme Değerlendirme Kurulu Başkanı",
+      "Danıştay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 33. Bu Kanun hükümlerini Cumhurbaşkanı yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-17-klzh",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum ve kuruluşların bir önceki yıla ait raporlarında, olumlu cevaplanan başvurular bakımından hangi sayı gösterilir?",
+    "options": [
+      "Gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da ayrılarak bilgi veya belgelere erişim sağlanan başvuru sayısı",
+      "Reddedilen başvuru sayısı ve bunların dağılımını gösterir istatistik bilgileri",
+      "Olumlu cevaplanarak bilgi veya belgelere erişim sağlanan başvuru sayısı",
+      "Başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile bunların sonuçları",
+      "Kendilerine yapılan bilgi edinme başvurularının sayısı"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 30/b. Kurum ve kuruluşların raporlarında, olumlu cevaplanarak bilgi veya belgelere erişim sağlanan başvuru sayısı gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-18-8j7l",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum ve kuruluşların yıllık raporlarında, gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da ayrılarak erişim sağlanan başvurular bakımından hangi bilgi yer alır?",
+    "options": [
+      "Kendilerine yapılan bilgi edinme başvurularının sayısı",
+      "Bu şekilde bilgi veya belgelere erişim sağlanan başvuru sayısı",
+      "Reddedilen başvuru sayısı ve bunların dağılımını gösterir istatistik bilgileri",
+      "Olumlu cevaplanarak bilgi veya belgelere erişim sağlanan başvuru sayısı",
+      "Başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile bunların sonuçları"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 30/d. Raporda, gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da bu nitelikteki bilgiler ayrılarak bilgi veya belgelere erişim sağlanan başvuru sayısı gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-19-v7zn",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Başvurunun reddedilmesi üzerine itiraz edilen başvurular bakımından kurum ve kuruluşların yıllık raporunda hangi bilgi gösterilir?",
+    "options": [
+      "Kendilerine yapılan bilgi edinme başvurularının sayısı",
+      "Reddedilen başvuru sayısı ve bunların dağılımını gösterir istatistik bilgileri",
+      "Olumlu cevaplanarak bilgi veya belgelere erişim sağlanan başvuru sayısı",
+      "İtiraz edilen başvuru sayısı ile bunların sonuçları",
+      "Gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da ayrılarak bilgi veya belgelere erişim sağlanan başvuru sayısı"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 30/e. Kurum ve kuruluşların raporlarında, başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile bunların sonuçları gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-2-w19d",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Bu Kanunla erişilen bilgi ve belgeler bakımından aşağıdakilerden hangisi yasaktır?",
+    "options": [
+      "Kişisel bilgi edinme amacıyla incelenmesi",
+      "Ticarî amaçla çoğaltılması ve kullanılması",
+      "Kanuna uygun erişim sağlanması",
+      "Kopyasının Kanundaki usulle verilmesi",
+      "Başvurunun yazılı yapılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 29. B seçeneğindeki “Ticarî amaçla çoğaltılması ve kullanılması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-3-3u52",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum ve kuruluşların bir önceki yıla ait hazırlayacakları raporda aşağıdakilerden hangisine yer verilir?",
+    "options": [
+      "Yargı mensuplarının görev yerine",
+      "Kurul üyelerinin kişisel harcamalarına",
+      "Başvuru sahiplerinin aile durumuna",
+      "Tüm personelin özlük dosyasına",
+      "Kendilerine yapılan bilgi edinme başvurularının sayısına"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 30/a. E seçeneğindeki “Kendilerine yapılan bilgi edinme başvurularının sayısına” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-4-yok3",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Kanun, yayımı tarihinden itibaren ne zaman yürürlüğe girer?",
+    "options": [
+      "Derhal",
+      "On beş gün sonra",
+      "Bir yıl sonra",
+      "Altı ay sonra",
+      "Yönetmelik yayımlandığında"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 32. D seçeneğindeki “Altı ay sonra” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-5-k4a5",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum raporunda reddedilen başvurular için hangi bilgi gösterilir?",
+    "options": [
+      "Başvuru sahiplerinin siyasi görüşü",
+      "Tüm personelin özlük bilgisi",
+      "Sayıları ve dağılımlarını gösterir istatistik bilgiler",
+      "Sadece belgenin sayfa sayısı",
+      "Yalnız itiraz edenlerin adresi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 30/c. C seçeneğindeki “Sayıları ve dağılımlarını gösterir istatistik bilgiler” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-6-me3i",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kurum ve kuruluşlar yıllık bilgi edinme raporlarını her yıl en geç ne zamana kadar Kurula gönderir?",
+    "options": [
+      "Ocak ayının ilk haftasına kadar",
+      "Şubat ayının sonuna kadar",
+      "Nisan ayının sonuna kadar",
+      "Yıl sonuna kadar",
+      "Mart ayının sonuna kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 30. B seçeneğindeki “Şubat ayının sonuna kadar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-7-9x4u",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu genel raporunu kurum raporlarıyla birlikte her yıl en geç ne zamana kadar TBMM’ye gönderir?",
+    "options": [
+      "Nisan ayının sonuna kadar",
+      "Mart ayının ilk gününe kadar",
+      "Haziran ayının sonuna kadar",
+      "Şubat ayının sonuna kadar",
+      "Yıl sonuna kadar"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 30. A seçeneğindeki “Nisan ayının sonuna kadar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-8-zr2q",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "Kanunun uygulanmasına ilişkin esas ve usulleri belirleyecek yönetmelik kim tarafından hazırlanır?",
+    "options": [
+      "TBMM Başkanlığı tarafından",
+      "Bilgi Edinme Değerlendirme Kurulu tarafından",
+      "Danıştay tarafından",
+      "Türkiye Barolar Birliği tarafından",
+      "Cumhurbaşkanlığı tarafından"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 31. E seçeneğindeki “Cumhurbaşkanlığı tarafından” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cesitli-ve-son-hukumler-rqfyi-mtn4nz5m-9-gz0n",
+    "topic_id": "t-cesitli-ve-son-hukumler-rqfyi",
+    "prompt": "4982 sayılı Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kurulu Başkanı",
+      "Adalet Bakanı",
+      "TBMM Başkanı",
+      "Cumhurbaşkanı",
+      "Danıştay Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 33. D seçeneğindeki “Cumhurbaşkanı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:47:38.002078+00:00",
+    "updated_at": "2026-09-04T15:47:38.002078+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-0-4sf7",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç eksikliği vardır?",
+    "options": [
+      "Öğrenciler öğretmenlerine yardım etti.",
+      "Öğrencileri uyardı ve öğrencilere yardım etti.",
+      "Öğrencilere yardım etti.",
+      "Öğrencileri dikkatle uyardı.",
+      "Öğrencileri uyardı ve yardım etti."
+    ],
+    "answer_index": 4,
+    "explanation": "“Yardım etmek” fiili yönelme hâlli tamlayıcı ister: öğrencilere yardım etti.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-1-yn3m",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Öğretmen öğrenciye kitabı verdi.' cümlesinde dolaylı tümleç hangisidir?",
+    "options": [
+      "Öğretmen",
+      "verdi",
+      "kitabı",
+      "öğrenciye",
+      "hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-10-flxr",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Çok hızlı koştu.' cümlesinde 'çok hızlı' sözcük öbeği hangi ögedir?",
+    "options": [
+      "Özne",
+      "Nesne",
+      "Dolaylı tümleç",
+      "Zarf tümleci",
+      "Yüklem"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-11-m86a",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Kitabı ben okudum.' cümlesinde özne hangisidir?",
+    "options": [
+      "Kitabı",
+      "hiçbiri",
+      "okudum",
+      "kitabı ben",
+      "ben"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-12-mlyj",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Sabahleyin erkenden kalktı.' cümlesinde zarf tümleci hangisidir?",
+    "options": [
+      "hiçbiri",
+      "kalktı",
+      "o",
+      "Sabahleyin erkenden",
+      "erkenden kalktı"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-13-nfgq",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Birden fazla yargı bildiren cümleye ne ad verilir?",
+    "options": [
+      "Basit cümle",
+      "Ünlem cümlesi",
+      "Birleşik cümle",
+      "Soru cümlesi",
+      "Olumlu cümle"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-14-qypo",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?",
+    "options": [
+      "Düzenli çalışırsa başarılı olur.",
+      "Düzenli çalıştığı için başarılı oldu.",
+      "Düzenli çalışınca yoruldu.",
+      "Düzenli çalıştı ama başarılı olamadı.",
+      "Başarılı olmak için düzenli çalışıyor."
+    ],
+    "answer_index": 4,
+    "explanation": "“Başarılı olmak için” ifadesi, düzenli çalışmanın amacını bildirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-15-o5lg",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Geleceğini biliyordum.' cümlesi yapı bakımından nedir?",
+    "options": [
+      "Basit cümle",
+      "Sıralı cümle",
+      "Bağlı cümle",
+      "Girişik birleşik cümle",
+      "Şart cümlesi"
+    ],
+    "answer_index": 3,
+    "explanation": "'Geleceğini' fiilimsi ile kurulan bu cümle girişik birleşik cümledir; içinde bir yan cümlecik vardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-16-czeh",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi nesnel bir yargı içerir?",
+    "options": [
+      "Bu şehir çok güzeldir.",
+      "Bu film mutlaka izlenmelidir.",
+      "Bu roman yazarın en etkileyici eseridir.",
+      "En başarılı öğrenci odur.",
+      "Türkiye'nin başkenti Ankara'dır."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğruluğu kişisel görüşe bağlı olmayan, kanıtlanabilir yargılar nesneldir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-17-i5pv",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Ne kadar güzel bir manzara!' cümlesi anlamına göre nasıl bir cümledir?",
+    "options": [
+      "Olumlu cümle",
+      "Olumsuz cümle",
+      "Ünlem cümlesi",
+      "Soru cümlesi",
+      "Şart cümlesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-18-qguu",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Yüklemi çekimli bir fiil olan cümleye ne ad verilir?",
+    "options": [
+      "İsim cümlesi",
+      "Bağlı cümle",
+      "Devrik cümle",
+      "Fiil cümlesi",
+      "Sıralı cümle"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-19-ei7p",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Kitabı okudum ama anlamadım.' cümlesi yapı bakımından nedir?",
+    "options": [
+      "Basit cümle",
+      "Sıralı cümle",
+      "Bağlı cümle",
+      "Şart cümlesi",
+      "Girişik birleşik cümle"
+    ],
+    "answer_index": 2,
+    "explanation": "'Ama' bağlacıyla bağlanan iki yargı bağlı cümle oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-2-ptkg",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi devrik cümledir?",
+    "options": [
+      "Bugün hava güzeldi.",
+      "Bugün çok güzeldi hava.",
+      "Bugün hava çok güzeldi.",
+      "Hava bugün güzeldi.",
+      "Hava bugün çok güzeldi."
+    ],
+    "answer_index": 1,
+    "explanation": "Devrik cümlede yüklem cümlenin sonunda bulunmaz; bu cümlede “güzeldi” yüklemi sondan önce yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-20-lfhi",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Ona mektup yazdım.' cümlesinde 'ona' sözcüğü hangi ögedir?",
+    "options": [
+      "Özne",
+      "Nesne",
+      "Zarf tümleci",
+      "Dolaylı tümleç",
+      "Yüklem"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-21-o9fe",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Bir cümlede işin, oluşun yer, zaman, durum gibi yönlerini bildiren ögeye ne ad verilir?",
+    "options": [
+      "Özne",
+      "Zarf tümleci",
+      "Nesne",
+      "Dolaylı tümleç",
+      "Yüklem"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-22-loix",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gizli özne vardır?",
+    "options": [
+      "Ali yarın erkenden yola çıkacak.",
+      "Yarın erkenden yola çıkacağız.",
+      "Çocuklar bahçede oynuyor.",
+      "Öğretmen sınıfa girdi.",
+      "Babam bizi aradı."
+    ],
+    "answer_index": 1,
+    "explanation": "“Çıkacağız” fiilindeki kişi ekinden öznenin “biz” olduğu anlaşılır; özne cümlede açıkça yazılmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-23-sqbn",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Öğretmen soruları dikkatle çözdü.” cümlesinde belirtili nesne hangisidir?",
+    "options": [
+      "soruları",
+      "öğretmen",
+      "dikkatle",
+      "çözdü",
+      "öğretmen soruları"
+    ],
+    "answer_index": 0,
+    "explanation": "-ı belirtme hâl ekini alan “soruları”, yüklemin etkilediği belirtili nesnedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-24-ssiv",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi soru cümlesidir?",
+    "options": [
+      "Toplantı saat dokuzda başlayacakmış.",
+      "Toplantı saat dokuzda başlayacak.",
+      "Toplantı saat kaçta başlayacak?",
+      "Toplantının saati dokuzdu.",
+      "Toplantıya saat dokuzda katılalım."
+    ],
+    "answer_index": 2,
+    "explanation": "Soru anlamı taşıyan ve soru işaretiyle biten cümle soru cümlesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-25-e4oa",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Sınava girmedi.' cümlesi anlamına göre nasıl bir cümledir?",
+    "options": [
+      "Olumsuz cümle",
+      "Olumlu cümle",
+      "Soru cümlesi",
+      "Ünlem cümlesi",
+      "Şart cümlesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-26-if7n",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "options": [
+      "Hasta olduğu için okula gelemedi.",
+      "Okula gitmek için erkenden kalktı.",
+      "Okula giderse öğretmeniyle görüşecek.",
+      "Okula gitti ve arkadaşını gördü.",
+      "Okula gitmesine rağmen hasta oldu."
+    ],
+    "answer_index": 0,
+    "explanation": "“Hasta olduğu için” bölümü neden, “okula gelemedi” bölümü sonuçtur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-27-cdu3",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Bir cümlede bazı ögelerin bilinçli olarak söylenmemesine ne ad verilir?",
+    "options": [
+      "Eksiltili cümle",
+      "Devrik cümle",
+      "Kurallı cümle",
+      "Sıralı cümle",
+      "Bağlı cümle"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-28-mfs4",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Sabah erkenden annem bizi uyandırdı.” cümlesinin öznesi hangisidir?",
+    "options": [
+      "sabah erkenden",
+      "bizi",
+      "annem",
+      "uyandırdı",
+      "biz"
+    ],
+    "answer_index": 2,
+    "explanation": "Eylemi gerçekleştiren “annem” sözcüğü cümlenin öznesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-29-yscp",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Bir cümlede yüklemin bildirdiği hareketten etkilenen ögeye ne ad verilir?",
+    "options": [
+      "Özne",
+      "Yüklem",
+      "Zarf tümleci",
+      "Dolaylı tümleç",
+      "Nesne"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-3-lxbr",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisinde koşul anlamı vardır?",
+    "options": [
+      "Erken geldiği için birlikte çalıştık.",
+      "Erken gelirsen birlikte çalışırız.",
+      "Erken gelmek için yola çıktı.",
+      "Erken geldi ama çalışmadı.",
+      "Erken gelince herkes sevindi."
+    ],
+    "answer_index": 1,
+    "explanation": "-se/-sa ekiyle kurulan “gelirsen” sözcüğü koşul anlamı taşır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-30-d0js",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi girişik birleşik cümledir?",
+    "options": [
+      "Pikniği erteledik.",
+      "Pikniği erteledik; sonra eve döndük.",
+      "Yağmur yağdı, pikniği erteledik.",
+      "Yağmur yağınca pikniği erteledik.",
+      "Piknik için hazırlık yaptık."
+    ],
+    "answer_index": 3,
+    "explanation": "“Yağınca” zarf-fiilli yan cümle, temel cümle içinde görev yaptığı için girişik birleşik cümle oluşmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-31-rs7z",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Yüklemi cümle sonunda olan cümleye ne ad verilir?",
+    "options": [
+      "Devrik cümle",
+      "Kurallı (düz) cümle",
+      "Eksiltili cümle",
+      "Ünlem cümlesi",
+      "Şart cümlesi"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-32-aupo",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Yağmur yağdı, sokaklar ıslandı.' cümlesi yapı bakımından nedir?",
+    "options": [
+      "Sıralı cümle",
+      "Bağlı cümle",
+      "Basit cümle",
+      "Şart cümlesi",
+      "Girişik birleşik cümle"
+    ],
+    "answer_index": 0,
+    "explanation": "İki yargı virgülle sıralandığı için sıralı cümledir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-33-jjih",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Yarın gelecek misin?' cümlesi anlamına göre nasıl bir cümledir?",
+    "options": [
+      "Olumlu cümle",
+      "Olumsuz cümle",
+      "Soru cümlesi",
+      "Ünlem cümlesi",
+      "Emir cümlesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-34-ad25",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi öznel bir yargı içerir?",
+    "options": [
+      "Dünya Güneş'in çevresinde döner.",
+      "Türkiye'nin başkenti Ankara'dır.",
+      "Bu roman, yazarın en etkileyici eseridir.",
+      "Bir yıl on iki aydır.",
+      "Türk alfabesinde yirmi dokuz harf vardır."
+    ],
+    "answer_index": 2,
+    "explanation": "“En etkileyici” sözü kişisel değerlendirme içerdiği için yargı özneldir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-35-0ows",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Eğer çalışırsan başarırsın.' cümlesi hangi tür cümledir?",
+    "options": [
+      "Bağlı cümle",
+      "Sıralı cümle",
+      "Şart cümlesi",
+      "Basit cümle",
+      "Ünlem cümlesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-36-3j1j",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Kapı açıldı.' cümlesinde özne hangi türdendir?",
+    "options": [
+      "Gerçek özne",
+      "Sözde (edilgen) özne",
+      "Gizli özne",
+      "Ortak özne",
+      "Belirtili özne"
+    ],
+    "answer_index": 1,
+    "explanation": "Edilgen çatılı fiillerde özne, işi yapan değil işten etkilenen varlıktır; buna sözde özne denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-37-7j1d",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Yüklemi isim soylu bir sözcük veya söz öbeği olan cümleye ne ad verilir?",
+    "options": [
+      "İsim cümlesi",
+      "Fiil cümlesi",
+      "Devrik cümle",
+      "Bağlı cümle",
+      "Sıralı cümle"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-38-8v4r",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Çocuk bahçede top oynuyor.” cümlesinde belirtisiz nesne hangisidir?",
+    "options": [
+      "çocuk bahçede",
+      "çocuk",
+      "bahçede",
+      "oynuyor",
+      "top"
+    ],
+    "answer_index": 4,
+    "explanation": "Belirtme hâl eki almadan yüklemin etkilediği “top” sözcüğü belirtisiz nesnedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-39-in83",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi olumsuz cümledir?",
+    "options": [
+      "Çocuklar bahçede oynuyor.",
+      "Bu konuda hepimiz hemfikiriz.",
+      "Toplantı biraz önce başladı.",
+      "Bu öneriyi uygun bulmadım.",
+      "Bugün hava çok güzel."
+    ],
+    "answer_index": 3,
+    "explanation": "“Bulmadım” yükleminde -ma olumsuzluk eki bulunduğu için cümle olumsuzdur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-4-s4f3",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Tek yargı bildiren cümleye ne ad verilir?",
+    "options": [
+      "Basit cümle",
+      "Bağlı cümle",
+      "Sıralı cümle",
+      "Birleşik cümle",
+      "Şart cümlesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-40-rx9c",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi fiil cümlesidir?",
+    "options": [
+      "Hava bugün oldukça soğuktu.",
+      "Onun amacı başarılı olmaktı.",
+      "Bu kitap çok yararlı.",
+      "Sınıf oldukça sessizdi.",
+      "Misafirler biraz önce ayrıldı."
+    ],
+    "answer_index": 4,
+    "explanation": "Yüklemi çekimli fiil olan “ayrıldı” bulunduğu için bu cümle fiil cümlesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-41-dk4v",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Kitapları rafa yerleştirdi.” cümlesinde dolaylı tümleç hangisidir?",
+    "options": [
+      "kitapları rafa",
+      "kitapları",
+      "yerleştirdi",
+      "o",
+      "rafa"
+    ],
+    "answer_index": 4,
+    "explanation": "-a yönelme hâl ekini alan “rafa”, dolaylı tümleçtir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-42-vc8h",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi olumlu cümledir?",
+    "options": [
+      "Bu öneriyi uygun bulmadım.",
+      "Soruları henüz çözmedi.",
+      "Toplantıya katılmayacak.",
+      "Kimse bizi aramadı.",
+      "Bu konuda hepimiz hemfikiriz."
+    ],
+    "answer_index": 4,
+    "explanation": "Yükleminde olumsuzluk eki ya da olumsuz anlam bulunmayan cümle olumlu cümledir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-43-atb6",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki sözcüklerden hangisi yalnızca çekim eki almıştır?",
+    "options": [
+      "gözlük",
+      "başlık",
+      "gözlükçü",
+      "hanımeli",
+      "kitaplar"
+    ],
+    "answer_index": 4,
+    "explanation": "'-lar' çokluk eki bir çekim ekidir, sözcüğün anlamını/türünü değiştirmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-44-n1af",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki sözcüklerden hangisi yapım eki almıştır?",
+    "options": [
+      "kitap-lar",
+      "kalem-i",
+      "ev-de",
+      "göz-lük",
+      "masa-dan"
+    ],
+    "answer_index": 3,
+    "explanation": "'-lük' eki 'göz' sözcüğüne yeni bir anlam (gözlük) katan bir yapım ekidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-45-41sl",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki sözcüklerden hangisi yapım eki almıştır?",
+    "options": [
+      "evler",
+      "okuldan",
+      "kalemim",
+      "gözlükçü",
+      "defteri"
+    ],
+    "answer_index": 3,
+    "explanation": "“Gözlükçü” sözcüğünde -cü yapım eki yeni bir anlam ve görev kazandırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-46-ua6e",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Sınıfta oturuyor.' cümlesinde 'sınıfta' sözcüğündeki '-ta' eki hangi hâl ekidir?",
+    "options": [
+      "Bulunma hâli",
+      "Yönelme hâli",
+      "Belirtme hâli",
+      "Ayrılma hâli",
+      "İlgi hâli"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-47-hcl6",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Kalemle yazdı.' cümlesinde 'kalemle' sözcüğündeki '-le' eki hangi görevdedir?",
+    "options": [
+      "Hâl eki",
+      "Çokluk eki",
+      "İyelik eki",
+      "Vasıta eki (edat görevinde)",
+      "Yapım eki"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-48-3xbw",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Okuldan” sözcüğündeki -dan eki aşağıdakilerden hangisidir?",
+    "options": [
+      "Bulunma hâl eki",
+      "Belirtme hâl eki",
+      "Yönelme hâl eki",
+      "Ayrılma hâl eki",
+      "Yapım eki"
+    ],
+    "answer_index": 3,
+    "explanation": "-dan/-den eki, bir yerden veya durumdan ayrılmayı bildiren ayrılma hâl ekidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-49-iiri",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Kitabı okudum.' cümlesinde 'kitabı' sözcüğündeki '-ı' eki hangi hâl ekidir?",
+    "options": [
+      "Belirtme (yükleme) hâli",
+      "Yönelme hâli",
+      "Bulunma hâli",
+      "Ayrılma hâli",
+      "İlgi hâli"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-5-zuic",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Çocuklar bahçede neşeyle oynuyordu.” cümlesinin yüklemi hangisidir?",
+    "options": [
+      "neşeyle",
+      "oynuyordu",
+      "bahçede",
+      "çocuklar",
+      "çocuklar bahçede"
+    ],
+    "answer_index": 1,
+    "explanation": "Cümlede yargıyı bildiren çekimli fiil “oynuyordu” yüklemdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-50-i2p2",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Evden çıktı.' cümlesinde 'evden' sözcüğündeki '-den' eki hangi hâl ekidir?",
+    "options": [
+      "Belirtme hâli",
+      "Yönelme hâli",
+      "Bulunma hâli",
+      "İlgi hâli",
+      "Ayrılma hâli"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-51-4pzp",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Okula gidiyorum.' cümlesinde 'okula' sözcüğündeki '-a' eki hangi hâl ekidir?",
+    "options": [
+      "Belirtme hâli",
+      "Ayrılma hâli",
+      "Bulunma hâli",
+      "Yönelme hâli",
+      "İlgi hâli"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-52-37qd",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki sözcüklerden hangisi hem yapım hem de çekim eki almıştır?",
+    "options": [
+      "evler",
+      "kalem",
+      "kitapçılarımızdan",
+      "başkent",
+      "güzel"
+    ],
+    "answer_index": 2,
+    "explanation": "“Kitapçı”daki -çı yapım; -lar, -ımız ve -dan ise çekim ekidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-53-bfg4",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Evler” sözcüğündeki -ler eki aşağıdakilerden hangisidir?",
+    "options": [
+      "Yapım eki",
+      "İyelik eki",
+      "Hâl eki",
+      "Kip eki",
+      "Çoğul eki"
+    ],
+    "answer_index": 4,
+    "explanation": "-ler/-lar eki, varlıkların birden çok olduğunu bildiren çoğul ekidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-6-x4ti",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "'Bunu bilmiyordum, oysa herkes biliyordu.' cümlesi yapı bakımından nedir?",
+    "options": [
+      "Basit cümle",
+      "Sıralı cümle",
+      "Bağlı cümle",
+      "Şart cümlesi",
+      "Ünlem cümlesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-7-tp39",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Yüklemi cümle sonunda olmayan cümleye ne ad verilir?",
+    "options": [
+      "Kurallı cümle",
+      "Sıralı cümle",
+      "Basit cümle",
+      "Bağlı cümle",
+      "Devrik cümle"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-8-gcrs",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "Aşağıdaki cümlelerin hangisi isim cümlesidir?",
+    "options": [
+      "Hava bugün oldukça soğuktu.",
+      "Misafirler biraz önce ayrıldı.",
+      "Çocuklar bahçede oynuyor.",
+      "Yarın erkenden yola çıkacağız.",
+      "Öğrenci soruyu çözdü."
+    ],
+    "answer_index": 0,
+    "explanation": "Yüklemi isim soylu bir sözcük olan “soğuktu” olduğu için bu cümle isim cümlesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-cumle-bilgisi-2wxpb-mt9118cn-9-eiuz",
+    "topic_id": "t-cumle-bilgisi-2wxpb",
+    "prompt": "“Dün seni parkta gördüm.” cümlesinde zarf tümleci hangisidir?",
+    "options": [
+      "parkta",
+      "dün",
+      "seni",
+      "gördüm",
+      "ben"
+    ],
+    "answer_index": 1,
+    "explanation": "“Dün” sözcüğü eylemin zamanını bildirdiği için zarf tümlecidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:11.917616+00:00",
+    "updated_at": "2026-08-25T18:57:11.917616+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-0-uik0",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Fazladan ödemeye sebep olan gerçek dışı beyan fiilinin tekrarında hangi sonuç doğar?",
+    "options": [
+      "Öğrenci sayısı otomatik olarak azaltılır.",
+      "Yalnız reklam faaliyeti altı ay durdurulur.",
+      "Kurum müdürü belediyeye atanır.",
+      "Kurum açma izinleri iptal edilir.",
+      "Kurumun su ve elektrik tarifesi artırılır."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 12 nci maddesi ile Ek Madde 1 hükmüne göre, eğitim ve öğretim hizmetini sunan veya yararlananların gerçek dışı beyanda bulunmak suretiyle fazladan ödemeye sebebiyet vermeleri fiilinin tekrarı hâlinde kurum açma izinleri iptal edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-1-bkxe",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre “denetim, reklâm ve ilânlar” ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Kurumlar reklam ve ilanlarında gerçeğe aykırı beyanlarda bulunamazlar.",
+      "Kurumlar ve bu kurumlarda görevli personel, Bakanlığın denetimi ve gözetimi altındadır.",
+      "Kurumlar, ancak amaçlarına uygun tanıtıcı mahiyette reklam ve ilan verebilirler.",
+      "Eğitim-öğretim ve yönetim bakımından yapılan denetimlerde, kurumun özel yönetmeliği de dikkate alınır.",
+      "Kurumlar televizyonda reklam ve ilan yapabilirler."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Kurumlar televizyonda reklam ve ilan yapabilirler.\". İlgili hüküm: \"Bu kurumlar reklâm ve ilânlarında gerçeğe aykırı beyanlarda bulunamazlar ve televizyonda reklâm ve ilân yapamazlar.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-10-ujfh",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanun’a göre kurumlar hangi mecrada reklam ve ilan veremez?",
+    "options": [
+      "İnternet sitesinde",
+      "Billboardda",
+      "Broşürde",
+      "Televizyonda",
+      "Gazetede"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Televizyonda\". İlgili hüküm: \"Bu kurumlar reklâm ve ilânlarında gerçeğe aykırı beyanlarda bulunamazlar ve televizyonda reklâm ve ilân yapamazlar.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-11-p0vt",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Kurumların reklam ve ilan verme serbestisine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Kurumlar ancak amaçlarına uygun tanıtıcı mahiyette reklam ve ilan verebilir.",
+      "Kurumlar reklam veremez.",
+      "Kurumlar yalnızca Bakanlık onayıyla her tür reklamı verebilir.",
+      "Kurumlar her türlü reklamı sınırsızca verebilir.",
+      "Kurumlar yalnızca sosyal medyada reklam verebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Kurumlar ancak amaçlarına uygun tanıtıcı mahiyette reklam ve ilan verebilir.\". İlgili hüküm: \"Kurumlar, ancak amaçlarına uygun tanıtıcı mahiyette reklâm ve ilân verebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-12-8nla",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Özel öğretim kurumları faaliyetlerini sadece ne için düzenleyemezler?",
+    "options": [
+      "Kazanç sağlamak",
+      "Yatırım yapmak",
+      "Eğitim kalitesini yükseltmek",
+      "İstihdam sağlamak",
+      "Hizmet üretmek"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Kazanç sağlamak\". İlgili hüküm: \"Kurumlar, faaliyetlerini sadece kazanç sağlamak için düzenleyemezler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-13-3wg0",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize Sanayi Bölgeleri (OSB) içinde açılan özel mesleki ve teknik okullarına verilen eğitim desteği tutarı kimler tarafından belirlenir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Sadece Maliye Bakanlığı",
+      "OSB Yönetimi",
+      "Maliye Bakanlığı ve müştereken Millî Eğitim Bakanlığı",
+      "Millî Eğitim Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Maliye Bakanlığı ve müştereken Millî Eğitim Bakanlığı\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-14-wp5v",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize Sanayi Bölgeleri (OSB) dışında açılan meslek liselerine eğitim desteği verilebilmesi için kimin kararı gereklidir?",
+    "options": [
+      "TBMM",
+      "Valilik",
+      "Cumhurbaşkanı",
+      "Millî Eğitim Bakanı",
+      "Hazine ve Maliye Bakanı"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Cumhurbaşkanı\". İlgili hüküm: \"Cumhurbaşkanı kararıyla, bu Kanun kapsamında organize sanayi bölgeleri dışında açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı öğrenciler için de altıncı fıkradaki usul ve esaslar çerçevesinde eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-15-dycb",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Gerçek dışı beyanla fazladan eğitim desteği alanlardan, bu tutar hangi kanun hükümlerine göre geri alınır?",
+    "options": [
+      "Kabahatler Kanunu",
+      "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "İcra İflas Kanunu",
+      "Borçlar Kanunu",
+      "Türk Ceza Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-16-w8b1",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Okulların su, doğal gaz ve elektrik ücretlendirilmesi.......... okullara uygulanan tarife üzerinden yapılır.",
+    "options": [
+      "Özel",
+      "Resmî",
+      "Ticari",
+      "Sanayi",
+      "Konut"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Resmî\". İlgili hüküm: \"Okulların su, doğal gaz ve elektrik ücretlendirilmesi, resmî okullara uygulanan tarife üzerinden uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-17-you9",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Fazladan (haksız) eğitim desteği ödemesine sebebiyet verenlerden, bu tutarlar 6183 sayılı.......... Hakkında Kanun hükümlerine göre tahsil edilir.",
+    "options": [
+      "Vergi Usul",
+      "İcra ve İflas",
+      "Borçlar",
+      "Ceza Muhakemesi",
+      "Amme Alacaklarının Tahsil Usulü"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Amme Alacaklarının Tahsil Usulü\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-18-8dw4",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "OSB dışındaki mesleki ve teknik okullarına eğitim desteği verilmesine.......... karar verir.",
+    "options": [
+      "Valilik",
+      "Bakanlar Kurulu",
+      "Bakanlık",
+      "Cumhurbaşkanı",
+      "TBMM"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Cumhurbaşkanı\". İlgili hüküm: \"Cumhurbaşkanı kararıyla, bu Kanun kapsamında organize sanayi bölgeleri dışında açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı öğrenciler için de altıncı fıkradaki usul ve esaslar çerçevesinde eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-19-yp3q",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Kurumların gelir sağlamasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Her türlü faaliyeti yalnız kârı en üst düzeye çıkarmak için düzenlemeleri zorunludur.",
+      "Faaliyetlerini yalnız kazanç sağlamak için düzenleyemezler; eğitimin kalitesini yükseltecek yatırım ve hizmetler için gelir sağlayabilirler.",
+      "Gelir sağlamak için eğitim-öğretim faaliyetlerini tamamen durdurmaları gerekir.",
+      "Gelir sağlamaları yalnız belediye bütçesinden pay almalarına bağlıdır.",
+      "Gelir sağlamaları hiçbir koşulda mümkün değildir."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Faaliyetlerini yalnız kazanç sağlamak için düzenleyemezler; eğitimin kalitesini yükseltecek yatırım ve hizmetler için gelir sağlayabilirler.\". İlgili hüküm: \"Ancak, Türk Millî Eğitiminin amaçları doğrultusunda eğitimin kalitesini yükseltmek, gelişmelerine fırsat ve imkân verecek yatırımlar ve hizmetler yapmak üzere gelir sağlayabilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-2-lkra",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Özel öğretim kurumları reklam ve ilanlarında aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "Gazeteye ilan vermek",
+      "Broşür dağıtmak",
+      "Kurumun amacını tanıtmak",
+      "Gerçeğe aykırı beyanda bulunmak ve TV’de reklam yapmak",
+      "Sosyal etkinlikleri duyurmak"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Gerçeğe aykırı beyanda bulunmak ve TV’de reklam yapmak\". İlgili hüküm: \"Bu kurumlar reklâm ve ilânlarında gerçeğe aykırı beyanlarda bulunamazlar ve televizyonda reklâm ve ilân yapamazlar.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-20-sivl",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Aşağıdaki ücretlendirme–tarife eşleştirmelerinden hangisi Kanuna uygundur?",
+    "options": [
+      "Okulların su, doğal gaz ve elektrik ücretleri – resmî okullara uygulanan tarife",
+      "Okulların su, doğal gaz ve elektrik ücretleri – kurucunun belirlediği tarife",
+      "Okulların su, doğal gaz ve elektrik ücretleri – serbest piyasa tarifesi",
+      "Okulların su, doğal gaz ve elektrik ücretleri – belediyece her ay belirlenen tarife",
+      "Okulların su, doğal gaz ve elektrik ücretleri – yabancı okul tarifesi"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Okulların su, doğal gaz ve elektrik ücretleri – resmî okullara uygulanan tarife\". İlgili hüküm: \"Okulların su, doğal gaz ve elektrik ücretlendirilmesi, resmî okullara uygulanan tarife üzerinden uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-21-fbyc",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Çeşitli kursların mal ve hizmet üretimine ilişkin olarak; I. Öğretim faaliyetleri yanında bedeli karşılığı üretimde bulunabilirler. II. Üretim, programlarının içeriğine uygun olmalıdır. III. Eğitim personeli ve kursiyerlerin katılımı söz konusu olabilir. ifadelerinden hangileri doğrudur?",
+    "options": [
+      "I ve III",
+      "I, II ve III",
+      "II ve III",
+      "I ve II",
+      "Yalnız II"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"I, II ve III\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-22-21f6",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize sanayi bölgelerindeki mesleki ve teknik eğitim okulları için öğrenci başına destek üst sınırı nedir?",
+    "options": [
+      "Kurumun talep ettiği sınırsız bir destek tutarı",
+      "Öğrencinin okul türüne göre Devlete maliyetinin tam iki katı",
+      "Resmî okulda aynı türde okuyan öğrencinin Devlete maliyetinin bir buçuk katı",
+      "Her öğrenci için brüt asgari ücretin on katı",
+      "Öğrencinin okul türüne göre Devlete maliyetinin yalnız yarısı"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Resmî okulda aynı türde okuyan öğrencinin Devlete maliyetinin bir buçuk katı\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-23-agoh",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize sanayi bölgesindeki eğitim desteği tutarını hangi makamlar müştereken belirler?",
+    "options": [
+      "Bakanlık ile belediye başkanlığı",
+      "Maliye Bakanlığı ile Bakanlık",
+      "Yükseköğretim Kurulu ile Bakanlık",
+      "Ticaret Bakanlığı ile Sanayi ve Teknoloji Bakanlığı",
+      "Valilik ile kaymakamlık"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Maliye Bakanlığı ile Bakanlık\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-24-mo82",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize sanayi bölgesi dışındaki ilgili okullar için eğitim desteğine ilişkin hangi ifade doğru değildir?",
+    "options": [
+      "Cumhurbaşkanı kararıyla destek verilebilir.",
+      "Destek, Türkiye Cumhuriyeti vatandaşı öğrenciler için öngörülmüştür.",
+      "Bu düzenleme organize sanayi bölgesi dışındaki okulları kapsar.",
+      "Destek, Kanunda belirtilen usul ve esaslar çerçevesinde verilebilir.",
+      "Cumhurbaşkanı kararıyla dahi eğitim ve öğretim desteği verilemez."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Cumhurbaşkanı kararıyla dahi eğitim ve öğretim desteği verilemez.\". İlgili hüküm: \"Cumhurbaşkanı kararıyla, bu Kanun kapsamında organize sanayi bölgeleri dışında açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı öğrenciler için de altıncı fıkradaki usul ve esaslar çerçevesinde eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-25-zpqm",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Eğitim ve öğretim hizmetini sunan veya hizmetten yararlananların gerçek dışı beyanla fazladan ödeme almasına sebep olduğu tespit edilmiştir. Bu tutarlar için aşağıdaki uygulamalardan hangisi doğrudur?",
+    "options": [
+      "Ödeme tarihinden itibaren hesaplanacak gecikme zammıyla birlikte, tebligat üzerine bir ay içinde ödenmesi istenir.",
+      "Tutarın yalnız kurum müdüründen sözlü olarak talep edilmesi yeterlidir.",
+      "Tutarın gecikme zammı uygulanmadan üç yıl sonra tahsil edilmesi istenir.",
+      "Tutarın yalnız gelecek eğitim yılında mahsup edilmesi istenir.",
+      "Tutarın geri alınmasından tamamen vazgeçilir."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Ödeme tarihinden itibaren hesaplanacak gecikme zammıyla birlikte, tebligat üzerine bir ay içinde ödenmesi istenir.\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-26-veps",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Gerçek dışı beyan nedeniyle istenen tutar süresinde ödenmezse hangi ifade yanlıştır?",
+    "options": [
+      "Tutarlar Maliye Bakanlığına bağlı vergi daireleri tarafından takip ve tahsil edilir.",
+      "Gerçek dışı beyanla fazladan ödeme yapılmasına sebep olunması yaptırıma bağlanmıştır.",
+      "Tutar, hiçbir vergi dairesi işlemi yapılmadan yalnız Bakanlıkça takip ve tahsil edilir.",
+      "Bir aylık ödeme süresinin geçirilmesi takip ve tahsil sürecini doğurur.",
+      "Takip ve tahsil, 6183 sayılı Kanun hükümlerine göre yapılır."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Tutar, hiçbir vergi dairesi işlemi yapılmadan yalnız Bakanlıkça takip ve tahsil edilir.\". İlgili hüküm: \"Kurumlar, faaliyetlerini sadece kazanç sağlamak için düzenleyemezler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-27-r599",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Eğitim ve öğretim desteği verilme kriterleri, destek verilecek alanlara ilişkin kurallar ve diğer usul ve esaslar hangi makamların müştereken hazırlayacağı yönetmelikle belirlenir?",
+    "options": [
+      "Yükseköğretim Kurulu ile üniversitelerin",
+      "Ticaret odaları ile meslek kuruluşlarının",
+      "Valilikler ile kaymakamlıkların",
+      "Maliye Bakanlığı ile Bakanlığın",
+      "Bakanlık ile belediyelerin"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Maliye Bakanlığı ile Bakanlığın\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-28-uh8k",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Organize sanayi bölgesi içindeki ve dışındaki mesleki ve teknik eğitim okullarına verilebilecek destek bakımından doğru karşılaştırma aşağıdakilerden hangisidir?",
+    "options": [
+      "Bölge içindeki desteğin yasak, bölge dışındaki desteğin ise bütün kurumlar için zorunlu olması",
+      "Her iki desteğin öğrenci vatandaşlığına bakılmadan sınırsız olarak sağlanması",
+      "Bölge içindeki destek Kanunda belirtilen koşullarla verilebilir; bölge dışındaki destek ise Cumhurbaşkanı kararıyla aynı usul ve esaslar çerçevesinde verilebilir.",
+      "Her iki destek türünün de yalnız belediye meclisi kararıyla ve aynı tutarda verilmesi",
+      "Bölge içindeki desteğin yalnız valilikçe, bölge dışındaki desteğin yalnız kaymakamlıkça verilmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Bölge içindeki destek Kanunda belirtilen koşullarla verilebilir; bölge dışındaki destek ise Cumhurbaşkanı kararıyla aynı usul ve esaslar çerçevesinde verilebilir.\". İlgili hüküm: \"Cumhurbaşkanı kararıyla, bu Kanun kapsamında organize sanayi bölgeleri dışında açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı öğrenciler için de altıncı fıkradaki usul ve esaslar çerçevesinde eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-29-6h6o",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre mesleki ve teknik liselerde atölye ve laboratuvar üretiminden elde edilen gelir nerede kullanılır?",
+    "options": [
+      "Okulun eğitim, öğretim ve yönetim hizmetlerinde",
+      "Yalnız kurucunun kişisel harcamalarında",
+      "Öğrencilere zorunlu borç verilmesinde",
+      "Belediyenin genel bütçesinde",
+      "Yabancı okul binalarının yapımında"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 12 maddesi uyarınca doğru cevap: \"Okulun eğitim, öğretim ve yönetim hizmetlerinde\". İlgili hüküm: \"Bu Kanun kapsamında organize sanayi bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti vatandaşı her bir öğrenci için, resmî okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından müştereken belirlenen tutarda, Bakanlık bütçesine bu amaçla konulan ödenekten eğitim ve öğretim desteği yapılabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-3-kmie",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Kurumların denetim ve gözetimine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Eğitim-öğretim denetiminde kurumun özel yönetmeliği dikkate alınır.",
+      "Kurumlarda görevli personel Bakanlığın denetimi ve gözetimi altındadır.",
+      "Kurumlar ve personel yalnız belediyenin denetim ve gözetimi altındadır.",
+      "Yönetim bakımından yapılan denetimde kurumun özel yönetmeliği dikkate alınır.",
+      "Kurumlar Bakanlığın denetimi ve gözetimi altındadır."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Kurumlar ve personel yalnız belediyenin denetim ve gözetimi altındadır.\". İlgili hüküm: \"Kurumlar ve bu kurumlarda görevli personel, Bakanlığın denetimi ve gözetimi altındadır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-30-lcu0",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre, bir okula alınabilecek yabancı uyruklu öğrenci sayısı, o okulda okuyan Türkiye Cumhuriyeti uyruklu öğrenci sayısının yüzde kaçını aşamaz?",
+    "options": [
+      "10",
+      "20",
+      "60",
+      "40",
+      "30"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"30\". İlgili hüküm: \"Bir okula alınabilecek yabancı uyruklu öğrenci sayısı, o okulda okuyan Türkiye Cumhuriyeti uyruklu öğrenci sayısının yüzde otuzunu aşamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-31-lh6j",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Ücretsiz okutmada öncelik verilecek gruplar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Gazi çocukları",
+      "Kurucunun yakınları",
+      "Harp veya vazife malulü çocukları",
+      "Haklarında korunma kararı verilen çocuklar",
+      "Şehit çocukları"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Kurucunun yakınları\". İlgili hüküm: \"Ücretsiz okutmada; 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu, 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlar, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 56 ncı, mülga 45 inci ve 64 üncü maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Kanunun 47 nci maddesi kapsamında harp veya vazife malulü sayılanların ilk ve orta öğretim çağındaki çocukları ile haklarında korunma, bakım veya barınma kararı verilen çocuklara öncelik verilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-32-p2pp",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Öğrenim ücreti ve diğer ücretlerin tespiti, tayini ve tahsili ne ile belirlenir?",
+    "options": [
+      "Valilik kararı",
+      "Okul Aile Birliği kararı",
+      "Öğretmenler kurulu kararı",
+      "Serbest piyasa koşulları",
+      "Yönetmelik"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Yönetmelik\". İlgili hüküm: \"Öğrenim ücreti ve diğer ücretler, kurumlarca her yıl tespit edilerek ocak ayından itibaren en geç mayıs ayında ilân edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-33-bljt",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Ücretsiz okutulacak öğrencilerin seçimi ve oranları ne ile düzenlenir?",
+    "options": [
+      "Kurul Kararı",
+      "Yönerge",
+      "Yönetmelik",
+      "Genelge",
+      "Kanun"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Yönetmelik\". İlgili hüküm: \"Kurumlar, öğrenim gören öğrenci sayısının yüzde üçünden az olmamak üzere ücretsiz öğrenci okutmakla yükümlüdür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-34-fons",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Özel öğretim kurumları öğrencilere burs verebilir mi?",
+    "options": [
+      "Evet, öğrenim bursu verebilirler.",
+      "Hayır, yasaktır.",
+      "Sadece nakit yardımı yapabilirler.",
+      "Evet, sadece başarılı öğrencilere verebilir.",
+      "Sadece yemek bursu verebilirler."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Evet, öğrenim bursu verebilirler.\". İlgili hüküm: \"Kurumlar ayrıca, öğrenim bursu verebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-35-nt26",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Ücretsiz okutulacak öğrencilerin seçiminde öncelik verilen gruplardan biri hangisidir?",
+    "options": [
+      "Sadece yükseköğretimde öğrenim gören öğrenciler ile mezunlar",
+      "Yalnız yabancı uyruklu, yatılı ve ücretli öğrenciler",
+      "Yalnız kurum çalışanlarının yükseköğrenim çağındaki çocukları ve yakınları",
+      "Yalnız spor kulübüne kayıtlı öğrenciler ve velileri",
+      "Harp veya vazife malulü sayılanların ilk ve ortaöğretim çağındaki çocukları"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Harp veya vazife malulü sayılanların ilk ve ortaöğretim çağındaki çocukları\". İlgili hüküm: \"Ücretsiz okutmada; 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu, 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlar, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 56 ncı, mülga 45 inci ve 64 üncü maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Kanunun 47 nci maddesi kapsamında harp veya vazife malulü sayılanların ilk ve orta öğretim çağındaki çocukları ile haklarında korunma, bakım veya barınma kararı verilen çocuklara öncelik verilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-36-et1q",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Kurumların öğrenim bursu vermesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Ücretsiz öğrenci okutma yükümlülüğü burs verme imkânını ortadan kaldırmaz.",
+      "Kurumlar, hiçbir koşulda öğrenim bursu veremez.",
+      "Burs verilmesine ilişkin düzenleme Kanunda yer alır.",
+      "Kurumlar ayrıca öğrenim bursu verebilir.",
+      "Öğrenim bursu verilmesine ilişkin usul ve esaslar yönetmelikle belirlenir."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Kurumlar, hiçbir koşulda öğrenim bursu veremez.\". İlgili hüküm: \"Kurumlar ayrıca, öğrenim bursu verebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-37-5s5z",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Bir okulda yüz Türkiye Cumhuriyeti uyruklu öğrenci öğrenim görmektedir. Kanuna göre aşağıdaki yabancı uyruklu öğrenci sayılarından hangisi kabul edilemez?",
+    "options": [
+      "Otuz",
+      "Yirmi",
+      "Yirmi sekiz",
+      "Yirmi beş",
+      "Otuz bir"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Otuz bir\". İlgili hüküm: \"Bir okula alınabilecek yabancı uyruklu öğrenci sayısı, o okulda okuyan Türkiye Cumhuriyeti uyruklu öğrenci sayısının yüzde otuzunu aşamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-38-rtu3",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurumlar, öğrenim gören öğrenci sayısının.......... az olmamak üzere ücretsiz öğrenci okutmakla yükümlüdür; Bakanlık bu oranı.......... kadar artırabilir.",
+    "options": [
+      "yüzde birinden/yüzde beşe",
+      "yüzde yirmisinden/yüzde elliye",
+      "yüzde üçünden/yüzde ona",
+      "yüzde beşinden/yüzde yirmiye",
+      "yüzde onundan/yüzde yirmi beşe"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"yüzde üçünden/yüzde ona\". İlgili hüküm: \"Kurumlar, öğrenim gören öğrenci sayısının yüzde üçünden az olmamak üzere ücretsiz öğrenci okutmakla yükümlüdür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-39-gd9e",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre öğrenim ücreti ve diğer ücretler en geç hangi ayda ilân edilir?",
+    "options": [
+      "Her ders yılı bittikten sonra aralık ayında",
+      "Yalnız eylül ayında",
+      "Yalnız haziran ayında",
+      "Sadece kayıt günü",
+      "Ocak ayından itibaren en geç mayıs ayında"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Ocak ayından itibaren en geç mayıs ayında\". İlgili hüküm: \"Öğrenim ücreti ve diğer ücretler, kurumlarca her yıl tespit edilerek ocak ayından itibaren en geç mayıs ayında ilân edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-4-9r9b",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Kurumların reklâm ve ilân faaliyetlerinde aşağıdakilerden hangisine izin verilmez?",
+    "options": [
+      "Kurumun eğitim faaliyetinin tanıtılmasına",
+      "Kanuna uygun bilgilendirici ilân yapılmasına",
+      "Amaçlarına uygun tanıtıcı nitelikte reklâm verilmesine",
+      "Özel yönetmelik dikkate alınarak denetim yapılmasına",
+      "Televizyonda reklâm ve ilân yapılmasına"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Televizyonda reklâm ve ilân yapılmasına\". İlgili hüküm: \"Bu kurumlar reklâm ve ilânlarında gerçeğe aykırı beyanlarda bulunamazlar ve televizyonda reklâm ve ilân yapamazlar.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-40-b2hk",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanun’a göre kurumlarca tespit edilen öğrenim ücreti ve diğer ücretler en geç hangi ay ilan edilir?",
+    "options": [
+      "Eylül",
+      "Ocak",
+      "Aralık",
+      "Mayıs",
+      "Mart"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Mayıs\". İlgili hüküm: \"Öğrenim ücreti ve diğer ücretler, kurumlarca her yıl tespit edilerek ocak ayından itibaren en geç mayıs ayında ilân edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-41-dwv0",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanun’a göre Bakanlık, kurumların ücretsiz okutmakla yükümlü olduğu öğrenci oranını en fazla yüzde kaça kadar artırabilir?",
+    "options": [
+      "Yüzde 15",
+      "Yüzde 5",
+      "Yüzde 20",
+      "Yüzde 8",
+      "Yüzde 10"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 13 maddesi uyarınca doğru cevap: \"Yüzde 10\". İlgili hüküm: \"Kurumlar, öğrenim gören öğrenci sayısının yüzde üçünden az olmamak üzere ücretsiz öğrenci okutmakla yükümlüdür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-42-iwzm",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanunda hüküm bulunmayan hallerde hangi mevzuat hükümleri uygulanır?",
+    "options": [
+      "Vakıflar Kanunu",
+      "Dernekler Kanunu",
+      "Resmî öğretim kurumlarında uygulanan mevzuat",
+      "Ticaret Kanunu",
+      "Borçlar Kanunu"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 14 maddesi uyarınca doğru cevap: \"Resmî öğretim kurumlarında uygulanan mevzuat\". İlgili hüküm: \"Bu Kanunda hüküm bulunmayan hususlarda, resmî öğretim kurumlarında uygulanan mevzuat hükümleri uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-43-nwkw",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanun’da hüküm bulunmayan hususlarda hangi mevzuat hükümleri uygulanır?",
+    "options": [
+      "Özel hukuk mevzuatı",
+      "Resmî öğretim kurumlarında uygulanan mevzuat",
+      "Ticaret mevzuatı",
+      "Belediye mevzuatı",
+      "Yükseköğretim mevzuatı"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 14 üncü maddesine göre Kanunda hüküm bulunmayan hususlarda resmî öğretim kurumlarında uygulanan mevzuat hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-5-ulx8",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’nun 11 inci maddesine göre kurumlar ve bu kurumlarda görevli personel hangi makamın denetimi ve gözetimi altındadır?",
+    "options": [
+      "Bakanlığın",
+      "İlçe kaymakamlığının",
+      "Valiliğin",
+      "Belediyenin",
+      "Ticaret odasının"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Bakanlığın\". İlgili hüküm: \"Kurumlar ve bu kurumlarda görevli personel, Bakanlığın denetimi ve gözetimi altındadır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-6-nu2v",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre Bakanlığın eğitim-öğretim ve yönetim bakımından yaptığı denetimlerde kurumun neyi de ayrıca dikkate alınır?",
+    "options": [
+      "Kurucunun mal varlığı",
+      "Yıllık cirosu",
+      "Velilerin görüşleri",
+      "Özel yönetmeliği",
+      "Belediyenin raporları"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Özel yönetmeliği\". İlgili hüküm: \"Eğitim-öğretim ve yönetim bakımından yapılan denetimlerde, kurumun özel yönetmeliği de dikkate alınır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-7-bkyl",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "Özel öğretim kurumları .......... reklam ve ilan veremezler.",
+    "options": [
+      "Gazete",
+      "Televizyon",
+      "Sosyal medya",
+      "Radyo",
+      "İnternet"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Televizyon\". İlgili hüküm: \"Eğitim-öğretim ve yönetim bakımından yapılan denetimlerde, kurumun özel yönetmeliği de dikkate alınır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-8-x833",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre özel öğretim kurumlarının vereceği reklam ve ilanlarla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Reklam ve ilanlarında gerçeğe aykırı beyanlarda bulunamazlar.",
+      "Eğitim-öğretim ve yönetim bakımından yapılan denetimlerde, kurumun özel yönetmeliği de dikkate alınır.",
+      "Televizyonda reklam ve ilan veremezler.",
+      "Reklâm ve ilanın tanıtıcı mahiyette olduğuna Bakanlık karar verir.",
+      "Yalnız tanıtıcı mahiyette reklam ve ilan verebilirler."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Reklâm ve ilanın tanıtıcı mahiyette olduğuna Bakanlık karar verir.\". İlgili hüküm: \"Kurumlar, ancak amaçlarına uygun tanıtıcı mahiyette reklâm ve ilân verebilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14-mtn6e0ei-9-iu7l",
+    "topic_id": "t-denetim-reklam-mali-hukumler-ve-ucretler-ypj14",
+    "prompt": "5580 sayılı Kanun’a göre kurumlar ve bu kurumlarda görevli personel kimin denetimi ve gözetimi altındadır?",
+    "options": [
+      "Bakanlığın",
+      "Belediyenin",
+      "İl Millî Eğitim Müdürlüğünün münhasıran",
+      "Valiliğin",
+      "Kurucunun"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 11 maddesi uyarınca doğru cevap: \"Bakanlığın\". İlgili hüküm: \"Kurumlar ve bu kurumlarda görevli personel, Bakanlığın denetimi ve gözetimi altındadır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:53.162424+00:00",
+    "updated_at": "2026-09-04T16:35:53.162424+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-0-kpnh",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştayın denetlenmesi, .............. adına .............. tarafından görevlendirilen bir komisyonca yapılır.",
+    "options": [
+      "Anayasa Mahkemesi / raportörler",
+      "Cumhurbaşkanı / Devlet Denetleme Kurulu",
+      "Hazine ve Maliye Bakanı / teftiş kurulu",
+      "TBMM / TBMM Başkanlık Divanı",
+      "Danıştay / idari daireler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – TBMM / TBMM Başkanlık Divanı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-1-s4we",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Dış denetim .............. tarafından yapılır.",
+    "options": [
+      "TBMM denetim komisyonu",
+      "Cumhurbaşkanlığı Devlet Denetleme Kurulu",
+      "Hazine ve Maliye Bakanlığı Teftiş Başkanlığı",
+      "İç Denetim Birimi",
+      "Sayıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Sayıştay. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-2-vnxq",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştay tarafından yapılacak harcama sonrası dış denetimin amacı genel yönetim kapsamındaki kamu idarelerinin .............. çerçevesinde denetlenmesidir.",
+    "options": [
+      "Gelir artırma performansı",
+      "Hesap verme sorumluluğu",
+      "Gizlilik derecesi",
+      "Tasarruf genelgelerine uyum",
+      "Kadro kullanımı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hesap verme sorumluluğu. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-3-nwmt",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştayın denetlenmesi kim tarafından yapılır?",
+    "options": [
+      "Hazine ve Maliye Bakanlığı Teftiş Kurulu",
+      "TBMM Başkanlık Divanı tarafından görevlendirilen komisyon",
+      "Adalet Bakanlığı",
+      "Cumhurbaşkanlığı Devlet Denetleme Kurulu",
+      "Anayasa Mahkemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – TBMM Başkanlık Divanı tarafından görevlendirilen komisyon. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-4-dgl9",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştay tarafından yapılan denetimler sonucunda düzenlenen ve ilgili kamu idaresine gönderilen raporlar kim tarafından cevaplandırılır?",
+    "options": [
+      "Her bir harcama yetkilisi",
+      "Gerçekleştirme görevlileri",
+      "Üst yönetici",
+      "Muhasebe yetkilisi",
+      "Raporda belirtilen sorumlular"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Üst yönetici. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-5-9u4w",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştay tarafından yapılan denetim 5018 sayılı Kanunda ne olarak adlandırılır?",
+    "options": [
+      "Ön malî kontrol",
+      "Hiyerarşik Denetim",
+      "Performans Denetimi",
+      "Dış Denetim",
+      "İç Denetim"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Dış Denetim. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-6-0et3",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştay tarafından yapılan harcama sonrası dış denetimin sonuçları hangi organa raporlanır?",
+    "options": [
+      "Merkez Bankasına",
+      "Hazine ve Maliye Bakanlığına",
+      "Cumhurbaşkanlığına",
+      "İç Denetim Koordinasyon Kuruluna",
+      "Türkiye Büyük Millet Meclisine"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Türkiye Büyük Millet Meclisine. Dayanak: 5018 sayılı Kanun, Madde 68.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-dis-denetim-yekh6-mtmz9p73-7-4ldj",
+    "topic_id": "t-dis-denetim-yekh6",
+    "prompt": "Sayıştayın denetlenmesi için oluşturulan komisyonu her yıl kim görevlendirir?",
+    "options": [
+      "TBMM Başkanlık Divanı",
+      "Cumhurbaşkanı",
+      "Hazine ve Maliye Bakanı",
+      "TBMM Plan ve Bütçe Komisyonu",
+      "Sayıştay Başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM Başkanlık Divanı. Dayanak: 5018 sayılı Kanun, Madde 69.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:33.725430+00:00",
+    "updated_at": "2026-09-04T13:16:33.725430+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-0-oc08",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 52. maddesine göre eğitim araç ve gereçleri kapsamına aşağıdakilerden hangisi girer?",
+    "options": [
+      "Yalnızca ders kitapları",
+      "Ders kitapları ile öğretmen ve öğrencilere kaynak olacak basılı eğitim malzemesi ve diğer araç-gereçler",
+      "Yalnızca öğretmen kılavuz kitapları",
+      "Yalnızca dijital sınav içerikleri",
+      "Sadece sınav kağıtları"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 52. maddesine göre: Eğitim araç ve gereçleri, eğitim kurumlarında kullanılacak ders kitapları ile öğretmen ve öğrencilere kaynak ve yardımcı olacak basılı eğitim malzemesini, millî eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserleri ve eğitim araç ve gereçlerini kapsar. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-1-uxfh",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "52. madde kapsamında, öğretmen ve öğrencilere kaynak ve yardımcı olacak malzemeler nasıl nitelendirilir?",
+    "options": [
+      "Basılı eğitim malzemesi",
+      "Yalnızca sözlü anlatım kaynakları",
+      "Sadece görsel materyaller",
+      "Sportif malzemeler",
+      "Elektronik oyunlar"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 52. maddesine göre: Eğitim araç ve gereçleri, eğitim kurumlarında kullanılacak ders kitapları ile öğretmen ve öğrencilere kaynak ve yardımcı olacak basılı eğitim malzemesini, millî eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserleri ve eğitim araç ve gereçlerini kapsar. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-10-3920",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 52. maddesine göre eğitim araç ve gereçleri kapsamına, ders kitapları ve basılı eğitim malzemesinin yanında aşağıdakilerden hangisi de girer?",
+    "options": [
+      "Sadece sınav sonuç belgeleri",
+      "Yalnız okul binaları",
+      "Yalnız öğretmen konutları",
+      "Millî eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserler",
+      "Yalnız öğrenci kimlikleri"
+    ],
+    "answer_index": 3,
+    "explanation": "52. madde, millî eğitimin genel amaçlarının gerçekleşmesine yararlı olacak diğer eserleri de eğitim araç ve gereçleri kapsamında sayar. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-11-gzbf",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 53. maddesine göre Millî Eğitim Bakanlığının eğitim araç ve gereçleriyle ilgili tespit görevlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Kullanılma süresini tespit etmek",
+      "Öğretmenlerin izin süresini tespit etmek",
+      "Okul açma iznini belediyelere bırakmak",
+      "Yükseköğretim harçlarını belirlemek",
+      "Ortaöğretim süresini değiştirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "53. maddeye göre Millî Eğitim Bakanlığı eğitim araç ve gereçlerinin kullanılma süresini tespit etmekle görevlidir. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-12-vfar",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 53. maddesine göre eğitim araç ve gereçlerinin sağlanması ve geliştirilmesinde hangi ölçüt gözetilir?",
+    "options": [
+      "Yalnız öğretmen kıdemi",
+      "Yalnız piyasa fiyatları",
+      "Sadece okulun bulunduğu ilin nüfusu",
+      "Gelişen eğitim teknolojisi ile program ve metotlara uygunluk",
+      "Sadece öğrenci sayısı"
+    ],
+    "answer_index": 3,
+    "explanation": "53. maddeye göre Bakanlık, eğitim araç ve gereçlerini gelişen eğitim teknolojisine ve program ve metotlara uygun olarak sağlamak, geliştirmek, yenileştirmek ve standartlaştırmakla görevlidir. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-13-udce",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 54. maddesine göre Millî Eğitim Bakanlığı eğitim araç ve gereçlerini aşağıdaki yöntemlerden hangisiyle hazırlatabilir?",
+    "options": [
+      "Kişilere veya kuracağı komisyonlara hazırlatarak ya da yarışmalar düzenleyerek",
+      "Yalnız belediyelere zorunlu olarak hazırlatarak",
+      "Sadece üniversitelere devrederek",
+      "Yalnız yabancı kuruluşlardan temin ederek",
+      "Sadece okul aile birliklerine hazırlatarak"
+    ],
+    "answer_index": 0,
+    "explanation": "54. maddenin 2. bendine göre eğitim araç ve gereçleri kişilere veya kurulacak komisyonlara ya da yarışmalar düzenlenerek hazırlatılabilir. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-14-nwl1",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 54. maddesine göre özel kesimce hazırlanan veya imal edilen eğitim araç ve gereçleri bakımından Bakanlığın yetkilerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Kullanımlarını tamamen yasaklamak",
+      "Tamamını zorunlu olarak satın almak",
+      "İncelemeden kullanıma almak",
+      "Hepsini ücretsiz dağıtmak",
+      "Aralarından seçmek"
+    ],
+    "answer_index": 4,
+    "explanation": "54. maddenin 3. bendine göre Bakanlık, özel kesimce hazırlanan veya imal edilenler arasından seçmek veya tavsiye etmek suretiyle görevini yerine getirebilir. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-15-i8th",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 55. maddesine göre Millî Eğitim Bakanlığınca hazırlanacak veya hazırlatılacak kitaplar ile eğitim araç ve gereçlerinin hazırlanması, incelenmesi ve redaksiyonunda görevlendirilenlere ne yapılır?",
+    "options": [
+      "Ücret ödenir",
+      "Yalnız izin verilir",
+      "Herhangi bir karşılık verilmez",
+      "Sadece yol gideri ödenir",
+      "Zorunlu hizmet uygulanır"
+    ],
+    "answer_index": 0,
+    "explanation": "55. maddeye göre bu işlerde görevlendirilenlere ücret ödenir. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-16-ir6o",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 55. maddesine göre ders kitaplarına ilişkin yarışmalarda derece alanlara verilecek ödülün ödeme, usul ve esasları ile miktarı ne ile belirlenir?",
+    "options": [
+      "Kanun hükmünde kararnameyle",
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Yönergeyle",
+      "Bireysel sözleşmeyle"
+    ],
+    "answer_index": 1,
+    "explanation": "55. maddeye göre ders kitabı yarışmalarında derece alanlara verilecek ödülün ödeme, usul ve esasları ile miktarı yönetmelikle belirlenir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-2-f9a1",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Kanun'un 53. maddesine göre Millî Eğitim Bakanlığı'nın eğitim araç ve gereçleriyle ilgili görevleri arasında aşağıdakilerden hangisi YOKTUR?",
+    "options": [
+      "Araç ve gereçleri sağlamak ve geliştirmek",
+      "Araç ve gereçleri standartlaştırmak",
+      "Ders kitabı fiyatlarını tamamen serbest piyasaya bırakmak",
+      "Ders kitabı fiyatlarını tespit etmek",
+      "Telif haklarını tespit etmek"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 53. maddesine göre: Millî Eğitim Bakanlığı, kendisine bağlı eğitim kurumlarının eğitim araç ve gereçlerini, gelişen eğitim teknolojisine ve program ve metotlara uygun olarak sağlamak, geliştirmek, yenileştirmek, standartlaştırmak, kullanılma süresini ve telif haklarını ve ders kitabı fiyatlarını tespit etmek, paralı veya parasız olarak ilgililerin yararlanmasına sunmakla görevlidir. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-3-4i40",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "53. madde'e göre Millî Eğitim Bakanlığı, eğitim araç ve gereçlerini paralı veya parasız olarak kimlerin yararlanmasına sunmakla görevlidir?",
+    "options": [
+      "Yalnızca üniversitelerin",
+      "Yalnızca öğretmenlerin",
+      "Yalnızca belediyelerin",
+      "İlgililerin",
+      "Yalnızca özel okulların"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 53. maddesine göre: Millî Eğitim Bakanlığı, kendisine bağlı eğitim kurumlarının eğitim araç ve gereçlerini, gelişen eğitim teknolojisine ve program ve metotlara uygun olarak sağlamak, geliştirmek, yenileştirmek, standartlaştırmak, kullanılma süresini ve telif haklarını ve ders kitabı fiyatlarını tespit etmek, paralı veya parasız olarak ilgililerin yararlanmasına sunmakla görevlidir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-4-0yoa",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "Millî Eğitim Bakanlığı ders kitaplarını belirlerken aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "Hazırlamak veya hazırlatmak",
+      "Telif haklarını tespit etmek",
+      "Özel kesimce hazırlananları satın almak",
+      "Yarışmalar düzenlemek",
+      "Kitap fiyatlarını serbest piyasaya bırakmak"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 54. maddesine göre: Millî Eğitim Bakanlığı eğitim araç ve gereçlerini, 1. Hazırlamak, imal etmek ve satın almak; 2. Kişilere veya kuracağı komisyonlara veya yarışmalar düzenleyerek hazırlatmak; 3. Özel kesimce hazırlananlar veya imal edilenler arasından seçmek veya tavsiye etmek suretiyle 53 üncü maddede belirtilen görevini yerine getirir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-5-3tnr",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "Millî Eğitim Bakanlığı, eğitim araç ve gereçlerini hazırlamak, imal etmek, satın almak veya özel kesimce hazırlananları.......... etmekle görevlidir.",
+    "options": [
+      "tavsiye",
+      "zorunlu kılma",
+      "satın alma",
+      "dağıtma",
+      "yasaklama"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 54. maddesine göre: Millî Eğitim Bakanlığı eğitim araç ve gereçlerini, 1. Hazırlamak, imal etmek ve satın almak; 2. Kişilere veya kuracağı komisyonlara veya yarışmalar düzenleyerek hazırlatmak; 3. Özel kesimce hazırlananlar veya imal edilenler arasından seçmek veya tavsiye etmek suretiyle 53 üncü maddede belirtilen görevini yerine getirir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-6-njtn",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, okullarda okutulacak kitapların tespiti ve ücret ödenmesi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Millî Eğitim Bakanlığınca hazırlanacak veya hazırlattırılacak kitapları hazırlama, inceleme ve redaksiyonunda görevlendirilenlere ücret ödenir.",
+      "Ders kitabı dışındaki eğitim araçlarının kullanımı ve bunlardan hangileri için inceleme ücreti alınacağı ile ilgili esas ve usuller Millî Eğitim Bakanlığınca çıkarılacak yönetmelikle düzenlenir.",
+      "Özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler ücretsiz incelenir.",
+      "Ders kitaplarına ilişkin yarışmalarda derece alanlara verilecek ödülün ödeme, usul ve esasları ile miktarı yönetmelikle belirlenir.",
+      "Ders kitaplarının kabulü ve uygunluk süresi ile ilgili esaslar yönetmelikle düzenlenir."
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 55. maddesine göre özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler ücret karşılığı incelenir. Bu nedenle 'ücretsiz incelenir' ifadesi yanlıştır. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-7-ojl6",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "Ders kitapları dışında okullarda okutulacak diğer eğitim araçlarının kullanımı ile ilgili esaslar ne ile düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Tebliğler Dergisiyle",
+      "Kurul kararıyla",
+      "Yönetmelikle",
+      "Genelgeyle"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 55. maddesine göre: (İptal birinci fıkra: Anayasa Mahkemesi’nin 15/5/2008 tarihli, E.: 2004/1, K.: 2008/106 sayılı Kararı ile.) Millî Eğitim Bakanlığınca hazırlanacak veya hazırlatılacak kitaplar ile eğitim araç ve gereçlerini hazırlama, inceleme ve redaksiyonunda görevlendirilenlere ücret ödenir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-8-tghb",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "Özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler.......... karşılığı incelenir.",
+    "options": [
+      "ücretsiz",
+      "devlet desteği",
+      "burs",
+      "kredi",
+      "ücret"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 55. maddesine göre: (İptal birinci fıkra: Anayasa Mahkemesi’nin 15/5/2008 tarihli, E.: 2004/1, K.: 2008/106 sayılı Kararı ile.) Millî Eğitim Bakanlığınca hazırlanacak veya hazırlatılacak kitaplar ile eğitim araç ve gereçlerini hazırlama, inceleme ve redaksiyonunda görevlendirilenlere ücret ödenir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-arac-ve-gerecleri-hqn7v-mtn0rnpc-9-rrwa",
+    "topic_id": "t-egitim-arac-ve-gerecleri-hqn7v",
+    "prompt": "Millî Eğitim Bakanlığının eğitim araç ve gereçleriyle ilgili görevleri arasında aşağıdakilerden hangisi vardır?",
+    "options": [
+      "Yalnızca okul yönetimlerine bırakmak",
+      "Sadece üniversitelere devretmek",
+      "Sağlamak, geliştirmek, yenileştirmek ve standartlaştırmak",
+      "Yalnızca il millî eğitim müdürlüklerine bırakmak",
+      "Sadece özel kesimden satın almak"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 53. maddesine göre Millî Eğitim Bakanlığı, kendisine bağlı eğitim kurumlarının eğitim araç ve gereçlerini sağlamak, geliştirmek, yenileştirmek ve standartlaştırmakla görevlidir. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:31.261756+00:00",
+    "updated_at": "2026-09-04T13:58:31.261756+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-0-hscg",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre bu Kanun kapsamında çalışacak yabancılar hangi Kanun hükümleri doğrultusunda görevlendirilir?",
+    "options": [
+      "5901 sayılı Türk Vatandaşlığı Kanunu",
+      "4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu",
+      "4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanun",
+      "6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu",
+      "657 sayılı Devlet Memurları Kanunu"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 8 inci maddesine göre bu Kanun kapsamında çalışacak yabancılar, 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanun hükümleri doğrultusunda görevlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-1-il12",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre; kurumların devri ve nakline ilişkin usul ve esaslar aşağıdakilerden hangisi ile belirlenir?",
+    "options": [
+      "Yönerge",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Kanun",
+      "Genelge",
+      "Yönetmelik"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Yönetmelik\". İlgili hüküm: \"Kurumların devri ve nakline ilişkin usûl ve esaslar yönetmelikle belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-10-g1co",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Bakanlıkça belirlenen programları başarıyla tamamlayan kişiler, hangi durumda ayrıca bir meslek belgesi aranmaksızın tamamladıkları programla ilgili iş yerlerinde çalışabilir ve iş yeri açabilir?",
+    "options": [
+      "Yalnız kamu kurumlarının sürekli kadrolarında çalışabilmeleri",
+      "Belediyeden ayrıca çalışma ruhsatı almaları hâlinde çalışabilmeleri",
+      "Her meslek alanında istisnasız biçimde meslek belgesi aranmaması",
+      "Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler dışında",
+      "Yalnız yükseköğretim diploması aldıktan sonra iş yeri açabilmeleri"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler dışında\". İlgili hüküm: \"Bu Kanun kapsamında faaliyet gösteren kurumlarda, Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler hariç olmak üzere, Bakanlıkça belirlenen programları başarıyla tamamlayanlar aldıkları kurs bitirme belgeleriyle tamamladıkları programlara ilişkin iş yerlerinde çalışabilir ve iş yeri açabilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-11-upnz",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Aşağıdaki sonuç–belge eşleştirmelerinden hangisi Kanuna uygundur?",
+    "options": [
+      "Yönetmelik yayımlama – mesleki yeterlilik belgesi alma",
+      "Bakanlıkça belirlenen programı başarıyla tamamlama – kurs bitirme belgesiyle ilgili iş yerinde çalışma",
+      "Ders çizelgesi oluşturma – kamu görevlisi statüsü kazanma",
+      "Öğretim programı hazırlama – öğretmenlik çalışma izni alma",
+      "Seviye tespit sınavına katılma – doğrudan kurum açma izni alma"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Bakanlıkça belirlenen programı başarıyla tamamlama – kurs bitirme belgesiyle ilgili iş yerinde çalışma\". İlgili hüküm: \"Bu Kanun kapsamında faaliyet gösteren kurumlarda, Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler hariç olmak üzere, Bakanlıkça belirlenen programları başarıyla tamamlayanlar aldıkları kurs bitirme belgeleriyle tamamladıkları programlara ilişkin iş yerlerinde çalışabilir ve iş yeri açabilirler.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-12-gsoi",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurumlarda öğretim programı ve haftalık ders çizelgesi için temel kural nedir?",
+    "options": [
+      "Yalnız belediyenin uygun görüşü alınarak hazırlanması",
+      "Ticaret odasının resmî onayıyla yürürlüğe konulması",
+      "Yabancı okul müdürlerince ortaklaşa düzenlenmesi",
+      "Resmî kurumlarda uygulanan usûl ve esaslar çerçevesinde belirlenmesi",
+      "Her kurumun kurucusunca hiçbir dış onay aranmaksızın serbestçe belirlenmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Resmî kurumlarda uygulanan usûl ve esaslar çerçevesinde belirlenmesi\". İlgili hüküm: \"Kurumlarda uygulanacak öğretim programı ve haftalık ders çizelgesi, resmî kurumlarda uygulanan usûl ve esaslar çerçevesinde belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-13-1z70",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurs bitirme, seviye tespit ve seviye tamamlama sınavlarına ilişkin ücret ve usul-esasları.......... belirler.",
+    "options": [
+      "Yükseköğretim Kurulu",
+      "Bakanlık",
+      "İlgili Valilik Makamı",
+      "Belediye",
+      "Ticaret Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Bakanlık\". İlgili hüküm: \"Uygulanan program doğrultusunda yapılacak kurs bitirme, seviye tespit ve seviye tamamlama sınavları ile programın gerektirdiği diğer sınavlar için sınava girenlerden alınacak sınav ücretleri, bu ücretlerden bu sınavlarda görevlendirilenlere ödenecek ücretler ve sınav giderleri ile sınavların usul ve esasları Bakanlıkça belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-14-w5ew",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre bir kimse aynı anda kaç kurumun kurucusu olabilir?",
+    "options": [
+      "Birden fazla kurumun",
+      "En fazla iki kurumun",
+      "Kurucu olamaz, yalnız temsilci olabilir",
+      "Yalnızca bir kurumun",
+      "En fazla üç kurumun"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Birden fazla kurumun\". İlgili hüküm: \"Bir kimse birden fazla kurumun kurucusu olabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-15-gf0q",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre bünyesinde birden fazla kurum bulunduran kurumlara aşağıdaki yöneticilerden hangisi atanabilir?",
+    "options": [
+      "Vali yardımcısı",
+      "Genel müdür ve genel müdür yardımcısı",
+      "Belediye başkan yardımcısı",
+      "Kaymakam",
+      "İlçe millî eğitim şube müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Genel müdür ve genel müdür yardımcısı\". İlgili hüküm: \"Bünyesinde birden fazla kurum bulunduran kurumlara genel müdür ve genel müdür yardımcısı atanabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-16-jb31",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre kurs bitirme, seviye tespit ve seviye tamamlama sınavları için sınava girenlerden alınacak sınav ücretleri ile sınavların usul ve esasları kim tarafından belirlenir?",
+    "options": [
+      "Millî Eğitim Şûrasınca",
+      "Valilikçe",
+      "Kurum müdürlüğünce",
+      "Bakanlıkça",
+      "Mesleki Yeterlilik Kurumunca"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Bakanlıkça\". İlgili hüküm: \"Uygulanan program doğrultusunda yapılacak kurs bitirme, seviye tespit ve seviye tamamlama sınavları ile programın gerektirdiği diğer sınavlar için sınava girenlerden alınacak sınav ücretleri, bu ücretlerden bu sınavlarda görevlendirilenlere ödenecek ücretler ve sınav giderleri ile sınavların usul ve esasları Bakanlıkça belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-17-ft5o",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurum açma izni verilen bir kurum,.......... içinde faaliyete başlamazsa kurum açma izni ile işyeri açma ve çalışma ruhsatı iptal edilir.",
+    "options": [
+      "iki yıl",
+      "bir yıllık süre",
+      "beş yıllık süre",
+      "üç yıllık süre",
+      "altı aylık süre"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"iki yıl\". İlgili hüküm: \"Kurum açma izni verilen kurumlardan iki yıl içerisinde faaliyete başlamayan, faaliyete başladıktan sonra yönetmelikte belirtilen süreden daha fazla izinsiz ara veren, kurum türüne uygun olmayan  program uygulayan veya söz konusu izni amacı dışında kullandığı tespit edilen kurumların kurum açma izni ve iş yeri açma ve çalışma ruhsatı iptal edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-18-cy8l",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre “eğitim-öğretim, yönetim, kurumun kapatılması ve personel işlemleri” ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Kurumun veya yönetimleri birleştirilen kurumların bir müdür tarafından yönetilmesi esastır.",
+      "Bünyesinde birden fazla kurum bulunduran kurumlara genel müdür ve genel müdür yardımcısı atanabilir.",
+      "Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını Millî Eğitim Bakanlığına devir ve teslim etmeye mecburdur.",
+      "Kapatılan kurumlarla ilgili olarak öğrenci/kursiyer veya velilerinin, kurucular aleyhine genel hükümlere göre dava açma hakları saklıdır.",
+      "Kurumların devri ve nakline ilişkin usul ve esaslar yönetmelikle belirlenir."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını Millî Eğitim Bakanlığına devir ve teslim etmeye mecburdur.\". İlgili hüküm: \"Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını ilgili valiliğe devir ve teslim etmeye mecburdur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-19-yet2",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre okul kurucusu/kurucu temsilcisi Bakanlığa, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az kaç ay önce yazılı olarak bildirmek şartıyla öğretim yılı sonunda okulunu kapatabilir?",
+    "options": [
+      "3",
+      "5",
+      "12",
+      "9",
+      "6"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"3\". İlgili hüküm: \"Okul kurucusu/kurucu temsilcisi; Bakanlığa, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi Bakanlıkça uygun bulunduğu takdirde öğretim yılı sonunda okulunu kapatabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-2-9sa8",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre eğitim-öğretim ve kurumların yönetimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Üzerinde müdürlük görevi bulunmayan kurucu/kurucu temsilcisi, kurumun eğitim-öğretimine ve bunlarla ilgili yönetim işlerine karışabilir.",
+      "Kurumlarda uygulanacak öğretim programı ve haftalık ders çizelgesi, resmî kurumlarda uygulanan usul ve esaslar çerçevesinde belirlenir.",
+      "Bünyesinde birden fazla kurum bulunduran kurumlara genel müdür ve genel müdür yardımcısı atanabilir.",
+      "Bir kimse birden fazla kurumun kurucusu olabilir.",
+      "Kurumun veya yönetimleri birleştirilen kurumların bir müdür tarafından yönetilmesi esastır."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Üzerinde müdürlük görevi bulunmayan kurucu/kurucu temsilcisi, kurumun eğitim-öğretimine ve bunlarla ilgili yönetim işlerine karışabilir.\". İlgili hüküm: \"Üzerinde müdürlük görevi bulunmayan kurucu/kurucu temsilcisi, kurumun eğitim-öğretimine ve bunlarla ilgili yönetim işlerine karışamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-20-9a3l",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Özel öğretim kurumunda gerçeğe aykırı veya yanıltıcı reklam ya da ilan verilmesi veya reklam ya da ilanlarda öğrenci resim ya da bilgilerinin kullanılması hâlinde ilk yaptırım ve fiilin tekrarı bakımından doğru seçenek hangisidir?",
+    "options": [
+      "Kınama/tekrarında geçici kapatma",
+      "Uyarı/tekrarında para cezası",
+      "20 kat para cezası/tekrarında ruhsat iptali",
+      "Brüt asgari ücretin 5 katı idarî para cezası/tekrarında idarî para cezası miktarının beş katı olarak uygulanması",
+      "10 kat para cezası/tekrarında kapatma"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 nci maddesine göre bu fiiller için brüt asgari ücretin beş katı idarî para cezası uygulanır; fiilin tekrarı hâlinde idarî para cezası miktarı beş katı olarak uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-21-qomg",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’un 7 nci maddesinin ikinci fıkrasının (a), (b), (c), (d), (e), (f) ve (g) bentlerindeki fiillerin tekrarı hâlinde idarî para cezası miktarı nasıl uygulanır?",
+    "options": [
+      "Üç katı olarak",
+      "Yarısı oranında",
+      "Beş katı olarak",
+      "Aynı miktarda",
+      "İki katı olarak"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 nci maddesine göre belirtilen fiillerin tekrarı hâlinde idarî para cezası miktarı beş katı olarak uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-22-2cm5",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kanuna aykırı fiillerin (5 ve 10 kat ceza gerektirenlerin) üçüncü kez tekrarlanması hâlinde ne işlem yapılır?",
+    "options": [
+      "100 kat para cezası verilir.",
+      "Kuruma kayyum atanır.",
+      "Yönetici görevden alınır.",
+      "Kurum açma izni ve iş yeri açma ruhsatı iptal edilir.",
+      "Bir yıl süreyle kapatılır."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Kurum açma izni ve iş yeri açma ruhsatı iptal edilir.\". İlgili hüküm: \"Bu fıkranın (a),  (b), (c), (d), (e), (f) ve (g) bentlerindeki fiillerin tekrarı hâlinde idari para cezası miktarı beş katı  olarak uygulanır ve bu bentlerdeki fiillerin üçüncü kez işlenmesi hâlinde ise kurum açma izni ile  iş yeri açma ve çalışma ruhsatı iptal edilir, (ğ) ve (h) bentlerindeki fiillerin işlenmesi hâlinde brüt  asgari ücretin yirmi katı idari para cezası verilir ve kurum açma izni ile iş yeri açma ve çalışma  ruhsatı iptal edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-23-agsj",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Okullar dışındaki kurumların (kurs vb.) kapatılmasına kim onay verir?",
+    "options": [
+      "Bakanlık",
+      "Belediye",
+      "Valilik",
+      "İl Millî Eğitim Müdürü",
+      "Kaymakam"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Valilik\". İlgili hüküm: \"Okullar dışındaki diğer kurumların kurucusu/kurucu temsilcisi valiliğe, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi valilikçe uygun bulunduğu takdirde dönem sonunda kurumunu kapatabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-24-0puk",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kapanan kurumun mühürlerini ve evraklarını teslim etme zorunluluğu kime karşıdır?",
+    "options": [
+      "En yakın okula",
+      "İlgili Valiliğe",
+      "Cumhuriyet Savcılığına",
+      "İlçe Millî Eğitim Müdürlüğüne",
+      "Bakanlığa"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"İlgili Valiliğe\". İlgili hüküm: \"Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını ilgili valiliğe devir ve teslim etmeye mecburdur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-25-gudw",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Özel okullarda görev yapan bir öğretmene, valilik izni olmadan işe başlatılması durumunda ne işlem yapılır?",
+    "options": [
+      "Görmezden gelinir.",
+      "Öğretmenin diploması iptal edilir.",
+      "Öğretmen uyarılır.",
+      "Kuruma idarî para cezası verilir (10 kat).",
+      "Okul kapatılır."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Kuruma idarî para cezası verilir (10 kat).\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-26-cevz",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre bir kurumun kuruluşundan üç yıl sonra mevcut ders saati sayısının en az ne kadarının asıl görevi bu kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması zorunludur?",
+    "options": [
+      "Üçte ikisi",
+      "Dörtte biri",
+      "Yarısı",
+      "Üçte biri",
+      "Tamamı"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Üçte ikisi\". İlgili hüküm: \"Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayısının, kuruluş sırasında üçte birinin, kuruluşundan üç yıl sonra da en az üçte ikisinin asıl görevi bu kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması zorunludur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-27-bsty",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’da belirtilen şartlara uymadan kurumunu kapatan kurucuya, kaç yıl geçmeden tekrar kurum açma izni veya bir kurumu devralma ya da bir kuruma ortak olma izni verilmez?",
+    "options": [
+      "Bir yıl",
+      "Beş yıl",
+      "İki yıl",
+      "Üç yıl",
+      "On yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 7 nci maddesine göre belirtilen şartlara uymadan kurumunu kapatan kurucuya beş yıl geçmeden tekrar kurum açma izni veya bir kurumu devralma ya da bir kuruma ortak olma izni verilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-28-6mqg",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Gerçeğe aykırı reklam veren kurumlara brüt asgari ücretin.......... katı idarî para cezası verilir.",
+    "options": [
+      "10",
+      "3",
+      "5",
+      "7",
+      "2"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"5\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-29-gcl0",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5 ve 10 kat ceza gerektiren fiillerin.......... kez tekrarlanması hâlinde kurum açma izni iptal edilir.",
+    "options": [
+      "3",
+      "5",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"3\". İlgili hüküm: \"Bu fıkranın (a),  (b), (c), (d), (e), (f) ve (g) bentlerindeki fiillerin tekrarı hâlinde idari para cezası miktarı beş katı  olarak uygulanır ve bu bentlerdeki fiillerin üçüncü kez işlenmesi hâlinde ise kurum açma izni ile  iş yeri açma ve çalışma ruhsatı iptal edilir, (ğ) ve (h) bentlerindeki fiillerin işlenmesi hâlinde brüt  asgari ücretin yirmi katı idari para cezası verilir ve kurum açma izni ile iş yeri açma ve çalışma  ruhsatı iptal edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-3-qeht",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Özel öğretim kurumlarında eğitim ve öğretim, 1739 sayılı Millî Eğitim Temel Kanunu’nda ifade edilen Türk Millî Eğitiminin genel amaç ve.......... uygun olarak yürütülür.",
+    "options": [
+      "temel hedeflerine",
+      "Temel ilkelerine",
+      "eğitim politikalarına",
+      "özel amaçlarına",
+      "genel ilkelerine"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Temel ilkelerine\". İlgili hüküm: \"Kurumlarda eğitim-öğretim ve yönetim, 1739 sayılı Milli Eğitim Temel Kanununda ifade edilen Türk Millî Eğitiminin genel amaç ve temel ilkelerine uygun olarak yürütülür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-30-97co",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Aşağıdakilerden hangisi kurum açma izni ve işyeri açma ve çalışma ruhsatının iptalini gerektiren hâllerden biri değildir?",
+    "options": [
+      "İznin amacı dışında kullanıldığının tespit edilmesi",
+      "Kurum türüne uygun olmayan program uygulanması",
+      "Kurumun gelirinin bir eğitim-öğretim yılında azalması",
+      "Kurumun iki yıl içinde faaliyete başlamaması",
+      "Yönetmelikte belirtilen süreden fazla izinsiz ara verilmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Kurumun gelirinin bir eğitim-öğretim yılında azalması\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-31-1dso",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurum açma izninin iptalini gerektiren hâllere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kurum türüne uygun olmayan program uygulanması iptal sebebidir.",
+      "Yönetmelikte belirtilen süreden daha fazla izinsiz ara verilmesi iptal sebebidir.",
+      "İki yıl içinde faaliyete başlanmaması iptal sebebidir.",
+      "Kurum açma izninin amacı dışında kullanılması iptal sebebidir.",
+      "Kurumun yönetmelikte belirtilen süreden daha kısa süre izinsiz ara vermesi iptal sebebidir."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Kurumun yönetmelikte belirtilen süreden daha kısa süre izinsiz ara vermesi iptal sebebidir.\". İlgili hüküm: \"Kurum açma izni verilen kurumlardan iki yıl içerisinde faaliyete başlamayan, faaliyete başladıktan sonra yönetmelikte belirtilen süreden daha fazla izinsiz ara veren, kurum türüne uygun olmayan  program uygulayan veya söz konusu izni amacı dışında kullandığı tespit edilen kurumların kurum açma izni ve iş yeri açma ve çalışma ruhsatı iptal edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-32-3ae4",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Milletlerarası okulun Türkiye Cumhuriyeti vatandaşı öğrencilerin kaydını yapması hâlinde aşağıdaki yaptırımlardan hangisi uygulanmaz?",
+    "options": [
+      "Fiilin (ğ) bendi kapsamında değerlendirilmesi",
+      "Yalnız brüt asgari ücretin beş katı idarî para cezası verilmesi",
+      "Kurum açma izninin iptal edilmesi",
+      "Brüt asgari ücretin yirmi katı idarî para cezası verilmesi",
+      "İşyeri açma ve çalışma ruhsatının iptal edilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Yalnız brüt asgari ücretin beş katı idarî para cezası verilmesi\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-33-kg2l",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Tekerrüre esas alınmama süreleri bakımından aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      "Tüm bentler için on yıl",
+      "(a), (b), (c) ve (d) bentleri için beş yıl; (e), (f) ve (g) bentleri için dört yıl",
+      "(a), (b), (c) ve (d) bentleri için dört yıl; (e), (f) ve (g) bentleri için beş yıl",
+      "Tüm bentler için bir yıl",
+      "(a), (b), (c) ve (d) bentleri için iki yıl; (e), (f) ve (g) bentleri için dört yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"(a), (b), (c) ve (d) bentleri için dört yıl; (e), (f) ve (g) bentleri için beş yıl\". İlgili hüküm: \"Bu fıkranın (a), (b), (c) ve (d)  bentlerindeki fiiller için uygulanan idari para cezasının tebliğ edildiği tarihten itibaren dört; (e), (f)  ve (g) bentlerindeki fiiller için ise uygulanan idari para cezasının tebliğ edildiği tarihten itibaren  beş yıl geçmesi hâlinde o fiil tekerrüre esas alınmaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-34-0ors",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Bir okulun kurucu temsilcisi okulu kendi isteğiyle kapatmak istemektedir. Kanuna uygun işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "Bakanlığa, ilgililere en az üç ay önce yazılı bildirim yapmak ve gerekçe uygun bulunursa öğretim yılı sonunda kapatmak",
+      "Valiliğe aynı gün sözlü bildirim yapıp dönem ortasında okulun faaliyetine son vermek",
+      "Yalnız velilere bildirim yapıp Bakanlıktan uygun görüş almadan okulu kapatmak",
+      "Bakanlığa bildirim yapmadan yönetim kurulu kararıyla okulun faaliyetine son vermek",
+      "Belediyeye bir ay önce bildirim yapıp ders yılı içinde okulun faaliyetine son vermek"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Bakanlığa, ilgililere en az üç ay önce yazılı bildirim yapmak ve gerekçe uygun bulunursa öğretim yılı sonunda kapatmak\". İlgili hüküm: \"Okul kurucusu/kurucu temsilcisi; Bakanlığa, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi Bakanlıkça uygun bulunduğu takdirde öğretim yılı sonunda okulunu kapatabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-35-ucu8",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Okul dışındaki bir özel öğretim kurumunun kurucu temsilcisi kurumu kapatmak istemektedir. Kanuna uygun uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "Belediyeye on beş gün önce bildirim yapıp valilik kararı olmadan öğretim yılı sonunda kapatmak",
+      "Yalnız personele bildirim yapıp velilere ve valiliğe haber vermeden dönem ortasında kapatmak",
+      "Bakanlığa yalnız sözlü başvurup aynı gün kurumun faaliyetine hiçbir bildirim yapmadan son vermek",
+      "Kaymakamlıktan izin alıp ilgililere yazılı bildirim yapmadan kurumu kapatmak",
+      "Valiliğe ve ilgililere en az üç ay önce yazılı bildirim yapıp gerekçe uygun bulunursa dönem sonunda kapatmak"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Valiliğe ve ilgililere en az üç ay önce yazılı bildirim yapıp gerekçe uygun bulunursa dönem sonunda kapatmak\". İlgili hüküm: \"Okullar dışındaki diğer kurumların kurucusu/kurucu temsilcisi valiliğe, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi valilikçe uygun bulunduğu takdirde dönem sonunda kurumunu kapatabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-36-w4cf",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kapanan veya kapatılan kurumun devir ve teslim yükümlülüğüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Devir ve teslimden kaçınma yaptırıma bağlanmıştır.",
+      "Kurum, öğrencilere ilişkin evrakı ilgili valiliğe teslim eder.",
+      "Kurum, yönetici ve öğretmenlerle ilgili defter ve dosyaları ilgili valiliğe teslim eder.",
+      "Mühürler ile yönetici, öğretmen ve öğrencilere ilişkin evrak belediyeye teslim edilir.",
+      "Kurum, mühürlerini ilgili valiliğe devir ve teslim eder."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Mühürler ile yönetici, öğretmen ve öğrencilere ilişkin evrak belediyeye teslim edilir.\". İlgili hüküm: \"Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını ilgili valiliğe devir ve teslim etmeye mecburdur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-37-h4t8",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kapanan kurumun devir ve teslim yükümlülüğünü savsaklayan kurucu hakkında aşağıdakilerden hangisi uygulanmaz?",
+    "options": [
+      "Yalnız yazılı uyarı verilmesi",
+      "Kapatılan kuruma ait kayıtların idareye devri",
+      "Brüt asgari ücretin yirmi katı idarî para cezası",
+      "Mühür ve evrakın valiliğe teslim edilmesi yükümlülüğü",
+      "Devir ve teslimden kaçınmanın yaptırıma bağlanması"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Yalnız yazılı uyarı verilmesi\". İlgili hüküm: \"Devir ve teslimden kaçınan veya bu görevi savsaklayan kurucu hakkında brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-38-t54i",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurumlara uygulanacak idarî para cezaları bakımından; I. Onaylı yerleşim planında izinsiz değişiklik yapılması beş kat ceza grubundadır. II. Mevzuata aykırı personel çalıştırılması on kat ceza grubundadır. III. Kurum açma şartlarından birinin kaybedilmesi yirmi kat ceza grubundadır. ifadelerinden hangileri doğrudur?",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "I, II ve III",
+      "I ve III",
+      "Yalnız II"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"I, II ve III\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-39-p3pf",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Okul ile okullar dışındaki diğer özel öğretim kurumlarının kurucu isteğiyle kapatılmasında doğru karşılaştırma aşağıdakilerden hangisidir?",
+    "options": [
+      "Okul Bakanlığın uygun bulmasıyla öğretim yılı sonunda; diğer kurum valiliğin uygun bulmasıyla dönem sonunda kapatılır.",
+      "Okul kaymakamın, diğer kurum belediyenin uygun bulmasıyla kapatılır.",
+      "Her iki kurum belediyenin uygun bulmasıyla aynı gün kapatılır.",
+      "Okul valiliğin uygun bulmasıyla dönem sonunda; diğer kurum Bakanlığın uygun bulmasıyla öğretim yılı sonunda kapatılır.",
+      "Her iki kurum yalnız kurucunun bildirimiyle ders yılı ortasında kapatılır."
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Okul Bakanlığın uygun bulmasıyla öğretim yılı sonunda; diğer kurum valiliğin uygun bulmasıyla dönem sonunda kapatılır.\". İlgili hüküm: \"Okullar dışındaki diğer kurumların kurucusu/kurucu temsilcisi valiliğe, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi valilikçe uygun bulunduğu takdirde dönem sonunda kurumunu kapatabilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-4-8xdi",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’nun 6 ncı maddesine göre kurumlarda eğitim-öğretim ve yönetim hangi çerçevede yürütülür?",
+    "options": [
+      "Yabancı ülkelerin eğitim mevzuatı doğrudan esas alınarak",
+      "Belediye meclisinin yıllık eğitim ve yönetim kararları doğrultusunda",
+      "Yalnız öğrenci velilerinin güncel talepleri dikkate alınarak",
+      "Kurucunun ticari tercihleri ve yıllık kâr hedefleri esas alınarak",
+      "Türk Millî Eğitiminin genel amaç ve temel ilkelerine uygun olarak"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Türk Millî Eğitiminin genel amaç ve temel ilkelerine uygun olarak\". İlgili hüküm: \"Kurumlarda eğitim-öğretim ve yönetim, 1739 sayılı Milli Eğitim Temel Kanununda ifade edilen Türk Millî Eğitiminin genel amaç ve temel ilkelerine uygun olarak yürütülür.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-40-9oe6",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapan bir özel öğretim kurumuna brüt asgari ücretin.......... katı idarî para cezası uygulanır.",
+    "options": [
+      "elli",
+      "beş",
+      "yirmi",
+      "on",
+      "iki"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"beş\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-41-2xbu",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre mevzuatta belirtilen sayıda personel çalıştırmama veya mevzuata aykırı personel çalıştırma fiili için..........; kurum açma şartlarından herhangi birini kaybetme fiili için.......... idarî para cezası uygulanır.",
+    "options": [
+      "brüt asgari ücretin on katı/brüt asgari ücretin on katı",
+      "brüt asgari ücretin yirmi katı/brüt asgari ücretin beş katı",
+      "brüt asgari ücretin beş katı/brüt asgari ücretin on katı",
+      "brüt asgari ücretin on katı/brüt asgari ücretin yirmi katı",
+      "brüt asgari ücretin yirmi katı/brüt asgari ücretin elli katı"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"brüt asgari ücretin on katı/brüt asgari ücretin yirmi katı\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-42-ip7p",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Kanun’a göre öğretmenlik yapma nitelik ve şartlarını taşıyan Devlet memurlarına, ilgili birimlerin izniyle haftada en fazla kaç saat ücretli ders görevi verilebilir?",
+    "options": [
+      "6 saat",
+      "15 saat",
+      "8 saat",
+      "12 saat",
+      "10 saat"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"10 saat\". İlgili hüküm: \"Uzman öğretici, usta öğretici ve öğretmenlik yapma nitelik ve şartlarını taşıyan diğer Devlet memurlarına, ilgili birimlerin izniyle haftada on saati geçmemek üzere ücretli ders görevi verilebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-43-5ygp",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kapatılan bir kurumun devir ve teslim yükümlülüğünden kaçınan kurucusuna uygulanacak idarî para cezası aşağıdakilerden hangisidir?",
+    "options": [
+      "Brüt asgari ücretin elli katı",
+      "Brüt asgari ücretin on katı",
+      "Brüt asgari ücretin yirmi katı",
+      "Brüt asgari ücretin on beş katı",
+      "Brüt asgari ücretin beş katı"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"Brüt asgari ücretin yirmi katı\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-44-90s3",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kanuna aykırı biçimde kapatılan bir kurumun kurucusuna, kapatma tarihinden itibaren.......... yıl geçmeden yeniden kurum açma izni verilmez.",
+    "options": [
+      "beş",
+      "on",
+      "bir",
+      "iki",
+      "üç"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 7 maddesi uyarınca doğru cevap: \"beş\". İlgili hüküm: \"Özel öğretim kurumunun; a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması, b) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması, c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması, d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve yönergelerde belirtilen hükümlere aykırı fiillerde bulunması, e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykırı personel çalıştırması, f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel amaçları ile temel ilkelerine uymaması, g) Kurum açma şartlarından herhangi birini kaybetmesi, ğ) Milletlerarası okul olması hâlinde Türkiye  Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim  vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda  belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması, h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f) bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin yirmi katı idari para cezası uygulanır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-45-fxqh",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapan bir özel öğretim kurumuna ilk tespitte hangi yaptırım uygulanır?",
+    "options": [
+      "Kurum açma izni derhâl iptal edilir.",
+      "Yalnız yazılı uyarı verilir.",
+      "Brüt asgari ücretin yirmi katı idarî para cezası uygulanır.",
+      "Brüt asgari ücretin beş katı idarî para cezası uygulanır.",
+      "Brüt asgari ücretin on katı idarî para cezası uygulanır."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 7 nci maddesine göre Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapılması hâlinde brüt asgari ücretin beş katı idarî para cezası uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-46-u2hw",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurumlarda çalıştırılacak personel ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Gerekli şartları taşıyan yönetici, öğretmen, uzman öğretici ve usta öğreticiler için valilikçe çalışma izni düzenlenir.",
+      "İhtiyaç hâlinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısı kadar ücretli ders verilebilir.",
+      "Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayısının, kuruluş sırasında üçte birinin, kuruluşundan üç yıl sonra da en az üçte ikisinin asıl görevi bu kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması zorunludur.",
+      "Kurumların eğitim-öğretim ve yönetim hizmetlerinin, asıl görevi bu kurumlarda olan yönetici ve eğitim-öğretim elemanları ile yürütülmesi esastır.",
+      "Uzman öğretici, usta öğretici ve öğretmenlik yapma nitelik ve şartlarını taşıyan diğer Devlet memurlarına, ilgili birimlerin izniyle haftada on saati geçmemek üzere ücretli ders görevi verilebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"İhtiyaç hâlinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısı kadar ücretli ders verilebilir.\". İlgili hüküm: \"İhtiyaç hâlinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısının yarısı kadar ücretli ders verilebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-47-x7cf",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Çalışma izni iptal edilen yönetici veya öğretmene bu durumun tebliği ne anlama gelir?",
+    "options": [
+      "Maaş kesimi yapılacağına",
+      "Savunmasının istendiğine",
+      "Uyarı cezası aldığına",
+      "Başka okula tayin edileceğine",
+      "Sözleşmenin feshine ve kurumla ilişiğinin kesilmesine"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 10 maddesi uyarınca doğru cevap: \"Sözleşmenin feshine ve kurumla ilişiğinin kesilmesine\". İlgili hüküm: \"İki defa teftiş raporuyla başarısızlığı tespit edilen yönetici, öğretmen, uzman öğretici ve usta öğreticilerin çalışma izni, izni veren makam tarafından iptal edilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-48-ekny",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre \"Kurumlarda çalıştırılacak personel\"e ilişkin verilenlerden hangisi doğru değildir?",
+    "options": [
+      "Kurumlarda Bakanlıkça belirlenen öğretmenlik alanlarına kaynak teşkil eden yükseköğretim programlarından mezun olup Bakanlıkça özel alan eğitimi ve öğretmenlik meslek bilgisi bakımından belirlenen niteliklere sahip olanlar öğretmen olarak görevlendirilir.",
+      "İhtiyaç hâlinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak veaylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısının yarısı kadar ücretli ders verilebilir.",
+      "Ders saati ücretli olarak görevlendirileceklerle ilgili diğer hususlar kanunla belirlenir.",
+      "Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayısının, kuruluş sırasında üçte birinin, kuruluşundan üç yıl sonra da en az üçte ikisinin asıl görevi bu kurumlardaolan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması zorunludur.",
+      "Kurumların eğitim-öğretim ve yönetim hizmetlerinin, asıl görevi bu kurumlarda olan yönetici ve eğitim-öğretim elemanları ile yürütülmesi esastır."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Ders saati ücretli olarak görevlendirileceklerle ilgili diğer hususlar kanunla belirlenir.\". İlgili hüküm: \"Uzman öğretici, usta öğretici ve öğretmenlik yapma nitelik ve şartlarını taşıyan diğer Devlet memurlarına, ilgili birimlerin izniyle haftada on saati geçmemek üzere ücretli ders görevi verilebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-49-ulap",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre kurumlarda çalıştırılacak personelle ilgili aşağıdaki hükümlerden hangisi doğrudur?",
+    "options": [
+      "Gerekli şartları taşıyan yönetici, öğretmen, uzman öğretici ve usta öğreticiler için kurum müdürlüklerinceçalışma izni düzenlenir.",
+      "Kurumların müdürleri, kurucu/kurucu temsilcisi tarafından; diğer yönetici ve öğretmen, uzman öğretici ve usta öğreticileri ise müdürlerince seçilir.",
+      "Uzman öğretici, usta öğretici ve öğretmenlik yapma nitelik ve şartlarını taşıyan diğer Devlet memurlarına, ilgili birimlerin izniyle haftada on beş saati geçmemek üzere ücretli ders görevi verilebilir.",
+      "Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayısının, kuruluş sırasında üçte ikisinin, asıl görevi bu kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması zorunludur.",
+      "Öğretmenlerin toplam ders saati sayısı haftada yirmi beş saati geçemez."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Kurumların müdürleri, kurucu/kurucu temsilcisi tarafından; diğer yönetici ve öğretmen, uzman öğretici ve usta öğreticileri ise müdürlerince seçilir.\". İlgili hüküm: \"Kurumların müdürleri, kurucu/kurucu temsilcisi tarafından; diğer yönetici ve öğretmen, uzman öğretici ve usta öğreticileri ise müdürlerince seçilir ve çalışma izinleri valiliğin iznine sunulur.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-5-07hi",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurumlarda farklı öğretim programı veya haftalık ders çizelgesi uygulanmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Program ve çizelge eğitim-öğretim uygulamasının parçasıdır.",
+      "Farklı programlar yalnız Cumhurbaşkanının izniyle uygulanabilir.",
+      "Bakanlık uygun bulursa farklı öğretim programı uygulanabilir.",
+      "Temel kural resmî kurumlardaki usûl ve esaslardır.",
+      "Bakanlık uygun bulursa farklı haftalık ders çizelgesi uygulanabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 6 maddesi uyarınca doğru cevap: \"Farklı programlar yalnız Cumhurbaşkanının izniyle uygulanabilir.\". İlgili hüküm: \"Kurumlarda uygulanacak öğretim programı ve haftalık ders çizelgesi, resmî kurumlarda uygulanan usûl ve esaslar çerçevesinde belirlenir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-50-m912",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurumların eğitim-öğretim ve yönetim hizmetlerinde temel personel ilkesi nedir?",
+    "options": [
+      "Hizmetlerin yalnız kamu kurumlarından geçici gönderilenlerle yürütülmesi",
+      "Hizmetlerin yalnız kurucu tarafından yürütülmesi",
+      "Hizmetlerin yalnız gönüllü velilerle yürütülmesi",
+      "Hizmetlerin tamamının dışarıdan hizmet alımıyla yürütülmesi",
+      "Hizmetlerin asıl görevi kurumda olan yönetici ve eğitim-öğretim elemanlarıyla yürütülmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Hizmetlerin asıl görevi kurumda olan yönetici ve eğitim-öğretim elemanlarıyla yürütülmesi\". İlgili hüküm: \"Kurumların eğitim-öğretim ve yönetim hizmetlerinin, asıl görevi bu kurumlarda olan yönetici ve eğitim-öğretim elemanları ile yürütülmesi esastır.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-51-3by9",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Resmî okulda görevli bir öğretmenin özel öğretim kurumlarında ücretli ders vermesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Görevlendirme yalnız okullarda yapılabilir.",
+      "Öğretmenin asıl görevini aksatmaması gerekir.",
+      "Öğretmen, gerekli koşullar bulunsa da tüm özel öğretim kurumlarında sınırsız ücretli ders verebilir.",
+      "Aylık karşılığı okutmakla yükümlü olduğu ders saati sayısını doldurmuş olması gerekir.",
+      "Çalıştığı kurumun izni aranır."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Öğretmen, gerekli koşullar bulunsa da tüm özel öğretim kurumlarında sınırsız ücretli ders verebilir.\". İlgili hüküm: \"İhtiyaç hâlinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısının yarısı kadar ücretli ders verilebilir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-52-221j",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Kurum müdürü ile diğer yönetici, öğretmen, uzman öğretici ve usta öğreticilerin seçimi ve göreve başlatılması için doğru ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Tüm personeli belediye seçer; kaymakamın izniyle işe başlarlar.",
+      "Tüm personeli kurucu seçer; belediye izniyle işe başlarlar.",
+      "Diğer personeli kurucu temsilcisi seçer; Bakanlık onayı olmadan çalışabilirler.",
+      "Müdürü kurucu veya kurucu temsilcisi, diğerlerini müdür seçer; valilik izni alınmadan işe başlatılamazlar.",
+      "Müdürü valilik, diğerlerini Bakanlık seçer; bildirimle işe başlarlar."
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Müdürü kurucu veya kurucu temsilcisi, diğerlerini müdür seçer; valilik izni alınmadan işe başlatılamazlar.\". İlgili hüküm: \"Valiliğin izni alınmadan müdür ile diğer yönetici, öğretmen, uzman öğretici ve usta öğreticiler işe başlatılamaz.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  },
+  {
+    "id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l-mtn6dtw3-53-hslo",
+    "topic_id": "t-egitim-ogretim-yonetim-kurumun-kapatilma-yp85l",
+    "prompt": "Yabancılar tarafından açılmış ve Türkçeden başka dille öğretim yapan okul, uyarıya rağmen Türk müdür başyardımcısı önerisini bir ay içinde yapmamıştır. Aşağıdaki işlemlerden hangisi Kanuna uygun değildir?",
+    "options": [
+      "Seçilecek kişinin Kanunda belirtilen nitelikleri taşıması",
+      "Valiliğin seçtiği kişiyi işe başlatması",
+      "Uyarıya rağmen bir ay içinde öneri yapılmamasının işlem için koşul olması",
+      "Valiliğin gerekli koşulları taşıyan öğretmenler arasından seçim yapması",
+      "Bakanlığın on beş gün içinde yabancı uyruklu bir kişiyi göreve başlatması"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 8 maddesi uyarınca doğru cevap: \"Bakanlığın on beş gün içinde yabancı uyruklu bir kişiyi göreve başlatması\". İlgili hüküm: \"Türkçe’den başka dille öğretim yapan ve yabancılar tarafından açılmış bulunan okulların kurucuları ile müdürleri, Türkiye Cumhuriyeti uyruklu, Türkçe veya Türkçe kültür dersleri öğretmenliği yapma niteliğini taşıyan ve öğretim dilini bilenlerden birini, Türk müdür başyardımcısı olarak çalışma izni düzenlenmek üzere valiliğe önerir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:44.726411+00:00",
+    "updated_at": "2026-09-04T16:35:44.726411+00:00"
+  }
+]

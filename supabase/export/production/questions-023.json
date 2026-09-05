@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-58-80cl",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "İmza töreninde genel uygulamada en üst düzey yetkili belgeyi “___” imzalar.",
+    "options": [
+      "imzasız biçimde",
+      "en son",
+      "sağdaki makamdan önce",
+      "konuşma bitmeden önce",
+      "ilk olarak"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Tören ve devlet protokolü. “en son” doğru uygulamayı açıklar; “imzasız biçimde” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-59-dgfp",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Türkiye genel protokol sırasıyla ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Bakanlar genel protokol sıralamasında yer alır.",
+      "Cumhurbaşkanından sonra TBMM Başkanı gelir.",
+      "Cumhurbaşkanından sonra bakanlar gelir.",
+      "Cumhurbaşkanı genel protokol sırasının başındadır.",
+      "İl protokolünde vali ilk sıradadır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Tören ve devlet protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Bakanlar genel protokol sıralamasında yer alır.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-6-iy96",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Üst düzey ziyaretçinin makam odasından ayrılışında aşağıdakilerden hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Görüşmeyi nazikçe sonlandırmak",
+      "Uğurlamada saygılı bir hitap kullanmak",
+      "Ev sahibinin ziyaretçiyi uğurlamadan makamında kalması",
+      "Ev sahibinin ziyaretçiyi kapıya kadar uğurlaması",
+      "Ziyaretçinin çıkışını kolaylaştırmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Ziyaret ve karşılama protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Görüşmeyi nazikçe sonlandırmak” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-60-0n1g",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî toplantıda konuşmacıya karşı aşağıdaki davranışlardan hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Konuşmacının sözünü keserek açıklama yapmak",
+      "Toplantı saatine zamanında gelmek",
+      "Konuşmacıyı dikkatle dinlemek",
+      "Söz istemek için başkanın onayını beklemek",
+      "Gerekli notları sessizce almak"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Toplantı saatine zamanında gelmek” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-61-kcqe",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokole vekâleten katılan kişi, “___” yerine yetkiyle katılır.",
+    "options": [
+      "basın temsilcisinin",
+      "organizasyon görevlisinin",
+      "davet sahibinin",
+      "asıl yetkilinin",
+      "en kıdemsiz personelin"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Temsil ve kurumsal itibar. “asıl yetkilinin” doğru uygulamayı açıklar; “basın temsilcisinin” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-62-s23s",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmi yemeklerde veya ziyafetlerde onur konuğunun (baş misafirin) yeri neresidir?",
+    "options": [
+      "Ev sahibinin tam karşısı",
+      "Ev sahibinin sol tarafı",
+      "Masanın başı",
+      "Ev sahibinin sağ tarafı",
+      "Masanın ortası"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Ev sahibinin sağ tarafı” doğru uygulamayı açıklar; “Ev sahibinin tam karşısı” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-63-kicj",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Kurumsal veya resmi iş yemeklerinde hesabın ödenmesi ile ilgili kural hangisidir?",
+    "options": [
+      "Misafir (davet edilen) öder.",
+      "Masada toplanan bahşişlerle hesap kapatılır.",
+      "Katılımcılar arasında en ast olan kişi tüm hesabı öder.",
+      "Herkesin kendi hesabını ödediği Alman usulü uygulanır.",
+      "Daveti yapan (ev sahibi konumundaki kurum/kişi) hesabı öder."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Daveti yapan (ev sahibi konumundaki kurum/kişi) hesabı öder.” doğru uygulamayı açıklar; “Misafir (davet edilen) öder.” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-64-nz6p",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Tokalaşma sırasında aşağıdaki davranışlardan hangisi protokol açısından uygun DEĞİLDİR?",
+    "options": [
+      "Kısa ve ölçülü davranmak",
+      "Güleryüzle karşılık vermek",
+      "Göz teması kurmak",
+      "Karşı tarafın elini aşırı sert biçimde sıkmak",
+      "El uzatma inisiyatifine saygı göstermek"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. Doğru seçenek uygun olmayan uygulamayı gösterir; “Kısa ve ölçülü davranmak” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-65-lusa",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir hitapta “Sayın” kelimesinden sonra kişinin “___” yer alır.",
+    "options": [
+      "makamı, unvanı veya soyadı",
+      "görev dışı lakabı",
+      "yalnızca öz adı",
+      "kişisel hobisi",
+      "doğum yeri"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî yazışma usulleri. “makamı, unvanı veya soyadı” doğru uygulamayı açıklar; “görev dışı lakabı” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-66-gv2l",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Araç protokolü için aşağıdaki ifadelerden hangileri doğrudur? I. Şoförlü makam aracında şeref yeri arka sağdır II. Ast, üstü bekletmemek için gerektiğinde önce araca biner III. Makam sahibinin kullandığı araçta onur konuğu arka sağa oturur",
+    "options": [
+      "I, II ve III",
+      "Yalnız III",
+      "Yalnız I",
+      "II ve III",
+      "I ve II"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Araç ve seyahat protokolü. I ve II doğrudur; III makam sahibinin kullandığı araçta onur konuğunun yeri ön sağdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-67-2n3r",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Şeref yeri uygulamasıyla ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Yan yana yürüyüşte üst makam sağ tarafta yer alır.",
+      "Protokolde sağ taraf öncelikli ve onurlu konumla ilişkilendirilir.",
+      "Şoförlü makam aracında şeref yeri arka sağ koltuktur.",
+      "Onur konuğu resmî yemekte ev sahibinin sağında oturur.",
+      "Şeref yeri protokolde sol taraf olarak kabul edilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Yan yana yürüyüşte üst makam sağ tarafta yer alır.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-68-h3pa",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî yazışmalar için aşağıdaki ifadelerden hangileri doğrudur? I. İmza yetkili makam sahibi tarafından atılır II. Paraf, imza yetkisini tek başına ikame eder III. “Gereği” işlem yapılması beklenen dağıtımı gösterir",
+    "options": [
+      "II ve III",
+      "I, II ve III",
+      "I ve III",
+      "Yalnız II",
+      "Yalnız I"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî yazışma usulleri. I ve III doğrudur; II parafın işlevini aşar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-69-x1aa",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Sosyal davranış kuralları ile protokol kuralları arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sosyal davranış kuralları yalnızca uluslararası ilişkiler için geçerlidir",
+      "Sosyal davranış kuralları makam ve unvan sırasını belirler",
+      "Protokol kuralları kurumsal ilişkilerde uygulanmaz",
+      "Protokol kuralları yalnızca özel davetlerde kullanılır",
+      "Sosyal davranış kuralları toplum hayatının, protokol kuralları ise resmî hayatın ahenkle sürmesine katkı sağlar"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. “Sosyal davranış kuralları toplum hayatının, protokol kuralları ise resmî hayatın ahenkle sürmesine katkı sağlar” doğru uygulamayı açıklar; “Sosyal davranış kuralları yalnızca uluslararası ilişkiler için geçerlidir” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-7-n1ra",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bayrak kullanımına ilişkin aşağıdaki ifadelerden hangileri doğrudur? I. Türk Bayrağı yere değdirilmemelidir II. Millî bayramlarda bayrak asma esasları 2893 sayılı Kanunla düzenlenir III. Bayrağın üzerine uygun görülen her yazı ve şekil eklenebilir",
+    "options": [
+      "I ve II",
+      "Yalnız III",
+      "I, II ve III",
+      "II ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Bayrak ve millî semboller. I ve II doğrudur; III bayrağın kullanım esaslarıyla bağdaşmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-70-fmkn",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Selam vermede inisiyatifi “___” alır; protokolde şeref yeri ise genellikle “___” taraftır.",
+    "options": [
+      "genç / sol",
+      "misafir / orta",
+      "ast / sağ",
+      "üst / sol",
+      "ev sahibi / arka"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. “ast / sağ” doğru uygulamayı açıklar; “genç / sol” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-71-zk1m",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir resmi belgede 'EK' ibaresi neyi gösterir?",
+    "options": [
+      "Yazının iptal edildiğini",
+      "Yazının aslı olduğunu",
+      "Yazıya iliştirilen belge/belgelerin olduğunu",
+      "Yazının kopya olduğunu",
+      "Yazının gizli olduğunu"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî yazışma usulleri. “Yazıya iliştirilen belge/belgelerin olduğunu” doğru uygulamayı açıklar; “Yazının iptal edildiğini” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-72-7y8m",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Büyükelçilere yazılı ve sözlü hitaplarda kullanılan resmi protokol unvanı aşağıdakilerden hangisidir?",
+    "options": [
+      "Saygıdeğer",
+      "Ekselansları",
+      "Muhterem",
+      "Zat-ı Alileri",
+      "Majesteleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Diplomatik protokol. “Ekselansları” doğru uygulamayı açıklar; “Saygıdeğer” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-73-be9v",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir makama 'vekalet' eden (vekil olan) kamu görevlisi, protokolde hangi sırayı alır?",
+    "options": [
+      "Vekalet ettiği asil makamın protokol sırasını kullanır.",
+      "Sadece kurum içi toplantılarda başa geçer.",
+      "Vekiller protokole katılamaz.",
+      "Vekalet süresince kendi asıl kadrosunun sırasında kalmaya devam eder.",
+      "Vekalet süresi boyunca protokol listesinin en sonuna geçer."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. “Vekalet ettiği asil makamın protokol sırasını kullanır.” doğru uygulamayı açıklar; “Sadece kurum içi toplantılarda başa geçer.” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-74-imvj",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir görüşmede sunulan ikramı kabul etmeyecek kişi nasıl davranmalıdır?",
+    "options": [
+      "İkramın niteliğini eleştirerek reddetmelidir",
+      "Teşekkür ederek nazikçe reddetmelidir",
+      "İkramı ev sahibine geri vermelidir",
+      "İkramı açıklama yapmadan masanın uzağına itmelidir",
+      "İkramla ilgilenmediğini belli ederek konu değiştirmelidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Teşekkür ederek nazikçe reddetmelidir” doğru uygulamayı açıklar; “İkramın niteliğini eleştirerek reddetmelidir” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-75-i5nx",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmi bir resepsiyonda ev sahibi, onur konuğunu başka davetlilerle tanıştırırken öncelikle hangi bilgiye yer vermelidir?",
+    "options": [
+      "Yaşına",
+      "Eğitim durumuna",
+      "Özel hayatına",
+      "Görev ve unvanına",
+      "Memleketine"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Görev ve unvanına” doğru uygulamayı açıklar; “Yaşına” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-76-x14p",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "İki ve üç makamın birlikte imzalayacağı belgelerde en üst makamın imza yeri için doğru eşleştirme hangisidir?",
+    "options": [
+      "İki imzada solda / üç imzada sağda",
+      "İki imzada ortada / üç imzada solda",
+      "İki imzada sağda / üç imzada ortada",
+      "İki imzada solda / üç imzada ortada",
+      "İki imzada ortada / üç imzada sağda"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî yazışma usulleri. “İki imzada sağda / üç imzada ortada” doğru uygulamayı açıklar; “İki imzada solda / üç imzada sağda” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-77-s5ry",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmi bir akşam yemeğine veya resepsiyona kişilerin eşleriyle birlikte katılması isteniyorsa, davetiyeye ne yazılır?",
+    "options": [
+      "Sayın [Adı Soyadı] ve Eşleri (veya Eşi)",
+      "Davetiyeye 'misafir serbesttir' ibaresi yazılır",
+      "Davetiyeye sadece 'eşsiz gelmeyiniz' notu düşülür",
+      "Davetiyeye 'çocuklu gelinmez' ibaresi yazılır",
+      "Davetiyeye sadece 'ailecek geliniz' notu düşülür"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Sayın [Adı Soyadı] ve Eşleri (veya Eşi)” doğru uygulamayı açıklar; “Davetiyeye 'misafir serbesttir' ibaresi yazılır” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-78-gmcv",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Makam odasına girişte aşağıdaki uygulamalardan hangileri doğrudur? I. Kapıyı çalmak II. İzin gelmesini beklemek III. Davet edilmeden istenilen yere oturmak",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III",
+      "II ve III"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. I ve II doğru usuldür; III yer gösterilmeden oturmak uygun değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-79-s5pt",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Devlet töreninde bayrak taşıma görevi genellikle kime verilir?",
+    "options": [
+      "Sadece tören alanının güvenlik sorumlusuna",
+      "Basın toplantısını yönetecek kişiye",
+      "Davetli listesinde en kıdemsiz görevliye",
+      "Törenin niteliğine göre belirlenen görevliye veya birliğe",
+      "Tören programında ilk konuşacak kişiye"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Bayrak ve millî semboller. “Törenin niteliğine göre belirlenen görevliye veya birliğe” doğru uygulamayı açıklar; “Sadece tören alanının güvenlik sorumlusuna” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-8-7wq1",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmi bir davette 'RSVP' ibaresi ne anlama gelir?",
+    "options": [
+      "Davetin iptal edildiği",
+      "Yer değişikliği olduğu",
+      "Katılımın önceden bildirilmesi rica edilir",
+      "Saatin değiştiği",
+      "Kıyafet kuralının olmadığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Katılımın önceden bildirilmesi rica edilir” doğru uygulamayı açıklar; “Davetin iptal edildiği” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-80-wbnt",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî toplantıdaki davranışlar için aşağıdaki ifadelerden hangileri uygundur? I. Konuşmacının sözünü kesmemek II. Telefonla sürekli ilgilenmek III. Zamanında gelmek",
+    "options": [
+      "II ve III",
+      "I ve III",
+      "I, II ve III",
+      "Yalnız II",
+      "Yalnız I"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. I ve III resmî nezaketle uyumludur; II toplantı akışını bozar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-81-at8z",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Devlet ziyareti ile resmî ziyaret arasındaki farkı en doğru biçimde açıklayan seçenek hangisidir?",
+    "options": [
+      "Devlet ziyareti daha üst düzey ve kapsamlı protokolle, resmî ziyaret ise nispeten daha sade protokolle yürütülür",
+      "Resmî ziyaret devlet ziyaretinden daha üst düzey protokolle yürütülür",
+      "İki ziyaret türü yalnızca süre bakımından ayrılır",
+      "Resmî ziyaretlerde protokol düzeni uygulanmaz",
+      "Devlet ziyareti sadece özel kurumlarla yapılır"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Diplomatik protokol. “Devlet ziyareti daha üst düzey ve kapsamlı protokolle, resmî ziyaret ise nispeten daha sade protokolle yürütülür” doğru uygulamayı açıklar; “Resmî ziyaret devlet ziyaretinden daha üst düzey protokolle yürütülür” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-82-hbte",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Basın açıklamasında kurumsal temsil ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Sözcünün konumu kurumsal temsil kurallarına uygun belirlenir.",
+      "Sözcünün konumu yalnızca sahne ışığına göre belirlenmelidir.",
+      "Mesajın açık ve tutarlı olması önemlidir.",
+      "Sözcü resmî dil ve ölçüyü korur.",
+      "Açıklama öncesinde ilgili birimlerle koordinasyon kurulabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Temsil ve kurumsal itibar. Doğru seçenek uygun olmayan uygulamayı gösterir; “Sözcünün konumu kurumsal temsil kurallarına uygun belirlenir.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-83-nuzq",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Kurumsal çiçek gönderiminde aşağıdakilerden hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Sade ve amaca uygun tercihte bulunmak",
+      "Kurumsal temsilde ölçülü davranmak",
+      "Çiçeğin mesajını etkinliğe uygun tutmak",
+      "Etkinliğin niteliğini dikkate almadan gösterişli kişisel armağan göndermek",
+      "Açılış veya cenaze için uygun aranjmanı seçmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Sade ve amaca uygun tercihte bulunmak” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-84-qnr2",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Bir devlet temsilcisinin basına açıklama öncesinde ilgili birimle koordinasyon kurması neden önemlidir?",
+    "options": [
+      "Konuşmanın içeriğini başlıktan bağımsızlaştırmak için",
+      "Açıklamanın yalnızca daha uzun sürmesini sağlamak için",
+      "Basın mensuplarının soru sormasını engellemek için",
+      "Kurumun temsil sorumluluğunu kişiselleştirmek için",
+      "Kamuoyuna tutarlı ve doğru bilgi aktarılmasını sağlamak için"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Diplomatik protokol. “Kamuoyuna tutarlı ve doğru bilgi aktarılmasını sağlamak için” doğru uygulamayı açıklar; “Konuşmanın içeriğini başlıktan bağımsızlaştırmak için” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-85-k0hu",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî bir ziyarette kurum adına çiçek gönderilirken hangi yaklaşım tercih edilmelidir?",
+    "options": [
+      "Çiçek mesajını davetli listesiyle sınırlamak",
+      "Ölçülü, sade ve amaca uygun bir çiçek seçmek",
+      "Gönderimi tören programından bağımsız planlamak",
+      "Etkinliğin niteliğini dikkate almadan kişisel tercih yapmak",
+      "Çiçek türünü yalnızca kurum logosuna göre belirlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. “Ölçülü, sade ve amaca uygun bir çiçek seçmek” doğru uygulamayı açıklar; “Çiçek mesajını davetli listesiyle sınırlamak” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-86-40s4",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Toplantıda söz alma usulü bakımından aşağıdakilerden hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Başkanın iznini beklemek",
+      "Başkan söz vermeden konuşmaya başlamak",
+      "Konuşmacının sözünü kesmemek",
+      "El kaldırarak söz istemek",
+      "Söz alındığında konuya bağlı kalmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Başkanın iznini beklemek” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-87-5l6s",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Protokolde selamlama kuralına göre öncelik kime aittir?",
+    "options": [
+      "Makamı büyük olan herkesi selamlamadan geçer.",
+      "Herkes birbirini tam olarak aynı anda selamlar.",
+      "Üst astı, kadın erkeği, yaşlı genci önce selamlar.",
+      "Ast üstü, erkek kadını, genç yaşlıyı, ayrılan kalanları önce selamlar.",
+      "Gelen kişi, odadakilerin onu selamlamasını bekler."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. “Ast üstü, erkek kadını, genç yaşlıyı, ayrılan kalanları önce selamlar.” doğru uygulamayı açıklar; “Makamı büyük olan herkesi selamlamadan geçer.” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-88-wzqt",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Gizlilik dereceli belgeyle ilgili aşağıdaki uygulamalardan hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Belgeyi gizlilik derecesini dikkate almadan genel erişime açmak",
+      "Erişimi ilgili kişilerle sınırlamak",
+      "Belgeyi güvenlik prosedürlerine göre saklamak",
+      "İletimde yetkili kanalları kullanmak",
+      "Belge işlemlerini kayıt düzeni içinde yürütmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî yazışma usulleri. Doğru seçenek uygun olmayan uygulamayı gösterir; “Erişimi ilgili kişilerle sınırlamak” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-89-a3im",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Toplantıda söz alma ve not tutma bakımından aşağıdaki ifadelerden hangileri doğrudur? I. Söz alma başkanın izniyle olur II. Notlar görüşme akışını bozmadan tutulur III. Telefon görüşmeleri toplantı sırasında sürdürülür",
+    "options": [
+      "Yalnız I",
+      "I, II ve III",
+      "II ve III",
+      "I ve II",
+      "Yalnız III"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. I ve II uygundur; III nezaket ve toplantı disiplinine aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-9-kfn6",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Aşağıdakilerden, protokol sıralamasında genel olarak doğru öncelik sırasını yansıtan seçenek hangisidir?",
+    "options": [
+      "Bakanlar - Cumhurbaşkanı - TBMM Başkanı",
+      "Vali - Cumhurbaşkanı - TBMM Başkanı",
+      "Bakanlar - TBMM Başkanı - Cumhurbaşkanı",
+      "TBMM Başkanı - Bakanlar - Cumhurbaşkanı",
+      "Cumhurbaşkanı - TBMM Başkanı - Bakanlar"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Tören ve devlet protokolü. “Cumhurbaşkanı - TBMM Başkanı - Bakanlar” doğru uygulamayı açıklar; “Bakanlar - Cumhurbaşkanı - TBMM Başkanı” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-90-s6sz",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Yurt dışı ziyarette uçağa biniş düzeninde aşağıdakilerden hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Güvenlik ve saygı düzeninin gözetilmesi",
+      "En üst düzey yetkilinin en son binmesi",
+      "Astların önce yerini alması",
+      "En üst düzey yetkilinin sıraya ilk girerek en önce binmesini istemek",
+      "İnişte en üst düzey yetkilinin önce ayrılması"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Araç ve seyahat protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Güvenlik ve saygı düzeninin gözetilmesi” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-91-3i4u",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmî davetiye hazırlanırken aşağıdakilerden hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Davet sahibini açıkça belirtmek",
+      "Eşli katılım bilgisini gerektiğinde yazmak",
+      "Tarih, saat ve yer bilgisine yer vermemek",
+      "Katılım teyidi gerektiğinde L.C.V. veya RSVP kullanmak",
+      "Gerekliyse kıyafet kuralını belirtmek"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Davet sahibini açıkça belirtmek” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-92-lenx",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Yazılı kural niteliği taşımamakla birlikte yerleşmiş uygulama olarak kabul edilen protokol kavramı aşağıdakilerden hangisidir?",
+    "options": [
+      "Teşrifat",
+      "İvedi",
+      "Paraf",
+      "Teamül",
+      "Vekâlet"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Toplantı ve organizasyon protokolü. “Teamül” doğru uygulamayı açıklar; “Teşrifat” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-93-40mv",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Yabancı heyetle görüşmede kültürel duyarlılıkla ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "İkram planında kültürel ve kişisel tercihler gözetilebilir.",
+      "Diplomatik nezaket ilişkileri güçlendirir.",
+      "Yerel gelenek ve hassasiyetlerin dikkate alınması gereksizdir.",
+      "Kültürel duyarlılık karşılıklı saygıyı destekler.",
+      "Görüşmede uygun hitap biçimi kullanılır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Diplomatik protokol. Doğru seçenek uygun olmayan uygulamayı gösterir; “İkram planında kültürel ve kişisel tercihler gözetilebilir.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-94-dpzn",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Yabancı bir heyeti karşılamada aşağıdaki yaklaşımlardan hangisi uygun DEĞİLDİR?",
+    "options": [
+      "Uygun unvanda temsilci görevlendirmek",
+      "Programı önceden koordine etmek",
+      "Karşılamayı resmî nezaket çerçevesinde yapmak",
+      "Misafirin kültürel hassasiyetlerini gözetmek",
+      "Karşılama heyetini misafirin makam düzeyini dikkate almadan oluşturmak"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Diplomatik protokol. Doğru seçenek uygun olmayan uygulamayı gösterir; “Uygun unvanda temsilci görevlendirmek” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-95-k3h4",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Resmi bir toplantıya giren kişinin ilk yapması gereken davranış nedir?",
+    "options": [
+      "Sessizce oturmak",
+      "Selam vererek kendini tanıtmak",
+      "Telefon kontrolü yapmak",
+      "Beklemeden konuşmaya başlamak",
+      "Doğrudan konuya girmek"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. “Selam vererek kendini tanıtmak” doğru uygulamayı açıklar; “Sessizce oturmak” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-96-yuru",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "İl protokolüyle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Başkent dışındaki il protokol listesinde ilk sırada büyükşehir belediye başkanı yer alır.",
+      "İl protokolünde makam sırası esas alınır.",
+      "İl protokol listesinde ilk sırada vali bulunur.",
+      "Vali ilde devletin temsilcisi sıfatıyla önceliklidir.",
+      "İl protokol listeleri valilik tarafından hazırlanır ve uygulanır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Tören ve devlet protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “İl protokolünde makam sırası esas alınır.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-97-1jan",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Makam sahibi aracı bizzat kullanıyorsa onur konuğu için uygun yer neresidir?",
+    "options": [
+      "Arka sol koltuk",
+      "Arka orta koltuk",
+      "Makam sahibinin hemen arkasındaki koltuk",
+      "Şoför yanı olan ön sağ koltuk",
+      "Arka sağ koltuk"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Araç ve seyahat protokolü. “Şoför yanı olan ön sağ koltuk” doğru uygulamayı açıklar; “Arka sol koltuk” bu kuralla uyumlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-98-4658",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Makam odasına belge sunulmasıyla ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Görevli, dosyayı açıklama yapmadan bırakıp sessizce çıkmalıdır.",
+      "Sunulan evrak hakkında kısa ve açık bilgi verilir.",
+      "Belgenin konusu ve işlem ihtiyacı açıkça belirtilir.",
+      "Makam odasına girmeden önce izin alınır.",
+      "Belge sunumunda saygılı bir iletişim kurulur."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Resmî nezaket ve iletişim. Doğru seçenek uygun olmayan uygulamayı gösterir; “Sunulan evrak hakkında kısa ve açık bilgi verilir.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-protokol-kurallari-807r5-mt8vqy11-99-5v6r",
+    "topic_id": "t-protokol-kurallari-807r5",
+    "prompt": "Kıyafet kuralı ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "Siyah kravat ibaresi resmî bir daveti anlatır.",
+      "Resmî davetlerde sade ve özenli görünüm tercih edilir.",
+      "Kıyafet tercihi davetin resmiyet düzeyine uygun olmalıdır.",
+      "Davetin niteliği kıyafet seçimini etkilemez.",
+      "Kıyafet kuralı davetiyede belirtilebilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Protokol Kuralları Sunumu – Sofra ve davet protokolü. Doğru seçenek uygun olmayan uygulamayı gösterir; “Siyah kravat ibaresi resmî bir daveti anlatır.” ise bu bağlamda uygun bir yaklaşımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T16:29:13.902949+00:00",
+    "updated_at": "2026-08-25T16:29:13.902949+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-0-ijwq",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların gelirleri arasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "Üyelerinin ödeyecekleri üyelik ödentileri",
+      "Mal varlığından elde edilen gelirler",
+      "Kanun'a göre yapabilecekleri faaliyetlerden elde edilecek gelirler",
+      "Kamu makamlarından alınan yardımlar",
+      "Bağış ve yardımlar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 24'e göre gelirler; üyelik ödentileri, faaliyetlerden elde edilecek gelirler, bağış ve yardımlar ile mal varlığından elde edilen gelirlerden oluşur. Kamu makamlarından yardım almak ise Madde 20 uyarınca yasaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-1-e8l4",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar nakit gelirlerini nerede muhafaza etmek zorundadır?",
+    "options": [
+      "Devlet tahvillerinde",
+      "Bankalarda",
+      "Kasalarında",
+      "Altın hesabında",
+      "Döviz hesabında"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 24'ün üçüncü fıkrasına göre sendika ve konfederasyonlar tüm nakdî gelirlerini bankalara yatırmak zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-10-ewa0",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, demirbaş sayılan eşya veya malzemeler nasıl işlem görür?",
+    "options": [
+      "Genel kurul kararıyla gider yazılabilir, ayrıca kayıt tutulmaz",
+      "Demirbaş defterine kaydedilir ve hiçbir şekilde gider olarak işlem göremez",
+      "Sadece taşınmazlar için defter tutulur, taşınırlar için tutulmaz",
+      "Doğrudan gider olarak kaydedilir, demirbaş defterine işlenmez",
+      "Yıl sonunda otomatik olarak amorti edilir ve gider yazılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 26'nın üçüncü fıkrasına göre Vergi Usul Kanun'una göre demirbaş sayılan eşya veya malzeme demirbaş defterine kaydedilir ve hiçbir şekilde gider olarak işlem göremez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-11-uyg7",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar gelirlerini hangi amaçlar dışında kullanamaz ve bağışlayamaz?",
+    "options": [
+      "Yalnızca genel kurulun onayladığı amaçlar dışında",
+      "Yalnızca Bakanlığın onayladığı amaçlar dışında",
+      "Tüzüklerinde belirtilen amaçları ve Kanunda gösterilen faaliyetleri dışında",
+      "Herhangi bir kısıtlama yoktur, dilediği amaçla kullanılabilir",
+      "Yalnızca valiliğin onayladığı amaçlar dışında"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 26'nın birinci fıkrasına göre sendika ve konfederasyonlar gelirlerini tüzüklerinde belirtilen amaçları ve Kanunda gösterilen faaliyetleri dışında kullanamaz ve bağışlayamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-12-ew3z",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların yıllık hesapları ........... tarafından denetlenerek bağımsız denetim raporu hazırlanır.",
+    "options": [
+      "Bakanlık müfettişleri",
+      "Kamu Gözetimi Kurumu denetçileri",
+      "Vergi müfettişleri",
+      "3568 sayılı Kanun'a göre denetim yetkisi almış meslek mensupları",
+      "Sayıştay denetçileri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 27'nin ikinci fıkrasına göre yıllık hesaplar, 3568 sayılı Kanun'a göre denetim yetkisi almış meslek mensupları tarafından denetlenerek bağımsız denetim raporu hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-13-5t7p",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, bağımsız denetim raporları nereye sunulur?",
+    "options": [
+      "Devlet Denetleme Kuruluna",
+      "Genel Kurula",
+      "Valiliğe",
+      "Sayıştay'a",
+      "Maliye Bakanlığına"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 27'nin ikinci fıkrasına göre bağımsız denetim raporları genel kurula sunulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-14-1ue6",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar bilanço, hesap, çalışma ve denetleme raporlarını ait oldukları dönemi izleyen kaç ay içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
+    "options": [
+      "3 ay",
+      "2 ay",
+      "6 ay",
+      "4 ay",
+      "1 ay"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 27'nin üçüncü fıkrasına göre bu belgeler, ilgili dönemi izleyen üç ay içinde Bakanlığa gönderilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-15-lakm",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubesi, sendika ve konfederasyonların idari ve mali denetimini kim yapar?",
+    "options": [
+      "Yalnızca valilik",
+      "Yalnızca Bakanlık müfettişleri",
+      "Yalnızca Sayıştay",
+      "Yalnızca genel kurul",
+      "Denetleme kurulları ya da denetçiler"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 27'nin birinci fıkrasına göre idari ve mali denetim, denetleme kurulları ya da denetçiler tarafından yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-16-bocl",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika merkez genel kurul kararıyla üyelikten çıkarılanların isimleri sendikaca kaç gün içinde işverene bildirilmelidir?",
+    "options": [
+      "Beş gün",
+      "On gün",
+      "On beş gün",
+      "Otuz gün",
+      "Altmış gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 25'e göre sendika merkez genel kurul kararıyla üyelikten çıkarılan üyelerin isimlerinin sendikaca on beş gün içinde işverene bildirilmesi zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-17-3lg1",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların muhasebe kayıtları hangi esasa göre tutulur?",
+    "options": [
+      "İşletme hesabı esasına",
+      "Kasa hesabı esasına",
+      "Tahakkuk cetveli esasına",
+      "Bilanço esasına",
+      "Bütçe hesabı esasına"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 26'ya göre sendika ve konfederasyonların muhasebe kayıtları bilanço esasına göre tutulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-18-oelj",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların tutacakları defterlerin tasdik şekli ile kayıtların düzenlenme usul ve esasları ne ile belirlenir?",
+    "options": [
+      "Toplu sözleşmeyle",
+      "Yönetmelikle",
+      "Sendika genelgesiyle",
+      "Kurum idarî kurulu kararıyla",
+      "İşyeri kararıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 26'ya göre tutulacak defterler, tasdik şekli ve kayıtların düzenlenme usul ve esasları bir yönetmelikle belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-2-17h1",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi sendika ve konfederasyonların gelir kaynaklarından biridir?",
+    "options": [
+      "Kamu makamlarından alınan yardımlar",
+      "Siyasi partilerden alınan bağışlar",
+      "Mal varlığından elde edilen gelirler",
+      "Üyelerin şahsi bağışları dışında hiçbir gelir kabul edilmez",
+      "Sendikaya üye olmayan kişilerden alınan zorunlu aidatlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 24'e göre mal varlığından elde edilen gelirler sendika ve konfederasyonların yasal gelir kaynaklarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-3-zr4d",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika üyelik ödentisi kamu görevlisinin aylığından kesildikten sonra en geç kaç gün içinde sendikanın banka hesabına yatırılır?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "3 gün",
+      "5 gün",
+      "7 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 25'in birinci fıkrasına göre kesilen ödenti beş gün içinde sendikaların banka hesaplarına yatırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-4-u5yf",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, üye aidat kesinti listesi kamu işvereni tarafından işyerinde ne zaman ilan edilir?",
+    "options": [
+      "Yılda bir kez",
+      "Her ayın 15'inde",
+      "Her ayın ilk haftasında",
+      "İlan edilmesi zorunlu değildir",
+      "Her ayın son haftasında"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 25'in birinci fıkrasına göre kamu işvereni, sendikaya üye olan ve ödentisi kesilen kamu görevlilerinin listesini her ayın son haftasında ilan eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-5-b6k4",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, aylık üyelik ödenti tutarı, 15 inci derecenin 1 inci kademesinden aylık alan Devlet memurunun damga vergisine tabi brüt gelirleri toplamının en çok ne kadarı olabilir?",
+    "options": [
+      "Yirmide biri",
+      "Binde dördü",
+      "Otuzda biri",
+      "Kırkta biri",
+      "Yüzde onu"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 25'in ikinci fıkrasına göre ödenti tutarı, binde dörtten az, otuzda birinden fazla olamaz; üst sınır otuzda birdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-6-9r62",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, konfederasyonlara ödenecek ödenti miktarı, sendikaların ödenti tutarlarının yüzde ...........'inden aşağı olamaz.",
+    "options": [
+      "20",
+      "5",
+      "15",
+      "3",
+      "10"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 25'in son fıkrasına göre konfederasyonlara ödenecek ödenti miktarı, sendika ödenti tutarlarının yüzde beşinden aşağı olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-7-41rv",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika tüzüğüne üyelik ödentisi dışında başka ne tür bir kesinti öngören hüküm konulabilir mi?",
+    "options": [
+      "Evet, genel kurul kararıyla her türlü kesinti konulabilir",
+      "Bakanlık izniyle konulabilir, genel kurul kararı aranmaz",
+      "Sadece dayanışma aidatı için konulabilir, başka kesinti yapılamaz",
+      "Hayır, üyelik ödentisi dışında başka bir kesinti öngören hüküm konulamaz",
+      "Sadece disiplin cezası olarak konulabilir, aidattan bağımsız uygulanır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 25'in üçüncü fıkrasına göre sendika tüzüğüne, üyelik ödentisi dışında herhangi bir kesinti öngören hüküm konulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-8-07hg",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar gelirlerinin en az yüzde kaçını üyelerinin mesleki bilgi ve tecrübelerini artırmak için kullanmak zorundadır?",
+    "options": [
+      "%10",
+      "%5",
+      "%20",
+      "%25",
+      "%15"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 26'nın ikinci fıkrasına göre sendika ve konfederasyonlar gelirlerinin en az yüzde onunu üyelerinin mesleki bilgi ve tecrübelerini artırmak için kullanmak zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn-mtn02k1d-9-2u1c",
+    "topic_id": "t-sendika-ve-konfederasyonlarin-gelirleri--rjnbn",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubeleri, sendika ve konfederasyonlar üyelerine veya yöneticilerine borç para verebilir mi?",
+    "options": [
+      "Yalnızca 400'den fazla üyesi olan sendikalar verebilir",
+      "Evet, sınırsız olarak verebilir",
+      "Yalnızca konfederasyonlar verebilir",
+      "Yalnızca genel kurul kararıyla verebilir",
+      "Hayır, yardımlaşma sandıkları dışında borç para veremezler"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 26'nın dördüncü fıkrasına göre sendika şubeleri, sendika ve konfederasyonlar yardımlaşma sandıkları dışında üyelerine, yöneticilerine veya diğer kişi ve kuruluşlara borç para veremez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:00.096141+00:00",
+    "updated_at": "2026-09-04T13:39:00.096141+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-0-dkjo",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz yumuşaması vardır?",
+    "options": [
+      "sanatçı",
+      "ağaçta",
+      "sınıfta",
+      "yurtta",
+      "kitabım"
+    ],
+    "answer_index": 4,
+    "explanation": "“Kitap” sözcüğü ünlüyle başlayan ek aldığında sonundaki p ünsüzü b’ye dönüşür: kitap + ım → kitabım.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-1-2bdk",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde kaynaştırma ünsüzü kullanılmıştır?",
+    "options": [
+      "kitapta",
+      "evler",
+      "sınıfı",
+      "arabaya",
+      "okuldan"
+    ],
+    "answer_index": 3,
+    "explanation": "“Araba” sözcüğü yönelme eki alırken iki ünlü arasına y kaynaştırma ünsüzü girer: araba-y-a.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-10-lgph",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz yumuşaması vardır?",
+    "options": [
+      "kitaplar",
+      "kitapçı",
+      "kitabı",
+      "kitaplık",
+      "kitapsız"
+    ],
+    "answer_index": 2,
+    "explanation": "'kitap-ı' → 'kitabı' örneğinde p sesi b'ye yumuşamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-11-ohsd",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde kaynaştırma ünsüzü kullanılmıştır?",
+    "options": [
+      "göz-ü",
+      "ev-e",
+      "kalem-i",
+      "kapı-y-a",
+      "kitap-a"
+    ],
+    "answer_index": 3,
+    "explanation": "'kapı' ünlüyle biten bir sözcüktür, ünlüyle başlayan ek eklenirken araya 'y' kaynaştırma ünsüzü girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-12-6ci3",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz düşmesi vardır?",
+    "options": [
+      "ev-i",
+      "kalem-i",
+      "küçük-ceğiz → küçücek",
+      "kapı-ya",
+      "göz-e"
+    ],
+    "answer_index": 2,
+    "explanation": "'küçük' sözcüğü küçültme eki alırken sondaki k ünsüzü düşer.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-13-t3k3",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz benzeşmesi (sertleşmesi) vardır?",
+    "options": [
+      "yolun",
+      "kitapçı",
+      "evler",
+      "odacı",
+      "kalemi"
+    ],
+    "answer_index": 1,
+    "explanation": "“Kitap” sözcüğüne gelen -cı eki, sert ünsüz p’nin etkisiyle -çı biçimine dönüşür.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-14-97ua",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz türemesi vardır?",
+    "options": [
+      "hissetmek",
+      "kitabı",
+      "burnu",
+      "arabaya",
+      "başlıyor"
+    ],
+    "answer_index": 0,
+    "explanation": "“His” sözcüğü “etmek” yardımcı fiiliyle birleşirken s ünsüzü türer: hissetmek.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-15-eoiw",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisi büyük ünlü uyumuna uymaz?",
+    "options": [
+      "sorular",
+      "gözlük",
+      "kapılar",
+      "elma",
+      "yolculuk"
+    ],
+    "answer_index": 3,
+    "explanation": "“Elma” sözcüğünde ince e ünlüsünden sonra kalın a ünlüsü geldiği için büyük ünlü uyumuna uymaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-16-xbhh",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisi küçük ünlü uyumuna uymaz?",
+    "options": [
+      "duman",
+      "kuzu",
+      "yorgun",
+      "kutu",
+      "burun"
+    ],
+    "answer_index": 0,
+    "explanation": "Küçük ünlü uyumuna göre yuvarlak ünlüden sonra düz-geniş ya da dar-yuvarlak ünlü gelmelidir; 'duman' bu uyuma aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-17-ebri",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde k ünsüzü ğ'ye dönüşmüştür?",
+    "options": [
+      "ev-e",
+      "kitap-ı → kitabı",
+      "ağaç-ı → ağacı",
+      "kapı-ya",
+      "ekmek-i → ekmeği"
+    ],
+    "answer_index": 4,
+    "explanation": "'ekmek' sözcüğüne ünlüyle başlayan ek gelince sondaki k, ğ'ye dönüşür: 'ekmeği'.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-18-91g3",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisi küçük ünlü uyumuna uymaz?",
+    "options": [
+      "çocuk",
+      "yolcu",
+      "gözlük",
+      "yağmur",
+      "köprü"
+    ],
+    "answer_index": 3,
+    "explanation": "“Yağmur” sözcüğünde düz a ünlüsünden sonra yuvarlak u ünlüsünün gelmesi küçük ünlü uyumuna aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-19-6x5s",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisi büyük ünlü uyumuna uymaz?",
+    "options": [
+      "gözlük",
+      "kitaplık",
+      "kalemlik",
+      "masalar",
+      "elmalar"
+    ],
+    "answer_index": 0,
+    "explanation": "'gözlük' sözcüğünde kalın ünlüden sonra ince ünlü gelmiştir, büyük ünlü uyumuna aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-2-wu50",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde herhangi bir ses olayı yoktur?",
+    "options": [
+      "burnu",
+      "kalem",
+      "kitabı",
+      "başlıyor",
+      "hissetmek"
+    ],
+    "answer_index": 1,
+    "explanation": "“Kalem” sözcüğünde ses değişmesi, düşmesi, türemesi ya da daralması yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-20-c9ab",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz benzeşmesi (sertleşmesi) vardır?",
+    "options": [
+      "Dolaptan",
+      "Yolun",
+      "Evler",
+      "Odacı",
+      "Kalemi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-21-1dbl",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Türkçe sözcüklerde ünlülerin kalınlık-incelik ve düzlük-yuvarlaklık bakımından uyum göstermesi kuralına ne ad verilir?",
+    "options": [
+      "Ünlü uyumu",
+      "Ünsüz uyumu",
+      "Ünsüz yumuşaması",
+      "Ünlü türemesi",
+      "Kaynaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-22-oglk",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Sözcüklerde art arda gelen ünlülerin kalınlık-incelik bakımından uyumuna ne ad verilir?",
+    "options": [
+      "Büyük ünlü uyumu",
+      "Küçük ünlü uyumu",
+      "Ünsüz uyumu",
+      "Ulama",
+      "Kaynaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-23-fc0y",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Sözcüklerde ünlülerin düzlük-yuvarlaklık bakımından uyumuna ne ad verilir?",
+    "options": [
+      "Küçük ünlü uyumu",
+      "Büyük ünlü uyumu",
+      "Ünsüz uyumu",
+      "Ulama",
+      "Kaynaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-24-lnq8",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Sert ünsüzle biten bir sözcüğe yumuşak ünsüzle başlayan bir ekin gelmesi sonucu sert ünsüzün sertleşmesine ne ad verilir?",
+    "options": [
+      "Ünsüz benzeşmesi (sertleşmesi)",
+      "Ünsüz yumuşaması",
+      "Ünlü daralması",
+      "Ünlü düşmesi",
+      "Ünsüz türemesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-25-l95y",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "'Kitap-ı' yerine 'kitabı' biçiminde p/ç/t/k seslerinin ünlüyle başlayan bir ek aldığında yumuşamasına ne ad verilir?",
+    "options": [
+      "Ünsüz yumuşaması",
+      "Ünsüz sertleşmesi",
+      "Ünlü türemesi",
+      "Ünlü düşmesi",
+      "Kaynaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-26-ixe3",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "İki ünlü arasında telaffuzu kolaylaştırmak için 'y, ş, s, n' seslerinden birinin araya girmesine ne ad verilir?",
+    "options": [
+      "Kaynaştırma",
+      "Ulama",
+      "Ünsüz yumuşaması",
+      "Ünlü daralması",
+      "Ünlü düşmesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-27-1tf4",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Ünsüzle biten bir sözcüğün ünlüyle başlayan bir sözcükle art arda söylenirken ünsüzün sanki sonraki sözcüğe bağlanmış gibi okunmasına ne ad verilir?",
+    "options": [
+      "Ulama",
+      "Kaynaştırma",
+      "Ünsüz yumuşaması",
+      "Ünlü türemesi",
+      "Ünlü daralması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-28-09ez",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "İki heceli bazı sözcüklerin ünlüyle başlayan bir ek aldığında ikinci hecedeki dar ünlünün düşmesine ne ad verilir?",
+    "options": [
+      "Ünlü düşmesi",
+      "Ünlü türemesi",
+      "Ünsüz düşmesi",
+      "Ünsüz türemesi",
+      "Ulama"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-29-iev3",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "'Küçücük', 'incecik' gibi pekiştirmeli sözcüklerde bir ünlünün veya ünsüzün eklenmesine ne ad verilir?",
+    "options": [
+      "Ses türemesi",
+      "Ses düşmesi",
+      "Ünlü daralması",
+      "Ünsüz yumuşaması",
+      "Kaynaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-3-7nf6",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde k ünsüzü ğ’ye dönüşmüştür?",
+    "options": [
+      "bileklik",
+      "bebeği",
+      "böcekten",
+      "küçükler",
+      "beşikler"
+    ],
+    "answer_index": 1,
+    "explanation": "“Bebek” sözcüğü ünlüyle başlayan ek aldığında sonundaki k ünsüzü ğ’ye dönüşür: bebeği.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-30-veio",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "'-yor' ekinin geldiği fiillerde son hecedeki geniş ünlünün (a/e) daralarak ı/i/u/ü'ye dönüşmesine ne ad verilir?",
+    "options": [
+      "Ünlü daralması",
+      "Ünlü düşmesi",
+      "Ünlü türemesi",
+      "Ünsüz yumuşaması",
+      "Ulama"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-31-cgcf",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz yumuşaması görülür?",
+    "options": [
+      "Ağacı",
+      "Ağaçlar",
+      "Ağaçlık",
+      "Ağaçsız",
+      "Ağaçtan"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-32-c6j5",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünlü düşmesi görülür?",
+    "options": [
+      "Boynu",
+      "Boyunlar",
+      "Boyundan",
+      "Boyuna",
+      "Boyunsuz"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-33-be5c",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünlü düşmesi görülür?",
+    "options": [
+      "Karnı",
+      "Karınlar",
+      "Karından",
+      "Karına",
+      "Karınsız"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-34-fh2c",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde kaynaştırma harfi kullanılmıştır?",
+    "options": [
+      "Kapı-y-ı",
+      "Kitaplar",
+      "Evler",
+      "Defterler",
+      "Öğrenciler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-35-dnzz",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünlü türemesi görülür?",
+    "options": [
+      "Azıcık",
+      "Kitaplık",
+      "Kalemlik",
+      "Defterlik",
+      "Evlerde"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-36-spqn",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünlü daralması vardır?",
+    "options": [
+      "Bekliyor",
+      "Bekledi",
+      "Bekleyecek",
+      "Bekleme",
+      "Bekler"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-37-3est",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisi küçük ünlü uyumuna uymaz?",
+    "options": [
+      "Kabuk",
+      "Kalem",
+      "Kitap",
+      "Defter",
+      "Silgi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-38-htv0",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "'Bir elin nesi var iki elin sesi var' cümlesinde hangi ses olayı belirgindir?",
+    "options": [
+      "Ulama",
+      "Kaynaştırma",
+      "Ünsüz yumuşaması",
+      "Ünlü daralması",
+      "Ünlü düşmesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-39-mout",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde sert ünsüz benzeşmesi (sertleşme) vardır?",
+    "options": [
+      "Kitap-çı",
+      "Kitab-ı",
+      "Kitap-lık",
+      "Kitap-sız",
+      "Kitap-ta"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-4-2azh",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ş kaynaştırma ünsüzü kullanılmıştır?",
+    "options": [
+      "kitabım",
+      "beşer",
+      "evler",
+      "yolculuk",
+      "ikişer"
+    ],
+    "answer_index": 4,
+    "explanation": "Sayılar üleştirme eki alırken ünlüyle bitenlerde ş kaynaştırma ünsüzü kullanılabilir: iki-şer.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-40-do8n",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Türkçe kurallarına göre bir sözcükte b, c, d, g ünsüzleriyle başlaması beklenmeyen ses türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Sert ünsüzler (p,ç,t,k)",
+      "Yumuşak ünsüzler",
+      "Ünlüler",
+      "Kaynaştırma ünsüzleri",
+      "Dar ünlüler"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-5-ewzq",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz türemesi vardır?",
+    "options": [
+      "kalem-i",
+      "ev-i",
+      "his-si",
+      "kapı-ya",
+      "göz-e"
+    ],
+    "answer_index": 2,
+    "explanation": "'his' sözcüğüne ek gelirken 's' ünsüzü türeyerek 'hissi' biçimini alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-6-t102",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ünsüz düşmesi vardır?",
+    "options": [
+      "bebeği",
+      "yazılı",
+      "küçücük",
+      "yolculuk",
+      "kitapçı"
+    ],
+    "answer_index": 2,
+    "explanation": "“Küçük + cük” birleşiminde ikinci k ünsüzü düşer ve “küçücük” biçimi oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-7-ibjf",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde herhangi bir ses olayı yoktur?",
+    "options": [
+      "kitabı",
+      "evler",
+      "ekmeği",
+      "burnu",
+      "kitapçı"
+    ],
+    "answer_index": 1,
+    "explanation": "'evler' sözcüğünde ünsüz yumuşaması, türeme, düşme gibi bir ses olayı yaşanmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-8-8nj9",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ekin başındaki d ünsüzü t’ye dönüşmüştür?",
+    "options": [
+      "ağaçta",
+      "evde",
+      "odada",
+      "yolda",
+      "gölde"
+    ],
+    "answer_index": 0,
+    "explanation": "“Ağaç” sözcüğünün sonundaki ç sert ünsüzü, bulunma ekinin d’sini t’ye dönüştürür: ağaç-ta.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-ses-bilgisi-2x3e8-mt911ede-9-zxh9",
+    "topic_id": "t-ses-bilgisi-2x3e8",
+    "prompt": "Aşağıdaki sözcüklerden hangisinde ekin başındaki d ünsüzü t'ye dönüşmüştür?",
+    "options": [
+      "ev-de",
+      "bahçe-de",
+      "okul-da",
+      "kitap-ta",
+      "sınıf-da"
+    ],
+    "answer_index": 3,
+    "explanation": "Sert ünsüzle biten 'kitap' sözcüğünden sonra 'de' eki sertleşerek 'ta' olur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:19.664905+00:00",
+    "updated_at": "2026-08-25T18:57:19.664905+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-0-1hk0",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin malî denetimini kim yapar?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Sayıştay",
+      "Maliye Bakanlığı",
+      "Hazine ve Maliye Bakanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anayasa Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-1-e9s4",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin kapatılması davasını kim açar?",
+    "options": [
+      "Adalet Bakanı",
+      "Yargıtay Cumhuriyet Başsavcısı",
+      "Cumhurbaşkanı",
+      "TBMM Başkanı",
+      "Anayasa Mahkemesi Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yargıtay Cumhuriyet Başsavcısı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargıtay Cumhuriyet Başsavcısı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-10-x2q2",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu Denetçiliği Kurumu (Ombudsmanlık) kime bağlıdır?",
+    "options": [
+      "Cumhurbaşkanlığı",
+      "Adalet Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Yargıtay",
+      "TBMM Başkanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – TBMM Başkanlığı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM Başkanlığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-11-38ra",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu Başdenetçisini kim seçer?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Halka seçtirilir",
+      "HSK",
+      "Danıştay"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-12-fiiz",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin tüzük ve programları aşağıdakilerden hangisine aykırı olabilir?",
+    "options": [
+      "Demokratik ve laik Cumhuriyet ilkelerine",
+      "İnsan haklarına",
+      "Millet egemenliğine",
+      "Hükümetin ekonomik politikalarına",
+      "Devletin ülkesi ve milletiyle bölünmez bütünlüğüne"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hükümetin ekonomik politikalarına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hükümetin ekonomik politikalarına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-13-9uq6",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Aşağıdakilerden hangisi siyasi partilere üye olamaz?",
+    "options": [
+      "Yükseköğretim öğrencileri",
+      "Kamu kurumlarındaki işçi statüsündeki görevliler",
+      "Hakimler ve savcılar",
+      "Serbest meslek sahipleri",
+      "Emekli memurlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hakimler ve savcılar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hakimler ve savcılar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-14-37z2",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Yurt dışında bulunan Türk vatandaşlarının oy kullanabilmesi için düzenleme yapma görevi kime/neye verilmiştir?",
+    "options": [
+      "Kanuna",
+      "Yüksek Seçim Kuruluna",
+      "Konsolosluklara",
+      "Cumhurbaşkanına",
+      "Dışişleri Bakanlığına"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanuna. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanuna”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-15-bg12",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Anayasa’nın 66. maddesine göre Türk vatandaşlığı tanımı nasıldır?",
+    "options": [
+      "Türk ırkından gelen herkes Türktür.",
+      "Türkiye’de doğan herkes Türktür.",
+      "Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür.",
+      "Türkçe konuşan herkes Türktür.",
+      "Müslüman olan herkes Türktür."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 66. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-16-anf1",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Aşağıdakilerden hangisi oy kullanamaz?",
+    "options": [
+      "19 yaşındaki üniversite öğrencisi",
+      "Yurt dışındaki işçi",
+      "Tutuklular",
+      "Silah altında bulunan er ve erbaşlar",
+      "Taksirli suçtan hüküm giyenler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Silah altında bulunan er ve erbaşlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Silah altında bulunan er ve erbaşlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-17-5dco",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Yabancı devletlerden maddî yardım alan bir siyasi parti için uygulanacak yaptırım nedir?",
+    "options": [
+      "Devlet yardımından yoksun bırakma",
+      "Temelli kapatma",
+      "Uyarı cezası",
+      "Geçici kapatma",
+      "Yöneticilerine siyaset yasağı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Temelli kapatma. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Temelli kapatma”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-18-9tju",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Dilekçe hakkından kimler yararlanabilir?",
+    "options": [
+      "Sadece vatandaşlar",
+      "Sadece seçmenler",
+      "Sadece kamu görevlileri",
+      "Vatandaşlar ve karşılıklılık esasıyla Türkiye’de ikamet eden yabancılar",
+      "Sadece vergi mükellefleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Vatandaşlar ve karşılıklılık esasıyla Türkiye’de ikamet eden yabancılar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Vatandaşlar ve karşılıklılık esasıyla Türkiye’de ikamet eden yabancılar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-19-zij4",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Beyan veya faaliyetleriyle bir siyasi partinin temelli kapatılmasına sebep olan kurucular dâhil üyeler, kaç yıl süreyle başka bir partinin kurucusu, üyesi, yöneticisi veya deneticisi olamazlar?",
+    "options": [
+      "1 yıl",
+      "3 yıl",
+      "10 yıl",
+      "Ömür boyu",
+      "5 yıl"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 5 yıl. Madde 69’a göre bu kişiler, kapatma kararının Resmî Gazetede gerekçeli olarak yayımlanmasından başlayarak beş yıl süreyle başka bir partinin kurucusu, üyesi, yöneticisi ve deneticisi olamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-2-k3nw",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin malî denetimini Anayasa Mahkemesi kimin yardımıyla yapar?",
+    "options": [
+      "Yargıtay",
+      "Maliye Bakanlığı",
+      "Sayıştay",
+      "Hazine Müsteşarlığı",
+      "Danıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Sayıştay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sayıştay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-20-y56r",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Türk babanın veya Türk ananın çocuğu nedir?",
+    "options": [
+      "Türktür",
+      "Çifte vatandaştır",
+      "Vatansızdır",
+      "Göçmendir",
+      "Mültecidir"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Türktür. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Türktür”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-21-5110",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Seçim kanunları hangi iki ilkeyi bağdaştıracak biçimde düzenlenir?",
+    "options": [
+      "Hürriyet ve Eşitlik",
+      "Çoğunluk ve Katılım",
+      "Demokrasi ve Laiklik",
+      "Temsilde adalet ve yönetimde istikrar",
+      "Gizli oy ve açık sayım"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Temsilde adalet ve yönetimde istikrar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Temsilde adalet ve yönetimde istikrar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-22-j5g8",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren ne kadar süre içinde yapılacak seçimlerde uygulanmaz?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "2 yıl",
+      "5 yıl",
+      "1 yıl"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 1 yıl. Madde 67’ye göre seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-23-72qq",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partiler hangi organın izniyle kurulur?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Önceden izin almadan kurulurlar.",
+      "Yüksek Seçim Kurulu",
+      "Anayasa Mahkemesi",
+      "Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Önceden izin almadan kurulurlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Önceden izin almadan kurulurlar.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-24-m1d6",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Temelli kapatılan bir siyasi parti başka bir ad altında kurulabilir mi?",
+    "options": [
+      "Evet, tüzüğünü değiştirirse kurulabilir.",
+      "Evet, kurucuları değişirse kurulabilir.",
+      "Hayır, temelli kapatılan bir parti bir başka ad altında kurulamaz.",
+      "Evet, 5 yıl geçtikten sonra kurulabilir.",
+      "Evet, Anayasa Mahkemesi izin verirse kurulabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hayır, temelli kapatılan bir parti bir başka ad altında kurulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, temelli kapatılan bir parti bir başka ad altında kurulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-25-jkjf",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Vergi yükünün adaletli ve dengeli dağılımı maliye politikasının nesidir?",
+    "options": [
+      "Sosyal amacıdır.",
+      "Tek aracıdır.",
+      "Hukuki sonucudur.",
+      "Ekonomik sebebidir.",
+      "Geçici hedefidir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Sosyal amacıdır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sosyal amacıdır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-26-rjgj",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Dilekçe hakkının kullanılmasında, Türkiye’de ikamet eden yabancılar için aranan şart nedir?",
+    "options": [
+      "Türkçe bilmek",
+      "Vergi mükellefi olmak",
+      "5 yıldır ikamet ediyor olmak",
+      "Çalışma iznine sahip olmak",
+      "Karşılıklılık esası"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Karşılıklılık esası. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Karşılıklılık esası”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-27-0g7s",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "TBMM tarafından seçilen Kamu Başdenetçisinin görev süresi kaç yıldır?",
+    "options": [
+      "2 yıl",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl",
+      "7 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 4 yıl. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “4 yıl”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-28-1kq1",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu Başdenetçisi seçiminde dördüncü tura kalınırsa seçim nasıl sonuçlanır?",
+    "options": [
+      "Kura çekilir.",
+      "Seçim iptal edilir.",
+      "Salt çoğunluk aranmaya devam eder.",
+      "Cumhurbaşkanı atama yapar.",
+      "Üçüncü turda en çok oy alan iki aday arasından en fazla oy alan seçilmiş olur."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Üçüncü turda en çok oy alan iki aday arasından en fazla oy alan seçilmiş olur. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Üçüncü turda en çok oy alan iki aday arasından en fazla oy alan seçilmiş olur.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-29-kjbg",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Anayasa’nın 66. maddesine göre vatandaşlık nasıl kazanılır?",
+    "options": [
+      "Yönetmelikle",
+      "Sadece doğumla",
+      "Sadece evlilikle",
+      "Kanunun gösterdiği şartlarla",
+      "Cumhurbaşkanı kararıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kanunun gösterdiği şartlarla. Dayanak: 2709 sayılı Türkiye Cumhuriyeti Anayasası, Madde 66. Soru kökünde belirtilen husus bu maddede bu içerikle düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-3-abbg",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Anayasaya göre, kamu hizmetine girenlerin mal bildiriminde bulunmaları neyle düzenlenir?",
+    "options": [
+      "Yönetmelik",
+      "Kanun",
+      "Genelge",
+      "Cumhurbaşkanı Kararı",
+      "Tüzük"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kanun. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-30-2o04",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Seçim kanunları, temsilde adalet ve yönetimde istikrar ilkelerini nasıl uygular?",
+    "options": [
+      "Birini diğerine tercih ederek",
+      "Bağdaştıracak biçimde",
+      "Temsilde adaleti yok sayarak",
+      "Yönetimde istikrarı önceleyerek",
+      "Sadece baraj koyarak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Bağdaştıracak biçimde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Bağdaştıracak biçimde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-31-p8ka",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Oy kullanma hakkına sahip olan hükümlüler kimlerdir?",
+    "options": [
+      "Terör suçluları",
+      "Ağır ceza mahkûmları",
+      "Kasıtlı suçtan hüküm giyenler",
+      "Kamu hizmetinden yasaklılar",
+      "Taksirli suçlardan hüküm giyenler"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Taksirli suçlardan hüküm giyenler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Taksirli suçlardan hüküm giyenler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-32-1xif",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partiler ticari faaliyete girişebilir mi?",
+    "options": [
+      "Evet, gelir sağlamak için girişebilir.",
+      "Sadece yayıncılık alanında girişebilirler.",
+      "Hayır, girişemezler.",
+      "Sadece parti ürünleri satabilirler.",
+      "Hazine yardımı almazlarsa girişebilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hayır, girişemezler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, girişemezler.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-33-szab",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Bir siyasi partinin “temelli kapatılmasına” karar verilebilmesi için, o partinin odak haline geldiğinin kim tarafından tespit edilmesi gerekir?",
+    "options": [
+      "Yargıtay Cumhuriyet Başsavcısı",
+      "Anayasa Mahkemesi",
+      "TBMM",
+      "İçişleri Bakanlığı",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Anayasa Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-34-8ui4",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Temelli kapatma yerine verilebilecek daha hafif yaptırım nedir?",
+    "options": [
+      "Genel Başkanı görevden alma",
+      "Seçime girmeyi yasaklama",
+      "Devlet yardımından kısmen veya tamamen yoksun bırakma",
+      "Üye kaydını dondurma",
+      "İhtar verme"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Devlet yardımından kısmen veya tamamen yoksun bırakma. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Devlet yardımından kısmen veya tamamen yoksun bırakma”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-35-h0wc",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilere üye olma yaşı kaçtır?",
+    "options": [
+      "21",
+      "25",
+      "20",
+      "18",
+      "30"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 18. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “18”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-36-i0gu",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Yükseköğretim elemanlarının siyasi partilere üye olabilmesi nasıl mümkündür?",
+    "options": [
+      "Mümkün değildir.",
+      "Sadece vakıf üniversitesi hocaları üye olabilir.",
+      "Kanunla düzenlenir, ancak merkez organları dışında görev alamazlar.",
+      "Rektörden izin alarak üye olabilirler.",
+      "Sadece onursal üye olabilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kanunla düzenlenir, ancak merkez organları dışında görev alamazlar. Madde 68’e göre yükseköğretim elemanlarının siyasi partilere üye olabilmeleri kanunla düzenlenir; kanun bu kişilerin merkez organları dışında parti görevi almalarına cevaz veremez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-37-2xbo",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin tüzük ve programları aşağıdakilerden hangisini savunmayı amaçlayamaz?",
+    "options": [
+      "Serbest piyasayı",
+      "Vergi indirimlerini",
+      "Avrupa Birliği üyeliğini",
+      "Sınıf veya zümre diktatörlüğünü",
+      "Parlamenter sistemi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sınıf veya zümre diktatörlüğünü. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sınıf veya zümre diktatörlüğünü”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-38-xlc3",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Seçimlerde “temsilde adalet” ve “yönetimde istikrar” ilkeleri hangi kanunların düzenlenmesinde esas alınır?",
+    "options": [
+      "Ceza Kanunları",
+      "Seçim Kanunları",
+      "Medeni Kanun",
+      "Borçlar Kanunu",
+      "İdare Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Seçim Kanunları. Madde 67’ye göre seçim kanunları, temsilde adalet ve yönetimde istikrar ilkelerini bağdaştıracak biçimde düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-39-9vyr",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu hizmetine girenlerin mal bildiriminde bulunmaları, hangi organlarda görev alanlar için de geçerlidir (istisna edilemez)?",
+    "options": [
+      "Sadece Yürütme",
+      "Sadece Yargı",
+      "Sadece Belediyeler",
+      "Yasama ve Yürütme organlarında görev alanlar",
+      "Sadece KİT’ler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yasama ve Yürütme organlarında görev alanlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yasama ve Yürütme organlarında görev alanlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-4-sh8w",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Aşağıdakilerden hangisi “Siyasi Haklar ve Ödevler” bölümünde yer almaz?",
+    "options": [
+      "Seçme ve seçilme hakkı",
+      "Sendika kurma hakkı",
+      "Siyasi parti kurma",
+      "Vergi ödevi",
+      "Vatan hizmeti"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Sendika kurma hakkı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sendika kurma hakkı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-40-4tgp",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Dilekçe hakkı kapsamına giren başvuruların sonucu, dilekçe sahiplerine nasıl bildirilir?",
+    "options": [
+      "Sözlü olarak",
+      "Telefonla",
+      "Yazılı olarak ve gecikmeksizin",
+      "İnternet sitesinden ilanen",
+      "30 gün sonra"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yazılı olarak ve gecikmeksizin. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yazılı olarak ve gecikmeksizin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-41-ouab",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu Denetçiliği Kurumu (Ombudsmanlık) idarenin hangi yönüyle ilgili şikayetleri inceler?",
+    "options": [
+      "Sadece malî harcamaları",
+      "İşleyişiyle ilgili şikayetleri",
+      "Sadece personel alımlarını",
+      "Sadece suç teşkil eden fiilleri",
+      "Sadece yerel yönetimleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İşleyişiyle ilgili şikayetleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İşleyişiyle ilgili şikayetleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-42-ffh6",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu Başdenetçisi seçiminde ilk iki oylamada aranan çoğunluk nedir?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu",
+      "Katılanların salt çoğunluğu",
+      "Üye tamsayısının 3/5 çoğunluğu",
+      "Basit çoğunluk",
+      "Üye tamsayısının 2/3 çoğunluğu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Üye tamsayısının 2/3 çoğunluğu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 2/3 çoğunluğu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-43-eazj",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Türk vatandaşlığı ile ilgili olarak, “Vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça” kim vatandaşlıktan çıkarılamaz?",
+    "options": [
+      "Sadece doğuştan Türkler",
+      "Hiçbir Türk",
+      "Çifte vatandaşlar",
+      "Yurt dışında yaşayanlar",
+      "Kamu görevlileri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hiçbir Türk. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hiçbir Türk”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-44-mepw",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Seçme ve halkoylamasına katılma yaşı kaçtır?",
+    "options": [
+      "21",
+      "20",
+      "25",
+      "19",
+      "18"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 18. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “18”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-45-1y1q",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin “demokratik siyasi hayatın vazgeçilmez unsurları” olduğu hükmü hangi maddede yer alır?",
+    "options": [
+      "Madde 1",
+      "Madde 50",
+      "Madde 68",
+      "Madde 10",
+      "Madde 30"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Madde 68. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Madde 68”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-46-c8wu",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partiler hangi kaynaktan maddî yardım alırlarsa temelli kapatılırlar?",
+    "options": [
+      "Yabancı devletlerden, uluslararası kuruluşlardan ve Türk uyrukluğunda olmayan gerçek ve tüzel kişilerden",
+      "Üyelerinden",
+      "Ticari faaliyetlerinden",
+      "Bağışlardan",
+      "Devlet hazinesinden"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yabancı devletlerden, uluslararası kuruluşlardan ve Türk uyrukluğunda olmayan gerçek ve tüzel kişilerden. Madde 69’a göre siyasi partiler yabancı devletlerden, uluslararası kuruluşlardan ve Türk uyrukluğunda olmayan gerçek ve tüzel kişilerden maddî yardım alamaz; bu yasağa aykırılık temelli kapatma sebebidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-47-fig4",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Kamu hizmetlerine girme hakkı sadece kime tanınmıştır?",
+    "options": [
+      "Herkese",
+      "Yabancılara",
+      "Üniversite mezunlarına",
+      "25 yaş üstüne",
+      "Her Türk’e"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Her Türk’e. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Her Türk’e”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-48-atbp",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Herkes kamu giderlerini karşılamak üzere ne ödemekle yükümlüdür?",
+    "options": [
+      "Harç",
+      "Para cezası",
+      "Vergi",
+      "Bağış",
+      "Aidat"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Vergi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Vergi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-49-1d61",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Dilekçe hakkı, TBMM’ye yapılan başvuruları da kapsar mı?",
+    "options": [
+      "Hayır, sadece idareye yapılır.",
+      "Sadece milletvekillerine yapılır.",
+      "Sadece Cumhurbaşkanlığına yapılır.",
+      "Evet, yetkili makamlara ve TBMM’ye yazı ile başvurulabilir.",
+      "Sadece Valiliklere yapılır."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Evet, yetkili makamlara ve TBMM’ye yazı ile başvurulabilir. Madde 74’e göre vatandaşlar ve karşılıklılık esası gözetilmek kaydıyla Türkiye’de ikamet eden yabancılar, kendileriyle veya kamu ile ilgili dilek ve şikâyetleri hakkında yetkili makamlara ve TBMM’ye yazı ile başvurma hakkına sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-5-j1x1",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Anayasaya göre “Vergi” neye göre ödenir?",
+    "options": [
+      "Eşitlik ilkesine göre",
+      "İstekliliğe göre",
+      "Vatandaşlık bağına göre",
+      "Malî güce göre",
+      "Gelir durumuna bakılmaksızın"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Malî güce göre. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Malî güce göre”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-50-10bw",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Bilgi edinme hakkı Anayasa’ya hangi yıl eklenmiştir?",
+    "options": [
+      "1982",
+      "1995",
+      "2010",
+      "2001",
+      "2017"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2010. Bilgi edinme ve kamu denetçisine başvurma hakkı, 7/5/2010 tarihli 5982 sayılı Kanunla Madde 74’e eklenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-51-wviq",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "TBMM’ye bağlı Kamu Denetçiliği Kurumunun başındaki “Kamu Başdenetçisi” nasıl göreve gelir?",
+    "options": [
+      "TBMM tarafından gizli oyla seçilir.",
+      "Cumhurbaşkanı atar.",
+      "Halk seçer.",
+      "Anayasa Mahkemesi seçer.",
+      "Hükümet atar."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM tarafından gizli oyla seçilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM tarafından gizli oyla seçilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-52-p7g8",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Siyasi partilerin Devlet yardımından yoksun bırakılmasına karar verilebilmesi için Anayasa Mahkemesinde aranan çoğunluk nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "Toplantıya katılan üyelerin 2/3 oy çokluğu",
+      "Üye tamsayısının salt çoğunluğu",
+      "3/4 çoğunluk",
+      "Oy birliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Toplantıya katılan üyelerin 2/3 oy çokluğu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Toplantıya katılan üyelerin 2/3 oy çokluğu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-53-8t3t",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Anayasanın 70. maddesine göre kamu hizmetine alınmada hangi ölçüt dışında ayrım gözetilemez?",
+    "options": [
+      "Görevin gerektirdiği nitelikler",
+      "Kişinin serveti",
+      "Siyasi görüşü",
+      "Aile bağı",
+      "Yaşadığı il"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Görevin gerektirdiği nitelikler. Madde 70’e göre hizmete alınmada görevin gerektirdiği niteliklerden başka hiçbir ayrım gözetilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-6-qxmi",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Vergi, resim, harç vb. malî yükümlülükler ne ile konulur?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Tebliğle",
+      "Kanunla"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanunla. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-7-6m90",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Cumhurbaşkanı, vergi oranlarında (muafiyet, istisna, indirim oranlarında) değişiklik yapabilir mi?",
+    "options": [
+      "Evet, kanunun belirttiği alt ve üst sınırlar içinde yapabilir.",
+      "Hayır, yapamaz.",
+      "Evet, sınırsız yetkilidir.",
+      "Sadece OHAL’de yapabilir.",
+      "Sadece KDV oranlarını değiştirebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Evet, kanunun belirttiği alt ve üst sınırlar içinde yapabilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Evet, kanunun belirttiği alt ve üst sınırlar içinde yapabilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-8-2hm1",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Vatandaşlıktan çıkarma kararlarına karşı yargı yolu nasıldır?",
+    "options": [
+      "Kapalıdır.",
+      "Sadece Danıştaya itiraz edilebilir.",
+      "Sadece AYM’ye gidilebilir.",
+      "Cumhurbaşkanı onaylarsa gidilemez.",
+      "Kapatılamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kapatılamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kapatılamaz”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-siyasi-haklar-ve-odevler-x2x30-mtmyvgiz-9-fpnd",
+    "topic_id": "t-siyasi-haklar-ve-odevler-x2x30",
+    "prompt": "Vatan hizmeti (Askerlik) anayasada nasıl tanımlanmıştır?",
+    "options": [
+      "Her Türkün hakkı ve ödevidir.",
+      "Sadece bir haktır.",
+      "Sadece bir ödevdir.",
+      "Sadece erkeklerin ödevidir.",
+      "Sadece savaş zamanı ödevdir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Her Türkün hakkı ve ödevidir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Her Türkün hakkı ve ödevidir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:29.345762+00:00",
+    "updated_at": "2026-09-04T13:05:29.345762+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-0-fzdk",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "Bu kanunun madde kenar başlıkları, kanun metnine.......... değildir.",
+    "options": [
+      "tâbi",
+      "uygun",
+      "denk",
+      "dâhil",
+      "bağlı"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 60. maddesine göre: Bu kanunun madde kenar başlıkları, sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralama ve bağlantıyı göstermekte olup kanun metnine dâhil değildir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-1-t90u",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Kanun'un 60. maddesine göre \"Kenar Başlıkları\"nın hukuki niteliği nedir?",
+    "options": [
+      "Kanun metnine dâhil değildir.",
+      "Anayasa hükmündedir.",
+      "Kanun metnine dahildir.",
+      "Kanundan daha bağlayıcıdır.",
+      "Yönetmelik hükmündedir."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 60. maddesine göre: Bu kanunun madde kenar başlıkları, sadece ilgili oldukları maddelerin konusunu ve maddeler arasındaki sıralama ve bağlantıyı göstermekte olup kanun metnine dâhil değildir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-10-dkwf",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "64. madde hangi konuyu düzenlemektedir?",
+    "options": [
+      "Okul açma yetkisini",
+      "Kanunun yürürlük tarihini",
+      "Kanunun kapsamını",
+      "Kanunun yürütülmesinden sorumlu makamı",
+      "Öğretmenlik mesleğinin tanımını"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 64. maddesine göre: Bu Kanunu Bakanlar Kurulu yürütür. 1739 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE Değiştiren Kanunun/ KHK’nin/İptal Eden 1739 Sayılı Kanunun Değişen veya Yürürlüğe Giriş Tarihi Anayasa Mahkemesi İptal Edilen Maddeleri Kararının Numarası 2842 — 18/6/1983 2947 — 11/11/1983 430 Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-11-nkxv",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 61. maddesine göre 1340 tarihli ve 439 sayılı Orta Tedrisat Muallimleri Kanununun hangi maddesi yürürlükten kalkmıştır?",
+    "options": [
+      "3 üncü maddesi",
+      "1 inci maddesi",
+      "2 nci maddesi",
+      "4 üncü maddesi",
+      "5 inci maddesi"
+    ],
+    "answer_index": 0,
+    "explanation": "61. maddeye göre 1340 tarihli ve 439 sayılı Orta Tedrisat Muallimleri Kanununun 3 üncü maddesi Kanunun yayımı tarihinde yürürlükten kalkar. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-12-kmcj",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 61. maddesine göre 5/1/1961 tarihli ve 222 sayılı İlköğretim ve Eğitim Kanununun hangi maddesi yürürlükten kalkmıştır?",
+    "options": [
+      "79 uncu maddesi",
+      "59 uncu maddesi",
+      "69 uncu maddesi",
+      "89 uncu maddesi",
+      "99 uncu maddesi"
+    ],
+    "answer_index": 2,
+    "explanation": "61. maddeye göre 222 sayılı İlköğretim ve Eğitim Kanununun 69 uncu maddesi Kanunun yayımı tarihinde yürürlükten kalkar. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-13-lnrl",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 62. maddesine göre Kanunda sözü geçen yönetmelikler neye uygun olarak çıkarılır?",
+    "options": [
+      "Kanunda belirtilen genel amaç ve temel ilkelere",
+      "Yalnız yerel ihtiyaçlara",
+      "Sadece yükseköğretim kararlarına",
+      "Yalnız okul aile birliği kararlarına",
+      "Sadece belediye kararlarına"
+    ],
+    "answer_index": 0,
+    "explanation": "62. maddeye göre Kanunda sözü geçen yönetmelikler, Kanunda belirtilen genel amaç ve temel ilkelere uygun olarak çıkarılır. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-14-70gt",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 62. maddesine göre Kanunda sözü geçen yönetmelikler hangi makam tarafından çıkarılır?",
+    "options": [
+      "Üniversitelerarası Kurul",
+      "Yükseköğretim Kurulu",
+      "Millî Eğitim Bakanlığı",
+      "Valilikler",
+      "Belediyeler"
+    ],
+    "answer_index": 2,
+    "explanation": "62. maddeye göre Kanunda sözü geçen yönetmelikler Millî Eğitim Bakanlığınca çıkarılır. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-15-tile",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu Ek Madde 1'e göre Kanunda geçen “temel eğitim” terimi hangi terimle değiştirilmiştir?",
+    "options": [
+      "Zorunlu eğitim",
+      "Ortaöğretim",
+      "Örgün eğitim",
+      "Temel öğretim",
+      "İlköğretim"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 1'e göre 1739 sayılı Kanunda geçen “temel eğitim” terimi “ilköğretim” olarak değiştirilmiştir. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-16-t6kt",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu Geçici Madde 1'e göre, Kanunun yürürlüğe girdiği tarihte yükseköğrenim kurumlarında öğrenci bulunanlar hakkında hangi madde hükmü uygulanmaz?",
+    "options": [
+      "38. madde",
+      "37. madde",
+      "39. madde",
+      "40. madde",
+      "41. madde"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 1'e göre Kanunun yürürlüğe girdiği tarihte yükseköğrenim kurumlarında öğrenci bulunanlar hakkında 38. madde hükmü uygulanmaz. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-17-7tt9",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu Geçici Madde 4'e göre, uzman öğretmenlik veya başöğretmenlik unvanını mahkeme kararıyla elde eden kişinin kararının aleyhine kesinleşmesi hâlinde, unvanın iptalinden önce yapılan ödemeler için ne öngörülmüştür?",
+    "options": [
+      "Yalnız son aya ait ödeme geri alınır",
+      "Tamamı faiziyle geri alınır",
+      "Yarısı geri alınır",
+      "Geri alınmaz",
+      "Millî Eğitim Bakanlığının takdirine bırakılır"
+    ],
+    "answer_index": 3,
+    "explanation": "Geçici Madde 4'e göre bu kişilere unvanlarının iptal edildiği tarihten önce yapılan ödemeler geri alınmaz. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-18-5nfn",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu Geçici Madde 4'e göre, 43. maddeye eklenen beşinci, altıncı ve yedinci fıkra hükümleri kimler hakkında uygulanır?",
+    "options": [
+      "Bu Kanunun yayımı tarihinden sonra aday öğretmen olarak göreve başlayanlar",
+      "Kanunun yayımından önce emekli olan öğretmenler",
+      "Yalnız okul müdürleri",
+      "Bütün yükseköğretim öğrencileri",
+      "Yalnız özel okul öğretmenleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 4'e göre 43. maddeye eklenen beşinci, altıncı ve yedinci fıkra hükümleri, bu Kanunun yayımı tarihinden sonra aday öğretmen olarak göreve başlayanlar hakkında uygulanır. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-2-my1v",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Kanun'un 61. maddesi temel olarak neyi düzenler?",
+    "options": [
+      "Yeni okul açma usullerini",
+      "Öğretmen atama esaslarını",
+      "Bütçe uygulama usullerini",
+      "Sınav değerlendirme sistemini",
+      "Bu Kanunla yürürlükten kaldırılan eski kanun hükümlerini"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 61. maddesine göre, maddede sayılan hükümler Kanunun yayımı tarihinde yürürlükten kalkar. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-3-1u3j",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "61. madde uyarınca, 22/3/1926 tarihli ve 789 sayılı Maarif Teşkilatına dair Kanunun hangi maddeleri yürürlükten kaldırılmıştır?",
+    "options": [
+      "5 ve 6 ncı maddeleri",
+      "7 ve 8 inci maddeleri",
+      "3 ve 4 üncü maddeleri",
+      "9 ve 10 uncu maddeleri",
+      "1 ve 2 nci maddeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 61. maddesine göre, maddede sayılan hükümler Kanunun yayımı tarihinde yürürlükten kalkar. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-4-4igw",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun kabul tarihi hangi yıldır?",
+    "options": [
+      "1973",
+      "1982",
+      "2005",
+      "1961",
+      "1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Gönderilen 1739 sayılı Millî Eğitim Temel Kanunu metninin üst bilgisinde kabul tarihi 14/6/1973 olarak belirtilmiştir. Doğru cevap A (1973) şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-5-shwg",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "Bu kanunda sözü geçen yönetmelikler, kanunun yürürlüğe girmesinden itibaren en geç.......... yıl içinde çıkarılır.",
+    "options": [
+      "dört",
+      "iki",
+      "altı",
+      "üç",
+      "bir"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 62. maddesine göre: Bu kanunda sözü geçen yönetmelikler, Kanunda belirtilen genel amaç ve temel ilkelere uygun olarak Millî Eğitim Bakanlığınca, kanunun yürürlüğe girmesinden itibaren en geç bir yıl içinde çıkarılır. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-6-a2i0",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Kanun'da geçen \"temel eğitim\" terimi \"..........\" olarak değiştirilmiştir.",
+    "options": [
+      "temel öğretim",
+      "ilköğretim",
+      "başlangıç eğitimi",
+      "zorunlu eğitim",
+      "ilk kademe"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu Ek Madde 1'e göre Kanunda geçen 'temel eğitim' terimi 'ilköğretim' olarak değiştirilmiştir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-7-ayrs",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu ne zaman yürürlüğe girmiştir?",
+    "options": [
+      "Cumhurbaşkanı onayından sonra",
+      "Kabul edildiği tarihte",
+      "TBMM'nin ayrıca belirlediği bir tarihte",
+      "Yayımından bir yıl sonra",
+      "Yayımı tarihinde"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 63. maddesine göre: Bu Kanun yayımı tarihinde yürürlüğe girer. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-8-j433",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "63. madde'e göre kanunun yürürlüğe girişiyle ilgili hüküm aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanlığı kararnamesiyle ertelenebilir",
+      "Bakanlar Kurulu kararıyla belirlenecek bir tarihte yürürlüğe girer",
+      "Yayımından 6 ay sonra yürürlüğe girer",
+      "Yayımı tarihinde yürürlüğe girer",
+      "İlgili yönetmelikler çıkarıldıktan sonra yürürlüğe girer"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 63. maddesine göre: Bu Kanun yayımı tarihinde yürürlüğe girer. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-hrhmi-mtn0s0oa-9-50do",
+    "topic_id": "t-son-hukumler-hrhmi",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nu aşağıdakilerden hangisi yürütür?",
+    "options": [
+      "Cumhurbaşkanı tek başına",
+      "Bakanlar Kurulu",
+      "Yükseköğretim Kurulu",
+      "TBMM Başkanlığı",
+      "Millî Eğitim Bakanı tek başına"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 64. maddesine göre: Bu Kanunu Bakanlar Kurulu yürütür. 1739 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE Değiştiren Kanunun/ KHK’nin/İptal Eden 1739 Sayılı Kanunun Değişen veya Yürürlüğe Giriş Tarihi Anayasa Mahkemesi İptal Edilen Maddeleri Kararının Numarası 2842 — 18/6/1983 2947 — 11/11/1983 430 Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:48.072608+00:00",
+    "updated_at": "2026-09-04T13:58:48.072608+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-0-h5vr",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasanın değiştirilmesi teklifi için en az kaç milletvekilinin imzası gerekir?",
+    "options": [
+      "151",
+      "200 (1/3)",
+      "184",
+      "301",
+      "360"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 200 (1/3). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “200 (1/3)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-1-yb49",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasa değişikliği teklifleri TBMM Genel Kurulunda kaç defa görüşülür?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4",
+      "Komisyonda görüşülmesi yeterlidir"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-2-ax5s",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Cumhurbaşkanı, meclis tarafından 2/3 (400 ve üzeri) çoğunlukla kabul edilen anayasa değişikliğini ne yapabilir?",
+    "options": [
+      "Sadece onaylayabilir.",
+      "Zorunlu olarak halkoyuna sunar.",
+      "Anayasa Mahkemesine götürür.",
+      "Onaylayabilir veya halkoyuna sunabilir.",
+      "Veto edemez."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Onaylayabilir veya halkoyuna sunabilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Onaylayabilir veya halkoyuna sunabilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-3-tl3w",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasanın 176. maddesine göre madde kenar başlıkları Anayasa metninden sayılır mı?",
+    "options": [
+      "Evet, aynen Anayasa metnidir",
+      "Yalnız yargı maddelerinde sayılır",
+      "Yalnız Başlangıçta sayılır",
+      "Hayır, sayılmaz",
+      "Cumhurbaşkanı karar verirse sayılır"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hayır, sayılmaz. Madde 176, Başlangıç kısmının Anayasa metnine dâhil olduğunu; madde kenar başlıklarının ise Anayasa metninden sayılmadığını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-4-mivp",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasanın 177. maddesine göre bu Anayasa ne zaman Türkiye Cumhuriyeti Anayasası olur?",
+    "options": [
+      "Halkoylaması sonucu kabul edilip Resmî Gazetede yayımlanmasıyla",
+      "TBMM’de ilk görüşmenin yapılmasıyla",
+      "Cumhurbaşkanının tek başına imzalamasıyla",
+      "Anayasa Mahkemesinin onayıyla",
+      "Yüksek Seçim Kurulunun kuruluşuyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Halkoylaması sonucu kabul edilip Resmî Gazetede yayımlanmasıyla. Madde 177, Anayasanın halkoylaması sonucu kabul edilip Resmî Gazetede yayımlanmasıyla Türkiye Cumhuriyeti Anayasası olacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-5-q2jh",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasanın 177. maddesinde bazı temel hak hükümleri için öngörülen geçiş kuralına göre bu hükümler en geç ne zaman yürürlüğe girer?",
+    "options": [
+      "İlk belediye seçiminde",
+      "Beş yıl sonra",
+      "Anayasa Mahkemesinin ilk toplantısında",
+      "Türkiye Büyük Millet Meclisi göreve başladığında",
+      "Cumhurbaşkanlığı seçiminin ikinci turunda"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Türkiye Büyük Millet Meclisi göreve başladığında. Madde 177, ilgili yeni kanunlar çıkarılana veya mevcut kanunlar değiştirilene kadar ve her hâlde en geç TBMM göreve başladığında bazı hükümlerin yürürlüğe gireceğini düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-6-1qct",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Halkoyuna sunulan Anayasa değişikliklerine ilişkin kanunların yürürlüğe girmesi için hangi şart aranır?",
+    "options": [
+      "Anayasa Mahkemesinin uygun bulması",
+      "Türkiye Büyük Millet Meclisi üye tamsayısının salt çoğunluğunun kabulü",
+      "Cumhurbaşkanının yeniden onayı",
+      "Kullanılan geçerli oyların yarısından çoğunun kabul oyu olması",
+      "Kullanılan oyların üçte ikisinin kabul oyu olması"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 175’e göre halkoyuna sunulan Anayasa değişikliklerine ilişkin kanunların yürürlüğe girmesi için halkoylamasında kullanılan geçerli oyların yarısından çoğunun kabul oyu olması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-son-hukumler-x5k23-mtmywjlh-7-gz7k",
+    "topic_id": "t-son-hukumler-x5k23",
+    "prompt": "Anayasa’nın 177. maddesine göre yasama ile ilgili hükümler ne zaman yürürlüğe girer?",
+    "options": [
+      "Anayasanın Resmî Gazetede yayımlandığı gün",
+      "Siyasi Partiler Kanununun yayımlanmasıyla",
+      "Türkiye Büyük Millet Meclisinin ilk toplantısından bir ay sonra",
+      "Cumhurbaşkanının göreve başlamasıyla",
+      "İlk milletvekili genel seçimi sonucunun ilanı ile birlikte"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 177’ye göre Üçüncü Kısımdaki yasama ile ilgili hükümler, ilk milletvekili genel seçimi sonucunun ilanı ile birlikte yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:19.943111+00:00",
+    "updated_at": "2026-09-04T13:06:19.943111+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-0-kcvk",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Aşağıdaki memurlar ve diğer kamu görevlilerinden hangisi hakkında hazırlık soruşturmasını Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili yapar?",
+    "options": [
+      "Kaymakamlar",
+      "Valiler",
+      "Madde 12’de özel olarak sayılmayan diğer memurlar",
+      "Belde belediye başkanları",
+      "Köy ve mahalle muhtarları"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap B seçeneğidir: “Valiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-1-iwkx",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Valiler için davaya bakmaya yetkili ve görevli mahkeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Ağır ceza mahkemesi",
+      "Asliye ceza mahkemesi",
+      "Sulh ceza mahkemesi",
+      "Yargıtayın ilgili ceza dairesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13’e göre kural olarak genel hükümlere göre yetkili ve görevli mahkeme görevlidir; Cumhurbaşkanlığı Genel Sekreteri, TBMM Genel Sekreteri, bakan yardımcıları ve valiler için Yargıtayın ilgili ceza dairesi, kaymakamlar için il ağır ceza mahkemesi görevlidir. Bu nedenle doğru cevap E seçeneğidir: “Yargıtayın ilgili ceza dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-10-1osi",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Cumhurbaşkanlığı Genel Sekreteri, Türkiye Büyük Millet Meclisi Genel Sekreteri, bakan yardımcıları ve valiler hakkında yapılacak hazırlık soruşturmasını aşağıdakilerden hangisi yürütür?",
+    "options": [
+      "Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili",
+      "İl Cumhuriyet başsavcısı veya başsavcıvekili",
+      "İl asliye ceza mahkemesi",
+      "Yetkili ve görevli sulh ceza hâkimi",
+      "Danıştay İkinci Dairesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap A seçeneğidir: “Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-11-9588",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Aşağıdakilerden hangisinin hazırlık soruşturması Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili tarafından yapılmaz?",
+    "options": [
+      "Valiler",
+      "Bakan yardımcıları",
+      "Cumhurbaşkanlığı Genel Sekreteri",
+      "Kaymakamlar",
+      "TBMM Genel Sekreteri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 12’ye göre Cumhurbaşkanlığı Genel Sekreteri, Türkiye Büyük Millet Meclisi Genel Sekreteri, bakan yardımcıları ve valiler hakkındaki hazırlık soruşturması Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili tarafından; kaymakamlarla ilgili hazırlık soruşturması ise il Cumhuriyet başsavcısı veya başsavcıvekili tarafından yapılır. Bu nedenle doğru cevap D seçeneğidir: “Kaymakamlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-12-qsfy",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Haksız isnatta bulunulduğu anlaşılan hâllerde memurlar ve diğer kamu görevlilerinin genel hükümlere göre açabilecekleri dava aşağıdakilerden hangisidir?",
+    "options": [
+      "İptal davası",
+      "Vergi davası",
+      "Ortaklığın giderilmesi davası",
+      "Tazminat davası",
+      "Yalnız disiplin davası"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 15, mağdur etme amacıyla uydurma suç isnadında bulunulduğunun anlaşılması hâlinde re’sen soruşturmayı ve kamu davası ile tazminat isteme haklarının saklılığını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Tazminat davası”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-13-30f7",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "I. Türkiye Büyük Millet Meclisi Genel Sekreteri II. Bakan yardımcıları III. Kaymakamlar IV. Valiler yukarıdakilerden hangilerinin hazırlık soruşturması Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili tarafından yapılır?",
+    "options": [
+      "Yalnız I, II ve IV.",
+      "Yalnız I ve III.",
+      "Yalnız III ve IV.",
+      "Yalnız II.",
+      "I, II, III ve IV."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap A seçeneğidir: “Yalnız I, II ve IV”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-14-1naz",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "4483 sayılı Kanunun 13 üncü maddesinde özel olarak belirtilen kişiler dışında davaya bakmaya yetkili ve görevli mahkeme nasıl belirlenir?",
+    "options": [
+      "Her durumda Yargıtayın ilgili ceza dairesi olarak",
+      "Her durumda il ağır ceza mahkemesi olarak",
+      "Genel hükümlere göre",
+      "İzin vermeye yetkili merci tarafından",
+      "Danıştay İkinci Dairesi tarafından"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13’e göre kural olarak genel hükümlere göre yetkili ve görevli mahkeme görevlidir; Cumhurbaşkanlığı Genel Sekreteri, TBMM Genel Sekreteri, bakan yardımcıları ve valiler için Yargıtayın ilgili ceza dairesi, kaymakamlar için il ağır ceza mahkemesi görevlidir. Bu nedenle doğru cevap C seçeneğidir: “Genel hükümlere göre”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-15-8d9h",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Hazırlık soruşturmasını yapacak mercilere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Hazırlık soruşturması genel hükümlere göre yetkili ve görevli Cumhuriyet başsavcılığı tarafından yapılır.",
+      "Valiler hakkında yapılacak olan hazırlık soruşturması Yargıtay Cumhuriyet Başsavcısı tarafından yapılır.",
+      "Kaymakamlar ile ilgili hazırlık soruşturması ise il Cumhuriyet başsavcısı tarafından yapılır.",
+      "Bu Kanun kapsamındaki suçların iştirak hâlinde işlenmesi durumunda memur olmayan, memur olanla; ast memur, üst memurla aynı mahkemede yargılanır.",
+      "Hazırlık soruşturması sırasında hâkim kararı alınmasını gerektiren hususlarda Bakan yardımcıları ve valiler için sulh ceza hâkimine başvurulur."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek E’dir: “Hazırlık soruşturması sırasında hâkim kararı alınmasını gerektiren hususlarda Bakan yardımcıları ve valiler için sulh ceza hâkimine başvurulur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-16-i6et",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Madde 12’de özel olarak sayılan kişiler dışında kalan bir memur veya diğer kamu görevlisi hakkında hazırlık soruşturması sırasında hâkim kararı alınması gerektiğinde hangi mercie başvurulur?",
+    "options": [
+      "Yargıtayın ilgili ceza dairesine",
+      "İl asliye ceza mahkemesine",
+      "İl ağır ceza mahkemesine",
+      "Genel hükümlere göre yetkili ve görevli sulh ceza hâkimine",
+      "Bölge idare mahkemesine"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap D seçeneğidir: “Genel hükümlere göre yetkili ve görevli sulh ceza hâkimine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-17-l1gb",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "4483 sayılı Kanuna göre hazırlık soruşturması, özel olarak belirtilen kişiler saklı kalmak üzere kural olarak hangi merci tarafından yapılır?",
+    "options": [
+      "Bölge idare mahkemesi",
+      "İzin vermeye yetkili merci",
+      "İl asliye ceza mahkemesi",
+      "Yargıtay Cumhuriyet Başsavcısı",
+      "Genel hükümlere göre yetkili ve görevli Cumhuriyet başsavcılığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap E seçeneğidir: “Genel hükümlere göre yetkili ve görevli Cumhuriyet başsavcılığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-18-2s86",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Kaymakamlar için hazırlık soruşturması sırasında hâkim kararı alınmasını gerektiren hususlarda aşağıdaki mahkemelerden hangisine başvurulur?",
+    "options": [
+      "Danıştaya",
+      "İl asliye ceza mahkemesine",
+      "Yargıtaya",
+      "Sulh ceza mahkemesine",
+      "Bölge idare Mahkemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap B seçeneğidir: “İl asliye ceza mahkemesine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-19-4y62",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "Bir bakan yardımcısı için davaya bakmaya yetkili ve görevli mahkeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Sulh ceza mahkemesi",
+      "Danıştay",
+      "İl Ağır ceza mahkemesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "Asliye ceza mahkemesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13’e göre kural olarak genel hükümlere göre yetkili ve görevli mahkeme görevlidir; Cumhurbaşkanlığı Genel Sekreteri, TBMM Genel Sekreteri, bakan yardımcıları ve valiler için Yargıtayın ilgili ceza dairesi, kaymakamlar için il ağır ceza mahkemesi görevlidir. Bu nedenle doğru cevap D seçeneğidir: “Yargıtayın ilgili ceza dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  },
+  {
+    "id": "t-sorusturma-ve-yargilama-usulu-y2he9-mtn3cyzi-2-0kis",
+    "topic_id": "t-sorusturma-ve-yargilama-usulu-y2he9",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, bakan yardımcıları ve valiler hakkında hazırlık soruşturmasını aşağıdakilerden hangisi yapar?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "İl asliye ceza mahkemesi",
+      "İl Cumhuriyet başsavcısı veya başsavcıvekili",
+      "Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili",
+      "Yetkili veya görevli sulh ceza hâkimi"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 12, hazırlık soruşturmasını yapacak Cumhuriyet başsavcılıklarını ve soruşturma sırasında hâkim kararı gereken durumlarda başvurulacak yargı mercilerini kişi gruplarına göre belirler. Bu nedenle doğru cevap D seçeneğidir: “Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:04.963970+00:00",
+    "updated_at": "2026-09-04T15:11:04.963970+00:00"
+  }
+]

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-74-e0ux",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "İstisnai memurluk kadrolarına atananlar hakkında bu Kanun’un hangi hükümleri uygulanmaz?",
+    "options": [
+      "Malî hükümler",
+      "Sosyal haklar",
+      "Disiplin hükümleri",
+      "Yasaklar",
+      "Sınav, atanma, derece yükselmesi ve kademe ilerlemesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Sınav, atanma, derece yükselmesi ve kademe ilerlemesi. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-75-d9qg",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "İstisnai memurluklara atananlar, bu atama nedeniyle kıdem veya müktesep hak kazanırlar mı?",
+    "options": [
+      "Evet, kazanırlar.",
+      "Hayır, bu kadrolar kazanılmış hak teşkil etmez.",
+      "Sadece valiler kazanır.",
+      "Sadece büyükelçiler kazanır.",
+      "5 yıl çalışırlarsa kazanırlar."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hayır, bu kadrolar kazanılmış hak teşkil etmez. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-76-dve5",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurların kurumlar arası nakillerinde, kazanılmış hak derecelerinin altındaki derecelere atanabilmeleri için kadro derecesi ile kazanılmış hak derecesi arasındaki fark en çok kaç derece olabilir?",
+    "options": [
+      "1 derece",
+      "2 derece",
+      "4 derece",
+      "3 derece",
+      "Fark gözetilmez"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 3 derece. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-77-7mlo",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Kanun’a göre “Derece”, memuriyette neyi ifade eder?",
+    "options": [
+      "Memurun maaş tutarını",
+      "Memurun hizmet yılını",
+      "Memurun çalıştığı kurumu",
+      "Memurun eğitim durumunu",
+      "Görevin önemini ve sorumluluğunu (Dikey yükselme)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Görevin önemini ve sorumluluğunu (Dikey yükselme). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-78-dpzy",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Lise mezunu bir memur, memuriyeti sırasında 4 yıllık fakülte bitirirse durumu nasıl değişir (İntibak)?",
+    "options": [
+      "Sadece maaşı artar.",
+      "Sadece kıdem yılı artar.",
+      "Öğrenim durumuna göre yükselebileceği derece ve kademeye intibakı yapılır (Emsali gibi değerlendirilir).",
+      "Bir defaya mahsus 1 derece verilir.",
+      "Hiçbir değişiklik olmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Öğrenim durumuna göre yükselebileceği derece ve kademeye intibakı yapılır (Emsali gibi değerlendirilir). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-79-0v6m",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurluktan çıkarma cezası alan bir memur, adli yargıda (mahkemede) beraat ederse memuriyete dönebilir mi?",
+    "options": [
+      "Otomatik olarak döner.",
+      "Sadece tazminat alır.",
+      "Vali kararı ile döner.",
+      "Dönemez, disiplin cezası idari bir işlemdir ve bağımsızdır.",
+      "5 yıl sonra döner."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Dönemez, disiplin cezası idari bir işlemdir ve bağımsızdır. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-8-8i0h",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 37 nci maddesine göre, memurların kazanılmış hak aylıklarının kadro şartı aranmaksızın bir üst dereceye yükseltilebilmesi için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      "Azami yükselebileceği derecenin üçüncü kademesinden aylık almaya hak kazanmış olmak",
+      "Son bir yıllık süre içinde herhangi bir disiplin cezası almamış olmak",
+      "Son sekiz yıllık süre içinde herhangi bir disiplin cezası almamış olmak",
+      "Son beş yıllık süre içinde herhangi bir disiplin cezası almamış olmak",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Son sekiz yıllık süre içinde herhangi bir disiplin cezası almamış olmak. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 37.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-80-moks",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Disiplin kurulları ve yüksek disiplin kurulları, kendilerine intikal eden dosyaları en geç ne kadar süre içinde karara bağlamak zorundadır?",
+    "options": [
+      "Disiplin kurulu 15 gün, Yüksek disiplin kurulu 3 ay",
+      "Her ikisi de 30 gün",
+      "Her ikisi de 60 gün",
+      "Disiplin kurulu 10 gün, Yüksek disiplin kurulu 2 ay",
+      "Disiplin kurulu 30 gün, Yüksek disiplin kurulu 6 ay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Disiplin kurulu 30 gün, Yüksek disiplin kurulu 6 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-81-tj5h",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memurların hastalık raporlarını hangi hâllerde, hangi hekimlerin vereceği ne ile belirlenir?",
+    "options": [
+      "Kanunla",
+      "Genelgeyle",
+      "Yönetmelikle",
+      "Başhekimlik talimatıyla",
+      "İl Sağlık Müdürlüğü kararıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yönetmelikle. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-82-l99a",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Genel olarak Devlet memuru olabilmek için........................yaşını tamamlamış olmak gerekir.",
+    "options": [
+      "18",
+      "15",
+      "16",
+      "17",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 18. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-83-vg83",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Bir meslek veya sanat okulunu bitirenler, en az........................yaşını doldurmuş ve kazai rüşt kararı almış olmak şartıyla memur olabilirler.",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 15. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-84-kqkf",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Usulüne uygun istifa eden memur,........................ay geçmeden yeniden memuriyete alınamaz.",
+    "options": [
+      "6",
+      "3",
+      "9",
+      "12",
+      "24"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 6. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-85-mmcc",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Yerine atananın gelmesini beklemeden (çekilmiş sayılarak) ayrılan memur........................yıl geçmeden yeniden memuriyete alınamaz.",
+    "options": [
+      "3 ay",
+      "1",
+      "6 ay",
+      "2",
+      "3"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 1. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-86-4ty4",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "Memur olmayan eşi ölen memura en yüksek Devlet memuru aylığı tutarında (1 kat)........................yardımı ödenir.",
+    "options": [
+      "Aile",
+      "Doğum",
+      "Giyecek",
+      "Ölüm",
+      "Yiyecek"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Ölüm. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-87-3ga4",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 33. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yurt dışında görevli memurlardan farklı katsayılı memlekete atananların aylıkları",
+      "Kadroların tespiti",
+      "Sınıfta kalan çocuklar için burs verilemiyeceği",
+      "Mecburi hizmetle ilgili yükümlülükler",
+      "İstisnai memurluklar"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 33. maddesi “Kadroların tespiti” konusunu düzenler. Maddeye göre kadrosuz memur çalıştırılamaz. (Değişik ikinci fıkra: 2/7/2018 - KHK-703/182 md.) Kadrolar, Cumhurbaşkanlığı kararnamesinde gösterildiği şekilde düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-88-9luy",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 37. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Mahrumiyet yerinden başka yere atanan, ölen veya emekliye ayrılanların burs haklarının devamı",
+      "Eğitim çalışmalarının sonuçlarının bildirilmesi",
+      "Yükselinebilecek derecenin üstünde bir dereceye yükselme",
+      "Toplu eylem ve hareketlerde bulunma yasağı",
+      "Silah altına alınma"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 37. maddesi “Yükselinebilecek derecenin üstünde bir dereceye yükselme” konusunu düzenler. Maddeye göre bu kanun hükümlerine göre öğrenim durumları, hizmet sınıfları ve görev unvanları itibariyle azami yükselebilecekleri derecelerin dördüncü kademesinden aylık almaya hak kazanan ve son sekiz yıllık süre içinde herhangi bir disiplin cezası almayanların kazanılmış hak aylıkları kadro şartı aranmaksızın bir üst dereceye yükseltilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-89-bcdy",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 39. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Koordinasyon ve denetleme",
+      "Basına bilgi veya demeç verme",
+      "İstisnai memurluklara atananlara bu Kanunun uygulanacak hükümleri",
+      "Sınıf dışında kadro ihdas edilemeyeceği",
+      "Günün 24 saatinde devamlılık gösteren hizmetlerde çalışma saat ve usulünün tespiti"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 39. maddesi “Sınıf dışında kadro ihdas edilemeyeceği” konusunu düzenler. Maddeye göre bu kanuna tabi kurumlarda sınıflar dışında memurluk kadroları ihdas edilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-9-9bo9",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 36 ncı maddesine göre, aşağıdakilerden hangisi Eğitim ve Öğretim Hizmetleri Sınıfında yer alır?",
+    "options": [
+      "Mühendis",
+      "Öğretmen",
+      "Avukat",
+      "Tabip",
+      "Polis"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Öğretmen. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 36/IV.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-90-16u4",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 41. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Resmî belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve iadesi",
+      "Sınav sonuçları",
+      "Muvazzaf askerliğini yaptıktan sonra Devlet memurluğuna girenlerin kademe intibakları",
+      "Görevden uzaklaştırma tedbirinin kaldırılmasında amirin takdiri",
+      "Sınıflandırmada öğrenim unsuru"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 41. maddesi “Sınıflandırmada öğrenim unsuru” konusunu düzenler. Maddeye göre genel olarak ortaokulu bitirenler memur olabilirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-91-c7m2",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 43. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Göstergeler",
+      "Atama yapılacak boş kadroların bildirilmesi",
+      "Karşılıklı olarak yer değiştirme",
+      "Günlük çalışma saatlerinin tesbiti",
+      "Kademe ilerlemesinde verilecek aylık"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 43. maddesi “Göstergeler” konusunu düzenler. Maddeye göre bu Kanuna tabi kurumların kadrolarında bulunan personelin aylık ve ek göstergeleri aşağıda gösterildiği şekilde tespit edilir: A) Aylık Göstergesi: Bütün sınıflar itibariyle her derece ve kademenin aylıklarının hesaplanmasına esas teşkil edecek Aylık Gösterge Tablosu aşağıdaki I Numaralı Cetvelde gösterilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-92-qfyf",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 45. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Bilgilerini artırmak için yabancı memlekete gönderilenlerin hak ve yükümlülükleri",
+      "Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı",
+      "Olağanüstü yönetim hallerinde çekilme usulü",
+      "Kademe aylığı",
+      "Yurt dışında görevli memurlardan farklı katsayılı memlekete atananların aylıkları"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 45. maddesi “Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı” konusunu düzenler. Maddeye göre hiçbir memur sınıfının dışında ve sınıfının içindeki derecesinin altında bir derecenin görevinde çalıştırılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-siniflandirma-mtn3uwhn-93-7vtm",
+    "topic_id": "law-657-section-siniflandirma",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na tabi kurumlarda aşağıdakilerden hangisi ihdas edilemez?",
+    "options": [
+      "Sınıflar dışında memurluk kadroları",
+      "Kanunda öngörülen sınıflara ait memurluk kadroları",
+      "Genel İdare Hizmetleri Sınıfına ait kadrolar",
+      "Teknik Hizmetler Sınıfına ait kadrolar",
+      "Yardımcı Hizmetler Sınıfına ait kadrolar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bu Kanuna tabi kurumlarda sınıflar dışında memurluk kadroları ihdas edilemez. Dayanak: Madde 39.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:01.580423+00:00",
+    "updated_at": "2026-09-04T15:25:01.580423+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-0-3nlm",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 208 inci maddesine göre, Devlet memurunun ölümü hâlinde ölüm yardımı ödeneği en yüksek Devlet memuru aylığının kaç katıdır?",
+    "options": [
+      "1/2 katı",
+      "1 katı",
+      "3 katı",
+      "4 katı",
+      "2 katı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 2 katı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 208.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-1-3gbf",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 208 inci maddesine göre, memur olmayan eşi veya aile yardımı ödeneğine müstahak çocuğu ölen memura ne kadar ölüm yardımı ödeneği verilir?",
+    "options": [
+      "En yüksek Devlet memuru aylığının yarısı",
+      "En yüksek Devlet memuru aylığının iki katı",
+      "En yüksek Devlet memuru aylığı tutarında",
+      "Üç katı",
+      "Dört katı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – En yüksek Devlet memuru aylığı tutarında. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 208.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-10-c3bn",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre Devlet memuruna verilen aile yardımı ödeneği ile ilgili aşağıdaki ifadelerin hangisi yanlıştır?",
+    "options": [
+      "Aile yardımı ödeneği, memurun hiçbir menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için verilir.",
+      "25 yaşını dolduran çocuklar yükseköğrenimlerine devam ettikleri sürece aile yardımı ödeneğinden yararlanmaya devam eder.",
+      "Aile yardımı ödeneği, Devlet memurunun geçimini sağladığı üvey çocukları için de verilir.",
+      "Devletçe okutulan veya burs alan çocuklar için aile yardımı ödeneği verilmez.",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 25 yaşını dolduran çocuklar yükseköğrenimlerine devam ettikleri sürece aile yardımı ödeneğinden yararlanmaya devam eder. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-11-nmhg",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Kanun“un 206. maddesine göre, aşağıdaki hâllerden hangisinde çocuklar için verilen “Aile Yardımı Ödeneği” kesilmez?",
+    "options": [
+      "25 yaşını bitirdiği halde çalışamayacak derecede malullüğünün resmî sağlık kurulu raporuyla tespit edilmesi",
+      "Çocuğun evlenmesi",
+      "Çocuğun 25 yaşını doldurması (kız/erkek ayrımı olmaksızın)",
+      "Çocuğun kendi hesabına ticaret yapmaya başlaması",
+      "Çocuğun burs alması veya Devletçe okutulması"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 25 yaşını bitirdiği halde çalışamayacak derecede malullüğünün resmî sağlık kurulu raporuyla tespit edilmesi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-12-p5bz",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Memur olmayan eşi veya aile yardımı ödeneğine müstahak çocuğu ölen bir Devlet memuruna, “Ölüm Yardımı Ödeneği’ olarak ne kadar ödeme yapılır?",
+    "options": [
+      "En yüksek Devlet memuru aylığının (ek gösterge dahil) iki katı tutarında",
+      "En yüksek Devlet memuru aylığı (ek gösterge dahil) tutarında",
+      "Memurun kendi aylığının iki katı tutarında",
+      "Net asgari ücret tutarında",
+      "Cenaze giderleri kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – En yüksek Devlet memuru aylığı (ek gösterge dahil) tutarında. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-13-qs7v",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Kanun“un 203. maddesine göre, ”Aile Yardımı Ödeneği’ ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Aile yardımı ödeneği, memurun maaşıyla birlikte haczedilebilir.",
+      "Aile yardımı ödeneği, hiçbir vergi ve kesintiye tabi tutulmaksızın ödenir ve borç için haczedilemez.",
+      "Aile yardımı ödeneğinden sadece damga vergisi kesilir.",
+      "Aile yardımı ödeneği, memurun isteği üzerine eşine ödenir.",
+      "Aile yardımı ödeneği emeklilik keseneğine dahildir."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Aile yardımı ödeneği, hiçbir vergi ve kesintiye tabi tutulmaksızın ödenir ve borç için haczedilemez. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-14-28qf",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Aşağıdakilerderi hangisi 657. sayılı Kanun“da belirtilen ”Sosyal Haklar ve Yardımlar’ kapsamında yer almaz?",
+    "options": [
+      "Emeklilik Hakları",
+      "Lojman Tazminatı",
+      "Cenaze Giderleri",
+      "Aile Yârdımı Ödeneği",
+      "Ölüm Yardımı Ödeneği"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Lojman Tazminatı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 187-212 (Sosyal Haklar ve Yardımlar).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-15-bqsk",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre mahrumiyet yerlerinde çalışan Devlet memurları görev yerlerinde çocuğunun girmesi gereken orta dereceli okul bulunmadığı takdirde, çocuklarını yatılı okullarda okutmak isterlerse, pansiyon ücretlerinden yüzde kaç oranında indirim uygulanır?",
+    "options": [
+      "Yüzde 50",
+      "Yüzde 10",
+      "Yüzde 25",
+      "Yüzde 40",
+      "Yüzde 60"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yüzde 50. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 199.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-16-rkqh",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi devlet memurlarına verilecek yardımlardan değildir?",
+    "options": [
+      "Tedavi yardımı",
+      "Eğitim yardımı",
+      "Giyecek yardımı",
+      "Yiyecek yardımı",
+      "Ölüm yardımı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Eğitim yardımı. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-17-i3if",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre devlet memurlarından yurt dışında sürekli görevle çalışanlardan aşağıdaki yakınlarından hangisinin ölümü hâlinde cenaze masrafları kurumlarınca karşılanmaz?",
+    "options": [
+      "Eşi",
+      "Çocuğu",
+      "Babası",
+      "Annesi",
+      "Kardeşi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kardeşi. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 210.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-18-grrc",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Devlet memurunun ölümü hâlinde cenaze giderleri, (cenazenin başka yere nakli dahil) kim ya da hangi kurum tarafından ödenir?",
+    "options": [
+      "Özel İdare tarafından",
+      "Belediyelerce",
+      "Valiliklerce",
+      "Kurumlarınca",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kurumlarınca. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 210.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-19-7wce",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi memurların sosyal haklar ve yardımlarından değildir?",
+    "options": [
+      "Yeniden işe alıştırma",
+      "Öğrenim bursları ve yurtları",
+      "Fazla çalışma ücreti",
+      "Ölüm yardımı ödeneği",
+      "Aile yardımı ödeneği"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Fazla çalışma ücreti. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 187-212.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-2-435q",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Sürekli görevle yurt dışına gönderilen Devlet memurları, geçici görevle en çok 1 ay süreyle merkeze çağrılabilir.",
+      "Gerekli hâllerde malî yılın ikinci yarısı için, genel bütçe kanunu ile tespit edilen katsayıları Cumhurbaşkanı değiştirmeye yetkilidir.",
+      "Görevde tutulmasında veya belli yerlerde istihdam edilmesinde güçlük bulunan elemanlara, Eleman teminindeki güçlük zammı ödenir.",
+      "Hesaplarını, görevi devralanlara devir zorunluluğu bulunan saymanların devir süresi 5 gündür.",
+      "Devlet memurlarının hangi hâllerde yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlayacakları bir yönetmelik ile tespit olunur."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hesaplarını, görevi devralanlara devir zorunluluğu bulunan saymanların devir süresi 5 gündür. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-20-ikxi",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Aile yardımı ödeneği memurun şartları taşıyan çocukları için verilebilir.",
+      "Yıl içinde ödüllendirilen personel sayısı kurumlarınca izleyen yılın Ocak ayı sonuna kadar Devlet Personel Başkanlığına bildirilir.",
+      "Devlet memurunun ölümü hâlinde en yüksek Devlet memuru aylığının iki katı tutarında ölüm yardımı ödeneği verilir.",
+      "Devletçe okutulan ve burs alan çocuklar için aile yardımı ödeneği verilir.",
+      "Devlet memurları her durumda Devletin menfaatlerini korumak mecburiyetindedirler."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Devletçe okutulan veya burs alan çocuklar için aile yardımı ödeneği verilmez. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-21-64ua",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Devlet Memurlarından T. C. Emekli Sandığına tabi hizmeti........................ve daha fazla olanlara, istekleri üzerine Toplu Konut Fonundan özel şartlarla ve öncelikle konut kredisi verilebilir. 657 Devlet Memurları Kanunu’na göre, yukarıda boş bırakılan alana aşağıdakilerden hangisi gelirse ifade doğru olur?",
+    "options": [
+      "10 yıl",
+      "8 yıl",
+      "5 yıl",
+      "3 yıl",
+      "1 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 10 yıl. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-22-ufhe",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, memurun çocuklarından her birine hangi gösterge rakamının aylık katsayısı ile çarpılması sonucu elde edilecek miktar üzerinden aile yardım ödeneği ödenir?",
+    "options": [
+      "250",
+      "100",
+      "150",
+      "200",
+      "300"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 250. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-23-p860",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre istisnai durumlar hariç en geç kaç yaşını doldurmuş çocuklar için aile yardımı verilmez?",
+    "options": [
+      "18",
+      "25",
+      "20",
+      "21",
+      "23"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 25. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-24-hppa",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre mahrumiyet yerlerinde çalışan Devlet memurları görev yerlerinde çocuğunun girmesi gereken orta dereceli okul bulunmadığı takdirde, bu dereceli okullarda okuma hakkını kazanmış bulunan çocuklarını yatılı okullarda okutmak isterlerse faydalanacakları pansiyon ücret indirimi çocuklarının her biri için her yıl tespit olunan pansiyon ücretlerinden en azının % kaçı oranındadır?",
+    "options": [
+      "50",
+      "7",
+      "15",
+      "20",
+      "75"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 50. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-25-vtg9",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, devlet Memurları için lüzum ve ihtiyaç görülen yerlerde çocuk bakımevi ve sosyal tesislerin kuruluş ve işletme esas ve usulleri hangi kurumların birlikte hazırlanacak genel yönetmelikle belirlenir?",
+    "options": [
+      "Devlet Personel Başkanlığı, Maliye ve Millî Eğitim Bakanlığı",
+      "Devlet Personel Başkanlığı, İçişleri ve Ticaret Bakanlığı",
+      "Devlet Personel Başkanlığı, T. C. Hazine ve Maliye Bakanlığı ve İçişleri Bakanlığı",
+      "Devlet Personel Başkanlığı ve İçişleri Bakanlığı",
+      "Devlet Personel Başkanlığı ile Maliye ve Gümrük Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Devlet Personel Başkanlığı ile Maliye ve Gümrük Bakanlığı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 191.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-26-ug76",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuk ve Aile yardımı ile ilgili aşağıda verilenlerden hangisi doğrudur?",
+    "options": [
+      "Devletçe okutulan çocuklarda aile yardımı yapılır.",
+      "Burs alan çocuklara aile ve çocuk yardımı yapılır.",
+      "25 yaşını bitirdiği halde evlenmemiş kız çocuklarına süresiz olarak aile ve çocuk yardımı yapılır.",
+      "Evlenen çocuklara aile ve çocuk yardımı yapılır.",
+      "Öğrenim yapmakta iken tatil devresinde çalışanlara burs ödenmez."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 25 yaşını bitirdiği halde evlenmemiş kız çocuklarına süresiz olarak aile ve çocuk yardımı yapılır. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-27-78tc",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuk ve Aile yardımı ile ilgili aşağıdaki seçeneklerden/şıklardan hangisi yanlıştır?",
+    "options": [
+      "Devlet memurunun, geçimini sağladığı üvey çocukları için de bu ödenek verilir.",
+      "25 yaşını dolduran erkek çocuklara aile ve çocuk yardımı yapılmaz.",
+      "Burs alan çocuklara aile ve çocuk yardımı yapılır.",
+      "Memur, eş için ödenen aile yardımı ödeneğine evlendiği; çocuk için ödenen yardıma da çocuğunun doğduğu tarihi takip eden ay başından itibaren hak kazanır.",
+      "Aile yardımı ödenekleri hiçbir vergi ve kesintiye tabi tutulmaksızın ödenir ve borç için haczedilemez."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Burs alan çocuklara aile ve çocuk yardımı yapılır. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-28-wac7",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Aşağıdakilerden hangisi memurlara ödenen sosyal hak ve yardımlardan biri değildir?",
+    "options": [
+      "Aile yardımı ödeneği",
+      "Yiyecek yardımı",
+      "Makam tazminatı",
+      "Ölüm yardımı ödeneği",
+      "Giyecek yardımı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Makam tazminatı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 187-212.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-29-1jwv",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Evli bulunan Devlet memurlarına aile yardımı ödeneği verilir. Bu yardım, çocuklardan her biri için de ödenir. Hangi yaş grubunda yer alan çocuklar için bu yardım bir kat artırımlı ödenir?",
+    "options": [
+      "0 – 3 yaş",
+      "7 – 12 yaş",
+      "0 – 18 yaş",
+      "0-6 yaş",
+      "12 – 18 yaş"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 0-6 yaş. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-3-pqq9",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "I. Burs alan veya Devletçe okutulan çocuklar II. Evlenen çocuklar III. 25 yaşını dolduran çocuklar 657 sayılı Devlet Memurları Kanunu’na göre yukarıdakilerden hangileri için çocuk yardımı ödeneği verilmez?",
+    "options": [
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "Yalnız IV",
+      "I, II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – I, II ve III. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-30-4bcb",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Aşağıdaki hâllerden hangisinde çocuklar için aile yardımı ödeneği kesilmez?",
+    "options": [
+      "Evlenen çocuklar",
+      "25 yaşını dolduran çocuklar (Kız çocukları ve malul olanlar hariç)",
+      "Kendileri hesabına ticaret yapan çocuklar",
+      "Burs alan veya Devletçe okutulan çocuklar",
+      "Yükseköğrenim gören 24 yaşındaki çocuklar"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yükseköğrenim gören 24 yaşındaki çocuklar. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-31-wtmr",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Memur olmayan eşi ölen memura, en yüksek Devlet memuru aylığı (ek gösterge dahil) tutarında ne yardımı yapılır?",
+    "options": [
+      "Ölüm yardımı ödeneği",
+      "Cenaze gideri",
+      "Aile yardımı",
+      "Dul ve yetim aylığı",
+      "Tazminat"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Ölüm yardımı ödeneği. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-32-6oyw",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Memurun ölümü hâlinde sağlığında bildirdiği kişiye (yoksa eşine/çocuğuna) en yüksek Devlet memuru aylığının........................katı tutarında ölüm yardımı ödenir.",
+    "options": [
+      "1 (Bir)",
+      "1,5",
+      "2 (İki)",
+      "3",
+      "4"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2 (İki). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 208.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-33-9z8d",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuk için verilen aile yardımı ödeneği, çocuk........................yaşını doldurunca kesilir (kız çocukları ve maluller hariç).",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "23",
+      "25"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 25. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-34-dsos",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuğu ölen memura en yüksek Devlet memuru aylığı tutarında (1 kat)........................yardımı ödeneği verilir.",
+    "options": [
+      "Aile",
+      "Ölüm",
+      "Doğum",
+      "Giyecek",
+      "Yiyecek"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Ölüm. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-35-g0o0",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Memurun kendisi ölürse mirasçılarına en yüksek Devlet memuru aylığının........................katı tutarında ölüm yardımı verilir.",
+    "options": [
+      "1 (Bir)",
+      "1,5",
+      "2 (İki)",
+      "3",
+      "4"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2 (İki). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 208.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-36-vr2n",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Aile yardımı ödeneği, çocuklar için........................yaşını doldurana kadar verilir (kız çocuklar ve maluller hariç).",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "25",
+      "23"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 25. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-37-x1eq",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuk 0-6 yaş grubunda ise aile yardımı ödeneği........................kat artırımlı (zamlı) ödenir.",
+    "options": [
+      "Yarım",
+      "1,5 (Bir buçuk)",
+      "2 (İki)",
+      "3 (Üç)",
+      "1 (Bir)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 1 (Bir). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-38-4z4d",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 187. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "İdari görevlere atanma",
+      "İkinci görev yasağı",
+      "Ceza kovuşturması sırasında görevden uzaklaştırma",
+      "Emeklilik hakları",
+      "Vekalet, ikinci görev aylık ve ücretleri ile diğer ödemeler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 187. maddesi “Emeklilik hakları” konusunu düzenler. Maddeye göre devlet memurlarının emeklilik ve malûllük hallerinde kendilerinin, ölümleri halinde dul ve yetimlerinin sahip bulundukları haklar emeklilik kanunlariyle düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-39-vw6l",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 188. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Birleşemiyecek görevler",
+      "Yüksek disiplin kurullarının karar usulü, memurun hakkı",
+      "Asaleti onaylanan memurların kademe ilerlemeleri",
+      "Memurların sosyal tesis ihtiyaçları",
+      "Hastalık ve analık sigortası"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 188. maddesi “Hastalık ve analık sigortası” konusunu düzenler. Maddeye göre a) Devlet memurlarının hastalık, analık ve görevden doğan kaza ile mesleki hastalık, B) Devlet memurlarının eşleri ve bakmakla yükümlü oldukları ana, baba ve çocuklarının hastalık ve analık, C) Bir kanuna dayanılarak emekli veya malûllük aylığı alanların (Sosyal Sigortalar Kurumunca uygulanan iş kazaları ile meslek hastalıkları,.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-4-8uti",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 206 ncı maddesine göre, istisnalar saklı kalmak üzere çocuk için aile yardımı ödeneği kaç yaşını dolduran çocuklara verilmez?",
+    "options": [
+      "25",
+      "18",
+      "20",
+      "21",
+      "23"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 25. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-40-uxuv",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 189. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yeniden işe alıştırma",
+      "Cezai kovuşturma ile disiplin kovuşturmasının bir arada yürütülmesi",
+      "Derecelerin ilk ve en yüksek kademe aylıkları",
+      "Yolluk giderleri ve gündelikleri",
+      "Eğitim birimleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 189. maddesi “Yeniden işe alıştırma” konusunu düzenler. Maddeye göre malûllük aylığı bağlanan Devlet memurlarından çalışma gücünün artırılabileceği umulanlar eski sınıflarında veya yeni sınıf veyahut meslekte çalışabilmelerini sağlamak üzere işe alıştırılmaya tabi tutulabilirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-41-9xcl",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 191. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Memurlara ödenecek aylık tutarları",
+      "Memurların sosyal tesis ihtiyaçları",
+      "İzin veya geçici görevde iken görev yeri değiştirilen memurların aylıkları",
+      "Devlet memurları için konut",
+      "Yürürlükten kaldırılan hükümler"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 191. maddesi “Memurların sosyal tesis ihtiyaçları” konusunu düzenler. Maddeye göre devlet Memurları için lüzum ve ihtiyaç görülen yerlerde çocuk bakımevi ve sosyal tesisler kurulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-42-vr93",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 192. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin aylıkları",
+      "Silah altına alınmazdan önce kadrolarından açıkta bulunanların aylıkları",
+      "Devlet memurları için konut kredisi",
+      "Devlet memurları eğitimi genel planı",
+      "Sınıf dışında kadro ihdas edilemeyeceği"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 192. maddesi “Devlet memurları için konut kredisi” konusunu düzenler. Maddeye göre devlet Memurlarından T. C.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-43-9ts2",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 193. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Emeklilik hakları",
+      "Giyecek yardımı",
+      "Dört istihdam şekli dışında personel çalıştırılamayacağı",
+      "Devlet memurları için konut",
+      "İdari görevlere atanma"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 193. maddesi “Devlet memurları için konut” konusunu düzenler. Maddeye göre devlet memurlarının lüzum ve zaruret görülen yerlerle kiralık konut ihtiyaçları, Cumhurbaşkanınca onanacak programlar gereğince, genel ve katma bütçelere her yıl konulacak ödeneklerle tesis edilecek fondan karşılanır.275 Bu madde hükmü özel kanunlarla düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-44-bow3",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 199. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yiyecek yardımı",
+      "Kamu personeli bilgi sistemi",
+      "Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı",
+      "Birleşemiyecek görevler",
+      "Öğrenim bursları ve yurtları"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 199. maddesi “Öğrenim bursları ve yurtları” konusunu düzenler. Maddeye göre mahrumiyet yerlerinde çalışan Devlet memurları görev yerlerinde çocuğunun girmesi gereken orta dereceli okul bulunmadığı takdirde, bu dereceli okullarda okuma hakkını kazanmış bulunan çocuklarını yatılı okullarda okutmak isterlerse, pansiyon ücret indiriminden faydalanırlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-45-m50o",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 200. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Sınıfta kalan çocuklar için burs verilemiyeceği",
+      "Türk silahlı kuvvetlerinde çalışan memurlara uygulanmayacak maddeler",
+      "Denetimindeki teşebbüsten menfaat sağlama yasağı",
+      "Karşılıklı olarak yer değiştirme",
+      "Cezai kovuşturma ile disiplin kovuşturmasının bir arada yürütülmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 200. maddesi “Sınıfta kalan çocuklar için burs verilemiyeceği” konusunu düzenler. Maddeye göre pansiyonlarda ücret indiriminden faydalanan memurların çocukları sınıfta kalırlarsa aynı sınıf için ikinci sene bu haktan faydalanamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-46-oqik",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 201. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Kadroların tespiti",
+      "Mahrumiyet yerinden başka yere atanan, ölen veya emekliye ayrılanların burs haklarının devamı",
+      "İstisnai memurluklara atananlara bu Kanunun uygulanacak hükümleri",
+      "Memurluktan çekilenlerin yeniden atanmaları",
+      "Memurlara ödenecek aylık tutarları"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 201. maddesi “Mahrumiyet yerinden başka yere atanan, ölen veya emekliye ayrılanların burs haklarının devamı” konusunu düzenler. Maddeye göre öğrenim yılı içinde mahrumiyet yeri ödeneğine tabi olmayan yerlerdeki bir göreve atanan veya ölen veyahut emekliye ayrılan memurların çocukları için yapılan indirim, bulundukları ders yılı sonuna kadarı kendi isteğiyle atananlar için de, atandıkları tarihteki taksit dönemi sonuna kadar devam eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-47-m3v4",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 203. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "İşe başlamama halinde yapılacak işlem",
+      "Muvazzaf askerliğini yaptıktan sonra Devlet memurluğuna girenlerin kademe intibakları",
+      "Aile yardımı ödeneğinin ödeme usulü",
+      "Görevden uzaklaştırma",
+      "Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin aylıkları"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 203. maddesi “Aile yardımı ödeneğinin ödeme usulü” konusunu düzenler. Maddeye göre aile yardımı ödeneği Devlet memurlarına her ay aylıklariyle birlikte ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-48-ie5h",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 204. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Seferde veya talim ve manevra için hazarda silah altına alınanların askerlik sürelerinin kademe ve derece intibakları",
+      "Disiplin amiri ve disiplin cezaları",
+      "Dış memleketler aylık katsayısı",
+      "Aile yardımı ödeneğine hak kazanma",
+      "Emeklilik hakları"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 204. maddesi “Aile yardımı ödeneğine hak kazanma” konusunu düzenler. Maddeye göre memur, eş için ödenen aile yardımı ödeneğine evlendiği; çocuk için ödenen yardıma da çocuğunun doğduğu tarihi takip eden ay başından itibaren hak kazanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-49-qofc",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 205. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Karar süresi",
+      "Kademe aylığı",
+      "Vekalet, ikinci görev aylık ve ücretleri ile diğer ödemeler",
+      "Yiyecek yardımı",
+      "Aile yardımı ödeneği hakkını kaybetme"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 205. maddesi “Aile yardımı ödeneği hakkını kaybetme” konusunu düzenler. Maddeye göre memur, eş için ödenen aile yardımı ödeneği hakkını eşinden boşanma veya eşinin ölümü, çocuk için ödenen yardım ödeneği hakkını da çocuğun ölümü veya 206 ncı maddedeki hallerin vukuunu takip eden ay başından itibaren kaybeder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-5-8y4x",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, karı kocanın her ikisi de Devlet memuru ise herhangi bir şekilde menfaat karşılığı çalışmayan çocukları için ödenecek aile yardımı ödeneği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Bu ödenek yalnızca kadına verilir.",
+      "Bu ödenek her iki eşe de ayrı ayrı verilir.",
+      "Bu ödenek 1/4 oranında kadına, 3/4 oranında erkeğe verilir.",
+      "Bu ödenek yalnızca kocaya verilir.",
+      "Bu ödenek her iki eşe de 1/2 oranında ayrı ayrı verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Bu ödenek yalnızca kocaya verilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-50-tbad",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 210. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Cenaze giderleri",
+      "Derece aylığı",
+      "Derece değişikliğinde aylığa hak kazanma",
+      "Yeniden işe alıştırma",
+      "Türk silahlı kuvvetlerinde çalışan memurlara uygulanmayacak maddeler"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 210. maddesi “Cenaze giderleri” konusunu düzenler. Maddeye göre devlet memurlarının ölümü halinde cenaze giderleri (cenazenin başka yere nakil dahil) kurumlarınca ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-51-d7d6",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 211. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Görev yeri değiştirilen memurların aylıkları",
+      "Giyecek yardımı",
+      "Seferde muvazzaflık hizmeti dışında silah altına alınan memurların aylıklarının ödenmesi",
+      "Eğitim birimleri",
+      "Kadroların tespiti"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 211. maddesi “Giyecek yardımı” konusunu düzenler. Maddeye göre devlet memurlarından hangilerinin ne şekilde giyecek yardımından faydalanacakları Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlıyacakları bir yönetmelik ile tesbit olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-52-5l6n",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 212. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Sefer haline geçişte silah altında bulunan memurların aylıkları",
+      "Aile yardımı ödeneğine hak kazanma",
+      "Yiyecek yardımı",
+      "Yürürlükten kaldırılan hükümler",
+      "İşe başlamama halinde yapılacak işlem"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 212. maddesi “Yiyecek yardımı” konusunu düzenler. Maddeye göre devlet memurlarının hangi hallerde yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlıyacakları bir yönetmelik ile tesbit olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-6-u9pk",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Aşağıdaki hangi hâllerde Çocuk için aile yardım ödeneği verilemez?",
+    "options": [
+      "Dul memurların çocukları",
+      "Devlet memurunun geçimini sağladığı üvey çocuklar için",
+      "Burs alan veya Devletçe okutulan çocuklar için",
+      "0-6 yaş grubu çocuklar için",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Burs alan veya Devletçe okutulan çocuklar için. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-7-0dil",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, aşağıdakilerden hangisi hiçbir vergi ve kesintiye tabi tutulmaz?",
+    "options": [
+      "Özel hizmet tazminatı",
+      "Yabancı dil tazminatı",
+      "Yan ödeme",
+      "Aile yardımı ödeneği",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Aile yardımı ödeneği. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 203.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-8-4afn",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Ölüm yardımı ödeneğinin ödenmesinde esas alınan aylık kavramı aşağıdakilerden hangisidir?",
+    "options": [
+      "Memurun kazanılmış hak aylığı",
+      "1000 gösterge rakamının memur maaş katsayısı ile çarpımı sonucu bulunan tutar",
+      "Aylık ve ek gösterge tutarı",
+      "En yüksek Devlet memuru aylığı (ek gösterge dâhil)",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – En yüksek Devlet memuru aylığı (ek gösterge dâhil). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 208.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "law-657-section-sosyal-haklar-yardimlar-mtn3wel1-9-2q6d",
+    "topic_id": "law-657-section-sosyal-haklar-yardimlar",
+    "prompt": "Çocuk için ödenen aile yardımı ödeneği aşağıdakilerden hangisinde ödenmez?",
+    "options": [
+      "30 yaşında bekar kız çocuğu için",
+      "Askeri okulda okuyan çocuk için",
+      "24 yaşında erkek çocuk için",
+      "Öğrenim yapmakta iken yaz tatilinde çalışan çocuk için",
+      "Hiçbiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Askeri okulda okuyan çocuk için. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 202-206.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:26:11.636017+00:00",
+    "updated_at": "2026-09-04T15:26:11.636017+00:00"
+  },
+  {
+    "id": "manual-pool-100",
+    "topic_id": "law-5018",
+    "prompt": "Kapsam, temel ilkeler ve kurumsal çevre düzenlemesine göre malî istatistiklerin hazırlanmasında kamu idarelerinin yöneticileri neyin oluşturulması için gerekli önlemleri alır?",
+    "options": [
+      "Sadece personel sayısının artırılmasının",
+      "Uygun kurumsal çevrenin",
+      "Sadece bilgisayar altyapısının",
+      "Sadece uluslararası kredi derecesinin",
+      "Sadece bütçe fazlasının"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-101",
+    "topic_id": "law-5018",
+    "prompt": "Malî yönetim ve kontrol sisteminin denetimine göre bu teftiş, kamu idarelerinin malî karar ve işlemlerini hangi açıdan inceler?",
+    "options": [
+      "Sadece siyasi tarafsızlık yönünden",
+      "Sadece estetik açıdan",
+      "Sadece uluslararası itibar açısından",
+      "Sadece personel memnuniyeti açısından",
+      "Mevzuata uygunluk yönünden"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-102",
+    "topic_id": "law-5018",
+    "prompt": "Bütçe türlerine göre 'mahallî idare bütçesi' hangi idarelerin bütçesidir?",
+    "options": [
+      "Sadece il özel idarelerinin bütçesi",
+      "Mahallî idare kapsamındaki kamu idarelerinin bütçesi",
+      "Sadece belediye şirketlerinin bütçesi",
+      "Sadece büyükşehir belediyelerinin bütçesi",
+      "Sadece köylerin bütçesi"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-103",
+    "topic_id": "law-5018",
+    "prompt": "Bütçe ilkelerine göre bütçelerde bütçeyi ilgilendirmeyen hususlara ne yapılmaz?",
+    "options": [
+      "Sadece dipnot olarak eklenir",
+      "Sayıştay onayıyla dahil edilebilir",
+      "Öncelikli olarak yer verilir",
+      "Sadece ek cetvellerde belirtilir",
+      "Yer verilmez"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-104",
+    "topic_id": "law-4483",
+    "prompt": "4483 sayılı Kanunun 7. maddesindeki düzenleme dikkate alındığında aşağıdaki ifadelerden hangisi mevzuata uygundur? (33)",
+    "options": [
+      "Temel karar süresi 30 gün, zorunlu hâlde tek uzatma en fazla 15 gündür.",
+      "Temel süre 45 gün, uzatma 45 gündür.",
+      "Temel süre 60 gün, uzatma yoktur.",
+      "Temel süre 30 gün, iki kez 15 gün uzatma vardır.",
+      "Temel süre 15 gün, uzatma 30 gündür."
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-105",
+    "topic_id": "2886-kanun",
+    "prompt": "İç zarflar açıldıktan sonra teklifler ne yapılır?",
+    "options": [
+      "Gizli tutulur",
+      "İmha edilir",
+      "Bankaya gönderilir",
+      "Komisyon başkanı tarafından okunur veya okutulur ve listesi yapılır",
+      "İsteklilere geri verilir"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-106",
+    "topic_id": "law-222",
+    "prompt": "Aşağıdakilerden hangisi Madde 42 hükmüne uygundur?",
+    "options": [
+      "Valilik genelgesiyle",
+      "Belediye kararıyla",
+      "Muhtar kararıyla",
+      "Milli Eğitim Bakanlığınca çıkarılacak yönetmelikle",
+      "Okul aile birliği kararıyla"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-107",
+    "topic_id": "law-5580",
+    "prompt": "\"Okul\" tanımı hangi kanunla değiştirilmiştir?",
+    "options": [
+      "6764 sayılı Kanun (2016)",
+      "7180 sayılı Kanun (2019)",
+      "6764 sayılı KHK",
+      "7141 sayılı Kanun (2018)",
+      "6528 sayılı Kanun (2014)"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-108",
+    "topic_id": "law-5580",
+    "prompt": "2026 değişikliğiyle Madde 7nin birinci fıkrasına hangi ibare eklenmiştir?",
+    "options": [
+      "'İzinsiz ara veren' ibaresi",
+      "'Kurum türüne uygun olmayan program uygulayan' ibaresi",
+      "'Öğrenci kaydı yapmayan' ibaresi",
+      "'Faaliyete başlamayan' ibaresi",
+      "'Reklam veren' ibaresi"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-12",
+    "topic_id": "law-5442",
+    "prompt": "Aşağıdakilerden hangisi 5442 sayılı İl İdaresi Kanununun 27. maddesinde yer alan bir hükümdür?",
+    "options": [
+      "Valilikten alınacak emir üzerine bu memurlar verilen işleri yapmakla ödevlidirler.",
+      "Bunların emri altında çalışanlar ilçenin ikinci derecede memurlarıdır.",
+      "Halkın dilek ve ihtiyaçlarını yerli yerinde gözden geçirir ve gereğini yapar.",
+      "Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder.",
+      "Bakanlıkların kuruluş mevzuatına göre ilçede lüzumu kadar teşkilatı bulunur."
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-13",
+    "topic_id": "4982-kanun",
+    "prompt": "İstenen bilgi başka bir kurumda bulunuyorsa ne yapılır?",
+    "options": [
+      "Dosya Kurula gönderilir.",
+      "aşvuru dilekçesi ilgili kuruma gönderilir ve başvurana yazılı bildirim yapılır.",
+      "Başvuru doğrudan reddedilir.",
+      "Başvuru sahibi yeni dilekçe vermeye zorlanır.",
+      "Belge yok sayılır."
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-14",
+    "topic_id": "law-5018",
+    "prompt": "Hazine birliği ilkesine göre merkezî yönetim kapsamındaki kamu idarelerinin gelir, gider, tahsilat, ödeme, nakit planlaması ve borç yönetimi hangi esasa göre yürütülür?",
+    "options": [
+      "Serbest piyasa kurallarına göre",
+      "Her idarenin kendi bankasında özel vezne açması esasına göre",
+      "Hazine birliğini sağlayacak şekilde",
+      "Yalnızca il özel idarelerinin belirlediği esasa göre",
+      "Uluslararası kredi kuruluşlarının belirlediği esasa göre"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-15",
+    "topic_id": "law-5018",
+    "prompt": "Malî saydamlığın sağlanması için gerekli düzenlemelerin yapılmasından ve önlemlerin alınmasından kimler sorumludur ve bu husus kim tarafından izlenir?",
+    "options": [
+      "Sadece belediye meclisleri sorumludur",
+      "Kamu idareleri sorumludur; bu husus Hazine ve Maliye Bakanlığınca izlenir",
+      "Sadece Cumhurbaşkanlığı sorumludur",
+      "Sadece Sayıştay sorumludur ve TBMM tarafından izlenir",
+      "Sadece İç Denetim Koordinasyon Kurulu sorumludur"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-16",
+    "topic_id": "law-5018",
+    "prompt": "Gelirlerin dayanaklarına göre genel bütçe gelirlerinin tarh, tahakkuk ve tahsili kim tarafından yapılır?",
+    "options": [
+      "Sadece ilgili belediye tarafından",
+      "Sadece TBMM tarafından",
+      "Hazine ve Maliye Bakanlığı veya tarh ve tahakkuka ilgili mevzuatına göre yetkili idareler tarafından",
+      "Sadece Cumhurbaşkanlığı tarafından",
+      "Sadece Sayıştay tarafından"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-28",
+    "topic_id": "law-anayasa",
+    "prompt": "Bakanlıkların kurulması ve kaldırılması neyle olur?",
+    "options": [
+      "Kanunla",
+      "TBMM kararıyla",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Referandumla"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-29",
+    "topic_id": "law-5580",
+    "prompt": "Kurum açma izni şartlarından biri olarak hangi husus rapor ile tespit edilir?",
+    "options": [
+      "Kurumun sosyal medya takipçi sayısı",
+      "Öğrenci velilerinin gelir düzeyi",
+      "Ders araç-gerecinin kurumun amaç ve ihtiyaçları için yeterli olduğu",
+      "Kurumun reklam bütçesi",
+      "Kurucunun banka hesap bakiyesi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-30",
+    "topic_id": "law-5580",
+    "prompt": "Geçici Madde 8, Madde 7'nin ikinci fıkrası kapsamında işlenen fiillerin tekerrürüne esas alınmasında neyi dikkate alır?",
+    "options": [
+      "Tekerrür hesaplamasına dair herhangi bir hüküm yoktur",
+      "Bu maddenin yürürlüğe girdiği tarihten önce işlenen fiiller, anılan fıkrada belirlenen süreler dikkate alınarak tekerrüre esas alınır",
+      "Yalnızca bu maddenin yürürlüğe girmesinden sonra işlenen fiiller dikkate alınır",
+      "Sadece son bir yıl içindeki fiiller dikkate alınır",
+      "Geçmiş fiiller hiçbir şekilde tekerrüre esas alınmaz"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-31",
+    "topic_id": "4688-kanun",
+    "prompt": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun 34. maddesine göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "(Değişik: 4/4/2012-6289/18 md.) Toplu sözleşme;",
+      "Toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve sendika üyesi olmayan kamu görevlileri arasında ayrım yapılamaz.",
+      "Toplu sözleşme hükümleri, sözleşmenin yapıldığı tarihi takip eden iki mali yıl için geçerlidir.",
+      "(Değişik: 4/4/2012-6289/19 md.) Toplu sözleşme görüşmelerine kamu idaresi adına Kamu İşveren Heyeti, kamu görevlileri adına Kamu Görevlileri Sendikaları Heyeti katılır.",
+      "Kamu Görevlileri Hakem Kurulu Başkanı ve her bir üyesi için aynı usul ve esaslar çerçevesinde birer yedek üye görevlendirilir."
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-32",
+    "topic_id": "law-1739",
+    "prompt": "Milli birlik ve bütünlüğün temel unsurlarından biri olarak hangi konuya önem verilir?",
+    "options": [
+      "Sadece beden eğitimi",
+      "Yalnız coğrafya öğretimi",
+      "Türk dilinin özellikleri bozulmadan öğretilmesi",
+      "Sadece matematik öğretimi",
+      "Yalnız yabancı dil öğretimi"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-33",
+    "topic_id": "law-1739",
+    "prompt": "İlköğretimin amaç ve görevlerinden biri nedir?",
+    "options": [
+      "Sadece sınav hazırlamak",
+      "Sadece meslek sahibi yapmak",
+      "Yalnız spor becerisi kazandırmak",
+      "Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak",
+      "Yalnızca yabancı dil öğretmek"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-34",
+    "topic_id": "law-1739",
+    "prompt": "Ortaöğretimin görevleri yerine getirilirken ne arasında denge sağlanır?",
+    "options": [
+      "Öğrencilerin istekleri ve kabiliyetleri ile toplum ihtiyaçları",
+      "Sadece yerli ve yabancı öğrenci sayısı",
+      "Yalnız il ve ilçe ihtiyacı",
+      "Sadece merkez ve taşra ihtiyacı",
+      "Yalnızca özel sektör ve kamu ihtiyacı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-35",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu görevlilerinin, mal bildirimlerini süresinde yapmaması hangi yaptırımı doğurabilir?",
+    "options": [
+      "Sadece sözlü uyarı",
+      "Hapis cezası (Adli yaptırım) ve disiplin cezası",
+      "Maaş artışı durdurulması",
+      "Hiçbir yaptırımı yoktur",
+      "Sadece kınama"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-36",
+    "topic_id": "law-1739",
+    "prompt": "Madde 44'ün alt başlığı nedir?",
+    "options": [
+      "Öğretmenlerin nitelikleri ve seçimi",
+      "Öğretmenlerin bölge hizmeti",
+      "Öğretmenlerin hizmet içi yetiştirilmesi",
+      "Milli Eğitim Bakanlığına bağlı 'Eğitim Yüksekokulu' açma yetkisi",
+      "Uzman ve usta öğreticiler"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-37",
+    "topic_id": "law-1739",
+    "prompt": "MEB eğitim araç ve gereçlerini hazırlarken hangi yollara başvurabilir?",
+    "options": [
+      "Yalnız kiralamak",
+      "Sadece ithal etmek",
+      "Yalnızca ihale ile satın almak",
+      "Sadece bağış kabul etmek",
+      "Hazırlamak/imal etmek/satın almak; kişi veya komisyona hazırlatmak; özel kesimden seçmek veya tavsiye etmek"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-38",
+    "topic_id": "law-1739",
+    "prompt": "1739 sayılı Kanun hükümlerine aykırı eğitim faaliyetinde bulunulabilir mi?",
+    "options": [
+      "Evet, her koşulda serbesttir",
+      "Evet, yalnızca yükseköğretimde serbesttir",
+      "Evet, yalnızca özel okullarda serbesttir",
+      "Hayır, askeri maksatlarla açılacak okullar hariç bulunulamaz",
+      "Evet, il milli eğitim müdürü izniyle mümkündür"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-39",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin 'Bırakın yapsınlar' (Laissez-Faire) tarzını benimsemesinin en büyük riski aşağıdakilerden hangisidir?",
+    "options": [
+      "Çalışanların çok fazla yorulması",
+      "Kararların çok hızlı alınması",
+      "Yöneticinin çok sevilmesi",
+      "Kurumda başıboşluk, koordinasyon eksikliği ve hedeflerden sapma yaşanması",
+      "Yaratıcılığın tamamen yok olması"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-40",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 142 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Görevden uzaklaştırma, Devlet kamu hizmetlerinin gerektirdiği hallerde, görevi başında kalmasında sakınca görülecek Devlet memurları hakkında alınan ihtiyati bir tedbirdir.",
+      "Görevden uzaklaştırma tedbiri, soruşturmanın herhangi bir safhasında da alınabilir.",
+      "Bu maddede “Görevden uzaklaştırma” konusu düzenlenmektedir.",
+      "Soruşturma sonunda disiplin yüzünden memurluktan çıkarma veya cezai bir işlem uygulanmasına lüzum kalmıyan Devlet memurları için alınmış olan görevden uzaklaştırma tedbiri, 138 inci maddedeki yetkililerce (Müfettişler tarafından görevden uzaklaştırılanlar…",
+      "Görevden uzaklaştırmaya yetkililer şunlardır."
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-41",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanununa göre, bir öğretim yılı hangi tarihten başlar?",
+    "options": [
+      "Derslerin başladığı günden",
+      "Derslerin başlamasından bir hafta önceki tarihten",
+      "1 Eylülden",
+      "1 Ocaktan",
+      "Sınavların başladığı günden"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-42",
+    "topic_id": "law-222",
+    "prompt": "Kanundaki 'aile başkanı' kavramı hangi kişiyi de kapsar?",
+    "options": [
+      "Çocuğu sürekli yanında bulunduran, barındıran veya çalıştıran kişiyi",
+      "Yalnız okul müdürünü",
+      "Sadece muhtarı",
+      "Her komşuyu",
+      "Yalnız öğretmeni"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-43",
+    "topic_id": "law-222",
+    "prompt": "Madde 72 kapsamında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Bedelsiz olarak herkese",
+      "Yalnız belediye talebiyle",
+      "Bayındırlık Bakanlığı veya valiliklerin isteği ve bedeli karşılığında",
+      "Sadece muhtar isteğiyle",
+      "İhale yapılmadan özel kişilere"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-44",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanununa göre, bütçesine gerekli ilköğretim ödeneğini koymayan idarelerin ödeneği kimce doğrudan konur?",
+    "options": [
+      "Okul müdürünce",
+      "Bütçeyi inceleme ve onamaya yetkili makamlarca",
+      "Muhtar tarafından",
+      "Noterce",
+      "Veli toplantısıyla"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-45",
+    "topic_id": "law-222",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanununa göre, madde 89'da 23 Eylül 1329 tarihli hangi düzenlemenin yürürlükten kaldırıldığı belirtilir?",
+    "options": [
+      "Köy Kanunu",
+      "Tedrisatı İptidaiye Kanunu Muvakkatı",
+      "Devlet Memurları Kanunu",
+      "Milli Eğitim Temel Kanunu",
+      "Belediye Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 5,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-46",
+    "topic_id": "law-657",
+    "prompt": "657 sayılı Devlet Memurları Kanunu'nun Madde 43 hükmüne göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Bu Kanuna tabi kurumlarda çalıştırılan memurların sınıfları aşağıda gösterilmiştir.",
+      "I - GENEL İDARE HİZMETLERİ SINIFI: Bu Kanunun kapsamına dahil kurumlarda yönetim, icra, büro ve benzeri hizmetleri gören ve bu Kanunla tespit edilen diğer sınıflara girmeyen memurlar Genel İdare Hizmetleri sınıfını teşkil eder.",
+      "IV - EĞİTİM VE ÖĞRETİM HİZMETLERİ SINIFI: Bu sınıf, bu Kanun kapsamına giren kurumlarda eğitim ve öğretim vazifesiyle görevlendirilen öğretmenleri (…)30 kapsar.",
+      "Kurumların 1, 2, 3 ve 4 üncü dereceli kadrolarına atananlara uygulanacak ek göstergeler, ilgililerin daha önce bulunmuş oldukları kariyerleri ile ilgili sınıf veya ekli I sayılı Cetvelin Genel İdare Hizmetleri Sınıfı (g) bölümünde belirtilen görevlerde…",
+      "V - AVUKATLIK HİZMETLERİ SINIFI: Avukatlık hizmetleri sınıfı, Özel kanunlarına göre avukatlık ruhsatına sahip, baroya kayıtlı ve kurumlarını yargı mercilerinde temsil yetkisini haiz olan memurları kapsar."
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-47",
+    "topic_id": "4982-kanun",
+    "prompt": "Daha önce yayımlanmış bir bilgi talep edilirse kurum neyi bildirir?",
+    "options": [
+      "Yalnız yayın tarihini",
+      "ilginin ne şekilde, ne zaman ve nerede yayımlandığını veya açıklandığını",
+      "Başvuranın neden bilgi istediğini",
+      "Belgeyi hazırlayan personelin özlük bilgilerini",
+      "Hiçbir bildirim yapmaz"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-48",
+    "topic_id": "4982-kanun",
+    "prompt": "Kanunun 8. maddesi esas alındığında, daha önce yayımlanmış bir bilgi talep edilirse kurum neyi bildirir?",
+    "options": [
+      "Yalnız yayın tarihini",
+      "ilginin ne şekilde, ne zaman ve nerede yayımlandığını veya açıklandığını",
+      "Başvuranın neden bilgi istediğini",
+      "Hiçbir bildirim yapmaz",
+      "Belgeyi hazırlayan personelin özlük bilgilerini"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 3,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-49",
+    "topic_id": "4982-kanun",
+    "prompt": "Kanunun 18. maddesi esas alındığında, i̇stihbarata ilişkin bilgi ve belgeler hangi durumda bilgi edinme hakkı kapsamında olabilir?",
+    "options": [
+      "Kişilerin çalışma hayatını ve meslek onurunu etkileyecek nitelikteyse",
+      "Belge on yıldan eskiyse",
+      "Herhangi bir kişi merak ediyorsa",
+      "Başvuru elektronik yapılmışsa",
+      "Kurum ücret alıyorsa"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 4,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-52",
+    "topic_id": "law-anayasa",
+    "prompt": "Anayasa'nın 24. maddesine göre Din Kültürü ve Ahlak öğretimi ile ilgili hangisi doğrudur?",
+    "options": [
+      "İsteğe bağlıdır.",
+      "Sadece ortaöğretimde zorunludur.",
+      "İlk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasındadır.",
+      "Cami ve kurslarda verilir.",
+      "Velinin yazılı talebine bağlıdır."
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 2,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-56",
+    "topic_id": "652-khk",
+    "prompt": "27/6/2019 tarihli ve 7180 sayılı Kanun, 652 sayılı KHK'nin hangi maddelerinde değişiklik/ekleme yapmıştır?",
+    "options": [
+      "Sadece madde 23",
+      "Sadece Ek Madde 5",
+      "Sadece madde 13",
+      "43 üncü madde, Ek Madde 4 ve Geçici Madde 16",
+      "6, 8, 14, 15/A, 15/B"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-57",
+    "topic_id": "law-4483",
+    "prompt": "Bir Cumhuriyet başsavcısı, görev sebebiyle işlendiği iddia edilen bir suçla ilgili şikâyet almıştır. Delillerden biri kısa sürede kaybolabilecek niteliktedir. Başsavcının 4483 sayılı Kanuna uygun işlemi hangisidir?",
+    "options": [
+      "Hiçbir delil toplamadan dosyayı kapatmak.",
+      "Memurun ifadesini alıp iddianame düzenlemek.",
+      "Önce disiplin cezası vermek.",
+      "Doğrudan mahkemeden mahkûmiyet kararı istemek.",
+      "Kaybolma ihtimali bulunan delili tespit edip, ilgili memurun ifadesine başvurmadan evrak örneğini yetkili makama göndererek izin istemek."
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 1,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-88",
+    "topic_id": "law-1739",
+    "prompt": "Yükseköğretime giriş şartlarını kim tespit eder?",
+    "options": [
+      "Yalnız Cumhurbaşkanlığı",
+      "Sadece ÖSYM tek başına",
+      "Yükseköğretim Kurulu (Milli Eğitim Bakanlığı ile işbirliği yaparak)",
+      "Sadece üniversite rektörleri",
+      "Yalnızca Milli Eğitim Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 7,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-89",
+    "topic_id": "law-1739",
+    "prompt": "İktisadi gücün artırılması için hangi konularda alışkanlık kazandırılır?",
+    "options": [
+      "Sadece yatırım stratejileri",
+      "Yalnız vergi mevzuatı",
+      "Sadece dış ticaret bilgisi",
+      "Gerekli beslenme ve sağlıklı yaşama şekil ve usulleri",
+      "Yalnızca tasarruf teknikleri"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 8,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "manual-pool-90",
+    "topic_id": "law-222",
+    "prompt": "Aşağıdakilerden hangisi Ek Madde 2 hükmüne uygundur?",
+    "options": [
+      "Yalnız kayıt-kabul bölümünün",
+      "Yalnız devam bölümünün",
+      "Sadece teşkilat bölümünün",
+      "Arsa-arazi, yapım-donatım ve gelir-gider-planlama bölümlerinin",
+      "Sadece genel esasların"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 6,
+    "created_at": "2026-09-04T19:29:52.611042+00:00",
+    "updated_at": "2026-09-04T19:29:52.611042+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-0-wm9i",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun amacına ilişkin aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "Kamu görevlilerinin ortak ekonomik, sosyal ve meslekî hak ve menfaatlerinin korunması ve geliştirilmesini sağlamak",
+      "Sendika ve konfederasyonların kuruluşunu, organlarını, yetkilerini ve faaliyetlerini düzenlemek",
+      "Sendika ve konfederasyonlarda görev alacak kamu görevlilerinin hak ve sorumluluklarını belirlemek",
+      "Toplu sözleşme yapılmasına ilişkin usul ve esasları düzenlemek",
+      "Kamu görevlilerinin bireysel iş uyuşmazlıklarının yargı yoluyla çözüm usullerini belirlemek"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 1'e göre Kanun'un amacı; kamu görevlilerinin ortak ekonomik, sosyal ve meslekî hak ve menfaatlerinin korunması ve geliştirilmesi için oluşturdukları sendika ve konfederasyonların kuruluşu, organları, yetkileri ve faaliyetleri ile bunlarda görev alacak kamu görevlilerinin hak ve sorumluluklarını belirlemek ve toplu sözleşme yapılmasına ilişkin usul ve esasları düzenlemektir. Bireysel iş uyuşmazlıklarının çözüm usulleri bu Kanun'un amacı kapsamında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-1-fdp7",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un amaç maddesine göre, korunması ve geliştirilmesi amaçlanan haklar kamu görevlilerinin hangi nitelikteki hak ve menfaatleridir?",
+    "options": [
+      "Yalnızca bireysel özlük hakları",
+      "Ortak ekonomik, sosyal ve meslekî hak ve menfaatler",
+      "Yalnızca ekonomik hak ve menfaatler",
+      "Sadece emeklilik hakları",
+      "Yalnızca sosyal güvenlik hakları"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 1'e göre Kanun'un amacı, kamu görevlilerinin ortak ekonomik, sosyal ve meslekî hak ve menfaatlerinin korunması ve geliştirilmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-10-4fcw",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un tanımlar maddesine göre aşağıdakilerden hangisi \"Kamu İşvereni\" tanımına girer?",
+    "options": [
+      "Taşeron firmalar (kamu adına hizmet alımı yapılan özel firmalar)",
+      "Kamu görevlilerinin çalıştığı, tüzel kişiliği olan ya da olmayan kamu kurum ve kuruluşları",
+      "Dernekler (kamu görevlilerince kurulan meslek ve yardımlaşma dernekleri)",
+      "Özel şirketler (kamu iktisadi teşebbüsü niteliği taşımayan sermaye şirketleri)",
+      "Siyasi partiler (kamu görevlilerinin serbestçe üye olabildiği siyasi teşekküller)"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3/b'ye göre kamu işvereni, kamu görevlilerinin çalıştığı tüzel kişiliği olan ya da olmayan kamu kurum ve kuruluşlarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-11-ybp1",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'a göre, değişik hizmet kollarında bu Kanun'a tabi olarak kurulmuş en az beş sendikanın bir araya gelerek oluşturdukları tüzel kişiliği olan üst kuruluşa ne ad verilir?",
+    "options": [
+      "İşyeri",
+      "Federasyon",
+      "Sendika",
+      "Sendika Şubesi",
+      "Konfederasyon"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 3/g'ye göre konfederasyon, değişik hizmet kollarında bu Kanun'a tabi olarak kurulmuş en az beş sendikanın bir araya gelerek oluşturdukları tüzel kişiliği olan üst kuruluştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-12-57ws",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmeleri sonucunda toplu sözleşme imzalanamaması hâlinde, tarafların uzlaştığı ve uzlaşamadığı konuların yer aldığı belgeye ne ad verilir?",
+    "options": [
+      "Uzlaşma Raporu",
+      "Mutabakat Metni",
+      "Hakem Kararı",
+      "Toplantı Tutanağı",
+      "Toplu Sözleşme"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 3/ı'ya göre toplantı tutanağı, toplu sözleşme görüşmeleri sonucunda toplu sözleşme imzalanamaması hâlinde, tarafların uzlaştığı ve uzlaşamadığı konuların yer aldığı tutanaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-13-1qoy",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "I. İşyeri Sendika Temsilcisi, bir işyerinde en çok üye kaydetmiş sendikaca o işyerinden seçilen kamu görevlisidir.\nII. Konfederasyon, değişik hizmet kollarında bu Kanun'a tabi olarak kurulmuş en az yedi sendikanın bir araya gelerek oluşturdukları tüzel kişiliği olan üst kuruluştur.\nIII. Diyanet ve vakıf hizmetleri, sendikaların kurabilecekleri hizmet kollarından biridir.\nIV. Meslek veya işyeri esasına göre de sendika kurulabilir.\n4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre yukarıdaki ifadelerden hangisi veya hangileri yanlıştır?",
+    "options": [
+      "Yalnız II",
+      "II ve IV",
+      "II ve III",
+      "I ve II",
+      "III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Konfederasyon en az beş (yedi değil) sendikadan oluşur (II yanlış); sendika meslek veya işyeri esasına göre değil hizmet kolu esasına göre kurulur (IV yanlış). I ve III doğrudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-14-3f2h",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un kapsam maddesine göre, aşağıdakilerden hangisinde çalışan işçi statüsü dışındaki kamu görevlileri Kanun kapsamındadır?",
+    "options": [
+      "Yalnız özel sektör şirketlerinde",
+      "İl özel idareleri ve belediyelere bağlı kuruluşlarda",
+      "Yalnız dernek ve vakıflarda",
+      "Sadece siyasi partilerde",
+      "Yalnız yabancı şirketlerde"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 2'ye göre Kanun, il özel idareleri ve belediyeler ile bunlara bağlı kuruluşlarda işçi statüsü dışında çalışan kamu görevlileri hakkında uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-15-ginl",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un 2 nci maddesine göre, aşağıdakilerden hangisi Kanun'un kapsamına alınan kuruluş gruplarından biridir?",
+    "options": [
+      "Özel kanunlarla kurulan banka ve teşekküller ile bunlara bağlı kuruluşlar",
+      "Her türlü özel banka ve finans kuruluşu",
+      "Yalnız sermayesinin tamamı özel kişilere ait şirketler",
+      "Siyasi parti teşkilatları",
+      "Meslek kuruluşlarının tamamı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 2'de özel kanunlarla kurulan banka ve teşekküller ile bunlara bağlı kuruluşlar kapsamda sayılmıştır; kapsam bakımından ayrıca işçi statüsü dışında çalışma şartı aranır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-16-hkxa",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un tanımlar maddesine göre, kamu hizmetinin yürütüldüğü yerlere ne ad verilir?",
+    "options": [
+      "Kurum",
+      "İşyeri",
+      "Konfederasyon",
+      "Şube",
+      "Kamu işvereni"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3/d'ye göre işyeri, kamu hizmetinin yürütüldüğü yerleri ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-2-1lfg",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un 1 inci maddesine göre, sendika ve konfederasyonlarda görev alacak kamu görevlileri bakımından Kanunda ne belirlenmektedir?",
+    "options": [
+      "Sadece disiplin cezaları",
+      "Emeklilik yaşları",
+      "Hak ve sorumlulukları",
+      "Yalnızca mali hakları",
+      "Sicil notları"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 1'e göre Kanun, sendika ve konfederasyonlarda görev alacak kamu görevlilerinin hak ve sorumluluklarını belirlemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-3-zt8w",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "I. Kamu kurum veya kuruluşlarında işçi statüsünde çalışanlar\nII. Devletin veya diğer kamu tüzel kişilerinin yürütmekle görevli oldukları kamu hizmetlerinin görüldüğü genel, katma ve özel bütçeli idarelerde çalışan memurlar\nIII. İl özel idareleri ve belediyeler ile bunlara bağlı kuruluşlarda kamu iktisadî teşebbüslerinde çalışan memurlar\nIV. Özel kanunlarla kurulan banka ve teşekküller ile bunlara bağlı kuruluşlarda ve diğer kamu kurum veya kuruluşlarında işçi statüsü dışında çalışan kamu görevlileri\n4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre, yukarıda verilenlerden hangisi veya hangileri bu Kanun kapsamında değildir?",
+    "options": [
+      "Yalnız I",
+      "III ve IV",
+      "I ve III",
+      "Yalnız II",
+      "I ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 2'ye göre Kanun, kamu hizmetlerinin görüldüğü ilgili idare ve kuruluşlarda işçi statüsü dışında çalışan kamu görevlileri hakkında uygulanır. Bu nedenle işçi statüsünde çalışanlar (I) kapsam dışında kalırken, memurlar (II, III) ve işçi statüsü dışında çalışanlar (IV) kapsam içindedir. (Not: Madde 2'deki \"...veya Cumhurbaşkanlığı kararnameleriyle ya da bunların verdiği yetkiye dayanarak...\" ibaresi AYM'nin 7/12/2023 tarihli ve E: 2018/117 sayılı kararıyla iptal edilmiştir; madde metninde artık yalnızca \"özel kanunlarla kurulan\" ifadesi yer alır.)",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-4-ubn7",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un 2 nci maddesinde sayılan idare ve kuruluşlarda çalışanlar bakımından, Kanun kapsamına girmenin statü yönünden şartı aşağıdakilerden hangisidir?",
+    "options": [
+      "Sendika üyesi olmak",
+      "Dört yıllık yükseköğrenim mezunu olmak",
+      "İşçi statüsü dışında çalışıyor olmak",
+      "Kamu kurumunda çalışıyor olmak",
+      "Merkezi denetim elemanı olmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 2'ye göre Kanun, maddede sayılan idare ve kuruluşlarda işçi statüsü dışında çalışan kamu görevlileri hakkında uygulanır. Bu nedenle statü yönünden belirleyici şart, işçi statüsü dışında çalışmaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-5-m5nm",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "Aşağıdakilerden hangisi 4688 sayılı Kanun kapsamına giren idare veya kuruluşlardan biri değildir?",
+    "options": [
+      "Genel bütçeli idareler",
+      "İl özel idareleri",
+      "Kamu iktisadî teşebbüsleri",
+      "Özel sektöre ait anonim şirketler",
+      "Belediyeler"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 2'de sayılan kapsam; genel, katma ve özel bütçeli idareler, il özel idareleri, belediyeler, bunlara bağlı kuruluşlar, kamu iktisadî teşebbüsleri ile özel kanunla kurulan banka ve teşekküllerdir. Özel sektöre ait anonim şirketler bu kapsamın dışındadır. (Madde 2'deki \"Cumhurbaşkanlığı kararnameleriyle ya da bunların verdiği yetkiye dayanarak\" ibaresi AYM'nin 7/12/2023 tarihli E: 2018/117 sayılı kararıyla iptal edilmiştir.)",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-6-7n9d",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'a göre, özel kanunlarla kurulan banka ve teşekküllerde çalışanlar, hangi şart altında bu Kanun kapsamına girer?",
+    "options": [
+      "Yönetici kadrosunda bulunmaları şartıyla",
+      "En az beş yıl kıdemli olmaları şartıyla",
+      "Sendika üyesi olmaları şartıyla",
+      "Herhangi bir şart aranmaksızın",
+      "İşçi statüsü dışında çalışmaları şartıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 2'ye göre bu kuruluşlarda çalışanlar da ancak işçi statüsü dışında çalışmaları hâlinde Kanun kapsamına girer. (Maddede yer alan \"Cumhurbaşkanlığı kararnameleriyle ya da bunların verdiği yetkiye dayanarak kurulan\" ibaresi AYM'nin 7/12/2023 tarihli E: 2018/117 sayılı kararıyla iptal edilmiştir.)",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-7-5o29",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'a göre, bir işyerinde en çok üye kaydetmiş sendikaca o işyerinden seçilen kamu görevlisine ne ad verilir?",
+    "options": [
+      "İşyeri Sendika Temsilcisi",
+      "Sendika İl Temsilcisi",
+      "İşyeri Delegesi",
+      "Sendika Baştemsilcisi",
+      "Sendika İşyeri Temsilcisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 3/j'ye göre işyeri sendika temsilcisi, bir işyerinde en çok üye kaydetmiş sendikaca o işyerinden seçilen kamu görevlisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-8-z0oc",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'a göre, bir işyerinde en çok üye kaydetmiş sendika dışındaki her bir sendika tarafından o işyerinden seçilen kamu görevlisine ne ad verilir?",
+    "options": [
+      "Sendika Yöneticisi",
+      "İşyeri Sendika Temsilcisi",
+      "Sendika İşyeri Temsilcisi",
+      "Sendika Üyesi",
+      "Sendika Şube Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 3/k'ya göre sendika işyeri temsilcisi, bir işyerinde en çok üye kaydetmiş sendika dışındaki her bir sendika tarafından o işyerinden seçilen kamu görevlisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rh4nv-mtn02312-9-923l",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rh4nv",
+    "prompt": "4688 sayılı Kanun'un tanımlar maddesine göre aşağıdakilerden hangisi \"Kamu İşveren Vekili\" sayılır?",
+    "options": [
+      "Memur",
+      "Sendika temsilcisi",
+      "Birim şefi",
+      "Kamu kurum ve kuruluşlarını temsile ve bütününü sevk ve idareye yetkili olanlar ile bunların yardımcıları",
+      "İşçi statüsündeki personel"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 3/c'ye göre kamu işveren vekili, kamu kurum ve kuruluşlarını temsile ve bütününü sevk ve idareye yetkili olanlar ile bunların yardımcılarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:38.058854+00:00",
+    "updated_at": "2026-09-04T13:38:38.058854+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-0-1q8x",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Bilgi edinme hakkını kullanarak kurum ve kuruluşlara başvuran gerçek veya tüzel kişi, Kanunda hangi kavramla ifade edilir?",
+    "options": [
+      "Başvuru sahibi",
+      "Bilgi sorumlusu",
+      "İtiraz mercii",
+      "Kurum temsilcisi",
+      "Erişim görevlisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 3/b. A seçeneğindeki “Başvuru sahibi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-1-f3pf",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan Kanun kapsamındaki her türlü veri, Kanundaki hangi tanıma karşılık gelir?",
+    "options": [
+      "Belge",
+      "Bilgi",
+      "Başvuru",
+      "Tavsiye",
+      "İtiraz"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 3/c. B seçeneğindeki “Bilgi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-10-d45s",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunun kapsamına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kamu kurum ve kuruluşlarının faaliyetleri kapsam içindedir.",
+      "Kanun yalnız kamu kurumu niteliğindeki meslek kuruluşlarının iç işleyişinde uygulanır.",
+      "Kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetleri kapsam içindedir.",
+      "Kapsam hükmü faaliyetleri esas alır.",
+      "3071 sayılı Kanun hükümleri saklı tutulmuştur."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 2. “Kanun yalnız kamu kurumu niteliğindeki meslek kuruluşlarının iç işleyişinde uygulanır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-11-vzeu",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdaki kuruluşlardan hangisi, niteliği itibarıyla Kanunun kapsamına giren kuruluş grubundadır?",
+    "options": [
+      "Tamamen özel bir şirket",
+      "Yurt dışındaki özel dernek",
+      "Siyasi partinin ilçe örgütü",
+      "Kamu kurumu niteliğindeki meslek kuruluşu",
+      "Yalnız aile bireylerinden oluşan vakıf"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 2. D seçeneğindeki “Kamu kurumu niteliğindeki meslek kuruluşu” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-12-rgre",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "4982 sayılı Kanun bakımından 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun hükümlerinin durumu nedir?",
+    "options": [
+      "Kanundan sonra uygulanamaz.",
+      "Tamamen yürürlükten kaldırılmıştır.",
+      "Yalnız yabancılar için uygulanır.",
+      "Sadece idarî yargıda uygulanır.",
+      "Saklıdır."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 2. E seçeneğindeki “Saklıdır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-13-ojr7",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Bir kamu kurumu niteliğindeki meslek kuruluşu, faaliyetlerine ilişkin bilgi edinme başvurusunu “Kanun bize uygulanmaz” gerekçesiyle reddetmektedir. Bu gerekçe için hangi değerlendirme yapılır?",
+    "options": [
+      "Kanunun kapsam hükmüyle bağdaşmaz.",
+      "Yalnız Kurul onay verirse doğrudur.",
+      "Sadece yabancı başvurucular bakımından doğrudur.",
+      "Doğrudur; meslek kuruluşları kapsam dışındadır.",
+      "Bilgi talebi ücretliyse doğrudur."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 2. A seçeneğindeki “Kanunun kapsam hükmüyle bağdaşmaz” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-14-n9ch",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunda geçen “kurum ve kuruluş” kavramı neyi ifade eder?",
+    "options": [
+      "Sadece bakanlık merkez teşkilatını",
+      "Yalnız belediye meclislerini",
+      "Kapsama dahil olup bilgi edinme başvurusu yapılacak bütün makam ve mercileri",
+      "Bilgi talebinde bulunan gerçek kişileri",
+      "Sadece yargı mercilerini"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 3/a. C seçeneğindeki “Kapsama dahil olup bilgi edinme başvurusu yapılacak bütün makam ve mercileri” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-15-e3ew",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanundaki belge tanımı bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Belge sadece yazılı evraktan oluşur.",
+      "Elektronik kayıtlar belge sayılmaz.",
+      "Harita ve kroki belge kapsamı dışındadır.",
+      "Film ve fotoğraf da belge kapsamına girebilir.",
+      "Belge yalnız onaylı kopyayı ifade eder."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 3/d. D seçeneğindeki “Film ve fotoğraf da belge kapsamına girebilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-16-te5t",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "İstenen belgenin bir kopyasının başvuru sahibine verilmesi, Kanundaki hangi kavramın görünümüdür?",
+    "options": [
+      "Bilgi veya belgeye erişim",
+      "Başvuru usulü",
+      "İtiraz usulü",
+      "Kurul sekretaryası",
+      "Ticarî kullanım"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 3/e. A seçeneğindeki “Bilgi veya belgeye erişim” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-17-7dzu",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kopyası verilemeyen bir belgeyi başvuru sahibinin aslı üzerinden inceleyip not almasına izin verilmesi, hangi kavramın kapsamındadır?",
+    "options": [
+      "Bilginin yeniden üretilmesi",
+      "Başvurunun reddi",
+      "Kurum içi düzenleme",
+      "İtirazın kabulü",
+      "Bilgi veya belgeye erişim"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 3/e. E seçeneğindeki “Bilgi veya belgeye erişim” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-18-omcw",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanundaki erişim tanımına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Erişim, belgenin niteliğine göre belirlenir.",
+      "Kopya verilemediğinde başvuru sahibine hiçbir erişim imkânı tanınmaz.",
+      "Aslı inceleme ve not alma erişim yolu olabilir.",
+      "İçeriği görmeye veya işitmeye izin verilebilir.",
+      "Kopya verme erişim yollarından biridir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 3/e. “Kopya verilemediğinde başvuru sahibine hiçbir erişim imkânı tanınmaz.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-19-b13o",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunda “Kurul” sözcüğü hangi kurumu ifade eder?",
+    "options": [
+      "Kamu Görevlileri Etik Kurulunu",
+      "Kişisel Verileri Koruma Kurulunu",
+      "Bilgi Edinme Değerlendirme Kurulunu",
+      "Devlet Denetleme Kurulunu",
+      "Yüksek Disiplin Kurulunu"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 3/f. C seçeneğindeki “Bilgi Edinme Değerlendirme Kurulunu” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-2-ls5u",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Elektronik ortamda kaydedilen her türlü bilgi, haber ve veri taşıyıcısı Kanun bakımından hangi kavramın kapsamındadır?",
+    "options": [
+      "Yalnız istatistik",
+      "Kurum içi görüş",
+      "Belge",
+      "İdarî işlem",
+      "Başvuru formu"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 3/d. C seçeneğindeki “Belge” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-20-43u3",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanundaki tanımlara göre;\nI. Başvuru sahibi gerçek veya tüzel kişi olabilir.\nII. Bilgi, kurum kayıtlarında yer alan Kanun kapsamındaki veridir.\nIII. Belge, yalnız basılı evraktan ibarettir.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "II ve III",
+      "I, II ve III",
+      "I ve II"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 3/b-c-d. E seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-21-nzzl",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdaki eşleştirmelerden hangisi Kanundaki tanımlara uygundur?",
+    "options": [
+      "Başvuru sahibi - Kuruma cevap veren memur",
+      "Bilgi - Henüz oluşturulmamış analiz",
+      "Kurul - Her kurumun disiplin kurulu",
+      "Teyp kaseti - Belge",
+      "Erişim - Sadece ücret alınması"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 3. D seçeneğindeki “Teyp kaseti - Belge” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-22-o1sw",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdakilerden hangisi Kanunun “bilgi” tanımına girmez?",
+    "options": [
+      "Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan Kanun kapsamındaki istatistikî veri",
+      "Kurum ve kuruluşların sahip oldukları kayıtlarda yer almayan veri",
+      "Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan Kanun kapsamındaki yazılı veri",
+      "Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan Kanun kapsamındaki malî veri",
+      "Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan Kanun kapsamındaki elektronik veri"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 3/c. Kanunda “bilgi”, kurum ve kuruluşların sahip oldukları kayıtlarda yer alan bu Kanun kapsamındaki her türlü veri olarak tanımlanmıştır. Bu nedenle B seçeneği doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-23-a528",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdakilerden hangisi Kanunun belge örneklerinden biri değildir?",
+    "options": [
+      "Başvuru sahibinin geleceğe ilişkin tahmini",
+      "Kroki",
+      "Program",
+      "Mektup",
+      "Video kaseti"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 3/d. “Başvuru sahibinin geleceğe ilişkin tahmini” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-24-b38p",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Belgenin kopyası verilemediğinde, başvuru sahibinin içeriği hangi duyusuyla algılamasına izin verilebileceği Kanunda ayrıca belirtilmiştir?",
+    "options": [
+      "Tatmasına veya koklamasına",
+      "Yalnız yazmasına",
+      "Görmesine veya işitmesine",
+      "Yalnız ölçmesine",
+      "Yalnız imzalamasına"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 3/e. C seçeneğindeki “Görmesine veya işitmesine” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-25-lu5w",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Bir kurum, elindeki video kaydını başvuru sahibine izletmektedir. Bu işlem Kanundaki hangi tanımın gereğidir?",
+    "options": [
+      "İdarî soruşturma",
+      "Kurum içi görüş",
+      "Ticarî sır",
+      "Tavsiye talebi",
+      "Bilgi veya belgeye erişim"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 3/e. E seçeneğindeki “Bilgi veya belgeye erişim” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-26-s5s6",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunda “Kurul”, ______ ifade eder.",
+    "options": [
+      "Kurumların disiplin kurullarını",
+      "İdarî yargı mercilerini",
+      "Meslek kuruluşları birliklerini",
+      "Bilgi Edinme Değerlendirme Kurulunu",
+      "Başvuru sahipleri topluluğunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 3/f. D seçeneğindeki “Bilgi Edinme Değerlendirme Kurulunu” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-27-x4jr",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdakilerden hangisi kurumların ellerindeki bilgi taşıyıcılarının belge sayılabileceğine ilişkin örneklerdendir?",
+    "options": [
+      "Başvuru sahibinin talep gerekçesi",
+      "Kurum personelinin hatırladığı söylenti",
+      "Elektronik ortamda kaydedilen veri taşıyıcısı",
+      "Henüz yazılmamış taslak düşünce",
+      "Kurum dışındaki tahmin"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 3/d. C seçeneğindeki “Elektronik ortamda kaydedilen veri taşıyıcısı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-28-bfoz",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Bilgi ile belge arasındaki ayrım bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Bilgi, kayıtlardaki veriyi; belge ise Kanunda sayılan bilgi ve veri taşıyıcılarını da kapsar.",
+      "Bilgi yalnız sözlüdür; belge yalnız görseldir.",
+      "Belge, bilgiden dar olup sadece kitapları kapsar.",
+      "Bilgi ve belge yalnız mahkeme kararlarını ifade eder.",
+      "Aralarında Kanun bakımından hiçbir ayrım yoktur."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 3/c-d. Bilgi, kurum ve kuruluşların kayıtlarında yer alan Kanun kapsamındaki veriyi; belge ise Kanunda sayılan yazılı, basılı, görsel, işitsel ve elektronik bilgi ve veri taşıyıcılarını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-29-cjgg",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kapsam hükmü bakımından;\nI. Kamu kurum ve kuruluşlarının faaliyetleri Kanun kapsamındadır.\nII. Kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetleri kapsam içindedir.\nIII. 3071 sayılı Kanun hükümleri tümüyle yürürlükten kaldırılmıştır.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 2. B seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-3-uqce",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Aşağıdakilerden hangisi Kanundaki “belge” tanımında sayılan örneklerden biridir?",
+    "options": [
+      "Henüz oluşmamış rapor",
+      "Sözlü talimat",
+      "Başvuru sahibinin varsayımı",
+      "Harita",
+      "Kişisel kanaat"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 3/d. D seçeneğindeki “Harita” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-30-rqhg",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kamuya açık bir kurum arşivindeki harita hakkında kopya talep eden kişi için haritanın belge sayılıp sayılmayacağını belirleyen esas nedir?",
+    "options": [
+      "Haritanın Kanun kapsamındaki bilgi taşıyıcısı olması",
+      "Yalnız kâğıt üzerinde bulunması",
+      "Başvuru sahibinin memur olması",
+      "Haritanın ücretli olması",
+      "Kurulun önceden izin vermesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 3/d. A seçeneğindeki “Haritanın Kanun kapsamındaki bilgi taşıyıcısı olması” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-4-dxo6",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunun bilgi edinme hakkına ilişkin esas ve usulleri düzenlerken dayandığı yönetim anlayışı hangisidir?",
+    "options": [
+      "Merkezî ve gizli yönetim",
+      "Yalnız malî disiplin yönetimi",
+      "Hiyerarşik denetim yönetimi",
+      "Özerk yargı yönetimi",
+      "Demokratik ve şeffaf yönetim"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 1. E seçeneğindeki “Demokratik ve şeffaf yönetim” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-5-0wwj",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunun amacında açıkça yer verilen ilkelerden biri hangisidir?",
+    "options": [
+      "Yerindelik",
+      "Gizlilik",
+      "Tarafsızlık",
+      "Hiyerarşi",
+      "Takdir yetkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 1. C seçeneğindeki “Tarafsızlık” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-6-tveg",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunun amacında sayılan ilkeler bakımından aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Eşitlik ilkesi amaçta yer alır.",
+      "Gizlilik ilkesi amaçta açıkça sayılmıştır.",
+      "Açıklık ilkesi amaçta yer alır.",
+      "İlkeler demokratik ve şeffaf yönetim anlayışıyla ilişkilidir.",
+      "Tarafsızlık ilkesi amaçta yer alır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 1. “Gizlilik ilkesi amaçta açıkça sayılmıştır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-7-3rs7",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Kanunun amacı, kişilerin bilgi edinme hakkını kullanmalarına ilişkin ______ düzenlemektir.",
+    "options": [
+      "Yalnız yaptırımları",
+      "İhale süreçlerini",
+      "Yargılama mercilerini",
+      "Disiplin cezalarını",
+      "Esas ve usulleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 1. E seçeneğindeki “Esas ve usulleri” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-8-ha6m",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "Bir kurum, bilgi edinme taleplerini kişilerin statüsüne göre farklılaştırmadan sonuçlandırmak istemektedir. Bu yaklaşım Kanunun amacında yer alan hangi ilkeyle en doğrudan ilişkilidir?",
+    "options": [
+      "Gizlilik",
+      "Hiyerarşi",
+      "Özerklik",
+      "Eşitlik",
+      "Tasarruf"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 1. D seçeneğindeki “Eşitlik” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-rp2f7-mtn4mhct-9-8wmt",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-rp2f7",
+    "prompt": "4982 sayılı Kanun, hangi kurumların faaliyetlerinde uygulanır?",
+    "options": [
+      "Kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının",
+      "Yalnız merkezi idare teşkilatının",
+      "Yalnız belediyelerin",
+      "Tüm özel hukuk tüzel kişilerinin",
+      "Sadece yargı mercilerinin"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 2. A seçeneğindeki “Kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:28.365361+00:00",
+    "updated_at": "2026-09-04T15:46:28.365361+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-0-yv8y",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre \"Yabancı okullar\" nasıl tanımlanmıştır?",
+    "options": [
+      "Yabancılar tarafından açılmış özel okullar",
+      "Yalnız yabancı uyruklu öğrencilerin devam edebileceği özel öğretim kurumları",
+      "Rum, Ermeni ve Musevî azınlıklar tarafından kurulmuş özel okullar",
+      "Bakanlıkça açılan milletlerarası okullar",
+      "Türkiye Cumhuriyeti uyruklu gerçek kişilerce açılan özel okullar"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 2 nci maddesine göre yabancı okullar, yabancılar tarafından açılmış özel okullardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-1-mdvs",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Sosyal etkinlik merkezleri, İl Millî Eğitim Müdürlükleri ile.......... arasında yapılan protokol ile açılır.",
+    "options": [
+      "Kaymakamlıklar",
+      "Belediyeler",
+      "Vakıflar",
+      "Dernekler",
+      "Üniversiteler"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Belediyeler\". İlgili hüküm: \"İl millî eğitim müdürlükleri ile belediyeler arasında yapılan ve Bakanlıkça onaylanan ortak işbirliği protokolleri çerçevesinde, Bakanlığın verdiği işyeri açma ve çalışma ruhsatı ile belediyelerce açılan ve işletilen, ilköğretim ve/veya ortaöğretim öğrencilerinin ödev ve projelerine ilişkin araştırmalar yaptığı, öğrencilerin ilgi, istek ve yetenekleri doğrultusunda sosyal, kültürel, sanatsal ve sportif faaliyetlerin yürütüldüğü özel öğretim kurumlarını, r) Mesleki eğitim merkezi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-10-6e41",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’un kişi ve kurum yönünden kapsamına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Yalnız yabancı uyruklu gerçek kişilerce açılan kurumlar kapsam içindedir.",
+      "Yalnız kamu tüzel kişileri tarafından açılan kurumlar kapsam içindedir.",
+      "Türkiye Cumhuriyeti uyruklularınca açılan kurumlar ile yabancılar tarafından açılmış kurumlar kapsam içindedir.",
+      "Yalnız belediyelerin açtığı sosyal tesisler kapsam içindedir.",
+      "Yalnız üniversitelere bağlı eğitim birimleri kapsam içindedir."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Türkiye Cumhuriyeti uyruklularınca açılan kurumlar ile yabancılar tarafından açılmış kurumlar kapsam içindedir.\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-11-3ebr",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’nun amacı kapsamında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kurumun nakli ve devri",
+      "Yükseköğretim kurumlarının akreditasyonu",
+      "Kurumlara yapılacak malî destek",
+      "Kurum açma izni verilmesi",
+      "Kurumlarda personel çalıştırılması"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Yükseköğretim kurumlarının akreditasyonu\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-12-g527",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre, yabancılar tarafından açılmış bulunan özel öğretim kurumları bakımından Kanun hangi hususları düzenler?",
+    "options": [
+      "Yalnızca bina inşaat izinlerini",
+      "Yalnızca reklam ve ilan yasaklarını",
+      "Yalnızca öğrenci disiplin işlemlerini",
+      "Eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usul ve esasları",
+      "Yalnızca vergi muafiyetlerini"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usul ve esasları\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-13-qj3m",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’un kapsamına aşağıdakilerden hangisi girmez?",
+    "options": [
+      "Kamu hukuku tüzel kişilerince açılan resmî okullar",
+      "Türkiye Cumhuriyeti uyruklu gerçek kişilerce açılan özel öğretim kurumları",
+      "Özel hukuk tüzel kişilerince açılan özel öğretim kurumları",
+      "Özel hukuk hükümlerine göre yönetilen tüzel kişilerce açılan özel öğretim kurumları",
+      "Yabancılar tarafından açılmış bulunan özel öğretim kurumları"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Kamu hukuku tüzel kişilerince açılan resmî okullar\". İlgili hüküm: \"Bu Kanun, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişilerce açılan özel öğretim kurumları ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarını kapsar.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-14-scca",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’un 1 inci maddesine göre aşağıdakilerden hangisi Kanun’un düzenlediği hususlardan biridir?",
+    "options": [
+      "Millî Eğitim Bakanlığının bütçe hazırlama usulü",
+      "Siyasi partilerin kapatılması",
+      "Yükseköğretim kurumlarının kuruluşu",
+      "Belediye meclislerinin çalışma esasları",
+      "Kurumların eğitim-öğretim, yönetim, denetim ve gözetimi"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Kurumların eğitim-öğretim, yönetim, denetim ve gözetimi\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-15-wisj",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre kurum açma izni verilmesi kimler tarafından açılacak kurumlar için düzenlenmiştir?",
+    "options": [
+      "Yalnızca belediyeler için",
+      "Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler için",
+      "Yalnızca yabancı uyruklu gerçek kişiler için",
+      "Yalnızca kamu tüzel kişileri için",
+      "Yalnızca azınlık vakıfları için"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler için\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-16-libe",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre, aşağıdakilerden hangisi \"Kurum\" tanımı içerisinde yer almaz?",
+    "options": [
+      "Özel eğitim ve rehabilitasyon merkezleri",
+      "Okul öncesi eğitim kurumları",
+      "Yükseköğretim kurumları",
+      "Motorlu taşıt sürücüleri kursları",
+      "Özel öğretim kursları"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Yükseköğretim kurumları\". İlgili hüküm: \"İKİNCİ BÖLÜM Kurum Açma, Kurucu, Kurum Binaları, Milletlerarası Özel Öğretim Kurumları, Yabancı Okullar ve Azınlık Okulları Kurum açma izni\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-17-ojow",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre \"Çeşitli Kurslar\" tanımı aşağıdakilerden hangisini kapsar?",
+    "options": [
+      "Kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda becerilerini geliştiren kurumları",
+      "İlköğretime hazırlık kurslarını",
+      "Yükseköğretime hazırlık kurslarını",
+      "Yalnızca yabancı dil kurslarını",
+      "Sadece akademik ders veren kursları"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda becerilerini geliştiren kurumları\". İlgili hüküm: \"kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda bilgi, beceri, dil, yetenek ve deneyimlerini geliştirmek, isteklerine göre serbest zamanlarını değerlendirmek amacıyla faaliyet gösteren özel öğretim kurumlarını, h) Özel eğitim okulu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-18-295i",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "\"Özel Eğitim Okulu\" tanımında aşağıdakilerden hangisi vurgulanmıştır?",
+    "options": [
+      "Üstün zekalı öğrencilere eğitim vermesi",
+      "Yatılı olması zorunluluğu",
+      "Özel olarak yetiştirilmiş personelin bulunduğu ve geliştirilmiş programların uygulandığı kurum olması",
+      "Sadece fiziksel engellilere yönelik olması",
+      "Sadece devlet tarafından açılabilmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Özel olarak yetiştirilmiş personelin bulunduğu ve geliştirilmiş programların uygulandığı kurum olması\". İlgili hüküm: \"Özel eğitim gerektiren bireylere hizmet veren, özel olarak yetiştirilmiş personelin bulunduğu, geliştirilmiş eğitim programlarının uygulandığı özel öğretim kurumunu, i) Motorlu taşıt sürücüleri kursu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-19-rnv4",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel eğitim ve rehabilitasyon merkezlerinin temel amacı nedir?",
+    "options": [
+      "Yükseköğretime hazırlamak",
+      "Meslek edindirmek",
+      "Diploma kazandırmak",
+      "Özel eğitim gerektiren bireylerin becerilerini geliştirmek ve topluma uyumlarını sağlamak",
+      "Sadece bakım hizmeti vermek"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Özel eğitim gerektiren bireylerin becerilerini geliştirmek ve topluma uyumlarını sağlamak\". İlgili hüküm: \"Özel eğitim gerektiren bireylerin konuşma ve dil gelişim güçlüğü, ses bozuklukları, zihinsel, fiziksel, duyusal, sosyal, duygusal veya davranış problemlerini ortadan kaldırmak ya da etkilerini en az seviyeye indirmek, yeteneklerini yeniden en üst seviyeye çıkarmak, temel öz bakım becerilerini ve bağımsız yaşam becerilerini geliştirmek ve topluma uyumlarını sağlamak amacıyla faaliyet gösteren özel öğretim kurumlarını, l) Milletlerarası özel öğretim kurumları:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-2-n7sj",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Bu Kanunda geçen “Bakanlık” ibaresi hangi kurumu ifade eder?",
+    "options": [
+      "Çalışma ve Sosyal Güvenlik Bakanlığını",
+      "Gençlik ve Spor Bakanlığını",
+      "Yükseköğretim Kurulunu",
+      "Millî Eğitim Bakanlığını",
+      "Aile ve Sosyal Hizmetler Bakanlığını"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Millî Eğitim Bakanlığını\". İlgili hüküm: \"Bu Kanunda geçen; a) Bakanlık:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-20-xjwx",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre özel öğretim kursu kaç bilim grubunda eğitim veren kurumdur?",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "Sınırsız",
+      "3"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 nci maddesine göre özel öğretim kursu, bir bilim grubunda eğitim veren kurumdur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-21-qiq4",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "\"Uzaktan Öğretim Kurumu\" tanımı gereği bu kurumlar eğitimi nasıl yapar?",
+    "options": [
+      "Sadece sınav yaparak",
+      "Sadece hafta sonları yüz yüze",
+      "Bilgisayar ile",
+      "Mektup yoluyla",
+      "Her türlü iletişim araçları ile"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Her türlü iletişim araçları ile\". İlgili hüküm: \"Çeşitli nedenlerle öğrenimlerini sürdüremeyenlere her türlü iletişim araçları ile eğitim-öğretim yapan kurumları, ö) Özel öğretim kursu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-22-ip0j",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel öğretim kurumlarında \"Kurucu Temsilcisi\" kim adına hareket eder?",
+    "options": [
+      "Veliler adına",
+      "Öğretmenler adına",
+      "Okul Müdürü adına",
+      "Tüzel kişi kurucular adına",
+      "Millî Eğitim Müdürü adına"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Tüzel kişi kurucular adına\". İlgili hüküm: \"Kurumun sahibi olan ve adına kurum açma izin belgesi düzenlenen gerçek veya tüzel kişiyi, n) Kurucu temsilcisi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-23-5dq1",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Kanun’a göre bir bilim grubunda eğitim veren kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Mesleki eğitim merkezi",
+      "Özel öğretim kursu",
+      "Motorlu taşıt sürücüleri kursu",
+      "Özel eğitim ve rehabilitasyon merkezi",
+      "Özel okul"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 nci maddesine göre özel öğretim kursu, Bakanlıkça belirlenmiş bilim gruplarına uygun eğitim ortamlarında bir bilim grubunda eğitim veren kurumdur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-24-m1dc",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Kanunda yer alan tanımlara göre aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      "Uzaktan öğretim kurumu, iletişim araçlarıyla eğitim-öğretim yapar.",
+      "Mesleki eğitim merkezinde çıraklık, kalfalık ve ustalık eğitimi uygulanır.",
+      "Kurucu temsilcisi, kurumun adına izin belgesi düzenlenen kurum sahibidir.",
+      "Kurucu, kurumun sahibi olup adına kurum açma izin belgesi düzenlenen kişidir.",
+      "Yabancı okullar, yabancılar tarafından açılmış özel okullardır."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Kurucu temsilcisi, kurumun adına izin belgesi düzenlenen kurum sahibidir.\". İlgili hüküm: \"Kurumun sahibi olan ve adına kurum açma izin belgesi düzenlenen gerçek veya tüzel kişiyi, n) Kurucu temsilcisi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-25-qnxb",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Çeşitli nedenlerle öğrenimini sürdüremeyenlere her türlü iletişim aracıyla eğitim-öğretim yapan kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Kurum içi mesleki gelişim eğitimi sağlayan merkez",
+      "Sosyal ve mesleki beceri geliştiren kurs",
+      "Belediye protokolüyle öğrenci etkinlikleri yürüten merkez",
+      "Geliştirilmiş özel eğitim programı uygulayan okul",
+      "Uzaktan öğretim kurumu"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Uzaktan öğretim kurumu\". İlgili hüküm: \"Çeşitli nedenlerle öğrenimlerini sürdüremeyenlere her türlü iletişim araçları ile eğitim-öğretim yapan kurumları, ö) Özel öğretim kursu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-26-i5lc",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel öğretim kursu, Bakanlıkça belirlenmiş.......... uygun eğitim ortamlarında ve bir.......... eğitim veren kurumdur.",
+    "options": [
+      "sınav düzeylerine/derslikte",
+      "meslek alanlarına/kampüste",
+      "bilim gruplarına/bilim grubunda",
+      "öğrenci sayılarına/eğitim bölgesinde",
+      "öğretim kademelerine/okul türünde"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"bilim gruplarına/bilim grubunda\". İlgili hüküm: \"Kişilerin, Bakanlıkça belirlenmiş bilim gruplarına uygun eğitim ortamlarında, öğrenim seviyelerine, ilgi ve isteklerine uygun öğretim programları doğrultusunda, bilgi, beceri, yetenek ve deneyimlerini geliştirdiği, serbest zamanlarını değerlendirdiği bir bilim grubunda eğitim veren kurumları, p) Sosyal etkinlik merkezi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-27-9586",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Sosyal etkinlik merkezleri bakımından aşağıdakilerden hangisi Kanunda öngörülen bir koşul değildir?",
+    "options": [
+      "İl millî eğitim müdürlüğü ile belediye arasında ortak işbirliği protokolü bulunması",
+      "Faaliyetlere yalnız yükseköğretim öğrencilerinin katılması",
+      "Bu protokolün Bakanlıkça onaylanması",
+      "Ödev ve projelerle ilgili araştırmalar yapılması",
+      "İlköğretim ve ortaöğretim öğrencilerine yönelik faaliyet yürütülmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Faaliyetlere yalnız yükseköğretim öğrencilerinin katılması\". İlgili hüküm: \"Okul öncesi eğitim, ilköğretim, ortaöğretim, özel eğitim okulları ile çeşitli kursları, özel öğretim kurslarını, uzaktan öğretim yapan kuruluşları, motorlu taşıt sürücüleri kursları, hizmet içi eğitim merkezleri, özel eğitim ve rehabilitasyon merkezleri, sosyal etkinlik merkezleri, mesleki eğitim merkezleri ile benzeri özel öğretim kurumlarını, c) Okul:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-28-nuwr",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Kanundaki “okul” tanımı kapsamında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "Yalnız sürücü eğitimi ve trafik dersleri veren kurslar",
+      "Yalnız personelin hizmet içi eğitim aldığı merkezler",
+      "Yalnız öğrenci etkinlikleri düzenleyen sosyal merkezler",
+      "Özel eğitim, okul öncesi, ilkokul, ortaokul ve ortaöğretim özel okulları",
+      "Yalnız iletişim araçlarıyla öğretim yapan kuruluşlar"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Özel eğitim, okul öncesi, ilkokul, ortaokul ve ortaöğretim özel okulları\". İlgili hüküm: \"Özel eğitim, okul öncesi, ilkokul, ortaokul ve ortaöğretim ile Bakanlıkça dönüşüm programına alınan kurumlardan 2018-2019 eğitimöğretim yılının sonuna kadar faaliyetleri devam eden ortaöğretim özel okulları, d) Yabancı okullar:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-29-wkzl",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel eğitim okuluna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Özel eğitim gerektiren bireylere eğitim hizmeti sunar.",
+      "Kurum sahiplerine yönelik hizmet sunmak amacıyla faaliyet gösterir.",
+      "Geliştirilmiş eğitim programlarını uygulayarak çalışır.",
+      "Özel olarak yetiştirilmiş eğitim personeli bulundurur.",
+      "Kanunda özel öğretim kurumu sayılan bir okul türüdür."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Kurum sahiplerine yönelik hizmet sunmak amacıyla faaliyet gösterir.\". İlgili hüküm: \"kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda bilgi, beceri, dil, yetenek ve deneyimlerini geliştirmek, isteklerine göre serbest zamanlarını değerlendirmek amacıyla faaliyet gösteren özel öğretim kurumlarını, h) Özel eğitim okulu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-3-7yai",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Bir özel hukuk tüzel kişisi adına seçilerek kurumla ilgili işlemlerde görev yapan kişi Kanunda nasıl adlandırılır?",
+    "options": [
+      "Genel müdür",
+      "Kurucu",
+      "Kurucu temsilcisi",
+      "Denetçi",
+      "Uzman öğretici"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Kurucu temsilcisi\". İlgili hüküm: \"Kurumun sahibi olan ve adına kurum açma izin belgesi düzenlenen gerçek veya tüzel kişiyi, n) Kurucu temsilcisi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-30-su73",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Aşağıdakilerden hangisi Kanundaki “kurum” tanımı kapsamında sayılmamıştır?",
+    "options": [
+      "Belirli bilim grubunda eğitim veren kurs",
+      "Mesleki ve teknik kurslar uygulayan kurum",
+      "Çıraklık ve ustalık eğitimi veren özel kurum",
+      "Özel öğrenci yurdu",
+      "Hizmet içi eğitim merkezi"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Özel öğrenci yurdu\". İlgili hüküm: \"İKİNCİ BÖLÜM Kurum Açma, Kurucu, Kurum Binaları, Milletlerarası Özel Öğretim Kurumları, Yabancı Okullar ve Azınlık Okulları Kurum açma izni\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-31-f18b",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Kurucu ile kurucu temsilcisi arasındaki ayrımı doğru gösteren seçenek aşağıdakilerden hangisidir?",
+    "options": [
+      "Kurucu ruhsat verir; kurucu temsilcisi ruhsatı iptal eder.",
+      "Kurucu kurumun sahibidir; kurucu temsilcisi ise tüzel kişi adına seçilir.",
+      "Kurucu personeli seçer; kurucu temsilcisi yalnız sınav yapar.",
+      "Kurucu tüzel kişi adına seçilir; kurucu temsilcisi kurumun sahibidir.",
+      "Kurucu denetim yapar; kurucu temsilcisi çalışma izni düzenler."
+    ],
+    "answer_index": 1,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Kurucu kurumun sahibidir; kurucu temsilcisi ise tüzel kişi adına seçilir.\". İlgili hüküm: \"Kurumun sahibi olan ve adına kurum açma izin belgesi düzenlenen gerçek veya tüzel kişiyi, n) Kurucu temsilcisi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-32-wozb",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel öğretim kursuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bilgi, beceri, yetenek ve deneyimleri geliştirmeye yönelik çalışma yapar.",
+      "Bir bilim grubunda eğitim veren kurum olarak tanımlanmıştır.",
+      "Bakanlıkça belirlenmiş bilim gruplarına uygun eğitim ortamlarında faaliyet gösterir.",
+      "Öğrenim seviyelerine, ilgi ve isteklere uygun programlar doğrultusunda eğitim verir.",
+      "Birden fazla bilim grubunda faaliyet göstermek üzere kurulmuş bir kurumdur."
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Birden fazla bilim grubunda faaliyet göstermek üzere kurulmuş bir kurumdur.\". İlgili hüküm: \"kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda bilgi, beceri, dil, yetenek ve deneyimlerini geliştirmek, isteklerine göre serbest zamanlarını değerlendirmek amacıyla faaliyet gösteren özel öğretim kurumlarını, h) Özel eğitim okulu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-33-t2bi",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’na göre çıraklık, kalfalık ve ustalık eğitimi ile mesleki ve teknik kurs programlarının uygulandığı kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Öğrencilere iletişim araçlarıyla eğitim veren kurum",
+      "Bireylere konuşma ve dil desteği veren merkez",
+      "Yalnız yabancı uyruklulara eğitim veren kurum",
+      "Mesleki eğitim merkezi",
+      "Belediyelerce işletilen öğrenci destek merkezi"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Mesleki eğitim merkezi\". İlgili hüküm: \"Çıraklık, kalfalık ve ustalık eğitimi ile mesleki ve teknik kurs programlarının uygulandığı özel öğretim kurumunu, ifade eder.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-34-hnj6",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Motorlu taşıt sürücüleri kursu hangi belgeyi verir?",
+    "options": [
+      "Diploma",
+      "Ruhsat",
+      "Lisans",
+      "Ehliyet",
+      "Sertifika"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Sertifika\". İlgili hüküm: \"Özel eğitim gerektiren bireylere hizmet veren, özel olarak yetiştirilmiş personelin bulunduğu, geliştirilmiş eğitim programlarının uygulandığı özel öğretim kurumunu, i) Motorlu taşıt sürücüleri kursu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-35-bwh1",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Sosyal etkinlik merkezleriyle ilgili olarak;  I. İl millî eğitim müdürlükleri ile belediyeler arasındaki ortak işbirliği protokolleri çerçevesinde faaliyet gösterir. II. İşyeri açma ve çalışma ruhsatı Bakanlıkça verilir. III. Öğrencilerin sosyal, kültürel, sanatsal ve sportif faaliyetleri yürütülür. ifadelerinden hangileri doğrudur?",
+    "options": [
+      "I, II ve III",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"I, II ve III\". İlgili hüküm: \"İl millî eğitim müdürlükleri ile belediyeler arasında yapılan ve Bakanlıkça onaylanan ortak işbirliği protokolleri çerçevesinde, Bakanlığın verdiği işyeri açma ve çalışma ruhsatı ile belediyelerce açılan ve işletilen, ilköğretim ve/veya ortaöğretim öğrencilerinin ödev ve projelerine ilişkin araştırmalar yaptığı, öğrencilerin ilgi, istek ve yetenekleri doğrultusunda sosyal, kültürel, sanatsal ve sportif faaliyetlerin yürütüldüğü özel öğretim kurumlarını, r) Mesleki eğitim merkezi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-36-tuds",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Rum, Ermeni ve Musevi azınlıklar tarafından kurulan ve Lozan Antlaşması ile güvence altına alınan okullara.......... denir.",
+    "options": [
+      "Özel okullar",
+      "Milletlerarası okullar",
+      "Yabancı okullar",
+      "Azınlık okulları",
+      "Misyoner okulları"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Azınlık okulları\". İlgili hüküm: \"Rum, Ermeni ve Musevî azınlıklar tarafından kurulmuş, Lozan Antlaşması ile güvence altına alınmış ve kendi azınlığına mensup Türkiye Cumhuriyeti uyruklu öğrencilerin devam ettiği okul öncesi eğitim, ilköğretim ve ortaöğretim özel okullarını, g) Çeşitli kurslar:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-4-x3xv",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Aşağıdakilerden hangisi Kanunda özel öğretim kurumu olarak sayılan kurumlardan biridir?",
+    "options": [
+      "Motorlu taşıt sürücüleri kursu",
+      "Üniversite araştırma merkezi",
+      "Devlet hastanesinin eğitim birimi",
+      "Belediye kültür evi",
+      "İlçe halk kütüphanesi"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Motorlu taşıt sürücüleri kursu\". İlgili hüküm: \"Özel eğitim gerektiren bireylere hizmet veren, özel olarak yetiştirilmiş personelin bulunduğu, geliştirilmiş eğitim programlarının uygulandığı özel öğretim kurumunu, i) Motorlu taşıt sürücüleri kursu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-5-6wql",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Azınlık okullarına ilişkin aşağıdaki bilgilerden hangisi doğru değildir?",
+    "options": [
+      "Rum, Ermeni ve Musevî azınlıklar tarafından kurulmuş özel okullardır.",
+      "Kendi azınlığına mensup Türkiye Cumhuriyeti uyruklu öğrenciler devam eder.",
+      "Bu okullara bütün yabancı uyruklu öğrenciler devam edebilir.",
+      "Lozan Antlaşması ile güvence altına alınmışlardır.",
+      "Okul öncesi, ilköğretim ve ortaöğretim düzeyinde olabilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Bu okullara bütün yabancı uyruklu öğrenciler devam edebilir.\". İlgili hüküm: \"Yalnız yabancı uyruklu öğrencilerin devam edebilecekleri özel öğretim kurumlarını, m) Kurucu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-6-q6tv",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda bilgi ve becerilerini geliştirmesine yönelik faaliyet gösteren kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Çeşitli kurs",
+      "İletişim araçlarıyla eğitim sunan kurum",
+      "Özel eğitim gerektiren bireylere destek veren merkez",
+      "Yalnız yabancı uyruklulara eğitim veren kurum",
+      "Sürücü yetiştirip sertifika veren kurs"
+    ],
+    "answer_index": 0,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Çeşitli kurs\". İlgili hüküm: \"kişilerin sosyal, sanatsal, sportif, kültürel ve mesleki alanlarda bilgi, beceri, dil, yetenek ve deneyimlerini geliştirmek, isteklerine göre serbest zamanlarını değerlendirmek amacıyla faaliyet gösteren özel öğretim kurumlarını, h) Özel eğitim okulu:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-7-8l1b",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Motorlu taşıt sürücüleri kursunun ayırt edici işlevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Özel eğitime muhtaç bireylere destek vermesi",
+      "Mesleki yeterlilik belgesi düzenlemesi",
+      "Yalnız sosyal etkinlik düzenlemesi",
+      "Uzaktan sınav hizmeti sunması",
+      "Sürücü yetiştirip sınav sonucunda sertifika vermesi"
+    ],
+    "answer_index": 4,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Sürücü yetiştirip sınav sonucunda sertifika vermesi\". İlgili hüküm: \"Motorlu taşıt sürücüsü yetiştirerek sınav sonucu sertifika veren ve trafikle ilgili eğitim-öğretim yaptıran özel öğretim kurumlarını, k) Özel eğitim ve rehabilitasyon merkezi:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  }
+]

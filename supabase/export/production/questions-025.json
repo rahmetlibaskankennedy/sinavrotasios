@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-32-jy8d",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Müteahhidin iflası hâlinde sözleşme ve teminat durumu ile ilgili Kanun hükmü nasıldır?",
+    "options": [
+      "İflas masası işi aynı şartlarla tamamlamak zorundadır.",
+      "İhale yenilenir, aradaki fark iflas masasından istenir.",
+      "Teminat iade edilir ve sözleşme karşılıklı feshedilir.",
+      "Sözleşme bozulur; zarar doğarsa 62 nci maddeye göre işlem yapılır.",
+      "Sözleşme askıya alınır, kayyum atanması beklenir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 68'e göre müteahhit veya müşterinin iflas etmesi hâlinde sözleşme bozulur; bundan zarar doğarsa 62 nci maddeye göre işlem yapılır (kesin teminat gelir kaydedilerek).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-33-46nj",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Sözleşme devri sırasında 'izinsiz devir' yapılması durumunda uygulanacak yaptırım nedir?",
+    "options": [
+      "Devralan firma ile idare arasında yeni bir sözleşme yapılır.",
+      "Sözleşme revize edilir ve bedelin %10'u ceza olarak kesilir.",
+      "İş durdurulur ve mahkeme kararı verilinceye kadar beklenir.",
+      "Devreden firmaya uyarı cezası verilerek işe devam edilir.",
+      "Sözleşme bozulur ve müteahhit hakkında 62 nci madde uygulanır."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 66'ya göre izinsiz devir yapılması hâlinde sözleşme bozulur ve müteahhit veya müşteri hakkında 62 nci madde hükümleri (kesin teminatın gelir kaydedilmesi ve fesih) uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-34-himn",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Müteahhit veya müşteri kesin teminat verme zorunluluğuna uymazsa ne olur?",
+    "options": [
+      "Kesin teminat alınmadan sözleşme zorunlu olarak devam eder.",
+      "Protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir.",
+      "Geçici teminat iade edilerek ihale sürdürülür.",
+      "Yalnız fiyat farkı uygulanır.",
+      "Sadece teklif yeniden alınır."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 54'e göre kesin teminat verme zorunluluğuna uyulmaması hâlinde protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-35-nryc",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 54'e göre verilmiş kesin teminat hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sözleşmeden önce zorunlu olarak iade edilir.",
+      "Hiçbir şekilde değiştirilemez.",
+      "Teminat olarak kabul edilen diğer değerlerle değiştirilebilir.",
+      "Yalnız geçici teminatla değiştirilebilir.",
+      "İhale kararından önce gelir kaydedilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 54'e göre verilen kesin teminat, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-36-7f69",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 55 kapsamındaki etüt, proje, kontrollük, müşavirlik hizmetleri ve yapım işlerinde alınmış geçici teminat için hangi işlem yapılır?",
+    "options": [
+      "Yalnız yarısı tutulur.",
+      "Doğrudan iade edilir.",
+      "Gelir kaydedilir.",
+      "Kesin teminata çevrilir.",
+      "Sözleşme sonuna kadar işleme alınmaz."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 55'e göre maddede belirtilen tutarı aşan etüt, proje, kontrollük ve müşavirlik hizmetleri ile yapım işlerinde alınmış geçici teminat kesin teminata çevrilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-37-ijjq",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Keşif ve sözleşme dışında kalıp yapılması ihaleden sonra kararlaştırılan işler ile değişken fiyat esasına göre ihale edilmiş işlerde kesin teminat nasıl uygulanır?",
+    "options": [
+      "Sözleşme yapılınca kaldırılır.",
+      "Her durumda azaltılır.",
+      "Değişmeden kalması zorunludur.",
+      "Tamamı geçici teminata çevrilir.",
+      "Artan iş veya fiyat farkı olarak ödenecek bedel oranında artırılır."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 55'e göre bu hâllerde kesin teminat, artan iş veya fiyat farkı olarak ödenecek bedel oranında artırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-38-vn7m",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Müteahhidin bu iş nedeniyle idareye ve Sosyal Sigortalar Kurumuna olan borçları ile kanuni vergi kesintileri kesin kabul tarihine kadar ödenmezse kesin teminat hakkında ne yapılır?",
+    "options": [
+      "54 üncü maddeye göre paraya çevrilerek borçlarına karşılık tutulur; varsa kalanı müteahhide geri verilir.",
+      "Kesin teminatın tamamı koşulsuz iade edilir.",
+      "Geçici teminata dönüştürülür.",
+      "Yalnız yarısı iade edilir.",
+      "Hiçbir işlem yapılmadan süresiz bekletilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 56'ya göre belirtilen borçlar ve kesintiler ödenmezse teminat 54 üncü maddeye göre paraya çevrilerek borçlara karşılık tutulur; varsa kalanı müteahhide geri verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-39-boiu",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Taşınır malın ikinci satış bedelinden masraflar ve idarenin diğer alacakları mahsup edildikten sonra kalan tutar ne yapılır?",
+    "options": [
+      "Kesin olarak gelir kaydedilir.",
+      "İlk müracaatında verilmek üzere müşteri namına emanet hesabına alınır.",
+      "İhale komisyonu üyelerine dağıtılır.",
+      "Geçici teminata eklenir.",
+      "Yeni ihalenin tahmin edilen bedeline eklenir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 59'a göre ikinci satış bedelinden masraflar ve diğer alacaklar mahsup edildikten sonra kalan kısım, ilk müracaatında verilmek üzere müşteri namına emanet hesabına alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-4-6hw4",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre \"İdarenin görev ve sorumluluğu\" kapsamında idare; 57 nci maddede yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmak, taşınmaz malların satımında ferağa ait işlemleri tamamlamak ve şartnamede belirtilen sınır ve evsafa göre satılan malları müşteriye teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi hâlinde müteahhit veya müşteri, sürenin bitmesinden itibaren en çok kaç gün içinde, kaç gün müddetli bir noter ihbarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir?",
+    "options": [
+      "En çok 45 gün içinde, 5 gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir.",
+      "En çok 15 gün içinde, 10 gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir.",
+      "En çok 15 gün içinde, 5 gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir.",
+      "En çok 30 gün içinde, 5 gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir.",
+      "En çok 30 gün içinde, 10 gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 60'a göre idare süresi içinde sözleşme yapılması hususundaki görevini yerine getirmezse, müteahhit veya müşteri sürenin bitmesinden itibaren en çok 15 gün içinde, 10 gün müddetli bir noter ihbarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-40-d15d",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "İdare Madde 60'taki yükümlülüklerini yerine getirmez ve müteahhit veya müşteri usulüne uygun bildirimle taahhüdünden vazgeçerse teminat hakkında ne yapılır?",
+    "options": [
+      "Teminat yarı oranında tutulur.",
+      "Teminat gelir kaydedilir.",
+      "Teminat geri verilir.",
+      "Teminat kesin teminata çevrilir.",
+      "Teminat 54 üncü maddeye göre paraya çevrilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 60'a göre müteahhit veya müşteri maddede öngörülen şekilde taahhüdünden vazgeçerse teminat geri verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-41-e12p",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 60 kapsamında idarenin yükümlülüğünü yerine getirmemesi nedeniyle usulüne uygun olarak taahhüdünden vazgeçen müteahhit veya müşteri hangi masrafları istemeye hak kazanır?",
+    "options": [
+      "Şartnamenin hazırlanma giderlerini",
+      "İdarenin bütün personel giderlerini",
+      "İhale komisyonunun toplantı giderlerini",
+      "İhaleye girmek ve teminat vermek için yaptığı masrafları",
+      "Diğer isteklilerin teklif giderlerini"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 60'a göre müteahhit veya müşteri ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-42-2aqp",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 62'ye göre müteahhit veya müşteriye yapılacak ihtar için aşağıdakilerden hangisi zorunludur?",
+    "options": [
+      "Sadece ita amirinin imzasını taşıması",
+      "Süresiz olması ve gerekçe içermemesi",
+      "Yalnız sözlü yapılması",
+      "İhale tarihinden önce yapılması",
+      "En az 10 gün süreli olması ve nedenlerin açıkça belirtilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 62'ye göre idarenin ihtarı en az 10 gün süreli olmalı ve nedenleri açıkça belirtilmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-43-ifxf",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 62 uyarınca gelir kaydedilen kesin teminat, müteahhit veya müşterinin borcuna mahsup edilebilir mi?",
+    "options": [
+      "Hayır, mahsup edilemez.",
+      "Evet, tamamı mahsup edilir.",
+      "Yalnız yarısı mahsup edilir.",
+      "Sadece geçici teminat varsa mahsup edilir.",
+      "İta amirinin onayıyla her durumda mahsup edilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 62'nin son fıkrasına göre gelir kaydedilen kesin teminat müteahhit veya müşterinin borcuna mahsup edilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-44-k1wt",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 65 kapsamındaki su ürünleri istihsali hakkı kiralarında kira bedeli nasıl belirlenir?",
+    "options": [
+      "Sözleşme süresince hiç değişmez.",
+      "Her yıl şartname ve sözleşmedeki esaslara göre yeniden tespit olunur.",
+      "Yalnız ilk yıl belirlenir.",
+      "Her ay komisyonca yeniden belirlenir.",
+      "Sadece kiracı tarafından belirlenir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 65'e göre bu madde kapsamındaki kira işlerinde kira bedeli her yıl şartname ve sözleşmesindeki esaslara göre yeniden tespit olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-45-hf4v",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Müteahhit veya müşteri kendi serbest iradesiyle vekil tayin etme imkânından mahrumsa Madde 69'a göre ne yapılabilir?",
+    "options": [
+      "İhale yeniden açık teklif usulüyle yapılır.",
+      "Sözleşme hiçbir işlem olmaksızın devam eder.",
+      "İlgililerce aynı süre içinde genel hükümlere göre bir kayyum tayin edilmesi istenebilir.",
+      "Kesin teminat hemen iade edilir.",
+      "Yalnız ita amiri vekil tayin eder."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 69'a göre müteahhit veya müşteri kendi serbest iradesiyle vekil tayin edemiyorsa ilgililerce aynı süre içinde genel hükümlere göre bir kayyum tayin edilmesi istenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-46-g9o8",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Madde 69'da öngörülen vekil veya kayyum yoluna ilişkin hükümler uygulanmazsa ne olur?",
+    "options": [
+      "İş otomatik olarak başka isteklinin üzerine bırakılır.",
+      "Sözleşme aynen devam eder.",
+      "Teminat koşulsuz iade edilir.",
+      "Sözleşme bozulur; zarar doğarsa 62 nci maddeye göre işlem yapılır.",
+      "Yalnız süre uzatımı verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 69'a göre yukarıdaki hükümlerin uygulanmaması hâlinde sözleşme bozulur; bundan bir zarar doğarsa 62 nci maddeye göre işlem yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-47-8vjr",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Birden fazla gerçek veya tüzelkişi tarafından birlikte yapılan taahhütlerde, müteahhitlerden veya müşterilerden birinin ölümü, iflası, tutuklu veya mahkûm olması kural olarak ne sonuç doğurur?",
+    "options": [
+      "İşin tasfiyesini zorunlu kılar.",
+      "Sözleşmeyi kendiliğinden sona erdirir.",
+      "Kesin teminatın iadesini zorunlu kılar.",
+      "İhalenin yenilenmesini zorunlu kılar.",
+      "Sözleşmenin devamına engel olmaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 70'in ilk fıkrasına göre birlikte yapılan taahhütlerde ortaklardan birinin ölümü, iflası, tutuklu veya mahkûm olması sözleşmenin devamına engel olmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-48-ja8e",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "Birlikte yapılan taahhütlerde pilot firma dışındaki ortak şahsın ölümü veya ortak şirketin dağılması hâlinde iş nasıl tamamlanır?",
+    "options": [
+      "Pilot firma ve diğer ortaklar, teminat dâhil o ortağın sorumluluklarını da üzerlerine alarak işi bitirirler.",
+      "Sözleşme her durumda kendiliğinden sona erer.",
+      "İş doğrudan idareye geçer.",
+      "Yalnız pilot firma teminatı iade ederek çekilir.",
+      "İhale yeniden yapılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 70'e göre pilot firma dışındaki ortak şahsın ölümü veya ortak şirketin dağılması hâlinde pilot firma ve diğer ortaklar, teminat dâhil o ortağın sorumluluklarını da üzerlerine alarak işi bitirirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-5-8s5g",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre sözleşmede belirtilen işin artış ve eksilişi hususuna göre aşağıda belirtilenlerden hangisi doğrudur?",
+    "options": [
+      "Keşif bedelinin % 70 inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, müteahhit işi yapmayabilir.",
+      "Keşif bedeli artışının % 30'u geçmesi hâlinde sözleşme feshedilir. bu durumda müteahhit işin keşif bedeli ve % 30 keşif artışının karşılığı işleri sözleşme ve şartnamesindeki hükümler çerçevesinde yapmayabilir.",
+      "% 30 oranından fazla artış; temel, tünel ve benzeri işler ile tabii afetler gibi nedenlerden ileri gelmiş ise; idarenin isteği, müteahhidin kabulü ve ilgili bakanın onayı ile süre hariç, aynı sözleşme ve şartname hükümleri içinde % 30'u geçen işler de aynı müteahhide yaptırılabilir.",
+      "Taahhüdün % 30 keşif artışı ile bitmemesi ve tasfiye edilmesi hâlinde müteahhit, idareden masraf ve tazminat talep edebilir.",
+      "Yapım işlerine ait bir sözleşmenin uygulanması sırasında keşif ve sözleşmede öngörülmeyen iş artışı veya eksilişi zorunlu hale gelirse, müteahhit, keşif bedelinin % 80 oranına kadar olan değişikliği, süre hariç, sözleşme ve şartnamesindeki hükümler dairesinde yapmakla yükümlüdür."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 63'ün üçüncü fıkrasına göre %30 oranından fazla artış temel, tünel ve benzeri işler ile tabii afetler gibi nedenlerden ileri gelmişse, idarenin isteği, müteahhidin kabulü ve ilgili bakanın onayı ile %30'u geçen işler de aynı müteahhide yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-6-pzfs",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre kiralarda sözleşme süresi ile ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Üç yıldan fazla süre ile kiraya verme işlerinde, kira bedeli her yıl şartname ve sözleşmesindeki esaslara göre yeniden tespit edilir.",
+      "Katma bütçeli idarelerde bu izin, idarelerin bağlı bulundukları bakanlıktan alınır.",
+      "Kiraya verilecek taşınır ve taşınmaz malların kira süresi, on yıldan çok olamaz.",
+      "İki yıldan fazla süre ile kiraya verme işlerinde, önceden Maliye Bakanlığından izin alınması şarttır.",
+      "Turistik tesis kurulacak yerlerin ve turistik tesislerin, enerji üretimi tesisleri ile iletim ve dağıtım tesis ve şebekelerinin ihtiyacı olan arazilerin ve doğal gaz iletim, dağıtım ve depolama tesis ve şebekelerinin ihtiyacı olan arazilerin on yıldan fazla süre ile kiraya verilmesi mümkündür."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 64'ün üçüncü fıkrasına göre üç yıldan fazla süreyle kiraya verme işlerinde önceden Maliye Bakanlığından izin alınması şarttır; 'iki yıldan fazla' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-7-17m9",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre \"Dalyan, voli yerleri, doğal ve yapay göller, barajlar, havuzlar, nehirler ve nehir ağızlarındaki sular, av yerleri ile deniz ve iç sulardaki su ürünleri istihsal hakkının kiralanmasında … yıla kadar sözleşme yapmaya idareler yetkilidir. Ancak, kiracı tarafından kurulacak ve tesisat yapılacak olan üretme yerleri … yıla kadar kiraya verilebilir.\" ifadesindeki boşluklara sırasıyla hangileri gelmelidir?",
+    "options": [
+      "5 - 20",
+      "10 - 21",
+      "3 - 10",
+      "5 - 10",
+      "5 - 15"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 65'e göre su ürünleri istihsal hakkının kiralanmasında idareler beş yıla kadar sözleşme yapmaya yetkilidir; kiracı tarafından kurulacak ve tesisat yapılacak üretme yerleri ise onbeş yıla kadar kiraya verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-8-vuop",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre aşağıda verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Müteahhit veya müşterinin ölümü hâlinde, yapılmış olan işler tasfiye edilerek kesin teminatı ve varsa sair alacakları varislerine verilir. Ancak, idare varislerden istekli olanlara, ölüm tarihinden itibaren 20 gün içinde kesin teminat verilmesi şartıyla sözleşmeyi devredebilir.",
+      "Müteahhit veya müşterinin iflas etmesi hâlinde sözleşme bozulur.",
+      "Birden fazla gerçek veya tüzelkişi tarafından birlikte yapılan taahhütlerde, müteahhitlerden veya müşterilerden birinin ölümü, iflası, tutuklu veya mahkûm olması gibi hâller sözleşmenin devamına engel olmaz.",
+      "Müteahhit veya müşteri sözleşmenin yerine getirilmesine engel olacak derecede ağır hastalık, tutukluluk veya hürriyeti bağlayıcı bir ceza nedeni ile taahhüdünü yapamayacak duruma girerse, bu hallerin oluşundan itibaren 30 gün içinde ilgili idarenin kabul edeceği birini vekil tayin etmek şartıyla taahhüdüne devam edebilir.",
+      "Eğer müteahhit veya müşteri kendi serbest iradesi ile vekil tayin etmek imkanından mahrum ise, yerine ilgililerce aynı süre içinde genel hükümlere göre bir kayyum tayin edilmesi istenebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 67'ye göre müteahhidin ölümü hâlinde idare, varislerden istekli olanlara ölüm tarihinden itibaren 30 gün içinde kesin teminat verilmesi şartıyla sözleşmeyi devredebilir; '20 gün' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesme-hukumleri-2ye2b-mtmzvhlf-9-13b1",
+    "topic_id": "t-sozlesme-hukumleri-2ye2b",
+    "prompt": "\"Kesin Teminat\" ihale bedeli üzerinden yüzde kaç oranında alınır?",
+    "options": [
+      "%6",
+      "%5",
+      "%3",
+      "%10",
+      "%15"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 54'e göre kesin teminat, ihale bedeli üzerinden %6 oranında alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:30.377987+00:00",
+    "updated_at": "2026-09-04T13:33:30.377987+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-0-l8xw",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin uygulanması sırasında teslim edilen mal veya yapılan işin muayene ve kabul işlemlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Muayene ve kabul işlemleri idarece kurulacak en az üç kişilik komisyon tarafından yapılır.",
+      "Yüklenici teslim gerçekleştirmeden muayene ve kabul yapılamaz.",
+      "İmalat süreci gerektiren işlerde sözleşmede hüküm bulunması şartıyla belirli aşamalarda denetim yapılabilir.",
+      "Denetim yapılması muayene ve kabul komisyonunun yetki ve sorumluluğunu ortadan kaldırır.",
+      "Taahhüdün müstakil kullanıma elverişli bölümleri için kısmî kabul yapılabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-1-puzv",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin feshi sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yüklenicinin fesih talebinin idareye intikali tarihinde sözleşme feshedilmiş sayılır.",
+      "İdare, fesih sayılan tarihi izleyen yedi gün içinde fesih kararı almak zorundadır.",
+      "Fesih kararı, karar tarihini izleyen beş gün içinde yükleniciye bildirilir.",
+      "Kesin teminat, gelir kaydedilmeden önce güncellenmez.",
+      "Güncellemede Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksi esas alınır."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-10-wlbd",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 19, 20 ve 21 inci maddelere göre sözleşmenin feshi sürecinde aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Fesih sayılan tarihi izleyen beş gün içinde karar alınır.",
+      "Fesih sayılan tarihi izleyen yedi gün içinde fesih kararı alınır ve karar tarihini izleyen beş gün içinde bildirilir.",
+      "Fesih kararı otuz gün içinde alınır.",
+      "Bildirim süresi on gündür.",
+      "Fesih için ihtar şart değildir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-100-lcxx",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ortak girişimde pilot ortak dışındaki ortaklardan birinin ölümü hâlinde ne yapılır?",
+    "options": [
+      "Diğer ortaklar teminat dâhil sorumluluğu üstlenerek işe devam eder.",
+      "Sözleşme derhal feshedilir.",
+      "Ölen ortağın varisleri işe dâhil edilir.",
+      "Teminat gelir kaydedilir.",
+      "İş tasfiye edilir."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-101-ufqp",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin feshi nedeniyle idarenin uğradığı zarar ve ziyan kime tazmin ettirilir?",
+    "options": [
+      "Hazineye",
+      "Yükleniciye",
+      "İhale yetkilisine",
+      "Kontrol teşkilatına",
+      "Sigorta şirketine"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-102-tkcj",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre taahhüdün tamamlattırılmasında kamu yararı bulunması ve taahhüdün en az %80'inin tamamlanmış olması kaydıyla, ihale sürecindeki yasak fiili sözleşme yapıldıktan sonra tespit edilen yükleniciye iş tamamlattırılırsa ne kadar ceza kesilir?",
+    "options": [
+      "Sözleşme bedelinin %10'u kadar",
+      "Ceza kesilmez, sadece uyarı verilir",
+      "Hakedişin %5'i kadar",
+      "Sözleşme bedelinin %20'si kadar",
+      "Kesin teminat ve varsa ek kesin teminat tutarı kadar"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-103-sf6u",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre öngörülemeyen durumlar nedeniyle bir iş artışının aynı yükleniciye yaptırılabilmesi için aşağıdakilerden hangisi zorunlu şartlardan biridir?",
+    "options": [
+      "Artışa konu işin sözleşmeye esas proje dışında kalması",
+      "Artışa konu işin idareyi külfete sokmadan asıl işten ayrılmasının teknik ve ekonomik olarak mümkün olması",
+      "Artışa konu işin sözleşmeye esas proje içinde kalması",
+      "Yüklenicinin yeni birim fiyat teklif etmesi",
+      "İş artışının yalnızca mal alımlarında yapılması"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-104-k7l0",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre işin süresinden önce bitirilmesi kaydıyla, sözleşme hükümlerinde değişiklik yapılarak aşağıdakilerden hangisi değiştirilebilir?",
+    "options": [
+      "Teminat miktarı",
+      "Teknik şartname",
+      "İşin nevi",
+      "Ödeme şartları",
+      "Gecikme hâlinde alınacak cezalar"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-105-ndcq",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre idarece sözleşmenin feshedilmesi durumunda, gelir kaydedilen teminatlar yüklenicinin borcuna mahsup edilebilir mi?",
+    "options": [
+      "Evet, edilebilir.",
+      "Hayır, mahsup edilemez.",
+      "Sadece yapım işlerinde edilir.",
+      "Sadece mal alımlarında edilir.",
+      "Yüklenicinin rızası varsa edilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-106-e291",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin uygulanması sırasında yüklenicinin 25 inci maddede sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi hâlinde idarece yapılacak işlem nedir?",
+    "options": [
+      "Yüklenici uyarılır.",
+      "Sözleşme bedelinde indirim yapılır.",
+      "Protesto çekmeye gerek kalmaksızın sözleşme feshedilir.",
+      "Savcılığa suç duyurusunda bulunulup sonuç beklenir.",
+      "Sadece teminatı yakılır, işe devam edilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-107-4ho0",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 19, 20 ve 21 inci maddelere göre feshedilen sözleşmelerde teminatların güncellenmesinde hangi endeks esas alınır?",
+    "options": [
+      "Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksi",
+      "Altın fiyatları",
+      "Döviz kuru",
+      "Asgari ücret artış oranı",
+      "Mevduat faiz oranı"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-108-23l9",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme yapıldıktan sonra, mücbir sebep hâlleri dışında, yüklenicinin mali acz içinde bulunması nedeniyle taahhüdünü yerine getiremeyeceğini gerekçeleriyle birlikte yazılı olarak bildirmesi hâlinde protesto çekilmesi gerekir mi?",
+    "options": [
+      "Evet, noterden protesto çekilmelidir.",
+      "Evet, idari mektupla protesto çekilmelidir.",
+      "Hayır, protesto çekmeye gerek kalmaksızın feshedilir.",
+      "İdarenin takdirine bağlıdır.",
+      "Mahkeme kararı gerekir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 19.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-109-cv4r",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre iş artışının Kanunda belirtilen şartlar ve oranlar dâhilinde yapılmasına rağmen işin bu şartlar dâhilinde tamamlanamayacağının anlaşılması durumunda ne yapılır?",
+    "options": [
+      "Yükleniciye %20'ye kadar artış izni verilir.",
+      "İşin tamamı tasfiye edilir.",
+      "Artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir.",
+      "Cumhurbaşkanından izin istenir.",
+      "Kalan kısım başka yükleniciye verilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-11-fep0",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ortak girişimde pilot ortağın ölümü veya iflası hâlinde diğer ortakların sözleşmeye devam edebilmesi için idareye teklif sunma süresi kaç gündür?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30",
+      "45"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-110-egxc",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işleri dışındaki işlerde garanti süresi öngörülmeyen hâllerde kesin teminat ve varsa ek kesin teminatlar ne zaman iade edilir?",
+    "options": [
+      "Geçici kabulde",
+      "Garanti süresi bitiminde",
+      "Sosyal Sigortalar Kurumundan ilişiksiz belgesinin getirildiği tespit edildikten sonra",
+      "Sözleşme imzalanınca",
+      "Fatura kesilince"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-111-yxn1",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 19, 20 ve 21 inci maddeler uyarınca sözleşmenin feshedilmesi hâlinde kesin teminat ve varsa ek kesin teminatlar ne zamana kadar güncellenir?",
+    "options": [
+      "Fesih tarihine kadar",
+      "Gelir kaydedileceği tarihe kadar",
+      "İhale tarihine kadar",
+      "Sözleşme tarihine kadar",
+      "Mahkeme kararına kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-112-gean",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ölümü hâlinde varislerin sözleşmenin devrini talep edebilmesi veya ağır hastalık ya da tutukluluk hâlinde vekil tayin edilebilmesi için Kanunda öngörülen süre kaç gündür?",
+    "options": [
+      "30 gün",
+      "20 gün",
+      "15 gün",
+      "45 gün",
+      "60 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-113-9jzz",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi sözleşmede değişiklik yapılabilmesi için gereken şartlardan biri değildir?",
+    "options": [
+      "İdare ile yüklenicinin karşılıklı anlaşması",
+      "Sözleşme bedelinin aşılmaması",
+      "İşin süresinden önce teslim edilmesi (süre değişikliği için)",
+      "Değişikliğin Kanunda belirtilen hâllerle sınırlı olması",
+      "Kamu İhale Kurumunun onayı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-114-swny",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre hakedişlerden kesinti yapılmak suretiyle teminat alınan hâllerde, alıkonulan tutar sözleşme feshedilirse ne olur?",
+    "options": [
+      "İade edilir.",
+      "Gelir kaydedilir.",
+      "Hazineye irat kaydedilmez.",
+      "Yükleniciye faiziyle ödenir.",
+      "Yarısı iade edilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-115-j2gw",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Kanunda belirtilen oran ve şartların dışında iş artışı yaptırılabilir mi?",
+    "options": [
+      "Evet, her durumda yaptırılabilir.",
+      "Hayır, Kanunda belirtilen oran ve şartlar dışında iş artışı yaptırılamaz.",
+      "Evet, valilik onayıyla yaptırılabilir.",
+      "Evet, yüklenici zarar ediyorsa yaptırılabilir.",
+      "Evet, işin aciliyeti varsa yaptırılabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-116-yczm",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Cumhurbaşkanı fiyat farkı bakımından hangi konuda yetkilidir?",
+    "options": [
+      "Her sözleşmeye tek taraflı fiyat farkı eklemeye",
+      "Kamu İhale Kurumunun teklifi üzerine sözleşme türlerine göre fiyat farkı verilebilmesine ilişkin esas ve usulleri tespite",
+      "Sözleşme imzalandıktan sonra fiyat farkı esaslarını değiştirmeye",
+      "Fiyat farkı yerine ceza koymaya",
+      "Yalnız yapım işlerinde fiyat farkı belirlemeye"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-117-odjl",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre idare tarafından mücbir sebep hâlinin kabul edilebilmesi için aşağıdakilerden hangisi şart değildir?",
+    "options": [
+      "Yükleniciden kaynaklanan bir kusur olmaması.",
+      "Taahhüdün yerine getirilmesine engel olması.",
+      "Yetkili mercilerce belgelendirilmesi.",
+      "Yüklenicinin engeli ortadan kaldırmaya gücünün yetmemesi.",
+      "İdarenin bu durumu önceden onaylamış olması."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-118-xlbn",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, farkın %5'i hangi karşılık için ödenir?",
+    "options": [
+      "Yüklenicinin yaptığı gerçek giderler ve yüklenici kârı karşılığı olarak",
+      "Yalnız işçilik giderleri için",
+      "Yalnız malzeme giderleri için",
+      "Yalnız ulaşım giderleri için",
+      "Yalnız vergi giderleri için"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-119-4ttt",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi sözleşmenin idarece feshi sonucunda uygulanan yaptırımlardan biri değildir?",
+    "options": [
+      "Kesin teminatın gelir kaydedilmesi.",
+      "Yüklenici hakkında 26 ncı maddeye göre işlem yapılması.",
+      "İdarenin uğradığı zarar ve ziyanın yükleniciye tazmin ettirilmesi.",
+      "İdare tarafından doğrudan hapis cezası verilmesi.",
+      "Varsa ek kesin teminatın gelir kaydedilmesi."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-12-gtmv",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmede fiyat farkı verilmesine ilişkin esaslar belirlendikten sonra aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Tarafların anlaşmasıyla değiştirilebilir.",
+      "İdare tek taraflı değiştirebilir.",
+      "Sözleşme imzalandıktan sonra değiştirilemez.",
+      "Yüklenici talebiyle revize edilir.",
+      "Hakediş döneminde güncellenir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-120-9xbn",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ihale sürecinde yasak fiil veya davranışta bulunduğunun sözleşme yapıldıktan sonra tespit edilmesi ve taahhüdün en az %80'inin tamamlanmış olması hâlinde idare, Kanundaki diğer şartlar da varsa sözleşmeyi feshetmeden işi tamamlatabilir mi?",
+    "options": [
+      "Hayır, sözleşme her durumda derhal feshedilir.",
+      "Evet, taahhüdün tamamlattırılmasında kamu yararı bulunması ve Kanundaki diğer şartların gerçekleşmesi hâlinde tamamlatılabilir.",
+      "Evet, hiçbir ek şart aranmadan tamamlatılır.",
+      "Hayır, iş başka yükleniciye verilir.",
+      "Evet, ancak yüklenici hakkında 26 ncı madde uygulanmaz."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-121-47ll",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme, zorunlu hâllerde ihale yetkilisinin ______ izni ile başkasına devredilebilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Sözlü",
+      "Yazılı",
+      "Şarta bağlı",
+      "Geçici",
+      "Zımni"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-122-4ov0",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde yüklenicinin iş ve işyerine ilişkin sigorta yükümlülüğü hangi tarihten itibaren başlar?",
+    "options": [
+      "İhale tarihinden",
+      "Sözleşmenin imzalandığı tarihten",
+      "Kesin kabul tarihinden",
+      "Geçici kabul tarihinden",
+      "İşe başlama tarihinden"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-123-5yn8",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre süresi içinde talep edilmemesi nedeniyle iade edilemeyen teminat mektubu dışındaki teminatlar sürenin bitiminde ne yapılır?",
+    "options": [
+      "Bankasına iade edilir",
+      "Yükleniciye gönderilir",
+      "İdarenin emanet hesabında tutulur",
+      "Hazineye gelir kaydedilir",
+      "Kesin teminata dönüştürülür"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-13-34gq",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin feshedilmiş sayıldığı tarihi izleyen süreçte fesih kararının alınması ve bildirilmesi sürelerine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "5 gün içinde karar alınır, 7 gün içinde bildirim yapılır.",
+      "7 gün içinde karar alınır, 5 gün içinde bildirim yapılır.",
+      "10 gün içinde karar alınır, 5 gün içinde bildirim yapılır.",
+      "7 gün içinde karar alınır, 10 gün içinde bildirim yapılır.",
+      "15 gün içinde karar alınır, 5 gün içinde bildirim yapılır."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-14-5hvx",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ihale sürecinde yasak fiil veya davranışta bulunulduğunun sözleşme yapıldıktan sonra tespit edilmesi hâlinde, hangi şartların birlikte gerçekleşmesi durumunda sözleşme feshedilmeyerek taahhüt tamamlatılabilir?",
+    "options": [
+      "Taahhüdün en az %50'sinin tamamlanması yeterlidir.",
+      "Sadece işin acil olması yeterlidir.",
+      "Yüklenicinin yazılı özür dilemesi yeterlidir.",
+      "İdarenin tek taraflı kararı her durumda yeterlidir.",
+      "Taahhüdün en az %80'inin tamamlanmış olması ve kamu yararı bulunması şartlarıyla birlikte Kanundaki diğer şartların da gerçekleşmesi gerekir."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-15-krxo",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bir olayın mücbir sebep olarak kabul edilebilmesi için aşağıdakilerden hangisi zorunlu şartlardan biri değildir?",
+    "options": [
+      "Yükleniciden kaynaklanan bir kusurdan ileri gelmemiş olması",
+      "Taahhüdün yerine getirilmesine engel nitelikte olması",
+      "Yüklenicinin engeli ortadan kaldırmaya gücünün yetmemiş olması",
+      "Olayın noter aracılığıyla bildirilmesi",
+      "Yirmi gün içinde idareye yazılı bildirim yapılması ve yetkili mercilerce belgelendirilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-16-sq3f",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre gelir kaydedilen teminatlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Gelir kaydedilen teminat yüklenicinin borcuna mahsup edilemez.",
+      "Güncellenmiş tutar ile alınan teminat arasındaki fark tahsil edilir.",
+      "Güncelleme yapılmaksızın doğrudan gelir kaydedilir.",
+      "Hakedişlerden kesintiyle alınan teminat da gelir kaydedilebilir.",
+      "Fesih hâlinde teminat güncellenerek gelir kaydedilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-17-6qrt",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde yükleniciye yapılacak ödeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Sözleşme bedelinin %80'i ile yapılan iş tutarı arasındaki farkın %5'i",
+      "Aradaki farkın %10'u",
+      "Sözleşme bedelinin %80'i",
+      "Sözleşme bedelinin %5'i",
+      "Hiçbir ödeme yapılmaz"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-18-glj7",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin devrine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sözleşme hiçbir şekilde devredilemez.",
+      "İzinsiz devir hâlinde herhangi bir yaptırım uygulanmaz.",
+      "Devir alacaklarda ilk ihaledeki şartlar aranmaz.",
+      "Aynı yüklenici bir sözleşmeyi devrettikten hemen sonra başka bir sözleşmeyi devredebilir.",
+      "Sözleşme zorunlu hâllerde ihale yetkilisinin yazılı izni ile devredilebilir."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-19-y5y8",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre pilot ortağın iflası hâlinde diğer ortakların sözleşmeye devam edebilmesi için idareye yapılacak teklif süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün",
+      "45 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-2-pc0o",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin yasak fiil ve davranışlarda bulunduğunun tespiti hâlinde aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "En az 10 gün süreli ihtar çekilir.",
+      "Süre uzatımı verilir.",
+      "İhtar şartı aranmaksızın sözleşme feshedilir.",
+      "Teminat artırımı yapılır.",
+      "Sözleşme askıya alınır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-20-pr62",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre iade edilemeyen teminatlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İki yıl içinde talep edilmeyen teminatlar doğrudan Kamu İhale Kurumuna aktarılır.",
+      "Diğer işlerde kabul tarihinden itibaren iki yıl içinde talep edilmeyen teminatlar hükümsüz kalır.",
+      "Teminat mektubu dışındaki teminatlar sürenin bitiminde Hazineye gelir kaydedilir.",
+      "Yapım işlerinde kesin kabul tutanağının onaylanmasından itibaren iki yıl içinde talep edilmeyen teminat mektupları hükümsüz kalır.",
+      "İade edilemeyen teminat mektupları bankasına iade edilir."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-21-sfg6",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebep nedeniyle süre uzatımı verilebilmesi için aşağıdakilerden hangisi zorunlu değildir?",
+    "options": [
+      "Olayın yükleniciden kaynaklanan kusurdan ileri gelmemesi",
+      "Taahhüdün yerine getirilmesine engel nitelikte olması",
+      "Yüklenicinin engeli ortadan kaldırmaya gücünün yetmemesi",
+      "Mücbir sebebin meydana geldiği tarihi izleyen yirmi gün içinde yazılı bildirim yapılması",
+      "Bildirimin noter aracılığıyla yapılması"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-22-tkot",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi hâlinde idarenin sözleşmeyi feshedebilmesi için kural olarak ne yapması gerekir?",
+    "options": [
+      "Doğrudan fesih kararı vermesi",
+      "En az on gün süreli ve nedenleri açıkça belirtilen ihtar vermesi",
+      "Otuz gün süre uzatımı vermesi",
+      "Kamu İhale Kurumundan izin alması",
+      "Mahkeme kararı beklemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-23-1hdn",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bir sözleşmenin devredildiği tarihi izleyen süre içinde aynı yüklenici başka bir sözleşmeyi devredemez veya devralamaz. Bu süre aşağıdakilerden hangisidir?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl",
+      "10 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-24-ghda",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fiyat farkı ödenmesi öngörülerek ihale edilen işlerde sözleşme bedelinde artış meydana gelmesi hâlinde alınacak ek kesin teminat oranı nedir?",
+    "options": [
+      "Artış tutarının %3'ü",
+      "Artış tutarının %6'sı",
+      "Sözleşme bedelinin %6'sı",
+      "Artış tutarının %10'u",
+      "Ek kesin teminat alınmaz"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-25-yir7",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre anahtar teslimi götürü bedel sözleşmeyle yürütülen yapım işlerinde iş artışı, sözleşme bedelinin en fazla yüzde kaçına kadar yapılabilir?",
+    "options": [
+      "%5",
+      "%40",
+      "%20",
+      "%30",
+      "%10"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-26-samy",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fiyat farkına ilişkin esas ve usuller hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Fiyat farkı esasları Kamu İhale Kurumu tarafından tek başına belirlenir.",
+      "Sözleşme imzalandıktan sonra tarafların mutabakatıyla fiyat farkı esasları değiştirilebilir.",
+      "Fiyat farkı esas ve usulleri, Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı tarafından belirlenir.",
+      "İdare, fiyat farkı verilip verilmeyeceğine sözleşme süresince tek taraflı karar verebilir.",
+      "Fiyat farkı esasları yalnızca yapım işlerinde uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-27-m3ix",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin 19, 20 ve 21 inci maddeler uyarınca feshedilmesi hâlinde kesin teminatların güncellenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Güncelleme yapılmaz.",
+      "TÜFE esas alınır.",
+      "Devlet İstatistik Enstitüsünün aylık toptan eşya fiyat endeksi esas alınır.",
+      "Güncelleme yalnızca yapım işlerinde yapılır.",
+      "Güncelleme oranı idare tarafından belirlenir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-28-c0g1",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin feshi hâlinde aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Hesap genel hükümlere göre tasfiye edilir.",
+      "İdarenin uğradığı zarar yükleniciye tazmin ettirilir.",
+      "Gelir kaydedilen teminat yüklenici borcuna mahsup edilir.",
+      "Yasaklama hükümleri ayrıca uygulanır.",
+      "Güncellenen teminat farkı tahsil edilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-29-fm42",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fesih hâlinde teminatların güncellenmesinde esas alınan endeks aşağıdakilerden hangisidir?",
+    "options": [
+      "TÜFE",
+      "ÜFE",
+      "Kamu İhale Kurumu oranı",
+      "Yıllık enflasyon oranı",
+      "Aylık toptan eşya fiyat endeksi"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-3-rcnx",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre birim fiyat sözleşmesiyle yürütülen yapım işlerinde iş artışı oranı, Cumhurbaşkanı tarafından sözleşme bazında en fazla hangi orana kadar artırılabilir?",
+    "options": [
+      "%10",
+      "%20",
+      "%30",
+      "%40",
+      "%50"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-30-syun",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde yükleniciye ödenecek tutar nasıl hesaplanır?",
+    "options": [
+      "Sözleşme bedelinin tamamı ödenir.",
+      "Sözleşme bedelinin %80'i doğrudan ödenir.",
+      "Sözleşme bedelinin %80'i ile sözleşme fiyatlarıyla yaptığı iş tutarı arasındaki farkın %5'i ödenir.",
+      "Aradaki farkın %20'si ödenir.",
+      "Ek ödeme yapılmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-31-gkh9",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre pilot ortağın ölümü veya iflası hâlinde diğer ortakların sözleşmeye devam edebilmesi için idareye yapılacak teklif süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün",
+      "45 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-32-652r",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin taahhüdünü yerine getirmemesi nedeniyle ihtar verilerek sözleşmenin feshedilmesi sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kesin teminat güncellenmeden gelir kaydedilir.",
+      "Fesih sayılan tarihi izleyen 7 gün içinde karar alınır.",
+      "Karar tarihini izleyen 5 gün içinde bildirilir.",
+      "En az 10 gün süreli ihtar verilir.",
+      "Gelir kaydedilen teminat borca mahsup edilemez."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 20 ve 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-33-5a2u",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebebin idare tarafından kabul edilebilmesi için aşağıdaki şartlardan hangisi zorunlu değildir?",
+    "options": [
+      "Olayın yükleniciden kaynaklanan bir kusurdan ileri gelmemiş olması",
+      "Taahhüdün yerine getirilmesine engel nitelikte olması",
+      "Yüklenicinin engeli ortadan kaldırmaya gücünün yetmemiş bulunması",
+      "Mücbir sebebin meydana geldiği tarihi izleyen otuz gün içinde idareye bildirilmesi",
+      "Olayın yetkili merciler tarafından belgelendirilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-34-bn5m",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi mücbir sebep olarak kabul edilebilecek hallerden biri değildir?",
+    "options": [
+      "Doğal afet",
+      "Kanuni grev",
+      "Genel salgın hastalık",
+      "Kısmî veya genel seferberlik ilânı",
+      "Yüklenicinin finansman sıkıntısı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-35-rwgm",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fiyat farkı ödenmesi öngörülerek ihale edilen işlerde sözleşme bedelinde artış meydana gelmesi hâlinde alınacak ek kesin teminata ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Artış tutarının %3'ü oranında ek kesin teminat alınır.",
+      "Artış tutarının %6'sı oranında ek kesin teminat alınır.",
+      "Ek kesin teminat yalnızca banka teminat mektubu olarak alınabilir.",
+      "Ek kesin teminat hiçbir şekilde hakedişlerden kesinti yoluyla karşılanamaz.",
+      "Ek kesin teminat yalnızca yapım işlerinde alınır."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-36-usum",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ihale sürecinde yasak fiil veya davranışta bulunulduğunun sözleşme yapıldıktan sonra tespit edilmesine rağmen sözleşmenin feshedilmemesi için aşağıdaki şartlardan hangisi zorunlu değildir?",
+    "options": [
+      "Taahhüdün en az %80'inin tamamlanmış olması",
+      "Kamu yararı bulunması",
+      "Taahhüdün başka yükleniciye yaptırılmasının mümkün olmaması",
+      "Yüklenicinin yazılı özür dilemesi",
+      "İvedilik nedeniyle yeniden ihale için yeterli sürenin bulunmaması"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-37-05fy",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ölümü hâlinde kural olarak aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Sözleşme aynen devam eder.",
+      "Sözleşme feshedilir, hesap genel hükümlere göre tasfiye edilir; kesin teminatlar ve varsa diğer alacaklar varislere verilir.",
+      "Kesin teminat gelir kaydedilir.",
+      "Yüklenici hakkında yasaklama kararı verilir.",
+      "Sözleşme otomatik olarak varislere devredilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-38-23po",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin izinsiz devredilmesi hâlinde aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Sözleşme feshedilir ve 20, 22 ve 26 ncı madde hükümleri uygulanır",
+      "Yalnızca para cezası",
+      "Teminat artırımı istenir",
+      "Süre uzatımı verilir",
+      "Uyarı cezası verilir"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-39-3vlb",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin taahhüdünü yerine getirmemesi hâlinde idare tarafından uygulanacak fesih sürecinde aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "İdare ihtar vermeden sözleşmeyi feshedebilir.",
+      "En az on gün süreli ihtar verilmelidir.",
+      "İhtar süresi en az yedi gündür.",
+      "İhtar süresi en az yirmi gündür.",
+      "İhtar zorunlu değildir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-4-tztn",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme imzalandıktan sonra fiyat farkına ilişkin esaslarda değişiklik yapılması hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Tarafların anlaşmasıyla mümkündür.",
+      "Cumhurbaşkanı kararıyla mümkündür.",
+      "İdare kararıyla mümkündür.",
+      "Değişiklik yapılamaz.",
+      "Hakediş döneminde güncellenir."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-40-rzcy",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebeplerden dolayı sözleşmenin feshedilmesi hâlinde aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kesin teminat gelir kaydedilir.",
+      "Ek kesin teminat gelir kaydedilir.",
+      "Hesap genel hükümlere göre tasfiye edilir ve kesin teminat ile varsa ek kesin teminatlar iade edilir.",
+      "Yüklenici hakkında 26 ncı maddeye göre yasaklama uygulanır.",
+      "Teminatlar güncellenerek Hazineye aktarılır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 23.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-41-qqha",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdaki hallerden hangisinde ihtar verilmesine gerek olmaksızın sözleşme feshedilebilir?",
+    "options": [
+      "Yasak fiil ve davranışlarda bulunulması",
+      "Taahhüdün ihale dokümanına uygun şekilde yerine getirilmemesi",
+      "İşin gecikmesi",
+      "Süre uzatımı talebi",
+      "Hakediş gecikmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-42-mxmr",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yüklenici işi bitirmek zorundadır.",
+      "Yükleniciye, sözleşme bedelinin %80'i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki farkın %5'i ödenir.",
+      "Ödeme, geçici kabul tarihindeki fiyatlar üzerinden yapılır.",
+      "Yüklenici işi tamamlamaktan kaçınabilir.",
+      "Ödeme, yüklenicinin gerçek giderleri ve yüklenici kârı karşılığıdır."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-43-d9hy",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme kapsamında yaptırılabilecek ilave işlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Anahtar teslimi götürü bedel yapım işlerinde iş artışı oranı sözleşme bedelinin %20'sini aşamaz.",
+      "Birim fiyat yapım işlerinde iş artışı oranı en fazla %20'dir ve hiçbir şekilde artırılamaz.",
+      "Birim fiyat sözleşme ile yürütülen yapım işlerinde Cumhurbaşkanı bu oranı sözleşme bazında %40'a kadar artırabilir.",
+      "İlave işler yalnızca mal alımlarında mümkündür.",
+      "İş artışında Kanunda herhangi bir oran sınırı bulunmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-44-r2og",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre birim fiyat teklif almak suretiyle ihale edilen mal ve hizmet alımlarıyla yapım işlerinde iş artışı genel olarak sözleşme bedelinin en fazla yüzde kaçına kadar yapılabilir?",
+    "options": [
+      "%5",
+      "%10",
+      "%40",
+      "%30",
+      "%20"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-45-ur2m",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre pilot veya koordinatör ortağın ölümü hâlinde diğer ortakların sözleşmeye devam edebilmesi için idareye teklif sunma süresi kaç gündür?",
+    "options": [
+      "30 gün",
+      "15 gün",
+      "20 gün",
+      "10 gün",
+      "45 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-46-lvj2",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 19, 20 ve 21 inci maddelere göre feshedilen sözleşmelerde fesih kararının alınması ve bildirilmesine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Fesih sayılan tarihi izleyen 5 gün içinde karar alınır.",
+      "Fesih sayılan tarihi izleyen 7 gün içinde karar alınır ve karar tarihini izleyen 5 gün içinde bildirilir.",
+      "Karar 30 gün içinde alınır.",
+      "Bildirim süresi 10 gündür.",
+      "Karar için yargı onayı gerekir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-47-0ucr",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde kesin teminatın yarısı hangi aşamada iade edilir?",
+    "options": [
+      "Geçici kabul tutanağının onaylanmasından sonra",
+      "Sözleşmenin imzalanmasından sonra",
+      "İşe başlama tarihinde",
+      "Kesin kabulden iki yıl sonra",
+      "İhale kararından sonra"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-48-3yj7",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde yükleniciye yapılacak ek ödeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Sözleşme bedelinin %80'i",
+      "Aradaki farkın %10'u",
+      "Sözleşme bedelinin %80'i ile sözleşme fiyatlarıyla yapılan iş tutarı arasındaki farkın %5'i",
+      "Sözleşme bedelinin %5'i",
+      "Herhangi bir ek ödeme yapılmaz"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-49-9dph",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme türlerine göre fiyat farkı verilebilmesine ilişkin esas ve usulleri tespite kim yetkilidir?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Sayıştay",
+      "Danıştay",
+      "Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-5-4ked",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve tarafların karşılıklı anlaşması kaydıyla aşağıdakilerden hangisinde değişiklik yapılamaz?",
+    "options": [
+      "İşin teslim yeri",
+      "İşin yapılma yeri",
+      "Sözleşme bedelinin artırılması suretiyle iş kapsamının genişletilmesi",
+      "İşin süresinden önce yapılması kaydıyla işin süresi",
+      "İşin süresinden önce yapılması kaydıyla ödeme şartları"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-50-41yi",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yüklenici işi bitirmek zorunda değildir.",
+      "Yüklenici işi bitirmek zorundadır ve sözleşme bedelinin %80'i ile yaptığı iş tutarı arasındaki farkın %5'i ödenir.",
+      "Aradaki farkın tamamı ödenir.",
+      "Yükleniciye ek ödeme yapılmaz.",
+      "Sözleşme kendiliğinden feshedilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-51-qaxs",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebebin meydana geldiği tarihi izleyen kaç gün içinde yüklenicinin idareye yazılı olarak bildirimde bulunması ve yetkili merciler tarafından belgelendirilmesi zorunludur?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-52-toyw",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre teslim edilen mal, hizmet, yapım veya yapılan işin muayene ve kabul işlemleri, idarelerce kurulacak en az kaç kişilik muayene ve kabul komisyonları tarafından yapılır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-53-6wjf",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde, varsa eksik ve kusurlar giderilerek ______ kabul tutanağının onaylanmasından sonra kesin teminat ve varsa ek kesin teminatların yarısı iade edilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Geçici",
+      "Kesin",
+      "Kısmi",
+      "Nihai",
+      "Ara"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-54-qfrs",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre işin süresinden önce yapılması veya teslim edilmesi kaydıyla aşağıdakilerden hangisinin değiştirilmesine izin verilebilir?",
+    "options": [
+      "Kesin teminat oranı",
+      "Sözleşme bedeli",
+      "Teknik şartname",
+      "Birim fiyatlar",
+      "İşin süresi"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-55-oawb",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme türlerine göre fiyat farkı verilebilmesine ilişkin esas ve usulleri tespite aşağıdakilerden hangisi yetkilidir?",
+    "options": [
+      "Kamu İhale Kurumu tek başına",
+      "Hazine ve Maliye Bakanlığı",
+      "Sayıştay",
+      "İçişleri Bakanlığı",
+      "Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-56-2xbg",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden kaç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz?",
+    "options": [
+      "2 yıl",
+      "3 yıl",
+      "5 yıl",
+      "10 yıl",
+      "15 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-57-isxb",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebebin meydana geldiği tarihi izleyen kaç gün içinde yüklenicinin idareye yazılı bildirimde bulunması ve durumu yetkili merciler tarafından belgelendirmesi zorunludur?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "10 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-58-0vr1",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre birim fiyat sözleşmesiyle yürütülen yapım işlerinde, ______ bu oranı sözleşme bazında %40'a kadar artırmaya yetkilidir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Sayıştay",
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-59-zw7x",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre teslim edilecek mal, hizmet, yapım veya yapılan işin muayene ve kabul işlemlerinin idarelerce kurulacak en az kaç kişilik muayene ve kabul komisyonları tarafından yapılması esastır?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-6-6c47",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ortak girişimlerde pilot ortağın ölümü hâlinde aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Sözleşme devam eder, hiçbir işlem yapılmaz.",
+      "Sözleşme feshedilir, yapılan işler tasfiye edilir ve kesin teminat iade edilir.",
+      "Sözleşme otomatik olarak diğer ortaklara devredilir.",
+      "Yasaklama uygulanır.",
+      "Sözleşme geçici olarak askıya alınır."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-60-pcz6",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin devrine ilişkin aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Sözleşme, zorunlu hâllerde ihale yetkilisinin yazılı izni ile başkasına devredilebilir.",
+      "Devir alacaklarda ilk ihaledeki şartların aranması zorunludur.",
+      "İsim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz.",
+      "Sözleşme, zorunlu hâllerde ihale yetkilisinin yazılı izni olsa dahi başkasına devredilemez.",
+      "İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, devreden ve devir alanlar hakkında 20, 22 ve 26 ncı madde hükümleri uygulanır."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-61-gy33",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre öngörülemeyen durumlar nedeniyle zorunlu hâle gelen iş artışına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde yüklenici işi bitirmek zorundadır.",
+      "Birim fiyat sözleşme ile yürütülen yapım işlerinde Cumhurbaşkanı iş artışı oranını sözleşme bazında %50'ye kadar artırabilir.",
+      "İşin Kanundaki şartlarla tamamlanamayacağının anlaşılması durumunda artış yapılmaksızın hesap genel hükümlere göre tasfiye edilir.",
+      "İşin tamamının ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur.",
+      "Anahtar teslimi götürü bedel yapım işlerinde %10'a; birim fiyat teklif alınan mal, hizmet ve yapım işlerinde %20'ye kadar iş artışı yapılabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-62-w8nv",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre kesin teminat ve ek kesin teminatların geri verilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yapım işlerinde, varsa eksik ve kusurlar giderilip geçici kabul tutanağı onaylandıktan sonra teminatların tamamı iade edilir.",
+      "Yapım işlerinde, Sosyal Sigortalar Kurumundan ilişiksiz belgesi getirilmesi ve kesin kabul tutanağının onaylanmasından sonra kalan teminat iade edilir.",
+      "Yapım işleri dışındaki işlerde garanti süresi öngörülmesi hâlinde, ilişiksiz belgesi getirildikten sonra teminatın yarısı iade edilir.",
+      "Yapım işleri dışındaki işlerde garanti süresi öngörülmesi hâlinde, garanti süresi dolduktan sonra kalan teminat iade edilir.",
+      "Piyasadan hazır hâlde alınıp satılan mal alımlarında Sosyal Sigortalar Kurumundan ilişiksiz belgesi getirilmesi şartı aranmaz."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-63-u9k2",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin devrine ilişkin aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Sözleşme, zorunlu hâllerde ihale yetkilisinin yazılı izni ile başkasına devredilebilir.",
+      "Sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz.",
+      "Devir alacaklarda ilk ihaledeki şartların aranması zorunludur.",
+      "İzinsiz devredilen veya devir alınan sözleşmeler feshedilir.",
+      "Sözleşme yapıldıktan sonra hiçbir surette devredilemez ve devir alınamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-64-6m7n",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi, mücbir sebebin varlığının kabul edilebilmesi için gereken şartlardan biri değildir?",
+    "options": [
+      "Yükleniciden kaynaklanan bir kusurdan ileri gelmemiş olması",
+      "Üçüncü bir kişinin kusurundan ileri gelmemiş olması",
+      "Yetkili merciler tarafından belgelendirilmiş olması",
+      "Taahhüdün yerine getirilmesine engel nitelikte olması",
+      "Yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-65-2x5t",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebep olarak kabul edilebilecek hâller arasında aşağıdakilerden hangisi sayılmamıştır?",
+    "options": [
+      "Doğal afetler",
+      "Kanuni grev",
+      "Genel salgın hastalık",
+      "Yüklenicinin iflası",
+      "Kısmî veya genel seferberlik ilânı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-66-0yu0",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebebin meydana geldiği tarihi izleyen ______ gün içinde yüklenicinin idareye yazılı olarak bildirimde bulunması ve durumu yetkili merciler tarafından belgelendirmesi zorunludur. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "5",
+      "20",
+      "15",
+      "10",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-67-oogo",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fiyat farkı ödenmesi öngörülerek ihale edilen işlerde, fiyat farkı olarak ödenecek bedelin %______'sı oranında ek kesin teminat alınır. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "3",
+      "20",
+      "10",
+      "15",
+      "6"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-68-np3i",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde kesin teminatın iadesi süreciyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Geçici kabulde tamamı iade edilir.",
+      "Kesin kabulde yarısı, garanti süresi sonunda kalanı iade edilir.",
+      "Geçici kabulde yarısı, kesin kabul ve ilişiksiz belgesinden sonra kalanı iade edilir.",
+      "İş bitiminde tamamı iade edilir.",
+      "Sosyal Sigortalar Kurumundan ilişiksiz belgesi getirilince tamamı iade edilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-69-hgjo",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre iade edilemeyen kesin teminat mektupları, Kanunda belirtilen başlangıç tarihinden itibaren ______ yıl içinde idarenin yazılı uyarısına rağmen talep edilmezse hükümsüz kalır ve bankasına iade edilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "5",
+      "10"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 14.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-7-kaem",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme imzalandıktan sonra sözleşme bedelinin aşılmaması ve tarafların karşılıklı anlaşması kaydıyla aşağıdaki hususlardan hangisinde değişiklik yapılabilir?",
+    "options": [
+      "İşin yapılma veya teslim yeri",
+      "Sözleşmenin türü",
+      "Kesin teminat oranı",
+      "İhale usulü",
+      "Yasaklama süresi"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-70-y2j7",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve karşılıklı anlaşma kaydıyla aşağıdaki hususlardan hangisinde değişiklik yapılabilir?",
+    "options": [
+      "İşin tekniği",
+      "İşin nevi",
+      "İşin teslim yeri",
+      "Teminat miktarı",
+      "Birim fiyatlar"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-71-qk9f",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden ______ yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-72-1hml",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ölümü hâlinde sözleşme feshedilmek suretiyle hesabı genel hükümlere göre tasfiye edilir; kesin teminatları ve varsa diğer alacakları ______ verilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Varislerine",
+      "İdareye",
+      "Hazineye",
+      "Kamu İhale Kurumuna",
+      "Diğer yüklenicilere"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-73-imu1",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin iflas etmesi hâlinde idarece yapılacak işlem hangisidir?",
+    "options": [
+      "Sözleşme feshedilir ve kesin teminat iade edilir.",
+      "Sözleşme feshedilir; yasaklama hariç 20 ve 22 nci madde hükümlerine göre işlem yapılır.",
+      "İflas masasının işi tamamlaması beklenir.",
+      "Yükleniciye 30 gün süre verilir.",
+      "Sözleşme askıya alınır."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-74-we5z",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ağır hastalık, tutukluluk veya özgürlüğü kısıtlayıcı bir cezaya mahkûmiyet nedeniyle taahhüdünü yerine getiremeyen yüklenicinin, durumun oluşunu izleyen ______ gün içinde Kanunda belirtilen şekilde vekil tayin etmesi hâlinde taahhüde devam edilebilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30",
+      "45"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-75-5k6n",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi hâlinde, idarenin fesih öncesinde vereceği ihtar süresi en az ______ gündür. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-76-d8yh",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin feshine ilişkin karar, karar tarihini izleyen ______ gün içinde yükleniciye bildirilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10",
+      "15"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-77-iw3w",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre anahtar teslimi götürü bedel sözleşmeyle yürütülen yapım işlerinde iş artışının (ilave iş) üst sınırı sözleşme bedelinin yüzde kaçıdır?",
+    "options": [
+      "%10",
+      "%15",
+      "%20",
+      "%30",
+      "%40"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-78-03og",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre birim fiyat sözleşmesiyle yürütülen yapım işlerinde, iş artış oranını %40'a kadar artırmaya kim yetkilidir?",
+    "options": [
+      "İhale yetkilisi",
+      "Üst yönetici",
+      "İlgili Bakan",
+      "Kamu İhale Kurumu",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-79-wuzp",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yükleniciye yapılacak ödemenin hesaplanmasında esas alınan farkın yüzde kaçı ödenir?",
+    "options": [
+      "%3",
+      "%5",
+      "%6",
+      "%10",
+      "%15"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-8-mdgi",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme kapsamında yaptırılabilecek ilave işlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Anahtar teslimi götürü bedel yapım işlerinde iş artışı oranı sözleşme bedelinin %20'sini aşamaz.",
+      "Birim fiyat yapım işlerinde iş artışı oranı en fazla %20'dir ve hiçbir şekilde artırılamaz.",
+      "Birim fiyat sözleşme ile yürütülen yapım işlerinde Cumhurbaşkanı iş artışı oranını sözleşme bazında %40'a kadar artırabilir.",
+      "İlave işler yalnızca mal alımlarında mümkündür.",
+      "İş artışında Kanunda herhangi bir oran sınırı bulunmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-80-tsij",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre teslim edilen mal, hizmet, yapım veya yapılan işin muayene ve kabul işlemleri, idarelerce kurulacak en az ______ kişilik muayene ve kabul komisyonları tarafından yapılır. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-81-m4c8",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme kapsamında yaptırılabilecek ilave işler için aşağıdaki şartlardan hangisi aranmaz?",
+    "options": [
+      "İşin idareyi külfete sokmaksızın asıl işten ayrılmasının mümkün olmaması.",
+      "Sözleşmeye esas proje içinde kalması.",
+      "Anahtar teslim işlerde %10 sınırını aşmaması.",
+      "Yüklenicinin kabul etmesi.",
+      "Öngörülemeyen durumlar nedeniyle zorunlu olması."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-82-8ltd",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme imzalandıktan sonra idareye teslim edilen malın muayene ve kabul işlemleri ne zaman yapılır?",
+    "options": [
+      "Yüklenici malı idareye teslim ettikten sonra",
+      "Sözleşme imzalanır imzalanmaz",
+      "Fatura kesilmeden önce",
+      "İhale onaylanmadan önce",
+      "Geçici teminat iade edildikten sonra"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 11.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-83-53qk",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde geçici kabul tarihinden kesin kabul tarihine kadar geçen süre için yüklenicinin yaptıracağı sigortada hangi teminatın bulunması gerekir?",
+    "options": [
+      "Sadece yangın teminatı",
+      "Sadece hırsızlık teminatı",
+      "Sadece deprem teminatı",
+      "İhale dokümanında kapsamı belirtilen genişletilmiş bakım devresi teminatı",
+      "Sadece üçüncü kişi mali sorumluluk teminatı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-84-xj82",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmelerde yer alan fiyat farkına ilişkin esas ve usullerde, sözleşme imzalandıktan sonra değişiklik yapılabilir mi?",
+    "options": [
+      "İdarenin onayıyla yapılabilir.",
+      "Yüklenicinin talebiyle yapılabilir.",
+      "Kamu İhale Kurumu kararıyla yapılabilir.",
+      "Mahkeme kararıyla yapılabilir.",
+      "Hiçbir şekilde değişiklik yapılamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-85-865g",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin hakedişinden kesinti yapılmak suretiyle teminat alındığı hâllerde sözleşme feshedilirse bu tutar hakkında hangi işlem yapılır?",
+    "options": [
+      "Yükleniciye iade edilir.",
+      "Gelir kaydedilir.",
+      "Mahkeme sonucuna kadar blokeli kalır.",
+      "Yarısı iade edilir, yarısı gelir kaydedilir.",
+      "Başka bir işe mahsup edilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-86-ahs9",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme bedelinin %80'inden daha düşük bedelle tamamlanan işlerde, yüklenici işi bitirmek zorunda mıdır?",
+    "options": [
+      "Evet, işi bitirmek zorundadır.",
+      "Hayır, %80'e gelince bırakabilir.",
+      "İdarenin takdirine bağlıdır.",
+      "Ek ücret talep ederek bitirir.",
+      "Sadece anahtar teslim işlerde zorunludur."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 24.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-87-dvu6",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebeplerden dolayı sözleşmenin feshedilmesi hâlinde kesin teminat ne yapılır?",
+    "options": [
+      "Gelir kaydedilir.",
+      "Yarısı gelir kaydedilir.",
+      "Güncellenerek gelir kaydedilir.",
+      "İade edilir.",
+      "Bütçeye aktarılır."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 23.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-88-xz4e",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nun 20 nci maddesine göre aşağıdakilerden hangisi idarenin sözleşmeyi feshetme nedenlerinden biri değildir?",
+    "options": [
+      "Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi ve ihtara rağmen durumun devam etmesi.",
+      "Yüklenicinin işi süresinde bitirmemesi ve ihtara rağmen durumun devam etmesi.",
+      "Sözleşmenin uygulanması sırasında yüklenicinin 25 inci maddede sayılan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi.",
+      "Yüklenicinin taahhüdünü yerine getirmemesi nedeniyle en az on gün süreli ihtara rağmen aynı durumun devam etmesi.",
+      "Yüklenicinin Kanuna uygun bir iş artışı teklifini kabul etmemesi."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-89-rgu5",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fiyat farkı verilebilmesine ilişkin esas ve usulleri tespite kim yetkilidir?",
+    "options": [
+      "Hazine ve Maliye Bakanlığı",
+      "Kamu İhale Kurumu",
+      "Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Sayıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-9-e03k",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre fesih hâlinde kesin teminatların güncellenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Gelir kaydedileceği tarihe kadar güncellenir.",
+      "Aylık toptan eşya fiyat endeksi esas alınır.",
+      "Hakedişlerden kesintiyle alınan teminat da güncellenir.",
+      "Güncellenmiş tutar ile alınan teminat arasındaki fark tahsil edilir.",
+      "Güncelleme yapılmadan doğrudan gelir kaydedilebilir."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-90-60yh",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme devredilirken, devir alacaklarda hangi şart aranır?",
+    "options": [
+      "Daha önce iş yapmış olması",
+      "İlk ihaledeki şartları taşıması",
+      "Teminat vermemesi",
+      "Yerli istekli olması",
+      "En düşük fiyatı teklif etmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-91-8vzg",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici, işyerlerindeki her türlü araç ve malzemeyi hangi risklere karşı sigortalamak zorundadır?",
+    "options": [
+      "Sadece yangın",
+      "Sadece deprem",
+      "İhale dokümanında belirtilen doğal afet ve risklere karşı",
+      "Sadece hırsızlık",
+      "Sadece üçüncü şahıs mali mesuliyet"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-92-hjl4",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşme hükümlerinde değişiklik yapılması için aşağıdakilerden hangisi ön koşuldur?",
+    "options": [
+      "İdarenin tek taraflı kararı",
+      "Yüklenicinin talebi",
+      "İdare ve yüklenicinin karşılıklı anlaşması",
+      "Kamu İhale Kurumu onayı",
+      "Mahkeme kararı"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-93-sug1",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin mali acz içinde bulunması nedeniyle taahhüdünü yerine getiremeyeceğini bildirmesi hâlinde kesin teminat hakkında hangi işlem yapılır?",
+    "options": [
+      "İade edilir.",
+      "Gelir kaydedilir.",
+      "Yarısı iade edilir.",
+      "Hakedişinden düşülür.",
+      "1 yıl bekletilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 19.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-94-114f",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi mücbir sebep sayılabilmesi için gerekli şartlardan biri değildir?",
+    "options": [
+      "Yükleniciden kaynaklanan bir kusurdan ileri gelmemiş olması.",
+      "Taahhüdün yerine getirilmesine engel nitelikte olması.",
+      "Yüklenicinin engeli ortadan kaldırmaya gücünün yetmemesi.",
+      "İdarenin bu durumu önceden öngörmüş olması.",
+      "Yetkili mercilerce belgelendirilmesi."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-95-e8zb",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ihale sürecinde yasak fiil veya davranışta bulunduğunun sözleşme yapıldıktan sonra tespit edilmesi hâlinde, Kanundaki istisna şartları bulunmadığı takdirde ne yapılır?",
+    "options": [
+      "Yüklenici uyarılır, işe devam eder.",
+      "Teminatı gelir kaydedilir, sözleşme feshedilir.",
+      "Sadece para cezası verilir.",
+      "Teminat iade edilir, sözleşme feshedilir.",
+      "İşin %50'si bitmişse devam ettirilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-96-0xpu",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebepler bakımından benzeri diğer hâlleri belirlemeye yetkili merci aşağıdakilerden hangisidir?",
+    "options": [
+      "İlgili Bakanlık",
+      "Cumhurbaşkanı",
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Sayıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-97-ev9w",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde kesin teminatın kalan kısmının iadesi için aşağıdakilerden hangisinin sağlanması gerekir?",
+    "options": [
+      "Vergi dairesinden borcu yoktur yazısı alınması",
+      "Sosyal Sigortalar Kurumundan ilişiksiz belgesi getirilmesi ve kesin kabul tutanağının onaylanması",
+      "Belediyeden uygunluk belgesi alınması",
+      "Meslek odasından faaliyet belgesi alınması",
+      "Yüksek Fen Kurulu kararı alınması"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 13.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-98-ukt8",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin devri ile ilgili olarak, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, devir işlemini yapan yüklenici kaç yıl süreyle bir sözleşmeyi devredemez veya devralamaz?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 16.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmlz-99-hg03",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ortak girişimlerde pilot veya koordinatör ortağın iflas etmesi hâlinde sözleşme hakkında kural olarak hangi işlem yapılır?",
+    "options": [
+      "Diğer ortaklar işi devralır.",
+      "Sözleşme feshedilir; kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir.",
+      "Sözleşme feshedilir, teminat iade edilir.",
+      "İdare yeni bir pilot ortak atar.",
+      "İş tasfiye edilir, teminatın yarısı iade edilir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 18.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmm0-124-cn69",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin ölümü hâlinde, aynı şartları taşıyan ve talepte bulunan varislere sözleşmenin devredilebilmesi için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      "Kamu İhale Kurumunun onayı",
+      "Diğer isteklilerin muvafakati",
+      "Mahkeme kararı",
+      "Bakanlık izni",
+      "İdarenin uygun görmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmm0-125-5v30",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ağır hastalık, tutukluluk veya özgürlüğü kısıtlayıcı cezaya mahkûmiyet hâlinde yüklenicinin kendi serbest iradesiyle vekil tayin edecek durumda olmaması durumunda ne istenebilir?",
+    "options": [
+      "Sözleşmenin doğrudan devri",
+      "Teminatın artırılması",
+      "Yeni ihale yapılması",
+      "İlgililerce genel hükümlere göre bir yasal temsilci tayin edilmesi",
+      "İşin idarece tamamlanması"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 17.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmm0-126-jix9",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicinin mali acz nedeniyle sözleşmeyi feshetmesi hâlinde hesabı nasıl tasfiye edilir?",
+    "options": [
+      "İhale dokümanına göre",
+      "Tasfiye yapılmaz",
+      "Kamu İhale Kurumu kararına göre",
+      "Yalnız sözleşmedeki özel hükümlere göre",
+      "Genel hükümlere göre"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 19.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmm0-127-52t7",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ihale sürecindeki yasak fiil sonradan tespit edilmesine rağmen sözleşme feshedilmeksizin taahhüt tamamlattırılırsa yüklenici hakkında hangi maddeye göre işlem yapılır?",
+    "options": [
+      "19 uncu madde",
+      "20 nci madde",
+      "22 nci madde",
+      "26 ncı madde",
+      "28 inci madde"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-sozlesmenin-uygulanmasi-w5n4x-mtn7xmm0-128-0h0a",
+    "topic_id": "t-sozlesmenin-uygulanmasi-w5n4x",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre ihale sürecindeki yasak fiil sonradan tespit edilmesine rağmen taahhüdün tamamlatılmasına karar verilirse, yükleniciden tahsil edilen ceza hakedişlerden kesinti yapılarak tahsil edilebilir mi?",
+    "options": [
+      "Evet, tahsil edilebilir",
+      "Hayır, hiçbir şekilde edilemez",
+      "Yalnız mahkeme kararıyla edilebilir",
+      "Yalnız yapım işlerinde edilebilir",
+      "Yalnız yüklenicinin yazılı onayıyla edilebilir"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:08.132843+00:00",
+    "updated_at": "2026-09-04T17:19:08.132843+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-0-ar23",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Ayşe'nin kalemi' tamlamasında 'Ayşe'nin' sözcüğünün aldığı ek nedir?",
+    "options": [
+      "Ayrılma hâl eki",
+      "Belirtme hâl eki",
+      "Yönelme hâl eki",
+      "Bulunma hâl eki",
+      "Tamlayan eki (ilgi hâli eki)"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-1-gl06",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi belirtisiz ad tamlamasıdır?",
+    "options": [
+      "Okul bahçesi",
+      "Okulun bahçesi",
+      "Güzel bahçe",
+      "Onun bahçesi",
+      "Bahçedeki çocuk"
+    ],
+    "answer_index": 0,
+    "explanation": "Belirtisiz ad tamlamasında tamlayan eksiz, tamlanan iyelik eki alır: 'okul bahçe-si'.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-10-kdyd",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi belirtisiz isim tamlamasına örnektir?",
+    "options": [
+      "Okul bahçesi",
+      "Öğrencinin defteri",
+      "Ali'nin evi",
+      "Kitabın kapağı",
+      "Annemin çantası"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-11-dyhg",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi takısız isim tamlamasına örnektir?",
+    "options": [
+      "Altın yüzük",
+      "Öğrencinin defteri",
+      "Kitabın kapağı",
+      "Ali'nin evi",
+      "Annemin çantası"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-12-01q7",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi zincirleme isim tamlamasına örnektir?",
+    "options": [
+      "Evin bahçesinin kapısı",
+      "Öğrenci defteri",
+      "Demir kapı",
+      "Güzel çocuk",
+      "Kırmızı elbise"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-13-l8do",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi sıfat tamlamasına örnektir?",
+    "options": [
+      "Kırmızı elbise",
+      "Öğrencinin defteri",
+      "Okul bahçesi",
+      "Ali'nin evi",
+      "Kitabın kapağı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-14-y3qt",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Ahmet Bey' örneğindeki gibi bir özel isim ile unvanın bir araya gelmesiyle oluşan söz öbeğine ne ad verilir?",
+    "options": [
+      "Unvan grubu",
+      "İsim tamlaması",
+      "Sıfat tamlaması",
+      "Zincirleme tamlama",
+      "Bağlama grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-15-h3jg",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde tamlayan eki kullanılmamıştır?",
+    "options": [
+      "Öğrenci defteri",
+      "Öğrencinin defteri",
+      "Ali'nin evi",
+      "Annemin çantası",
+      "Kapının anahtarı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-16-r05q",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisi belirtili isim tamlaması değildir?",
+    "options": [
+      "Öğrenci defteri",
+      "Öğrencinin defteri",
+      "Ali'nin evi",
+      "Annemin çantası",
+      "Kapının anahtarı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-17-23c6",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisinde birden fazla sıfat tamlaması zincirleme biçimde kullanılmıştır?",
+    "options": [
+      "Küçük sarı çiçek",
+      "Öğrencinin defteri",
+      "Demir kapı",
+      "Ali'nin evi",
+      "Kitabın kapağı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-18-lt6t",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Kalem kutusu' örneği hangi tamlama türüne örnektir?",
+    "options": [
+      "Belirtisiz isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Takısız isim tamlaması",
+      "Zincirleme tamlama"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-19-prqq",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Bahçenin çiçekleri' örneği hangi tamlama türüne örnektir?",
+    "options": [
+      "Belirtili isim tamlaması",
+      "Belirtisiz isim tamlaması",
+      "Sıfat tamlaması",
+      "Takısız isim tamlaması",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-2-baiu",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisi sıfat tamlamasıdır?",
+    "options": [
+      "Kitabın kapağı",
+      "Öğrencinin defteri",
+      "Kırmızı kalem",
+      "Sınıfın kapısı",
+      "Annemin çantası"
+    ],
+    "answer_index": 2,
+    "explanation": "'Kırmızı kalem' bir sıfatın ismi nitelemesiyle oluşan sıfat tamlamasıdır, ad tamlaması değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-20-rdvo",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Tahta masa' örneği hangi tamlama türüne örnektir?",
+    "options": [
+      "Takısız isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Zincirleme tamlama",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-21-dxea",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Sıfat tamlamasında tamlayan görevindeki sözcük hangi türdendir?",
+    "options": [
+      "Sıfat",
+      "İsim",
+      "Zamir",
+      "Zarf",
+      "Edat"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-22-9rqu",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "İsim tamlamasında tamlanan (ikinci unsur) hangi türden bir sözcüktür?",
+    "options": [
+      "İsim",
+      "Sıfat",
+      "Fiil",
+      "Zarf",
+      "Edat"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-23-b8i5",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Belirtili isim tamlamasında tamlayan hangi eki alır?",
+    "options": [
+      "İlgi eki (-in, -ın)",
+      "Belirtme eki (-i)",
+      "Yönelme eki (-e)",
+      "Bulunma eki (-de)",
+      "Ayrılma eki (-den)"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-24-p90v",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "İsim tamlamasında tamlanan (ikinci unsur) genellikle hangi eki alır?",
+    "options": [
+      "İyelik eki",
+      "İlgi eki",
+      "Belirtme eki",
+      "Yönelme eki",
+      "Ayrılma eki"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-25-fk2m",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde tamlanan iyelik eki almamıştır?",
+    "options": [
+      "Demir kapı",
+      "Öğrencinin defteri",
+      "Ali'nin evi",
+      "Annemin çantası",
+      "Kapının anahtarı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-26-qofa",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Türkçe öğretmeni' örneği hangi tamlama türüne örnek gösterilebilir?",
+    "options": [
+      "Belirtisiz isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Zincirleme tamlama",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-27-2a7g",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisinde zincirleme tamlama kullanılmamıştır?",
+    "options": [
+      "Demir kapı",
+      "Evin bahçesinin kapısı",
+      "Okulun bahçesinin ağacı",
+      "Şehrin merkezinin caddesi",
+      "Ailenin evinin bahçesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-28-ozz7",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Güzel bir gün' örneğindeki 'bir' sözcüğü hangi görevdedir?",
+    "options": [
+      "Sıfat tamlamasında pekiştirici/belirsizlik sıfatı",
+      "Tamlanan",
+      "İlgi eki",
+      "İyelik eki",
+      "Bağlaç"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-29-y2z0",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Türk Dili' örneğinde olduğu gibi, aslında belirtili olması beklenirken belirtisiz kalıpta kullanılan, kalıplaşmış tamlamalara ne ad verilir?",
+    "options": [
+      "Kalıplaşmış (yanlış grup) tamlama",
+      "Zincirleme tamlama",
+      "Sıfat tamlaması",
+      "Unvan grubu",
+      "Takısız isim tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-3-5kxf",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığı vardır?",
+    "options": [
+      "Öğrencilerin büyük çoğunluğu başarıyla mezun oldu.",
+      "Öğrencilerin büyük çoğunlukları başarıyla mezun oldu.",
+      "Öğrencilerin çoğu başarıyla mezun oldu.",
+      "Öğrenciler başarıyla mezun oldu.",
+      "Büyük bir grup başarıyla mezun oldu."
+    ],
+    "answer_index": 1,
+    "explanation": "Bu anlamda doğru tamlama “öğrencilerin büyük çoğunluğu” biçimindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-30-3njb",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Ali Bey'in evinin bahçesinin kapısı' örneğindeki gibi üçten fazla halka içeren tamlamaya ne ad verilir?",
+    "options": [
+      "Çok halkalı zincirleme tamlama",
+      "Basit isim tamlaması",
+      "Sıfat tamlaması",
+      "Unvan grubu",
+      "Takısız isim tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-31-8rmh",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Bir sıfat tamlamasında tamlayan (sıfat) sözcük yerine bir sıfat-fiil grubu kullanılırsa ortaya çıkan yapıya ne ad verilir?",
+    "options": [
+      "Sıfat-fiil grubu (genişletilmiş sıfat tamlaması)",
+      "Zincirleme tamlama",
+      "Takısız isim tamlaması",
+      "Unvan grubu",
+      "Belirtili isim tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-32-j5hh",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Sayın Vali' örneğindeki gibi bir saygı/unvan sözcüğü ile bir özel ismin bir araya gelmesine ne ad verilir?",
+    "options": [
+      "Unvan grubu",
+      "Sıfat tamlaması",
+      "İsim tamlaması",
+      "Zincirleme tamlama",
+      "Bağlama grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-33-xcyg",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Taş bebek' tamlamasında olduğu gibi, tamlayanın tamlananın maddesini/malzemesini belirttiği tamlama türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Takısız isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Zincirleme tamlama",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-34-8jte",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde tamlayan bir zamir ile karşılanmıştır?",
+    "options": [
+      "Benim kalemim",
+      "Öğrencinin kalemi",
+      "Ali'nin kalemi",
+      "Kalemin ucu",
+      "Demir kalem"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-35-sd5y",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisi 'malzeme-eşya' ilişkisi bildiren bir takısız isim tamlamasıdır?",
+    "options": [
+      "Altın bilezik",
+      "Öğrencinin defteri",
+      "Kırmızı elbise",
+      "Ali'nin evi",
+      "Okulun bahçesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-36-29xy",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde iyelik zinciri (tamlanan eki üst üste) üç kez tekrarlanmıştır?",
+    "options": [
+      "Öğretmenin masasının çekmecesinin anahtarı",
+      "Öğrenci defteri",
+      "Demir kapı",
+      "Kırmızı elbise",
+      "Ali'nin evi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-37-mwsq",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Bilgisayar mühendisi' örneği hangi tamlama türüne örnek olarak gösterilebilir?",
+    "options": [
+      "Belirtisiz isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Zincirleme tamlama",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-38-8jbx",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Bir sıfat tamlamasında birden fazla sıfatın aynı ismi nitelemesine ne ad verilir?",
+    "options": [
+      "Sıralı sıfat tamlaması",
+      "Zincirleme isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Unvan grubu",
+      "Takısız isim tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-39-0mws",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisinde sıralı (art arda) birden fazla sıfat kullanılmıştır?",
+    "options": [
+      "Küçük, sarı bir kuş",
+      "Öğrencinin defteri",
+      "Demir kapı",
+      "Ali'nin evi",
+      "Kalem kutusu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-4-555h",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Hem tamlayanı hem tamlananı belirtme eki almış isim tamlamasına ne ad verilir?",
+    "options": [
+      "Belirtili isim tamlaması",
+      "Belirtisiz isim tamlaması",
+      "Zincirleme isim tamlaması",
+      "Sıfat tamlaması",
+      "Takısız isim tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-40-9qjo",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Kitap raflarının tozu' tamlamasında kaç tamlama halkası vardır?",
+    "options": [
+      "İki",
+      "Bir",
+      "Üç",
+      "Dört",
+      "Beş"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-41-66jn",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Doktor Ayşe Hanım' örneğinde tamlayan görevindeki 'Doktor' sözcüğü ne tür bir unsurdur?",
+    "options": [
+      "Unvan",
+      "Sıfat",
+      "İyelik",
+      "Tamlanan",
+      "Zincir halkası"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-42-xzx4",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi belirtme sıfatı ile kurulmuş bir sıfat tamlamasına örnektir?",
+    "options": [
+      "Bu ev",
+      "Kırmızı ev",
+      "Öğrencinin evi",
+      "Demir kapı",
+      "Okulun bahçesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-43-gko7",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi sayı sıfatıyla kurulmuş bir sıfat tamlamasına örnektir?",
+    "options": [
+      "Beş kalem",
+      "Kırmızı kalem",
+      "Öğrencinin kalemi",
+      "Demir kalem",
+      "Okulun kalemi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-44-sbda",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi soru sıfatıyla kurulmuş bir sıfat tamlamasına örnektir?",
+    "options": [
+      "Hangi kitap",
+      "Kırmızı kitap",
+      "Öğrencinin kitabı",
+      "Demir kapı",
+      "Beş kitap"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-45-wryw",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde tamlayan çoğul eki almıştır?",
+    "options": [
+      "Öğrencilerin defteri",
+      "Öğrencinin defteri",
+      "Demir kapı",
+      "Kırmızı elbise",
+      "Ali'nin evi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-46-upru",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Türk Dil Kurumu' örneğinde kaç sözcükten oluşan bir kalıplaşmış tamlama söz konusudur?",
+    "options": [
+      "Üç",
+      "İki",
+      "Dört",
+      "Beş",
+      "Bir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-47-5w8a",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisinde bir isim tamlaması bir sıfat tamlamasının içinde tamlayan olarak kullanılmıştır (karma yapı)?",
+    "options": [
+      "Öğrencinin kırmızı defteri",
+      "Demir kapı",
+      "Kırmızı elbise",
+      "Beş kalem",
+      "Bu ev"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-48-5njw",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdaki tamlamalardan hangisinde tamlanan görevindeki sözcük iyelik eki almamıştır (takısız isim tamlaması örneğidir)?",
+    "options": [
+      "Gümüş kaşık",
+      "Öğrencinin defteri",
+      "Ali'nin evi",
+      "Annemin çantası",
+      "Kapının anahtarı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-5-qxvv",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Tamlayanı ek almayan, sadece tamlananı iyelik eki alan isim tamlaması türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Belirtisiz isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Zincirleme tamlama",
+      "Sıfat tamlaması",
+      "Unvan tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-6-rfqy",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Okulun bahçesinin duvarı' örneğindeki gibi ikiden fazla ismin bir araya gelmesiyle oluşan tamlama türüne ne ad verilir?",
+    "options": [
+      "Zincirleme isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Sıfat tamlaması",
+      "Takısız isim tamlaması",
+      "Unvan grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-7-1upq",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "'Demir kapı' örneğindeki gibi hem tamlayan hem tamlanan herhangi bir ek almayan isim tamlaması türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Takısız isim tamlaması",
+      "Belirtili isim tamlaması",
+      "Zincirleme tamlama",
+      "Sıfat tamlaması",
+      "Unvan tamlaması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-8-qq1v",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Bir ismin bir sıfat tarafından nitelenmesi veya belirtilmesiyle oluşan söz öbeğine ne ad verilir?",
+    "options": [
+      "Sıfat tamlaması",
+      "İsim tamlaması",
+      "Zincirleme tamlama",
+      "Unvan grubu",
+      "Bağlama grubu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  }
+]

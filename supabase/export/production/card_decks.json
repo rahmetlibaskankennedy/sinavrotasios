@@ -1,0 +1,232 @@
+[
+  {
+    "id": "anayasa",
+    "title": "T.C. Anayasası",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 1,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/anayasa.json"
+  },
+  {
+    "id": "1739-sayili-kanun",
+    "title": "1739 sayılı Milli Eğitim Temel Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "meb-legislation",
+    "sort_order": 1,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/1739-sayili-kanun.json"
+  },
+  {
+    "id": "222-sayili-kanun",
+    "title": "222 sayılı İlköğretim ve Eğitim Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "meb-legislation",
+    "sort_order": 2,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/222-sayili-kanun.json"
+  },
+  {
+    "id": "657-sayili-kanun",
+    "title": "657 Sayılı Devlet Memurları Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 2,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/657.json"
+  },
+  {
+    "id": "4483-sayili-kanun",
+    "title": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 3,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/4483.json"
+  },
+  {
+    "id": "5580-sayili-kanun",
+    "title": "5580 sayılı Özel Öğretim Kurumları Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "meb-legislation",
+    "sort_order": 3,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/5580-sayili-kanun.json"
+  },
+  {
+    "id": "5442-sayili-kanun",
+    "title": "5442 Sayılı İl İdaresi Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 4,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/5442.json"
+  },
+  {
+    "id": "4982-sayili-kanun",
+    "title": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 5,
+    "created_at": "2026-08-04T09:30:18.950992+00:00",
+    "updated_at": "2026-08-04T09:30:18.950992+00:00",
+    "source_file": "cards/4982.json"
+  },
+  {
+    "id": "2886-sayili-kanun",
+    "title": "2886 Sayılı Devlet İhale Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 6,
+    "created_at": "2026-08-18T21:18:07.357531+00:00",
+    "updated_at": "2026-08-18T21:18:07.357531+00:00",
+    "source_file": "cards/2886.json"
+  },
+  {
+    "id": "yonetim-liderlik",
+    "title": "Yönetim, Liderlik ve Organizasyon",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 7,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/yonetim-liderlik.json"
+  },
+  {
+    "id": "4688-sayili-kanun",
+    "title": "4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 7,
+    "created_at": "2026-08-18T21:18:07.357531+00:00",
+    "updated_at": "2026-08-18T21:18:07.357531+00:00",
+    "source_file": "cards/4688.json"
+  },
+  {
+    "id": "4734-sayili-kanun",
+    "title": "4734 Sayılı Kamu İhale Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 8,
+    "created_at": "2026-08-18T21:18:07.357531+00:00",
+    "updated_at": "2026-08-18T21:18:07.357531+00:00",
+    "source_file": "cards/4734.json"
+  },
+  {
+    "id": "yonetim-insan-iliskileri",
+    "title": "Yönetimde İnsan İlişkileri ve İletişim",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 8,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/yonetim-insan-iliskileri.json"
+  },
+  {
+    "id": "yonetimde-etik",
+    "title": "Yönetimde Etik",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 9,
+    "created_at": "2026-08-19T06:49:08.835785+00:00",
+    "updated_at": "2026-08-19T06:49:08.835785+00:00",
+    "source_file": "cards/yonetimde-etik.json"
+  },
+  {
+    "id": "4735-sayili-kanun",
+    "title": "4735 Sayılı Kamu İhale Sözleşmeleri Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 9,
+    "created_at": "2026-08-18T21:18:07.357531+00:00",
+    "updated_at": "2026-08-18T21:18:07.357531+00:00",
+    "source_file": "cards/4735.json"
+  },
+  {
+    "id": "5018-sayili-kanun",
+    "title": "5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 10,
+    "created_at": "2026-08-18T21:18:07.357531+00:00",
+    "updated_at": "2026-08-18T21:18:07.357531+00:00",
+    "source_file": "cards/5018.json"
+  },
+  {
+    "id": "turkce-dilbilgisi",
+    "title": "Türkçe Dilbilgisi ve Anlatım Bozuklukları",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 10,
+    "created_at": "2026-08-19T16:56:35.493682+00:00",
+    "updated_at": "2026-08-25T08:29:44.544716+00:00",
+    "source_file": "cards/turkce-dilbilgisi.json"
+  },
+  {
+    "id": "inkilap-tarihi",
+    "title": "Atatürk İlkeleri ve İnkılap Tarihi",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 11,
+    "created_at": "2026-08-19T16:56:35.493682+00:00",
+    "updated_at": "2026-08-19T19:59:53.744673+00:00",
+    "source_file": "cards/inkilap-tarihi.json"
+  },
+  {
+    "id": "652-khk",
+    "title": "652 Sayılı KHK",
+    "deck_type": "flashcard",
+    "category_id": "general-legislation",
+    "sort_order": 11,
+    "created_at": "2026-08-19T17:16:55.689884+00:00",
+    "updated_at": "2026-08-19T20:00:11.666413+00:00",
+    "source_file": "cards/652-khk.json"
+  },
+  {
+    "id": "insan-haklari-demokrasi",
+    "title": "İnsan Hakları ve Demokrasi",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 12,
+    "created_at": "2026-08-19T16:56:35.493682+00:00",
+    "updated_at": "2026-08-19T19:59:53.744673+00:00",
+    "source_file": "cards/insan-haklari-demokrasi.json"
+  },
+  {
+    "id": "protokol-kurallari",
+    "title": "Protokol Kuralları",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 13,
+    "created_at": "2026-08-19T16:56:35.493682+00:00",
+    "updated_at": "2026-08-19T19:59:53.744673+00:00",
+    "source_file": "cards/protokol-kurallari.json"
+  },
+  {
+    "id": "idare-sistemi-fc",
+    "title": "Türk İdare Sistemi",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 14,
+    "created_at": "2026-08-19T17:41:53.025186+00:00",
+    "updated_at": "2026-08-19T19:58:46.119688+00:00",
+    "source_file": "cards/idare-sistemi-fc.json"
+  },
+  {
+    "id": "genel-kultur-fc",
+    "title": "Genel Kültür",
+    "deck_type": "flashcard",
+    "category_id": "general-culture",
+    "sort_order": 15,
+    "created_at": "2026-08-19T17:13:23.160900+00:00",
+    "updated_at": "2026-08-19T19:58:46.119688+00:00",
+    "source_file": "cards/genel-kultur-fc.json"
+  }
+]

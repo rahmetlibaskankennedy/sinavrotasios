@@ -1,0 +1,3347 @@
+[
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-58-5sek",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Barış Antlaşması'nda Türkiye'nin Asya'daki doğu sınırının daha önce hangi antlaşmalarla belirlendiği kabul edilmiştir?",
+    "options": [
+      "Sevr ve Mondros Antlaşmalarıyla",
+      "Uşi ve Londra Antlaşmalarıyla",
+      "Atina ve Bükreş Antlaşmalarıyla",
+      "Versay ve Trianon Antlaşmalarıyla",
+      "Moskova ve Kars Antlaşmalarıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "Lozan'da Türkiye'nin doğu sınırının Moskova ve Kars Antlaşmalarıyla belirlenen çerçevesi kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-59-ka9b",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Antlaşması sonrasında yabancı devletlerin Türkiye'de mahkeme kurma ve yargılama ayrıcalığı hangi anlayışla bağdaşmaz?",
+    "options": [
+      "Sömürgecilik",
+      "Mandacılık",
+      "Tam bağımsızlık",
+      "Meşrutiyet",
+      "Saltanat"
+    ],
+    "answer_index": 2,
+    "explanation": "Yargı ayrıcalıklarının kaldırılması, Türkiye'nin hukukî bağımsızlığının güçlenmesini sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-6-q9x6",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Kars Antlaşması ile kesinleşen sınır aşağıdakilerden hangisidir?",
+    "options": [
+      "Türkiye'nin batı sınırı",
+      "Türkiye'nin Suriye sınırı",
+      "Türkiye'nin Irak sınırı",
+      "Türkiye'nin Boğazlar sınırı",
+      "Türkiye'nin doğu sınırı"
+    ],
+    "answer_index": 4,
+    "explanation": "Kars Antlaşması, Türkiye'nin doğu sınırını kesinleştirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-60-3um5",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Konferansı'nda çözülemeyen Musul Sorunu'nun daha sonra hangi uluslararası kuruluşta görüşülmesi öngörülmüştür?",
+    "options": [
+      "NATO'da",
+      "Avrupa Birliğinde",
+      "Birleşmiş Milletlerde",
+      "Milletler Cemiyetinde",
+      "Balkan Paktında"
+    ],
+    "answer_index": 3,
+    "explanation": "Musul Sorunu Lozan'da çözülememiş, daha sonra Milletler Cemiyetine taşınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-61-tt77",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Mudanya Ateşkes Antlaşması ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Saltanatın kaldırılmasını doğrudan sağlamıştır.",
+      "Batı Cephesi'ndeki silahlı çatışmalar sona ermiştir.",
+      "Doğu Trakya savaş yapılmadan Türkiye'ye bırakılmıştır.",
+      "Lozan Barış Konferansı'na zemin hazırlamıştır.",
+      "Türk askerî başarısının diplomatik sonucudur."
+    ],
+    "answer_index": 0,
+    "explanation": "Mudanya Ateşkesi Lozan'a zemin hazırlamış, ancak saltanat 1 Kasım 1922'de TBMM kararıyla kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-62-7nmw",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Antlaşması'nda Türkiye'deki gayrimüslimlerin statüsü hangi esasla düzenlenmiştir?",
+    "options": [
+      "Ayrı bir devlet kurmaları",
+      "Türk vatandaşı olmaları ve kanun önünde eşitlik",
+      "Yabancı devletlerin korumasına girmeleri",
+      "Sadece dinî mahkemelerde yargılanmaları",
+      "Siyasi ayrıcalık kazanmaları"
+    ],
+    "answer_index": 1,
+    "explanation": "Lozan'da azınlıklar Türkiye Cumhuriyeti vatandaşı kabul edilmiş ve kanun önünde eşitlik esası benimsenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-63-hgdp",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Antlaşması'nda Türkiye'de kalan Ege adalarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Bozcaada",
+      "Rodos",
+      "Midilli",
+      "Sakız",
+      "Sisam"
+    ],
+    "answer_index": 0,
+    "explanation": "Lozan Antlaşması'nda Bozcaada ve Gökçeada Türkiye'de kalmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-64-4d3l",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Antlaşması ile kurulan Boğazlar Komisyonu hangi sözleşmeyle kaldırılmıştır?",
+    "options": [
+      "Mudanya Ateşkes Antlaşması",
+      "Montrö Boğazlar Sözleşmesi",
+      "Moskova Antlaşması",
+      "Ankara Antlaşması",
+      "Uşi Antlaşması"
+    ],
+    "answer_index": 1,
+    "explanation": "Boğazlar Komisyonu, 1936 Montrö Boğazlar Sözleşmesi ile kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-65-ur5t",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Barış Antlaşması'nda Fener Rum Patrikhanesiyle ilgili aşağıdaki bilgilerden hangisi YANLIŞTIR?",
+    "options": [
+      "Patrikhane İstanbul'da kalmıştır.",
+      "Patrikhaneye siyasi ayrıcalık tanınmamıştır.",
+      "Patrikhane Türkiye dışında siyasi bir otorite olarak kabul edilmiştir.",
+      "Patrikhane Türkiye'nin hukuk düzeni içinde değerlendirilmiştir.",
+      "Patrikhane meselesi Türkiye'nin iç düzeniyle bağlantılı ele alınmıştır."
+    ],
+    "answer_index": 2,
+    "explanation": "Lozan görüşmelerinde Patrikhaneye Türkiye dışında veya Türkiye içinde siyasi bir otorite niteliği tanınmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-66-alxb",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Lozan Barış Antlaşması'nda çözüme kavuşturulan konulardan biri DEĞİLDİR?",
+    "options": [
+      "Kapitülasyonların kaldırılması",
+      "Savaş tazminatı olarak Karaağaç'ın Türkiye'ye bırakılması",
+      "Nüfus mübadelesi esasının kabulü",
+      "Hatay'ın Türkiye'ye katılması",
+      "Azınlıkların Türk vatandaşı sayılması"
+    ],
+    "answer_index": 3,
+    "explanation": "Hatay Lozan'da Türkiye'ye katılmamıştır; 1939'da Türkiye'ye katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-67-thu3",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki devletlerden hangisi Lozan Barış Antlaşması'nın taraflarından biri DEĞİLDİR?",
+    "options": [
+      "Türkiye",
+      "İngiltere",
+      "Fransa",
+      "İtalya",
+      "Sovyet Rusya"
+    ],
+    "answer_index": 4,
+    "explanation": "Sovyet Rusya, Boğazlar görüşmelerine katılmış olsa da Lozan Barış Antlaşması'nın taraflarından değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-7-r13t",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Gümrü Antlaşması ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Doğu Cephesi'ndeki başarıdan sonra imzalanmıştır.",
+      "TBMM'nin ilk uluslararası antlaşmasıdır.",
+      "TBMM ile Fransa arasında imzalanmıştır.",
+      "Ermenistan ile yapılmıştır.",
+      "TBMM'nin siyasal saygınlığını artırmıştır."
+    ],
+    "answer_index": 2,
+    "explanation": "Gümrü Antlaşması Fransa ile değil, Ermenistan ile imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-8-66ny",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Moskova Antlaşması ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Sovyet Rusya TBMM Hükûmetini tanımıştır.",
+      "Sovyet Rusya TBMM'ye yardım yapmayı kabul etmiştir.",
+      "İki taraf emperyalizme karşı iş birliği yapmıştır.",
+      "Doğu sınırıyla ilgili esaslar belirlenmiştir.",
+      "TBMM Hükûmeti kapitülasyonların sürmesini kabul etmiştir."
+    ],
+    "answer_index": 4,
+    "explanation": "Moskova Antlaşması'nda kapitülasyonların sürmesi değil, tarafların eşitliği ve iş birliği esas alınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypj-9-z84k",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Kars Antlaşması ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Türkiye'nin doğu sınırını kesinleştirmiştir.",
+      "Kafkas cumhuriyetleriyle imzalanmıştır.",
+      "Antlaşma yalnızca TBMM Hükûmeti ile İngiltere arasında yapılmıştır.",
+      "Moskova Antlaşması'nın hükümlerini tamamlamıştır.",
+      "Doğu Cephesi'ndeki güvenliği pekiştirmiştir."
+    ],
+    "answer_index": 2,
+    "explanation": "Kars Antlaşması İngiltere ile değil; TBMM, Ermenistan, Azerbaycan ve Gürcistan arasında imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-68-bm2v",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdakilerden hangisi Mudanya Ateşkes Antlaşması'nın sonuçlarından biri DEĞİLDİR?",
+    "options": [
+      "Silahlı çatışmaların sona ermesi",
+      "Doğu Trakya'nın Türkiye'ye bırakılması",
+      "Lozan Konferansı'na ortam hazırlanması",
+      "Türkiye'nin doğu sınırının kesinleşmesi",
+      "Türk tarafının diplomatik üstünlük kazanması"
+    ],
+    "answer_index": 3,
+    "explanation": "Türkiye'nin doğu sınırı Kars Antlaşması ile kesinleşmiştir; Mudanya Batı Cephesi'ndeki savaşı sona erdirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-69-od8o",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Sevr Antlaşması'nın hukuken yürürlüğe girmemesinde Osmanlı devlet sistemi bakımından hangi eksiklik etkili olmuştur?",
+    "options": [
+      "TBMM tarafından onaylanması",
+      "İngiltere'nin imzalamaması",
+      "Rusya'nın savaşa girmesi",
+      "Yunanistan'ın çekilmesi",
+      "Mebusan Meclisi tarafından onaylanmamış olması"
+    ],
+    "answer_index": 4,
+    "explanation": "Sevr Antlaşması Mebusan Meclisi tarafından onaylanmadığı için hukukî bakımdan yürürlüğe girmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-70-vtd4",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? - - - - Ateşkes Antlaşması ile Doğu Trakya savaş yapılmadan Türkiye'ye bırakılmış, - - - - Barış Antlaşması ile kapitülasyonlar kaldırılmıştır.",
+    "options": [
+      "Mondros / Sevr",
+      "Mudanya / Lozan",
+      "Uşi / Londra",
+      "Gümrü / Kars",
+      "Ankara / Moskova"
+    ],
+    "answer_index": 1,
+    "explanation": "Mudanya Doğu Trakya'nın teslimini, Lozan ise kapitülasyonların kaldırılmasını sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-71-u1nt",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Karaağaç'ın Türkiye'ye bırakılması, Edirne'nin hangi yönünde Türkiye'nin toprak bütünlüğünü güçlendirmiştir?",
+    "options": [
+      "Doğusunda",
+      "Kuzeyinde",
+      "Batısında",
+      "Güneyinde",
+      "İç kesimlerinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Karaağaç, Edirne'nin batısında yer alır ve Lozan'da savaş tazminatı olarak Türkiye'ye bırakılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-72-801k",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Türk-Yunan nüfus mübadelesinde İstanbul Rumları ile Batı Trakya Türklerinin kapsam dışında tutulması hangi ilkeye örnektir?",
+    "options": [
+      "Karşılıklı istisna uygulanmasına",
+      "Zorunlu askerlik sistemine",
+      "Kapitülasyonlara",
+      "Mandater yönetime",
+      "Sınır düzeltmesine"
+    ],
+    "answer_index": 0,
+    "explanation": "Mübadelede İstanbul Rumları ve Batı Trakya Türkleri karşılıklı istisna kapsamında bırakılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-73-g63c",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Lozan Barış Antlaşması'nın Türkiye açısından uluslararası hukuk bakımından temel sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      "Osmanlı saltanatının yeniden kurulması",
+      "Yabancı mandanın kabul edilmesi",
+      "Yeni Türk devletinin bağımsızlığının tanınması",
+      "Balkan İttifakına katılma",
+      "Trablusgarp'ın geri alınması"
+    ],
+    "answer_index": 2,
+    "explanation": "Lozan Antlaşması, Türkiye Cumhuriyeti'nin bağımsız ve egemen bir devlet olarak uluslararası alanda tanınmasını sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-74-2fve",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Aşağıdaki olayların gerçekleşme sırası hangi seçenekte doğru verilmiştir? I. Mudanya Ateşkes Antlaşması II. Saltanatın kaldırılması III. Lozan Barış Antlaşması",
+    "options": [
+      "I - II - III",
+      "I - III - II",
+      "II - I - III",
+      "II - III - I",
+      "III - I - II"
+    ],
+    "answer_index": 0,
+    "explanation": "Mudanya Ekim 1922'de, saltanatın kaldırılması Kasım 1922'de, Lozan Barış Antlaşması Temmuz 1923'te gerçekleşmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-75-x4jq",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Bir devletin başka bir devletin vatandaşlarını karşılıklı olarak kendi ülkelerine göndermesi uygulaması aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "options": [
+      "Kapitülasyon",
+      "Mütareke",
+      "Mandacılık",
+      "Seferberlik",
+      "Nüfus mübadelesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Nüfus mübadelesi, iki devletin anlaşarak belirli nüfus gruplarını karşılıklı yer değiştirmesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54-mt9sgypk-76-g0v9",
+    "topic_id": "t-kurtulus-savasi-cepheleri-ve-antlasmalar-tyj54",
+    "prompt": "Bir devletin yabancı devlet vatandaşlarına kendi ülkesinde hukukî ve ekonomik ayrıcalık tanıması uygulaması aşağıdakilerden hangisidir?",
+    "options": [
+      "mütareke",
+      "Kapitülasyon",
+      "seferberlik",
+      "milliyetçilik",
+      "sömürgecilik"
+    ],
+    "answer_index": 1,
+    "explanation": "Kapitülasyonlar, yabancı devletlere ve vatandaşlarına tanınan hukukî-ekonomik ayrıcalıklardır; Lozan'da kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:16.337854+00:00",
+    "updated_at": "2026-08-26T07:45:16.337854+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-0-ckw0",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Mustafa Kemal Paşa'nın Samsun'a ulaşırken kullandığı vapur aşağıdakilerden hangisidir?",
+    "options": [
+      "Gülcemal Vapuru",
+      "Bandırma Vapuru",
+      "Hamidiye Kruvazörü",
+      "Yavuz Zırhlısı",
+      "Nusret Mayın Gemisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Mustafa Kemal Paşa, 16 Mayıs'ta İstanbul'dan Bandırma Vapuru ile ayrılmış ve 19 Mayıs 1919'da Samsun'a ulaşmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-1-qtbm",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Havza Genelgesi'nin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Saltanatı kaldırmak",
+      "TBMM'yi açmak",
+      "İzmir'in işgalini protesto etmek için mitingler düzenlenmesini sağlamak",
+      "Sevr Antlaşması'nı imzalamak",
+      "Kapitülasyonları kaldırmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Havza Genelgesi ile işgallere karşı mitingler yapılması ve protesto telgrafları çekilmesi istenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-10-knhb",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi sonrasında İstanbul Hükûmeti'nin istifa etmesinde hangi araçla kurulan baskı etkili olmuştur?",
+    "options": [
+      "Telgraf haberleşmesinin kesilmesiyle",
+      "Boğazların kapatılmasıyla",
+      "Yunan ordusunun yenilmesiyle",
+      "Meclisin açılmasıyla",
+      "Mondros Ateşkesi'nin kaldırılmasıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Temsil Heyeti, İstanbul Hükûmeti ile telgraf haberleşmesini keserek Damat Ferid Paşa Hükûmeti üzerinde baskı kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-11-o0y3",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi'nde Batı Cephesi Kuva-yı Milliye Komutanlığına atanan kişi aşağıdakilerden hangisidir?",
+    "options": [
+      "Halil Kut",
+      "Liman von Sanders",
+      "Damat Ferit Paşa",
+      "Salih Paşa",
+      "Ali Fuat Cebesoy"
+    ],
+    "answer_index": 4,
+    "explanation": "Sivas Kongresi'nde Ali Fuat Cebesoy, Batı Cephesi Kuva-yı Milliye Komutanlığına atanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-12-me0u",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Görüşmeleri hangi tarihler arasında yapılmıştır?",
+    "options": [
+      "23 Temmuz - 7 Ağustos 1919",
+      "20 - 22 Ekim 1919",
+      "4 - 11 Eylül 1919",
+      "12 - 28 Ocak 1920",
+      "16 - 19 Mart 1920"
+    ],
+    "answer_index": 1,
+    "explanation": "Amasya Görüşmeleri 20-22 Ekim 1919 tarihleri arasında yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-13-c1c2",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Heyet-i Temsiliye'nin Ankara'ya ulaştığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "19 Mayıs 1919",
+      "22 Haziran 1919",
+      "4 Eylül 1919",
+      "27 Aralık 1919",
+      "23 Nisan 1920"
+    ],
+    "answer_index": 3,
+    "explanation": "Heyet-i Temsiliye 27 Aralık 1919'da Ankara'ya gelmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-14-u7uc",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Mustafa Kemal'in askerlik görevinden istifa etmesi, Millî Mücadele açısından aşağıdakilerden hangisini sağlamıştır?",
+    "options": [
+      "İstanbul Hükûmeti adına görev yapmasını",
+      "Sivil bir lider olarak mücadeleyi yürütmesini",
+      "İtilaf Devletlerinin temsilcisi olmasını",
+      "Saltanatın başına geçmesini",
+      "Savaştan çekilmesini"
+    ],
+    "answer_index": 1,
+    "explanation": "Mustafa Kemal askerlik görevinden ayrılarak Millî Mücadele'yi sivil bir lider olarak sürdürmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-15-ug3p",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Genelgesi'nde yapılması kararlaştırılan genel kongrenin toplanacağı yer aşağıdakilerden hangisidir?",
+    "options": [
+      "Erzurum",
+      "Ankara",
+      "İstanbul",
+      "Sivas",
+      "Havza"
+    ],
+    "answer_index": 3,
+    "explanation": "Amasya Genelgesi'nde ulusal kongrenin Sivas'ta toplanması kararlaştırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-16-uy0j",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Havza Genelgesi ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Manda ve himaye düşüncesi kabul edilmiştir.",
+      "İşgallere karşı protesto mitingleri yapılması istenmiştir.",
+      "İzmir'in işgali kamuoyuna duyurulmuştur.",
+      "İstanbul Hükûmetine protesto telgrafları çekilmesi istenmiştir.",
+      "Millî bilincin uyandırılması amaçlanmıştır."
+    ],
+    "answer_index": 0,
+    "explanation": "Havza Genelgesi, işgallere karşı kamuoyu oluşturmayı amaçlamış; manda ve himaye kabulü içermemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-17-q14a",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Erzurum Kongresi'nde yabancı devletlerin koruyuculuğunun kabul edilemeyeceği kararı hangi düşünceyi güçlendirmiştir?",
+    "options": [
+      "Sömürgecilik",
+      "Meşrutiyet",
+      "Mandacılık",
+      "Saltanatçılık",
+      "Tam bağımsızlık"
+    ],
+    "answer_index": 4,
+    "explanation": "Manda ve himayenin reddi, Millî Mücadele'nin tam bağımsızlık hedefini ortaya koyar.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-18-u7q0",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi'nde alınan kararların uygulanmasını sağlamak üzere yetkileri genişletilen kurul aşağıdakilerden hangisidir?",
+    "options": [
+      "Meclis-i Mebusan",
+      "Ayan Meclisi",
+      "Heyet-i Temsiliye",
+      "Kuva-yı İnzibatiye",
+      "İcra Vekilleri Heyeti"
+    ],
+    "answer_index": 2,
+    "explanation": "Sivas Kongresi, Heyet-i Temsiliye'nin yetkilerini genişleterek onu ulusal hareketin yürütme organı hâline getirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-19-0ug9",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Görüşmeleri'nde seçimlerin yapılması konusunda uzlaşılması, hangi meclisin yeniden açılmasına zemin hazırlamıştır?",
+    "options": [
+      "TBMM'nin",
+      "Ayan Meclisinin",
+      "Meclis-i Vükelânın",
+      "İstiklal Mahkemelerinin",
+      "Son Osmanlı Mebusan Meclisinin"
+    ],
+    "answer_index": 4,
+    "explanation": "Amasya Görüşmeleri sonrasında seçimler yapılmış ve Son Osmanlı Mebusan Meclisi İstanbul'da toplanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-2-987v",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Genelgesi'nin yayımlandığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "19 Mayıs 1919",
+      "23 Nisan 1920",
+      "20 Ocak 1921",
+      "22 Haziran 1919",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 3,
+    "explanation": "Amasya Genelgesi 22 Haziran 1919'da yayımlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-20-uu6l",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdaki gelişmelerden hangisi, Millî Mücadele'nin örgütlü hâle gelmesinde dönüm noktası oluşturmuştur?",
+    "options": [
+      "Mondros Ateşkes Antlaşması'nın imzalanması",
+      "Uşi Antlaşması'nın yapılması",
+      "Sivas Kongresi'nde yararlı cemiyetlerin birleştirilmesi",
+      "Balkan İttifakı'nın kurulması",
+      "Brest-Litovsk Antlaşması'nın imzalanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Yararlı cemiyetlerin tek çatı altında birleşmesi, Millî Mücadele'nin örgütlenmesini güçlendirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-21-p7bp",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Havza Genelgesi'nin yayımlanmasından sonra halktan istenen başlıca davranış aşağıdakilerden hangisidir?",
+    "options": [
+      "Düzenli orduyu dağıtmak",
+      "İstanbul Hükûmetini desteklemek",
+      "Vergileri artırmak",
+      "İşgalleri protesto eden mitingler düzenlemek",
+      "Saltanatı kaldırmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Havza Genelgesi ile işgalleri protesto eden miting ve telgrafların düzenlenmesi istenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-22-lhm1",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Erzurum Kongresi'nde “Kuva-yı Milliye'yi - - - - ve millî iradeyi - - - - esastır.” kararı alınmıştır.",
+    "options": [
+      "etkin kılmak / hâkim kılmak",
+      "dağıtmak / kaldırmak",
+      "silahsızlandırmak / sınırlandırmak",
+      "dışlamak / ertelemek",
+      "bölmek / zayıflatmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Erzurum Kongresi, Kuva-yı Milliye'nin etkin kılınmasını ve millî iradenin hâkim olmasını esas almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-23-sjlq",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi'nin yayın organı olarak çıkarılan gazete aşağıdakilerden hangisidir?",
+    "options": [
+      "Hâkimiyet-i Milliye",
+      "İrade-i Milliye",
+      "Tasvir-i Efkâr",
+      "Ceride-i Havadis",
+      "Takvim-i Vekayi"
+    ],
+    "answer_index": 1,
+    "explanation": "İrade-i Milliye gazetesi Sivas Kongresi sonrasında millî hareketin görüşlerini duyurmak amacıyla çıkarılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-24-th0d",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Genelgesi'nin ulusal kongre çağrısı yapması, Millî Mücadele'nin hangi yönünü göstermektedir?",
+    "options": [
+      "Örgütlenmeye önem verdiğini",
+      "İşgalleri kabul ettiğini",
+      "Saltanatı güçlendirdiğini",
+      "Savaşın bittiğini",
+      "Yabancı himayesini benimsediğini"
+    ],
+    "answer_index": 0,
+    "explanation": "Genel kongre çağrısı, Millî Mücadele'nin ulusal ölçekte örgütlenme hedefini ortaya koyar.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-25-0rcb",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi kaç gün sürmüştür?",
+    "options": [
+      "Altı gün",
+      "Üç gün",
+      "Dört gün",
+      "Sekiz gün",
+      "On gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Sivas Kongresi 4-11 Eylül 1919 tarihleri arasında altı gün sürmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-26-460e",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdaki olayların gerçekleşme sırası hangi seçenekte doğru verilmiştir? I. Havza Genelgesi II. Amasya Genelgesi III. Erzurum Kongresi",
+    "options": [
+      "I - III - II",
+      "II - I - III",
+      "I - II - III",
+      "II - III - I",
+      "III - I - II"
+    ],
+    "answer_index": 2,
+    "explanation": "Havza Genelgesi Mayıs 1919'da, Amasya Genelgesi Haziran 1919'da, Erzurum Kongresi Temmuz-Ağustos 1919'da gerçekleşmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-27-8d9m",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Heyet-i Temsiliye'nin kuruluş amacını en iyi açıklar?",
+    "options": [
+      "İtilaf Devletleri adına işgalleri düzenlemek",
+      "Saltanat adına vergileri toplamak",
+      "Balkan devletleriyle ittifak kurmak",
+      "Millî Mücadele'yi yürütmek ve millet adına karar almak",
+      "Osmanlı ordusunu dağıtmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Heyet-i Temsiliye, Millî Mücadele'yi yürütmek ve millet adına temsil görevi yapmak üzere oluşturulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-28-2qyc",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi'nde manda ve himaye tartışmalarının reddedilmesi, aşağıdaki hedeflerden hangisinin öncelendiğini gösterir?",
+    "options": [
+      "Yabancı yönetimi kabul etme",
+      "Balkan devletleriyle birleşme",
+      "Saltanatı genişletme",
+      "İtilaf Devletlerine katılma",
+      "Bağımsız devlet kurma"
+    ],
+    "answer_index": 4,
+    "explanation": "Manda ve himayenin reddi, bağımsızlık fikrinin temel hedef olduğunu gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-29-w5or",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Ankara'nın Heyet-i Temsiliye merkezi seçilmesinde demiryolu bağlantısının etkili olması, aşağıdakilerden hangisini kolaylaştırmıştır?",
+    "options": [
+      "Deniz ticaretini",
+      "Boğaz savunmasını",
+      "Ege adalarının yönetimini",
+      "Haberleşme ve ulaşımı",
+      "Kapitülasyonların uygulanmasını"
+    ],
+    "answer_index": 3,
+    "explanation": "Ankara'nın demiryolu ağı üzerinde bulunması, haberleşme ve ulaşım bakımından avantaj sağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-3-pnjj",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Havza Genelgesi ile Amasya Genelgesi arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      "Havza Genelgesi'nin kongre çağrısı yapması",
+      "Amasya Genelgesi'nin işgalleri desteklemesi",
+      "Havza Genelgesi'nin saltanatı kaldırması",
+      "Amasya Genelgesi'nin ateşkes imzalaması",
+      "Amasya Genelgesi'nin Millî Mücadele'nin yöntemini ve programını açıklaması"
+    ],
+    "answer_index": 4,
+    "explanation": "Havza Genelgesi protesto mitinglerini örgütlerken, Amasya Genelgesi mücadelenin gerekçe, amaç ve yöntemini ortaya koymuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-30-2qiz",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Millî Mücadele hazırlık döneminde alınan kararların ortak özelliği değildir?",
+    "options": [
+      "Millî iradeyi öne çıkarmaları",
+      "Vatanın bütünlüğünü savunmaları",
+      "Bağımsızlık hedefini benimsemeleri",
+      "Mücadeleyi örgütlemeyi amaçlamaları",
+      "İşgalleri kabul ederek yabancı yönetim altına girmeyi öngörmeleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Genelgeler ve kongrelerde işgaller kabul edilmemiş, bağımsızlık ve millî irade savunulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-31-u66m",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Amasya Genelgesi ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Vatanın bütünlüğünün tehlikede olduğu belirtilmiştir.",
+      "İstanbul Hükûmetinin millî iradeyi temsil ettiği kabul edilmiştir.",
+      "Millî Mücadele'nin ulusal bir kongreyle örgütlenmesi istenmiştir.",
+      "Kurtuluşun milletin azim ve kararına bağlı olduğu vurgulanmıştır.",
+      "Millî bir kurul oluşturulması gerektiği belirtilmiştir."
+    ],
+    "answer_index": 1,
+    "explanation": "Amasya Genelgesi, İstanbul Hükûmetinin sorumluluğunu yerine getiremediğini belirterek millî iradeyi öne çıkarmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-32-3ijw",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Batı Anadolu'da işgallere karşı toplanan bölgesel kongrelerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Berlin Kongresi",
+      "Lozan Konferansı",
+      "Balıkesir Kongresi",
+      "Paris Barış Konferansı",
+      "San Remo Konferansı"
+    ],
+    "answer_index": 2,
+    "explanation": "Balıkesir Kongresi, Batı Anadolu'da Yunan işgaline karşı yapılan bölgesel kongrelerden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-33-k6sr",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Görüşmeleri sonrasında İstanbul Hükûmeti ile millî hareket arasındaki ilişkilerin geçici olarak yumuşamasında etkili olan hükûmet aşağıdakilerden hangisidir?",
+    "options": [
+      "Ali Rıza Paşa Hükûmeti",
+      "Damat Ferid Paşa Hükûmeti",
+      "Talat Paşa Hükûmeti",
+      "Ahmet İzzet Paşa Hükûmeti",
+      "Tevfik Paşa Hükûmeti"
+    ],
+    "answer_index": 0,
+    "explanation": "Amasya Görüşmeleri, Ali Rıza Paşa Hükûmeti döneminde yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-34-r96d",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Mustafa Kemal'in Millî Mücadele hazırlık dönemindeki liderlik rolünü en iyi açıklar?",
+    "options": [
+      "İtilaf Devletleri adına işgalleri yönetmesi",
+      "Saltanatın temsilcisi olarak manda istemesi",
+      "Genelgeler ve kongrelerle ulusal direnişi ortak hedef etrafında örgütlemesi",
+      "Balkan İttifakı'nı yeniden kurması",
+      "Mondros Ateşkes Antlaşması'nı imzalaması"
+    ],
+    "answer_index": 2,
+    "explanation": "Mustafa Kemal, genelgeler ve kongreler aracılığıyla yerel direnişleri ortak bir millî mücadele programında birleştirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-35-9729",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Aşağıdakilerden hangisi Heyet-i Temsiliye ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "İlk kez Sivas Kongresi'nde oluşturulmuştur.",
+      "İlk kez Erzurum Kongresi'nde oluşturulmuştur.",
+      "Sivas Kongresi'nde yetkileri genişletilmiştir.",
+      "Millî Mücadele'yi yürütmek üzere görevlendirilmiştir.",
+      "Başkanlığına Mustafa Kemal seçilmiştir."
+    ],
+    "answer_index": 0,
+    "explanation": "Heyet-i Temsiliye ilk kez Erzurum Kongresi'nde oluşturulmuş, Sivas Kongresi'nde yetkileri genişletilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-4-h5aq",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Amasya Genelgesi'nde Millî Mücadele'nin gerekçesi olarak aşağıdakilerden hangisi gösterilmiştir?",
+    "options": [
+      "Osmanlı Devleti'nin savaşı kazanmış olması",
+      "Kapitülasyonların kaldırılmış olması",
+      "Balkan devletleriyle ittifak kurulması",
+      "Vatanın bütünlüğü ve milletin bağımsızlığının tehlikede olması",
+      "Boğazların Türk yönetimine bırakılması"
+    ],
+    "answer_index": 3,
+    "explanation": "Amasya Genelgesi, vatanın bütünlüğü ve milletin istiklalinin tehlikede olduğunu belirtmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-5-6r5d",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Erzurum Kongresi'nin toplanmasında etkili olan cemiyetler aşağıdakilerden hangisidir?",
+    "options": [
+      "Reddi İlhak Cemiyeti ile Mavri Mira Cemiyeti",
+      "Kilikyalılar Cemiyeti ile İngiliz Muhipleri Cemiyeti",
+      "Hürriyet ve İtilaf Fırkası ile Wilson Prensipleri Cemiyeti",
+      "İttihat ve Terakki Cemiyeti ile Teali İslam Cemiyeti",
+      "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti ile Trabzon Muhafaza-i Hukuk Cemiyeti"
+    ],
+    "answer_index": 4,
+    "explanation": "Erzurum Kongresi, Doğu Anadolu Müdafaa-i Hukuk Cemiyeti ile Trabzon Muhafaza-i Hukuk Cemiyetinin girişimiyle toplanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-6-iimm",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Erzurum Kongresi hangi tarihler arasında toplanmıştır?",
+    "options": [
+      "19 Mayıs - 12 Haziran 1919",
+      "23 Temmuz - 7 Ağustos 1919",
+      "4 - 11 Eylül 1919",
+      "20 - 22 Ekim 1919",
+      "12 - 28 Ocak 1920"
+    ],
+    "answer_index": 1,
+    "explanation": "Erzurum Kongresi 23 Temmuz-7 Ağustos 1919 tarihleri arasında toplanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-7-y5w8",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Erzurum Kongresi'ni toplamak için çalışan Doğu Anadolu'daki millî cemiyet aşağıdakilerden hangisidir?",
+    "options": [
+      "Reddi İlhak Cemiyeti",
+      "Kilikyalılar Cemiyeti",
+      "Şarkî Anadolu Müdafaa-i Hukuk Cemiyeti",
+      "Trakya Paşaeli Cemiyeti",
+      "Millî Kongre Cemiyeti"
+    ],
+    "answer_index": 2,
+    "explanation": "Erzurum Kongresi'nin toplanmasında Şarkî Anadolu Müdafaa-i Hukuk Cemiyeti etkili olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-8-suyn",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi hangi tarihler arasında yapılmıştır?",
+    "options": [
+      "4 - 11 Eylül 1919",
+      "23 Temmuz - 7 Ağustos 1919",
+      "19 - 28 Mayıs 1919",
+      "20 - 22 Ekim 1919",
+      "12 - 28 Ocak 1920"
+    ],
+    "answer_index": 0,
+    "explanation": "Sivas Kongresi 4-11 Eylül 1919'da gerçekleştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg-mt9sgdet-9-235j",
+    "topic_id": "t-kurtulus-savasi-hazirlik-donemi-ty5qg",
+    "prompt": "Sivas Kongresi'nde tüm yararlı cemiyetlerin birleştirilmesiyle ortaya çıkan örgütün adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Teşkilat-ı Mahsusa",
+      "Kuva-yı İnzibatiye",
+      "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "Hürriyet ve İtilaf Fırkası",
+      "İttihat ve Terakki Cemiyeti"
+    ],
+    "answer_index": 2,
+    "explanation": "Sivas Kongresi'nde yararlı cemiyetler Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:48.715667+00:00",
+    "updated_at": "2026-08-26T07:44:48.715667+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-0-7to2",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre sendikalar hangi esasa göre kurulur?",
+    "options": [
+      "Hizmet kolu esasına göre",
+      "Kurum esasına göre",
+      "İşyeri esasına göre",
+      "Meslek esasına göre",
+      "Coğrafi bölge esasına göre"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 4'e göre sendikalar, hizmet kolu esasına göre, Türkiye çapında faaliyette bulunmak amacıyla bir hizmet kolundaki kamu işyerlerinde çalışan kamu görevlileri tarafından kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-1-ubk0",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre bir hizmet kolunda kaç sendika kurulabilir?",
+    "options": [
+      "Konfederasyon izniyle kurulabilir",
+      "En fazla beş sendika kurulabilir",
+      "Birden fazla sendika kurulabilir",
+      "En fazla üç sendika kurulabilir",
+      "Yalnızca bir sendika kurulabilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4'ün ikinci fıkrasına göre bir hizmet kolunda birden fazla sendika kurulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-10-c6n0",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre sendika ve konfederasyon, hangi işlemle tüzel kişilik kazanır?",
+    "options": [
+      "400 üyeye ulaşılmasıyla",
+      "Tüzük ve belgelerin ilgili valiliğe verilmesiyle",
+      "Resmî Gazete'de ilan edilmesiyle",
+      "İlk genel kurulun yapılmasıyla",
+      "Bakanlıktan onay alınmasıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6'ya göre kuruluşa ilişkin belge ve tüzüklerin ilgili valiliğe verilmesiyle sendika veya konfederasyon tüzel kişilik kazanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-11-mawc",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre valilik, sendika kuruluş belgeleri ve tüzüğün birer örneğini kaç işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
+    "options": [
+      "10 işgünü",
+      "5 işgünü",
+      "30 işgünü",
+      "60 işgünü",
+      "15 işgünü"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 6'nın altıncı fıkrasına göre valilik, tüzük ve belgelerin birer örneğini onbeş işgünü içinde Bakanlığa gönderir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-12-0q8o",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, tüzük veya belgelerde Kanun'a aykırılık ya da eksiklik tespit edilirse, ilgili valilik eksikliklerin ........... içinde tamamlanmasını ister.",
+    "options": [
+      "3 ay",
+      "2 ay",
+      "6 ay",
+      "1 ay",
+      "15 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 6'nın ilgili fıkrasına göre valilik, tüzük veya belgelerde tespit ettiği Kanun'a aykırılık ya da eksikliklerin giderilmesi için bir ay süre verir; bu süre içinde eksiklikler tamamlanmaz veya aykırılık giderilmezse ilgili valilik, faaliyetin durdurulması için bir ay içinde iş mahkemesine başvurur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-13-fcv7",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, Kanun'a aykırılığın ya da eksikliğin giderilmesi için mahkeme ........... bir süre verir.",
+    "options": [
+      "60 günü aşmayan",
+      "3 ayı aşmayan",
+      "45 günü aşmayan",
+      "30 günü aşmayan",
+      "6 ayı aşmayan"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6'nın sekizinci fıkrasına göre mahkeme, Kanun'a aykırılığın veya eksikliğin giderilmesi için altmış günü aşmayan bir süre verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-14-siuu",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, mahkemece verilen süre sonunda tüzük ve belgeler Kanun'a uygun hâle getirilmezse ne olur?",
+    "options": [
+      "Genel kurul yenilenir ve yeni yönetim seçilir",
+      "Yalnızca para cezası uygulanır, faaliyet devam eder",
+      "Valilik yeniden süre verir, ek bir ay tanınır",
+      "Sendika veya konfederasyonun kapatılmasına karar verilir",
+      "Faaliyetleri bir yıl daha askıya alınır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 6'nın sekizinci fıkrasına göre mahkeme, verilen süre sonunda tüzük ve belgeler uygun hâle getirilmemişse sendika veya konfederasyonun kapatılmasına karar verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-15-7d6f",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar için birer bilgi kaydı tutmakla görevli kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Devlet Personel Başkanlığı",
+      "Sayıştay",
+      "İlgili Valilik",
+      "Danıştay",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 6'nın dokuzuncu fıkrasına göre Çalışma ve Sosyal Güvenlik Bakanlığı, sendika ve konfederasyonlar için birer bilgi kaydı tutar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-16-6a4c",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, konfederasyon kurucularının konfederasyon tüzüğü ile kurucular kurulu kararını ve ilk genel kurula kadar sevk ve idare edeceklerin isimlerini vermesi gereken merci neresidir?",
+    "options": [
+      "Konfederasyon merkezinin bulunacağı ilin valiliği",
+      "Danıştay, ilk derece mahkemesi sıfatıyla",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Cumhurbaşkanlığı, ilgili genel müdürlüğü aracılığıyla",
+      "Devlet Personel Başkanlığı, ilgili birimi aracılığıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6'nın dördüncü fıkrasına göre bu belgeler, konfederasyon merkezinin bulunacağı ilin valiliğine verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-17-wtj1",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyon tüzüklerinde aşağıdakilerden hangisinin belirtilmesi zorunlu değildir?",
+    "options": [
+      "Sendikanın faaliyet göstereceği hizmet kolu",
+      "Sendika veya konfederasyonun dış denetim usulü",
+      "Demirbaşların satış ve terkininde uygulanacak usul ve esaslar",
+      "Sendika veya konfederasyonun adı, merkezi ve adresi",
+      "Üyelik ödentisinin oranı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7'de sayılan zorunlu tüzük hususları arasında iç denetim usulü yer alır (7/l); dış denetim usulü diye bir zorunluluk yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-18-yfkg",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre aşağıdakilerden hangisi tüzükte yer alması zorunlu hususlardan biri değildir?",
+    "options": [
+      "Sendika üyelerinin siyasi parti üyeliğine ilişkin esaslar",
+      "Genel kurul delegelerinin belirlenmesi usulü",
+      "Sendika veya konfederasyona üyelik koşulları, üyelikten çıkma ve çıkarılmanın usul ve esasları",
+      "Genel kurulun görev ve yetkileri ile karar alma usul ve yeter sayıları",
+      "Üyelik ödentisinin oranı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7'de tüzükte bulunması zorunlu hususlar arasında sendika üyelerinin siyasi parti üyeliğine ilişkin bir düzenleme yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-19-6oz0",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika veya konfederasyonun feshi, kendiliğinden dağılması veya mahkeme kararıyla kapatılması hâlinde mal varlığının tasfiye usulü nerede belirtilmesi zorunludur?",
+    "options": [
+      "Bakanlık yönetmeliğinde",
+      "Tüzükte",
+      "Resmî Gazete ilanında",
+      "Genel kurul kararında",
+      "Valilik kayıtlarında"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7/o'ya göre mal varlığının tasfiye usulü tüzükte belirtilmesi zorunlu hususlardandır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-2-q6c8",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, Kanunda açıkça sendika kurulamayacağı belirtilen esas aşağıdakilerden hangisidir?",
+    "options": [
+      "Hizmet kolu esasına göre",
+      "Meslek veya işyeri esasına göre",
+      "Hizmet kolundaki kamu görevlileri esasına göre",
+      "Kanun'a tabi kamu işyerleri esasına göre",
+      "Türkiye çapında faaliyet esasına göre"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4'e göre sendikalar hizmet kolu esasına göre kurulur; meslek veya işyeri esasına göre sendika kurulamayacağı Kanunda açıkça belirtilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-20-mga9",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların zorunlu giderleri için kasalarında tutacakları azami nakit mevcudu hangi belgede gösterilir?",
+    "options": [
+      "Valilik kararında",
+      "Denetim raporunda",
+      "Bütçede",
+      "Genel kurul tutanağında",
+      "Tüzükte"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 7/s'ye göre gelirlerin ne şekilde muhafaza edileceği ve zorunlu giderler için kasada tutulacak azami nakit mevcudu tüzükte gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-21-i0fv",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubesi, sendika ve konfederasyonların zorunlu organları aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?",
+    "options": [
+      "Yönetim kurulu, denetleme kurulu, disiplin kurulu, bütçe kurulu",
+      "Genel kurul, yönetim kurulu, seçim kurulu, disiplin kurulu",
+      "Genel kurul, yönetim kurulu, denetleme kurulu, disiplin kurulu",
+      "Genel kurul, yönetim kurulu, istişare kurulu, denetleme kurulu",
+      "Genel kurul, yönetim kurulu, denetleme kurulu, danışma kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 8'e göre zorunlu organlar; genel kurul, yönetim kurulu, denetleme kurulu ve disiplin kuruludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-22-dser",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi sendika ve konfederasyonların zorunlu organlarından biri değildir?",
+    "options": [
+      "Denetleme Kurulu",
+      "Genel Kurul",
+      "Yönetim Kurulu",
+      "Disiplin Kurulu",
+      "İstişare Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 8'e göre zorunlu organlar genel kurul, yönetim kurulu, denetleme kurulu ve disiplin kuruludur; istişare kurulu zorunlu organlar arasında sayılmamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-23-d8x2",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar zorunlu organların dışında başka organlar kurabilir mi?",
+    "options": [
+      "Evet, kurabilirler; tüzükte belirtilmesi kaydıyla, genel kurul dışındaki organlar görev, yetki ve sorumluluklarını bu yeni kurulan organlara devredebilir",
+      "Yalnızca konfederasyonlar kurabilir, sendikalar bu yetkiden tamamen yoksundur",
+      "Hayır, kesinlikle kuramazlar; tüzükte dahi böyle bir düzenlemeye yer verilemez",
+      "Yalnızca valilik izniyle kurabilirler, aksi hâlde kurulan organ geçersiz sayılır",
+      "Yalnızca genel kurul kararıyla geçici olarak kurulabilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 8'in ikinci fıkrasına göre sendika ve konfederasyonlar zorunlu organlar dışında da organlar kurabilir; tüzükte belirtilmek kaydıyla, genel kurul dışındaki (mevcut) organlar görev, yetki ve sorumluluklarını yeni kurulacak bu organlara devredebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-24-d7ml",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, genel kurullar tarafından zorunlu organlara seçilen üyelerin bilgileri ile tüzük değişiklikleri ve açılan, kapatılan veya birleştirilen şubeler, ilgili valiliklere ve Çalışma ve Sosyal Güvenlik Bakanlığına kaç gün içinde bildirilir?",
+    "options": [
+      "10 gün",
+      "20 gün",
+      "30 gün",
+      "25 gün",
+      "15 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 8'in üçüncü fıkrasına göre bu bilgiler otuz gün içinde bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-25-re71",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika tüzüklerinde yapılan değişiklikler kimlere bildirilir?",
+    "options": [
+      "İlgili valiliklere ve Çalışma ve Sosyal Güvenlik Bakanlığına",
+      "Resmî Gazeteye, yayımlanmak üzere",
+      "Yalnızca üyelere, genel kurulda duyurularak",
+      "Yalnızca Bakanlığa, başka bir merciye bildirilmeksizin",
+      "Yalnızca mahkemeye, tescil işlemi için"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 8'in üçüncü fıkrasına göre tüzük değişiklikleri de dâhil olmak üzere ilgili bilgiler otuz gün içinde valiliklere ve Bakanlığa bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-26-9tz3",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, üye sayısı bini aşan sendikaların genel kurulları nasıl yapılabilir?",
+    "options": [
+      "Yalnızca yönetim kurulu üyeleriyle",
+      "Delegelerle",
+      "Yalnızca üyelerle",
+      "Valilik temsilcileriyle",
+      "Konfederasyon temsilcileriyle"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9'un ikinci fıkrasına göre sendika şubesi genel kurulları ve üye sayısı bini aşan sendikaların genel kurulları delegelerle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-27-k7p8",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, konfederasyon genel kurulları üye sendikalarca seçilen en çok kaç delegeden oluşur?",
+    "options": [
+      "500",
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9'un dördüncü fıkrasına göre konfederasyon genel kurulları, üye sendikalarca seçilen en çok beşyüz delegeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-28-32qt",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, delegeler nasıl seçilir?",
+    "options": [
+      "Kıdem esasına göre",
+      "Açık oy, açık sayım esasına göre",
+      "Kura ile",
+      "Gizli oy, açık sayım ve döküm esasına göre",
+      "Yalnızca yönetim kurulu kararıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9'un üçüncü fıkrasına göre delegeler, üyeler tarafından gizli oy, açık sayım ve döküm esasına ve sendika tüzüğündeki hükümlere göre seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-29-4yjf",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, delege sıfatı ne zamana kadar sürer?",
+    "options": [
+      "2 yıl, süre sonunda kendiliğinden yenilenir",
+      "1 yıl, her yıl yeniden seçim yapılır",
+      "Sendika üyeliği bitene kadar, başka şart aranmaksızın",
+      "Seçildiği genel kurul bitene kadar, yeni seçim yapılmadan",
+      "Müteakip olağan genel kurul için yapılacak delege seçimine kadar"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9'un altıncı fıkrasına göre delege sıfatı, müteakip olağan genel kurul için yapılacak delege seçimine kadar sürer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-3-w63m",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre sendikalar hangi amaçla faaliyette bulunmak üzere kurulur?",
+    "options": [
+      "Yalnızca ilçe çapında",
+      "Yalnızca il çapında",
+      "Türkiye çapında",
+      "Uluslararası çapta",
+      "Yalnızca kurum çapında"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4'e göre sendikalar, hizmet kolu esasına göre Türkiye çapında faaliyette bulunmak amacıyla kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-30-smy1",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubeleri ile sendika ve konfederasyonların yönetim ve denetleme kurulu üyeleri kendi genel kurullarına nasıl katılır?",
+    "options": [
+      "Sadece oy hakkı olmaksızın katılırlar",
+      "Yalnızca izleyici olarak katılırlar",
+      "Bu sıfatla delege olarak katılırlar",
+      "Katılamazlar",
+      "Valilik izniyle katılırlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9'un beşinci fıkrasına göre yönetim ve denetleme kurulu üyeleri bu sıfatla kendi genel kurullarına delege olarak katılırlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-31-ty39",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, tüzüklere delege seçilmeyi engelleyici hükümler konulabilir mi?",
+    "options": [
+      "Yalnızca disiplin cezası almış üyeler için konulabilir",
+      "Hayır, tüzüklere böyle hükümler konulamaz",
+      "Yalnızca konfederasyon tüzüğünde konulabilir",
+      "Evet, tüzükte serbestçe düzenlenebilir",
+      "Valilik onayıyla konulabilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9'un son fıkrasına göre tüzüklere delege seçilmeyi engelleyici hükümler konulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-32-0t67",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika veya konfederasyonun ilk genel kurulu tüzel kişilik kazanmasından başlayarak kaç ay içinde yapılır?",
+    "options": [
+      "3 ay içinde",
+      "2 ay içinde",
+      "1 ay içinde",
+      "4 ay içinde",
+      "6 ay içinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 10'un birinci fıkrasına göre ilk genel kurul, tüzel kişilik kazanılmasından başlayarak altı ay içinde yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-33-2vrz",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, olağan genel kurul toplantıları için tüzükte belirlenen süre kaç yılı aşamaz?",
+    "options": [
+      "6 yıl",
+      "3 yıl",
+      "4 yıl",
+      "2 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10'un ikinci fıkrasına göre olağan genel kurul toplantıları dört yılı aşmamak üzere tüzüklerde belirtilen sürede yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-34-nc8u",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "I. Toplantı yeter sayısı üye ya da delege tamsayısının salt çoğunluğudur.\nII. Karar yeter sayısı toplantıya katılan üye veya delege sayısının salt çoğunluğudur.\nIII. Olağan genel kurul toplantıları dört yılı aşmamak üzere tüzüklerde belirtilen sürede yapılır.\n4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre, yukarıda verilen bilgilerden hangileri doğrudur?",
+    "options": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10'a göre her üç ifade de doğrudur: toplantı yeter sayısı ve karar yeter sayısı ile ilgili kurallar ve olağan genel kurulun dört yılı aşamayacağı hükmü metinle birebir örtüşür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-35-nj1j",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 10 uncu maddesine göre, aşağıdakilerden hangisi olağanüstü genel kurulun toplanmasını istemeye veya gerekli görmeye yetkili olanlar arasında değildir?",
+    "options": [
+      "Yönetim kurulu",
+      "Denetleme kurulu",
+      "Disiplin kurulu",
+      "Genel kurul üyelerinin beşte biri",
+      "Genel kurul delegelerinin beşte biri"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10'a göre olağanüstü genel kurul, yönetim kurulu veya denetleme kurulunun gerekli gördüğü durumlarda ya da genel kurul üye veya delegelerinin beşte birinin yazılı isteği üzerine toplanır. Disiplin kuruluna bu yönde bir yetki verilmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-36-l10y",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, çağrı üzerine olağanüstü genel kurul en geç ne kadar süre içinde toplanır?",
+    "options": [
+      "1 ay içinde",
+      "15 gün içinde",
+      "2 ay içinde",
+      "60 gün içinde",
+      "45 gün içinde"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10'un dördüncü fıkrasına göre olağanüstü genel kurul en geç altmış gün içinde toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-37-9v86",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, genel kurula çağrı hangi organ tarafından yapılır?",
+    "options": [
+      "Yönetim kurulu",
+      "Disiplin kurulu",
+      "Seçim kurulu",
+      "Denetleme kurulu",
+      "Genel başkan"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 10'un beşinci fıkrasına göre genel kurula çağrı yönetim kurulu tarafından yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-38-4lxg",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, genel kurul toplantı yeter sayısı ilk toplantıda sağlanamazsa ikinci toplantı en çok kaç gün sonraya bırakılabilir?",
+    "options": [
+      "10 gün",
+      "7 gün",
+      "30 gün",
+      "60 gün",
+      "15 gün"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 10'un altıncı fıkrasına göre ikinci toplantı en çok onbeş gün sonraya bırakılabilir ve bu toplantıda salt çoğunluk aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-39-mttm",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, genel kurulda karar yeter sayısı nedir?",
+    "options": [
+      "Üye tamsayısının üçte ikisi aranır",
+      "Üye ya da delege tamsayısının salt çoğunluğu",
+      "Yönetim kurulunun onayı yeterli sayılır",
+      "Toplantıya katılan üye veya delege sayısının salt çoğunluğu",
+      "Katılanların üçte ikisi aranır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10'un yedinci fıkrasına göre karar yeter sayısı, toplantıya katılan üye veya delege sayısının salt çoğunluğudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-4-7xg3",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi sendikaların kurulabilecekleri hizmet kollarından biri değildir?",
+    "options": [
+      "Yerel yönetim hizmetleri",
+      "Kültür ve sanat hizmetleri",
+      "Diyanet ve vakıf hizmetleri",
+      "Ulaştırma hizmetleri",
+      "Emniyet ve güvenlik hizmetleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5'te sayılan 11 hizmet kolu arasında \"emniyet ve güvenlik hizmetleri\" bulunmamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-40-yenl",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, 10 uncu maddede düzenlenen genel kurula ilişkin hükümlere aykırı hareket eden bir sendika şubesi, sendika veya konfederasyon yönetim kuruluna hangi tedbir uygulanabilir?",
+    "options": [
+      "Doğrudan kapatma kararı verilir, başka işleme gerek kalmaz",
+      "Yalnızca para cezası uygulanır, yönetim görevine devam eder",
+      "Bakanlık yöneticileri görevden alır, yeni atama yapar",
+      "Valilik doğrudan yönetime el koyar, kayyım atamaz",
+      "Mahkeme kararıyla işten el çektirilir ve kayyım tayin edilir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 10'un son fıkrasına göre bu durumda mahkeme kararıyla yönetim kuruluna işten el çektirilir ve yeni yönetim kurulu seçilinceye kadar cari işleri yürütmek üzere bir veya üç kayyım tayin edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-41-z4cn",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların genel kurullarında seçimler hangi esaslara göre yapılır?",
+    "options": [
+      "Gizli oy, gizli tasnif usulüyle, yargı gözetimi aranmaksızın",
+      "El kaldırma usulüyle, tutanağa geçirilerek",
+      "Açık oy, açık tasnif usulüyle, ayrıca tutanak tutulmaksızın",
+      "Yargı gözetimi altında serbest, eşit, gizli oy, açık sayım ve döküm esasına göre",
+      "Elektronik oylama ile, gözetimsiz ve tutanaksız biçimde"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 11'in birinci fıkrasına göre genel kurullarda seçimler yargı gözetimi altında serbest, eşit, gizli oy, açık sayım ve döküm esasına göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-42-ufm5",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, genel kurul toplantıları, seçimler, seçimlere itiraz ile seçimlerin iptali ve yenilenmesi konularında hangi kanun hükümleri uygulanır?",
+    "options": [
+      "4857 sayılı İş Kanunu hükümleri",
+      "5253 sayılı Dernekler Kanunu hükümleri",
+      "2821 sayılı Sendikalar Kanunu hükümleri",
+      "657 sayılı Devlet Memurları Kanunu hükümleri",
+      "6100 sayılı Hukuk Muhakemeleri Kanunu hükümleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11'in ikinci fıkrasına göre bu hususlarda 2821 sayılı Sendikalar Kanun'unun 14 üncü ve 52 nci maddelerindeki hükümler uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-43-5uch",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi genel kurulun görev ve yetkilerinden biri değildir?",
+    "options": [
+      "Tüzük değişikliği",
+      "Organların seçimi",
+      "Yönetim ve denetleme kurulu raporlarının görüşülmesi ve aklanması",
+      "Kamu işvereni ile toplu sözleşmeyi bizzat imzalama",
+      "Fesih kararı verme"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 12'de sayılan genel kurul görevleri arasında organların seçimi, tüzük değişikliği, fesih kararı ve rapor aklanması bulunur; toplu sözleşmeyi bizzat imzalama yetkisi ise Madde 29'a göre Heyet Başkanlarına aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-44-qn28",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, taşınmaz malların satın alınması veya mevcut taşınmaz malların satılması konusunda kim yetkilidir?",
+    "options": [
+      "Disiplin kurulu tek başına",
+      "Konfederasyon yönetim kurulu her sendika adına",
+      "Yönetim kurulu, genel kurulca yetki verilmek kaydıyla",
+      "Denetleme kurulu tek başına",
+      "Valilik onayıyla herhangi bir organ"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 12/f'ye göre taşınmaz malların alım satımı konusunda yönetim kuruluna yetki vermek genel kurulun görevidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-45-akgh",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubesi genel kurulları hangi görevleri yerine getirir?",
+    "options": [
+      "Yalnızca fesih kararı alabilir, başka yetkisi bulunmaz",
+      "Genel kurulun tüm görevlerini eksiksiz yerine getirir",
+      "Yalnızca tüzük değişikliği yapabilir, diğer konularda yetkisizdir",
+      "Yalnızca organların seçimi, raporların aklanması, mevzuat veya tüzükte genel kurulca yapılması öngörülen diğer işlemler ile hiçbir organın görev alanına girmeyen konuları yerine getirir",
+      "Hiçbir görevi yoktur, sadece istişari nitelik taşır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 12'nin son fıkrasına göre şube genel kurulları yalnızca (a), (c) ve (n) bentlerinde belirtilen görevleri; yani organların seçimini, raporların aklanmasını, mevzuat veya tüzükte genel kurulca yapılması öngörülen diğer işlemler ile hiçbir organın görev alanına girmeyen konuları yerine getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-46-6pqq",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendikanın aynı hizmet kolunda bulunan başka bir sendika ile birleşmesine veya katılmasına hangi organ karar verir?",
+    "options": [
+      "Yönetim kurulu",
+      "Disiplin kurulu",
+      "Valilik",
+      "Denetleme kurulu",
+      "Genel kurul"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12/i'ye göre aynı hizmet kolunda bulunmak koşuluyla başka bir sendika ile birleşme ve katılmaya genel kurul karar verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-47-p0a0",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubesi ve sendika yönetim kurulları en az kaç, en çok kaç üyeden oluşur?",
+    "options": [
+      "4 - 7",
+      "3 - 7",
+      "4 - 12",
+      "7 - 12",
+      "3 - 5"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13'ün birinci fıkrasına göre sendika şubesi ve sendika yönetim kurulları en az üç, en çok yedi üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-48-bz4y",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, konfederasyon yönetim kurulları en az kaç, en çok kaç üyeden oluşur?",
+    "options": [
+      "5 - 15",
+      "3 - 7",
+      "5 - 10",
+      "7 - 11",
+      "10 - 20"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13'ün birinci fıkrasına göre konfederasyon yönetim kurulları en az beş, en çok on üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-49-0yuw",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, disiplin kurulu en az ..........., en çok beş üyeden oluşur.",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "7",
+      "1"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13'ün ikinci fıkrasına göre disiplin kurulu en az üç, en çok beş üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-5-nwd2",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "Aşağıdaki hizmet kollarından hangisi 4688 sayılı Kanun kapsamında sayılan hizmet kollarından biri değildir?",
+    "options": [
+      "Adalet ve yargı hizmetleri",
+      "Tarım ve ormancılık hizmetleri",
+      "Eğitim, öğretim ve bilim hizmetleri",
+      "Büro, bankacılık ve sigortacılık hizmetleri",
+      "Sağlık ve sosyal hizmetler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5'teki 11 hizmet kolu arasında \"adalet ve yargı hizmetleri\" ayrı bir hizmet kolu olarak yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-50-gn1s",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, denetleme kurulu en az kaç, en çok kaç denetçiden oluşur?",
+    "options": [
+      "En az 1, en çok 3",
+      "En az 5, en çok 10",
+      "En az 5, en çok 7",
+      "En az 3, en çok 5",
+      "En az 3, en çok 7"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13'ün ikinci fıkrasına göre denetleme kurulu en az üç, en çok beş denetçiden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-51-oha3",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika şubelerinde denetleme kurulu yerine en az ........... denetçi ile yetinilebilir.",
+    "options": [
+      "5",
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13'ün ikinci fıkrasına göre şubelerde bir denetçi ile yetinilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-52-bh8p",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, yönetim, denetleme ve disiplin kurulları ile diğer organların oluşumu, görev ve yetkileri ile toplanma ve karar alma usulleri hangi Kanun'a uygun olarak tüzüklerde düzenlenir?",
+    "options": [
+      "657 sayılı Devlet Memurları Kanunu",
+      "6098 sayılı Türk Borçlar Kanunu",
+      "5253 sayılı Dernekler Kanunu",
+      "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "2821 sayılı Sendikalar Kanunu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13'ün üçüncü fıkrasına göre bu husus, 2821 sayılı Sendikalar Kanun'unun 16, 17, 18 ve 19 uncu maddelerindeki esaslara uygun olarak tüzüklerde düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-53-s9ip",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 5 inci maddesine göre aşağıdakilerden hangisi ayrı bir hizmet kolu olarak sayılmıştır?",
+    "options": [
+      "Enerji, sanayi ve madencilik hizmetleri",
+      "Adalet ve güvenlik hizmetleri",
+      "Maliye ve vergi hizmetleri",
+      "Spor ve gençlik hizmetleri",
+      "Turizm ve tanıtma hizmetleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5'in 10 uncu sırasında enerji, sanayi ve madencilik hizmetleri ayrı bir hizmet kolu olarak sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-54-93uh",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 5 inci maddesine göre aşağıdakilerden hangisi sendikaların kurulabileceği hizmet kollarından biridir?",
+    "options": [
+      "Savunma ve güvenlik hizmetleri",
+      "Yargı ve savcılık hizmetleri",
+      "Diplomasi hizmetleri",
+      "Gümrük ve vergi hizmetleri",
+      "Bayındırlık, inşaat ve köy hizmetleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5'in 7 nci sırasında bayındırlık, inşaat ve köy hizmetleri sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-55-5wxl",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Sendika veya konfederasyonun iç denetim usulü",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7'ye göre Sendika veya konfederasyonun iç denetim usulü tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-56-utdd",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Kurumların personel atama planı",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Harcamaların nasıl yapılacağı, yetkilerin nasıl verileceği ve yetki sınırları",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 7'ye göre Harcamaların nasıl yapılacağı, yetkilerin nasıl verileceği ve yetki sınırları tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-57-u9qd",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Kamu kurumlarının hizmet standartları",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Üyelik ödentisinin oranı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 7'ye göre Üyelik ödentisinin oranı tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-58-6n0u",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Sendika veya konfederasyon yöneticilerinde aranılacak şartlar",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7'ye göre Sendika veya konfederasyon yöneticilerinde aranılacak şartlar tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-59-o959",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Kurumların personel atama planı",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Demirbaşların satış ve terkininde uygulanacak usul ve esaslar",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 7'ye göre Demirbaşların satış ve terkininde uygulanacak usul ve esaslar tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-6-8axa",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 5 inci maddesine göre sendikaların kurulabileceği hizmet kolu sayısı kaçtır?",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5'te sendikaların kurulabileceği 11 hizmet kolu tek tek sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-60-z41f",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Sendika şubelerinin nasıl kurulacağı ve görev ve yetkileri",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7'ye göre Sendika şubelerinin nasıl kurulacağı ve görev ve yetkileri tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-61-4wkm",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Kamu kurumlarının hizmet standartları",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Genel kurul delegelerinin belirlenmesi usulü"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 7'ye göre Konfederasyon, sendika ve sendika şubesi genel kurul delegelerinin belirlenmesi usulü tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-62-yopr",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'un 7 nci maddesine göre, aşağıdakilerden hangisinin sendika ve konfederasyon tüzüklerinde belirtilmesi zorunludur?",
+    "options": [
+      "Zorunlu organlar oluşuncaya kadar kuruluşu yürütüp temsil edecek geçici yönetim kurulu üyelerinin ad, soyad ve adresleri",
+      "Kamu işvereninin yıllık bütçe teklifi",
+      "Üyelerin bireysel performans puanları",
+      "Kurumların personel atama planı",
+      "Kamu kurumlarının hizmet standartları"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7'ye göre Zorunlu organların oluşumuna kadar kuruluşun işlerini yürütmeye ve temsile yetkili geçici yönetim kurulu üyelerinin ad ve soyadları ile adresleri tüzükte belirtilmesi zorunlu hususlar arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-63-carn",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların genel kurul seçimlerinde oy verme ve sayım bakımından hangi yöntem uygulanır?",
+    "options": [
+      "Açık oy, gizli sayım",
+      "Gizli oy, açık sayım ve döküm",
+      "Açık oy, açık sayım",
+      "Gizli oy, gizli sayım",
+      "İşaretle oylama, kapalı sayım"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11'e göre genel kurul seçimleri gizli oy, açık sayım ve döküm esasına göre yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-64-8c5l",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonların seçimlerine ilişkin usul ve esaslar nerede belirtilir?",
+    "options": [
+      "Toplu sözleşmede",
+      "Kamu işvereninin iç genelgesinde",
+      "Kurum bütçesinde",
+      "İşyeri ilan panosunda",
+      "Sendika ve konfederasyonların tüzüklerinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 11'in üçüncü fıkrasına göre seçimlere ilişkin usul ve esaslar sendika ve konfederasyonların tüzüklerinde belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-65-zw02",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyon yönetim kurulu üyelerine verilecek her türlü ücret ile diğer görevlilerin huzur hakkı ve yolluklarını hangi organ belirler?",
+    "options": [
+      "Genel kurul",
+      "Disiplin kurulu",
+      "Denetleme kurulu",
+      "Kamu işvereni",
+      "Kurum idarî kurulu"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12/g'ye göre bu ücret, huzur hakkı ve yollukların belirlenmesi genel kurulun görev ve yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-66-gxrf",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika veya konfederasyonun feshi kararını vermeye hangi organ yetkilidir?",
+    "options": [
+      "Yönetim kurulu",
+      "Genel kurul",
+      "Denetleme kurulu",
+      "Disiplin kurulu",
+      "Kamu işvereni"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 12/m'ye göre fesih kararı verme genel kurulun görev ve yetkileri arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-67-vs0g",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, konfederasyonlara üye olma veya üyelikten çekilme kararı hangi organın görev ve yetkisindedir?",
+    "options": [
+      "Genel kurul",
+      "Yönetim kurulu",
+      "Denetleme kurulu",
+      "Disiplin kurulu",
+      "İşyeri sendika temsilcisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12/k'ya göre konfederasyonlara üye olma veya üyelikten çekilme genel kurulun görev ve yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-68-r3b6",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, amaçlarına uyan uluslararası kuruluşlara üye olma veya bu kuruluşlardan çekilme kararı hangi organın görev ve yetkisindedir?",
+    "options": [
+      "Disiplin kurulu",
+      "Denetleme kurulu",
+      "Genel kurul",
+      "Kamu işvereni",
+      "Kurum idarî kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 12/l'ye göre amaçlarına uyan uluslararası kuruluşlara üye olma veya çekilme genel kurulun görev ve yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-7-0y6i",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, Diyanet ve vakıf hizmetleri hangi kapsamda değerlendirilir?",
+    "options": [
+      "Sendika kurulamayacak bir alandır",
+      "Yalnızca konfederasyon düzeyinde örgütlenebilir",
+      "Kamu Personeli Danışma Kurulu görev alanıdır",
+      "İşçi statüsüne özgü bir hizmet koludur",
+      "Sendikaların kurulabileceği hizmet kollarından biridir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5/11'e göre Diyanet ve vakıf hizmetleri, sendikaların kurulabileceği hizmet kollarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-8-zdmv",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre sendika kurucusu olabilmek için aranan şart aşağıdakilerden hangisidir?",
+    "options": [
+      "Yükseköğrenim mezunu olmak",
+      "İşçi statüsünde çalışmak",
+      "Süre şartı aranmaksızın kamu görevlisi olarak çalışmak",
+      "En az 2 yıldır kamu görevlisi olarak çalışmak",
+      "En az 5 yıldır kamu görevlisi olarak çalışmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6'ya göre sendika kurucusu olabilmek için kamu görevlisi olarak çalışmak yeterlidir; herhangi bir kıdem/süre şartı aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-kurulus-esaslari-ve-organlar-ri6hv-mtn026oc-9-zx6u",
+    "topic_id": "t-kurulus-esaslari-ve-organlar-ri6hv",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlar önceden ........... almaksızın serbestçe kurulurlar.",
+    "options": [
+      "İzin",
+      "Yetki belgesi",
+      "Onay",
+      "Bildirim",
+      "Ruhsat"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6'nın birinci fıkrasına göre sendika ve konfederasyonlar önceden izin almaksızın serbestçe kurulurlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:38:42.817926+00:00",
+    "updated_at": "2026-09-04T13:38:42.817926+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-0-horw",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Merkezi yönetim bütçe teklifi malî yılbaşından ne kadar önce TBMM’ye sunulur?",
+    "options": [
+      "75 gün",
+      "30 gün",
+      "45 gün",
+      "60 gün",
+      "90 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 75 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “75 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-1-d1a8",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Bütçe Kanunu süresinde yürürlüğe konulamazsa ne yapılır?",
+    "options": [
+      "Hükümet istifa eder.",
+      "Bir önceki yılın bütçesi aynen uygulanır.",
+      "Geçici bütçe kanunu çıkarılır.",
+      "Cumhurbaşkanı kararname ile bütçe yapar.",
+      "Maliye Bakanı yetkili kılınır."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Geçici bütçe kanunu çıkarılır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Geçici bütçe kanunu çıkarılır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-10-1exk",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Genel Uygunluk Bildirimini TBMM’ye sunmakla görevli olan kurum hangisidir?",
+    "options": [
+      "Danıştay",
+      "Hazine ve Maliye Bakanlığı",
+      "Devlet Denetleme Kurulu",
+      "Sayıştay",
+      "Merkez Bankası"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sayıştay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sayıştay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-11-124h",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Bütçe Kanunu’na bütçe ile ilgili hükümler dışında hüküm konulabilir mi?",
+    "options": [
+      "Evet, her türlü hüküm konulabilir.",
+      "Sadece vergi ile ilgili hükümler konulabilir.",
+      "Sadece sosyal yardımlarla ilgili hükümler konulabilir.",
+      "Cumhurbaşkanı izin verirse konulabilir.",
+      "Hayır, bütçe ile ilgili hükümler dışında hiçbir hüküm konulamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hayır, bütçe ile ilgili hükümler dışında hiçbir hüküm konulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, bütçe ile ilgili hükümler dışında hiçbir hüküm konulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-12-1q9a",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Sermayesinin yarısından fazlası doğrudan veya dolaylı olarak Devlete ait olan Kamu İktisadi Teşebbüslerinin (KİT) denetimi kime aittir?",
+    "options": [
+      "Türkiye Büyük Millet Meclisine",
+      "Sayıştaya",
+      "Devlet Denetleme Kuruluna",
+      "İlgili Bakanlığa",
+      "Sermaye Piyasası Kuruluna"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Türkiye Büyük Millet Meclisine. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Türkiye Büyük Millet Meclisine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-13-ja3h",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Harcanabilecek tutarın Cumhurbaşkanlığı kararnamesiyle aşılabileceğine dair bütçe kanununa hüküm konulabilir mi?",
+    "options": [
+      "Evet, olağanüstü hâllerde konulabilir.",
+      "Evet, meclis salt çoğunlukla karar verirse konulabilir.",
+      "Evet, savaş hâlinde konulabilir.",
+      "Sadece yatırım bütçeleri için konulabilir.",
+      "Hayır, konulamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hayır, konulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, konulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-14-8979",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Cari yıl bütçesindeki ödenek artışını öngören değişiklik tekliflerinde neyin gösterilmesi zorunludur?",
+    "options": [
+      "Gerekçe",
+      "Muhalefet şerhi",
+      "Öngörülen giderleri karşılayabilecek malî kaynak",
+      "Siyasi parti onayı",
+      "Sayıştay raporu"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Öngörülen giderleri karşılayabilecek malî kaynak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Öngörülen giderleri karşılayabilecek malî kaynak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-15-0kd8",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Kesinhesap Kanunu teklifi TBMM’de ne ile birlikte görüşülür?",
+    "options": [
+      "Kalkınma planıyla",
+      "Sayıştay raporlarıyla",
+      "Hükümet programıyla",
+      "Torba kanunla",
+      "Yeni yıl Bütçe Kanunu teklifiyle"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yeni yıl Bütçe Kanunu teklifiyle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yeni yıl Bütçe Kanunu teklifiyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-16-azzy",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Anayasanın 165. maddesine göre sermayesinin yarısından fazlası Devlete ait kamu kuruluş ve ortaklıklarının TBMM tarafından denetlenmesine ilişkin esaslar neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Cumhurbaşkanı genelgesiyle",
+      "Şirket ana sözleşmesiyle",
+      "Belediye kararıyla",
+      "Kanunla"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanunla. Madde 165, sermayesinin yarısından fazlası doğrudan veya dolaylı Devlete ait kamu kuruluş ve ortaklıklarının TBMM’ce denetlenmesi esaslarının kanunla düzenleneceğini belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-2-lhe0",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Geçici bütçe kanunu da çıkarılamazsa ne olur?",
+    "options": [
+      "Yeni bütçe kabul edilene kadar bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır.",
+      "Devlet harcama yapamaz.",
+      "Erken seçime gidilir.",
+      "Meclis feshedilir.",
+      "Dış borç alınır."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yeni bütçe kabul edilene kadar bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yeni bütçe kabul edilene kadar bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-3-zig6",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Kesinhesap kanunu teklifini TBMM’ye kim sunar?",
+    "options": [
+      "Hazine ve Maliye Bakanı",
+      "Sayıştay Başkanı",
+      "TBMM Plan ve Bütçe Komisyonu",
+      "Merkez Bankası Başkanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-4-3x0i",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "1982 Anayasası’na göre, Merkezi Yönetim Bütçe Kanun Teklifi, malî yılbaşından en az kaç gün önce Türkiye Büyük Millet Meclisine sunulur?",
+    "options": [
+      "75",
+      "30",
+      "45",
+      "55",
+      "60"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 75. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “75”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-5-rwyh",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Merkezi Yönetim Bütçe Kanun Teklifini TBMM’ye sunmaya yetkili makam aşağıdakilerden hangisidir?",
+    "options": [
+      "Hazine ve Maliye Bakanı",
+      "Cumhurbaşkanı Yardımcısı",
+      "TBMM Bütçe Komisyonu Başkanı",
+      "Cumhurbaşkanı",
+      "Sayıştay Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-6-ketk",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Bütçe Kanun Teklifi, TBMM Bütçe Komisyonunda en çok kaç gün içinde görüşülerek kabul edilir?",
+    "options": [
+      "15",
+      "30",
+      "55",
+      "45",
+      "75"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 55. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “55”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-7-6zuj",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Bütçe kanununun süresinde yürürlüğe konulamaması ve geçici bütçe kanununun da çıkarılamaması durumunda nasıl bir yol izlenir?",
+    "options": [
+      "Bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır.",
+      "Devlet harcamaları durdurulur.",
+      "TBMM derhal erken seçim kararı alır.",
+      "Cumhurbaşkanı kararnamesi ile bütçe oluşturulur.",
+      "Maliye Bakanlığı geçici ödenek tahsis eder."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-8-jujq",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "TBMM Genel Kurulunda kamu idare bütçeleri görüşülürken milletvekilleri aşağıdakilerden hangisini yapamazlar?",
+    "options": [
+      "Bütçe hakkında düşüncelerini açıklamak",
+      "Bütçe maddelerini oylamak",
+      "Eleştiride bulunmak",
+      "Gider artırıcı önerilerde bulunmak",
+      "Değişiklik önergelerini okumak"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Gider artırıcı önerilerde bulunmak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Gider artırıcı önerilerde bulunmak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-mali-hukumler-x4isz-mtmyw59r-9-5sub",
+    "topic_id": "t-mali-hukumler-x4isz",
+    "prompt": "Merkezi Yönetim Kesinhesap Kanunu Teklifi, ilgili olduğu malî yılın sonundan başlayarak en geç ne zaman TBMM’ye sunulur?",
+    "options": [
+      "6 ay sonra",
+      "1 ay sonra",
+      "3 ay sonra",
+      "75 gün sonra",
+      "1 yıl sonra"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 6 ay sonra. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “6 ay sonra”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:06:01.375924+00:00",
+    "updated_at": "2026-09-04T13:06:01.375924+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-0-n0xx",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Bu Yönetmeliğin amacı nedir?",
+    "options": [
+      "Yalnızca aday memurların atamalarını düzenlemek",
+      "Aday memurların temel/hazırlayıcı eğitim ve staja ilişkin süreçleri ile asli memurların yetiştirilmesi ve hizmet içi eğitimine ilişkin usul ve esasları belirlemek",
+      "Memurların disiplin işlemlerini düzenlemek",
+      "Memurların maaş ve özlük haklarını düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 1: Yönetmeliğin amacı, aday ve asli memurların eğitimlerine ilişkin usul ve esasları belirlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-1-cu65",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Bu Yönetmelik hükümleri hangi personel hakkında uygulanmaz?",
+    "options": [
+      "Sözleşmeli personel",
+      "Millî İstihbarat Teşkilâtı Başkanlığı personeli",
+      "Sağlık personeli",
+      "Öğretmenler"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 2(2): Yönetmelik hükümleri MİT Başkanlığı personeli hakkında uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-10-cz13",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memur eğitimini başarı ile tamamlayamayanlar için sonuç nedir?",
+    "options": [
+      "Bir yıl daha eğitime devam ederler",
+      "Asli memurluğa atanamazlar",
+      "Sözleşmeli statüde çalıştırılırlar",
+      "Uyarı cezası alırlar"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(8): Aday memur eğitimini başarıyla tamamlayamayanlar asli memurluğa atanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-11-98bt",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Hizmet içi eğitim hangi belgeler doğrultusunda gerçekleştirilir?",
+    "options": [
+      "Yalnızca yıllık bütçeye göre",
+      "Kalkınma planı, stratejik plan, yıllık plan ve programlar ile diğer üst politika belgelerine göre",
+      "Yalnızca personelin talebine göre",
+      "Sadece kurum amirinin takdirine göre"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 7(1): Hizmet içi eğitim, üst politika belgelerinde öngörülen amaç ve hedeflere göre gerçekleştirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-12-f3eq",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Kurum ve kuruluşlar eğitici olarak kimlerden yararlanabilir?",
+    "options": [
+      "Yalnızca kendi personelinden",
+      "Kendi personeli, diğer kurum uzmanları, öğretim elemanları ve üst kademe kamu yöneticiliği yapmış kişilerden",
+      "Yalnızca özel sektör danışmanlarından",
+      "Yalnızca yabancı uzmanlardan"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 8(1): Eğiticiler kendi personel, diğer kurum uzmanları, öğretim elemanları ve üst kademe yöneticilik yapmış kişilerden seçilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-13-1iqg",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Eğitici olarak görevlendirilenler nereye kaydedilir?",
+    "options": [
+      "Sadece kurum arşivine",
+      "Kamu Personeli Bilgi Sisteminde yer alan eğitici listesine",
+      "Resmî Gazeteye",
+      "Bir kayıt tutulmaz"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 8(3): Eğitici olarak görevlendirilenler Kamu Personeli Bilgi Sistemindeki eğitici listesine kaydedilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-14-riz9",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aynı nitelikte eğitim için 8 inci maddedeki eğiticilerden yararlanılamaması veya fiziki şartların yetersiz olması hâlinde ne yapılabilir?",
+    "options": [
+      "Eğitim iptal edilir",
+      "Hizmet alımı yoluyla hizmet içi eğitim gerçekleştirilebilir",
+      "Eğitim bir sonraki yıla ertelenir",
+      "Personel başka kuruma gönderilir"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 10(4): Bu durumda hizmet alımı yoluyla hizmet içi eğitim gerçekleştirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-15-i2hq",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Merkez Eğitim Kurulu nerede kurulur ve kim başkanlığında toplanır?",
+    "options": [
+      "Millî Eğitim Bakanlığında, Bakan başkanlığında",
+      "Cumhurbaşkanlığı Genel Sekreterliğinde, Personel ve Prensipler Genel Müdürü başkanlığında",
+      "Strateji ve Bütçe Başkanlığında, Başkan başkanlığında",
+      "Yükseköğretim Kurulunda, Başkan başkanlığında"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 11(1-2): Kurul, Cumhurbaşkanlığı Genel Sekreterliğinde, Personel ve Prensipler Genel Müdürü başkanlığında kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-16-jvbn",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Merkez Eğitim Kurulu yılda en az kaç kez ve hangi ayda toplanır?",
+    "options": [
+      "En az bir kez, Ocak ayında",
+      "En az iki kez, Ocak ve Temmuz aylarında",
+      "En az bir kez, Aralık ayında",
+      "En az dört kez, her çeyrekte"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 11(4): Kurul, yılda en az bir kez Ocak ayında toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-17-coju",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Eğitim yönetme kurulları hangi düzeyde kurulur?",
+    "options": [
+      "Yalnızca taşra teşkilatında",
+      "Kurum ve kuruluşların merkez teşkilatlarında",
+      "Yalnızca il müdürlüklerinde",
+      "Sadece Cumhurbaşkanlığında"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 12(1): Eğitim yönetme kurulu, kurum ve kuruluşların merkez teşkilatlarında kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-18-i0il",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Eğitim ve sınav yürütme komisyonu üyeleri en az kaç kişiden oluşur?",
+    "options": [
+      "İki kişi",
+      "Üç kişi",
+      "Dört kişi",
+      "Beş kişi"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 13(2): Komisyon üyeleri üç kişiden az olmamak üzere belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-19-bdxr",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurlara yönelik temel eğitim konularından biri değildir:",
+    "options": [
+      "Atatürk ilkeleri",
+      "T.C. Anayasası",
+      "657 sayılı Devlet Memurları Kanunu",
+      "Uluslararası ticaret hukuku"
+    ],
+    "answer_index": 3,
+    "explanation": "MADDE 14(1): Sayılan konular arasında uluslararası ticaret hukuku yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-2-eir9",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Bu Yönetmelik hangi maddelere dayanılarak hazırlanmıştır?",
+    "options": [
+      "657 sayılı Kanunun 55, 214 ve 217 nci maddeleri ile 1 sayılı CK'nın 8 inci maddesi",
+      "Yalnızca 657 sayılı Kanunun 68 inci maddesi",
+      "Yalnızca 1 sayılı Cumhurbaşkanlığı Kararnamesi",
+      "5018 sayılı Kanun"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 3: Yönetmelik, 657 sayılı Kanunun 55, 214 ve 217 nci maddeleri ile 1 sayılı CK'nın 8 inci maddesine dayanılarak hazırlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-20-2087",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurların temel eğitim programları kim tarafından hazırlanır veya hazırlatılır?",
+    "options": [
+      "Merkez Eğitim Kurulu",
+      "Eğitim yönetme kurulu",
+      "Eğitim ve sınav yürütme komisyonu",
+      "İlgili bakan"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 15(1): Temel eğitim programları Merkez Eğitim Kurulu tarafından hazırlanır veya hazırlatılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-21-at9m",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Temel eğitim sonunda yapılacak sınavlarda sorulacak sorular en az kaç adet hazırlanır?",
+    "options": [
+      "50 adet",
+      "75 adet",
+      "100 adet",
+      "150 adet"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 17(1): Sorular, konuları kapsayacak şekilde en az 100 adet hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-22-y3wd",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurlara yapılacak sınavlar en az kaç gün öncesinden duyurulur?",
+    "options": [
+      "5 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 18(2): Sınavlar en az on beş gün öncesinde duyurulan yer, gün ve saatte yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-23-ghdj",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Optik okuyucu kullanılmayan sınavlarda hangi tür kâğıt kullanılması zorunludur?",
+    "options": [
+      "Beyaz kâğıt",
+      "Köşesi kapalı kâğıt",
+      "Damgalı kâğıt",
+      "A4 kâğıt"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 18(3): Optik okuyucu kullanılmayan sınavlarda köşesi kapalı kâğıt kullanılması zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-24-dgc7",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memur sınavlarında değerlendirme 100 tam puan üzerinden yapıldığında başarılı sayılmak için gereken asgari puan kaçtır?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "70"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 19(2): Değerlendirmede 60 ve daha yukarı puan alanlar başarılı sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-25-96z6",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memur sınav sonuçları, sınavın yapıldığı günü takip eden günden itibaren en geç kaç iş günü içinde ilan edilir?",
+    "options": [
+      "3 iş günü",
+      "5 iş günü",
+      "10 iş günü",
+      "15 iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 20(1): Sınav sonuçları en geç beş iş günü içinde ilan edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-26-ugzg",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Başarısız sayılan aday memurlar sınav sonuçlarına tebliğden itibaren en geç kaç iş günü içinde itiraz edebilir?",
+    "options": [
+      "3 iş günü",
+      "5 iş günü",
+      "7 iş günü",
+      "10 iş günü"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 20(2): İtiraz, tebliğden itibaren en geç üç iş günü içinde yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-27-q52p",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memur sınav itirazları eğitim ve sınav yürütme komisyonu tarafından en geç kaç iş günü içinde karara bağlanır?",
+    "options": [
+      "5 iş günü",
+      "10 iş günü",
+      "15 iş günü",
+      "20 iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 20(2): İtirazlar en geç on iş günü içinde incelenerek kesin olarak karara bağlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-28-h9u2",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Sağlık sebepleri ve diğer mücbir sebepler dışında sınavlara katılmayan aday memurların durumu nedir?",
+    "options": [
+      "Ertesi döneme ertelenir",
+      "Başarısız sayılır",
+      "Otomatik olarak başarılı sayılır",
+      "Ek sınav hakkı verilir"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 21(1): Mücbir sebep dışında sınava katılmayanlar başarısız sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-29-1hka",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Sınav sorularının çalınmış olduğunun tespit edilmesi hâlinde sınav ne olur?",
+    "options": [
+      "Aynen devam eder",
+      "Eğitim yönetme kurulunca iptal edilir",
+      "Yalnızca ilgili adayın sınavı iptal edilir",
+      "Merkez Eğitim Kurulu tarafından ertelenir"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 22(1)/a: Sınav sorularının çalınmış olduğunun tespiti hâlinde sınav eğitim yönetme kurullarınca iptal edilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-3-xtl7",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "'Hazırlayıcı eğitim' tanımı neyi ifade eder?",
+    "options": [
+      "Devlet memurlarının ortak vasıflarıyla ilgili eğitimi",
+      "Aday memurların atandığı kurum/kuruluşu, hizmet sınıfı ve görevi ile ilgili yapılan eğitimi",
+      "Aday memurlara yaptırılan uygulamalı eğitimi",
+      "Asli memurlara verilen hizmet içi eğitimi"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 4/ğ: Hazırlayıcı eğitim, aday memurun kurum/kuruluşu, hizmet sınıfı ve görevi ile ilgili eğitimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-30-nwtl",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurların sınav soruları, cevap anahtarları ve cevap kâğıtları kaç yıl saklanır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 23(1)/a: Sınav soruları, cevap anahtarları ve cevap kâğıtları bir yıl saklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-31-6cbw",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurların sınavlarına ilişkin tutanaklar ve değerlendirme fişleri kaç yıl saklanır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 23(1)/b: Tutanaklar ve değerlendirme fişleri iki yıl saklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-32-nhkd",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Temel eğitim, hazırlayıcı eğitim ve staj dönemlerinin herhangi birinde başarısız olan ve görevlerine son verilen aday memurlar kaç yıl süreyle Devlet memurluğuna alınmazlar?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 25(1): Bu durumdaki aday memurlar üç yıl süreyle Devlet memurluğuna alınmazlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-33-x8uj",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Sağlık sebebiyle kurumları ile ilişiği kesilen aday memurlar için üç yıllık Devlet memurluğuna alınmama şartı aranır mı?",
+    "options": [
+      "Evet, aynen aranır",
+      "Hayır, bu şart aranmaz",
+      "Yalnızca bir yıl için aranır",
+      "Yalnızca disiplin kurulu kararıyla aranır"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 25(1): Sağlık sebebiyle ilişiği kesilenler için üç yıllık şart aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-34-58k1",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Görevlerine son verilen aday memurlar ilgili kurum tarafından en geç ne kadar süre içinde Genel Müdürlüğe bildirilir?",
+    "options": [
+      "15 gün",
+      "1 ay",
+      "2 ay",
+      "3 ay"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 25(2): Görevlerine son verilenler en geç bir ay içinde Genel Müdürlüğe bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-35-88m6",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Hizmet içi eğitim planları bir sonraki yıl için hangi ayın sonuna kadar Genel Müdürlüğe bildirilir?",
+    "options": [
+      "Ekim ayı sonu",
+      "Kasım ayı sonu",
+      "Aralık ayı sonu",
+      "Ocak ayı sonu"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 28(6): Bir sonraki yıla ait hizmet içi eğitim planları Kasım ayı sonuna kadar bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-36-mtlf",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Tamamlanan hizmet içi eğitim programlarının sonuçları hangi ayın sonuna kadar Genel Müdürlüğe bildirilir?",
+    "options": [
+      "Kasım ayı sonu",
+      "Aralık ayı sonu",
+      "Ocak ayı sonu",
+      "Şubat ayı sonu"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 29(3): Tamamlanan hizmet içi eğitim programlarının sonuçları Aralık ayı sonuna kadar bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-37-jys6",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Hizmet içi eğitime katılarak başarı sağlayanlara verilebilecek belge örneği nereye eklenir?",
+    "options": [
+      "Kurum arşivine",
+      "Personelin özlük dosyasına",
+      "Kamu Personeli Bilgi Sistemine sadece elektronik olarak",
+      "Hiçbir yere eklenmez"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 30(3): Verilen belge/sertifikaların bir örneği personelin özlük dosyasına eklenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-38-ztqr",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Kurum ve kuruluşlar uzaktan eğitimlerini hangi platform üzerinden gerçekleştirmekle yükümlüdür?",
+    "options": [
+      "Kendi özel platformları üzerinden",
+      "Uzaktan Eğitim Kapısı üzerinden",
+      "Sosyal medya platformları üzerinden",
+      "Yalnızca e-posta üzerinden"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 31(4): Kurum ve kuruluşlar eğitimlerini Uzaktan Eğitim Kapısı üzerinden gerçekleştirmekle yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-39-be2h",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Kurum ve kuruluşlar, aday memur ve hizmet içi eğitim yönetmeliklerini bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren ne kadar süre içinde uyumlu hâle getirir?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "1 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 36(1): Kurum ve kuruluşlar, yönetmeliklerini altı ay içinde bu Yönetmeliğe uygun hâle getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-4-7tk4",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "'Staj' tanımı Yönetmelikte nasıl ifade edilmiştir?",
+    "options": [
+      "Temel eğitim sonrası yapılan sınav",
+      "Aday memurlara kurum veya kuruluşlarındaki görevleri ile ilgili yapılan uygulamalı eğitim",
+      "Asli memurlara verilen hizmet içi eğitim",
+      "Yalnızca teorik eğitim"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 4/j: Staj, aday memurlara görevleriyle ilgili yapılan uygulamalı eğitimdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-40-pa8v",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Bu Yönetmelik ile hangi yönetmelik yürürlükten kaldırılmıştır?",
+    "options": [
+      "Millî Eğitim Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+      "21/2/1983 tarihli ve 83/6061 sayılı Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik",
+      "Devlet Memurları Kanunu",
+      "Norm Kadro Yönetmeliği"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 37(1): 21/2/1983 tarihli ve 83/6061 sayılı Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-41-vqis",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Strateji ve Bütçe Başkanlığı, Kamu Personeli Bilgi Sistemini bu Yönetmeliğe uygun hâle getirmek için ne kadar süreye sahiptir?",
+    "options": [
+      "2 ay",
+      "4 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "GEÇİCİ MADDE 2(1): Strateji ve Bütçe Başkanlığı, sistemi dört ay içinde uygun hâle getirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-42-ylx3",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Bu Yönetmelik hükümlerini kim yürütür?",
+    "options": [
+      "Millî Eğitim Bakanı",
+      "Cumhurbaşkanı",
+      "Personel ve Prensipler Genel Müdürü",
+      "İçişleri Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 39: Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-5-moks",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "'Uzaktan eğitim kapısı' nedir?",
+    "options": [
+      "Yalnızca bir bakanlığın kullandığı özel platform",
+      "Genel Müdürlük koordinasyonunda yürütülen, kamu personelinin gelişimini destekleyen merkezi dijital eğitim/öğrenme platformu",
+      "Sadece aday memurlara özel bir sınav sistemi",
+      "Yalnızca yükseköğretim kurumlarına ait bir platform"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 4/m: Uzaktan eğitim kapısı, Genel Müdürlük koordinasyonunda yürütülen merkezi dijital eğitim/öğrenme platformudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-6-spso",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "İlk defa Devlet memuru olarak atananların göreve başladıkları ilk kaç yıl içinde işbaşında yetiştirilmeleri esastır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "MADDE 5(5): İlk üç yıl içinde birim amirinin veya görevlendirilen deneyimli memurun refakatinde işbaşında yetiştirme esastır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-7-uy31",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurlara verilecek temel eğitimin süresi ne kadardır?",
+    "options": [
+      "En az bir hafta, en fazla bir ay",
+      "On günden az, iki aydan fazla olamaz",
+      "En az bir ay, en fazla üç ay",
+      "En fazla on beş gün"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(5): Temel eğitim süresi on günden az iki aydan fazla olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-8-p4u3",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurlara verilecek hazırlayıcı eğitimin süresi ne kadardır?",
+    "options": [
+      "Bir aydan az, altı aydan fazla olamaz",
+      "İki aydan az, dört aydan fazla olamaz",
+      "On günden az, iki aydan fazla olamaz",
+      "En fazla üç ay"
+    ],
+    "answer_index": 0,
+    "explanation": "MADDE 6(6): Hazırlayıcı eğitim süresi bir aydan az ve altı aydan fazla olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49-mtekpyzn-9-9hoz",
+    "topic_id": "t-meb-aday-memurlarin-yetistirilmelerine-i-zcz49",
+    "prompt": "Aday memurlara yaptırılacak staj en az ne kadar sürede tamamlanır?",
+    "options": [
+      "Bir aydan az olmamak kaydıyla",
+      "İki aydan az olmamak kaydıyla",
+      "Üç aydan az olmamak kaydıyla",
+      "Süre şartı yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": "MADDE 6(7): Staj, iki aydan az olmamak kaydıyla adaylık süresi içinde tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T16:07:09.335923+00:00",
+    "updated_at": "2026-08-29T16:07:09.335923+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-0-fapa",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği'nin amacı nedir?",
+    "options": [
+      "Disiplin cezalarını belirlemek",
+      "MEB'de görev yapan Devlet memurları ve sözleşmeli personelin disiplin amirlerini belirlemek",
+      "Disiplin soruşturma usullerini düzenlemek",
+      "Disiplin kurullarının yapısını oluşturmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 1: Yönetmeliğin amacı; MEB'de görev yapan Devlet memurları ve sözleşmeli personelin disiplin amirlerini belirlemektir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-1-z9d7",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği kimler için uygulanır?",
+    "options": [
+      "Yalnızca öğretmenler için",
+      "Yalnızca yöneticiler için",
+      "MEB'de 657 sayılı DMK'ya göre görev yapan Devlet memurları ve sözleşmeli personel için",
+      "MEB'de görev yapan tüm işçiler için"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 2: Yönetmelik, MEB'de 657 sayılı DMK'ya göre görev yapan Devlet memurları ve sözleşmeli personeli kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-10-uqyb",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği'nde en son değişiklik hangi tarihte yapılmıştır?",
+    "options": [
+      "2/1/2022",
+      "3/6/1991",
+      "11/7/2025",
+      "29/4/2021"
+    ],
+    "answer_index": 2,
+    "explanation": "Yönetmelikte en son 11/7/2025 tarihli ve 32953 sayılı Resmî Gazete'de değişiklik yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-11-xa0n",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "Devlet Memurları Disiplin Yönetmeliği'nin kaçıncı maddesi MEB Disiplin Amirleri Yönetmeliği'ne dayanak teşkil eder?",
+    "options": [
+      "3. maddesi",
+      "4. maddesi",
+      "5. maddesi",
+      "124. maddesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 3: Devlet Memurları Disiplin Yönetmeliği'nin 5. maddesi dayanaklar arasında yer almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-12-41tg",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "7528 sayılı Öğretmenlik Mesleği Kanunu hangi tarihte kabul edilmiştir?",
+    "options": [
+      "14/7/1965",
+      "29/4/2021",
+      "10/10/2024",
+      "2/1/2022"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 3: 10/10/2024 tarihli ve 7528 sayılı Öğretmenlik Mesleği Kanunu yönetmeliğin dayanakları arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-13-di86",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "Devlet Memurları Disiplin Yönetmeliği hangi tarihli Cumhurbaşkanı Kararı ile yürürlüğe konulmuştur?",
+    "options": [
+      "14/7/1965 tarihli ve 3935 sayılı",
+      "29/4/2021 tarihli ve 3935 sayılı",
+      "2/1/2022 tarihli ve 31707 sayılı",
+      "11/7/2025 tarihli ve 32953 sayılı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3: Devlet Memurları Disiplin Yönetmeliği 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-14-5x5n",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "Yürürlükten kaldırılan MEB Disiplin Amirleri Yönetmeliği'nin yayımlandığı Resmî Gazete'nin sayısı kaçtır?",
+    "options": [
+      "31707",
+      "32953",
+      "20890",
+      "7528"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6: Yürürlükten kaldırılan yönetmelik 20890 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-2-bf3g",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği hangi mevzuata dayanılarak hazırlanmıştır?",
+    "options": [
+      "Yalnızca 657 sayılı Devlet Memurları Kanunu'na",
+      "657 sayılı DMK, 7528 sayılı Öğretmenlik Mesleği Kanunu ve Devlet Memurları Disiplin Yönetmeliği'ne",
+      "Yalnızca 7528 sayılı Öğretmenlik Mesleği Kanunu'na",
+      "Yalnızca Devlet Memurları Disiplin Yönetmeliği'ne"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3: 657 sayılı DMK (md. 4/B ve 124), 7528 sayılı Öğretmenlik Mesleği Kanunu ve Devlet Memurları Disiplin Yönetmeliği md. 5'e dayanılarak hazırlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-3-ynbw",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "657 sayılı DMK'nın hangi maddesi MEB Disiplin Amirleri Yönetmeliği'ne dayanak teşkil etmektedir?",
+    "options": [
+      "Yalnızca 4. madde (A) bendi",
+      "4. madde (B) bendi ve 124. madde",
+      "Yalnızca 124. madde",
+      "4. madde (C) bendi"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3: 657 sayılı DMK'nın 4. maddesinin (B) bendi ile 124. maddesi dayanaklardan biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-4-npte",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB'de görev yapan Devlet memurları ve sözleşmeli personelin disiplin amirleri nerede gösterilmiştir?",
+    "options": [
+      "Yönetmeliğin 4. maddesinde",
+      "Ek-1 sayılı Cetvelde",
+      "Ayrı bir yönetmelikle",
+      "Her yıl Bakan Onayıyla belirlenmektedir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4: Disiplin amirleri Ek-1 sayılı Cetvelde gösterilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-5-r422",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "Disipline ilişkin usul ve esaslar bakımından hangi mevzuat uygulanır?",
+    "options": [
+      "Yalnızca 657 sayılı Kanun",
+      "Yalnızca Devlet Memurları Disiplin Yönetmeliği",
+      "657 sayılı Kanun ile Devlet Memurları Disiplin Yönetmeliği hükümleri",
+      "İl millî eğitim müdürlüklerinin belirlediği esaslar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5: Disipline ilişkin usul ve esaslar bakımından 657 sayılı Kanun ile Devlet Memurları Disiplin Yönetmeliği hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  },
+  {
+    "id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p-mtejhxkv-6-tqt5",
+    "topic_id": "t-meb-disiplin-amirleri-yonetmeligi-zdq6p",
+    "prompt": "MEB Disiplin Amirleri Yönetmeliği hangi eski yönetmeliği yürürlükten kaldırmıştır?",
+    "options": [
+      "2/1/2022 tarihli yönetmeliği",
+      "3/6/1991 tarihli ve 20890 sayılı Resmî Gazete'de yayımlanan yönetmeliği",
+      "11/7/2025 tarihli yönetmeliği",
+      "14/7/1965 tarihli yönetmeliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6: 3/6/1991 tarihli ve 20890 sayılı Resmî Gazete'de yayımlanan MEB Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:32:54.470429+00:00",
+    "updated_at": "2026-08-29T15:32:54.470429+00:00"
+  }
+]

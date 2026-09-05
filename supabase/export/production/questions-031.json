@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mtn84yab-317-sycx",
+    "topic_id": "topic-guncel",
+    "prompt": "Küba devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Aşkabat",
+      "Tiflis",
+      "Havana",
+      "İslamabad",
+      "Kuveyt"
+    ],
+    "answer_index": 2,
+    "explanation": "Küba devletinin başkenti Havana şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-318-id8y",
+    "topic_id": "topic-guncel",
+    "prompt": "Kolombiya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kahire",
+      "Varşova",
+      "Lima",
+      "Bogota",
+      "Hanoi"
+    ],
+    "answer_index": 3,
+    "explanation": "Kolombiya devletinin başkenti Bogota şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-319-qzke",
+    "topic_id": "topic-guncel",
+    "prompt": "Peru devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Amman",
+      "Bern",
+      "Abuja",
+      "Budapeşte",
+      "Lima"
+    ],
+    "answer_index": 4,
+    "explanation": "Peru devletinin başkenti Lima şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-32-6k9i",
+    "topic_id": "topic-guncel",
+    "prompt": "Hırvatistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Helsinki",
+      "Prag",
+      "Zagreb",
+      "Lima",
+      "Karakas"
+    ],
+    "answer_index": 2,
+    "explanation": "Hırvatistan devletinin başkenti Zagreb şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-320-bjfw",
+    "topic_id": "topic-guncel",
+    "prompt": "Şili devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Santiago",
+      "Paris",
+      "Üsküp",
+      "Madrid",
+      "Wellington"
+    ],
+    "answer_index": 0,
+    "explanation": "Şili devletinin başkenti Santiago şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-321-ebjd",
+    "topic_id": "topic-guncel",
+    "prompt": "Venezuela devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Varşova",
+      "Karakas",
+      "Viyana",
+      "Tokyo",
+      "Budapeşte"
+    ],
+    "answer_index": 1,
+    "explanation": "Venezuela devletinin başkenti Karakas şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-322-b9zl",
+    "topic_id": "topic-guncel",
+    "prompt": "Japonya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Tenge",
+      "Baht",
+      "Yen",
+      "Ringgit",
+      "Koruna"
+    ],
+    "answer_index": 2,
+    "explanation": "Japonya devletinin para birimi Yen olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-323-duwt",
+    "topic_id": "topic-guncel",
+    "prompt": "Çin devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Dong",
+      "Avustralya Doları",
+      "Ley",
+      "Yuan",
+      "Forint"
+    ],
+    "answer_index": 3,
+    "explanation": "Çin devletinin para birimi Yuan olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-324-idde",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Kore devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Baht",
+      "Dirhem",
+      "Rupi",
+      "Dong",
+      "Won"
+    ],
+    "answer_index": 4,
+    "explanation": "Güney Kore devletinin para birimi Won olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-325-tgyz",
+    "topic_id": "topic-guncel",
+    "prompt": "Hindistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Rupi",
+      "Manat",
+      "Ringgit",
+      "Koruna",
+      "Zloty"
+    ],
+    "answer_index": 0,
+    "explanation": "Hindistan devletinin para birimi Rupi olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-326-n9hf",
+    "topic_id": "topic-guncel",
+    "prompt": "Brezilya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Yuan",
+      "Real",
+      "Yen",
+      "Ley",
+      "Manat"
+    ],
+    "answer_index": 1,
+    "explanation": "Brezilya devletinin para birimi Real olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-327-rmlx",
+    "topic_id": "topic-guncel",
+    "prompt": "Arjantin devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Riyal",
+      "Baht",
+      "Peso",
+      "Krona",
+      "Rupi"
+    ],
+    "answer_index": 2,
+    "explanation": "Arjantin devletinin para birimi Peso olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-328-pp13",
+    "topic_id": "topic-guncel",
+    "prompt": "Kanada devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Leva",
+      "Dinar",
+      "Rupi",
+      "Kanada Doları",
+      "Avustralya Doları"
+    ],
+    "answer_index": 3,
+    "explanation": "Kanada devletinin para birimi Kanada Doları olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-329-1onw",
+    "topic_id": "topic-guncel",
+    "prompt": "Avustralya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Forint",
+      "Dong",
+      "Koruna",
+      "Rupi",
+      "Avustralya Doları"
+    ],
+    "answer_index": 4,
+    "explanation": "Avustralya devletinin para birimi Avustralya Doları olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-33-75f3",
+    "topic_id": "topic-guncel",
+    "prompt": "Bosna Hersek devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Belgrad",
+      "Budapeşte",
+      "Kuala Lumpur",
+      "Saraybosna",
+      "Tahran"
+    ],
+    "answer_index": 3,
+    "explanation": "Bosna Hersek devletinin başkenti Saraybosna şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-330-h9ru",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Afrika devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Rand",
+      "Manat",
+      "Riyal",
+      "Avustralya Doları",
+      "Som"
+    ],
+    "answer_index": 0,
+    "explanation": "Güney Afrika devletinin para birimi Rand olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-331-crph",
+    "topic_id": "topic-guncel",
+    "prompt": "Rusya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Rupi",
+      "Ruble",
+      "Baht",
+      "Real",
+      "Manat"
+    ],
+    "answer_index": 1,
+    "explanation": "Rusya devletinin para birimi Ruble olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-332-7a40",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Ruble",
+      "Peso",
+      "Türk Lirası",
+      "Yen",
+      "Ley"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye devletinin para birimi Türk Lirası olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-333-ien2",
+    "topic_id": "topic-guncel",
+    "prompt": "İsveç devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Real",
+      "Rupi",
+      "Kanada Doları",
+      "Krona",
+      "Ruble"
+    ],
+    "answer_index": 3,
+    "explanation": "İsveç devletinin para birimi Krona olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-334-bjrs",
+    "topic_id": "topic-guncel",
+    "prompt": "Norveç devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Avustralya Doları",
+      "Riyal",
+      "Ruble",
+      "Tenge",
+      "Krone"
+    ],
+    "answer_index": 4,
+    "explanation": "Norveç devletinin para birimi Krone olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-335-79l2",
+    "topic_id": "topic-guncel",
+    "prompt": "Danimarka devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Krone",
+      "Tenge",
+      "Frank",
+      "Peso",
+      "Riyal"
+    ],
+    "answer_index": 0,
+    "explanation": "Danimarka devletinin para birimi Krone olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-336-adxs",
+    "topic_id": "topic-guncel",
+    "prompt": "İsviçre devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Yen",
+      "Frank",
+      "Peso",
+      "Grivna",
+      "Kanada Doları"
+    ],
+    "answer_index": 1,
+    "explanation": "İsviçre devletinin para birimi Frank olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-337-6igu",
+    "topic_id": "topic-guncel",
+    "prompt": "Polonya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Tenge",
+      "Krona",
+      "Zloty",
+      "Rand",
+      "Riyal"
+    ],
+    "answer_index": 2,
+    "explanation": "Polonya devletinin para birimi Zloty olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-338-5ge3",
+    "topic_id": "topic-guncel",
+    "prompt": "Çekya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Tenge",
+      "Kanada Doları",
+      "Ley",
+      "Koruna",
+      "Baht"
+    ],
+    "answer_index": 3,
+    "explanation": "Çekya devletinin para birimi Koruna olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-339-hmjo",
+    "topic_id": "topic-guncel",
+    "prompt": "Macaristan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Krona",
+      "Leva",
+      "Manat",
+      "Baht",
+      "Forint"
+    ],
+    "answer_index": 4,
+    "explanation": "Macaristan devletinin para birimi Forint olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-34-8s4s",
+    "topic_id": "topic-guncel",
+    "prompt": "Arnavutluk devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Trablus",
+      "Bişkek",
+      "Dakka",
+      "Erivan",
+      "Tiran"
+    ],
+    "answer_index": 4,
+    "explanation": "Arnavutluk devletinin başkenti Tiran şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-340-wa8j",
+    "topic_id": "topic-guncel",
+    "prompt": "Romanya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Ley",
+      "Won",
+      "Ringgit",
+      "Yuan",
+      "Kanada Doları"
+    ],
+    "answer_index": 0,
+    "explanation": "Romanya devletinin para birimi Ley olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-341-d72o",
+    "topic_id": "topic-guncel",
+    "prompt": "Bulgaristan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanada Doları",
+      "Euro",
+      "Türk Lirası",
+      "Riyal",
+      "Real"
+    ],
+    "answer_index": 1,
+    "explanation": "Bulgaristan 1 Ocak 2026'da euroyu kabul etmiş ve euro bölgesinin 21'inci üyesi olmuştur. Bulgar levası artık resmî para birimi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-342-fibt",
+    "topic_id": "topic-guncel",
+    "prompt": "Sırbistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Leva",
+      "Baht",
+      "Dinar",
+      "Won",
+      "Dong"
+    ],
+    "answer_index": 2,
+    "explanation": "Sırbistan devletinin para birimi Dinar olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-343-m40l",
+    "topic_id": "topic-guncel",
+    "prompt": "Ukrayna devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanada Doları",
+      "Rand",
+      "Zloty",
+      "Grivna",
+      "Leva"
+    ],
+    "answer_index": 3,
+    "explanation": "Ukrayna devletinin para birimi Grivna olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-344-qdgt",
+    "topic_id": "topic-guncel",
+    "prompt": "Kazakistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Ley",
+      "Won",
+      "Türk Lirası",
+      "Frank",
+      "Tenge"
+    ],
+    "answer_index": 4,
+    "explanation": "Kazakistan devletinin para birimi Tenge olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-345-k7ul",
+    "topic_id": "topic-guncel",
+    "prompt": "Özbekistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Som",
+      "Manat",
+      "Krona",
+      "Baht",
+      "Real"
+    ],
+    "answer_index": 0,
+    "explanation": "Özbekistan devletinin para birimi Som olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-346-uysv",
+    "topic_id": "topic-guncel",
+    "prompt": "Azerbaycan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Türk Lirası",
+      "Manat",
+      "Ringgit",
+      "Ley",
+      "Rand"
+    ],
+    "answer_index": 1,
+    "explanation": "Azerbaycan devletinin para birimi Manat olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-347-0v43",
+    "topic_id": "topic-guncel",
+    "prompt": "İran devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Pezo",
+      "Dirhem",
+      "Riyal",
+      "Ruble",
+      "Ley"
+    ],
+    "answer_index": 2,
+    "explanation": "İran devletinin para birimi Riyal olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-348-6ukh",
+    "topic_id": "topic-guncel",
+    "prompt": "Irak devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Real",
+      "Riyal",
+      "Krone",
+      "Dinar",
+      "Rand"
+    ],
+    "answer_index": 3,
+    "explanation": "Irak devletinin para birimi Dinar olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-349-uy7h",
+    "topic_id": "topic-guncel",
+    "prompt": "Suudi Arabistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Real",
+      "Leva",
+      "Rand",
+      "Türk Lirası",
+      "Riyal"
+    ],
+    "answer_index": 4,
+    "explanation": "Suudi Arabistan devletinin para birimi Riyal olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-35-y3g9",
+    "topic_id": "topic-guncel",
+    "prompt": "Kuzey Makedonya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Üsküp",
+      "Lübliyana",
+      "Dodoma",
+      "Şam",
+      "Bağdat"
+    ],
+    "answer_index": 0,
+    "explanation": "Kuzey Makedonya devletinin başkenti Üsküp şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-350-dt5u",
+    "topic_id": "topic-guncel",
+    "prompt": "BAE devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Dirhem",
+      "Som",
+      "Rupi",
+      "Avustralya Doları",
+      "Yuan"
+    ],
+    "answer_index": 0,
+    "explanation": "BAE devletinin para birimi Dirhem olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-351-uwhi",
+    "topic_id": "topic-guncel",
+    "prompt": "Endonezya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Pezo",
+      "Rupi",
+      "Riyal",
+      "Zloty",
+      "Leva"
+    ],
+    "answer_index": 1,
+    "explanation": "Endonezya devletinin para birimi Rupi olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-352-3n2t",
+    "topic_id": "topic-guncel",
+    "prompt": "Malezya devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Tenge",
+      "Türk Lirası",
+      "Ringgit",
+      "Som",
+      "Rupi"
+    ],
+    "answer_index": 2,
+    "explanation": "Malezya devletinin para birimi Ringgit olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-353-2e69",
+    "topic_id": "topic-guncel",
+    "prompt": "Tayland devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Dinar",
+      "Avustralya Doları",
+      "Türk Lirası",
+      "Baht",
+      "Grivna"
+    ],
+    "answer_index": 3,
+    "explanation": "Tayland devletinin para birimi Baht olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-354-5sai",
+    "topic_id": "topic-guncel",
+    "prompt": "Vietnam devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Koruna",
+      "Krone",
+      "Dinar",
+      "Dirhem",
+      "Dong"
+    ],
+    "answer_index": 4,
+    "explanation": "Vietnam devletinin para birimi Dong olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-355-ik57",
+    "topic_id": "topic-guncel",
+    "prompt": "Filipinler devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Pezo",
+      "Kanada Doları",
+      "Krone",
+      "Leva",
+      "Yuan"
+    ],
+    "answer_index": 0,
+    "explanation": "Filipinler devletinin para birimi Pezo olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-356-js6v",
+    "topic_id": "topic-guncel",
+    "prompt": "Pakistan devletinin resmî para birimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Dirhem",
+      "Rupi",
+      "Manat",
+      "Türk Lirası",
+      "Ringgit"
+    ],
+    "answer_index": 1,
+    "explanation": "Pakistan devletinin para birimi Rupi olarak bilinir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-357-n5wt",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tokyo olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Katar",
+      "İngiltere",
+      "Japonya",
+      "Fransa",
+      "Arjantin"
+    ],
+    "answer_index": 2,
+    "explanation": "Tokyo şehri, Japonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-358-3mda",
+    "topic_id": "topic-guncel",
+    "prompt": "'BM' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "BM Eğitim, Bilim ve Kültür Örgütü",
+      "BM Gıda ve Tarım Örgütü",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Birleşmiş Milletler",
+      "Kuzey Atlantik Antlaşması Örgütü"
+    ],
+    "answer_index": 3,
+    "explanation": "BM kısaltmasının tam açılımı Birleşmiş Milletler şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-359-h4ug",
+    "topic_id": "topic-guncel",
+    "prompt": "'NATO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Avrupa Birliği",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "Birleşmiş Milletler",
+      "Kuzey Atlantik Antlaşması Örgütü"
+    ],
+    "answer_index": 4,
+    "explanation": "NATO kısaltmasının tam açılımı Kuzey Atlantik Antlaşması Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-36-sndu",
+    "topic_id": "topic-guncel",
+    "prompt": "Karadağ devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bern",
+      "Podgoritsa",
+      "Budapeşte",
+      "Kuala Lumpur",
+      "Astana"
+    ],
+    "answer_index": 1,
+    "explanation": "Karadağ devletinin başkenti Podgoritsa şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-360-h7qd",
+    "topic_id": "topic-guncel",
+    "prompt": "'AB' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Avrupa Birliği",
+      "Dünya Sağlık Örgütü",
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "Uluslararası Çalışma Örgütü",
+      "Güneydoğu Asya Uluslar Birliği"
+    ],
+    "answer_index": 0,
+    "explanation": "AB kısaltmasının tam açılımı Avrupa Birliği şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-361-u2pu",
+    "topic_id": "topic-guncel",
+    "prompt": "'IMF' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Uluslararası Para Fonu",
+      "Dünya Ticaret Örgütü",
+      "Şanghay İşbirliği Örgütü",
+      "Uluslararası Çalışma Örgütü"
+    ],
+    "answer_index": 1,
+    "explanation": "IMF kısaltmasının tam açılımı Uluslararası Para Fonu şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-362-8aaq",
+    "topic_id": "topic-guncel",
+    "prompt": "'WHO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Uluslararası Çalışma Örgütü",
+      "Avrupa Birliği",
+      "Dünya Sağlık Örgütü",
+      "BM Eğitim, Bilim ve Kültür Örgütü",
+      "Ekonomik Kalkınma ve İşbirliği Örgütü"
+    ],
+    "answer_index": 2,
+    "explanation": "WHO kısaltmasının tam açılımı Dünya Sağlık Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-363-xyq6",
+    "topic_id": "topic-guncel",
+    "prompt": "'WTO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Kuzey Atlantik Antlaşması Örgütü",
+      "Güneydoğu Asya Uluslar Birliği",
+      "Dünya Ticaret Örgütü",
+      "Ekonomik Kalkınma ve İşbirliği Örgütü"
+    ],
+    "answer_index": 3,
+    "explanation": "WTO kısaltmasının tam açılımı Dünya Ticaret Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-364-gwfo",
+    "topic_id": "topic-guncel",
+    "prompt": "'OECD' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Birleşmiş Milletler",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Güneydoğu Asya Uluslar Birliği",
+      "Uluslararası Para Fonu",
+      "Ekonomik Kalkınma ve İşbirliği Örgütü"
+    ],
+    "answer_index": 4,
+    "explanation": "OECD kısaltmasının tam açılımı Ekonomik Kalkınma ve İşbirliği Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-365-w0b6",
+    "topic_id": "topic-guncel",
+    "prompt": "'OPEC' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "Şanghay İşbirliği Örgütü",
+      "Uluslararası Çalışma Örgütü",
+      "Kuzey Atlantik Antlaşması Örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "OPEC kısaltmasının tam açılımı Petrol İhraç Eden Ülkeler Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-366-odcw",
+    "topic_id": "topic-guncel",
+    "prompt": "'ASEAN' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "BM Gıda ve Tarım Örgütü",
+      "Güneydoğu Asya Uluslar Birliği",
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "Avrupa Birliği",
+      "Petrol İhraç Eden Ülkeler Örgütü"
+    ],
+    "answer_index": 1,
+    "explanation": "ASEAN kısaltmasının tam açılımı Güneydoğu Asya Uluslar Birliği şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-367-8mr4",
+    "topic_id": "topic-guncel",
+    "prompt": "'SCO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Uluslararası Para Fonu",
+      "BM Eğitim, Bilim ve Kültür Örgütü",
+      "Şanghay İşbirliği Örgütü",
+      "Birleşmiş Milletler",
+      "Dünya Sağlık Örgütü"
+    ],
+    "answer_index": 2,
+    "explanation": "SCO kısaltmasının tam açılımı Şanghay İşbirliği Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-368-eh6h",
+    "topic_id": "topic-guncel",
+    "prompt": "'UNICEF' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "Kuzey Atlantik Antlaşması Örgütü",
+      "Avrupa Birliği",
+      "BM Çocuklara Yardım Fonu",
+      "BM Gıda ve Tarım Örgütü"
+    ],
+    "answer_index": 3,
+    "explanation": "UNICEF kısaltmasının tam açılımı BM Çocuklara Yardım Fonu şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-369-zj7c",
+    "topic_id": "topic-guncel",
+    "prompt": "'UNESCO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Avrupa Birliği",
+      "Birleşmiş Milletler",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Güneydoğu Asya Uluslar Birliği",
+      "BM Eğitim, Bilim ve Kültür Örgütü"
+    ],
+    "answer_index": 4,
+    "explanation": "UNESCO kısaltmasının tam açılımı BM Eğitim, Bilim ve Kültür Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-37-l86s",
+    "topic_id": "topic-guncel",
+    "prompt": "Kosova devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kabil",
+      "Atina",
+      "Priştine",
+      "Bangkok",
+      "Dodoma"
+    ],
+    "answer_index": 2,
+    "explanation": "Kosova devletinin başkenti Priştine şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-370-j63t",
+    "topic_id": "topic-guncel",
+    "prompt": "'FAO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "BM Gıda ve Tarım Örgütü",
+      "Kuzey Atlantik Antlaşması Örgütü",
+      "Uluslararası Para Fonu",
+      "BM Eğitim, Bilim ve Kültür Örgütü",
+      "Uluslararası Çalışma Örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "FAO kısaltmasının tam açılımı BM Gıda ve Tarım Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-371-2agi",
+    "topic_id": "topic-guncel",
+    "prompt": "'ILO' kısaltmasıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Avrupa Birliği",
+      "Uluslararası Çalışma Örgütü",
+      "BM Eğitim, Bilim ve Kültür Örgütü",
+      "Dünya Sağlık Örgütü",
+      "BM Çocuklara Yardım Fonu"
+    ],
+    "answer_index": 1,
+    "explanation": "ILO kısaltmasının tam açılımı Uluslararası Çalışma Örgütü şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-372-mpdq",
+    "topic_id": "topic-guncel",
+    "prompt": "'INTERPOL' adıyla bilinen uluslararası kuruluşun tam adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Dünya Ticaret Örgütü",
+      "Uluslararası Çalışma Örgütü",
+      "Uluslararası Kriminal Polis Teşkilatı",
+      "BM Çocuklara Yardım Fonu",
+      "Dünya Sağlık Örgütü"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuruluşun resmî tam adı 'International Criminal Police Organization – INTERPOL'dür (Uluslararası Kriminal Polis Teşkilatı – INTERPOL). INTERPOL genel iletişimde kullanılan addır; resmî kısaltma ICPO–INTERPOL'dür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-373-zifb",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Berlin olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Özbekistan",
+      "Tunus",
+      "Libya",
+      "Almanya",
+      "Sudan"
+    ],
+    "answer_index": 3,
+    "explanation": "Berlin şehri, Almanya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-374-cs0t",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Paris olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İtalya",
+      "Libya",
+      "Finlandiya",
+      "Lübnan",
+      "Fransa"
+    ],
+    "answer_index": 4,
+    "explanation": "Paris şehri, Fransa devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-375-ty54",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Roma olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İtalya",
+      "Ermenistan",
+      "Sudan",
+      "Katar",
+      "İsviçre"
+    ],
+    "answer_index": 0,
+    "explanation": "Roma şehri, İtalya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-376-illk",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Madrid olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Filipinler",
+      "İspanya",
+      "Sudan",
+      "Şili",
+      "Bosna Hersek"
+    ],
+    "answer_index": 1,
+    "explanation": "Madrid şehri, İspanya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-377-8o58",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Pekin olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Yunanistan",
+      "Güney Afrika",
+      "Çin",
+      "Tanzanya",
+      "Gürcistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Pekin şehri, Çin devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-378-qxfe",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Seul olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Avustralya",
+      "İtalya",
+      "Tunus",
+      "Güney Kore",
+      "Finlandiya"
+    ],
+    "answer_index": 3,
+    "explanation": "Seul şehri, Güney Kore devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-379-5956",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Yeni Delhi olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanada",
+      "Meksika",
+      "Arjantin",
+      "Sırbistan",
+      "Hindistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Yeni Delhi şehri, Hindistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-38-0skr",
+    "topic_id": "topic-guncel",
+    "prompt": "Slovakya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Londra",
+      "Pretoria",
+      "Belgrad",
+      "Bratislava",
+      "Cezayir"
+    ],
+    "answer_index": 3,
+    "explanation": "Slovakya devletinin başkenti Bratislava şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-380-gy7k",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Brazilya olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Brezilya",
+      "Gürcistan",
+      "Fransa",
+      "Türkmenistan",
+      "Kırgızistan"
+    ],
+    "answer_index": 0,
+    "explanation": "Brazilya şehri, Brezilya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-381-5g4d",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Buenos Aires olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Somali",
+      "Arjantin",
+      "Suudi Arabistan",
+      "Norveç",
+      "BAE"
+    ],
+    "answer_index": 1,
+    "explanation": "Buenos Aires şehri, Arjantin devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-382-ht9t",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Meksiko olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Yeni Zelanda",
+      "Kırgızistan",
+      "Meksika",
+      "Sudan",
+      "Filipinler"
+    ],
+    "answer_index": 2,
+    "explanation": "Meksiko şehri, Meksika devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-383-ixsn",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Ottawa olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kuveyt",
+      "Polonya",
+      "Meksika",
+      "Kanada",
+      "Fransa"
+    ],
+    "answer_index": 3,
+    "explanation": "Ottawa şehri, Kanada devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-384-fpq9",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kanberra olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tunus",
+      "Katar",
+      "Sri Lanka",
+      "Hırvatistan",
+      "Avustralya"
+    ],
+    "answer_index": 4,
+    "explanation": "Kanberra şehri, Avustralya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-385-jvvn",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kahire olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Mısır",
+      "Norveç",
+      "Afganistan",
+      "Ürdün",
+      "Irak"
+    ],
+    "answer_index": 0,
+    "explanation": "Kahire şehri, Mısır devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-386-cek6",
+    "topic_id": "topic-guncel",
+    "prompt": "İdari/yürütme başkenti Pretoria olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Cezayir",
+      "Güney Afrika",
+      "Slovakya",
+      "İsviçre",
+      "Mısır"
+    ],
+    "answer_index": 1,
+    "explanation": "Pretoria, Güney Afrika'nın idari/yürütme başkentidir; Cape Town yasama, Bloemfontein yargı başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-387-5orh",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Abuja olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Bosna Hersek",
+      "Brezilya",
+      "Nijerya",
+      "Ermenistan",
+      "Arjantin"
+    ],
+    "answer_index": 2,
+    "explanation": "Abuja şehri, Nijerya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-388-ovp2",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Londra olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsrail",
+      "Çekya",
+      "Avusturya",
+      "İngiltere",
+      "Fas"
+    ],
+    "answer_index": 3,
+    "explanation": "Londra şehri, İngiltere devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-389-ield",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Moskova olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Singapur",
+      "İran",
+      "Meksika",
+      "Avustralya",
+      "Rusya"
+    ],
+    "answer_index": 4,
+    "explanation": "Moskova şehri, Rusya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-39-r2kw",
+    "topic_id": "topic-guncel",
+    "prompt": "Slovenya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bratislava",
+      "Priştine",
+      "Üsküp",
+      "Doha",
+      "Lübliyana"
+    ],
+    "answer_index": 4,
+    "explanation": "Slovenya devletinin başkenti Lübliyana şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-390-y4er",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Ankara olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Türkiye",
+      "Suudi Arabistan",
+      "Ukrayna",
+      "Polonya",
+      "Bangladeş"
+    ],
+    "answer_index": 0,
+    "explanation": "Ankara şehri, Türkiye devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-391-vdxd",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Atina olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanada",
+      "Yunanistan",
+      "İsviçre",
+      "Bosna Hersek",
+      "İspanya"
+    ],
+    "answer_index": 1,
+    "explanation": "Atina şehri, Yunanistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-392-gei5",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Stokholm olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Meksika",
+      "Singapur",
+      "İsveç",
+      "Türkiye",
+      "Lübnan"
+    ],
+    "answer_index": 2,
+    "explanation": "Stokholm şehri, İsveç devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-393-5yra",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Oslo olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Etiyopya",
+      "Bosna Hersek",
+      "Ürdün",
+      "Norveç",
+      "Danimarka"
+    ],
+    "answer_index": 3,
+    "explanation": "Oslo şehri, Norveç devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-394-zjcz",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Helsinki olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Hollanda",
+      "İsveç",
+      "Avustralya",
+      "Yeni Zelanda",
+      "Finlandiya"
+    ],
+    "answer_index": 4,
+    "explanation": "Helsinki şehri, Finlandiya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-395-kuva",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kopenhag olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Danimarka",
+      "Mısır",
+      "Avustralya",
+      "Yunanistan",
+      "Ukrayna"
+    ],
+    "answer_index": 0,
+    "explanation": "Kopenhag şehri, Danimarka devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-396-d8ac",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Brüksel olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Gürcistan",
+      "Belçika",
+      "Sri Lanka",
+      "Güney Afrika",
+      "Türkiye"
+    ],
+    "answer_index": 1,
+    "explanation": "Brüksel şehri, Belçika devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-397-9wld",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Amsterdam olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kenya",
+      "Ukrayna",
+      "Hollanda",
+      "Almanya",
+      "Sırbistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Amsterdam şehri, Hollanda devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-398-f7fq",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bern olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Polonya",
+      "Afganistan",
+      "İtalya",
+      "İsviçre",
+      "İspanya"
+    ],
+    "answer_index": 3,
+    "explanation": "Bern şehri, İsviçre devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-399-gdt4",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Viyana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İspanya",
+      "Hindistan",
+      "Güney Kore",
+      "Katar",
+      "Avusturya"
+    ],
+    "answer_index": 4,
+    "explanation": "Viyana şehri, Avusturya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-4-qf3l",
+    "topic_id": "topic-guncel",
+    "prompt": "Libya devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Sofya",
+      "Londra",
+      "Roma",
+      "Beyrut",
+      "Trablus"
+    ],
+    "answer_index": 4,
+    "explanation": "Libya devletinin başkenti Trablus şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-40-iq8r",
+    "topic_id": "topic-guncel",
+    "prompt": "Ukrayna devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kiev",
+      "Lübliyana",
+      "Astana",
+      "Dodoma",
+      "Sofya"
+    ],
+    "answer_index": 0,
+    "explanation": "Ukrayna devletinin başkenti Kiev şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-400-xaaq",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Varşova olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Polonya",
+      "Türkiye",
+      "Lübnan",
+      "Belçika",
+      "İsrail"
+    ],
+    "answer_index": 0,
+    "explanation": "Varşova şehri, Polonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-401-3sui",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Prag olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Şili",
+      "Çekya",
+      "İspanya",
+      "Endonezya",
+      "Peru"
+    ],
+    "answer_index": 1,
+    "explanation": "Prag şehri, Çekya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-402-la6d",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Budapeşte olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Somali",
+      "Kazakistan",
+      "Macaristan",
+      "Endonezya",
+      "Afganistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Budapeşte şehri, Macaristan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-403-ujox",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bükreş olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kazakistan",
+      "Sri Lanka",
+      "Afganistan",
+      "Romanya",
+      "BAE"
+    ],
+    "answer_index": 3,
+    "explanation": "Bükreş şehri, Romanya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-404-6sab",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Sofya olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tayland",
+      "Türkiye",
+      "İtalya",
+      "Ukrayna",
+      "Bulgaristan"
+    ],
+    "answer_index": 4,
+    "explanation": "Sofya şehri, Bulgaristan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-405-5txb",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Belgrad olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Sırbistan",
+      "Peru",
+      "Nijerya",
+      "Bulgaristan",
+      "Kazakistan"
+    ],
+    "answer_index": 0,
+    "explanation": "Belgrad şehri, Sırbistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-406-sv79",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Zagreb olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tayland",
+      "Hırvatistan",
+      "İspanya",
+      "Romanya",
+      "Karadağ"
+    ],
+    "answer_index": 1,
+    "explanation": "Zagreb şehri, Hırvatistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-407-gc8c",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Saraybosna olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Lübnan",
+      "Kazakistan",
+      "Bosna Hersek",
+      "Tunus",
+      "Suudi Arabistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Saraybosna şehri, Bosna Hersek devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-408-xmyn",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tiran olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ürdün",
+      "Tayland",
+      "Pakistan",
+      "Arnavutluk",
+      "Suriye"
+    ],
+    "answer_index": 3,
+    "explanation": "Tiran şehri, Arnavutluk devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-409-3vy0",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Üsküp olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Norveç",
+      "Malezya",
+      "Danimarka",
+      "Tayland",
+      "Kuzey Makedonya"
+    ],
+    "answer_index": 4,
+    "explanation": "Üsküp şehri, Kuzey Makedonya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-41-ftnh",
+    "topic_id": "topic-guncel",
+    "prompt": "Belarus devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kahire",
+      "Minsk",
+      "Kanberra",
+      "Brazilya",
+      "Hartum"
+    ],
+    "answer_index": 1,
+    "explanation": "Belarus devletinin başkenti Minsk şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-410-tqnv",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Podgoritsa olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Karadağ",
+      "Hindistan",
+      "Belarus",
+      "Japonya",
+      "Romanya"
+    ],
+    "answer_index": 0,
+    "explanation": "Podgoritsa şehri, Karadağ devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-411-p0g9",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Priştine olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsrail",
+      "Kosova",
+      "Tunus",
+      "Nijerya",
+      "Avusturya"
+    ],
+    "answer_index": 1,
+    "explanation": "Priştine şehri, Kosova devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-412-jj04",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bratislava olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tanzanya",
+      "Özbekistan",
+      "Slovakya",
+      "İsrail",
+      "Türkmenistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Bratislava şehri, Slovakya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-413-e83z",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Lübliyana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Afganistan",
+      "Yunanistan",
+      "Kenya",
+      "Slovenya",
+      "Şili"
+    ],
+    "answer_index": 3,
+    "explanation": "Lübliyana şehri, Slovenya devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-414-2hi5",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kiev olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "Güney Afrika",
+      "Slovenya",
+      "Ukrayna"
+    ],
+    "answer_index": 4,
+    "explanation": "Kiev şehri, Ukrayna devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-415-4jwk",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Minsk olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Belarus",
+      "İsviçre",
+      "Hırvatistan",
+      "Katar",
+      "Kuzey Makedonya"
+    ],
+    "answer_index": 0,
+    "explanation": "Minsk şehri, Belarus devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-416-v7pl",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Astana olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Tayland",
+      "Kazakistan",
+      "Slovenya",
+      "İsveç",
+      "Ukrayna"
+    ],
+    "answer_index": 1,
+    "explanation": "Astana şehri, Kazakistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-417-b2ha",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Taşkent olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Rusya",
+      "İsviçre",
+      "Özbekistan",
+      "Libya",
+      "Katar"
+    ],
+    "answer_index": 2,
+    "explanation": "Taşkent şehri, Özbekistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-418-2ska",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Aşkabat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Güney Kore",
+      "Rusya",
+      "Lübnan",
+      "Türkmenistan",
+      "Yeni Zelanda"
+    ],
+    "answer_index": 3,
+    "explanation": "Aşkabat şehri, Türkmenistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-419-nf6k",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bişkek olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Danimarka",
+      "Sudan",
+      "Kuveyt",
+      "Venezuela",
+      "Kırgızistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Bişkek şehri, Kırgızistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-42-m7vu",
+    "topic_id": "topic-guncel",
+    "prompt": "Kazakistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Pekin",
+      "Zagreb",
+      "Astana",
+      "Meksiko",
+      "Bern"
+    ],
+    "answer_index": 2,
+    "explanation": "Kazakistan devletinin başkenti Astana şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-420-pjur",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bakü olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Azerbaycan",
+      "Hırvatistan",
+      "Ukrayna",
+      "İngiltere",
+      "Vietnam"
+    ],
+    "answer_index": 0,
+    "explanation": "Bakü şehri, Azerbaycan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-421-pahx",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tiflis olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kenya",
+      "Gürcistan",
+      "Etiyopya",
+      "Slovakya",
+      "Danimarka"
+    ],
+    "answer_index": 1,
+    "explanation": "Tiflis şehri, Gürcistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-422-vtw0",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Erivan olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Pakistan",
+      "Filipinler",
+      "Ermenistan",
+      "Sırbistan",
+      "Özbekistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Erivan şehri, Ermenistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-423-ykxl",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Tahran olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İsviçre",
+      "Belçika",
+      "Çin",
+      "İran",
+      "Azerbaycan"
+    ],
+    "answer_index": 3,
+    "explanation": "Tahran şehri, İran devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-424-cy5j",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Bağdat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Venezuela",
+      "Ürdün",
+      "Brezilya",
+      "Güney Afrika",
+      "Irak"
+    ],
+    "answer_index": 4,
+    "explanation": "Bağdat şehri, Irak devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-425-rskk",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Şam olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Suriye",
+      "Etiyopya",
+      "Özbekistan",
+      "Rusya",
+      "İtalya"
+    ],
+    "answer_index": 0,
+    "explanation": "Şam şehri, Suriye devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-426-nv87",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Amman olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Bosna Hersek",
+      "Ürdün",
+      "İsveç",
+      "Kuveyt",
+      "Hollanda"
+    ],
+    "answer_index": 1,
+    "explanation": "Amman şehri, Ürdün devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-427-yd01",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Beyrut olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ürdün",
+      "Slovenya",
+      "Lübnan",
+      "Kenya",
+      "Hırvatistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Beyrut şehri, Lübnan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-428-ulaf",
+    "topic_id": "topic-guncel",
+    "prompt": "Kendi hukukuna göre başkenti Kudüs olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Güney Afrika",
+      "Afganistan",
+      "Fas",
+      "İsrail",
+      "Kanada"
+    ],
+    "answer_index": 3,
+    "explanation": "İsrail'in Temel Yasalarına göre Kudüs başkent olarak düzenlenmiştir. Kudüs'ün uluslararası statüsü ayrıca ihtilaflıdır; soru İsrail'in iç hukukundaki düzenlemeyi esas almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-429-fz4j",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Riyad olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "İngiltere",
+      "Belçika",
+      "Fransa",
+      "Malezya",
+      "Suudi Arabistan"
+    ],
+    "answer_index": 4,
+    "explanation": "Riyad şehri, Suudi Arabistan devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-43-urkx",
+    "topic_id": "topic-guncel",
+    "prompt": "Özbekistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Varşova",
+      "Singapur",
+      "Madrid",
+      "Taşkent",
+      "Lübliyana"
+    ],
+    "answer_index": 3,
+    "explanation": "Özbekistan devletinin başkenti Taşkent şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-430-pazq",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Abu Dabi olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "BAE",
+      "Bangladeş",
+      "Hindistan",
+      "Hollanda",
+      "Şili"
+    ],
+    "answer_index": 0,
+    "explanation": "Abu Dabi şehri, BAE devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-431-vlnq",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Doha olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Ermenistan",
+      "Katar",
+      "Malezya",
+      "İtalya",
+      "Yeni Zelanda"
+    ],
+    "answer_index": 1,
+    "explanation": "Doha şehri, Katar devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-432-owyt",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Kuveyt olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Fas",
+      "Kenya",
+      "Kuveyt",
+      "İtalya",
+      "Sri Lanka"
+    ],
+    "answer_index": 2,
+    "explanation": "Kuveyt şehri, Kuveyt devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-433-zv6p",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Rabat olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Hindistan",
+      "Vietnam",
+      "Yeni Zelanda",
+      "Fas",
+      "Filipinler"
+    ],
+    "answer_index": 3,
+    "explanation": "Rabat şehri, Fas devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-434-hxt3",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkenti Cezayir olan ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Güney Afrika",
+      "Nijerya",
+      "İspanya",
+      "Brezilya",
+      "Cezayir"
+    ],
+    "answer_index": 4,
+    "explanation": "Cezayir şehri, Cezayir devletinin başkentidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-435-f27e",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Türkiye'nin BRICS 'partner ülke' statüsüne ilişkin hangisi doğrudur?",
+    "options": [
+      "Türkiye, BRICS'in resmî partner ülkeleri listesinde yer almamaktadır",
+      "Grubun tam ve eşit haklara sahip üyesidir",
+      "Grupla hiçbir resmî ilişkisi bulunmamaktadır",
+      "Grubun kurucu üyelerinden biridir",
+      "Grubun daimi gözlemci konseyi başkanlığını yürütmektedir"
+    ],
+    "answer_index": 0,
+    "explanation": "BRICS'in resmî partner ülkeleri listesinde Belarus, Bolivya, Küba, Kazakistan, Malezya, Nijerya, Tayland, Uganda, Özbekistan ve Vietnam yer almaktadır; Türkiye bu listede değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-436-w8wo",
+    "topic_id": "topic-guncel",
+    "prompt": "BRICS zirvelerinin dönem başkanlığı sistemi nasıl işler?",
+    "options": [
+      "Sabit bir ülke daima başkanlık eder",
+      "Rotasyon esasına göre üyeler arasında el değiştirir",
+      "Birleşmiş Milletler tarafından resmî olarak atanır",
+      "En büyük ekonomiye sahip ülke sürekli başkandır",
+      "Kura yöntemiyle her hafta yeniden belirlenir"
+    ],
+    "answer_index": 1,
+    "explanation": "BRICS dönem başkanlığı, üye ülkeler arasında yıllık rotasyon usulüyle belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-437-jyky",
+    "topic_id": "topic-guncel",
+    "prompt": "ECO'nun öncülü olan kuruluş hangisidir?",
+    "options": [
+      "OAU (Afrika Birliği Örgütü)",
+      "CENTO (Merkezi Antlaşma Teşkilatı)",
+      "RCD (Kalkınma İçin Bölgesel İşbirliği)",
+      "OPEC (Petrol İhraç Eden Ülkeler Örgütü)",
+      "Arap Birliği (Arap Devletleri Ligi)"
+    ],
+    "answer_index": 2,
+    "explanation": "ECO, 1964'te kurulan RCD'nin (Kalkınma İçin Bölgesel İşbirliği) devamı niteliğindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-438-z6x8",
+    "topic_id": "topic-guncel",
+    "prompt": "Rusya'nın Avrupa Konseyi üyeliği hangi olay sonrası sona ermiştir?",
+    "options": [
+      "Kırım'ın ilhakı (2014)",
+      "Gürcistan Savaşı (2008)",
+      "Suriye'ye yapılan askerî müdahale",
+      "Ukrayna'ya tam ölçekli saldırı (2022)",
+      "Soğuk Savaş döneminin sona ermesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Rusya'nın Avrupa Konseyi üyeliği, Ukrayna'ya yönelik 2022 saldırısının ardından sona ermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-439-g03c",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin altı temel organından biri olan, ekonomik ve sosyal konularda koordinasyonu sağlayan organ hangisidir?",
+    "options": [
+      "Güvenlik Konseyi (UNSC)",
+      "Genel Kurul (UNGA)",
+      "Vesayet Konseyi (UNTC)",
+      "Sekretarya (BM İdari Birimi)",
+      "Ekonomik ve Sosyal Konsey (ECOSOC)"
+    ],
+    "answer_index": 4,
+    "explanation": "ECOSOC, BM sisteminde ekonomik, sosyal ve ilgili alanlardaki çalışmaları koordine eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-44-ur9k",
+    "topic_id": "topic-guncel",
+    "prompt": "Kırgızistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Şam",
+      "Havana",
+      "Bogota",
+      "Riyad",
+      "Bişkek"
+    ],
+    "answer_index": 4,
+    "explanation": "Kırgızistan devletinin başkenti Bişkek şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-440-60kz",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Vesayet Konseyi'nin (Trusteeship Council) günümüzdeki durumu nedir?",
+    "options": [
+      "Faaliyetlerini 1994'ten itibaren askıya almıştır",
+      "Aktif olarak çalışmaya devam ediyor",
+      "Kuruluşundan bu yana hiç faal olmamıştır",
+      "Güvenlik Konseyi ile birleşmiştir",
+      "Sadece Afrika'da faaliyet gösterir"
+    ],
+    "answer_index": 0,
+    "explanation": "Son vesayet altındaki bölge olan Palau'nun bağımsızlığını kazanmasıyla Vesayet Konseyi 1994'te faaliyetlerini askıya almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-441-nys5",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Kadın Birimi'nin (UN Women) temel amacı nedir?",
+    "options": [
+      "Kadın istihdamından elde edilen geliri vergilendirmek",
+      "Toplumsal cinsiyet eşitliğini ve kadının güçlenmesini desteklemek",
+      "Yalnızca Avrupa kıtasında faaliyet göstermek",
+      "Barışı koruma amaçlı askerî operasyonları yönetmek",
+      "Ülkeler arası uluslararası ticareti düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "UN Women, 2010'da kurulmuş olup toplumsal cinsiyet eşitliği ve kadın haklarının geliştirilmesine odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-442-r555",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Nüfus Fonu'nun (UNFPA) çalışma alanı aşağıdakilerden hangisidir?",
+    "options": [
+      "Devletler arası askerî güvenlik meseleleri",
+      "Ülkeler arası uluslararası ticaret ilişkileri",
+      "Üreme sağlığı ve nüfus politikaları",
+      "Patent ve telif hakkı gibi fikri mülkiyet konuları",
+      "Uluslararası sular ve denizcilik hukuku düzenlemeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "UNFPA, üreme sağlığı, aile planlaması ve nüfus politikaları alanında çalışan bir BM fonudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-443-ex4e",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin resmî olmayan ama kabul görmüş kotasına göre, Genel Sekreterlik makamının bölgesel rotasyon geleneği var mıdır?",
+    "options": [
+      "Hayır, böyle bir gelenek hiçbir zaman oluşmamıştır",
+      "Hayır, yalnızca Asyalı adaylar seçilebilmektedir",
+      "Hayır, yalnızca Avrupalı adaylar seçilebilmektedir",
+      "Evet, gayriresmî bir bölgesel rotasyon beklentisi vardır",
+      "Hayır, yalnızca daimi üye ülkelerin vatandaşları seçilebilir"
+    ],
+    "answer_index": 3,
+    "explanation": "BM Genel Sekreterliği için resmî bir kural olmasa da bölgesel rotasyon beklentisi siyasi gelenek haline gelmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-444-sfxe",
+    "topic_id": "topic-guncel",
+    "prompt": "İİT'nin kuruluş amaçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Üye ülkeler için tek bir ortak para birimi oluşturmak",
+      "Yalnızca üye ülkeler arasında ekonomik birlik oluşturmak",
+      "Üye ülkeler arasında ortak bir ordu kurmak",
+      "Yalnızca bilimsel alanda iş birliği yapmak",
+      "İslam dünyasının çıkarlarını korumak ve dayanışmayı güçlendirmek"
+    ],
+    "answer_index": 4,
+    "explanation": "İİT, İslam dünyasının ortak çıkarlarını korumak ve üyeler arası dayanışmayı güçlendirmek amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-445-eqa0",
+    "topic_id": "topic-guncel",
+    "prompt": "APEC'in (Asya-Pasifik Ekonomik İşbirliği) temel amacı nedir?",
+    "options": [
+      "Asya-Pasifik bölgesinde ekonomik entegrasyonu teşvik etmek",
+      "Üye ülkeler arasında askerî iş birliği sağlamak",
+      "Bölgedeki insan hakları uygulamalarını izlemek",
+      "Bölgedeki kültürel mirası koruma altına almak",
+      "Yalnızca çevre politikalarını belirlemek ve uygulamak"
+    ],
+    "answer_index": 0,
+    "explanation": "APEC, Asya-Pasifik bölgesindeki ekonomiler arasında serbest ticaret ve yatırımı teşvik etmeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-446-3qxe",
+    "topic_id": "topic-guncel",
+    "prompt": "Karayip Topluluğu'nun (CARICOM) temel amacı nedir?",
+    "options": [
+      "Avrupa ülkeleriyle ortak bir askerî ittifak kurmak",
+      "Karayip ülkeleri arasında ekonomik ve siyasi iş birliğini geliştirmek",
+      "Yalnızca bölgesel turizm faaliyetlerini düzenlemek",
+      "Üye ülkeler adına petrol fiyatlarını belirlemek",
+      "Yalnızca bölgesel spor organizasyonlarını düzenlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "CARICOM, Karayip bölgesindeki ülkeler arasında ekonomik entegrasyon ve iş birliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-447-x2gv",
+    "topic_id": "topic-guncel",
+    "prompt": "Küba'nın OAS'daki üyeliği ile ilgili durum nedir?",
+    "options": [
+      "Tam üyedir ve aktif katılım sağlar",
+      "Örgüte hiçbir zaman üye olmamıştır",
+      "1962'de Küba hükümetinin katılımı dışlandı; 2009'da bu karar kaldırıldı, ancak Küba aktif katılıma dönmedi",
+      "Örgütte yalnızca gözlemci statüsündedir",
+      "Kurucu üyedir ve başkanlık etmektedir"
+    ],
+    "answer_index": 2,
+    "explanation": "OAS Genel Kurulu 2009'da, 1962'de Küba hükümetini Amerikalar arası sisteme katılımdan dışlayan kararın artık hüküm doğurmadığını kabul etti. Küba'nın OAS'a aktif katılımı ise Küba'nın talebiyle başlatılacak bir diyalog sürecine bağlandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-448-jt1h",
+    "topic_id": "topic-guncel",
+    "prompt": "Latin Amerika ve Karayip Devletleri Topluluğu'nun (CELAC) ABD ve Kanada'yı kapsamayan bir bölgesel örgüt olma özelliği nedendir?",
+    "options": [
+      "Kanada, örgüte hiçbir zaman üyelik başvurusunda bulunmamıştır",
+      "ABD ve Kanada'nın coğrafi konumu üyeliğe imkân vermemektedir",
+      "ABD, örgüt üyeliğinden resmî olarak çıkarılmıştır",
+      "Sadece Latin Amerika ve Karayip ülkelerini bir araya getirmesi amaçlanmıştır",
+      "Bu ayrım yalnızca ekonomik nedenlerden kaynaklanmaktadır"
+    ],
+    "answer_index": 3,
+    "explanation": "CELAC, kasıtlı olarak ABD ve Kanada'yı dışarıda bırakan, sadece Latin Amerika ve Karayip ülkelerini kapsayan bir bölgesel platformdur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-449-xzsu",
+    "topic_id": "topic-guncel",
+    "prompt": "2023-2024 döneminde Mali, Burkina Faso ve Nijer'in ECOWAS ile ilişkisinde yaşanan gelişme nedir?",
+    "options": [
+      "ECOWAS'taki üyeliklerini daha da güçlendirmişlerdir",
+      "Bu ülkelerin ECOWAS ile ilişkisinde hiçbir değişiklik yaşanmamıştır",
+      "ECOWAS'a yeni ve gönüllü olarak katılım sağlamışlardır",
+      "ECOWAS'ın dönem başkanlığı görevini üstlenmişlerdir",
+      "ECOWAS'tan çekilme kararı alıp Sahil Devletleri İttifakı'nı (AES) kurmuşlardır"
+    ],
+    "answer_index": 4,
+    "explanation": "Mali, Burkina Faso ve Nijer, askerî darbeler sonrası ECOWAS'tan çekilme kararı alarak Sahil Devletleri İttifakı'nı (Alliance of Sahel States) kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-45-dwnx",
+    "topic_id": "topic-guncel",
+    "prompt": "Azerbaycan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Bakü",
+      "Bratislava",
+      "Singapur",
+      "Hartum",
+      "Havana"
+    ],
+    "answer_index": 0,
+    "explanation": "Azerbaycan devletinin başkenti Bakü şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-450-px79",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Kıtasal Serbest Ticaret Alanı'nın (AfCFTA) temel amacı nedir?",
+    "options": [
+      "Afrika kıtasında tek bir serbest ticaret pazarı oluşturmak",
+      "Afrika ülkeleri arasında askerî ittifak kurmak",
+      "Sadece Kuzey Afrika ülkelerini kapsamak",
+      "Kıtadaki üye ülkeler arasında petrol üretim kotalarını sınırlamak",
+      "Yalnızca tarım ürünlerinin ticaretini düzenlemek"
+    ],
+    "answer_index": 0,
+    "explanation": "AfCFTA, Afrika kıtasında tek bir büyük serbest ticaret pazarı oluşturmayı hedefleyen bir anlaşmadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-451-alh8",
+    "topic_id": "topic-guncel",
+    "prompt": "Baltık Denizi Devletleri Konseyi hangi tür bir bölgesel iş birliğine odaklanır?",
+    "options": [
+      "Yalnızca üye ülkeler arasındaki askerî savunma iş birliği",
+      "Baltık Denizi çevresindeki ülkeler arası bölgesel iş birliği",
+      "Yalnızca bölgesel uzay araştırmaları alanındaki iş birliği",
+      "Yalnızca ortak kültürel mirasın korunmasına yönelik çalışmalar",
+      "Yalnızca bölgesel spor organizasyonlarının düzenlenmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Baltık Denizi Devletleri Konseyi, bölge ülkeleri arasında ekonomik, çevresel ve siyasi iş birliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-452-i0ak",
+    "topic_id": "topic-guncel",
+    "prompt": "IMF'nin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Üye ülkeler arasında askerî iş birliği sağlamak",
+      "Dünya genelinde kültürel mirası korumak",
+      "Küresel para ve finansal istikrarı desteklemek",
+      "Uluslararası ticareti düzenlemek",
+      "İnsan haklarını denetlemek"
+    ],
+    "answer_index": 2,
+    "explanation": "IMF, üye ülkelere ödemeler dengesi sorunlarında destek sağlayarak küresel finansal istikrarı desteklemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-453-nwtk",
+    "topic_id": "topic-guncel",
+    "prompt": "WTO'nun temel işlevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Üye ülkeler arasındaki askerî anlaşmazlıkları çözmek",
+      "Uluslararası sağlık standartlarını belirlemek",
+      "Küresel para politikalarını belirleyip yönetmek",
+      "Uluslararası ticaret kurallarını belirlemek ve anlaşmazlıkları çözmek",
+      "Küresel iklim değişikliğiyle etkin biçimde mücadele etmek"
+    ],
+    "answer_index": 3,
+    "explanation": "WTO, üye ülkeler arasındaki ticareti düzenleyen kuralları belirler ve ticari uyuşmazlıkları çözer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-454-37fx",
+    "topic_id": "topic-guncel",
+    "prompt": "G20 grubu hangi tür ülkeleri temsil eder?",
+    "options": [
+      "Yalnızca gelişmiş Batılı ülkeleri",
+      "Yalnızca gelişmekte olan yoksul ülkeleri",
+      "Sadece Asya-Pasifik ülkeleri",
+      "Sadece Avrupa ülkeleri",
+      "Gelişmiş ve gelişmekte olan büyük ekonomiler"
+    ],
+    "answer_index": 4,
+    "explanation": "G20, dünyanın en büyük gelişmiş ve gelişmekte olan ekonomilerini bir araya getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-455-e601",
+    "topic_id": "topic-guncel",
+    "prompt": "G20'nin kalıcı bir merkezi/sekreteryası var mıdır?",
+    "options": [
+      "Hayır, dönem başkanlığı sistemiyle yürütülür",
+      "Evet, merkezi Belçika'nın Brüksel şehrindedir",
+      "Evet, merkezi İsviçre'nin Cenevre şehrindedir",
+      "Evet, merkezi ABD'nin New York şehrindedir",
+      "Evet, merkezi ABD'nin Washington şehrindedir"
+    ],
+    "answer_index": 0,
+    "explanation": "G20'nin sabit bir sekreteryası yoktur; her yıl dönem başkanlığını üstlenen ülke zirveyi organize eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-456-ll2s",
+    "topic_id": "topic-guncel",
+    "prompt": "G7 zirvelerinde Avrupa Birliği'nin konumu nedir?",
+    "options": [
+      "Grubun tam ve eşit haklara sahip üyesidir",
+      "Tam üye değildir ama zirvelere katılır",
+      "Zirvelere hiçbir şekilde katılım sağlamaz",
+      "Sadece gözlemcidir ama oy hakkı yoktur",
+      "Grubun yalnızca dönemsel olarak değişen bir üyesidir"
+    ],
+    "answer_index": 1,
+    "explanation": "AB, G7'nin resmî üyesi olmamakla birlikte zirvelere düzenli olarak katılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-457-9qaa",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO Dünya Mirası Listesi neyi kapsar?",
+    "options": [
+      "Yalnızca korunan doğal alanları ve millî parkları",
+      "Yalnızca tarihi öneme sahip eski kentleri",
+      "Kültürel, doğal ve karma değerdeki alanları",
+      "Yalnızca dünyaca ünlü büyük müzeleri",
+      "Yalnızca nesli tükenmekte olan dilleri"
+    ],
+    "answer_index": 2,
+    "explanation": "UNESCO Dünya Mirası Listesi, üstün evrensel değere sahip kültürel, doğal ve karma alanları içerir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-458-41ld",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği hangi örgütün yerine kurulmuştur?",
+    "options": [
+      "Frankofoni Örgütü (Fransızca Konuşan Ülkeler)",
+      "Arap Birliği (Arap Devletleri Ligi)",
+      "Commonwealth (İngiliz Milletler Topluluğu)",
+      "Afrika Birliği Örgütü (OAU)",
+      "BRICS (Brezilya, Rusya, Hindistan, Çin, Güney Afrika)"
+    ],
+    "answer_index": 3,
+    "explanation": "Afrika Birliği, 2002 yılında Afrika Birliği Örgütü'nün (OAU) yerini alarak kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-459-pdk1",
+    "topic_id": "topic-guncel",
+    "prompt": "Arktik Konseyi'nin (Arctic Council) temel çalışma alanı nedir?",
+    "options": [
+      "Üye ülkeler arasındaki ticaret anlaşmazlıklarını çözmek",
+      "Üye ülkeler arasında ortak askerî tatbikatlar düzenlemek",
+      "Yalnızca bölgesel balıkçılık düzenlemelerini belirlemek",
+      "Kutup bölgesinde uzay araştırmaları yürütmek",
+      "Kutup bölgesinde çevre koruma ve sürdürülebilir kalkınma"
+    ],
+    "answer_index": 4,
+    "explanation": "Arktik Konseyi, Kuzey Kutup bölgesindeki çevre koruma ve sürdürülebilir kalkınma konularında iş birliğini teşvik eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-46-0a4s",
+    "topic_id": "topic-guncel",
+    "prompt": "Gürcistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kiev",
+      "Tiflis",
+      "Havana",
+      "Budapeşte",
+      "Erivan"
+    ],
+    "answer_index": 1,
+    "explanation": "Gürcistan devletinin başkenti Tiflis şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-460-9pm8",
+    "topic_id": "topic-guncel",
+    "prompt": "Antarktika Antlaşması Sistemi'nin temel amacı nedir?",
+    "options": [
+      "Antarktika'yı askerî kullanımdan arındırıp bilimsel araştırmaya ayırmak",
+      "Antarktika'nın tamamını tek bir ülkeye resmî olarak tahsis etmek",
+      "Antarktika'da ticari amaçlı madencilik faaliyetlerini teşvik etmek",
+      "Antarktika topraklarını özel mülkiyete ve satışa açmak",
+      "Antarktika'da kalıcı askerî üsler kurulmasını sağlamak"
+    ],
+    "answer_index": 0,
+    "explanation": "Antarktika Antlaşması, kıtayı askerî faaliyetlerden arındırarak barışçıl bilimsel araştırmaya ayırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-461-ghxg",
+    "topic_id": "topic-guncel",
+    "prompt": "Mali Eylem Görev Gücü'nün (FATF) temel görevi nedir?",
+    "options": [
+      "Ülkeler arasındaki uluslararası ticareti serbestleştirmek",
+      "Kara para aklama ve terörün finansmanıyla mücadele standartları belirlemek",
+      "Üye ülkelerin askerî harcamalarını denetlemek",
+      "Küresel iklim politikalarını belirlemek ve uygulamak",
+      "Patent ve telif hakları gibi fikri mülkiyeti korumak"
+    ],
+    "answer_index": 1,
+    "explanation": "FATF, kara para aklama ve terörizmin finansmanıyla mücadele için küresel standartlar belirleyen hükümetlerarası bir kuruluştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-462-kf1v",
+    "topic_id": "topic-guncel",
+    "prompt": "Finansal İstikrar Kurulu'nun (FSB) kuruluş amacı nedir?",
+    "options": [
+      "Uluslararası ticaret anlaşmazlıklarını çözmek",
+      "Sadece Avrupa bankalarını denetlemek",
+      "Küresel finansal sistemin istikrarını izlemek ve öneriler geliştirmek",
+      "Devletler arasındaki askerî güvenlik meselelerini yönetmek",
+      "Üye ülkelerin turizm politikalarını belirlemek"
+    ],
+    "answer_index": 2,
+    "explanation": "FSB, 2008 küresel finans krizinin ardından G20 çatısında küresel finansal istikrarı izlemek üzere güçlendirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-463-6my4",
+    "topic_id": "topic-guncel",
+    "prompt": "Paris Kulübü'nün (Paris Club) temel işlevi nedir?",
+    "options": [
+      "Ortak kültürel mirasın uluslararası düzeyde korunması",
+      "Ülkeler arasındaki uluslararası ticareti düzenlemek",
+      "Üye devletler arasında resmî bir askerî ittifak kurmak",
+      "Alacaklı devletler arasında borç yeniden yapılandırma koordinasyonu",
+      "Üye ülkeler için ortak sağlık standartları belirlemek"
+    ],
+    "answer_index": 3,
+    "explanation": "Paris Kulübü, alacaklı devletlerin borçlu ülkelerle borç yeniden yapılandırması konusunda koordinasyon sağladığı gayriresmî bir forumdur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-464-l74s",
+    "topic_id": "topic-guncel",
+    "prompt": "Basel Bankacılık Denetim Komitesi'nin temel çalışma alanı nedir?",
+    "options": [
+      "Küresel turizm istatistiklerini toplayıp yayımlamak",
+      "Ülkeler arasındaki uluslararası ticaret anlaşmazlıklarını çözmek",
+      "Üye ülkelerin askerî harcamalarının denetimini yapmak",
+      "Gelişmekte olan ülkelere yönelik iklim finansmanı sağlamak",
+      "Küresel bankacılık düzenlemeleri ve sermaye yeterliliği standartları"
+    ],
+    "answer_index": 4,
+    "explanation": "Basel Komitesi, bankaların sermaye yeterliliği ve risk yönetimi konularında küresel standartlar (Basel I, II, III) belirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-465-k0l5",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun Ortaklık için Barış (Partnership for Peace) programı hangi tür ülkelerle iş birliğini kapsar?",
+    "options": [
+      "NATO üyesi olmayan ancak iş birliği yapan ülkelerle",
+      "Yalnızca NATO'nun mevcut tam üyeleriyle",
+      "Yalnızca Asya kıtasındaki ülkelerle",
+      "Sadece BM Güvenlik Konseyi üyeleriyle",
+      "Sadece Afrika ülkeleriyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Ortaklık için Barış, NATO üyesi olmayan ülkelerle güvenlik iş birliğini geliştirmeyi amaçlayan bir programdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-466-a8om",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre Türkiye Devleti'nin dili hangisidir?",
+    "options": [
+      "İngilizce",
+      "Türkçe",
+      "Osmanlı Türkçesi",
+      "Arapça",
+      "Fransızca"
+    ],
+    "answer_index": 1,
+    "explanation": "Anayasa'nın 3. maddesine göre Türkiye Devleti'nin dili Türkçedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-467-h1c9",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre Türkiye'nin millî marşı hangisidir?",
+    "options": [
+      "Gençlik Marşı",
+      "Onuncu Yıl Marşı",
+      "İstiklal Marşı",
+      "İzmir Marşı",
+      "Harbiye Marşı"
+    ],
+    "answer_index": 2,
+    "explanation": "Anayasa'nın 3. maddesinde millî marşın İstiklal Marşı olduğu belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-468-c6gq",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre Türkiye Devleti'nin yönetim şekli nedir?",
+    "options": [
+      "Monarşi",
+      "Federasyon",
+      "Konfederasyon",
+      "Cumhuriyet",
+      "Mutlakiyet"
+    ],
+    "answer_index": 3,
+    "explanation": "Anayasa'nın 1. maddesine göre Türkiye Devleti bir Cumhuriyettir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-469-z5cx",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre egemenlik kayıtsız şartsız kime aittir?",
+    "options": [
+      "Türkiye Büyük Millet Meclisine",
+      "Cumhurbaşkanına",
+      "Hükûmete",
+      "Mahkemelere",
+      "Millete"
+    ],
+    "answer_index": 4,
+    "explanation": "Anayasa'nın 6. maddesine göre egemenlik kayıtsız şartsız Milletindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-47-f7zj",
+    "topic_id": "topic-guncel",
+    "prompt": "Ermenistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Nairobi",
+      "Bakü",
+      "Erivan",
+      "Bangkok",
+      "Santiago"
+    ],
+    "answer_index": 2,
+    "explanation": "Ermenistan devletinin başkenti Erivan şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-470-l8ci",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre yasama yetkisi Türk Milleti adına hangi organa aittir?",
+    "options": [
+      "Türkiye Büyük Millet Meclisine",
+      "Cumhurbaşkanına",
+      "Anayasa Mahkemesine",
+      "Danıştaya",
+      "Yargıtaya"
+    ],
+    "answer_index": 0,
+    "explanation": "Anayasa'nın 7. maddesine göre yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisinindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-471-zppv",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti Anayasası'na göre yargı yetkisi Türk Milleti adına kimlerce kullanılır?",
+    "options": [
+      "Türkiye Büyük Millet Meclisince",
+      "Bağımsız ve tarafsız mahkemelerce",
+      "Cumhurbaşkanınca",
+      "Bakanlıklarca",
+      "Sayıştayca"
+    ],
+    "answer_index": 1,
+    "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-472-3o99",
+    "topic_id": "topic-guncel",
+    "prompt": "Anayasa'ya göre devletin şekli, Cumhuriyetin nitelikleri ve 3. madde hükümleri için hangisi doğrudur?",
+    "options": [
+      "Yalnız referandumla değiştirilebilir",
+      "Nitelikli çoğunlukla değiştirilebilir",
+      "Değiştirilemez ve değiştirilmeleri teklif edilemez",
+      "Cumhurbaşkanı kararıyla değiştirilebilir",
+      "Olağanüstü hâlde değiştirilebilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Anayasa'nın 4. maddesi, 1. maddedeki devletin şekli hükmü ile 2. ve 3. madde hükümlerinin değiştirilemeyeceğini ve değiştirilmesinin teklif edilemeyeceğini düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-473-7qxw",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "options": [
+      "19 Mayıs 1919",
+      "30 Ağustos 1922",
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 3,
+    "explanation": "TBMM'nin ilk toplantısı 23 Nisan 1920 tarihinde yapılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-474-v3fz",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Cumhuriyeti hangi tarihte ilan edilmiştir?",
+    "options": [
+      "23 Nisan 1920",
+      "30 Ağustos 1922",
+      "24 Temmuz 1923",
+      "3 Mart 1924",
+      "29 Ekim 1923"
+    ],
+    "answer_index": 4,
+    "explanation": "Cumhuriyet 29 Ekim 1923 tarihinde ilan edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-475-ou67",
+    "topic_id": "topic-guncel",
+    "prompt": "İstiklal Marşı Türkiye Büyük Millet Meclisi tarafından hangi tarihte kabul edilmiştir?",
+    "options": [
+      "12 Mart 1921",
+      "23 Nisan 1920",
+      "19 Mayıs 1919",
+      "29 Ekim 1923",
+      "30 Ağustos 1922"
+    ],
+    "answer_index": 0,
+    "explanation": "Mehmet Âkif Ersoy'un kaleme aldığı İstiklal Marşı, 12 Mart 1921'de TBMM tarafından kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-476-xhwf",
+    "topic_id": "topic-guncel",
+    "prompt": "İstiklal Marşı'nın sözlerini kim yazmıştır?",
+    "options": [
+      "Yahya Kemal Beyatlı",
+      "Mehmet Âkif Ersoy",
+      "Namık Kemal",
+      "Ziya Gökalp",
+      "Tevfik Fikret"
+    ],
+    "answer_index": 1,
+    "explanation": "İstiklal Marşı'nın sözleri Mehmet Âkif Ersoy tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-477-8lkn",
+    "topic_id": "topic-guncel",
+    "prompt": "Mustafa Kemal Atatürk'ün Nutuk adlı eseri esas olarak hangi yıllar arasındaki dönemi anlatır?",
+    "options": [
+      "1908-1918",
+      "1920-1923",
+      "1919-1927",
+      "1923-1938",
+      "1914-1922"
+    ],
+    "answer_index": 2,
+    "explanation": "Atatürk Araştırma Merkezi, Nutuk'u 1919-1927 dönemini kapsayan eser olarak yayımlamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-478-bt0h",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Dil Kurumu Atatürk'ün direktifleriyle hangi yıl kurulmuştur?",
+    "options": [
+      "1923",
+      "1928",
+      "1931",
+      "1932",
+      "1935"
+    ],
+    "answer_index": 3,
+    "explanation": "Türk Dil Kurumu, Atatürk'ün direktifleriyle 1932 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-479-px7g",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Tarih Kurumu Atatürk'ün direktifleriyle hangi yıl kurulmuştur?",
+    "options": [
+      "1923",
+      "1928",
+      "1932",
+      "1935",
+      "1931"
+    ],
+    "answer_index": 4,
+    "explanation": "Türk Tarih Kurumu, Atatürk'ün direktifleriyle 1931 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-48-alji",
+    "topic_id": "topic-guncel",
+    "prompt": "İran devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Seul",
+      "Ankara",
+      "Aşkabat",
+      "Tahran",
+      "Kolombo"
+    ],
+    "answer_index": 3,
+    "explanation": "İran devletinin başkenti Tahran şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-480-03y5",
+    "topic_id": "topic-guncel",
+    "prompt": "Göbekli Tepe UNESCO Dünya Mirası Listesi'ne hangi yıl alınmıştır?",
+    "options": [
+      "2018",
+      "1985",
+      "1998",
+      "2012",
+      "2021"
+    ],
+    "answer_index": 0,
+    "explanation": "UNESCO kayıtlarına göre Göbekli Tepe 2018 yılında Dünya Mirası Listesi'ne alınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-481-69ro",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO Dünya Mirası Listesi'ndeki Hattuşa hangi uygarlığın başkenti olarak tanımlanır?",
+    "options": [
+      "Frig",
+      "Hitit",
+      "Urartu",
+      "Lidya",
+      "İyon"
+    ],
+    "answer_index": 1,
+    "explanation": "UNESCO, Hattuşa'yı 'Hitit Başkenti' olarak Dünya Mirası Listesi'nde tanımlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-482-bhn1",
+    "topic_id": "topic-guncel",
+    "prompt": "Efes UNESCO Dünya Mirası Listesi'ne hangi yıl alınmıştır?",
+    "options": [
+      "1985",
+      "1994",
+      "2015",
+      "2005",
+      "2021"
+    ],
+    "answer_index": 2,
+    "explanation": "UNESCO Türkiye sayfasına göre Efes 2015 yılında Dünya Mirası Listesi'ne alınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-483-ztup",
+    "topic_id": "topic-guncel",
+    "prompt": "Hierapolis-Pamukkale UNESCO Dünya Mirası Listesi'nde hangi tür miras alanı olarak sınıflandırılır?",
+    "options": [
+      "Yalnız kültürel miras",
+      "Yalnız doğal miras",
+      "Somut olmayan kültürel miras",
+      "Karma (kültürel ve doğal) miras",
+      "Sualtı kültürel mirası"
+    ],
+    "answer_index": 3,
+    "explanation": "UNESCO, Hierapolis-Pamukkale'yi kültürel ve doğal değerleri birlikte taşıyan karma miras alanı olarak sınıflandırır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-484-jqbm",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Türkiye'nin UNESCO Dünya Mirası Listesi'nde kaç kayıtlı alanı bulunmaktadır?",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "25",
+      "22"
+    ],
+    "answer_index": 4,
+    "explanation": "UNESCO'nun Türkiye ülke sayfasında Dünya Mirası Listesi'ne kayıtlı 22 alan gösterilmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-485-dsuc",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "options": [
+      "Jüpiter",
+      "Satürn",
+      "Dünya",
+      "Neptün",
+      "Uranüs"
+    ],
+    "answer_index": 0,
+    "explanation": "NASA'ya göre Jüpiter, Güneş Sistemi'nin en büyük gezegenidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-486-kpju",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin en sıcak gezegeni hangisidir?",
+    "options": [
+      "Merkür",
+      "Venüs",
+      "Mars",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "answer_index": 1,
+    "explanation": "NASA'ya göre Güneş'e Merkür'den daha uzak olmasına rağmen yoğun atmosferi nedeniyle en sıcak gezegen Venüs'tür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-487-bln4",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş'e en yakın gezegen hangisidir?",
+    "options": [
+      "Venüs",
+      "Dünya",
+      "Merkür",
+      "Mars",
+      "Jüpiter"
+    ],
+    "answer_index": 2,
+    "explanation": "NASA'ya göre Merkür, Güneş'e en yakın gezegendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-488-98so",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin en küçük gezegeni hangisidir?",
+    "options": [
+      "Mars",
+      "Venüs",
+      "Dünya",
+      "Merkür",
+      "Neptün"
+    ],
+    "answer_index": 3,
+    "explanation": "NASA'ya göre Merkür, Güneş Sistemi'nin en küçük gezegenidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-489-dnn0",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya, Güneş'e yakınlık sıralamasında kaçıncı gezegendir?",
+    "options": [
+      "Birinci",
+      "İkinci",
+      "Dördüncü",
+      "Beşinci",
+      "Üçüncü"
+    ],
+    "answer_index": 4,
+    "explanation": "NASA'ya göre Dünya, Güneş'ten itibaren üçüncü gezegendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-49-gqmt",
+    "topic_id": "topic-guncel",
+    "prompt": "Irak devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Prag",
+      "Amman",
+      "Podgoritsa",
+      "Addis Ababa",
+      "Bağdat"
+    ],
+    "answer_index": 4,
+    "explanation": "Irak devletinin başkenti Bağdat şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-490-rtzt",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nde Güneş'e en uzak gezegen hangisidir?",
+    "options": [
+      "Neptün",
+      "Uranüs",
+      "Satürn",
+      "Jüpiter",
+      "Mars"
+    ],
+    "answer_index": 0,
+    "explanation": "NASA'ya göre Neptün, Güneş'ten en uzak sekizinci gezegendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-491-nb1i",
+    "topic_id": "topic-guncel",
+    "prompt": "Belirgin halka sistemiyle tanınan ve Güneş'ten altıncı sırada bulunan gezegen hangisidir?",
+    "options": [
+      "Jüpiter",
+      "Satürn",
+      "Uranüs",
+      "Neptün",
+      "Venüs"
+    ],
+    "answer_index": 1,
+    "explanation": "NASA, Satürn'ü Güneş'ten altıncı gezegen ve belirgin halkalarıyla çevrili bir gezegen olarak tanımlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-492-t1zc",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nde yaşam barındırdığı kesin olarak bilinen tek gezegen hangisidir?",
+    "options": [
+      "Mars",
+      "Venüs",
+      "Dünya",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "answer_index": 2,
+    "explanation": "NASA'ya göre şu ana kadar yaşam barındırdığı bilinen tek gezegen Dünya'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-493-efp4",
+    "topic_id": "topic-guncel",
+    "prompt": "Marie Curie Nobel Ödülü'nü hangi iki bilim dalında kazanmıştır?",
+    "options": [
+      "Fizik ve Tıp",
+      "Kimya ve Tıp",
+      "Fizik ve Ekonomi",
+      "Fizik ve Kimya",
+      "Kimya ve Barış"
+    ],
+    "answer_index": 3,
+    "explanation": "Marie Curie 1903'te Fizik, 1911'de Kimya Nobel Ödülü'nü kazanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-494-5nfq",
+    "topic_id": "topic-guncel",
+    "prompt": "Marie Curie'nin Nobel Ödülü kazandığı yıllar hangileridir?",
+    "options": [
+      "1901 ve 1905",
+      "1905 ve 1910",
+      "1911 ve 1921",
+      "1920 ve 1930",
+      "1903 ve 1911"
+    ],
+    "answer_index": 4,
+    "explanation": "Nobel Prize kayıtlarına göre Marie Curie 1903'te Fizik, 1911'de Kimya Nobel Ödülü'nü almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-495-b3x2",
+    "topic_id": "topic-guncel",
+    "prompt": "Marie Curie'nin çalışmalarında keşfettiği iki element hangileridir?",
+    "options": [
+      "Polonyum ve radyum",
+      "Uranüs ve neptünyum",
+      "Helyum ve neon",
+      "Oksijen ve hidrojen",
+      "Demir ve kobalt"
+    ],
+    "answer_index": 0,
+    "explanation": "Nobel Prize kayıtlarına göre Marie Curie'nin çalışmaları polonyum ve radyumun keşfini içerir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-496-xewh",
+    "topic_id": "topic-guncel",
+    "prompt": "Japonya hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Japonya, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-497-nwh0",
+    "topic_id": "topic-guncel",
+    "prompt": "Kanada hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Kanada, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  }
+]

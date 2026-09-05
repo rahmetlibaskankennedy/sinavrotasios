@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mtn84yab-498-bp66",
+    "topic_id": "topic-guncel",
+    "prompt": "Brezilya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Brezilya, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-499-65rm",
+    "topic_id": "topic-guncel",
+    "prompt": "Mısır hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Mısır, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-5-xi53",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun sivil-askerî ortak karar organı hangisidir?",
+    "options": [
+      "Kuzey Atlantik Konseyi",
+      "Avrupa Konseyi",
+      "Askerî Komite tek başına",
+      "Genel Kurul",
+      "Güvenlik Konseyi"
+    ],
+    "answer_index": 0,
+    "explanation": "Kuzey Atlantik Konseyi, NATO'nun en üst düzey siyasi karar alma organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-50-ucgs",
+    "topic_id": "topic-guncel",
+    "prompt": "Suriye devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Şam",
+      "Kopenhag",
+      "Ottawa",
+      "Bogota",
+      "Kahire"
+    ],
+    "answer_index": 0,
+    "explanation": "Suriye devletinin başkenti Şam şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-500-f9yq",
+    "topic_id": "topic-guncel",
+    "prompt": "Norveç hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "Norveç, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-501-4efy",
+    "topic_id": "topic-guncel",
+    "prompt": "Avustralya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Okyanusya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Avustralya, Okyanusya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-502-9rqk",
+    "topic_id": "topic-guncel",
+    "prompt": "Arjantin hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Arjantin, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-503-v2hy",
+    "topic_id": "topic-guncel",
+    "prompt": "Hindistan hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Asya",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Hindistan, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-504-jpmz",
+    "topic_id": "topic-guncel",
+    "prompt": "Nijerya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Nijerya, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-505-cb7r",
+    "topic_id": "topic-guncel",
+    "prompt": "Portekiz hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "Portekiz, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-506-7ur6",
+    "topic_id": "topic-guncel",
+    "prompt": "Şili hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Güney Amerika",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Şili, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-507-72bd",
+    "topic_id": "topic-guncel",
+    "prompt": "Meksika hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Meksika, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-508-2988",
+    "topic_id": "topic-guncel",
+    "prompt": "Kenya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Kenya, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-509-q6wo",
+    "topic_id": "topic-guncel",
+    "prompt": "Vietnam hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Asya"
+    ],
+    "answer_index": 4,
+    "explanation": "Vietnam, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-51-x76l",
+    "topic_id": "topic-guncel",
+    "prompt": "Ürdün devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Varşova",
+      "Amman",
+      "Nairobi",
+      "Londra",
+      "Doha"
+    ],
+    "answer_index": 1,
+    "explanation": "Ürdün devletinin başkenti Amman şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-510-45bk",
+    "topic_id": "topic-guncel",
+    "prompt": "İzlanda hangi kıtada yer alır?",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "İzlanda, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-511-btz7",
+    "topic_id": "topic-guncel",
+    "prompt": "Yeni Zelanda hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Okyanusya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Yeni Zelanda, Okyanusya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-512-sdwm",
+    "topic_id": "topic-guncel",
+    "prompt": "Peru hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Peru, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-513-eyb4",
+    "topic_id": "topic-guncel",
+    "prompt": "Küba hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Küba, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-514-0ey6",
+    "topic_id": "topic-guncel",
+    "prompt": "Fas hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Fas, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-515-fyln",
+    "topic_id": "topic-guncel",
+    "prompt": "Nepal hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "Nepal, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-516-ke78",
+    "topic_id": "topic-guncel",
+    "prompt": "Finlandiya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Finlandiya, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-517-2a6v",
+    "topic_id": "topic-guncel",
+    "prompt": "Kolombiya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Kolombiya, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-518-8nkl",
+    "topic_id": "topic-guncel",
+    "prompt": "Panama hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Panama, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-519-um9j",
+    "topic_id": "topic-guncel",
+    "prompt": "Etiyopya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Etiyopya, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-52-mk1v",
+    "topic_id": "topic-guncel",
+    "prompt": "Lübnan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Helsinki",
+      "Tiran",
+      "Beyrut",
+      "Tunus",
+      "Doha"
+    ],
+    "answer_index": 2,
+    "explanation": "Lübnan devletinin başkenti Beyrut şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-520-x3mm",
+    "topic_id": "topic-guncel",
+    "prompt": "Moğolistan hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "Moğolistan, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-521-ofi2",
+    "topic_id": "topic-guncel",
+    "prompt": "İrlanda hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "İrlanda, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-522-0nzt",
+    "topic_id": "topic-guncel",
+    "prompt": "Uruguay hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Uruguay, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-523-9317",
+    "topic_id": "topic-guncel",
+    "prompt": "Kosta Rika hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Kosta Rika, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-524-17es",
+    "topic_id": "topic-guncel",
+    "prompt": "Gana hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Gana, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-525-717h",
+    "topic_id": "topic-guncel",
+    "prompt": "Kamboçya hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 0,
+    "explanation": "Kamboçya, Asya kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-526-oji2",
+    "topic_id": "topic-guncel",
+    "prompt": "Hırvatistan hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Hırvatistan, Avrupa kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-527-rh9s",
+    "topic_id": "topic-guncel",
+    "prompt": "Ekvador hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Ekvador, Güney Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-528-m5bp",
+    "topic_id": "topic-guncel",
+    "prompt": "Jamaika hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 3,
+    "explanation": "Jamaika, Kuzey Amerika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-529-26vq",
+    "topic_id": "topic-guncel",
+    "prompt": "Senegal hangi kıtada yer alır?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "answer_index": 4,
+    "explanation": "Senegal, Afrika kıtasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-53-oldi",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin UNESCO Dünya Mirası Listesi'nde yer alan alanlarından biri hangisidir?",
+    "options": [
+      "Efes",
+      "Nemrut Dağı",
+      "Göbeklitepe",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Efes, Nemrut Dağı ve Göbeklitepe dahil olmak üzere Türkiye'nin çok sayıda alanı UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-530-eodm",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünyanın yüzölçümü bakımından en büyük okyanusu hangisidir?",
+    "options": [
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Arktik Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Pasifik Okyanusu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-531-dw9m",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünyanın yüzölçümü bakımından en büyük kıtası hangisidir?",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Asya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-532-axqx",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünyanın yüzölçümü bakımından en küçük kıtası hangisidir?",
+    "options": [
+      "Avrupa",
+      "Güney Amerika",
+      "Okyanusya",
+      "Antarktika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Okyanusya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-533-9ud4",
+    "topic_id": "topic-guncel",
+    "prompt": "Sahra Çölü hangi kıtada bulunur?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Okyanusya"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Afrika seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-534-yzwq",
+    "topic_id": "topic-guncel",
+    "prompt": "Gobi Çölü ağırlıklı olarak hangi kıtada bulunur?",
+    "options": [
+      "Afrika",
+      "Avrupa",
+      "Güney Amerika",
+      "Kuzey Amerika",
+      "Asya"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Asya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-535-u3sg",
+    "topic_id": "topic-guncel",
+    "prompt": "And Dağları hangi kıtada uzanır?",
+    "options": [
+      "Güney Amerika",
+      "Kuzey Amerika",
+      "Asya",
+      "Avrupa",
+      "Afrika"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Güney Amerika seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-536-nwby",
+    "topic_id": "topic-guncel",
+    "prompt": "Alpler ağırlıklı olarak hangi kıtada bulunur?",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Avrupa seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-537-bmom",
+    "topic_id": "topic-guncel",
+    "prompt": "Himalayalar hangi kıtada bulunur?",
+    "options": [
+      "Avrupa",
+      "Afrika",
+      "Asya",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Asya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-538-psv8",
+    "topic_id": "topic-guncel",
+    "prompt": "Everest Dağı hangi dağ sırasındadır?",
+    "options": [
+      "Alpler",
+      "Andlar",
+      "Kayalık Dağları",
+      "Himalayalar",
+      "Ural Dağları"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Himalayalar seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-539-o74v",
+    "topic_id": "topic-guncel",
+    "prompt": "Nil Nehri hangi denize dökülür?",
+    "options": [
+      "Kızıldeniz",
+      "Karadeniz",
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Akdeniz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Akdeniz seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-54-8gpo",
+    "topic_id": "topic-guncel",
+    "prompt": "ABD, UNESCO'dan hangi dönemde ikinci kez çekilme kararı almıştır?",
+    "options": [
+      "Obama döneminde",
+      "Bush döneminde",
+      "Biden döneminde",
+      "Clinton döneminde",
+      "Trump'ın ilk döneminde"
+    ],
+    "answer_index": 4,
+    "explanation": "ABD, Trump'ın ilk başkanlık döneminde 2017'de UNESCO'dan çekilme kararı almış, sonrasında yeniden katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-540-aszo",
+    "topic_id": "topic-guncel",
+    "prompt": "Tuna Nehri hangi denize dökülür?",
+    "options": [
+      "Karadeniz",
+      "Akdeniz",
+      "Baltık Denizi",
+      "Kuzey Denizi",
+      "Hazar Denizi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Karadeniz seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-541-gdtl",
+    "topic_id": "topic-guncel",
+    "prompt": "Volga Nehri hangi su kütlesine dökülür?",
+    "options": [
+      "Karadeniz",
+      "Hazar Denizi",
+      "Baltık Denizi",
+      "Akdeniz",
+      "Aral Gölü"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Hazar Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-542-kgft",
+    "topic_id": "topic-guncel",
+    "prompt": "Amazon Nehri hangi okyanusa dökülür?",
+    "options": [
+      "Pasifik Okyanusu",
+      "Hint Okyanusu",
+      "Atlas Okyanusu",
+      "Arktik Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Atlas Okyanusu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-543-v2h4",
+    "topic_id": "topic-guncel",
+    "prompt": "Mississippi Nehri hangi körfeze dökülür?",
+    "options": [
+      "Hudson Körfezi",
+      "Bengal Körfezi",
+      "Basra Körfezi",
+      "Meksika Körfezi",
+      "Gine Körfezi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Meksika Körfezi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-544-qm9u",
+    "topic_id": "topic-guncel",
+    "prompt": "Ren Nehri hangi denize dökülür?",
+    "options": [
+      "Baltık Denizi",
+      "Karadeniz",
+      "Akdeniz",
+      "Adriyatik Denizi",
+      "Kuzey Denizi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Kuzey Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-545-p66f",
+    "topic_id": "topic-guncel",
+    "prompt": "Cebelitarık Boğazı hangi iki su kütlesini bağlar?",
+    "options": [
+      "Atlas Okyanusu ile Akdeniz",
+      "Karadeniz ile Marmara Denizi",
+      "Kızıldeniz ile Akdeniz",
+      "Basra Körfezi ile Umman Denizi",
+      "Baltık Denizi ile Kuzey Denizi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Atlas Okyanusu ile Akdeniz seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-546-6mqr",
+    "topic_id": "topic-guncel",
+    "prompt": "Bering Boğazı hangi iki kıtayı birbirinden ayırır?",
+    "options": [
+      "Avrupa ile Afrika",
+      "Asya ile Kuzey Amerika",
+      "Asya ile Afrika",
+      "Kuzey Amerika ile Güney Amerika",
+      "Avrupa ile Asya"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Asya ile Kuzey Amerika seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-547-nw7i",
+    "topic_id": "topic-guncel",
+    "prompt": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+    "options": [
+      "Karadeniz ile Akdeniz",
+      "Atlas Okyanusu ile Pasifik Okyanusu",
+      "Akdeniz ile Kızıldeniz",
+      "Kuzey Denizi ile Baltık Denizi",
+      "Umman Denizi ile Basra Körfezi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Akdeniz ile Kızıldeniz seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-548-fvcb",
+    "topic_id": "topic-guncel",
+    "prompt": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+    "options": [
+      "Atlas Okyanusu ile Hint Okyanusu",
+      "Pasifik Okyanusu ile Hint Okyanusu",
+      "Arktik Okyanusu ile Atlas Okyanusu",
+      "Atlas Okyanusu ile Pasifik Okyanusu",
+      "Güney Okyanusu ile Pasifik Okyanusu"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Atlas Okyanusu ile Pasifik Okyanusu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-549-vfz5",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünyanın en büyük adası hangisidir?",
+    "options": [
+      "Madagaskar",
+      "Borneo",
+      "Yeni Gine",
+      "Sumatra",
+      "Grönland"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Grönland seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-55-quuw",
+    "topic_id": "topic-guncel",
+    "prompt": "UNESCO hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1946",
+      "1948",
+      "1950",
+      "1960"
+    ],
+    "answer_index": 0,
+    "explanation": "UNESCO'nun kuruluş konferansı 1945'te yapılmış ve UNESCO Anayasası 16 Kasım 1945'te imzalanmıştır. Anayasa 4 Kasım 1946'da yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-550-5ory",
+    "topic_id": "topic-guncel",
+    "prompt": "Madagaskar hangi okyanusta yer alır?",
+    "options": [
+      "Hint Okyanusu",
+      "Atlas Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Hint Okyanusu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-551-wtxn",
+    "topic_id": "topic-guncel",
+    "prompt": "Japonya'nın en yüksek dağı hangisidir?",
+    "options": [
+      "Aso",
+      "Fuji",
+      "Ontake",
+      "Kita",
+      "Hotaka"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Fuji seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-552-wxc9",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika'nın en yüksek dağı hangisidir?",
+    "options": [
+      "Kenya Dağı",
+      "Atlas",
+      "Kilimanjaro",
+      "Elgon",
+      "Ruwenzori"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Kilimanjaro seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-553-bgaa",
+    "topic_id": "topic-guncel",
+    "prompt": "Kuzey Amerika'nın en yüksek dağı hangisidir?",
+    "options": [
+      "Logan",
+      "Whitney",
+      "Elbert",
+      "Denali",
+      "Rainier"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Denali seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-554-d6m1",
+    "topic_id": "topic-guncel",
+    "prompt": "Güney Amerika'nın en yüksek dağı hangisidir?",
+    "options": [
+      "Chimborazo",
+      "Huascarán",
+      "Illimani",
+      "Cotopaxi",
+      "Aconcagua"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Aconcagua seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-555-t42a",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa ile Asya arasında geleneksel doğal sınır kabul edilen dağ sırası hangisidir?",
+    "options": [
+      "Ural Dağları",
+      "Alpler",
+      "Kafkaslar",
+      "Karpatlar",
+      "Pireneler"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Ural Dağları seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-556-96xx",
+    "topic_id": "topic-guncel",
+    "prompt": "Büyük Set Resifi hangi ülkenin açıklarında bulunur?",
+    "options": [
+      "Yeni Zelanda",
+      "Avustralya",
+      "Endonezya",
+      "Filipinler",
+      "Japonya"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Avustralya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-557-g1r4",
+    "topic_id": "topic-guncel",
+    "prompt": "Victoria Şelalesi hangi nehir üzerindedir?",
+    "options": [
+      "Nil",
+      "Kongo",
+      "Zambezi",
+      "Nijer",
+      "Limpopo"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Zambezi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-558-ynfg",
+    "topic_id": "topic-guncel",
+    "prompt": "Niagara Şelalesi hangi iki ülke sınırındadır?",
+    "options": [
+      "ABD ile Meksika",
+      "Kanada ile Grönland",
+      "Fransa ile Almanya",
+      "Kanada ile ABD",
+      "Brezilya ile Arjantin"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Kanada ile ABD seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-559-mlez",
+    "topic_id": "topic-guncel",
+    "prompt": "Hazar Denizi coğrafi olarak hangi özelliğiyle bilinir?",
+    "options": [
+      "Dünyanın en derin okyanusudur",
+      "Dünyanın en büyük tatlı su gölüdür",
+      "İki okyanusu bağlayan boğazdır",
+      "Tamamı donmuş bir denizdir",
+      "Dünyanın en büyük kapalı su kütlesidir"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Dünyanın en büyük kapalı su kütlesidir seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-56-qpjr",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in temel odak alanı nedir?",
+    "options": [
+      "Yaşlı hakları",
+      "Çocuk hakları ve refahı",
+      "Çevre koruma",
+      "Ticaret politikaları",
+      "Askerî güvenlik"
+    ],
+    "answer_index": 1,
+    "explanation": "UNICEF, dünya çapında çocukların sağlık, eğitim ve korunma haklarını desteklemeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-560-7yte",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde uzunluğun temel birimi hangisidir?",
+    "options": [
+      "metre",
+      "kilogram",
+      "saniye",
+      "amper",
+      "kelvin"
+    ],
+    "answer_index": 0,
+    "explanation": "Metre, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-561-ctw6",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde kütlenin temel birimi hangisidir?",
+    "options": [
+      "metre",
+      "kilogram",
+      "saniye",
+      "mol",
+      "kelvin"
+    ],
+    "answer_index": 1,
+    "explanation": "Kilogram, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-562-rq1r",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde zamanın temel birimi hangisidir?",
+    "options": [
+      "metre",
+      "kilogram",
+      "saniye",
+      "amper",
+      "mol"
+    ],
+    "answer_index": 2,
+    "explanation": "Saniye, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-563-4d60",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde elektrik akımının temel birimi hangisidir?",
+    "options": [
+      "volt",
+      "ohm",
+      "watt",
+      "amper",
+      "coulomb"
+    ],
+    "answer_index": 3,
+    "explanation": "Amper, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-564-nzed",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde termodinamik sıcaklığın temel birimi hangisidir?",
+    "options": [
+      "santigrat derece",
+      "fahrenhayt",
+      "joule",
+      "watt",
+      "kelvin"
+    ],
+    "answer_index": 4,
+    "explanation": "Kelvin, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-565-u0li",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde madde miktarının temel birimi hangisidir?",
+    "options": [
+      "mol",
+      "gram",
+      "litre",
+      "kelvin",
+      "candela"
+    ],
+    "answer_index": 0,
+    "explanation": "Mol, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-566-q7bl",
+    "topic_id": "topic-guncel",
+    "prompt": "SI sisteminde ışık şiddetinin temel birimi hangisidir?",
+    "options": [
+      "lümen",
+      "candela",
+      "lüks",
+      "watt",
+      "kelvin"
+    ],
+    "answer_index": 1,
+    "explanation": "Candela, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-567-3fjr",
+    "topic_id": "topic-guncel",
+    "prompt": "Kuvvetin SI birimi hangisidir?",
+    "options": [
+      "joule",
+      "pascal",
+      "newton",
+      "watt",
+      "volt"
+    ],
+    "answer_index": 2,
+    "explanation": "Newton, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-568-u6oz",
+    "topic_id": "topic-guncel",
+    "prompt": "Enerjinin SI birimi hangisidir?",
+    "options": [
+      "newton",
+      "pascal",
+      "watt",
+      "joule",
+      "ampere"
+    ],
+    "answer_index": 3,
+    "explanation": "Joule, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-569-h7hw",
+    "topic_id": "topic-guncel",
+    "prompt": "Gücün SI birimi hangisidir?",
+    "options": [
+      "joule",
+      "newton",
+      "volt",
+      "ohm",
+      "watt"
+    ],
+    "answer_index": 4,
+    "explanation": "Watt, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-57-akcv",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF hangi yıl kurulmuştur?",
+    "options": [
+      "1950",
+      "1948",
+      "1946",
+      "1955",
+      "1960"
+    ],
+    "answer_index": 2,
+    "explanation": "UNICEF, II. Dünya Savaşı sonrası çocuklara yardım amacıyla 1946'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-570-e5rv",
+    "topic_id": "topic-guncel",
+    "prompt": "Basıncın SI birimi hangisidir?",
+    "options": [
+      "pascal",
+      "newton",
+      "joule",
+      "watt",
+      "tesla"
+    ],
+    "answer_index": 0,
+    "explanation": "Pascal, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-58-wygl",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Roma",
+      "Paris",
+      "New York",
+      "Londra"
+    ],
+    "answer_index": 3,
+    "explanation": "UNICEF'in genel merkezi New York'tadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-59-k53u",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF'in çalışmalarına örnek olarak aşağıdakilerden hangisi verilebilir?",
+    "options": [
+      "Aşılama kampanyaları",
+      "Eğitime erişim programları",
+      "Beslenme destek projeleri",
+      "Hiçbiri",
+      "Hepsi"
+    ],
+    "answer_index": 4,
+    "explanation": "UNICEF; aşılama, eğitim ve beslenme gibi birçok alanda çocuklara yönelik projeler yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-6-615a",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkmenistan devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Lübliyana",
+      "Aşkabat",
+      "Zagreb",
+      "Roma",
+      "Budapeşte"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkmenistan devletinin başkenti Aşkabat şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-60-2ft1",
+    "topic_id": "topic-guncel",
+    "prompt": "UNICEF, BM sistemi içinde hangi tür bir kuruluştur?",
+    "options": [
+      "BM'nin bir programı/fonu",
+      "Bağımsız uluslararası örgüt",
+      "STK",
+      "Askerî ittifak",
+      "Ticaret örgütü"
+    ],
+    "answer_index": 0,
+    "explanation": "UNICEF, BM Genel Kurulu'na bağlı bir program/fon olarak faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-61-j7ix",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Kızılhaç Komitesi'nin (ICRC) merkezi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Cenevre",
+      "New York",
+      "Roma",
+      "Viyana"
+    ],
+    "answer_index": 1,
+    "explanation": "ICRC'nin merkezi Cenevre'dedir ve kuruluşu İsviçreli Henry Dunant'a dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-62-r67s",
+    "topic_id": "topic-guncel",
+    "prompt": "Kızılhaç ve Kızılay hareketinin kurucusu kabul edilen kişi kimdir?",
+    "options": [
+      "Jean Pictet",
+      "Florence Nightingale",
+      "Henry Dunant",
+      "Gustave Moynier",
+      "Albert Schweitzer"
+    ],
+    "answer_index": 2,
+    "explanation": "İsviçreli iş insanı Henry Dunant, Kızılhaç hareketinin kurucusu kabul edilir ve ilk Nobel Barış Ödülü'nü almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-63-mbf2",
+    "topic_id": "topic-guncel",
+    "prompt": "Müslüman ülkelerde Kızılhaç yerine kullanılan sembol hangisidir?",
+    "options": [
+      "Kızılyıldız",
+      "Kızıl Çapraz",
+      "Kızıl Güneş",
+      "Kızılay (Kızıl Hilal)",
+      "Yeşilhaç"
+    ],
+    "answer_index": 3,
+    "explanation": "İslam ülkelerinde Kızılhaç yerine Kızılay (Kızıl Hilal) sembolü kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-64-h344",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Kızılayı hangi yıl kurulmuştur?",
+    "options": [
+      "1868",
+      "1950",
+      "1920",
+      "1935",
+      "1877"
+    ],
+    "answer_index": 4,
+    "explanation": "Osmanlı Hilal-i Ahmer Cemiyeti (bugünkü Türk Kızılayı), 1868 yılında kurulmuştur; bazı kaynaklarda faaliyete geçiş 1877 Osmanlı-Rus Savaşı dönemine denk gelir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-65-2vf1",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği'nin (AU) merkezi hangi şehirdedir?",
+    "options": [
+      "Addis Ababa",
+      "Kahire",
+      "Nairobi",
+      "Johannesburg",
+      "Lagos"
+    ],
+    "answer_index": 0,
+    "explanation": "Afrika Birliği'nin merkezi Etiyopya'nın başkenti Addis Ababa'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-66-gh2t",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği kaç Afrika ülkesini kapsamaktadır (yaklaşık)?",
+    "options": [
+      "25",
+      "55",
+      "45",
+      "35",
+      "60"
+    ],
+    "answer_index": 1,
+    "explanation": "Afrika Birliği, kıtadaki neredeyse tüm ülkeleri kapsayan 55 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-67-qvx8",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği 2023 yılında hangi büyük ekonomik/siyasi platforma üye olarak kabul edilmiştir?",
+    "options": [
+      "G7",
+      "OECD",
+      "G20",
+      "BRICS",
+      "NATO"
+    ],
+    "answer_index": 2,
+    "explanation": "Afrika Birliği, 2023 yılında G20'ye daimi üye olarak katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-68-hwyy",
+    "topic_id": "topic-guncel",
+    "prompt": "Afrika Birliği'nin resmî çalışma dillerinden biri değildir?",
+    "options": [
+      "Fransızca",
+      "İngilizce",
+      "Arapça",
+      "Almanca",
+      "Portekizce"
+    ],
+    "answer_index": 3,
+    "explanation": "Afrika Birliği'nin çalışma dilleri arasında Almanca bulunmaz; İngilizce, Fransızca, Arapça, Portekizce, İspanyolca ve Kiswahili resmî diller arasındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-69-wg67",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği'nin merkezi hangi şehirdedir?",
+    "options": [
+      "Riyad",
+      "Abu Dabi",
+      "Bağdat",
+      "Şam",
+      "Kahire"
+    ],
+    "answer_index": 4,
+    "explanation": "Arap Birliği'nin genel merkezi Mısır'ın başkenti Kahire'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-7-zuxj",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği hangi yıl kurulmuştur?",
+    "options": [
+      "1935",
+      "1955",
+      "1945",
+      "1960",
+      "1970"
+    ],
+    "answer_index": 2,
+    "explanation": "Arap Birliği, 1945 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-70-e6dz",
+    "topic_id": "topic-guncel",
+    "prompt": "Suriye'nin Arap Birliği üyeliği 2011'de askıya alınmış, hangi yılda yeniden kabul edilmiştir?",
+    "options": [
+      "2023",
+      "2018",
+      "2020",
+      "2015",
+      "2025"
+    ],
+    "answer_index": 0,
+    "explanation": "Suriye'nin üyeliği, iç savaş nedeniyle 2011'de askıya alınmış, 2023 yılında yeniden kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-71-r5j7",
+    "topic_id": "topic-guncel",
+    "prompt": "Arap Birliği'ne üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "12",
+      "22",
+      "16",
+      "30",
+      "35"
+    ],
+    "answer_index": 1,
+    "explanation": "Arap Birliği, aralarında Filistin'in de bulunduğu 22 üyeye sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-72-zdfa",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC'in açılımı nedir?",
+    "options": [
+      "Ortadoğu Petrol Konseyi",
+      "Petrol İthal Eden Ülkeler Örgütü",
+      "Petrol İhraç Eden Ülkeler Örgütü",
+      "Enerji ve Petrol İşbirliği Konseyi",
+      "Petrol Üreten Ekonomiler Konseyi"
+    ],
+    "answer_index": 2,
+    "explanation": "OPEC, Petrol İhraç Eden Ülkeler Örgütü'nün İngilizce kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-73-t4nv",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC'in merkezi hangi şehirdedir?",
+    "options": [
+      "Riyad",
+      "Dubai",
+      "Cenevre",
+      "Viyana",
+      "Bağdat"
+    ],
+    "answer_index": 3,
+    "explanation": "OPEC'in genel merkezi Avusturya'nın başkenti Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-74-xkbf",
+    "topic_id": "topic-guncel",
+    "prompt": "OPEC hangi yıl kurulmuştur?",
+    "options": [
+      "1948",
+      "1955",
+      "1973",
+      "1965",
+      "1960"
+    ],
+    "answer_index": 4,
+    "explanation": "OPEC, 1960 yılında Bağdat'ta kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-75-x7u6",
+    "topic_id": "topic-guncel",
+    "prompt": "İsrail'in kendi hukukuna göre başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Kudüs",
+      "Hartum",
+      "Tiflis",
+      "Buenos Aires",
+      "Karakas"
+    ],
+    "answer_index": 0,
+    "explanation": "İsrail'in Temel Yasalarına göre Kudüs başkent olarak düzenlenmiştir. Kudüs'ün uluslararası statüsü ayrıca ihtilaflı bir konudur; soru İsrail'in kendi hukukundaki düzenlemeyi sormaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-76-lwjw",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8 Teşkilatı'nın kurucusu kabul edilen Türk lider kimdir?",
+    "options": [
+      "Turgut Özal",
+      "Necmettin Erbakan",
+      "Süleyman Demirel",
+      "Tansu Çiller",
+      "Bülent Ecevit"
+    ],
+    "answer_index": 1,
+    "explanation": "D-8 (Gelişen Sekizli), 1997'de dönemin Başbakanı Necmettin Erbakan öncülüğünde kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-77-2bcq",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8'i oluşturan sekiz ülkeden biri değildir?",
+    "options": [
+      "Türkiye",
+      "Endonezya",
+      "Fas",
+      "Malezya",
+      "Nijerya"
+    ],
+    "answer_index": 2,
+    "explanation": "D-8 üyeleri Türkiye, Endonezya, Nijerya, Malezya, Mısır, İran, Pakistan ve Bangladeş'tir; Fas üye değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-78-f8d5",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8'in merkezi hangi şehirdedir?",
+    "options": [
+      "Ankara",
+      "Cakarta",
+      "Kahire",
+      "İstanbul",
+      "Dakka"
+    ],
+    "answer_index": 3,
+    "explanation": "D-8 Sekreteryası İstanbul'da bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-79-9kdz",
+    "topic_id": "topic-guncel",
+    "prompt": "D-8 hangi yıl kurulmuştur?",
+    "options": [
+      "1985",
+      "1990",
+      "2005",
+      "2001",
+      "1997"
+    ],
+    "answer_index": 4,
+    "explanation": "D-8, 15 Haziran 1997'de İstanbul'da kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-8-01d3",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD'nin (Ekonomik Kalkınma ve İşbirliği Örgütü) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Londra",
+      "Brüksel",
+      "Paris",
+      "Berlin"
+    ],
+    "answer_index": 3,
+    "explanation": "OECD'nin genel merkezi Fransa'nın başkenti Paris'tedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-80-qomi",
+    "topic_id": "topic-guncel",
+    "prompt": "Şanghay İşbirliği Örgütü'nün (SCO) merkezi hangi şehirdedir?",
+    "options": [
+      "Pekin",
+      "Şanghay",
+      "Moskova",
+      "Astana",
+      "Taşkent"
+    ],
+    "answer_index": 0,
+    "explanation": "SCO Sekreteryası, Çin'in başkenti Pekin'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-81-wxgq",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO hangi yıl kurulmuştur?",
+    "options": [
+      "1996",
+      "2001",
+      "2005",
+      "2010",
+      "2015"
+    ],
+    "answer_index": 1,
+    "explanation": "Şanghay İşbirliği Örgütü, 2001 yılında kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-82-u3qf",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO'nun kurucu üyeleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Çin",
+      "Rusya",
+      "Hindistan",
+      "Kazakistan",
+      "Kırgızistan"
+    ],
+    "answer_index": 2,
+    "explanation": "Hindistan, örgüte 2017'de tam üye olarak katılmıştır; kurucu üyeler arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-83-zc4u",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye SCO ile ilişkisinde hangi statüdedir?",
+    "options": [
+      "Tam üye",
+      "Kurucu üye",
+      "Hiçbir ilişkisi yok",
+      "Diyalog ortağı",
+      "Gözlemci üye"
+    ],
+    "answer_index": 3,
+    "explanation": "Türkiye, Şanghay İşbirliği Örgütü'nde diyalog ortağı statüsündedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-84-uzdf",
+    "topic_id": "topic-guncel",
+    "prompt": "İran, SCO'ya hangi statüde katılım sağlamıştır?",
+    "options": [
+      "Hiçbiri",
+      "Gözlemci",
+      "Diyalog ortağı",
+      "Aday üye",
+      "Tam üye (2023)"
+    ],
+    "answer_index": 4,
+    "explanation": "İran, 2023 yılında Şanghay İşbirliği Örgütü'ne tam üye olarak katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-85-3i3t",
+    "topic_id": "topic-guncel",
+    "prompt": "SCO'nun temel iş birliği alanları arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "Hepsi",
+      "Ekonomik iş birliği",
+      "Kültürel iş birliği",
+      "Güvenlik ve terörle mücadele",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "SCO; güvenlik, ekonomi ve kültür gibi çok boyutlu iş birliği alanlarını kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-86-ut1q",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Konseyi'nin (Council of Europe) merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Strazburg",
+      "Lahey",
+      "Cenevre",
+      "Lüksemburg"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Konseyi, AB'den farklı bir kuruluş olup merkezi Fransa'nın Strazburg şehrindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-87-w1ai",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa İnsan Hakları Mahkemesi hangi kuruluşa bağlıdır?",
+    "options": [
+      "Avrupa Birliği",
+      "BM",
+      "Avrupa Konseyi",
+      "NATO",
+      "OSCE"
+    ],
+    "answer_index": 2,
+    "explanation": "Avrupa İnsan Hakları Mahkemesi, Avrupa Konseyi çatısı altında faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-88-5t26",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Konseyi hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1961",
+      "1955",
+      "1949",
+      "1970"
+    ],
+    "answer_index": 3,
+    "explanation": "Avrupa Konseyi, 1949 yılında kurulmuştur ve AB'den ayrı bir örgüttür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-89-0u5k",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'in (Avrupa Güvenlik ve İşbirliği Teşkilatı) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Lahey",
+      "Brüksel",
+      "Strazburg",
+      "Viyana"
+    ],
+    "answer_index": 4,
+    "explanation": "AGİT'in genel merkezi Avusturya'nın başkenti Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-9-m3hn",
+    "topic_id": "topic-guncel",
+    "prompt": "Fas devletinin başkenti aşağıdakilerden hangisidir?",
+    "options": [
+      "Amsterdam",
+      "Kudüs/Tel Aviv",
+      "İslamabad",
+      "Priştine",
+      "Rabat"
+    ],
+    "answer_index": 4,
+    "explanation": "Fas devletinin başkenti Rabat şehridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-90-6ki7",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği Adalet Divanı'nın (CJEU) merkezi hangi şehirdedir?",
+    "options": [
+      "Lüksemburg",
+      "Strazburg",
+      "Brüksel",
+      "Lahey",
+      "Frankfurt"
+    ],
+    "answer_index": 0,
+    "explanation": "Avrupa Birliği Adalet Divanı, Lüksemburg'da konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-91-4qfq",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'in (OSCE) kurumsal öncülü aşağıdakilerden hangisidir?",
+    "options": [
+      "Roma Antlaşması",
+      "Avrupa Güvenlik ve İşbirliği Konferansı (AGİK/CSCE)",
+      "Maastricht Antlaşması",
+      "Paris Antlaşması",
+      "Yalta Konferansı"
+    ],
+    "answer_index": 1,
+    "explanation": "AGİT'in kurumsal öncülü Avrupa Güvenlik ve İşbirliği Konferansı'dır (AGİK/CSCE). CSCE, 1 Ocak 1995'ten itibaren OSCE/AGİT adını kullanmaya başlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-92-l1yc",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'in temel çalışma alanları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Güvenlik",
+      "İnsan hakları",
+      "Uzay araştırmaları",
+      "Ekonomik iş birliği",
+      "Seçim gözlemciliği"
+    ],
+    "answer_index": 2,
+    "explanation": "Uzay araştırmaları, AGİT'in çalışma alanları arasında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-93-lh4x",
+    "topic_id": "topic-guncel",
+    "prompt": "AGİT'e üye ülke sayısı yaklaşık kaçtır?",
+    "options": [
+      "30",
+      "40",
+      "70",
+      "57",
+      "90"
+    ],
+    "answer_index": 3,
+    "explanation": "AGİT, Avrupa, Kuzey Amerika ve Orta Asya'dan 57 üye ülkeyi kapsayan dünyanın en büyük bölgesel güvenlik örgütüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-94-elb9",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Atom Enerjisi Ajansı'nın (IAEA) merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Brüksel",
+      "Paris",
+      "New York",
+      "Viyana"
+    ],
+    "answer_index": 4,
+    "explanation": "IAEA'nın genel merkezi Viyana'dadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-95-jomd",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Çevre Programı'nın (UNEP) merkezi hangi şehirdedir?",
+    "options": [
+      "Nairobi",
+      "Cenevre",
+      "New York",
+      "Paris",
+      "Roma"
+    ],
+    "answer_index": 0,
+    "explanation": "UNEP'in genel merkezi Kenya'nın başkenti Nairobi'dedir; bu, bir BM ana ofisinin Afrika'da bulunduğu tek örnektir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-96-h1m4",
+    "topic_id": "topic-guncel",
+    "prompt": "G20 zirvelerinin dönem başkanlığı sistemi nasıl işler?",
+    "options": [
+      "Sabit bir ülke her zaman başkanlık eder",
+      "Her yıl farklı bir üye ülke rotasyonla başkanlık eder",
+      "BM Genel Sekreteri başkanlık eder",
+      "En büyük ekonomiye sahip ülke sürekli başkanlık eder",
+      "Başkanlık kurası her ay çekilir"
+    ],
+    "answer_index": 1,
+    "explanation": "G20 dönem başkanlığı, üye ülkeler arasında yıllık rotasyon esasına göre belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-97-fdo5",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılı G20 dönem başkanlığını hangi ülke üstlenmektedir?",
+    "options": [
+      "Brezilya",
+      "Hindistan",
+      "ABD",
+      "Güney Afrika",
+      "Fransa"
+    ],
+    "answer_index": 2,
+    "explanation": "ABD, 1 Aralık 2025 itibarıyla 2026 G20 dönem başkanlığını devralmıştır ve başkanlığı 30 Kasım 2026'ya kadar sürdürmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-98-3001",
+    "topic_id": "topic-guncel",
+    "prompt": "Birleşmiş Milletler (BM) hangi yıl kurulmuştur?",
+    "options": [
+      "1943",
+      "1950",
+      "1948",
+      "1945",
+      "1955"
+    ],
+    "answer_index": 3,
+    "explanation": "BM, II. Dünya Savaşı sonrasında 24 Ekim 1945'te kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-99-bzpk",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'nin merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "Paris",
+      "Brüksel",
+      "Viyana",
+      "New York"
+    ],
+    "answer_index": 4,
+    "explanation": "BM Genel Merkezi New York'tadır; Cenevre, Viyana ve Nairobi'de de ofisleri bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-571-lwkd",
+    "topic_id": "topic-guncel",
+    "prompt": "Elektriksel potansiyel farkının SI birimi hangisidir?",
+    "options": [
+      "amper",
+      "volt",
+      "ohm",
+      "watt",
+      "coulomb"
+    ],
+    "answer_index": 1,
+    "explanation": "Volt, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-572-g2c4",
+    "topic_id": "topic-guncel",
+    "prompt": "Elektrik direncinin SI birimi hangisidir?",
+    "options": [
+      "volt",
+      "amper",
+      "ohm",
+      "watt",
+      "farad"
+    ],
+    "answer_index": 2,
+    "explanation": "Ohm, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-573-jbqe",
+    "topic_id": "topic-guncel",
+    "prompt": "Frekansın SI birimi hangisidir?",
+    "options": [
+      "newton",
+      "tesla",
+      "weber",
+      "hertz",
+      "joule"
+    ],
+    "answer_index": 3,
+    "explanation": "Hertz, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-574-38qf",
+    "topic_id": "topic-guncel",
+    "prompt": "Elektrik yükünün SI türetilmiş birimi hangisidir?",
+    "options": [
+      "volt",
+      "amper",
+      "ohm",
+      "watt",
+      "coulomb"
+    ],
+    "answer_index": 4,
+    "explanation": "Coulomb, bu büyüklüğün SI birimidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-575-x6pz",
+    "topic_id": "topic-guncel",
+    "prompt": "Hidrojen elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "H",
+      "He",
+      "C",
+      "N",
+      "O"
+    ],
+    "answer_index": 0,
+    "explanation": "Hidrojen elementinin kimyasal sembolü H'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-576-enln",
+    "topic_id": "topic-guncel",
+    "prompt": "Helyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "C",
+      "He",
+      "N",
+      "O",
+      "Na"
+    ],
+    "answer_index": 1,
+    "explanation": "Helyum elementinin kimyasal sembolü He'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-577-a0y9",
+    "topic_id": "topic-guncel",
+    "prompt": "Karbon elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "N",
+      "O",
+      "C",
+      "Na",
+      "Mg"
+    ],
+    "answer_index": 2,
+    "explanation": "Karbon elementinin kimyasal sembolü C'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-578-3iam",
+    "topic_id": "topic-guncel",
+    "prompt": "Azot elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "O",
+      "Na",
+      "Mg",
+      "N",
+      "Al"
+    ],
+    "answer_index": 3,
+    "explanation": "Azot elementinin kimyasal sembolü N'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-579-7sak",
+    "topic_id": "topic-guncel",
+    "prompt": "Oksijen elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "answer_index": 4,
+    "explanation": "Oksijen elementinin kimyasal sembolü O'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-580-oahf",
+    "topic_id": "topic-guncel",
+    "prompt": "Sodyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si",
+      "P"
+    ],
+    "answer_index": 0,
+    "explanation": "Sodyum elementinin kimyasal sembolü Na'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-581-j0lj",
+    "topic_id": "topic-guncel",
+    "prompt": "Magnezyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Al",
+      "Mg",
+      "Si",
+      "P",
+      "S"
+    ],
+    "answer_index": 1,
+    "explanation": "Magnezyum elementinin kimyasal sembolü Mg'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-582-hlwn",
+    "topic_id": "topic-guncel",
+    "prompt": "Alüminyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Si",
+      "P",
+      "Al",
+      "S",
+      "Cl"
+    ],
+    "answer_index": 2,
+    "explanation": "Alüminyum elementinin kimyasal sembolü Al'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-583-0i8j",
+    "topic_id": "topic-guncel",
+    "prompt": "Silisyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "P",
+      "S",
+      "Cl",
+      "Si",
+      "K"
+    ],
+    "answer_index": 3,
+    "explanation": "Silisyum elementinin kimyasal sembolü Si'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-584-ejo4",
+    "topic_id": "topic-guncel",
+    "prompt": "Fosfor elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "S",
+      "Cl",
+      "K",
+      "Ca",
+      "P"
+    ],
+    "answer_index": 4,
+    "explanation": "Fosfor elementinin kimyasal sembolü P'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-585-4ba1",
+    "topic_id": "topic-guncel",
+    "prompt": "Kükürt elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "S",
+      "Cl",
+      "K",
+      "Ca",
+      "Fe"
+    ],
+    "answer_index": 0,
+    "explanation": "Kükürt elementinin kimyasal sembolü S'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-586-c0ua",
+    "topic_id": "topic-guncel",
+    "prompt": "Klor elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "K",
+      "Cl",
+      "Ca",
+      "Fe",
+      "Cu"
+    ],
+    "answer_index": 1,
+    "explanation": "Klor elementinin kimyasal sembolü Cl'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-587-hq15",
+    "topic_id": "topic-guncel",
+    "prompt": "Potasyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Ca",
+      "Fe",
+      "K",
+      "Cu",
+      "Zn"
+    ],
+    "answer_index": 2,
+    "explanation": "Potasyum elementinin kimyasal sembolü K'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-588-ygqd",
+    "topic_id": "topic-guncel",
+    "prompt": "Kalsiyum elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Fe",
+      "Cu",
+      "Zn",
+      "Ca",
+      "Ag"
+    ],
+    "answer_index": 3,
+    "explanation": "Kalsiyum elementinin kimyasal sembolü Ca'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-589-7rhq",
+    "topic_id": "topic-guncel",
+    "prompt": "Demir elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Cu",
+      "Zn",
+      "Ag",
+      "Au",
+      "Fe"
+    ],
+    "answer_index": 4,
+    "explanation": "Demir elementinin kimyasal sembolü Fe'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-590-efje",
+    "topic_id": "topic-guncel",
+    "prompt": "Bakır elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Cu",
+      "Zn",
+      "Ag",
+      "Au",
+      "Hg"
+    ],
+    "answer_index": 0,
+    "explanation": "Bakır elementinin kimyasal sembolü Cu'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-591-nfkv",
+    "topic_id": "topic-guncel",
+    "prompt": "Çinko elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Ag",
+      "Zn",
+      "Au",
+      "Hg",
+      "H"
+    ],
+    "answer_index": 1,
+    "explanation": "Çinko elementinin kimyasal sembolü Zn'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-592-pjbj",
+    "topic_id": "topic-guncel",
+    "prompt": "Gümüş elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Au",
+      "Hg",
+      "Ag",
+      "H",
+      "He"
+    ],
+    "answer_index": 2,
+    "explanation": "Gümüş elementinin kimyasal sembolü Ag'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-593-ihr5",
+    "topic_id": "topic-guncel",
+    "prompt": "Altın elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "Hg",
+      "H",
+      "He",
+      "Au",
+      "C"
+    ],
+    "answer_index": 3,
+    "explanation": "Altın elementinin kimyasal sembolü Au'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-594-d6co",
+    "topic_id": "topic-guncel",
+    "prompt": "Cıva elementinin kimyasal sembolü hangisidir?",
+    "options": [
+      "H",
+      "He",
+      "C",
+      "N",
+      "Hg"
+    ],
+    "answer_index": 4,
+    "explanation": "Cıva elementinin kimyasal sembolü Hg'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-595-iu9g",
+    "topic_id": "topic-guncel",
+    "prompt": "İnsan vücudunda kanı pompalayan organ hangisidir?",
+    "options": [
+      "Kalp",
+      "Akciğer",
+      "Karaciğer",
+      "Böbrek",
+      "Pankreas"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Kalp seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-596-qad1",
+    "topic_id": "topic-guncel",
+    "prompt": "Solunum sisteminin temel organı hangisidir?",
+    "options": [
+      "Kalp",
+      "Akciğer",
+      "Mide",
+      "Karaciğer",
+      "Dalak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Akciğer seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-597-enps",
+    "topic_id": "topic-guncel",
+    "prompt": "İnsan vücudunda safra üreten organ hangisidir?",
+    "options": [
+      "Safra kesesi",
+      "Pankreas",
+      "Karaciğer",
+      "Böbrek",
+      "Mide"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Karaciğer seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-598-wik7",
+    "topic_id": "topic-guncel",
+    "prompt": "İdrarın oluşumunda temel görev yapan organ hangisidir?",
+    "options": [
+      "Karaciğer",
+      "Dalak",
+      "Pankreas",
+      "Böbrek",
+      "Akciğer"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Böbrek seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-599-6uer",
+    "topic_id": "topic-guncel",
+    "prompt": "İnsülin hormonu başlıca hangi organda üretilir?",
+    "options": [
+      "Karaciğer",
+      "Tiroid",
+      "Böbrek",
+      "Dalak",
+      "Pankreas"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Pankreas seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-600-1z3z",
+    "topic_id": "topic-guncel",
+    "prompt": "Oksijen taşınmasında görevli kırmızı kan hücrelerine ne ad verilir?",
+    "options": [
+      "Eritrosit",
+      "Lökosit",
+      "Trombosit",
+      "Nöron",
+      "Osteosit"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Eritrosit seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-601-uxxq",
+    "topic_id": "topic-guncel",
+    "prompt": "Bağışıklık savunmasında görevli beyaz kan hücrelerine ne ad verilir?",
+    "options": [
+      "Eritrosit",
+      "Lökosit",
+      "Trombosit",
+      "Miyosit",
+      "Kondrosit"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Lökosit seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-602-igjz",
+    "topic_id": "topic-guncel",
+    "prompt": "Kanın pıhtılaşmasında önemli rol oynayan hücresel yapılar hangileridir?",
+    "options": [
+      "Eritrositler",
+      "Nöronlar",
+      "Trombositler",
+      "Osteositler",
+      "Alveoller"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Trombositler seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-603-v33w",
+    "topic_id": "topic-guncel",
+    "prompt": "Sinir sisteminin temel işlevsel hücresi hangisidir?",
+    "options": [
+      "Eritrosit",
+      "Trombosit",
+      "Osteosit",
+      "Nöron",
+      "Adiposit"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Nöron seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-604-n47f",
+    "topic_id": "topic-guncel",
+    "prompt": "Fotosentez bitki hücresinde başlıca hangi organelde gerçekleşir?",
+    "options": [
+      "Mitokondri",
+      "Ribozom",
+      "Lizozom",
+      "Golgi aygıtı",
+      "Kloroplast"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Kloroplast seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-605-2l38",
+    "topic_id": "topic-guncel",
+    "prompt": "Hücresel solunumun önemli bir bölümü hangi organelde gerçekleşir?",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Ribozom",
+      "Çekirdekçik",
+      "Golgi aygıtı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Mitokondri seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-606-rszz",
+    "topic_id": "topic-guncel",
+    "prompt": "Protein sentezinde görev alan hücresel yapı hangisidir?",
+    "options": [
+      "Lizozom",
+      "Ribozom",
+      "Sentrozom",
+      "Koful",
+      "Peroksizom"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Ribozom seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-607-xcyy",
+    "topic_id": "topic-guncel",
+    "prompt": "Kalıtsal bilgiyi taşıyan molekül hangisidir?",
+    "options": [
+      "ATP",
+      "Glikoz",
+      "DNA",
+      "Hemoglobin",
+      "Kolesterol"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap DNA seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-608-p8v8",
+    "topic_id": "topic-guncel",
+    "prompt": "DNA'nın yapı birimi hangisidir?",
+    "options": [
+      "Amino asit",
+      "Monosakkarit",
+      "Yağ asidi",
+      "Nükleotit",
+      "Gliserol"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Nükleotit seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-609-rnq3",
+    "topic_id": "topic-guncel",
+    "prompt": "Proteinlerin yapı taşları hangileridir?",
+    "options": [
+      "Nükleotitler",
+      "Yağ asitleri",
+      "Monosakkaritler",
+      "Mineraller",
+      "Amino asitler"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Amino asitler seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-610-u2x7",
+    "topic_id": "topic-guncel",
+    "prompt": "Bitkiler fotosentez sırasında atmosferden başlıca hangi gazı alır?",
+    "options": [
+      "Karbondioksit",
+      "Oksijen",
+      "Azot",
+      "Hidrojen",
+      "Helyum"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Karbondioksit seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-611-oz6p",
+    "topic_id": "topic-guncel",
+    "prompt": "İnsanlarda normal vücut hücrelerinde kaç kromozom bulunur?",
+    "options": [
+      "23",
+      "46",
+      "44",
+      "48",
+      "92"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 46 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-612-w5ef",
+    "topic_id": "topic-guncel",
+    "prompt": "İnsan üreme hücrelerinde kaç kromozom bulunur?",
+    "options": [
+      "46",
+      "22",
+      "23",
+      "44",
+      "92"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 23 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-613-exuc",
+    "topic_id": "topic-guncel",
+    "prompt": "ABO kan grubu sisteminde evrensel eritrosit vericisi olarak kabul edilen grup hangisidir?",
+    "options": [
+      "AB Rh pozitif",
+      "A Rh pozitif",
+      "B Rh negatif",
+      "0 Rh negatif",
+      "AB Rh negatif"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap 0 Rh negatif seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-614-9930",
+    "topic_id": "topic-guncel",
+    "prompt": "ABO/Rh sisteminde evrensel eritrosit alıcısı olarak kabul edilen grup hangisidir?",
+    "options": [
+      "0 Rh negatif",
+      "A Rh negatif",
+      "B Rh pozitif",
+      "0 Rh pozitif",
+      "AB Rh pozitif"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap AB Rh pozitif seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-615-zb6k",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş bir gezegen değil, hangi tür gök cismidir?",
+    "options": [
+      "Yıldız",
+      "Uydu",
+      "Asteroit",
+      "Kuyruklu yıldız",
+      "Cüce gezegen"
+    ],
+    "answer_index": 0,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Yıldız seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-616-pifv",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya'nın doğal uydusunun adı nedir?",
+    "options": [
+      "Titan",
+      "Ay",
+      "Europa",
+      "Phobos",
+      "Ganymede"
+    ],
+    "answer_index": 1,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Ay seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-617-uguw",
+    "topic_id": "topic-guncel",
+    "prompt": "Mars'ın yaygın olarak kullanılan lakabı hangisidir?",
+    "options": [
+      "Mavi Gezegen",
+      "Halkalı Gezegen",
+      "Kızıl Gezegen",
+      "Sabah Yıldızı",
+      "Buz Devi"
+    ],
+    "answer_index": 2,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Kızıl Gezegen seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-618-fr71",
+    "topic_id": "topic-guncel",
+    "prompt": "Jüpiter'deki Büyük Kırmızı Leke nedir?",
+    "options": [
+      "Volkan",
+      "Krater",
+      "Buz tabakası",
+      "Dev bir fırtına",
+      "Uydu"
+    ],
+    "answer_index": 3,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Dev bir fırtına seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-619-okzs",
+    "topic_id": "topic-guncel",
+    "prompt": "Plüton günümüzde hangi sınıfta yer alır?",
+    "options": [
+      "Gezegen",
+      "Uydu",
+      "Asteroit",
+      "Yıldız",
+      "Cüce gezegen"
+    ],
+    "answer_index": 4,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Cüce gezegen seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-620-9h4t",
+    "topic_id": "topic-guncel",
+    "prompt": "Ceres hangi bölgede bulunan bir cüce gezegendir?",
+    "options": [
+      "Asteroit Kuşağı",
+      "Kuiper Kuşağı",
+      "Oort Bulutu",
+      "Satürn halkaları",
+      "Orion Kolu"
+    ],
+    "answer_index": 0,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Asteroit Kuşağı seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-621-7cxw",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nde kaç gezegen vardır?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer_index": 1,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap 8 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-622-m5lq",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin iki gaz devi hangileridir?",
+    "options": [
+      "Uranüs ve Neptün",
+      "Dünya ve Mars",
+      "Jüpiter ve Satürn",
+      "Venüs ve Dünya",
+      "Merkür ve Venüs"
+    ],
+    "answer_index": 2,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Jüpiter ve Satürn seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-623-ye3s",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin iki buz devi hangileridir?",
+    "options": [
+      "Jüpiter ve Satürn",
+      "Dünya ve Mars",
+      "Venüs ve Dünya",
+      "Uranüs ve Neptün",
+      "Merkür ve Mars"
+    ],
+    "answer_index": 3,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Uranüs ve Neptün seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-624-u9h4",
+    "topic_id": "topic-guncel",
+    "prompt": "Merkür ve Venüs'ün ortak özelliklerinden biri hangisidir?",
+    "options": [
+      "Halkalarının bulunması",
+      "Buz devi olmaları",
+      "Güneş'ten aynı uzaklıkta olmaları",
+      "Aynı büyüklükte olmaları",
+      "Doğal uydularının olmaması"
+    ],
+    "answer_index": 4,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Doğal uydularının olmaması seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-625-5lft",
+    "topic_id": "topic-guncel",
+    "prompt": "Dünya'nın içinde bulunduğu galaksinin adı nedir?",
+    "options": [
+      "Samanyolu",
+      "Andromeda",
+      "Sombrero",
+      "Triangulum",
+      "Büyük Macellan Bulutu"
+    ],
+    "answer_index": 0,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Samanyolu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-626-9jbx",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi Samanyolu'nun hangi küçük kolunda yer alır?",
+    "options": [
+      "Perseus Kolu",
+      "Orion Kolu",
+      "Yay Kolu",
+      "Scutum-Centaurus Kolu",
+      "Norma Kolu"
+    ],
+    "answer_index": 1,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Orion Kolu seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-627-t2kk",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi yaklaşık kaç milyar yıl önce oluşmuştur?",
+    "options": [
+      "1,2 milyar yıl",
+      "2,5 milyar yıl",
+      "4,6 milyar yıl",
+      "8 milyar yıl",
+      "13,8 milyar yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap 4,6 milyar yıl seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-628-egnh",
+    "topic_id": "topic-guncel",
+    "prompt": "Güneş Sistemi'nin en büyük gezegeni Jüpiter, Güneş'ten kaçıncı sıradadır?",
+    "options": [
+      "Üçüncü",
+      "Dördüncü",
+      "Altıncı",
+      "Beşinci",
+      "Yedinci"
+    ],
+    "answer_index": 3,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Beşinci seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-629-w267",
+    "topic_id": "topic-guncel",
+    "prompt": "Neptün, Güneş'ten kaçıncı gezegendir?",
+    "options": [
+      "Altıncı",
+      "Yedinci",
+      "Dokuzuncu",
+      "Onuncu",
+      "Sekizinci"
+    ],
+    "answer_index": 4,
+    "explanation": "NASA'nın Güneş Sistemi bilgilerine göre doğru cevap Sekizinci seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-630-k7wj",
+    "topic_id": "topic-guncel",
+    "prompt": "'İnce Memed' adlı eserin yazarı kimdir?",
+    "options": [
+      "Yaşar Kemal",
+      "Yusuf Atılgan",
+      "Ahmet Hamdi Tanpınar",
+      "Halide Edib Adıvar",
+      "Halit Ziya Uşaklıgil"
+    ],
+    "answer_index": 0,
+    "explanation": "'İnce Memed', Yaşar Kemal tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-631-ynxz",
+    "topic_id": "topic-guncel",
+    "prompt": "'Saatleri Ayarlama Enstitüsü' adlı eserin yazarı kimdir?",
+    "options": [
+      "Halide Edib Adıvar",
+      "Ahmet Hamdi Tanpınar",
+      "Halit Ziya Uşaklıgil",
+      "Kemal Tahir",
+      "Mehmet Rauf"
+    ],
+    "answer_index": 1,
+    "explanation": "'Saatleri Ayarlama Enstitüsü', Ahmet Hamdi Tanpınar tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-632-350d",
+    "topic_id": "topic-guncel",
+    "prompt": "'Kürk Mantolu Madonna' adlı eserin yazarı kimdir?",
+    "options": [
+      "Sait Faik Abasıyanık",
+      "Samipaşazade Sezai",
+      "Sabahattin Ali",
+      "Yakup Kadri Karaosmanoğlu",
+      "Yaşar Kemal"
+    ],
+    "answer_index": 2,
+    "explanation": "'Kürk Mantolu Madonna', Sabahattin Ali tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-633-9nnv",
+    "topic_id": "topic-guncel",
+    "prompt": "'Yaban' adlı eserin yazarı kimdir?",
+    "options": [
+      "Yaşar Kemal",
+      "Yusuf Atılgan",
+      "Ahmet Hamdi Tanpınar",
+      "Yakup Kadri Karaosmanoğlu",
+      "Halide Edib Adıvar"
+    ],
+    "answer_index": 3,
+    "explanation": "'Yaban', Yakup Kadri Karaosmanoğlu tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-634-6k6l",
+    "topic_id": "topic-guncel",
+    "prompt": "'Çalıkuşu' adlı eserin yazarı kimdir?",
+    "options": [
+      "Sabahattin Ali",
+      "Sait Faik Abasıyanık",
+      "Samipaşazade Sezai",
+      "Yakup Kadri Karaosmanoğlu",
+      "Reşat Nuri Güntekin"
+    ],
+    "answer_index": 4,
+    "explanation": "'Çalıkuşu', Reşat Nuri Güntekin tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-635-2yrd",
+    "topic_id": "topic-guncel",
+    "prompt": "'Aşk-ı Memnu' adlı eserin yazarı kimdir?",
+    "options": [
+      "Halit Ziya Uşaklıgil",
+      "Kemal Tahir",
+      "Mehmet Rauf",
+      "Mehmet Âkif Ersoy",
+      "Mithat Cemal Kuntay"
+    ],
+    "answer_index": 0,
+    "explanation": "'Aşk-ı Memnu', Halit Ziya Uşaklıgil tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-636-2i56",
+    "topic_id": "topic-guncel",
+    "prompt": "'Eylül' adlı eserin yazarı kimdir?",
+    "options": [
+      "Mehmet Âkif Ersoy",
+      "Mehmet Rauf",
+      "Mithat Cemal Kuntay",
+      "Orhan Kemal",
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat"
+    ],
+    "answer_index": 1,
+    "explanation": "'Eylül', Mehmet Rauf tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-637-dhmx",
+    "topic_id": "topic-guncel",
+    "prompt": "'Araba Sevdası' adlı eserin yazarı kimdir?",
+    "options": [
+      "Refik Halit Karay",
+      "Reşat Nuri Güntekin",
+      "Recaizade Mahmut Ekrem",
+      "Sabahattin Ali",
+      "Sait Faik Abasıyanık"
+    ],
+    "answer_index": 2,
+    "explanation": "'Araba Sevdası', Recaizade Mahmut Ekrem tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-638-rr2q",
+    "topic_id": "topic-guncel",
+    "prompt": "'Sergüzeşt' adlı eserin yazarı kimdir?",
+    "options": [
+      "Yakup Kadri Karaosmanoğlu",
+      "Yaşar Kemal",
+      "Yusuf Atılgan",
+      "Samipaşazade Sezai",
+      "Ahmet Hamdi Tanpınar"
+    ],
+    "answer_index": 3,
+    "explanation": "'Sergüzeşt', Samipaşazade Sezai tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-639-7gvk",
+    "topic_id": "topic-guncel",
+    "prompt": "'Mai ve Siyah' adlı eserin yazarı kimdir?",
+    "options": [
+      "Kemal Tahir",
+      "Mehmet Rauf",
+      "Mehmet Âkif Ersoy",
+      "Mithat Cemal Kuntay",
+      "Halit Ziya Uşaklıgil"
+    ],
+    "answer_index": 4,
+    "explanation": "'Mai ve Siyah', Halit Ziya Uşaklıgil tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-640-chhg",
+    "topic_id": "topic-guncel",
+    "prompt": "'Dokuzuncu Hariciye Koğuşu' adlı eserin yazarı kimdir?",
+    "options": [
+      "Peyami Safa",
+      "Recaizade Mahmut Ekrem",
+      "Refik Halit Karay",
+      "Reşat Nuri Güntekin",
+      "Sabahattin Ali"
+    ],
+    "answer_index": 0,
+    "explanation": "'Dokuzuncu Hariciye Koğuşu', Peyami Safa tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-641-zgaf",
+    "topic_id": "topic-guncel",
+    "prompt": "'Fatih-Harbiye' adlı eserin yazarı kimdir?",
+    "options": [
+      "Recaizade Mahmut Ekrem",
+      "Peyami Safa",
+      "Refik Halit Karay",
+      "Reşat Nuri Güntekin",
+      "Sabahattin Ali"
+    ],
+    "answer_index": 1,
+    "explanation": "'Fatih-Harbiye', Peyami Safa tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-642-xis7",
+    "topic_id": "topic-guncel",
+    "prompt": "'Huzur' adlı eserin yazarı kimdir?",
+    "options": [
+      "Halide Edib Adıvar",
+      "Halit Ziya Uşaklıgil",
+      "Ahmet Hamdi Tanpınar",
+      "Kemal Tahir",
+      "Mehmet Rauf"
+    ],
+    "answer_index": 2,
+    "explanation": "'Huzur', Ahmet Hamdi Tanpınar tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  }
+]

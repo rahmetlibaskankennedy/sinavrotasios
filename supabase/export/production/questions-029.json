@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-1-x30a",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “gitgide” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Hava git-gide soğuyor.",
+      "Hava git gide soğuyor.",
+      "Hava gid gide soğuyor.",
+      "Hava gitgide, soğuyor.",
+      "Hava gitgide soğuyor."
+    ],
+    "answer_index": 4,
+    "explanation": "“Gitgide” sözcüğü bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-10-lafq",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “hiçbir” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Hiç-bir şey eskisi gibi değil.",
+      "Hiç bir şey eskisi gibi değil.",
+      "Hiçbir şey eskisi gibi değil.",
+      "Hiçbirşey eskisi gibi değil.",
+      "Hiç birşey eskisi gibi değil."
+    ],
+    "answer_index": 2,
+    "explanation": "“Hiçbir” bitişik, “şey” ise ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-11-6v77",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “her şey” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Her-şey zamanla düzelir.",
+      "Herşey zamanla düzelir.",
+      "Her şeyzamanla düzelir.",
+      "Herşey, zamanla düzelir.",
+      "Her şey zamanla düzelir."
+    ],
+    "answer_index": 4,
+    "explanation": "“Her şey” ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-12-6fn8",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan 'de' doğru yazılmıştır?",
+    "options": [
+      "Odada oturuyordu.",
+      "Evde kaldı.",
+      "Masada kitap var.",
+      "Sınıfta bekledi.",
+      "O da geldi."
+    ],
+    "answer_index": 4,
+    "explanation": "Bağlaç olan 'de/da' ayrı yazılır; diğer örneklerde bulunma hâl eki olan '-de/-da' bitişik yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-13-nzn4",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
+    "options": [
+      "Öğretmen Herkes otursun dedi.",
+      "Öğretmen \"Herkes otursun.\" dedi.",
+      "Öğretmen \"Herkes otursun dedi.",
+      "Öğretmen Herkes \"otursun\" dedi.",
+      "\"Öğretmen\" herkes otursun dedi."
+    ],
+    "answer_index": 1,
+    "explanation": "Bir başkasından aktarılan sözler tırnak içine alınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-14-oky7",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kısaltmaya gelen ek doğru yazılmıştır?",
+    "options": [
+      "TBMM nin kararı",
+      "TBMMnin kararı",
+      "TBMM'nin kararı",
+      "TBMM-nin kararı",
+      "TBMMNin kararı"
+    ],
+    "answer_index": 2,
+    "explanation": "Kısaltmalara gelen ekler kesme işaretiyle ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-15-rn3l",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde ikileme doğru yazılmıştır?",
+    "options": [
+      "Sorunu baş, başa konuşalım.",
+      "Sorunu başbaşa konuşalım.",
+      "Sorunu baş-başa konuşalım.",
+      "Sorunu baş başa konuşalım.",
+      "Sorunu baş başakonuşalım."
+    ],
+    "answer_index": 3,
+    "explanation": "“Baş başa” ikilemesi ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-16-18vz",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde iki nokta doğru kullanılmıştır?",
+    "options": [
+      "Çantamda şunlar: vardı kalem, silgi, defter.",
+      "Çantamda: şunlar vardı kalem, silgi, defter.",
+      "Çantamda şunlar vardı: kalem, silgi, defter.",
+      "Çantamda şunlar vardı, kalem: silgi, defter.",
+      "Çantamda şunlar vardı kalem, silgi: defter."
+    ],
+    "answer_index": 2,
+    "explanation": "Kendisiyle ilgili açıklama veya örnek verilecek cümlenin sonunda iki nokta kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-17-gi0k",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özel ada gelen ek doğru yazılmıştır?",
+    "options": [
+      "Ankara-da yaşıyorum.",
+      "Ankarada yaşıyorum.",
+      "Ankara da yaşıyorum.",
+      "Ankara'da yaşıyorum.",
+      "AnkaraDa yaşıyorum."
+    ],
+    "answer_index": 3,
+    "explanation": "Özel isimlere gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-18-a704",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sıfat yapan '-ki' doğru yazılmıştır?",
+    "options": [
+      "Bilmiyorum ki gelecek mi.",
+      "Sanki hiç olmamış gibi.",
+      "Ki bu iş zordu.",
+      "Belki gelir.",
+      "Masadaki kitap benim."
+    ],
+    "answer_index": 4,
+    "explanation": "'Masadaki' sözcüğünde sıfat yapan '-ki' eki bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-19-tetv",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde virgül doğru kullanılmıştır?",
+    "options": [
+      "Kalemi defteri, ve silgiyi aldı.",
+      "Kalemi, defteri ve silgiyi aldı.",
+      "Kalemi, defteri, ve, silgiyi aldı.",
+      "Kalemi defteri ve, silgiyi aldı.",
+      "Kalemi, defteri ve, silgiyi aldı."
+    ],
+    "answer_index": 1,
+    "explanation": "Eş görevli sözcükler art arda sıralanırken aralarına virgül konur, son sözcükten önce 've' varsa virgül konmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-2-jdmf",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde seslenme sözünden sonra virgül doğru kullanılmıştır?",
+    "options": [
+      "Ahmet: buraya gel.",
+      "Ahmet buraya, gel.",
+      "Ahmet buraya gel.",
+      "Ahmet; buraya gel.",
+      "Ahmet, buraya gel."
+    ],
+    "answer_index": 4,
+    "explanation": "Seslenme sözlerinden sonra virgül konur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-20-i7u1",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdakilerden hangisinin yazımı doğrudur?",
+    "options": [
+      "Neyazık ki",
+      "Ne yazık ki",
+      "Ne yazıkki",
+      "Neyazıkki",
+      "Ne-yazık-ki"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-21-hx7r",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde iki nokta doğru kullanılmıştır?",
+    "options": [
+      "Şunları: aldım kalem, defter, silgi.",
+      "Şunları aldım: kalem, defter, silgi.",
+      "Şunları aldım kalem: defter, silgi.",
+      "Şunları aldım kalem, defter: silgi.",
+      "Şunları, aldım: kalem defter silgi."
+    ],
+    "answer_index": 1,
+    "explanation": "İki nokta, kendisinden sonra örnekleme/açıklama yapılacağı zaman kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-22-lell",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdakilerden hangisinin yazımı doğrudur?",
+    "options": [
+      "Gitt gide",
+      "Git gide",
+      "Git-gide",
+      "Gitgide",
+      "GitGide"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-23-j2xl",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bulunma hâl eki olan “-de” doğru yazılmıştır?",
+    "options": [
+      "Ev de kimse yoktu.",
+      "Bahçe de çocuklar oynuyor.",
+      "Evde kimse yoktu.",
+      "Okul da ders başladı.",
+      "Sen deki kalemi ver."
+    ],
+    "answer_index": 2,
+    "explanation": "Bulunma hâl eki sözcüğe bitişik yazılır: ev-de.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-24-ysw9",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde üç nokta doğru kullanılmıştır?",
+    "options": [
+      "Sözlerini tamamlayamadı sanki bir şey... söyleyecekti",
+      "Sözlerini... tamamlayamadı sanki bir şey söyleyecekti.",
+      "Sözlerini tamamlayamadı sanki... bir şey söyleyecekti.",
+      "Sözlerini tamamlayamadı, sanki... bir şey söyleyecekti",
+      "Sözlerini tamamlayamadı, sanki bir şey söyleyecekti..."
+    ],
+    "answer_index": 4,
+    "explanation": "Üç nokta, tamamlanmamış cümlelerin sonunda kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-25-k9o2",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kısa çizgi doğru kullanılmıştır?",
+    "options": [
+      "İstanbul-Ankara treni kalktı.",
+      "İstanbul, Ankara treni kalktı.",
+      "İstanbul; Ankara treni kalktı.",
+      "İstanbul: Ankara treni kalktı.",
+      "İstanbul... Ankara treni kalktı."
+    ],
+    "answer_index": 0,
+    "explanation": "Kısa çizgi, iki nokta arasındaki bağlantıyı (örn. güzergâh) göstermek için kullanılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-26-e6rk",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özel ada gelen ek doğru yazılmıştır?",
+    "options": [
+      "Ankara'ya yarın gideceğiz.",
+      "Ankaraya yarın gideceğiz.",
+      "Ankara ya yarın gideceğiz.",
+      "Ankara' ya yarın gideceğiz.",
+      "Ankara-ya yarın gideceğiz."
+    ],
+    "answer_index": 0,
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır: Ankara'ya.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-27-geas",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan “ki” doğru yazılmıştır?",
+    "options": [
+      "Biliyorum ki başaracaksın.",
+      "Dünkü ki toplantı ertelendi.",
+      "Evde ki dosyayı getir.",
+      "Sende ki anahtar kaybolmuş.",
+      "Yarınki de görüşürüz."
+    ],
+    "answer_index": 0,
+    "explanation": "Bağlaç olan “ki” ayrı yazılır: Biliyorum ki başaracaksın.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-28-rkiw",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bulunma hâl eki olan '-de' doğru yazılmıştır?",
+    "options": [
+      "Ben de geldim.",
+      "O da bilmiyor.",
+      "Evde kimse yok.",
+      "Sen de gel.",
+      "Ben de bilmiyorum."
+    ],
+    "answer_index": 2,
+    "explanation": "'Evde' sözcüğündeki '-de' bulunma hâl ekidir ve bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-29-vi2j",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde üç nokta doğru kullanılmıştır?",
+    "options": [
+      "Sana... söyleyeceklerim var ama.",
+      "Sana söyleyeceklerim var ama….",
+      "Sana söyleyeceklerim... var ama.",
+      "Sana söyleyeceklerim var... ama.",
+      "Sana söyleyeceklerim var ama..."
+    ],
+    "answer_index": 4,
+    "explanation": "Tamamlanmamış ya da söylenmek istenmeyen sözlerin sonunda üç nokta kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-3-yjvh",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde seslenme sözünden sonra virgül doğru kullanılmıştır?",
+    "options": [
+      "Sevgili arkadaşlar yarışma yarın, başlayacak.",
+      "Sevgili arkadaşlar, yarışma yarın başlayacak.",
+      "Sevgili arkadaşlar yarışma, yarın başlayacak.",
+      "Sevgili, arkadaşlar yarışma yarın başlayacak.",
+      "Sevgili arkadaşlar; yarışma yarın başlayacak."
+    ],
+    "answer_index": 1,
+    "explanation": "Seslenme sözlerinden sonra virgül kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-30-z6bm",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde virgül eş görevli sözcükleri ayırmak için doğru kullanılmıştır?",
+    "options": [
+      "Pazardan, elma armut ve muz aldık.",
+      "Pazardan elma armut, ve muz aldık.",
+      "Pazardan elma, armut ve muz aldık.",
+      "Pazardan elma, armut, ve muz aldık.",
+      "Pazardan elma armut ve, muz aldık."
+    ],
+    "answer_index": 2,
+    "explanation": "Virgül, eş görevli sözcükleri ayırır; “ve” bağlacından önce zorunlu olmadıkça virgül kullanılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-31-prx4",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan 'ki' doğru yazılmıştır?",
+    "options": [
+      "Onunki daha güzel.",
+      "Bilmiyorum ki gelecek mi.",
+      "Benimki kayboldu.",
+      "Seninki nerede?",
+      "Dünkü olay unutulmadı."
+    ],
+    "answer_index": 1,
+    "explanation": "Bağlaç olan 'ki' ayrı yazılır; diğerlerinde ilgi/aitlik eki olan '-ki' bitişik yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-32-99oa",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde soru eki 'mi' doğru yazılmıştır?",
+    "options": [
+      "Geldi mi acaba?",
+      "Geldimi acaba?",
+      "Geldi-mi acaba?",
+      "Geldimmi acaba?",
+      "Geldi mii acaba?"
+    ],
+    "answer_index": 0,
+    "explanation": "Soru eki 'mi' her zaman ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-33-wbu3",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde bağlaç olan “de” doğru yazılmıştır?",
+    "options": [
+      "Evde ki kitap kaybolmuş.",
+      "Bende sizinle geliyorum.",
+      "Okul da kimse yoktu.",
+      "Ben de sizinle geliyorum.",
+      "Yoldada uzun süre bekledik."
+    ],
+    "answer_index": 3,
+    "explanation": "Bağlaç olan “de” ayrı yazılır ve cümleden çıkarıldığında anlam büyük ölçüde korunur: Ben de sizinle geliyorum.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-34-5vzv",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki sözcüklerden hangisi bitişik yazılır?",
+    "options": [
+      "ön yargı",
+      "ara sıra",
+      "göz ardı",
+      "önsöz",
+      "el ele"
+    ],
+    "answer_index": 3,
+    "explanation": "“Önsöz” bitişik; “ön yargı”, “göz ardı”, “ara sıra” ve “el ele” ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-35-w13f",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdakilerden hangisinin yazımı doğrudur?",
+    "options": [
+      "Bir kaç",
+      "Bir-kaç",
+      "Birkaç",
+      "Birrkaç",
+      "Bir Kaç"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-36-goop",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kısaltmaya gelen ek doğru yazılmıştır?",
+    "options": [
+      "TBMM'nin açılışı 23 Nisan 1920'dir.",
+      "TBMMnin açılışı 23 Nisan 1920'dir.",
+      "TBMM nin açılışı 23 Nisan 1920'dir.",
+      "TBMM' nin açılışı 23 Nisan 1920'dir.",
+      "TBMM-nin açılışı 23 Nisan 1920'dir."
+    ],
+    "answer_index": 0,
+    "explanation": "Büyük harfli kısaltmalara gelen ekler kesme işaretiyle ayrılır: TBMM'nin.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-37-f4kq",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde birleşik fiil doğru yazılmıştır?",
+    "options": [
+      "Bu durumu fark etmek zor değil.",
+      "Bu durumu farketmek zor değil.",
+      "Bu durumu fark-etmek zor değil.",
+      "Bu durumu fark etmekzor değil.",
+      "Bu durumu far ketmek zor değil."
+    ],
+    "answer_index": 0,
+    "explanation": "“Fark etmek” yardımcı fiille kurulan birleşik fiildir ve ayrı yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-4-ex7y",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde “birçok” sözcüğü doğru yazılmıştır?",
+    "options": [
+      "Bir-çok kişi toplantıya katıldı.",
+      "Birçok kişi toplantıya katıldı.",
+      "Bir çok kişi toplantıya katıldı.",
+      "Bir çoğu kişi toplantıya katıldı.",
+      "Birçokkişi toplantıya katıldı."
+    ],
+    "answer_index": 1,
+    "explanation": "“Birçok” belgisiz sıfatı bitişik yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-5-n6uw",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde dil adlarına gelen ek doğru yazılmıştır?",
+    "options": [
+      "Türkçenin anlatım olanakları çok geniştir.",
+      "Türkçe'nin anlatım olanakları çok geniştir.",
+      "Türkçe nin anlatım olanakları çok geniştir.",
+      "Türkçe' nin anlatım olanakları çok geniştir.",
+      "Türkçe-nin anlatım olanakları çok geniştir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dil adlarına gelen çekim ekleri kesme işaretiyle ayrılmaz: Türkçenin.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-6-ae2p",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
+    "options": [
+      "Kalemi; aldım; defteri de.",
+      "Kalemi; aldım defteri de.",
+      "Kalemi aldım defteri; de.",
+      "Kalemi aldım, defteri; de.",
+      "Kalemi aldım; defteri de."
+    ],
+    "answer_index": 4,
+    "explanation": "Noktalı virgül, birbiriyle ilgili ancak bağımsız cümleleri ayırmak için kullanılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-7-kvig",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde ünlem işareti doğru kullanılmıştır?",
+    "options": [
+      "Ne güzel bir gün!",
+      "Ne güzel bir gün.",
+      "Ne güzel, bir gün!",
+      "Ne! güzel bir gün",
+      "Ne güzel bir; gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Sevinç, kıvanç, üzüntü gibi duyguları anlatan cümlelerin sonuna ünlem işareti konur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-8-g5ym",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sıfat yapan “-ki” doğru yazılmıştır?",
+    "options": [
+      "Biliyorumki gelecek.",
+      "Dünkü toplantı ertelendi.",
+      "Dün ki toplantı ertelendi.",
+      "Evde ki dosyayı getir.",
+      "Senki bunu yaparsın."
+    ],
+    "answer_index": 1,
+    "explanation": "Sıfat yapan -ki eki sözcüğe bitişik yazılır: dün-kü.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-9-f1vl",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde soru eki “mi” doğru yazılmıştır?",
+    "options": [
+      "Sende mi geliyorsun?",
+      "Sen de mi geliyorsun?",
+      "Sen demi geliyorsun?",
+      "Sen de mi geliyorsun.",
+      "Sen de mi, geliyorsun?"
+    ],
+    "answer_index": 1,
+    "explanation": "Soru eki “mi” kendinden önceki sözcükten ayrı yazılır; soru cümlesinin sonunda soru işareti kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-0-yj0n",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Mücbir sebep hallerinde veri, bilgi ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin yöntemleri kim belirler?",
+    "options": [
+      "Cumhurbaşkanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "Sayıştay",
+      "İç Denetim Koordinasyon Kurulu",
+      "İlgili üst yönetici"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hazine ve Maliye Bakanlığı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-1-brov",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un 83 üncü maddesinin yüklenen metindeki lafzına göre Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Bakanlar Kurulu",
+      "Hazine ve Maliye Bakanı",
+      "TBMM Başkanı",
+      "Sayıştay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Bakanlar Kurulu. Dayanak: Yüklenen 5018 sayılı Kanun metni, Madde 83.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-10-guao",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un 81 inci maddesinde, 211 sayılı Kanun'un hangi maddeleri yürürlükten kaldırma hükmünün dışında tutulmuştur?",
+    "options": [
+      "80-83 üncü maddeleri",
+      "1-10 uncu maddeleri",
+      "98-106 ncı maddeleri",
+      "30-37 nci maddeleri",
+      "14-20 nci maddeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 98-106 ncı maddeleri. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 81.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-11-a55w",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un 82 nci maddesine göre 81 inci maddenin (e) bendi hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "31.12.2005",
+      "1.1.2005",
+      "1.1.2006",
+      "1.1.2004",
+      "Kanun'un yayımı tarihinde"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 1.1.2004. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 82.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-12-8i0o",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 2 nci maddesine göre müşterek fon hesabına yatırılan gelirlerden ilgili mevzuatında öngörülen fonlar arası pay ve kesintileri kim yapar?",
+    "options": [
+      "Sayıştay",
+      "İlgili fonun üst yöneticisi",
+      "Cumhurbaşkanlığı",
+      "İç Denetim Koordinasyon Kurulu",
+      "Türkiye Cumhuriyet Merkez Bankası"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Türkiye Cumhuriyet Merkez Bankası. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-13-4me8",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 2 nci maddesine göre Destekleme ve Fiyat İstikrar Fonunun hizmetleri hangi ödeneklerle yerine getirilir?",
+    "options": [
+      "Bütçenin (A) işaretli cetveline konulan ödeneklerle",
+      "Yalnızca müşterek fon hesabındaki kesintilerle",
+      "Mahallî idare bütçelerindeki ödeneklerle",
+      "Sosyal güvenlik kurumu bütçesindeki ödeneklerle",
+      "Yedek ödenekten yapılan aktarmalarla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bütçenin (A) işaretli cetveline konulan ödeneklerle. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-14-ctcl",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 6 ncı maddesine göre yeniden teşkilatlanma süreci tamamlanıncaya kadar yapılması gereken zorunlu harcamalar nereden gerçekleştirilir?",
+    "options": [
+      "Sosyal güvenlik kurumu bütçesinden",
+      "Kapatılan idare veya ilgili idare bütçesinden",
+      "Mahallî idare bütçesinden",
+      "Yalnızca yedek ödenekten",
+      "Müşterek fon hesabından"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kapatılan idare veya ilgili idare bütçesinden. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-15-fw5p",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 6 ncı maddesine göre kapatılan harcama birimi ve idareler için faaliyet raporu bakımından hangi hüküm uygulanır?",
+    "options": [
+      "Faaliyet sonuçları hiçbir raporda gösterilmez",
+      "Ayrı faaliyet raporu düzenlenerek Sayıştaya gönderilir",
+      "Faaliyet raporu düzenlenmez; yılı faaliyet sonuçları devralan idarelerin faaliyet raporlarında gösterilir",
+      "Faaliyet raporu üçer aylık hazırlanır",
+      "Faaliyet raporu yalnızca TBMM tarafından hazırlanır"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Faaliyet raporu düzenlenmez; yılı faaliyet sonuçları devralan idarelerin faaliyet raporlarında gösterilir. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 6.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-16-pi4z",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 3 üncü maddesine göre FATİH Projesi kapsamında Millî Eğitim Bakanlığınca yapılacak belirli işlerde üst yöneticinin onayıyla gelecek yıllara yaygın yüklenmelere en fazla kaç yıla kadar girişilebilir?",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "12 yıl",
+      "15 yıl",
+      "20 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 15 yıl. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-17-ki7y",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 4 üncü maddesine göre Hazine ve Maliye Bakanlığı, elektronik işlemlere ilişkin belirlemelerinde hangi kurumun uygun görüşünü alır?",
+    "options": [
+      "İç Denetim Koordinasyon Kurulu",
+      "Türkiye Büyük Millet Meclisi",
+      "Türkiye Cumhuriyet Merkez Bankası",
+      "Cumhurbaşkanlığı",
+      "Sayıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Sayıştay. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 4.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-18-zrit",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 5 inci maddesine göre Cumhurbaşkanlığı kararnameleriyle kurulan idarelerin Kanun'a ekli cetvellerden hangisinde yer alacağı nerede belirtilir?",
+    "options": [
+      "İlgili Cumhurbaşkanlığı kararnamesinde",
+      "Merkezî yönetim bütçe Kanun'unda",
+      "Hazine ve Maliye Bakanlığı genelgesinde",
+      "Sayıştay kararında",
+      "İdarenin stratejik planında"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – İlgili Cumhurbaşkanlığı kararnamesinde. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Ek Madde 5.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-19-x5n4",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Geçici 3 üncü maddesine göre 49 uncu maddede belirtilen Kurul tarafından belirleme yapılıncaya kadar genel yönetim kapsamındaki kamu idarelerinde uygulanacak muhasebe standartlarını kim belirler?",
+    "options": [
+      "Sayıştay",
+      "Maliye Bakanlığı",
+      "Cumhurbaşkanlığı",
+      "Türkiye Cumhuriyet Merkez Bankası",
+      "İç Denetim Koordinasyon Kurulu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Maliye Bakanlığı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Geçici Madde 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-2-m0bm",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'a göre kamu idarelerinin yeniden teşkilatlanması (birleşme, ayrılma vb.) durumunda bütçe işlemlerini yapmaya kim yetkilidir?",
+    "options": [
+      "Hazine ve Maliye Bakanı",
+      "TBMM",
+      "Sayıştay",
+      "Cumhurbaşkanı",
+      "İlgili Bakanlar"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanı. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-20-m3sf",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Geçici 9 uncu maddesine göre diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanunu'na yapılan atıflar hangi Kanun'a yapılmış sayılır?",
+    "options": [
+      "2886 sayılı Devlet İhale Kanunu'na",
+      "4734 sayılı Kamu İhale Kanunu'na",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na",
+      "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a",
+      "657 sayılı Devlet Memurları Kanunu'na"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu'na. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Geçici Madde 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-21-ah9z",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Geçici 12 nci maddesine göre Hazine adına tescil edilmesi gereken ve ilgili kamu idarelerinin mülkiyetinde bulunan taşınmazlar, bu idarelerin tüzel kişiliğinin sona erdiği tarihi izleyen ne kadar süre içinde resen Hazine adına tescil edilir?",
+    "options": [
+      "Bir ay",
+      "Üç ay",
+      "Bir yıl",
+      "Altı ay",
+      "İki yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Altı ay. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Geçici Madde 12.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-22-02ka",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Geçici 22 nci maddesine göre Cumhurbaşkanına veya Cumhurbaşkanlığına verilen merkezî yönetim bütçesinin hazırlık ve uygulamasına ilişkin görev ve yetkiler, ilgili idarenin teşkilatlanması tamamlanıncaya kadar Cumhurbaşkanı kararıyla kim tarafından kullanılabilir?",
+    "options": [
+      "Yalnız Sayıştay tarafından",
+      "Türkiye Büyük Millet Meclisi Başkanlığı tarafından",
+      "Türkiye Cumhuriyet Merkez Bankası tarafından",
+      "İçişleri Bakanlığı tarafından",
+      "Hazine ve Maliye Bakanı veya Hazine ve Maliye Bakanlığı tarafından"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hazine ve Maliye Bakanı veya Hazine ve Maliye Bakanlığı tarafından. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, Geçici Madde 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-3-rlpj",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un 81 inci maddesiyle aşağıdakilerden hangisi yürürlükten kaldırılan düzenlemeler arasında sayılmıştır?",
+    "options": [
+      "657 sayılı Devlet Memurları Kanunu",
+      "4734 sayılı Kamu İhale Kanunu",
+      "2886 sayılı Devlet İhale Kanunu",
+      "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "1050 sayılı Muhasebei Umumiye Kanunu ile ek ve değişiklikleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 1050 sayılı Muhasebei Umumiye Kanunu ile ek ve değişiklikleri. Dayanak: 5018 sayılı Kanun, Madde 81.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-4-x75y",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un 82 nci maddesine göre Kanun'un “diğer hükümleri” hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "01/01/2005",
+      "01/01/2004",
+      "01/07/2004",
+      "24/12/2003",
+      "31/12/2004"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 01/01/2005. Dayanak: 5018 sayılı Kanun, Madde 82.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-5-p15g",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "5018 sayılı Kanun'un Ek 1 inci maddesine göre Türkiye Büyük Millet Meclisi ve Sayıştayın muhasebe hizmetleri kim tarafından görevlendirilen muhasebe yetkililerince yerine getirilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Türkiye Büyük Millet Meclisi Başkanı",
+      "Hazine ve Maliye Bakanı",
+      "Sayıştay Başkanı",
+      "İçişleri Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Türkiye Büyük Millet Meclisi Başkanı. Dayanak: 5018 sayılı Kanun, Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-6-a6k9",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Çeşitli mevzuatla kurulmuş fonların her türlü geliri, Türkiye Cumhuriyet Merkez Bankası nezdinde kimin adına açılan müşterek fon hesabına yatırılır?",
+    "options": [
+      "Cumhurbaşkanlığı",
+      "Sayıştay",
+      "Hazine ve Maliye Bakanlığı",
+      "TBMM",
+      "İlgili fonun yönetim kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hazine ve Maliye Bakanlığı. Dayanak: 5018 sayılı Kanun, Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-7-dd7j",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Hazine ve Maliye Bakanlığı bilişim sistemleri üzerinden yürütülen işlemlerde mücbir sebep nedeniyle gecikme yaşanması hâlinde ilgililer hakkında hangi uygulama yapılır?",
+    "options": [
+      "İşlem geçersiz sayılır",
+      "Her durumda gecikme zammı iki kat uygulanır",
+      "Yalnızca para cezası uygulanır",
+      "Gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar uygulanmaz",
+      "Sadece gecikme faizi uygulanır"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar uygulanmaz. Dayanak: 5018 sayılı Kanun, Ek Madde 7.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-8-mxr8",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Mevzuatta orta vadeli malî plana yapılan atıflar 5018 sayılı Kanun'a göre neye yapılmış sayılır?",
+    "options": [
+      "Kalkınma planına",
+      "Bütçe hazırlama rehberine",
+      "Yıllık ekonomik rapora",
+      "Stratejik plana",
+      "Orta vadeli programa"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Orta vadeli programa. Dayanak: 5018 sayılı Kanun, Ek Madde 8.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn-mtmza7tq-9-pgv1",
+    "topic_id": "t-yururlukten-kaldirilan-hukumler-gecici-m-ygxdn",
+    "prompt": "Tasarruf tedbirlerine aykırı iş ve işlemleri tespit edilenler hakkında uygulanacak disiplin işlemlerinin sonuçları nereye bildirilir?",
+    "options": [
+      "Türkiye Büyük Millet Meclisine",
+      "Sayıştaya",
+      "Cumhurbaşkanlığına",
+      "İç Denetim Koordinasyon Kuruluna",
+      "Merkez Bankasına"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanlığına. Dayanak: 5018 sayılı Kanun, Ek Madde 9.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:57.897879+00:00",
+    "updated_at": "2026-09-04T13:16:57.897879+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-0-uqq8",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Meclis soruşturması açılabilmesi için gerekli önerge çoğunluğu nedir?",
+    "options": [
+      "1/5",
+      "1/10",
+      "3/5",
+      "Salt çoğunluk (301)",
+      "2/3"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Salt çoğunluk (301). Doğru cevap salt çoğunluktur (301 milletvekili). Anayasanın 106. maddesine göre Meclis soruşturması açılması için önerge, TBMM üye tamsayısının salt çoğunluğu tarafından verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-1-0ape",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yüce Divana sevk kararı için gerekli çoğunluk nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "2/3 (400)",
+      "3/5 (360)",
+      "3/4",
+      "Oy birliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 2/3 (400). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2/3 (400)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-10-or13",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kanun ile Cumhurbaşkanlığı Kararnamesi çelişirse hangisi uygulanır?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Sonraki tarihli olan",
+      "Önceki tarihli olan",
+      "AYM kararı beklenir",
+      "Kanun"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanun. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-11-kzlf",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Olağanüstü hal (OHAL) ilan etme yetkisi kime aittir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "İçişleri Bakanı",
+      "Genelkurmay Başkanı",
+      "MGK"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-12-38cb",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "OHAL süresi bir defada en fazla kaç ayı geçmemek üzere ilan edilebilir?",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "9",
+      "12"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 6. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “6”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-13-bwvh",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "OHAL süresini uzatma yetkisi kime aittir?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "MGK",
+      "İçişleri Bakanlığı",
+      "Anayasa Mahkemesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-14-ayzi",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Savaş hâlleri hariç olmak üzere TBMM, olağanüstü hâl süresini her defasında en fazla kaç ay uzatabilir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "12"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 4. Savaş hâlleri hariç olmak üzere TBMM, olağanüstü hâli her defasında dört ayı geçmemek üzere uzatabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-15-7dkm",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Genelkurmay Başkanını kim atar?",
+    "options": [
+      "Yüksek Askerî Şura",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Millî Savunma Bakanı",
+      "İçişleri Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-16-5pwd",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Aşağıdakilerden hangisi MGK üyesi değildir?",
+    "options": [
+      "Adalet Bakanı",
+      "Dışişleri Bakanı",
+      "Jandarma Genel Komutanı",
+      "İçişleri Bakanı",
+      "Hava Kuvvetleri Komutanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Jandarma Genel Komutanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Jandarma Genel Komutanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-17-sbr4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Devlet Denetleme Kurulu (DDK) kime bağlıdır?",
+    "options": [
+      "TBMM",
+      "Başbakanlık",
+      "Adalet Bakanlığı",
+      "Sayıştay",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanlığı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanlığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-18-uw0q",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "DDK aşağıdakilerden hangisini denetleyemez?",
+    "options": [
+      "Silahlı Kuvvetler",
+      "Yargı Organları",
+      "Meslek kuruluşları",
+      "İşçi sendikaları",
+      "Kamu yararına çalışan dernekler"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yargı Organları. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargı Organları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-19-vcqr",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yönetmelik çıkarma yetkisi aşağıdakilerden hangisinde yoktur?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Bakanlıklar",
+      "Kamu Tüzel Kişileri",
+      "Belediyeler",
+      "TBMM"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-2-jl59",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı seçilme yaşı kaçtır?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 40. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “40”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-20-qpz2",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "İdarenin her türlü eylem ve işlemlerine karşı hangi yol açıktır?",
+    "options": [
+      "Yargı yolu",
+      "İtiraz yolu",
+      "Tahkim yolu",
+      "Uzlaşma yolu",
+      "Arabuluculuk yolu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yargı yolu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargı yolu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-21-s0kn",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasanın 123. maddesine göre idare, kuruluş ve görevleriyle bir bütündür ve neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Cumhurbaşkanlığı genelgesiyle",
+      "Yönetmelikle",
+      "TBMM İçtüzüğüyle",
+      "Mahallî idare kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanunla. Anayasanın 123. maddesi, idarenin kuruluş ve görevleriyle bir bütün olduğunu ve kanunla düzenleneceğini hükme bağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-22-7n1x",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "İllerin idaresi hangi yetki esasına dayanır?",
+    "options": [
+      "Yerinden yönetim",
+      "Yetki genişliği",
+      "Özerklik",
+      "Federasyon",
+      "Kayyum"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yetki genişliği. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yetki genişliği”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-23-wz4z",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Aşağıdakilerden hangisi bir mahallî idare birimi değildir?",
+    "options": [
+      "İl Özel İdaresi",
+      "Belediye",
+      "Köy",
+      "Mahalle",
+      "Büyükşehir Belediyesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mahalle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Mahalle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-24-w4om",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurlar ve diğer kamu görevlileri ile ilgili davalarda rücu sistemi nasıldır?",
+    "options": [
+      "Vatandaş doğrudan memura dava açar.",
+      "Vatandaş idareye dava açar, idare kusurlu memura rücu eder.",
+      "Vatandaş hem memura hem idareye dava açar.",
+      "Memurlar yargılanamaz.",
+      "Sadece amir sorumlu tutulur."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Vatandaş idareye dava açar, idare kusurlu memura rücu eder. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Vatandaş idareye dava açar, idare kusurlu memura rücu eder.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-25-y24c",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Konusu suç teşkil eden bir emir alan memur ne yapmalıdır?",
+    "options": [
+      "Emri yerine getirir, sorumluluk üstündedir.",
+      "Emri yazılı isterse yerine getirir.",
+      "Emri hiçbir suretle yerine getirmez.",
+      "Durumu savcılığa bildirip emri yapar.",
+      "Valiliğe danışır."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Emri hiçbir suretle yerine getirmez. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Emri hiçbir suretle yerine getirmez.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-26-ujiv",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Üniversite rektörlerini kim atar?",
+    "options": [
+      "YÖK Başkanı",
+      "Millî Eğitim Bakanı",
+      "Cumhurbaşkanı",
+      "Üniversite Senatosu",
+      "Başbakan"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-27-gt0r",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasanın 131. maddesine göre Yükseköğretim Kurulu üyelerinin nihai seçilme veya atanma makamı hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Üniversitelerarası Kurul",
+      "Türkiye Büyük Millet Meclisi",
+      "Millî Eğitim Bakanı",
+      "Danıştay"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Cumhurbaşkanı. Anayasanın 131. maddesinde Yükseköğretim Kurulu üyelerinin Cumhurbaşkanınca seçileceği veya atanacağı düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-28-i8ms",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu kurumu niteliğindeki meslek kuruluşlarının (Barolar, Odalar vb.) organ seçimleri kimin gözetiminde yapılır?",
+    "options": [
+      "Valilik",
+      "İçişleri Bakanlığı",
+      "DDK",
+      "Sayıştay",
+      "Yargı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yargı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-29-o3p3",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "1982 Anayasası’na göre “Millî Güvenlik”ten TBMM’ye karşı kim sorumludur?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "Millî Savunma Bakanı",
+      "İçişleri Bakanı",
+      "Dışişleri Bakanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-3-ua9n",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanının görev süresi kaç yıldır?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "10",
+      "5"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 5. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “5”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-30-3f4h",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Jandarma Genel Komutanı MGK üyesi midir?",
+    "options": [
+      "Evet",
+      "Sadece savaş zamanı üyedir",
+      "Oylamalara katılamaz ama üyedir",
+      "Hayır",
+      "Cumhurbaşkanı çağırırsa üyedir"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hayır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-31-nb8b",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Hakkında soruşturma açılan Cumhurbaşkanı ne yapamaz?",
+    "options": [
+      "Yurtdışına çıkamaz",
+      "Seçim kararı alamaz",
+      "Bakan atayamaz",
+      "Kararname çıkaramaz",
+      "MGK’yı toplayamaz"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Seçim kararı alamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Seçim kararı alamaz”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-32-x3a6",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Türkiye’nin idarî yapısında “Köy” nasıl bir kuruluştur?",
+    "options": [
+      "Merkezi idarenin taşra teşkilatıdır.",
+      "Özel bir şirkettir.",
+      "Dernek statüsündedir.",
+      "Mahallî idare birimidir",
+      "Doğrudan Kaymakamlığa bağlı bir birimdir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Mahallî idare birimidir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Mahallî idare birimidir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-33-ed2n",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yükseköğretim Kurulu (YÖK) anayasal bir kuruluş mudur?",
+    "options": [
+      "Hayır, kanunla kurulmuştur.",
+      "Evet, Anayasa’nın 131. maddesinde düzenlenmiştir.",
+      "Hayır, yönetmelikle kurulmuştur.",
+      "Evet ama 2017’de anayasadan çıkarılmıştır.",
+      "Sadece üniversiteler anayasaldır."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Evet, Anayasa’nın 131. maddesinde düzenlenmiştir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Evet, Anayasa’nın 131. maddesinde düzenlenmiştir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-34-o31n",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı, Anayasanın 103. maddesine göre görevine başlarken nerede andiçer?",
+    "options": [
+      "Anayasa Mahkemesi önünde",
+      "Yargıtay önünde",
+      "Cumhurbaşkanlığı Kabinesi önünde",
+      "Türkiye Büyük Millet Meclisi önünde",
+      "Yüksek Seçim Kurulu önünde"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Türkiye Büyük Millet Meclisi önünde. Madde 103’e göre Cumhurbaşkanı görevine başlarken Türkiye Büyük Millet Meclisi önünde andiçer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-35-hdw7",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasanın 132. maddesine göre Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı yükseköğretim kurumları neye tâbidir?",
+    "options": [
+      "Özel kanunlarının hükümlerine",
+      "YÖK’ün genelgelerine",
+      "Yalnız üniversite senatosu kararlarına",
+      "TBMM İçtüzüğüne",
+      "Belediye mevzuatına"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Özel kanunlarının hükümlerine. Madde 132, Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı yükseköğretim kurumlarının özel kanunlarının hükümlerine tâbi olduğunu belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-36-u8f4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasamıza göre “Başkomutanlık” kime aittir?",
+    "options": [
+      "Cumhurbaşkanına",
+      "Genelkurmay Başkanına",
+      "TBMM’nin manevî varlığına",
+      "Millî Savunma Bakanına",
+      "Türk Silahlı Kuvvetlerine"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – TBMM’nin manevî varlığına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM’nin manevî varlığına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-37-9s5g",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Meclis soruşturması kimler hakkında istenebilir?",
+    "options": [
+      "Milletvekilleri hakkında",
+      "Cumhurbaşkanı yardımcıları ve bakanlar hakkında",
+      "Yüksek yargı mensupları hakkında",
+      "Genelkurmay Başkanı hakkında",
+      "Belediye Başkanları hakkında"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı yardımcıları ve bakanlar hakkında. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı yardımcıları ve bakanlar hakkında”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-38-10yp",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı yardımcıları ve bakanlar hakkında Meclis soruşturması açılabilmesi için gereken karar yeter sayısı nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5’i (360)",
+      "Üye tamsayısının 2/3’ü (400)",
+      "Katılanların 2/3’ü",
+      "1/10 imza"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Üye tamsayısının 3/5’i (360). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 3/5’i (360)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-39-qq4t",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Meclis soruşturması sonucunda Yüce Divan’a sevk kararı için gereken çoğunluk nedir?",
+    "options": [
+      "Salt çoğunluk",
+      "3/5 çoğunluk",
+      "Üye tamsayısının 2/3’ü",
+      "Katılanların salt çoğunluğu",
+      "Nitelikli çoğunluk gerekmez"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Üye tamsayısının 2/3’ü. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 2/3’ü”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-4-fgen",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kural olarak, bir kişi en fazla kaç kez Cumhurbaşkanı seçilebilir?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2",
+      "Sınırsız"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 2. Kural olarak bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir. Ancak Cumhurbaşkanının ikinci döneminde TBMM seçimlerin yenilenmesine karar verirse Cumhurbaşkanı bir defa daha aday olabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-40-y3pv",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı kim tarafından seçilir?",
+    "options": [
+      "Doğrudan halk tarafından",
+      "TBMM",
+      "Yüksek Seçim Kurulu",
+      "İl Genel Meclisleri",
+      "Parti delegeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Doğrudan halk tarafından. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Doğrudan halk tarafından”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-41-i624",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığına aday gösterilebilmek için siyasi partilerin son genel seçimde aldıkları oy oranı (tek başına veya birlikte) en az yüzde kaç olmalıdır?",
+    "options": [
+      "%3",
+      "%7",
+      "%10",
+      "%5",
+      "%20"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – %5. Madde 101’e göre son milletvekili genel seçiminde tek başına veya birlikte geçerli oyların en az yüzde beşini alan siyasi partiler Cumhurbaşkanlığına aday gösterebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-42-7dg9",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı seçilen kişinin varsa TBMM üyeliği ne olur?",
+    "options": [
+      "Sona erer",
+      "Devam eder",
+      "Askıya alınır",
+      "Dondurulur",
+      "Fahri üyeliğe dönüşür"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Sona erer. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sona erer”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-43-cnbd",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkilerinden biri değildir?",
+    "options": [
+      "Kanunları yayımlamak",
+      "Cumhurbaşkanı yardımcıları ve bakanları atamak",
+      "Kanun teklif etmek",
+      "Milletlerarası andlaşmaları onaylamak",
+      "TSK’nın kullanılmasına karar vermek"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kanun teklif etmek. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun teklif etmek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-44-u4kg",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı, üst kademe kamu yöneticilerinin atanmalarına ilişkin usul ve esasları neyle düzenler?",
+    "options": [
+      "Kanunla",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Genelgeyle",
+      "İçtüzükle"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanlığı Kararnamesiyle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanlığı Kararnamesiyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-45-fig4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı kararnamesi (CBK) ile kanunlarda farklı hükümler bulunması hâlinde hangisi uygulanır?",
+    "options": [
+      "CBK hükümleri",
+      "Sonraki tarihli olan",
+      "Anayasa Mahkemesi kararı",
+      "Kanun hükümleri",
+      "Danıştay görüşü"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kanun hükümleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun hükümleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-46-8sni",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "TBMM’nin aynı konuda kanun çıkarması durumunda, o konudaki Cumhurbaşkanlığı kararnamesinin durumu ne olur?",
+    "options": [
+      "Değiştirilerek kabul edilir.",
+      "Yürürlüğü durur.",
+      "Hükümsüz hale gelir.",
+      "Referanduma sunulur.",
+      "Kanunla birleşir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hükümsüz hale gelir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hükümsüz hale gelir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-47-k68i",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "TBMM, Cumhurbaşkanı hakkında soruşturma açılmasına hangi çoğunlukla karar verebilir?",
+    "options": [
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5’i (360)",
+      "Üye tamsayısının 2/3’ü (400)",
+      "Katılanların salt çoğunluğu",
+      "%50 + 1"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Üye tamsayısının 3/5’i (360). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 3/5’i (360)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-48-nu46",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı makamının boşalması hâlinde kaç gün içinde seçim yapılır?",
+    "options": [
+      "45",
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 45. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “45”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-49-ge8x",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Meclis Kararıyla",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Genelgeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanlığı Kararnamesiyle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanlığı Kararnamesiyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-5-r6eq",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı adaylığı için seçmenler tarafından en az kaç imza gereklidir?",
+    "options": [
+      "20.000",
+      "100.000",
+      "50.000",
+      "200.000",
+      "500.000"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 100.000. 000. 000. 000. 000. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “100.000”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-50-3bl0",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Millî Güvenlik Kurulunun (MGK) başkanı kimdir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "İçişleri Bakanı",
+      "Genelkurmay Başkanı",
+      "TBMM Başkanı",
+      "Millî Savunma Bakanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-51-s35u",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı, yurdun tamamında veya bir bölgesinde süresi kaç ayı geçmemek üzere OHAL ilan edebilir?",
+    "options": [
+      "3 ay",
+      "4 ay",
+      "1 yıl",
+      "6 ay",
+      "2 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 6 ay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “6 ay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-52-1tvm",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "OHAL ilanı kararı aynı gün nereye sunulur?",
+    "options": [
+      "Anayasa Mahkemesine",
+      "Danıştaya",
+      "MGK’ya",
+      "YSK’ya",
+      "TBMM’nin onayına"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – TBMM’nin onayına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM’nin onayına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-53-tmiu",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Olağanüstü hâllerde çıkarılan Cumhurbaşkanlığı kararnameleri TBMM’de ne kadar süre içinde görüşülüp karara bağlanmalıdır (aksi halde yürürlükten kalkar)?",
+    "options": [
+      "3 ay",
+      "15 gün",
+      "1 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 3 ay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “3 ay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-54-t0wp",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Başkomutanlık, TBMM adına kim tarafından temsil olunur?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "Millî Savunma Bakanı",
+      "Meclis Başkanı",
+      "Kuvvet Komutanları",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-55-pdxr",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu tüzel kişiliği nasıl kurulur?",
+    "options": [
+      "Sadece Kanunla",
+      "Kanunla veya Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Dernek tüzüğüyle",
+      "Valilik onayıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kanunla veya Cumhurbaşkanlığı Kararnamesiyle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla veya Cumhurbaşkanlığı Kararnamesiyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-56-m9mj",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yönetmelikleri kimler çıkarabilir?",
+    "options": [
+      "Sadece Cumhurbaşkanı",
+      "Sadece Bakanlıklar",
+      "Sadece Belediyeler",
+      "Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri",
+      "Sadece Valilikler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-57-7pbt",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yüksek Askerî Şura’nın (YAŞ) hangi kararlarına karşı yargı yolu açıktır?",
+    "options": [
+      "Terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç ilişik kesme kararlarına",
+      "Tüm kararlarına",
+      "Terfi işlemlerine",
+      "Kadrosuzluk nedeniyle emekliye ayırma işlemlerine",
+      "Hiçbir kararına açık değildir"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç ilişik kesme kararlarına. Madde 125’e göre YAŞ kararları yargı denetimi dışında olmakla birlikte terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma hariç ilişik kesme kararlarına karşı yargı yolu açıktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-58-6h8h",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yargı yetkisi, idarî eylem ve işlemlerin neyinin denetimi ile sınırlıdır?",
+    "options": [
+      "Yerindeliğinin",
+      "Hukuka uygunluğunun",
+      "Ekonomikliğinin",
+      "Verimliliğinin",
+      "Hızının"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hukuka uygunluğunun. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hukuka uygunluğunun”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-59-skqu",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Türkiye, merkezi idare kuruluşu bakımından neye ayrılır?",
+    "options": [
+      "Eyaletlere",
+      "Bölgelere",
+      "Otonom bölgelere",
+      "İllere",
+      "Kantonlara"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İllere. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İllere”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-6-rjvx",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı seçiminde ilk turda seçilmek için geçerli oyların ne kadarı gerekir?",
+    "options": [
+      "En çok oy alan kazanır",
+      "%40",
+      "Geçerli oyların salt çoğunluğu",
+      "2/3 çoğunluk",
+      "3/5 çoğunluk"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Geçerli oyların salt çoğunluğu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Geçerli oyların salt çoğunluğu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-60-5kl8",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Mahallî idarelerin (Belediye, İl Özel İdaresi, Köy) seçimleri kaç yılda bir yapılır?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 5. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “5”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-61-h15f",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Mahallî idare organlarının görevleri ile ilgili bir suç sebebiyle geçici bir tedbir olarak görevden uzaklaştırılması yetkisi kime aittir?",
+    "options": [
+      "Valiye",
+      "Cumhurbaşkanına",
+      "Danıştaya",
+      "İçişleri Bakanına",
+      "YSK’ya"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İçişleri Bakanına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İçişleri Bakanına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-62-6iaa",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Merkezi idarenin mahallî idareler üzerindeki denetim yetkisine ne ad verilir?",
+    "options": [
+      "Hiyerarşi",
+      "İdari vesayet",
+      "Yetki genişliği",
+      "Özerklik",
+      "Emir-komuta"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – İdari vesayet. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İdari vesayet”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-63-63ym",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurların nitelikleri, atanmaları, hak ve yükümlülükleri neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Kararnameyle",
+      "Sözleşmeyle",
+      "Kanunla"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanunla. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-64-wz9m",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurlar hakkında disiplin kovuşturmasında güvence olarak ne tanınmadan disiplin cezası verilemez?",
+    "options": [
+      "Avukat tutma hakkı",
+      "İtiraz hakkı",
+      "Savunma hakkı",
+      "Dava açma hakkı",
+      "Sendika temsilcisi bulundurma hakkı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Savunma hakkı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Savunma hakkı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-65-4ayq",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasaya göre Devlet üniversiteleri nasıl kurulur?",
+    "options": [
+      "YÖK tarafından",
+      "Cumhurbaşkanı tarafından",
+      "Vakıflar tarafından yönetmelikle",
+      "Devlet tarafından kanunla",
+      "Millî Eğitim Bakanlığı tarafından"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Devlet tarafından kanunla. Madde 130’a göre Devlet tarafından kanunla üniversiteler kurulur. Vakıfların kazanç amacı gütmemek şartıyla yükseköğretim kurumları kurabilmesine ilişkin ayrı hüküm vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-66-k8u5",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Radyo ve Televizyon Üst Kurulu (RTÜK) üyeleri kim tarafından seçilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Yargıtay",
+      "Danıştay",
+      "Gazeteciler Cemiyeti",
+      "TBMM Genel Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – TBMM Genel Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM Genel Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-67-v6vl",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu kime bağlıdır?",
+    "options": [
+      "Millî Eğitim Bakanına",
+      "Kültür Bakanına",
+      "Cumhurbaşkanının görevlendireceği bakana",
+      "TBMM Başkanına",
+      "Başbakana"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanının görevlendireceği bakana. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanının görevlendireceği bakana”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-68-9dr5",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu kurumu niteliğindeki meslek kuruluşlarının (Barolar, Odalar vb.) organlarının seçimlerinde kimler aday gösteremez?",
+    "options": [
+      "Dernekler",
+      "Vakıflar",
+      "Sendikalar",
+      "Siyasi partiler",
+      "Şirketler"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Siyasi partiler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Siyasi partiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-69-mnf4",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Diyanet İşleri Başkanlığı hangi ilke doğrultusunda görevini yerine getirir?",
+    "options": [
+      "Milliyetçilik",
+      "Laiklik",
+      "Devletçilik",
+      "İnkılapçılık",
+      "Halkçılık"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Laiklik. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Laiklik”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-7-vk9y",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı makamının boşalması hâlinde, yenisi seçilene kadar kim vekâlet eder?",
+    "options": [
+      "TBMM Başkanı",
+      "En yaşlı Cumhurbaşkanı Yardımcısı",
+      "Adalet Bakanı",
+      "Anayasa Mahkemesi Başkanı",
+      "Cumhurbaşkanı Yardımcısı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanı Yardımcısı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı Yardımcısı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-70-puoy",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu hizmetinde çalışan bir kimse, üstünden aldığı emri “suç” teşkil eder nitelikte görürse ne yapar?",
+    "options": [
+      "Yazılı olarak ister, gelirse yapar.",
+      "Yerine getirir, sorumluluk üste aittir.",
+      "Hiçbir suretle yerine getirmez.",
+      "Savcıya bildirir ve yapar.",
+      "Valilik onayına sunar."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hiçbir suretle yerine getirmez. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hiçbir suretle yerine getirmez.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-71-r1cl",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Üniversiteler (Yükseköğretim kurumları) hangi tüzel kişiliğe sahiptir?",
+    "options": [
+      "Özel hukuk tüzel kişiliği",
+      "Kamu tüzel kişiliği",
+      "Dernek tüzel kişiliği",
+      "Şirket tüzel kişiliği",
+      "Yarı resmî tüzel kişilik"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kamu tüzel kişiliği. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kamu tüzel kişiliği”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-72-28ca",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yükseköğretim Kurulu (YÖK) ne amacıyla kurulmuştur?",
+    "options": [
+      "Üniversiteleri kapatmak için",
+      "Sadece rektör atamak için",
+      "Öğrenci harçlarını toplamak için",
+      "Yükseköğretimi planlamak, düzenlemek, yönetmek ve denetlemek için",
+      "Akademisyenlerin maaşını ödemek için"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yükseköğretimi planlamak, düzenlemek, yönetmek ve denetlemek için. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yükseköğretimi planlamak, düzenlemek, yönetmek ve denetlemek için”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-73-z97t",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Radyo ve Televizyon Üst Kurulu (RTÜK) üyeleri, TBMM tarafından nasıl bir usulle seçilir?",
+    "options": [
+      "Rastgele",
+      "Sadece iktidar partisinin adaylarından",
+      "Siyasi parti gruplarının üye sayısı oranında",
+      "Sadece muhalefet partilerinin adaylarından",
+      "Kura ile"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Siyasi parti gruplarının üye sayısı oranında. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Siyasi parti gruplarının üye sayısı oranında”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-74-t7ix",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu bünyesinde aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Türk Dil Kurumu",
+      "Türk Tarih Kurumu",
+      "Atatürk Araştırma Merkezi",
+      "Devlet Tiyatroları",
+      "Atatürk Kültür Merkezi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Devlet Tiyatroları. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Devlet Tiyatroları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-75-rdmv",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu kurumu niteliğindeki meslek kuruluşları (Barolar, Odalar vb.) hangi amaçla kurulur?",
+    "options": [
+      "Ticari kar elde etmek",
+      "Siyasi faaliyet yürütmek",
+      "Mesleki faaliyetleri kolaylaştırmak ve meslek disiplinini korumak",
+      "Devlet memuru yetiştirmek",
+      "Hükümeti denetlemek"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Mesleki faaliyetleri kolaylaştırmak ve meslek disiplinini korumak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Mesleki faaliyetleri kolaylaştırmak ve meslek disiplinini korumak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-76-a7ab",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Amaçları dışında faaliyet gösteren meslek kuruluşlarının sorumlu organlarının görevine kim son verir?",
+    "options": [
+      "Bakanlık",
+      "Mahkeme",
+      "Valilik",
+      "TBMM",
+      "Emniyet"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Mahkeme. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Mahkeme”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-77-83mc",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Diyanet İşleri Başkanlığı idarî yapıda nerede yer alır?",
+    "options": [
+      "Genel idare içinde",
+      "Yargı kolunda",
+      "Yasama organında",
+      "Özerk bir kuruluş olarak",
+      "Üniversite bünyesinde"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Genel idare içinde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Genel idare içinde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-78-s3ew",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Konusu suç teşkil eden bir emri yerine getiren memurun sorumluluk durumu nedir?",
+    "options": [
+      "Sorumlu olmaz, emri veren sorumludur.",
+      "Sadece disiplin cezası alır.",
+      "Amirine rücu eder.",
+      "Devlet tazminat öder.",
+      "Sorumluluktan kurtulamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Sorumluluktan kurtulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sorumluluktan kurtulamaz”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-79-wk8b",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı yardımcıları ve bakanlar kime karşı sorumludur?",
+    "options": [
+      "TBMM’ye",
+      "Başbakana",
+      "Cumhurbaşkanına",
+      "Halka",
+      "Yargıya"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-8-6q32",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Bakanları kim atar?",
+    "options": [
+      "TBMM",
+      "Başbakan",
+      "Cumhurbaşkanı",
+      "HSK",
+      "Yargıtay"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-80-da28",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanı yardımcıları ve bakanlar milletvekili olmak zorunda mıdır?",
+    "options": [
+      "Evet, zorunludur.",
+      "Sadece bakanlar zorunludur.",
+      "Sadece yardımcılar zorunludur.",
+      "Hayır, milletvekili seçilme yeterliliğine sahip olmaları yeterlidir.",
+      "Hayır, hiçbir şart aranmaz."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hayır, milletvekili seçilme yeterliliğine sahip olmaları yeterlidir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, milletvekili seçilme yeterliliğine sahip olmaları yeterlidir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-81-mgmw",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Millî Güvenlik Kurulunun (MGK) gündemini kim belirler?",
+    "options": [
+      "Genelkurmay Başkanı",
+      "MGK Genel Sekreteri",
+      "İçişleri Bakanı",
+      "Dışişleri Bakanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-82-f6vv",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "MGK Genel Sekreterliği’nin teşkilatı ve görevleri neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Tüzükle",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Genelgeyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanlığı Kararnamesiyle. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanlığı Kararnamesiyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-83-zaye",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu hizmeti görevlileriyle ilgili olarak “Üst kademe yöneticilerinin yetiştirilme usul ve esasları” neyle düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "İçtüzükle",
+      "Kararnameyle",
+      "Genelgeyle",
+      "Kanunla"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanunla. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-84-e61n",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Memurlar ve diğer kamu görevlileri Anayasa ve kanunlara ne kalarak faaliyette bulunmakla yükümlüdür?",
+    "options": [
+      "Sadık",
+      "Tarafsız",
+      "Sessiz",
+      "Bağımsız",
+      "Özgür"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Sadık. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sadık”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-85-hvp2",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Yükseköğretim kurumlarının (Üniversitelerin) bütçeleri kim tarafından tetkik ve onaylandıktan sonra Millî Eğitim Bakanlığına sunulur?",
+    "options": [
+      "Maliye Bakanlığı",
+      "Yükseköğretim Kurulu",
+      "Sayıştay",
+      "TBMM Plan Bütçe Komisyonu",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Yükseköğretim Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yükseköğretim Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-86-qb8t",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Vakıf üniversiteleri (Vakıflar tarafından kurulan yükseköğretim kurumları) kazanç amacı güdebilir mi?",
+    "options": [
+      "Evet, güdebilir.",
+      "Sadece tıp fakülteleri güdebilir.",
+      "Devlet izin verirse güdebilir.",
+      "Yabancı ortaklıysa güdebilir.",
+      "Hayır, kazanç amacına yönelik olmamak şartıyla kurulabilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hayır, kazanç amacına yönelik olmamak şartıyla kurulabilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, kazanç amacına yönelik olmamak şartıyla kurulabilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-87-qbpb",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanının Anayasanın 103. maddesindeki andında görevi nasıl yerine getireceğine ilişkin hangi ifade yer alır?",
+    "options": [
+      "Siyasi parti programına bağlı kalarak yerine getirmek",
+      "Yalnız Meclis çoğunluğunun talimatıyla yerine getirmek",
+      "Yargı organlarının onayıyla yerine getirmek",
+      "Tarafsızlıkla yerine getirmek",
+      "Yerel yönetimlerin kararlarına göre yerine getirmek"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Tarafsızlıkla yerine getirmek. Madde 103’te Cumhurbaşkanı, üzerine aldığı görevi tarafsızlıkla yerine getirmek için bütün gücüyle çalışacağına andiçer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-88-jy7p",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasanın 116. maddesine göre TBMM seçimlerin yenilenmesine hangi çoğunlukla karar verebilir?",
+    "options": [
+      "Üye tamsayısının üçte biriyle",
+      "Üye tamsayısının salt çoğunluğuyla",
+      "Üye tamsayısının beşte üç çoğunluğuyla",
+      "Toplantıya katılanların salt çoğunluğuyla",
+      "Oy birliğiyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Üye tamsayısının beşte üç çoğunluğuyla. Madde 116’ya göre TBMM, üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-89-zsqp",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanının ikinci döneminde TBMM seçimlerin yenilenmesine karar verirse Cumhurbaşkanı bakımından hangi sonuç doğar?",
+    "options": [
+      "Bir defa daha aday olabilir",
+      "Görevi derhâl sona erer ve aday olamaz",
+      "Sınırsız sayıda aday olabilir",
+      "Yalnız milletvekili adayı olabilir",
+      "Adaylığı YSK kararıyla tamamen yasaklanır"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bir defa daha aday olabilir. Madde 116, Cumhurbaşkanının ikinci döneminde TBMM seçimleri yenilerse Cumhurbaşkanına bir defa daha aday olabilme imkânı tanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-9-gyq5",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı Kararnamesi ile hangisi düzenlenemez?",
+    "options": [
+      "Siyasi haklar ve ödevler",
+      "Üst kademe yöneticilerinin atanması",
+      "Bakanlıkların kurulması",
+      "Sosyal haklar",
+      "Ekonomik haklar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Siyasi haklar ve ödevler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Siyasi haklar ve ödevler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-90-dnya",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasanın 132. maddesi hangi kurumlara bağlı yükseköğretim kurumları için özel kanun hükümlerini saklı tutar?",
+    "options": [
+      "Yalnız belediyelere bağlı olanlar",
+      "Yalnız vakıflara bağlı olanlar",
+      "Yalnız sendikalara bağlı olanlar",
+      "Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı olanlar",
+      "Yalnız meslek kuruluşlarına bağlı olanlar"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı olanlar. Madde 132, Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı yükseköğretim kurumlarının özel kanunlarının hükümlerine tâbi olduğunu düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-91-pzog",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanının milletlerarası andlaşmalara ilişkin görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Yalnızca görüşmek",
+      "Anayasa Mahkemesine göndermek",
+      "Yalnızca Türkiye Büyük Millet Meclisine sunmak",
+      "Yalnızca yayımlamak",
+      "Onaylamak ve yayımlamak"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 104’e göre Cumhurbaşkanı milletlerarası andlaşmaları onaylar ve yayımlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-92-wa46",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Cumhurbaşkanlığı makamının boşalması hâlinde genel seçime bir yıl veya daha az kalmışsa seçimler nasıl yapılır?",
+    "options": [
+      "Yalnızca Cumhurbaşkanı seçimi yapılır",
+      "Yalnızca Türkiye Büyük Millet Meclisi seçimi yapılır",
+      "Türkiye Büyük Millet Meclisi seçimi ile Cumhurbaşkanı seçimi birlikte yapılır",
+      "Seçimler bir yıl ertelenir",
+      "Seçim yapılmaz"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 106’ya göre Cumhurbaşkanlığı makamının boşalması hâlinde genel seçime bir yıl veya daha az kalmışsa Türkiye Büyük Millet Meclisi seçimi de Cumhurbaşkanı seçimi ile birlikte yenilenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-93-42tb",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Olağanüstü hâl ilanı sırasında Türkiye Büyük Millet Meclisi tatilde ise ne yapılır?",
+    "options": [
+      "Toplantı bir sonraki yasama yılına bırakılır",
+      "Derhal toplantıya çağırılır",
+      "Olağanüstü hâl kararı kendiliğinden kalkar",
+      "Yalnızca komisyonlar toplanır",
+      "Cumhurbaşkanı kararı geri alır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 119’a göre Türkiye Büyük Millet Meclisi tatilde ise derhal toplantıya çağırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-94-5y6d",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Mahallî idarelerin belirli kamu hizmetlerinin görülmesi amacıyla kendi aralarında birlik kurmaları hangi makamın iznine bağlıdır?",
+    "options": [
+      "İçişleri Bakanının",
+      "Türkiye Büyük Millet Meclisinin",
+      "Danıştayın",
+      "Cumhurbaşkanının",
+      "Mahkemenin"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 127’ye göre mahallî idarelerin belirli kamu hizmetlerinin görülmesi amacıyla kendi aralarında birlik kurmaları Cumhurbaşkanının iznine bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-95-sc5k",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Anayasa’nın 130. maddesine göre dekanlar kim tarafından seçilir ve atanır?",
+    "options": [
+      "Cumhurbaşkanınca",
+      "Yükseköğretim Kurulunca",
+      "Rektörlerce",
+      "Millî Eğitim Bakanlığınca",
+      "Üniversite öğretim üyelerince"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 130’a göre rektörler Cumhurbaşkanınca, dekanlar ise Yükseköğretim Kurulunca seçilir ve atanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "t-yurutme-x3oo3-mtmyvw5i-96-4ds2",
+    "topic_id": "t-yurutme-x3oo3",
+    "prompt": "Kamu kurumu niteliğindeki meslek kuruluşları üzerinde Devletin hangi denetimine ilişkin kurallar kanunla düzenlenir?",
+    "options": [
+      "Yalnızca yargısal denetimine",
+      "Siyasi denetimine",
+      "Yalnızca malî denetimine",
+      "Yalnızca idarî denetimine",
+      "İdarî ve malî denetimine"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 135’e göre bu meslek kuruluşları üzerinde Devletin idarî ve malî denetimine ilişkin kurallar kanunla düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:49.608557+00:00",
+    "updated_at": "2026-09-04T13:05:49.608557+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-0-e2b5",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla OECD Genel Sekreteri kimdir?",
+    "options": [
+      "Mathias Cormann",
+      "Angel Gurría",
+      "José Ángel Gurría",
+      "Ngozi Okonjo-Iweala",
+      "Christine Lagarde"
+    ],
+    "answer_index": 0,
+    "explanation": "Avustralyalı Mathias Cormann, 2021'den bu yana OECD Genel Sekreteri olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-1-xhvo",
+    "topic_id": "topic-guncel",
+    "prompt": "OECD hangi yıl kurulmuştur?",
+    "options": [
+      "1948",
+      "1961",
+      "1955",
+      "1970",
+      "1975"
+    ],
+    "answer_index": 1,
+    "explanation": "OECD, 1961 yılında Marshall Planı'nı yöneten OEEC'nin devamı olarak kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-10-795g",
+    "topic_id": "topic-guncel",
+    "prompt": "Doğu Afrika Topluluğu'na (EAC) üye ülkelerden biri hangisidir?",
+    "options": [
+      "Kenya",
+      "Fas",
+      "Cezayir",
+      "Mısır",
+      "Tunus"
+    ],
+    "answer_index": 0,
+    "explanation": "Kenya, Doğu Afrika Topluluğu'nun (EAC) kurucu üyelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-100-nigj",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla BM Genel Sekreteri kimdir?",
+    "options": [
+      "António Guterres",
+      "Kofi Annan",
+      "Ban Ki-moon",
+      "Kristalina Georgieva",
+      "Mark Rutte"
+    ],
+    "answer_index": 0,
+    "explanation": "Portekizli António Guterres, 2017'den bu yana BM Genel Sekreteri olarak görev yapmaktadır; görev süresi 31 Aralık 2026'da sona erecektir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-101-kg27",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Güvenlik Konseyi'nin daimi (veto yetkili) üye sayısı kaçtır?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10",
+      "15"
+    ],
+    "answer_index": 1,
+    "explanation": "Güvenlik Konseyi'nin ABD, Rusya, Çin, Fransa ve Birleşik Krallık olmak üzere 5 daimi üyesi vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-102-cvlf",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdakilerden hangisi BM Güvenlik Konseyi'nin daimi üyelerinden biri değildir?",
+    "options": [
+      "Fransa",
+      "Rusya",
+      "Almanya",
+      "Çin",
+      "ABD"
+    ],
+    "answer_index": 2,
+    "explanation": "Almanya, Güvenlik Konseyi'nin daimi üyesi değildir; daimi üyeler ABD, Rusya, Çin, Fransa ve İngiltere'dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-103-ibbm",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Güvenlik Konseyi'nin geçici (dönemsel) üye sayısı kaçtır?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "10",
+      "15"
+    ],
+    "answer_index": 3,
+    "explanation": "Güvenlik Konseyi'nde 5 daimi, 10 geçici olmak üzere toplam 15 üye bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-104-j817",
+    "topic_id": "topic-guncel",
+    "prompt": "BM'ye üye ülke sayısı günümüzde kaçtır?",
+    "options": [
+      "185",
+      "189",
+      "200",
+      "197",
+      "193"
+    ],
+    "answer_index": 4,
+    "explanation": "BM'nin 193 üye devleti bulunmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-105-rhbq",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Genel Kurulu'nda her üye ülkenin sahip olduğu oy sayısı kaçtır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Nüfusa göre değişir",
+      "GSYH'ye göre değişir"
+    ],
+    "answer_index": 0,
+    "explanation": "Genel Kurul'da her üye devletin eşit olarak 1 oy hakkı vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-106-c9jd",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki kuruluşlardan hangisi BM'nin uzmanlık kuruluşlarından biri değildir?",
+    "options": [
+      "UNESCO",
+      "NATO",
+      "IMF",
+      "WHO",
+      "ILO"
+    ],
+    "answer_index": 1,
+    "explanation": "NATO bağımsız bir askerî ittifaktır ve BM'nin uzmanlık kuruluşu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-107-mh9c",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Çocuklara Yardım Fonu'nun kısaltması nedir?",
+    "options": [
+      "UNDP",
+      "UNHCR",
+      "UNICEF",
+      "UNFPA",
+      "UNEP"
+    ],
+    "answer_index": 2,
+    "explanation": "UNICEF, Birleşmiş Milletler Çocuklara Yardım Fonu'dur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-108-cgmu",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Mülteciler Yüksek Komiserliği'nin kısaltması nedir?",
+    "options": [
+      "UNEP",
+      "UNICEF",
+      "UNDP",
+      "UNHCR",
+      "UNFPA"
+    ],
+    "answer_index": 3,
+    "explanation": "UNHCR, mültecilerin korunmasından sorumlu BM kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-109-1jgw",
+    "topic_id": "topic-guncel",
+    "prompt": "Uluslararası Adalet Divanı'nın (ICJ) merkezi hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Cenevre",
+      "Strazburg",
+      "Brüksel",
+      "Lahey"
+    ],
+    "answer_index": 4,
+    "explanation": "Uluslararası Adalet Divanı, Hollanda'nın Lahey şehrinde bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-11-bw2d",
+    "topic_id": "topic-guncel",
+    "prompt": "AfCFTA anlaşması hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "2015",
+      "2019",
+      "2018",
+      "2021",
+      "2023"
+    ],
+    "answer_index": 1,
+    "explanation": "Afrika Birliği'ne göre AfCFTA Anlaşması 30 Mayıs 2019'da yürürlüğe girmiştir. AfCFTA kapsamında ticaret ise 1 Ocak 2021'de başlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-110-it2w",
+    "topic_id": "topic-guncel",
+    "prompt": "BM İnsan Hakları Konseyi'nin merkezi hangi şehirdedir?",
+    "options": [
+      "Cenevre",
+      "New York",
+      "Paris",
+      "Viyana",
+      "Roma"
+    ],
+    "answer_index": 0,
+    "explanation": "BM İnsan Hakları Konseyi, Cenevre'de faaliyet gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-111-ivwj",
+    "topic_id": "topic-guncel",
+    "prompt": "BM Kalkınma Programı'nın kısaltması nedir?",
+    "options": [
+      "UNEP",
+      "UNDP",
+      "UNICEF",
+      "UNCTAD",
+      "UNIDO"
+    ],
+    "answer_index": 1,
+    "explanation": "UNDP, Birleşmiş Milletler Kalkınma Programı'dır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-112-8p78",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 yılı itibarıyla, Guterres'in görev süresinin sona ermesiyle yeni BM Genel Sekreteri hangi tarihte göreve başlayacaktır?",
+    "options": [
+      "31 Aralık 2026",
+      "1 Temmuz 2026",
+      "1 Ocak 2027",
+      "1 Ocak 2028",
+      "1 Eylül 2027"
+    ],
+    "answer_index": 2,
+    "explanation": "Guterres'in görev süresi 31 Aralık 2026'da sona erecek, yeni Genel Sekreter 1 Ocak 2027'de göreve başlayacaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-113-8tpb",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO (Kuzey Atlantik Antlaşması Örgütü) hangi yıl kurulmuştur?",
+    "options": [
+      "1945",
+      "1947",
+      "1955",
+      "1949",
+      "1961"
+    ],
+    "answer_index": 3,
+    "explanation": "NATO, 4 Nisan 1949'da Washington Antlaşması ile kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-114-ohiu",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun merkezi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Lahey",
+      "Londra",
+      "Berlin",
+      "Brüksel"
+    ],
+    "answer_index": 4,
+    "explanation": "NATO Genel Merkezi Belçika'nın başkenti Brüksel'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-115-lt3t",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla NATO Genel Sekreteri kimdir?",
+    "options": [
+      "Mark Rutte",
+      "Jens Stoltenberg",
+      "Ursula von der Leyen",
+      "Kaja Kallas",
+      "Anders Fogh Rasmussen"
+    ],
+    "answer_index": 0,
+    "explanation": "Eski Hollanda Başbakanı Mark Rutte, 2024'ten itibaren NATO Genel Sekreteri olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-116-xmzg",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye NATO'ya hangi yıl üye olmuştur?",
+    "options": [
+      "1949",
+      "1952",
+      "1955",
+      "1960",
+      "1963"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, Yunanistan ile birlikte 1952 yılında NATO'ya katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-117-s4p8",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun kurucu üye sayısı kaçtır?",
+    "options": [
+      "10",
+      "15",
+      "12",
+      "16",
+      "20"
+    ],
+    "answer_index": 2,
+    "explanation": "NATO, 1949'da 12 kurucu üye ile kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-118-x98c",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi son yıllarda NATO'ya üye olan ülkelerden biridir?",
+    "options": [
+      "Sırbistan",
+      "Avusturya",
+      "İsviçre",
+      "İsveç",
+      "İrlanda"
+    ],
+    "answer_index": 3,
+    "explanation": "İsveç, uzun süreli askerî tarafsızlık politikasından sonra 2024 yılında NATO'ya katılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-119-m0ze",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun kolektif savunma ilkesini içeren maddesi hangisidir?",
+    "options": [
+      "Madde 3",
+      "Madde 4",
+      "Madde 12",
+      "Madde 10",
+      "Madde 5"
+    ],
+    "answer_index": 4,
+    "explanation": "NATO Antlaşması'nın 5. maddesi, bir üyeye saldırının tüm üyelere saldırı sayılacağını belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-12-zzdq",
+    "topic_id": "topic-guncel",
+    "prompt": "BIS'in kuruluş yılı hangisidir?",
+    "options": [
+      "1913",
+      "1944",
+      "1930",
+      "1961",
+      "1975"
+    ],
+    "answer_index": 2,
+    "explanation": "BIS (Uluslararası Ödemeler Bankası), 1930 yılında kurulmuştur ve dünyanın en eski uluslararası finans kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-120-rr3y",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO'nun askerî kanadının en üst komuta merkezi olan SHAPE'in açılımı nedir?",
+    "options": [
+      "Supreme Headquarters Allied Powers Europe",
+      "Southern Headquarters Atlantic Powers Europe",
+      "Strategic Headquarters Allied Political Europe",
+      "Supreme Headquarters Atlantic Political Europe",
+      "Southern Headquarters Allied Political Europe"
+    ],
+    "answer_index": 0,
+    "explanation": "SHAPE, NATO'nun Avrupa'daki en üst düzey askerî komuta merkezidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-121-7354",
+    "topic_id": "topic-guncel",
+    "prompt": "2024 yılında İsveç'ten önce en son NATO'ya katılan ülke hangisidir?",
+    "options": [
+      "Karadağ",
+      "Finlandiya",
+      "Kuzey Makedonya",
+      "Arnavutluk",
+      "Hırvatistan"
+    ],
+    "answer_index": 1,
+    "explanation": "Finlandiya, 2023 yılında NATO'ya 31. üye olarak katılmış, İsveç ise 2024'te 32. üye olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-122-jw9x",
+    "topic_id": "topic-guncel",
+    "prompt": "NATO üyelerinin savunma harcamalarını GSYH'nin yüzde kaçına çıkarma hedefi geleneksel olarak belirlenmiştir?",
+    "options": [
+      "%1",
+      "%3",
+      "%2",
+      "%4",
+      "%5"
+    ],
+    "answer_index": 2,
+    "explanation": "NATO üyeleri, savunma harcamalarını GSYH'nin en az %2'sine çıkarma hedefini benimsemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-123-cmng",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'nin (AB) merkezi kabul edilen şehir hangisidir?",
+    "options": [
+      "Strazburg",
+      "Frankfurt",
+      "Lüksemburg",
+      "Brüksel",
+      "Berlin"
+    ],
+    "answer_index": 3,
+    "explanation": "AB'nin idari merkezi kabul edilen şehir Brüksel'dir; Avrupa Parlamentosu Strazburg'da toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-124-rsg4",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 itibarıyla Avrupa Komisyonu Başkanı kimdir?",
+    "options": [
+      "Jean-Claude Juncker",
+      "Kaja Kallas",
+      "Charles Michel",
+      "David Sassoli",
+      "Ursula von der Leyen"
+    ],
+    "answer_index": 4,
+    "explanation": "Ursula von der Leyen, 2019'dan bu yana Avrupa Komisyonu Başkanlığı görevini yürütmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-125-wayo",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'ni kuran temel antlaşma hangisidir?",
+    "options": [
+      "Maastricht Antlaşması",
+      "Roma Antlaşması",
+      "Lizbon Antlaşması",
+      "Nice Antlaşması",
+      "Amsterdam Antlaşması"
+    ],
+    "answer_index": 0,
+    "explanation": "Avrupa Birliği, 1992'de imzalanan Maastricht Antlaşması ile resmen kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-126-7ovy",
+    "topic_id": "topic-guncel",
+    "prompt": "AB'nin ortak para birimi olan Euro hangi yıl fiziksel olarak tedavüle girmiştir?",
+    "options": [
+      "1999",
+      "2002",
+      "2000",
+      "2004",
+      "2007"
+    ],
+    "answer_index": 1,
+    "explanation": "Euro, 1999'da hesap parası olarak, 2002'de ise banknot ve madeni para olarak kullanılmaya başlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-127-iig5",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği'ne üye ülke sayısı Birleşik Krallık'ın ayrılmasından (Brexit) sonra kaça düşmüştür?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "30"
+    ],
+    "answer_index": 2,
+    "explanation": "Birleşik Krallık'ın 2020'de ayrılmasıyla AB üye sayısı 27'ye düşmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-128-eetl",
+    "topic_id": "topic-guncel",
+    "prompt": "Aşağıdaki ülkelerden hangisi Avrupa Birliği üyesi değildir?",
+    "options": [
+      "Portekiz",
+      "Hollanda",
+      "İrlanda",
+      "Norveç",
+      "Malta"
+    ],
+    "answer_index": 3,
+    "explanation": "Norveç, Avrupa Ekonomik Alanı üyesi olmasına rağmen AB üyesi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-129-v1f3",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Parlamentosu'nun resmî olarak toplandığı şehir hangisidir?",
+    "options": [
+      "Brüksel",
+      "Lüksemburg",
+      "Viyana",
+      "Frankfurt",
+      "Strazburg"
+    ],
+    "answer_index": 4,
+    "explanation": "Avrupa Parlamentosu genel oturumları Fransa'nın Strazburg şehrinde yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-13-h2gt",
+    "topic_id": "topic-guncel",
+    "prompt": "G7'nin kökeni hangi krizle ilişkilidir?",
+    "options": [
+      "1929 Büyük Buhran",
+      "2008 küresel finans krizi",
+      "1997 Asya krizi",
+      "1970'lerdeki petrol krizi",
+      "2020 pandemi krizi"
+    ],
+    "answer_index": 3,
+    "explanation": "G7, 1970'lerdeki petrol krizi ve ekonomik durgunluk sonrası sanayileşmiş ülkelerin koordinasyon ihtiyacıyla ortaya çıkmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-130-yois",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Merkez Bankası'nın (ECB) merkezi hangi şehirdedir?",
+    "options": [
+      "Frankfurt",
+      "Berlin",
+      "Brüksel",
+      "Paris",
+      "Amsterdam"
+    ],
+    "answer_index": 0,
+    "explanation": "Avrupa Merkez Bankası, Almanya'nın Frankfurt şehrinde konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-131-kzj7",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye AB'ye tam üyelik başvurusunu hangi yıl yapmıştır?",
+    "options": [
+      "1959",
+      "1987",
+      "1963",
+      "1999",
+      "2005"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, Avrupa Ekonomik Topluluğu'na tam üyelik başvurusunu 1987 yılında yapmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-132-x7dt",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye ile AB arasındaki Gümrük Birliği hangi yıl yürürlüğe girmiştir?",
+    "options": [
+      "1987",
+      "1999",
+      "1996",
+      "2005",
+      "2016"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye-AB Gümrük Birliği'nin son aşaması, 1/95 sayılı Ortaklık Konseyi Kararı'nın uygulanmasıyla 1 Ocak 1996'da tamamlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-133-vy2h",
+    "topic_id": "topic-guncel",
+    "prompt": "AB Konseyi Daimi Başkanı (Avrupa Konseyi Başkanı) olarak görev yapan isim kimdir?",
+    "options": [
+      "Ursula von der Leyen",
+      "Roberta Metsola",
+      "Charles Michel",
+      "António Costa",
+      "Kaja Kallas"
+    ],
+    "answer_index": 3,
+    "explanation": "Portekizli António Costa, Aralık 2024 itibarıyla Avrupa Konseyi Başkanlığı görevini üstlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-134-xicu",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi kimdir?",
+    "options": [
+      "Josep Borrell",
+      "Federica Mogherini",
+      "Charles Michel",
+      "Ursula von der Leyen",
+      "Kaja Kallas"
+    ],
+    "answer_index": 4,
+    "explanation": "Estonyalı Kaja Kallas, 2024 sonu itibarıyla AB Yüksek Temsilcisi olarak görev yapmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-135-g1ly",
+    "topic_id": "topic-guncel",
+    "prompt": "Schengen bölgesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "İç sınır kontrollerinin kaldırıldığı bir alandır",
+      "Sadece AB üyeleri Schengen'e dahildir",
+      "Ortak para birimi anlaşmasıdır",
+      "Sadece ticari malların serbest dolaşımını kapsar",
+      "AB'nin savunma politikasıdır"
+    ],
+    "answer_index": 0,
+    "explanation": "Schengen Anlaşması, üye ülkeler arasında pasaport kontrolü olmadan seyahati mümkün kılar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yab-136-auq6",
+    "topic_id": "topic-guncel",
+    "prompt": "Avrupa Sayıştayı'nın merkezi hangi şehirdedir?",
+    "options": [
+      "Brüksel",
+      "Lüksemburg",
+      "Strazburg",
+      "Frankfurt",
+      "Lahey"
+    ],
+    "answer_index": 1,
+    "explanation": "Avrupa Sayıştayı, Lüksemburg'da konumlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  }
+]

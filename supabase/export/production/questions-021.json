@@ -1,0 +1,3394 @@
+[
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-87-i7pb",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Aile hekimi ve kurum tabiplerinin vereceği raporlar hangi kapsamda değerlendirilir?",
+    "options": [
+      "Sağlık kurulu raporu kapsamında",
+      "Tek hekim raporu kapsamında",
+      "Özel hekim raporu kapsamında",
+      "Ayrı bir kategoride değerlendirilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/7: Aile hekimi ve kurum tabiplerinin vereceği raporlar da tek hekim raporu kapsamında değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-88-uav1",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Görevi sırasında kazaya veya saldırıya uğrayan ya da meslek hastalığına tutulan memur nasıl sayılır?",
+    "options": [
+      "Ücretsiz izinli sayılır",
+      "İyileşinceye kadar izinli sayılır",
+      "Mazeretli sayılır",
+      "Ücret kesintisine tabi tutulur"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 11/3: Görevi sırasında kazaya veya saldırıya uğrayan ya da meslek hastalığına tutulan memur iyileşinceye kadar izinli sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-89-fzjr",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Öğretmenlerin yurt dışında yarıyıl veya yaz tatili geçirecekler için hangi yükümlülük öngörülmüştür?",
+    "options": [
+      "Bakanlık onayı almaları gerekir",
+      "Valilikten izin almaları gerekir",
+      "Gidecekleri adresi disiplin amirine yazılı olarak bildirmeleri yeterlidir",
+      "Gitmeden 1 ay önce müdürlüğü bilgilendirmeleri gerekir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 43/2: Öğretmenlerden yarıyıl ve yaz tatillerini yurt dışında geçirmek isteyenlerin iznin geçirileceği adresi disiplin amirine yazılı olarak bildirmesi yeterlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-9-4sme",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Yurt dışı teşkilatında eğitim ataşelerine izin verme yetkisi kime aittir?",
+    "options": [
+      "Büyükelçiye",
+      "Başkonsoslosa",
+      "Müsteşara",
+      "Bakana"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6/c-2: Eğitim ataşelerine başkonsoloslar izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-90-xdtn",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Muvazzaf askerliğe ayrılan memurlar askerlik süresince nasıl değerlendirilir?",
+    "options": [
+      "Görevden çekilmiş sayılır",
+      "Görev yeri saklı kalarak aylıksız izinli sayılır",
+      "Ücretsiz izinli sayılır",
+      "İstekleri doğrultusunda değerlendirilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 15/8: Muvazzaf askerliğe ayrılan memurlar askerlik süresince görev yeri saklı kalarak aylıksız izinli sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-91-ghqp",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Taşra teşkilatında okul müdürlerine izin verme yetkisi kime aittir?",
+    "options": [
+      "İl millî eğitim müdürüne",
+      "Şube müdürüne",
+      "Bağlı oldukları il/ilçe millî eğitim müdürlüklerine",
+      "Valiye"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6/b-3: Okul müdürlerine bağlı oldukları il/ilçe millî eğitim müdürlükleri izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-92-s0o1",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Eğitim kurumlarında görev yapan diğer memurlara izin verme yetkisi kime aittir?",
+    "options": [
+      "Şube müdürlerine",
+      "Eğitim kurumu müdürlerine",
+      "İlçe millî eğitim müdürüne",
+      "Valiye"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6/b-4: Eğitim kurumlarında görev yapan diğer memurlara eğitim kurumu müdürleri izin verir.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-meb-personelin-izin-yonergesi-zdg5d-mtej3xwe-93-cdth",
+    "topic_id": "t-meb-personelin-izin-yonergesi-zdg5d",
+    "prompt": "Diğer hizmet sınıflarına atanan ve hem yarıyıl hem yaz tatilini kullanan öğretmenlere o hizmet yılına ait yıllık izin verilir mi?",
+    "options": [
+      "Evet, tam olarak verilir",
+      "Evet, yarısı kadar verilir",
+      "Hayır, verilmez",
+      "Yalnızca yaz tatili kullanılmışsa verilmez"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7/6: Diğer hizmet sınıfına atanan ve yarıyıl ve yaz tatilini kullanan öğretmenlere o hizmet yılına ait yıllık izin verilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-29T15:22:01.714221+00:00",
+    "updated_at": "2026-08-29T15:22:01.714221+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4pti-0-e9qo",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "I. Coğrafya durumu\nII. İktisadi şartlar\nIII. Kamu hizmetlerinin gerekleri\n5442 sayılı İl İdaresi Kanunu’na göre yukarıdakilerden hangisi veya hangileri Türkiye’nin merkezî idare kuruluşu bakımından bölümlere ayrılmasında esas alınır?",
+    "options": [
+      "I, II ve III",
+      "I ve II",
+      "II ve III",
+      "I ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 1: Türkiye, merkezî idare kuruluşu bakımından coğrafya durumu, iktisadi şartlar ve kamu hizmetlerinin gereklerine göre bölümlere ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4pti-1-ohkz",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "I. İl ve ilçe kurulması veya kaldırılması kanunla yapılır.\nII. Bucak kurulması, kaldırılması ve merkezinin belirtilmesi İçişleri Bakanlığının tasvibiyle yapılır.\nIII. Kaza kurulması ve kaldırılmasında ilgili vilayetlerin idare heyetleri ile umumi meclislerinin mütalaaları alınır.\n5442 sayılı İl İdaresi Kanunu’na göre yukarıdaki ifadelerden hangisi veya hangileri yanlıştır?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I ve III"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 2/A, 2/B ve 2/D: İl ve ilçe kurulması veya kaldırılması kanunla; bucak kurulması ve kaldırılması Cumhurbaşkanı onayıyla yapılır. Kaza kurulması ve kaldırılmasında ilgili vilayetlerin idare heyetleri ile umumi meclislerinin mütalaaları alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4pti-2-gfhr",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre kaza kurulması ve kaldırılması gibi Kanunda belirtilen hâllerde hangi organların mütalaaları alınır?",
+    "options": [
+      "Yalnız umumi meclislerin",
+      "Yalnız ilgili vilayetlerin idare heyetlerinin",
+      "İlgili vilayetlerin idare heyetleri ile umumi meclislerinin",
+      "İl İdare Kurulu ile Danıştayın",
+      "Belediye meclisleri ile köy ihtiyar kurullarının"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 2/D: İlgili vilayetlerin idare heyetleri ile umumi meclislerinin mütalaaları alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-10-t5x5",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "Türkiye, merkezî idare kuruluşu bakımından coğrafya durumuna, iktisadi şartlara ve __________ gereklerine göre illere bölünmüştür.",
+    "options": [
+      "Siyasi şartların",
+      "Nüfus yoğunluğunun",
+      "Tarihî yapının",
+      "Yerel yönetimlerin",
+      "Kamu hizmetlerinin"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 1: Coğrafya durumu, iktisadi şartlar ve kamu hizmetlerinin gerekleri.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-11-al8y",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "İl ve ilçe kurulması, kaldırılması, merkezlerinin belirtilmesi ve adlarının değiştirilmesi __________ ile olur.",
+    "options": [
+      "Kanun",
+      "Cumhurbaşkanı onayı",
+      "İçişleri Bakanlığının tasvibi",
+      "Yönetmelik",
+      "Vali kararı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 2/A: İl ve ilçe kurulması, kaldırılması, merkezlerinin belirtilmesi ve adlarının değiştirilmesi kanunla yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-3-cj8c",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre köy ve kasabaların aynı ilçe içinde bir bucaktan başka bir bucağa bağlanması aşağıdakilerden hangisiyle yapılır?",
+    "options": [
+      "Kanun",
+      "İçişleri Bakanlığının kararı ve Cumhurbaşkanının tasdiki",
+      "İçişleri Bakanlığının tasvibi",
+      "Bakanlar Kurulu kararı",
+      "Valinin tasvibi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 2/Ç: İçişleri Bakanlığının tasvibi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-4-vclf",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak kurulması ve kaldırılması, bucak merkezinin belirtilmesi, il, ilçe ve bucak sınırları ile bucak adlarının değiştirilmesi, bir köyün, kasabanın veya bucağın başka bir il veya ilçeye bağlanması ve mühim mevki ve tabii arazi adlarının değiştirilmesi hangi makamın onayıyla yapılır?",
+    "options": [
+      "Yönetmelik",
+      "Kanun",
+      "Bayındırlık ve Sağlık ve Sosyal Yardım Bakanlıklarının mütalaası alınmak suretiyle",
+      "İçişleri Bakanlığının onayı",
+      "Cumhurbaşkanı onayı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 2/B: Bucak kurulması ve kaldırılması, merkezinin belirtilmesi, ilgili sınır ve ad değişiklikleri ile bentte sayılan bağlılık değişiklikleri Cumhurbaşkanı onayıyla yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-5-0hgl",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Türkiye’nin idari bölümlere ayrılmasında esas alınan üç temel ölçüt aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Nüfus – yüzölçümü – gelişmişlik düzeyi",
+      "Coğrafya durumu – iktisadi şartlar – kamu hizmetlerinin gerekleri",
+      "Tarihî yapı – kültürel özellikler – ulaşım",
+      "Güvenlik – eğitim – sağlık",
+      "Sanayileşme – tarım – turizm"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 1: Türkiye’nin merkezî idare kuruluşu bakımından bölümlere ayrılmasında coğrafya durumu, iktisadi şartlar ve kamu hizmetlerinin gerekleri esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-6-ljan",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "Bir ilçenin başka bir ile bağlanması işlemi nasıl gerçekleştirilir?",
+    "options": [
+      "Danıştay görüşü üzerine Cumhurbaşkanı kararıyla",
+      "Cumhurbaşkanı onayıyla",
+      "İçişleri Bakanlığı kararıyla",
+      "Kanunla",
+      "Referandumla"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 2/A: Bir ilçenin başka bir ile bağlanması kanunla yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-7-p5yy",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "Köy adlarının değiştirilmesi, köylerin birleştirilmesi ve ayrılması yetkisi kime aittir?",
+    "options": [
+      "Vali",
+      "İl Genel Meclisi",
+      "Kaymakam",
+      "Cumhurbaşkanı",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 2/Ç: Köy adlarının değiştirilmesi ile köylerin birleştirilmesi ve ayrılması İçişleri Bakanlığının tasvibiyle yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-8-icwp",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "Yeniden köy kurulması veya yerinin değiştirilmesi işleminde hangi bakanlıkların mütalaası alınır?",
+    "options": [
+      "Bayındırlık ve Sağlık ve Sosyal Yardım Bakanlıklarının",
+      "Millî Eğitim ve Sağlık Bakanlıklarının",
+      "Tarım ve Maliye Bakanlıklarının",
+      "İçişleri ve Adalet Bakanlıklarının",
+      "Ulaştırma ve Turizm Bakanlıklarının"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 2/C: Yeniden köy kurulması veya yerinin değiştirilmesinde Bayındırlık ve Sağlık ve Sosyal Yardım Bakanlıklarının mütalaası alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a-mtmz4ptj-9-sxew",
+    "topic_id": "t-mulki-idare-bolumlerinin-kuruluslari-y5m4a",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre aşağıdaki işlemlerden hangisi İçişleri Bakanlığının tasvibiyle yapılır?",
+    "options": [
+      "Köy adlarının değiştirilmesi",
+      "Bucak kurulması",
+      "Bir ilçenin başka bir ile bağlanması",
+      "Yeniden köy kurulması",
+      "İl kurulması"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 2/Ç: Köy adlarının değiştirilmesi İçişleri Bakanlığının tasvibiyle yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:41.292125+00:00",
+    "updated_at": "2026-09-04T13:12:41.292125+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-0-ps7m",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlikte hizmet bölgeleri ve ihtiyaçlara göre bölgeler arası yer değiştirme esasları ne ile düzenlenir?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Yönetmelikle",
+      "Bakanlık kararı ile",
+      "Yönergeyle",
+      "Kanunla"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 46. maddesine göre öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır; hizmet bölgeleri ve ihtiyaçlara göre bölgeler arası yer değiştirme esasları yönetmelikle düzenlenir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-1-2xj4",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlik formasyonu veren ve öğretmen yetiştiren Millî Eğitim Bakanlığına bağlı eğitim yüksekokulları,.......... kararı ile kurulabilirler.",
+    "options": [
+      "YÖK",
+      "İçişleri Bakanlığı",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Bakanlık"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 44. maddesine göre: Öğretmenlik formasyonu veren ve öğretmen yetiştiren Millî Eğitim Bakanlığına bağlı eğitim yüksekokulları, Cumhurbaşkanı kararı ile kurulabilirler.5 5 2/7/2018 tarihli ve 700 sayılı KHK’nin 62 nci maddesiyle, bu maddede yer alan “Yükseköğretim Kurulunun görüşü alınarak, Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-10-kwpz",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlerin yaz tatili izni ne kadardır?",
+    "options": [
+      "Okul açılana kadar",
+      "1 ay",
+      "Aralıksız iki ay",
+      "45 gün",
+      "20 iş günü"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A. maddesine göre: Öğretmenler, yaz tatili içinde aralıksız iki ay izinlidirler. Ancak bu iki aylık izin sürelerine dokunulmadan kalan tatil zamanlarında yönetmelikle belirlenecek meslekle ilgili çalışmalara katılmakla yükümlüdürler. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-11-y8ur",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Rehberlik öğretmenlerinin tercih danışmanlığı gibi durumlarda yaz tatilinde görevlendirilmeleri halinde izinleri en az ne kadar olabilir?",
+    "options": [
+      "İzin kullanamazlar",
+      "1 ay",
+      "15 gün",
+      "45 gün",
+      "20 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A maddesine göre rehberlik öğretmenleri belirtilen ihtiyaç hâllerinde izin ve tatil dönemlerinde görevlendirilebilir; bu durumda izinleri bir aydan az olamaz. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-12-rm5x",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Doğal afet veya salgın hastalık nedeniyle yapılamayan derslerin telafisi yaz tatilinde yapılırsa öğretmenin izni en az ne kadar kalmalıdır?",
+    "options": [
+      "1 ay",
+      "Valilik belirler.",
+      "3 hafta",
+      "15 gün",
+      "Değişmez, 2 aydır."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A. maddesine göre: Öğretmenler, yaz tatili içinde aralıksız iki ay izinlidirler. Ancak bu iki aylık izin sürelerine dokunulmadan kalan tatil zamanlarında yönetmelikle belirlenecek meslekle ilgili çalışmalara katılmakla yükümlüdürler. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-13-6uig",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Okul müdürleri ve yardımcıları yıllık izinlerini ne zaman kullanırlar?",
+    "options": [
+      "Hafta sonları",
+      "İstedikleri zaman",
+      "Öğretmenler gibi yazın 2 ay",
+      "Sömestr tatilinde",
+      "Tatil aylarında okul işlerini ayarlamak şartı ile sıra ile"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A maddesine göre okul müdürleriyle müdür yardımcıları tatil aylarında okul işlerini ayarlamak ve düzenlemek şartıyla sıra ile izinlerini kullanırlar. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-14-dv9r",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Eski eğitim kurumlarının konut ihtiyacı için her yıl bütçeye ne konur?",
+    "options": [
+      "Yolluk",
+      "Kırtasiye yardımı",
+      "Gerekli ödenek",
+      "Ek ders ücreti",
+      "Temsil gideri"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50. maddesine göre: Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere konut sağlanır. Konutlar okul binaları ile birlikte planlanır ve yapılır. Eski eğitim kurumlarının konut ihtiyacı bir plana bağlanır ve bu konutların yapımı için, her yıl Millî Eğitim Bakanlığı Bütçesine gerekli ödenek konur. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-15-70eh",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenler, yaz tatili içinde aralıksız.......... ay izinlidirler.",
+    "options": [
+      "üç",
+      "bir",
+      "beş",
+      "iki",
+      "dört"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A. maddesine göre: Öğretmenler, yaz tatili içinde aralıksız iki ay izinlidirler. Ancak bu iki aylık izin sürelerine dokunulmadan kalan tatil zamanlarında yönetmelikle belirlenecek meslekle ilgili çalışmalara katılmakla yükümlüdürler. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-16-vgjo",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Rehberlik öğretmenleri tercih danışmanlığı gibi durumlarda tatil dönemlerinde görevlendirilebilir. Bu durumda izinleri.......... aydan az olamaz.",
+    "options": [
+      "iki",
+      "bir",
+      "üç",
+      "dört",
+      "altı"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A maddesine göre rehberlik öğretmenlerinin bu durumda izinleri bir aydan az olamaz. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-17-r8yx",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "İlçe veya il genelinde salgın hastalık veya doğal afet nedeniyle eğitim yapılamaması halinde yaz tatilinde telafi eğitimi yapılabilir. Bu durumda öğretmenlerin izinleri.......... aydan az olamaz.",
+    "options": [
+      "iki",
+      "üç",
+      "dört",
+      "altı",
+      "bir"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A maddesine göre yaz tatilinde telafi eğitimi nedeniyle izinler kısaltılsa dahi öğretmenlerin izinleri bir aydan az olamaz. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-18-o9ns",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Okul müdürleriyle müdür yardımcıları tatil aylarında okul işlerini ayarlamak ve düzenlemek şartı ile,.......... ile izinlerini kullanırlar.",
+    "options": [
+      "başvuru",
+      "kura",
+      "nöbet",
+      "sıra",
+      "kıdem"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50/A maddesine göre okul müdürleriyle müdür yardımcıları tatil aylarında okul işlerini ayarlamak ve düzenlemek şartıyla sıra ile izinlerini kullanırlar. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-19-sh7i",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmen konutları (lojmanlar) planlanırken ne ile birlikte planlanır?",
+    "options": [
+      "Belediye binasıyla",
+      "Cami ile birlikte",
+      "Okul binaları ile birlikte",
+      "Kaymakamlık binasıyla",
+      "Sağlık ocağıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50. maddesine göre: Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere konut sağlanır. Konutlar okul binaları ile birlikte planlanır ve yapılır. Eski eğitim kurumlarının konut ihtiyacı bir plana bağlanır ve bu konutların yapımı için, her yıl Millî Eğitim Bakanlığı Bütçesine gerekli ödenek konur. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-2-9h6q",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlerin atama ve yer değiştirmelerinde \"bölge hizmeti\" esası ne anlama gelir?",
+    "options": [
+      "Öğretmen sadece istediği bölgede çalışır.",
+      "Öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır.",
+      "Öğretmenler sadece doğduğu ilde çalışır.",
+      "Sadece doğu illerinde görev yapmak esastır.",
+      "Bölge hizmeti zorunluluğu yoktur."
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 46. maddesine göre: Öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır. Hizmet bölgeleri ve ihtiyaçlara göre bu bölgelerarası yer değiştirme esasları yönetmelikle düzenlenir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-20-hnds",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere.......... sağlanır. Konutlar okul binaları ile birlikte planlanır.",
+    "options": [
+      "maaş",
+      "izin",
+      "araç",
+      "konut",
+      "burs"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 50. maddesine göre: Millî Eğitim Bakanlığınca gerekli görülen yerlerde, özellikle mahrumiyet bölgelerinde görevli öğretmenlere konut sağlanır. Konutlar okul binaları ile birlikte planlanır ve yapılır. Eski eğitim kurumlarının konut ihtiyacı bir plana bağlanır ve bu konutların yapımı için, her yıl Millî Eğitim Bakanlığı Bütçesine gerekli ödenek konur. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-3-ti5r",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Uzman ve usta öğreticilerin görevlendirilmesi hangi eğitim türlerinde yapılabilir?",
+    "options": [
+      "Sadece yaygın eğitimde",
+      "Sadece mesleki eğitimde",
+      "Hem örgün hem yaygın eğitimde",
+      "Sadece örgün eğitimde",
+      "Sadece yükseköğretimde"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 47. maddesine göre: Örgün ve yaygın eğitim kurumlarında ve hizmet içi yetiştirme kurs, seminer ve konferanslarında uzman ve usta öğreticiler de geçici veya sürekli olarak görevlendirilebilir. Öğretim tür ve seviyelerine göre uzman ve usta öğreticilerin seçimlerinde aranacak şartlar, görev ve yetkileri, yönetmeliklerle tespit edilir. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-4-kmwb",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Örgün ve yaygın eğitim kurumlarında geçici veya sürekli olarak uzman ve.......... görevlendirilebilir.",
+    "options": [
+      "rehber öğretmenler",
+      "akademisyenler",
+      "stajyer öğretmenler",
+      "usta öğreticiler",
+      "müfettişler"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 47. maddesine göre: Örgün ve yaygın eğitim kurumlarında ve hizmet içi yetiştirme kurs, seminer ve konferanslarında uzman ve usta öğreticiler de geçici veya sürekli olarak görevlendirilebilir. Öğretim tür ve seviyelerine göre uzman ve usta öğreticilerin seçimlerinde aranacak şartlar, görev ve yetkileri, yönetmeliklerle tespit edilir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-5-nnxb",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, \"Öğretmenlerin hizmet içi yetiştirilmesi\"ne ait verilen bilgilerden hangisi doğru değildir?",
+    "options": [
+      "Yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir.",
+      "Başarı belgelerinin, öğretmenlerin atama, yükselme ve nakillerinde ne ölçüde ve nasıl değerlendirileceği kanunla düzenlenir.",
+      "Öğretmenlerin hizmet içi yetiştirilmesi maksadıyla, kurslar ve seminerler uzaktan eğitim şeklinde düzenlenebilir.",
+      "Millî Eğitim Bakanlığınca açılan kurs ve seminerlere devam edenlerden başarı sağlayanlara belge verilir.",
+      "Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri maksadıyla kurslar ve seminerler düzenlenir."
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 48. maddesine göre: Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri maksadıyle kurslar ve seminerler düzenlenir. Yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-6-96qg",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlerin daha üst öğrenim görmelerini sağlamak için yaz ve akşam okulları açılabilir. Bu okullara devam edip yeterli krediyi dolduranlara ne verilir?",
+    "options": [
+      "Teşekkür belgesi",
+      "Hizmet içi eğitim sertifikası",
+      "Para ödülü",
+      "Kıdem puanı",
+      "O kurumun belge veya diploması"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 48. maddesine göre: Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri maksadıyle kurslar ve seminerler düzenlenir. Yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-7-azyp",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Öğretmenlerin hizmet içi yetiştirilmesi (kurs, seminer) sonucunda verilen belgelerin atama ve yükselmede nasıl değerlendirileceği ne ile düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Yönergeyle",
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Genelgeyle",
+      "Kanunla"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 48. maddesine göre: Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri maksadıyle kurslar ve seminerler düzenlenir. Yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya diploması verilir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-8-ms1t",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Yurt içinde ve dışında daha üst öğrenim yapmak isteyen öğretmenlere nasıl izin verilir?",
+    "options": [
+      "Sadece hafta sonu izin verilir.",
+      "Sadece yaz tatilinde izin verilir.",
+      "İzin verilmez, istifa etmeleri istenir.",
+      "Belli şartlarla aylıklı veya aylıksız izinli sayılmaları sağlanır.",
+      "Yıllık izinlerinden düşülür."
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 49. maddesine göre: Yurt içinde ve dışında daha üst öğrenim yapmak veya bilgi, görgü ve ihtisaslarını arttırmak isteyen öğretmenlerin belli şartlarla, aylıklı veya aylıksız izinli sayılmaları sağlanır; bu şartlar, millî eğitimin ihtiyaçları göz önünde tutularak, hazırlanacak yönetmelikle belirtilir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-ogretmenlik-meslegi-hpn03-mtn0r17v-9-qxus",
+    "topic_id": "t-ogretmenlik-meslegi-hpn03",
+    "prompt": "Millî Eğitim Bakanlığı, öğretmenlerin yurt dışı eğitimleri için gerekli şartları ne ile belirler?",
+    "options": [
+      "Yönetmelikle",
+      "Kanunla",
+      "Sözleşmeyle",
+      "Cumhurbaşkanı Kararıyla",
+      "Protokolle"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 49. maddesine göre: Yurt içinde ve dışında daha üst öğrenim yapmak veya bilgi, görgü ve ihtisaslarını arttırmak isteyen öğretmenlerin belli şartlarla, aylıklı veya aylıksız izinli sayılmaları sağlanır; bu şartlar, millî eğitimin ihtiyaçları göz önünde tutularak, hazırlanacak yönetmelikle belirtilir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:02.121787+00:00",
+    "updated_at": "2026-09-04T13:58:02.121787+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-0-y18t",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "Okul Binaları ve Tesisleri, Eğitim Araç ve Gereçleri ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Özelleştirme uygulamasına ilişkin iş ve işlemler 4046 sayılı Kanun'a göre Özelleştirme İdaresi Başkanlığınca yürütülür.",
+      "Millî Eğitim Bakanlığı eğitim araç ve gereçlerini paralı veya parasız olarak ilgililerin yararlanmasına sunar.",
+      "Ders kitaplarına ilişkin yarışmalarda derece alanlara verilecek ödülün ödeme, usul ve esasları ile miktarı yönetmelikle belirlenir.",
+      "Özel kesimce hazırlanan ve okullarda ders kitabı olarak okutulmak üzere Millî Eğitim Bakanlığına gönderilen eserler ücret karşılığı incelenir.",
+      "Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Kültür ve Turizm Bakanlığınca planlanır ve yaptırılır."
+    ],
+    "answer_index": 4,
+    "explanation": "Kanunun 51. maddesine göre bina ve tesisler Millî Eğitim Bakanlığınca planlanır ve yaptırılır. 53. maddeye göre eğitim araç ve gereçleri paralı veya parasız ilgililerin yararlanmasına sunulabilir; 55. madde yarışma ödülleri ile özel kesim eserlerinin ücret karşılığı incelenmesini düzenler. Yanlış ifade E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-1-oq99",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre taşınmazların özelleştirilme si sonucu elde edilecek gelirler, özelleştirme giderleri düşüldükten sonra Hazineye aktarılır. Bu taşınmazların satışından elde edilen gelirleri, bir yandan genel bütçenin..….. işaretli cetveline gelir, diğer yandan ihtiyaç duyulan yerlerde okul yapımı veonarımı amacıyla kullanılmak üzere Millî Eğitim Bakanlığı bütçesine ödenek kaydetmeye Maliye Bakanı yetkilidir. Parçadaki boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?",
+    "options": [
+      "A",
+      "E",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre taşınmazların satışından elde edilen gelirler genel bütçenin (B) işaretli cetveline gelir kaydedilir; ihtiyaç duyulan yerlerde okul yapımı ve onarımı amacıyla Millî Eğitim Bakanlığı bütçesine ödenek kaydedilebilir. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-2-f9ks",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Taşınmazların satışından elde edilecek gelir ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Özelleştirme uygulamasına ilişkin iş ve işlemler 4046 sayılı Kanun'a göre Özelleştirme İdaresi Başkanlığınca yürütülür.",
+      "Millî Eğitim Bakanlığı bütçesine ödenek olarak kaydedilebilir.",
+      "Millî Eğitim Bakanlığına Tahsisli Taşınmazların satışına Maliye Bakanı yetkilidir.",
+      "Genel bütçenin (B) işaretli cetveline gelir olarak kaydedilir.",
+      "Taşınmazların özelleştirilmesi sonucu elde edilecek gelirler bütünüyle Hazineye aktarılır."
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre özelleştirme sonucu elde edilen gelirler, özelleştirme giderleri düşüldükten sonra Hazineye aktarılır; satış gelirleri ayrıca genel bütçenin (B) işaretli cetveline gelir ve Millî Eğitim Bakanlığı bütçesine ödenek kaydedilebilir. Bu nedenle gelirin bütünüyle Hazineye aktarılacağı ifadesi yanlıştır. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-3-e29f",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Millî Eğitim Bakanlığına tahsisli Hazine mülkiyetindeki taşınmazların Millî Eğitim Bakanlığı ile mutabık kalınarak tahsislerini kaldırmaya ve satışına aşağıdakilerden hangisi yetkilidir?",
+    "options": [
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+      "Maliye Bakanı",
+      "Valilik",
+      "Cumhurbaşkanlığı",
+      "Çevre ve Şehircilik Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre Millî Eğitim Bakanlığına tahsisli Hazine mülkiyetindeki taşınmazların tahsislerini kaldırmaya ve satışına Maliye Bakanı yetkilidir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-4-g4tv",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "Okul bina ve tesisleri planlanırken aşağıdakilerden hangisi dikkate alınır?",
+    "options": [
+      "Velilerin maddi durumu",
+      "Sadece arsanın büyüklüğü",
+      "Çevrenin ihtiyaçları ve uygulanacak programların özellikleri",
+      "Okul müdürünün isteği",
+      "Müteahhitlerin görüşü"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre: Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Millî Eğitim Bakanlığınca planlanır ve yaptırılır. Bu maksatla her yıl Millî Eğitim Bakanlığı bütçesine gerekli ödenek konur. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-5-8akm",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "Taşınmazların satışından elde edilen gelirler nereye aktarılır?",
+    "options": [
+      "Belediye bütçesine",
+      "Genel Bütçeye gelir, ihtiyaç duyulan yerlerde okul yapımı için MEB bütçesine ödenek kaydedilir",
+      "İl Özel İdaresi bütçesine",
+      "Okul müdürlüğü hesabına",
+      "Okul Aile Birliği hesabına"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre taşınmazların satışından elde edilen gelirler genel bütçenin (B) işaretli cetveline gelir kaydedilir ve ihtiyaç duyulan yerlerde okul yapımı ve onarımı için Millî Eğitim Bakanlığı bütçesine ödenek kaydedilebilir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-okul-binalari-ve-tesisleri-hq9ij-mtn0rijs-6-7o3x",
+    "topic_id": "t-okul-binalari-ve-tesisleri-hq9ij",
+    "prompt": "Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre.......... planlanır ve yaptırılır.",
+    "options": [
+      "Valilikçe",
+      "Cumhurbaşkanınca",
+      "YÖK tarafından",
+      "Belediyece",
+      "Millî Eğitim Bakanlığınca"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 51. maddesine göre: Her derece ve türdeki eğitim kurumlarına ait bina ve tesisler çevrenin ihtiyaçlarına ve uygulanacak programların özelliklerine göre Millî Eğitim Bakanlığınca planlanır ve yaptırılır. Bu maksatla her yıl Millî Eğitim Bakanlığı bütçesine gerekli ödenek konur. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:58:24.574340+00:00",
+    "updated_at": "2026-09-04T13:58:24.574340+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-0-tsdr",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön incelemeyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilemez.",
+      "İnceleme yapacakların, izin vermeye yetkili mercinin bulunduğu kamu kurum veya kuruluşunun içerisinden belirlenmesi esastır.",
+      "Cumhuriyet başsavcılıkları ile izin vermeye yetkili merciler ihbar ve şikâyetler konusunda daha önce sonuçlandırılmış bir ön inceleme yapılmış olsa dahi yapılan müracaatı tekrar işleme koyarlar.",
+      "Ast memur ile üst memurun aynı fiile iştiraki hâlinde izin, üst memurun bağlı olduğu merciden istenir.",
+      "Ön inceleme, izin vermeye yetkili merci tarafından bizzat yapılabileceği gibi, görevlendireceği bir veya birkaç denetim elemanı eliyle de yaptırılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek C’dir: “Cumhuriyet başsavcılıkları ile izin vermeye yetkili merciler ihbar ve şikâyetler konusunda daha önce sonuçlandırılmış bir ön inceleme yapılmış olsa dahi yapılan müracaatı tekrar işleme koyarlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-1-grv7",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, ön inceleme raporu üzerine soruşturma izni verilmesine veya verilmemesine karar verirken kararında hangi unsura yer vermek zorundadır?",
+    "options": [
+      "Gerekçeye",
+      "Yalnız şikâyetçinin imzasına",
+      "Mutlaka bilirkişi raporuna",
+      "Yalnız disiplin amirinin görüşüne",
+      "Kesinleşmiş mahkeme kararına"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Gerekçeye”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-10-6sd6",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Soruşturma izni; şikâyet, ihbar veya iddia konularını kapsar.",
+      "Soruşturma ile ilgili olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilecek bir fiil ortaya çıktığında, yeniden izin alınması zorunlu değildir.",
+      "Suçun hukuki niteliğinin değişmesi, yeniden izin alınmasını gerektirmez.",
+      "Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında yeniden izin alınması zorunludur.",
+      "Ağır cezayı gerektiren suçüstü hâli genel hükümlere tabidir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek B’dir: “Soruşturma ile ilgili olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilecek bir fiil ortaya çıktığında, yeniden izin alınması zorunlu değildir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-100-i8h0",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İhbar veya şikâyetin işleme konulmaması kararına karşı kim itiraz edebilir?",
+    "options": [
+      "Kaymakam",
+      "Hakkında ihbar yapılan memur",
+      "Vali",
+      "Şikâyetçi",
+      "Kurum amiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Şikâyetçi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-101-vofm",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön incelemenin, izin vermeye yetkili merciin bulunduğu kamu kurumunun içerisinden elemanlarla yaptırılması nedir?",
+    "options": [
+      "Yasaktır",
+      "Esastır (Asıl olandır)",
+      "Zorunlu değildir",
+      "Mümkün değildir",
+      "İsteğe bağlıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap B seçeneğidir: “Esastır (Asıl olandır)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-102-x5aw",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Başka bir kamu kurumundan ön inceleme elemanı istenmesi durumunda, bu isteğin yerine getirilmesi neye bağlıdır?",
+    "options": [
+      "Zorunludur",
+      "Valinin iznine bağlıdır",
+      "İlgili kuruluşun takdirine bağlıdır",
+      "Kaymakamın iznine bağlıdır",
+      "Savcının talimatına bağlıdır"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap C seçeneğidir: “İlgili kuruluşun takdirine bağlıdır”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-103-e6p8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmesi veya verilmemesi kararı, Cumhuriyet başsavcılığı ve ilgili memur dışında kime bildirilir?",
+    "options": [
+      "Resmi Gazete’ye",
+      "Memurun ailesine",
+      "Basına",
+      "Varsa şikâyetçiye",
+      "Maliye Bakanlığına"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Varsa şikâyetçiye”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-104-fmhp",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Danıştay İkinci Dairesi’nin itiraz üzerine verdiği kararlar nasıldır?",
+    "options": [
+      "Direnme yolu açıktır",
+      "Karar düzeltme yolu açıktır",
+      "Temyiz edilebilir",
+      "Anayasa Mahkemesine götürülebilir",
+      "Kesindir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “Kesindir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-105-0ikc",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanun’a göre karar verme ve itiraz sürelerinin başlangıcı hangi seçenekte doğru eşleştirilmiştir?",
+    "options": [
+      "Karar verme: olay tarihi / İtiraz: karar tarihi",
+      "Karar verme: ihbar dilekçesinin tarihi / İtiraz: rapor tarihi",
+      "Karar verme: yetkili merciin suçu öğrenmesi / İtiraz: kararın tebliği",
+      "Karar verme: rapor tarihi / İtiraz: dava tarihi",
+      "Karar verme: yılbaşı / İtiraz: kararın imzalanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Karar verme: yetkili merciin suçu öğrenmesi / İtiraz: kararın tebliği”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-106-uya8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni konusunda kararını ne zaman vermek zorundadır?",
+    "options": [
+      "Yalnız ön inceleme raporu oybirliğiyle düzenlenirse",
+      "Şikâyetçi ayrıca talepte bulunursa",
+      "Cumhuriyet başsavcılığı ikinci kez yazı gönderirse",
+      "Madde 7’de belirtilen süreler içinde her hâlde",
+      "Disiplin soruşturması tamamlandıktan sonra"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap D seçeneğidir: “Madde 7’de belirtilen süreler içinde her hâlde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-107-hgp8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Hakkında soruşturma izni istenen memurun ifadesini kim alır?",
+    "options": [
+      "Cumhuriyet Savcısı (İzin öncesi)",
+      "Zabıt Katibi",
+      "Karakol polisi",
+      "Şikâyetçi",
+      "Ön inceleme ile görevlendirilen kişi veya kişiler"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Ön inceleme ile görevlendirilen kişi veya kişiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-108-yq38",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci ön inceleme sonucunda soruşturma izni verilmemesine karar verirse, bu kararda hangi unsurun bulunması zorunludur?",
+    "options": [
+      "Gerekçe",
+      "Memurun savunması",
+      "Şikâyetçinin fotoğrafı",
+      "Olay yeri krokisi",
+      "Memurun sicil özeti"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Gerekçe”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-109-7jh4",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişi veya kişiler, raporlarını hazırlarken aşağıdakilerden hangisini yapar?",
+    "options": [
+      "Kamu davası açar",
+      "İtirazı karara bağlar",
+      "Kesin hüküm verir",
+      "Hakkında inceleme yapılanın ifadesini alır ve yetkileri dâhilindeki bilgi ve belgeleri toplar",
+      "Soruşturma izni kararını tebliğ eder"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Hakkında inceleme yapılanın ifadesini alır ve yetkileri dâhilindeki bilgi ve belgeleri toplar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-11-zg1g",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilen aşağıdakilerden hangisinin itirazına bölge idare mahkemesi bakar?",
+    "options": [
+      "Belde belediye meclisi üyeleri",
+      "Türkiye Büyük Millet Meclisinde görevli memurlar",
+      "Cumhurbaşkanlığında görevli memurlar",
+      "Cumhurbaşkanı kararıyla atanan memurlar",
+      "Büyükşehir, il ve ilçe belediye meclisi üyeleri ile il genel meclisi üyeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Belde belediye meclisi üyeleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-110-4h9c",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Madde 4’ün üçüncü fıkrasındaki şartları taşımayan ihbar ve şikâyetler hakkında hangi işlem yapılır?",
+    "options": [
+      "İhbar edilenin ifadesi Cumhuriyet başsavcısı tarafından alınır",
+      "Doğrudan kamu davası açılır",
+      "Her durumda ön inceleme başlatılır",
+      "Cumhuriyet başsavcıları ve izin vermeye yetkili merciler tarafından işleme konulmaz ve durum başvurana bildirilir",
+      "Dosya Danıştay İkinci Dairesine gönderilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap D seçeneğidir: “Cumhuriyet başsavcıları ve izin vermeye yetkili merciler tarafından işleme konulmaz ve durum başvurana bildirilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-111-n99y",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Kaymakamlar hakkında soruşturma izni verilmesi kararına itirazı inceleyen merci hangisidir?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "Bölge idare mahkemesi",
+      "İl İdare Kurulu",
+      "Yargıtay",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-112-1xea",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merciin otuz günlük karar verme süresi, zorunlu hâllerde on beş günü geçmemek üzere ______ uzatılabilir.",
+    "options": [
+      "iki defa",
+      "bir defa",
+      "üç defa",
+      "süresiz",
+      "dört defa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “bir defa” ifadesiyle tamamlanır. Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Doğru cevap B seçeneğidir: “bir defa”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-113-pjv3",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet başsavcıları, ihbar üzerine gerekli delilleri tespit eder ancak hakkında ihbar veya şikâyette bulunulan memur veya diğer kamu görevlisinin ______ başvuramazlar.",
+    "options": [
+      "savunmasına",
+      "ifadesine",
+      "şikâyetine",
+      "itirazına",
+      "raporuna"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “ifadesine” ifadesiyle tamamlanır. Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Doğru cevap B seçeneğidir: “ifadesine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-114-720o",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İhbar ve şikâyetlerde kişi veya olay belirtilmesi, iddiaların ciddî bulgu ve belgelere dayanması, dilekçe sahibinin ad, soyad ve ______ ile adresinin bulunması zorunludur.",
+    "options": [
+      "görevi",
+      "imzası",
+      "unvanı",
+      "telefonu",
+      "sıfatı"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “imzası” ifadesiyle tamamlanır. Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Doğru cevap B seçeneğidir: “imzası”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-115-ofwc",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İddiaların, sıhhati şüpheye mahal vermeyecek ______ ile ortaya konulmuş olması hâlinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartı aranmaz.",
+    "options": [
+      "belgelerle",
+      "ifadelerle",
+      "kararlarla",
+      "raporlarla",
+      "itirazlarla"
+    ],
+    "answer_index": 0,
+    "explanation": "Boşluk “belgelerle” ifadesiyle tamamlanır. Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Doğru cevap A seçeneğidir: “belgelerle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-116-6ash",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merci, Kanun kapsamına giren bir suç işlendiğini öğrendiğinde bir ______ başlatır.",
+    "options": [
+      "hazırlık soruşturması",
+      "ön inceleme",
+      "kovuşturma",
+      "itiraz incelemesi",
+      "disiplin soruşturması"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “ön inceleme” ifadesiyle tamamlanır. Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Doğru cevap B seçeneğidir: “ön inceleme”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-117-uehu",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "______ mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilemez.",
+    "options": [
+      "Asker",
+      "Yargı",
+      "İdare",
+      "Denetim",
+      "Teftiş"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “Yargı” ifadesiyle tamamlanır. Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Doğru cevap B seçeneğidir: “Yargı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-118-h32j",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişiler, bakanlık ______ ile kendilerini görevlendiren merciin bütün yetkilerini haizdir.",
+    "options": [
+      "savcıları",
+      "hâkimleri",
+      "müfettişleri",
+      "amirleri",
+      "memurları"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “müfettişleri” ifadesiyle tamamlanır. Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Doğru cevap C seçeneğidir: “müfettişleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-119-488j",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında ______ alınması zorunludur.",
+    "options": [
+      "yeniden izin",
+      "itiraz",
+      "ön inceleme",
+      "hazırlık soruşturması",
+      "mahkeme kararı"
+    ],
+    "answer_index": 0,
+    "explanation": "Boşluk “yeniden izin” ifadesiyle tamamlanır. Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Doğru cevap A seçeneğidir: “yeniden izin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-12-893n",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Hakkında inceleme yapılan memur soruşturma izni verilmesine ilişkin karara karşı tebliğ tarihinden itibaren kaç gün içinde itiraz edebilir?",
+    "options": [
+      "30",
+      "15",
+      "10",
+      "45",
+      "60"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “10”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-120-13f3",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Suçun hukuki niteliğinin değişmesi, yeniden ______ alınmasını gerektirmez.",
+    "options": [
+      "rapor",
+      "ifade",
+      "izin",
+      "itiraz",
+      "şikâyet"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “izin” ifadesiyle tamamlanır. Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Doğru cevap C seçeneğidir: “izin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-121-e1rp",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmesine ilişkin karara karşı hakkında inceleme yapılan ______ itiraz edebilir.",
+    "options": [
+      "şikâyetçi",
+      "Cumhuriyet başsavcılığı",
+      "memur veya diğer kamu görevlisi",
+      "izin vermeye yetkili merci",
+      "ön inceleme elemanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “memur veya diğer kamu görevlisi” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap C seçeneğidir: “memur veya diğer kamu görevlisi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-122-4vfy",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmemesine ilişkin karara karşı ______ veya şikâyetçi itiraz edebilir.",
+    "options": [
+      "Cumhuriyet başsavcılığı",
+      "hakkında inceleme yapılan memur",
+      "ön inceleme elemanı",
+      "yetkili mahkeme",
+      "ilgili kurum"
+    ],
+    "answer_index": 0,
+    "explanation": "Boşluk “Cumhuriyet başsavcılığı” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap A seçeneğidir: “Cumhuriyet başsavcılığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-123-4ug0",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merciin kararına karşı itiraz süresi, kararın tebliğinden itibaren ______ gündür.",
+    "options": [
+      "beş",
+      "yedi",
+      "on (10)",
+      "on beş",
+      "otuz"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “on (10)” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap C seçeneğidir: “on (10)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-124-d29i",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Büyükşehir belediye başkanları hakkındaki soruşturma izni kararlarına karşı itiraz Danıştay ______ Dairesine yapılır.",
+    "options": [
+      "Birinci",
+      "İkinci",
+      "Üçüncü",
+      "Dördüncü",
+      "Beşinci"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “İkinci” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap B seçeneğidir: “İkinci”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-125-or44",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Bir kaymakam hakkında verilen soruşturma izni kararına itiraz, yetkili merciin yargı çevresinde bulunduğu ______ mahkemesine yapılır.",
+    "options": [
+      "ağır ceza",
+      "asliye ceza",
+      "bölge idare",
+      "sulh ceza",
+      "Yargıtay"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “bölge idare” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap C seçeneğidir: “bölge idare”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-126-cd1d",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İtiraz mercilerinin verdiği kararlar ______ niteliktedir.",
+    "options": [
+      "geçici",
+      "kesin",
+      "şarta bağlı",
+      "ertelenebilir",
+      "tavsiye niteliğinde"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “kesin” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap B seçeneğidir: “kesin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-127-ceds",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İhbar ve şikâyetlerde dilekçe sahibinin doğru ad, soyad ve imzası ile iş veya ______ adresinin bulunması zorunludur.",
+    "options": [
+      "ikametgâh",
+      "görev",
+      "tebligat",
+      "kurum",
+      "işlem"
+    ],
+    "answer_index": 0,
+    "explanation": "Boşluk “ikametgâh” ifadesiyle tamamlanır. Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Doğru cevap A seçeneğidir: “ikametgâh”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-128-4odv",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme birden çok kişi tarafından yapılmışsa, farklı görüşler raporda ______ ayrı ayrı belirtilir.",
+    "options": [
+      "özetlenerek",
+      "gerekçeleriyle",
+      "oy çokluğuyla",
+      "tek tek imzalanarak",
+      "ayrıca karara bağlanarak"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “gerekçeleriyle” ifadesiyle tamamlanır. Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Doğru cevap B seçeneğidir: “gerekçeleriyle”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-129-mk4o",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini ______ alır.",
+    "options": [
+      "Cumhuriyet başsavcısı",
+      "izin vermeye yetkili merci",
+      "ön inceleme ile görevlendirilen kişi veya kişiler",
+      "mahkeme",
+      "şikâyetçi"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “ön inceleme ile görevlendirilen kişi veya kişiler” ifadesiyle tamamlanır. Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Doğru cevap C seçeneğidir: “ön inceleme ile görevlendirilen kişi veya kişiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-13-sr18",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni konusundaki kararını suçun öğrenilmesinden itibaren ön incelemeyle birlikte ve zorunlu hâllerdeki uzatma süresi de dâhil olmak üzere en geç kaç gün içerisinde verir?",
+    "options": [
+      "On",
+      "Yirmi",
+      "Yirmibeş",
+      "Otuz",
+      "Kırkbeş"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap E seçeneğidir: “Kırkbeş”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-130-sicv",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "3 üncü maddenin (e), (f), (g) (Cumhurbaşkanınca verilen izin hariç) ve (h) bentlerinde sayılanlar dışındaki kişiler için itirazı ______ inceler.",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi",
+      "il ağır ceza mahkemesi",
+      "genel hükümlere göre yetkili sulh ceza hâkimi"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi” ifadesiyle tamamlanır. Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Doğru cevap C seçeneğidir: “yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-14-8hdm",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişi veya kişiler, bu Kanun’da hüküm bulunmayan hususlarda hangi kanuna göre işlem yapabilirler?",
+    "options": [
+      "Ceza Muhakemeleri Usulü Kanunu",
+      "Kabahatler Kanunu",
+      "Devlet Memurları Kanunu",
+      "Türk Ceza Kanunu",
+      "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Ceza Muhakemeleri Usulü Kanunu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-15-9a0m",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerde bulunması gereken hususlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İddiaların ciddî bulgu ve belgelere dayanması",
+      "Soyut ve genel nitelikli olması",
+      "İhbar veya şikâyet dilekçesinde dilekçe sahibinin doğru ad, soyad ve imzasının bulunması",
+      "İhbar veya şikâyetlerde kişi veya olay belirtilmesi",
+      "İhbar veya şikâyet dilekçesinde dilekçe sahibinin iş veya ikametgâh adresinin bulunması"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek B’dir: “Soyut ve genel nitelikli olması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-16-6vlz",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merci, 4483 sayılı Kanun kapsamına giren bir suç işlendiğini bizzat veya Kanunda belirtilen şekilde öğrendiğinde ne yapar?",
+    "options": [
+      "Doğrudan kamu davası açar",
+      "Dosyayı bölge idare mahkemesine gönderir",
+      "Disiplin cezası verir",
+      "Bir ön inceleme başlatır",
+      "Soruşturma izni vermiş sayılır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Bir ön inceleme başlatır”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-17-f3ze",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Madde 3/b kapsamında ilde veya merkez ilçede görevli bir memur hakkında verilen soruşturma izni kararına karşı yapılacak itiraza hangi merci bakar?",
+    "options": [
+      "Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi",
+      "İl asliye ceza mahkemesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "Danıştay İkinci Dairesi",
+      "İl ağır ceza mahkemesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-18-p0w2",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilen aşağıdaki memurlar ve diğer kamu görevlilerinden hangisinin itirazına bölge idare mahkemesi bakar?",
+    "options": [
+      "Türkiye Büyük Millet Meclisinde görevli memurlar ve diğer kamu görevlileri",
+      "İlde ve merkez ilçede görevli memurlar ve diğer kamu görevlileri",
+      "Büyükşehir belediye başkanları",
+      "Cumhurbaşkanı kararıyla atanan memurlar ve diğer kamu görevlileri",
+      "İl ve ilçe belediye meclisi üyeleri ile il genel meclisi üyeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “İlde ve merkez ilçede görevli memurlar ve diğer kamu görevlileri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-19-vh64",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merciin otuz günlük karar verme süresi, zorunlu hâllerde en çok kaç gün uzatılabilir?",
+    "options": [
+      "10 Gün",
+      "45 Gün",
+      "15 Gün",
+      "90 Gün",
+      "120 Gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap C seçeneğidir: “15 Gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-2-n1jb",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni verilmesine veya verilmemesine ilişkin kararını aşağıdakilerden hangisine bildirir?",
+    "options": [
+      "Valiliğe",
+      "Cumhuriyet başsavcılığına",
+      "Danıştaya",
+      "Üst disiplin amirine",
+      "Yargıtaya"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Cumhuriyet başsavcılığına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-20-aabq",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre aşağıdakilerden hangisinin ön inceleme yapmak üzere görevlendirilmesine Kanunda açık bir yasak getirilmemiştir?",
+    "options": [
+      "Yargı mensupları",
+      "Yargı kuruluşlarında çalışanlar",
+      "Askerler",
+      "Denetim elemanları",
+      "Yargı kuruluşunda çalışan kamu görevlileri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Denetim elemanları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-21-btuv",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilen kişinin itirazı en geç ne kadar süre içinde sonuçlandırılır?",
+    "options": [
+      "1 Ay",
+      "9 Ay",
+      "4 Ay",
+      "6 Ay",
+      "3 Ay"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “3 Ay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-22-ggpa",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni konusundaki kararını suçun öğrenilmesinden itibaren ön inceleme dâhil en geç kaç gün içinde verir?",
+    "options": [
+      "On",
+      "On beş",
+      "Otuz",
+      "Yirmi beş",
+      "Yirmi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap C seçeneğidir: “Otuz”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-23-8tja",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Olayın yetkili mercie iletilmesi, işleme konulmayacak ihbar ve şikâyetler ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İhbar veya şikâyetlerde kişi veya olay belirtilmesi zorunludur.",
+      "İhbar veya şikâyet dilekçesinde dilekçe sahibinin doğru ad, soyad ve imzası ile iş veya ikametgâh adresinin bulunması zorunludur.",
+      "İddiaların ciddî bulgu ve belgelere dayanması zorunludur.",
+      "Memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerin soyut ve genel nitelikte olması zorunludur.",
+      "Başsavcılar ve yetkili merciler ihbarcı veya şikâyetçinin kimlik bilgilerini gizli tutmak zorundadır."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek D’dir: “Memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerin soyut ve genel nitelikte olması zorunludur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-24-qszx",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. İtiraz süresi, yetkili merciin kararının tebliğinden itibaren on gündür. II. İtirazlar, öncelikle incelenir ve en geç üç ay içinde karara bağlanır. III. Verilen kararlar kesindir. verilenler doğru-yanlış olarak değerlendirildiğinde sıralama aşağıdakilerden hangisi olur?",
+    "options": [
+      "Yanlış - Yanlış - Doğru",
+      "Doğru - Doğru - Yanlış",
+      "Doğru - Yanlış - Doğru",
+      "Yanlış - Doğru - Yanlış",
+      "Doğru - Doğru - Doğru"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “Doğru - Doğru - Doğru”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-25-lf6d",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. Suçun hukuki niteliğinin değişmesi, yeniden izin alınmasını gerektirir. II. Soruşturma izni, şikâyet, ihbar veya iddia konusu olaylar ile bunlara bağlı olarak ileride soruşturma sırasında ortaya çıkabilecek konuları kapsar. III. Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında, yeniden izin alınması gerekmez. verilenler doğru-yanlış olarak değerlendirildiğinde sıralama aşağıdakilerden hangisi olur?",
+    "options": [
+      "Doğru - Doğru - Doğru",
+      "Yanlış - Doğru - Yanlış",
+      "Doğru - Yanlış - Doğru",
+      "Doğru - Doğru - Yanlış",
+      "Yanlış - Yanlış - Doğru"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Bu nedenle doğru cevap B seçeneğidir: “Yanlış - Doğru - Yanlış”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-26-qxti",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İtiraz süresi, yetkili merciin kararının tebliğinden itibaren en geç kaç gündür?",
+    "options": [
+      "Bir",
+      "Üç",
+      "On",
+      "Yedi",
+      "Beş"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “On”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-27-35g2",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aşağıdakilerden hangisi memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetler ile ilgili zorunluluklardan biri değildir?",
+    "options": [
+      "İhbar ve şikâyetler ile ilgili iddiaların ciddî bulgu ve belgelere dayanması",
+      "İhbar veya şikâyet dilekçesinde dilekçe sahibinin kimlik numarasının bulunması",
+      "İhbar veya şikâyetlerde kişi veya olay belirtilmesi",
+      "İhbar ve şikâyetlerin soyut nitelikte olmaması",
+      "İhbar ve şikâyetlerin genel nitelikte olmaması"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek B’dir: “İhbar veya şikâyet dilekçesinde dilekçe sahibinin kimlik numarasının bulunması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-28-zv5w",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre yetkili merci, her hâlükârda ne yapmak zorundadır?",
+    "options": [
+      "Ön incelemeyi süresiz olarak uzatmak",
+      "Dosyayı her durumda Danıştay İkinci Dairesine göndermek",
+      "Kanunda belirtilen süreler içinde soruşturma izni verilmesi veya verilmemesi konusunda karar vermek",
+      "Şikâyetçiyi tanık olarak dinlemek",
+      "Soruşturma iznini otomatik olarak vermek"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap C seçeneğidir: “Kanunda belirtilen süreler içinde soruşturma izni verilmesi veya verilmemesi konusunda karar vermek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-29-zmc5",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Memurlar ve diğer kamu görevlilerinin bu Kanun kapsamına giren suçlarına ilişkin ihbar veya şikâyet alındığında, soruşturma izni istemek üzere ilgili makama başvuran merci aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhuriyet Başsavcıları",
+      "Atamaya Yetkili Amirler",
+      "Kurum Müdürleri",
+      "Müfettişler",
+      "Hâkimler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap A seçeneğidir: “Cumhuriyet Başsavcıları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-3-69ej",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, ön incelemeye ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cumhuriyet başsavcılıkları ile izin vermeye yetkili merciler ihbar ve şikâyetler konusunda daha önce sonuçlandırılmış bir ön inceleme olması hâlinde müracaatı işleme koymazlar.",
+      "Ön inceleme, izin vermeye yetkili merci tarafından bizzat yapılabileceği gibi, görevlendireceği bir veya birkaç denetim elemanı veya hakkında inceleme yapılanın üstü konumundaki memur ve kamu görevlilerinden biri veya birkaçı eliyle de yaptırılabilir.",
+      "Ön inceleme ile görevlendirilen kişiler birden fazla ise içlerinden biri başkan olarak belirlenir.",
+      "İnceleme yapacakların, izin vermeye yetkili merciin bulunduğu kamu kurum veya kuruluşunun içerisinden belirlenmesi esastır.",
+      "Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilmesinde sakınca yoktur."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek E’dir: “Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilmesinde sakınca yoktur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-30-ztwc",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. İş veya ikametgâh adresinin bulunması II. İddiaların ciddî bulgu ve belgelere dayanması III. İhbar veya şikâyetlerde kişi veya olay belirtilmesi IV. Yapılacak ihbar ve şikâyetlerin soyut ve genel nitelikte olması V. İhbar veya şikâyet dilekçesinde dilekçe sahibinin doğru ad, soyad ve imzasının bulunması memurlar hakkında yapılacak ihbar ve şikâyetlerin işleme konulma şartları ile ilgili yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "I, II ve V",
+      "I, II, III ve V",
+      "III, IV ve V",
+      "II, III ve IV",
+      "I, II, III, IV ve V"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “I, II, III ve V”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-31-ip2o",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İtirazlar en geç kaç ay içinde karara bağlanır?",
+    "options": [
+      "Üç",
+      "Bir",
+      "Beş",
+      "Yedi",
+      "On"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Üç”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-32-3ebu",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet başsavcıları, 4483 sayılı Kanun kapsamındaki bir suçla ilgili ihbar veya şikâyet aldıklarında soruşturma izni istemeden önce hangi işlemi yapabilirler?",
+    "options": [
+      "Hakkında ihbar bulunan memurun ifadesini alabilirler",
+      "İvedilikle toplanması gerekli ve kaybolma ihtimali bulunan delilleri tespit edebilirler",
+      "Tanıkları yeminli olarak dinleyip esas hakkında karar verebilirler",
+      "Şüpheliyi gözaltına alıp sorgulayabilirler",
+      "Soruşturmayı bütün yönleriyle tamamlayabilirler"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “İvedilikle toplanması gerekli ve kaybolma ihtimali bulunan delilleri tespit edebilirler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-33-vz9b",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet başsavcıları, 4483 sayılı Kanun kapsamındaki ihbar veya şikâyetlerde hakkında ihbar veya şikâyette bulunulan memur veya diğer kamu görevlisi bakımından hangi işlemi yapamazlar?",
+    "options": [
+      "Kaybolma ihtimali bulunan delilleri tespit edebilirler",
+      "Evrakın bir örneğini ilgili makama gönderebilirler",
+      "Soruşturma izni isteyebilirler",
+      "İvedilikle toplanması gereken delilleri tespit edebilirler",
+      "İfadesine başvuramazlar"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek E’dir: “İfadesine başvuramazlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-34-bg4y",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Diğer makam ve memurlarla kamu görevlileri, 4483 sayılı Kanun kapsamına giren bir suç işlendiğini ihbar, şikâyet, bilgi, belge veya bulgulara dayanarak öğrendiklerinde ne yaparlar?",
+    "options": [
+      "Durumu izin vermeye yetkili mercie iletirler",
+      "Doğrudan kamu davası açarlar",
+      "Dosyayı Danıştay İkinci Dairesine gönderirler",
+      "Soruşturma izni vermiş sayılırlar",
+      "Yalnız disiplin amirine bildirirler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap A seçeneğidir: “Durumu izin vermeye yetkili mercie iletirler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-35-hg7o",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci soruşturma izni konusundaki kararını, suçun öğrenilmesinden itibaren ön inceleme dâhil zorunlu hâller hariç olmak üzere en fazla ne kadar sürede verir?",
+    "options": [
+      "7 Gün",
+      "30 Gün",
+      "15 Gün",
+      "45 Gün",
+      "60 Gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap B seçeneğidir: “30 Gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-36-jzpz",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Madde 4’ün üçüncü fıkrasındaki şartları taşımayan ihbar ve şikâyetler hakkında Cumhuriyet başsavcıları ve izin vermeye yetkili merciler ne yapar?",
+    "options": [
+      "Her durumda ön inceleme başlatırlar",
+      "Doğrudan kamu davası açarlar",
+      "İşleme koymaz ve durumu ihbar veya şikâyette bulunana bildirirler",
+      "Dosyayı Yargıtaya gönderirler",
+      "İhbarı otomatik olarak kabul ederler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap C seçeneğidir: “İşleme koymaz ve durumu ihbar veya şikâyette bulunana bildirirler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-37-lid8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izninin kapsamı hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Soruşturma kapsamının süresi en fazla otuz gün uzatılabilir.",
+      "Soruşturma izni, şikâyet, ihbar veya iddia konusu olaylar ile bunlara bağlı olarak ileride soruşturma sırasında ortaya çıkabilecek konuları kapsar.",
+      "Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında, yeniden izin alınması zorunludur.",
+      "Suçun hukuki niteliğinin değişmesi, yeniden izin alınmasını gerektirmez.",
+      "Ön inceleme birden çok kişi tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek A’dır: “Soruşturma kapsamının süresi en fazla otuz gün uzatılabilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-38-xcjk",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. Ad ve soyad II. İmza III. Unvan IV. İş veya ikametgâh adresi V. T.C. kimlik numarası\n4483 sayılı Kanuna göre ihbar veya şikâyet dilekçesinde yukarıdakilerden hangilerinin bulunması zorunludur?",
+    "options": [
+      "I, IV ve V",
+      "I, II ve IV",
+      "I, II ve III",
+      "I, III ve V",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “I, II ve IV”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-39-6bio",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmemesine ilişkin karara karşı aşağıdakilerden hangisi itiraz yoluna gidebilir?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Cumhuriyet başsavcılığı",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Cumhuriyet başsavcılığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-4-hyoi",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, I. Ad, soyad II. Soyut ve genel nitelikte olmaması, III. T.C. kimlik numarası IV. İş veya ikametgâh adresi memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerde yukarıdakilerden hangilerinin bulunması zorunludur?",
+    "options": [
+      "I, II ve III",
+      "I, II ve IV",
+      "I, III ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “I, II ve IV”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-40-ri3d",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. ihbar ve şikâyetlerin soyut ve genel nitelikte olmaması II. Dilekçe sahibinin doğru ad, soyad ve imzası III. İş veya ikametgâh adresinin bulunması IV. T.C. kimlik numarasının belirtilmesi ihbar veya şikâyet dilekçesinde yukarıdakilerden hangileri yer alır?",
+    "options": [
+      "I, II ve III",
+      "I ve III",
+      "II ve III",
+      "I, II ve IV",
+      "I ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap A seçeneğidir: “I, II ve III”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-41-feze",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci soruşturma izni konusundaki kararını, suçun öğrenilmesinden itibaren ön inceleme ve zorunlu hâllerde dâhil olmak üzere toplam en fazla kaç gün içinde verir?",
+    "options": [
+      "15",
+      "45",
+      "30",
+      "60",
+      "90"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap B seçeneğidir: “45”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-42-th2d",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aşağıdakilerden hangisi ön incelemelerde görev alabilir?",
+    "options": [
+      "Yargı mensupları",
+      "Yargı kuruluşlarında çalışanlar",
+      "Bakanlık müfettişleri",
+      "Askerler",
+      "Hepsi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap C seçeneğidir: “Bakanlık müfettişleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-43-us51",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerin niteliği bakımından aşağıdakilerden hangisi zorunludur?",
+    "options": [
+      "Mutlaka noter aracılığıyla yapılması",
+      "Yalnız elektronik ortamda gönderilmesi",
+      "En az iki tanık tarafından imzalanması",
+      "Mutlaka avukat aracılığıyla yapılması",
+      "Soyut ve genel nitelikte olmaması"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap E seçeneğidir: “Soyut ve genel nitelikte olmaması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-44-0276",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilen aşağıdaki memurlar ve diğer kamu görevlilerinden hangisinin itirazına Danıştay İkinci Dairesi bakar?",
+    "options": [
+      "Büyükşehir belediye başkanları, il ve ilçe belediye başkanları; büyükşehir, il ve ilçe belediye meclisi üyeleri ile il genel meclisi üyeleri",
+      "Köy ve mahalle muhtarları ile bu Kanun kapsamına giren diğer memurlar ve kamu görevlileri",
+      "Cumhurbaşkanına veya Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kuruluşlar ile bakanlıkların merkez ve bağlı veya ilgili kuruluşlarında görev yapan diğer memur ve kamu görevlileri",
+      "Bölge düzeyinde teşkilatlanan kurum ve kuruluşlarda görev yapan memurlar ve diğer kamu görevlileri",
+      "İlde ve merkez ilçede görevli memurlar ve diğer kamu görevlileri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Büyükşehir belediye başkanları, il ve ilçe belediye başkanları; büyükşehir, il ve ilçe belediye meclisi üyeleri ile il genel meclisi üyeleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-45-246q",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet başsavcıları ve izin vermeye yetkili merciler, ihbarcı veya şikâyetçinin hangi bilgilerini gizli tutmak zorundadır?",
+    "options": [
+      "Yalnız telefon numarasını",
+      "Kimlik bilgilerini",
+      "Yalnız meslek bilgisini",
+      "Sadece dilekçenin tarihini",
+      "Yalnız iddia edilen suçun hukuki niteliğini"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “Kimlik bilgilerini”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-46-jo0v",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aynı ihbar veya şikâyet konusunda daha önce sonuçlandırılmış bir ön inceleme bulunması hâlinde Cumhuriyet başsavcılıkları ile izin vermeye yetkili merciler kural olarak ne yapar?",
+    "options": [
+      "Müracaatı işleme koymazlar",
+      "Her durumda yeni bir ön inceleme başlatırlar",
+      "Dosyayı doğrudan ceza mahkemesine gönderirler",
+      "Soruşturma izni vermiş sayılırlar",
+      "Şikâyetçiyi yeniden dinlemek zorundadırlar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Müracaatı işleme koymazlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-47-w9qh",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Daha önce sonuçlandırılmış bir ön inceleme bulunan konuda müracaatın yeniden işleme konulabilmesi için aşağıdakilerden hangisi gerekir?",
+    "options": [
+      "Şikâyetçinin adres değiştirmesi",
+      "İhbarın ikinci kez aynı kişi tarafından yapılması",
+      "Aradan bir yıl geçmiş olması",
+      "Önceki ön incelemenin neticesini etkileyecek yeni belge sunulması",
+      "İlgili memurun görev yerinin değişmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Önceki ön incelemenin neticesini etkileyecek yeni belge sunulması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-48-hx2z",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme birden çok kişi tarafından yapılmış ve incelemeciler farklı görüşlere ulaşmışsa raporda nasıl gösterilir?",
+    "options": [
+      "Yalnız çoğunluk görüşü yazılır",
+      "Yalnız başkanın görüşü yazılır",
+      "Farklı görüşlere yer verilmez",
+      "Dosya yeni bir heyete gönderilir",
+      "Farklı görüşler gerekçeleriyle ayrı ayrı belirtilir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Farklı görüşler gerekçeleriyle ayrı ayrı belirtilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-49-1572",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön incelemenin başka bir kamu kurum veya kuruluşunun elemanlarıyla yaptırılmasının istenebilmesi için Kanunda hangi ölçüt belirtilmiştir?",
+    "options": [
+      "İşin özelliği",
+      "Şikâyetçinin talebi",
+      "Hakkında inceleme yapılanın yazılı kabulü",
+      "İtiraz süresinin dolması",
+      "Yalnız suçun ağır cezayı gerektirmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap A seçeneğidir: “İşin özelliği”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-5-36k2",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Büyükşehir belediye başkanları ile il ve ilçe belediye başkanları, kendileri hakkında verilen soruşturma izni kararına karşı aşağıdakilerden hangisine itiraz edebilir?",
+    "options": [
+      "Bölge idare mahkemesi",
+      "Sayıştay",
+      "Danıştay İkinci Dairesi",
+      "Yargıtay",
+      "İl asliye ceza mahkemesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Danıştay İkinci Dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-50-s5ot",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "__________, memurlar ve diğer kamu görevlilerinin bu Kanun kapsamına giren suçlarına ilişkin bir ihbar veya şikâyet aldıklarında ya da böyle bir durumu öğrendiklerinde, ivedilikle toplanması gerekli ve kaybolma ihtimali bulunan delilleri tespitten başka hiçbir işlem yapmayarak evrakın bir örneğini ilgili makama gönderip soruşturma izni isterler.",
+    "options": [
+      "Valiler",
+      "Hâkimler",
+      "Cumhuriyet başsavcıları",
+      "İzin vermeye yetkili merciler",
+      "Kaymakamlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap C seçeneğidir: “Cumhuriyet başsavcıları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-51-4pzz",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme, izin vermeye yetkili merci bakımından aşağıdaki yöntemlerden hangisiyle yapılabilir?",
+    "options": [
+      "Yalnız Cumhuriyet savcısı tarafından yapılabilir",
+      "Yalnız Danıştay üyeleri tarafından yapılabilir",
+      "Sadece mahkeme kararıyla başlatılabilir",
+      "Yalnız hakkında inceleme yapılan kişinin astları tarafından yapılabilir",
+      "Merci tarafından bizzat yapılabilir veya Kanunda belirtilen kişilerden biri ya da birkaçı görevlendirilebilir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Merci tarafından bizzat yapılabilir veya Kanunda belirtilen kişilerden biri ya da birkaçı görevlendirilebilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-52-wmia",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni konusundaki kararını suçun öğrenilmesinden itibaren ön inceleme dâhil en geç ______ gün içinde verir. Bu süre, zorunlu hâllerde ______ günü geçmemek üzere bir defa uzatılabilir. Boşluklara hangisi gelmelidir?",
+    "options": [
+      "30 - 15",
+      "20 - 15",
+      "20 - 20",
+      "15 - 15",
+      "15 - 60"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap A seçeneğidir: “30 - 15”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-53-c1iz",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun kapsamında memur ve kamu görevlileri hakkında yapılan ön incelemeye ilişkin aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Ön inceleme, izin vermeye yetkili merci tarafından bizzat yapılabileceği gibi, görevlendireceği bir veya birden çok denetim elemanı eliyle de yaptırılabilir.",
+      "Ön inceleme birden çok kişi tarafından yapılmışsa, rapora konu kararın oybirliğiyle verilmesi gerekir.",
+      "Ön inceleme ile görevlendirilen kişiler birden fazla ise içlerinden biri başkan olarak belirlenir.",
+      "Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilemez.",
+      "Ön inceleme üzerine verilen kararda gerekçe gösterilmesi zorunludur."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Soru kökündeki yanlış/istisna ifadeyi oluşturan seçenek B’dir: “Ön inceleme birden çok kişi tarafından yapılmışsa, rapora konu kararın oybirliğiyle verilmesi gerekir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-54-offd",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme yapacak kişilerin belirlenmesinde Kanunda benimsenen esas aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadece asker kişiler arasından belirlenmeleri",
+      "Mutlaka başka bir kamu kurumundan seçilmeleri",
+      "Yalnız yargı mensuplarından seçilmeleri",
+      "İzin vermeye yetkili merciin bulunduğu kamu kurum veya kuruluşunun içerisinden belirlenmeleri",
+      "Şikâyetçinin belirleyeceği kişilerden seçilmeleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “İzin vermeye yetkili merciin bulunduğu kamu kurum veya kuruluşunun içerisinden belirlenmeleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-55-w0ai",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler bakımından 4483 sayılı Kanunda hangi sınırlama getirilmiştir?",
+    "options": [
+      "Başka mercilerin ön incelemelerinde görevlendirilemezler",
+      "Her ön incelemede başkan olarak görevlendirilirler",
+      "Sadece kaymakamlar hakkındaki ön incelemelerde görevlendirilirler",
+      "Ön incelemeyi yalnızca birlikte yürütebilirler",
+      "İzin vermeye yetkili merci adına karar verirler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Başka mercilerin ön incelemelerinde görevlendirilemezler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-56-yp5w",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişi sayısı birden fazla ise ne yapılır?",
+    "options": [
+      "Her biri ayrı rapor vermek zorundadır",
+      "Başkan kura ile mahkemece belirlenir",
+      "Başkan olarak mutlaka en kıdemli hâkim seçilir",
+      "İçlerinden biri başkan olarak belirlenir",
+      "Başkan belirlenmeden inceleme tamamlanır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “İçlerinden biri başkan olarak belirlenir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-57-0sgk",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "I. Yargı kuruluşunda çalışanlar II. Yargı mensupları III. Askerler 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, yukarıdakilerden hangisi/hangileri başka mercilerin ön incelemesinde bulunamazlar?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "Yalnız III",
+      "I, II ve III",
+      "I ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “I, II ve III”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-58-wugu",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, soruşturma izni verilmesine ilişkin karara karşı hakkında inceleme yapılan bölge düzeyinde teşkilatlanan kurum ve kuruluşlarda görev yapan memurlar ve diğer kamu görevlilerinin itirazına aşağıdakilerden hangisi bakar?",
+    "options": [
+      "Bölge idare mahkemeleri",
+      "Danıştay İkinci Dairesi",
+      "İl Cumhuriyet başsavcısı",
+      "Yetkili ve Görevli Mahkeme",
+      "Yargıtayın ilgili ceza dairesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Bölge idare mahkemeleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-59-h07b",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişi veya kişiler hangi yetkilere sahiptir?",
+    "options": [
+      "Yalnız disiplin amirinin yetkilerine",
+      "Sadece Cumhuriyet savcısının adli yetkilerine",
+      "Bakanlık müfettişleri ile kendilerini görevlendiren merciin bütün yetkilerine",
+      "Yalnız tanık dinleme yetkisine",
+      "Hiçbir belge isteme yetkisine sahip değildirler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap C seçeneğidir: “Bakanlık müfettişleri ile kendilerini görevlendiren merciin bütün yetkilerine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-6-bmvs",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İlde ve merkez ilçede görevli memurlar ve diğer kamu görevlileri, kendileri hakkında verilen soruşturma izni kararına karşı aşağıdakilerden hangisine itiraz edebilir?",
+    "options": [
+      "Danıştay İkinci Dairesine",
+      "Yargıtayın ilgili ceza dairesine",
+      "İl asliye ceza mahkemesine",
+      "Bölge idare mahkemesine",
+      "İl ağır ceza mahkemesine"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Bölge idare mahkemesine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-60-6i5t",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanunda hüküm bulunmayan hususlarda ön inceleme ile görevlendirilenler hangi kanuna göre işlem yapabilirler?",
+    "options": [
+      "Devlet Memurları Kanununa",
+      "İdari Yargılama Usulü Kanununa",
+      "Kabahatler Kanununa",
+      "Hukuk Muhakemeleri Kanununa",
+      "Ceza Muhakemeleri Usulü Kanununa"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Ceza Muhakemeleri Usulü Kanununa”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-61-5pel",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme yapanların rapor hazırlamadan önce hakkında inceleme yapılan memur veya diğer kamu görevlisi bakımından yapmaları gereken işlemlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Görevine son vermek",
+      "İfadesini almak",
+      "Disiplin cezası vermek",
+      "Tutuklama kararı vermek",
+      "Kamu davası açmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap B seçeneğidir: “İfadesini almak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-62-hvgb",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun uyarınca bir lise müdürü, hakkında, valinin soruşturma izni vermesi kararına karşı hangi mahkeme nezdinde itiraz edilir?",
+    "options": [
+      "Sulh ceza mahkemesi",
+      "Danıştay İkinci Dairesi",
+      "Asliye ceza mahkemesi",
+      "Asliye Hukuk Mahkemesi",
+      "Bölge idare mahkemesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “Bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-63-t7q4",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merciin soruşturma izni konusundaki otuz günlük karar verme süresi zorunlu hâllerde nasıl uzatılabilir?",
+    "options": [
+      "On beş günü geçmemek üzere bir defa",
+      "Otuz günü geçmemek üzere iki defa",
+      "On gün olmak üzere sınırsız sayıda",
+      "Üç ayı geçmemek üzere bir defa",
+      "Hiçbir şekilde uzatılamaz"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap A seçeneğidir: “On beş günü geçmemek üzere bir defa”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-64-xlji",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, soruşturma izni verilmesine ilişkin karara karşı hakkında inceleme yapılan büyükşehir belediye başkanının itirazına aşağıdakilerden hangisi bakar?",
+    "options": [
+      "Bölge idare mahkemeleri",
+      "İl Cumhuriyet başsavcısı",
+      "Danıştay İkinci Dairesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "Yetkili ve Görevli Mahkeme"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Danıştay İkinci Dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-65-e1td",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izninin kapsamına, şikâyet, ihbar veya iddia konusu olayların yanında aşağıdakilerden hangisi de girer?",
+    "options": [
+      "İlgisiz bütün kişisel fiiller",
+      "Her türlü disiplin uyuşmazlığı",
+      "Sadece farklı tarihlerde işlenen özel hukuk fiilleri",
+      "Bunlara bağlı olarak ileride soruşturma sırasında ortaya çıkabilecek konular",
+      "İzin konusu olayla hiçbir bağlantısı olmayan suçlar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Bu nedenle doğru cevap D seçeneğidir: “Bunlara bağlı olarak ileride soruşturma sırasında ortaya çıkabilecek konular”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-66-e6ke",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıkarsa ne yapılır?",
+    "options": [
+      "Mevcut izin kendiliğinden bütün fiilleri kapsar",
+      "Dosya işlemden kaldırılır",
+      "Yeniden izin alınır",
+      "Yalnız disiplin soruşturması yapılır",
+      "Yeni izin alınmaksızın doğrudan dava açılır"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Bu nedenle doğru cevap C seçeneğidir: “Yeniden izin alınır”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-67-5oag",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Merkez ilçelerdeki belde belediye başkanları ve belde belediye meclisi üyeleri hakkında verilen soruşturma izni kararına karşı yapılan itirazı aşağıdakilerden hangisi inceler?",
+    "options": [
+      "İl ağır ceza mahkemesi",
+      "Bölge idare mahkemesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "Danıştay İkinci Dairesi",
+      "İl Cumhuriyet başsavcısı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-68-uw2r",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, soruşturma iznine ilişkin karara karşı hakkında inceleme yapılan Valinin itirazına aşağıdakilerden hangisi bakar?",
+    "options": [
+      "Bölge idare mahkemeleri",
+      "İlgili bakan",
+      "Danıştay İkinci Dairesi",
+      "Yargıtayın ilgili ceza dairesi",
+      "İl Cumhuriyet başsavcısı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Danıştay İkinci Dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-69-a50i",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre, soruşturma izni verilmesine ilişkin karara karşı hakkında inceleme yapılan merkez ilçede çalışan mahalle muhtarının itirazına aşağıdakilerden hangisi bakar?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "Vali",
+      "Yargıtayın ilgili ceza dairesi",
+      "Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi",
+      "Kaymakam"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-7-i2v8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni konusundaki kararını zorunlu hâllerde kaç günü geçmemek üzere bir defa uzatabilir?",
+    "options": [
+      "Altmış gün",
+      "Yirmi gün",
+      "Otuz gün",
+      "Kırkbeş gün",
+      "Onbeş gün"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap E seçeneğidir: “Onbeş gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-70-df21",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma konusu fiilin hukuki niteliğinin değişmesi hâlinde soruşturma izni bakımından sonuç nedir?",
+    "options": [
+      "Mutlaka yeniden izin alınır",
+      "Soruşturma kendiliğinden sona erer",
+      "Dosya Danıştay İkinci Dairesine gönderilir",
+      "Yeniden izin alınması gerekmez",
+      "İzin kararı hükümsüz olur"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Bu nedenle doğru cevap D seçeneğidir: “Yeniden izin alınması gerekmez”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-71-ptqj",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, soruşturma izni verilmesine veya verilmemesine ilişkin kararını kimlere bildirir?",
+    "options": [
+      "Yalnız Cumhuriyet başsavcılığına",
+      "Cumhuriyet başsavcılığına, hakkında inceleme yapılan memur veya diğer kamu görevlisine ve varsa şikâyetçiye",
+      "Sadece hakkında inceleme yapılan kişiye",
+      "Yalnız şikâyetçiye",
+      "Sadece Danıştay İkinci Dairesine"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Cumhuriyet başsavcılığına, hakkında inceleme yapılan memur veya diğer kamu görevlisine ve varsa şikâyetçiye”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-72-fvz9",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre itiraz üzerine verilen kararların niteliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Kesindir",
+      "Temyize tabidir",
+      "İzin vermeye yetkili merci tarafından değiştirilebilir",
+      "Her durumda Yargıtayca incelenir",
+      "Yalnız şikâyetçinin onayıyla kesinleşir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Kesindir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-73-cc1b",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merciler tarafından verilen işleme koymama kararına karşı kim itiraz yoluna gidebilir?",
+    "options": [
+      "Yalnız hakkında inceleme yapılan memur",
+      "Kaymakam",
+      "İlgili kurumun denetim elemanı",
+      "Şikâyetçi",
+      "Yalnız Cumhuriyet başsavcılığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Şikâyetçi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-74-5on6",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet Başsavcıları, 4483 sayılı Kanun kapsamına giren bir ihbar aldıklarında öncelikle ne yaparlar?",
+    "options": [
+      "Kaybolma ihtimali bulunan delilleri tespit edip, ifade almaksızın dosyayı yetkili mercie gönderirler",
+      "Hemen memurun ifadesini alırlar",
+      "Memuru gözaltına alırlar",
+      "İddianame hazırlayıp dava açarlar",
+      "Konuyu basına bildirirler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap A seçeneğidir: “Kaybolma ihtimali bulunan delilleri tespit edip, ifade almaksızın dosyayı yetkili mercie gönderirler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-75-nld8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre memurlar ve diğer kamu görevlileri hakkında yapılacak ihbar ve şikâyetlerin işleme konulabilmesi için aşağıdakilerden hangisi birlikte aranır?",
+    "options": [
+      "Yalnız dilekçe sahibinin imzası",
+      "İhbar veya şikâyetin soyut ve genel nitelikte olmaması; kişi veya olayın belirtilmesi; iddiaların ciddî bulgu ve belgelere dayanması; dilekçe sahibinin doğru ad, soyad ve imzası ile iş veya ikametgâh adresinin bulunması",
+      "Yalnız T.C. kimlik numarası ve telefon numarası",
+      "İhbarın noter aracılığıyla yapılması ve iki tanık gösterilmesi",
+      "Yalnız olay tarihi ve olay yerinin belirtilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap B seçeneğidir: “İhbar veya şikâyetin soyut ve genel nitelikte olmaması; kişi veya olayın belirtilmesi; iddiaların ciddî bulgu ve belgelere dayanması; dilekçe sahibinin doğru ad, soyad ve imzası ile iş veya ikametgâh adresinin bulunması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-76-c2rl",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İhbar veya şikâyetlerde ad, soyad ve imza şartının aranmayacağı istisnai durum aşağıdakilerden hangisidir?",
+    "options": [
+      "İhbarın e-posta ile yapılması",
+      "İhbarcının memur olması",
+      "İddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması",
+      "Suçun zaman aşımına uğramak üzere olması",
+      "Şikâyetçinin yurt dışında yaşaması"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap C seçeneğidir: “İddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-77-92t4",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci, suç işlendiğini öğrendiğinde başlatılan sürecin adı nedir?",
+    "options": [
+      "Disiplin Soruşturması",
+      "Kovuşturma",
+      "İdari Denetim",
+      "Ön İnceleme",
+      "Yargılama"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Ön İnceleme”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-78-bedm",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aşağıdakilerden hangisi ön inceleme yapmakla görevlendirilemez?",
+    "options": [
+      "İzin vermeye yetkili merciin kendisi",
+      "Hakkında inceleme yapılanın üstü konumundaki memurlar",
+      "Kurumun müfettişleri",
+      "Başka bir kamu kurumunun denetim elemanları",
+      "Yargı mensupları ve yargı kuruluşlarında çalışanlar"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Yargı mensupları ve yargı kuruluşlarında çalışanlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-79-p2rq",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme yapanların yetkileri arasında aşağıdakilerden hangisi vardır?",
+    "options": [
+      "Hakkında inceleme yapılan memurun ifadesini almak ve belge toplamak",
+      "Sanığı tutuklamak",
+      "Memuru görevden uzaklaştırmak (açığa almak)",
+      "Memurun maaşını kesmek",
+      "Telefon dinleme kararı vermek"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Hakkında inceleme yapılan memurun ifadesini almak ve belge toplamak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-8-bche",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Yetkili merci ön inceleme dâhil kararını zorunlu hâllerde kaç gün süreyle bir defa uzatılabilir?",
+    "options": [
+      "7",
+      "15",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap B seçeneğidir: “15”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-80-wspb",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Zorunlu hâllerde soruşturma izni verme süresi en fazla ne kadar uzatılabilir?",
+    "options": [
+      "10 Gün",
+      "15 Gün",
+      "20 Gün",
+      "30 Gün",
+      "Uzatılamaz"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap B seçeneğidir: “15 Gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-81-ftu8",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmesine veya verilmemesine ilişkin kararlarda neyin gösterilmesi zorunludur?",
+    "options": [
+      "Memurun sicil notu",
+      "Memurun yaşı",
+      "Gerekçe",
+      "Memurun eğitim durumu",
+      "Memurun sendikası"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap C seçeneğidir: “Gerekçe”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-82-xu9u",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma sırasında, izin verilen olaydan tamamen ayrı veya farklı bir suç ortaya çıkarsa ne yapılır?",
+    "options": [
+      "Disiplin cezası verilir",
+      "Doğrudan dava açılır",
+      "Mevcut izinle soruşturmaya devam edilir",
+      "Yeniden izin alınması zorunludur",
+      "Dosya işlemden kaldırılır"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 8’e göre soruşturma izni olay ve ona bağlı sonradan ortaya çıkan konuları kapsar; tamamen ayrı veya farklı bir fiil için yeniden izin gerekir, hukuki nitelik değişikliği ise yeni izin gerektirmez. Bu nedenle doğru cevap D seçeneğidir: “Yeniden izin alınması zorunludur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-83-dx1a",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Suçun hukuki niteliğinin değişmesi durumunda soruşturma izni bakımından ne yapılır?",
+    "options": [
+      "Yeniden izin alınır",
+      "Savcı davayı reddeder",
+      "Soruşturma durdurulur",
+      "Dosya Valiliğe gönderilir",
+      "Yeniden izin alınmasını gerektirmez"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 8’e göre suçun hukuki niteliğinin değişmesi yeniden izin alınmasını gerektirmez. Bu nedenle doğru cevap E seçeneğidir: “Yeniden izin alınmasını gerektirmez”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-84-ctn5",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmesine ilişkin karara karşı kim itiraz edebilir?",
+    "options": [
+      "Hakkında inceleme yapılan memur",
+      "Şikâyetçi",
+      "Cumhuriyet başsavcısı",
+      "Vali",
+      "Tanıklar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “Hakkında inceleme yapılan memur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-85-3xp2",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Bir ilçe belediye başkanı hakkında soruşturma izni verilmesi veya verilmemesi kararına karşı itiraz hangi mercie yapılır?",
+    "options": [
+      "Bölge idare mahkemesi",
+      "İl İdare Kurulu",
+      "Danıştay İkinci Dairesi",
+      "Ağır ceza mahkemesi",
+      "Anayasa Mahkemesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Danıştay İkinci Dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-86-nx8j",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Bir kaymakam hakkında verilen soruşturma izni kararına itiraz nereye yapılır?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "Yargıtay",
+      "İl İdare Kurulu",
+      "Bölge idare mahkemesi",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap D seçeneğidir: “Bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-87-7s76",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Madde 3/a kapsamında ilçede görevli bir memur hakkında verilen soruşturma izni kararına karşı itiraza hangi merci bakar?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "İl ağır ceza mahkemesi",
+      "İçişleri Bakanlığı",
+      "Yargıtayın ilgili ceza dairesi",
+      "Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “Yetkili merciin yargı çevresinde bulunduğu bölge idare mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-88-7hw6",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İtiraz mercilerinin verdiği kararların niteliği nedir?",
+    "options": [
+      "Valinin onayına tabidir",
+      "Kesindir",
+      "Bir üst mahkemeye taşınabilir",
+      "Tavsiye niteliğindedir",
+      "Temyiz edilebilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Kesindir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-89-xldy",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Aşağıdakilerden hangisi hakkında verilen soruşturma izni kararına karşı itirazı Danıştay İkinci Dairesi değil, yetkili merciin yargı çevresindeki bölge idare mahkemesi inceler?",
+    "options": [
+      "İlçede görevli memur",
+      "İl belediye başkanı",
+      "İl genel meclisi üyesi",
+      "Büyükşehir belediye başkanı",
+      "İlçe belediye başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap A seçeneğidir: “İlçede görevli memur”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-9-rxbj",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merci, işin özelliğine göre ön incelemenin başka bir kamu kurum veya kuruluşunun elemanlarıyla yaptırılmasını istediğinde bu isteğin yerine getirilmesi neye bağlıdır?",
+    "options": [
+      "Şikâyetçinin onayına",
+      "Bölge idare mahkemesinin kararına",
+      "İlgili kuruluşun takdirine",
+      "Yargıtay Cumhuriyet Başsavcısının iznine",
+      "Hakkında inceleme yapılan kişinin kabulüne"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap C seçeneğidir: “İlgili kuruluşun takdirine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-90-fpok",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanun’a göre yetkili merci, Madde 7’de belirtilen süreler içinde hangi konuda karar vermek zorundadır?",
+    "options": [
+      "Disiplin cezasının türü konusunda",
+      "Soruşturma izni verilmesi veya verilmemesi konusunda",
+      "Kamu davasının sonucu konusunda",
+      "Memurun görev yerinin değiştirilmesi konusunda",
+      "Tazminat miktarı konusunda"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 7’ye göre yetkili merci soruşturma izni kararını ön inceleme dâhil en geç otuz günde verir; süre zorunlu hâllerde on beş günü geçmemek üzere bir defa uzatılabilir. Bu nedenle doğru cevap B seçeneğidir: “Soruşturma izni verilmesi veya verilmemesi konusunda”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-91-ifpq",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "4483 sayılı Kanuna göre, iddiaların sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması hâlinde aşağıdaki hangi bilgilerin doğruluğu şartı aranmaz?",
+    "options": [
+      "Kişi veya olayın belirtilmesi",
+      "İddiaların ciddî bulgu ve belgelere dayanması",
+      "İhbar veya şikâyetin soyut ve genel nitelikte olmaması",
+      "Ad, soyad ve imza ile iş veya ikametgâh adresi",
+      "İddia konusu fiilin görev sebebiyle işlenmiş olması"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap D seçeneğidir: “Ad, soyad ve imza ile iş veya ikametgâh adresi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-92-ap2q",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Soruşturma izni verilmesi kararına karşı yapılan itiraz reddedilirse ne olur?",
+    "options": [
+      "Dosya işlemden kaldırılır",
+      "Memur açığa alınır",
+      "Yeniden ön inceleme yapılır",
+      "Disiplin soruşturması başlar",
+      "Soruşturma izni kesinleşir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap E seçeneğidir: “Soruşturma izni kesinleşir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-93-jer2",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilenler, hakkında inceleme yapılan memurun ifadesini almak zorunda mıdır?",
+    "options": [
+      "Hayır, takdirlerine bağlıdır",
+      "Evet, ifade almak suretiyle yetkileri dahilindeki bilgi ve belgeleri toplarlar",
+      "Sadece tanık ifadesi yeterlidir",
+      "Sadece yazılı savunma isteyebilirler",
+      "Savcı ifade aldıysa gerek yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap B seçeneğidir: “Evet, ifade almak suretiyle yetkileri dahilindeki bilgi ve belgeleri toplarlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-94-rq6i",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Cumhuriyet başsavcıları, 4483 sayılı Kanun kapsamındaki bir ihbar veya şikâyet üzerine evrakı ilgili makama gönderirken hakkında ihbar veya şikâyette bulunulan memur veya diğer kamu görevlisi bakımından hangi işlemi yapmaksızın soruşturma izni isterler?",
+    "options": [
+      "Evrakın bir örneğini ilgili makama gönderme",
+      "Kaybolma ihtimali bulunan delilleri tespit etme",
+      "İfadesine başvurma",
+      "İlgili makamdan soruşturma izni isteme",
+      "İvedilikle toplanması gereken delilleri tespit etme"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4, Cumhuriyet başsavcılarının izin öncesi yalnız ivedi ve kaybolma ihtimali bulunan delilleri tespit edebileceğini, ilgili kişinin ifadesine başvuramayacağını ve ihbar-şikâyetlerin taşıması gereken şartları düzenler. Bu nedenle doğru cevap C seçeneğidir: “İfadesine başvurma”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-95-wnym",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merci, suçun işlendiğini öğrendiğinde ön incelemeyi kimlere yaptırabilir?",
+    "options": [
+      "Sadece kendi kurumunun müfettişlerine",
+      "Sadece Cumhuriyet Savcısına",
+      "Sadece Hâkimlere",
+      "Sadece Emniyet Müdürlüğüne",
+      "Bizzat kendisi yapabileceği gibi, görevlendireceği denetim elemanlarına veya üst memurlara"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 5, ön incelemenin başlatılmasını, kimler eliyle yapılabileceğini, görevlendirilecek kişilerin seçimini ve görevlendirme yasaklarını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Bizzat kendisi yapabileceği gibi, görevlendireceği denetim elemanlarına veya üst memurlara”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-96-2cqg",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme sonucunda düzenlenen raporda birden fazla ön inceleme elemanının farklı görüşleri varsa ne yapılır?",
+    "options": [
+      "Farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir",
+      "Oylama yapılır, çoğunluk ne derse o olur",
+      "Rapor geçersiz sayılır, yeniden inceleme yapılır",
+      "En kıdemli üyenin görüşü esas alınır",
+      "Kura çekilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap A seçeneğidir: “Farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-97-cd6i",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "Ön inceleme ile görevlendirilen kişiler, kimlerin bütün yetkilerini haizdir?",
+    "options": [
+      "Devlet Memurları Kanunu",
+      "Bakanlık müfettişleri ile kendilerini görevlendiren merciin",
+      "Polis Vazife ve Salahiyet Kanunu",
+      "İcra İflas Kanunu",
+      "Danıştay Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap B seçeneğidir: “Bakanlık müfettişleri ile kendilerini görevlendiren merciin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-98-1l30",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "İzin vermeye yetkili merci, ön inceleme raporunu aldıktan sonra neye karar verir?",
+    "options": [
+      "Memurun görevden uzaklaştırılmasına",
+      "Memurun maaş kesimine",
+      "Soruşturma izni verilmesine veya verilmemesine",
+      "Memurun tutuklanmasına",
+      "Davanın açılmasına"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6, ön inceleme yapanların yetkilerini, hakkında inceleme yapılanın ifadesinin alınmasını, bilgi ve belgelerin toplanmasını, raporun hazırlanmasını ve kararların gerekçeli olmasını düzenler. Bu nedenle doğru cevap C seçeneğidir: “Soruşturma izni verilmesine veya verilmemesine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-on-inceleme-ve-sorusturma-izni-y23dt-mtn3cu9y-99-omha",
+    "topic_id": "t-on-inceleme-ve-sorusturma-izni-y23dt",
+    "prompt": "TBMM’de görevli memurlar hakkında verilen soruşturma izni kararına itiraz nereye yapılır?",
+    "options": [
+      "Ankara Bölge idare mahkemesi",
+      "Yargıtay",
+      "Danıştay İkinci Dairesi",
+      "Anayasa Mahkemesi",
+      "TBMM Başkanlık Divanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9, izin kararının bildirilmesini, kimlerin hangi kararlara itiraz edebileceğini, on günlük itiraz süresini, itiraz mercilerini ve kararların kesinliğini düzenler. Bu nedenle doğru cevap C seçeneğidir: “Danıştay İkinci Dairesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:10:58.944849+00:00",
+    "updated_at": "2026-09-04T15:10:58.944849+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfyby-0-mp32",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Trablusgarp Savaşı sırasında Osmanlı tahtında bulunan padişah aşağıdakilerden hangisidir?",
+    "options": [
+      "II. Abdülhamid",
+      "V. Murad",
+      "V. Mehmet Reşad",
+      "VI. Mehmet Vahdettin",
+      "I. Abdülmecid"
+    ],
+    "answer_index": 2,
+    "explanation": "Trablusgarp Savaşı 1911-1912 yıllarında V. Mehmet Reşad döneminde yaşanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-1-75y1",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "İtalya'nın Trablusgarp'ı işgaliyle ele geçirmek istediği bölge, günümüzde büyük ölçüde hangi devletin sınırları içinde yer almaktadır?",
+    "options": [
+      "Libya",
+      "Tunus",
+      "Cezayir",
+      "Mısır",
+      "Fas"
+    ],
+    "answer_index": 0,
+    "explanation": "Trablusgarp ve Bingazi, günümüz Libya toprakları içindedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-10-8odk",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Uşi Antlaşması'nın imzalandığı Ouchy, İsviçre'nin hangi kentinin yakınında yer alır?",
+    "options": [
+      "Cenevre",
+      "Bern",
+      "Zürih",
+      "Basel",
+      "Lozan"
+    ],
+    "answer_index": 4,
+    "explanation": "Uşi (Ouchy), Lozan yakınlarında bulunan bir yerleşimdir; antlaşma burada imzalanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-11-6j95",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Aşağıdakilerden hangisi Uşi Antlaşması'nın hükümlerinden biri YANLIŞTIR?",
+    "options": [
+      "Trablusgarp ve Bingazi İtalya'ya bırakılmıştır.",
+      "On İki Ada İtalya'nın elinde kalmıştır.",
+      "Edirne ve Kırklareli Osmanlı Devleti'ne bırakılmıştır.",
+      "Trablusgarp Savaşı sona ermiştir.",
+      "Osmanlı Devleti bölgedeki askerlerini geri çekmiştir."
+    ],
+    "answer_index": 2,
+    "explanation": "Edirne ve Kırklareli, Uşi Antlaşması ile değil, II. Balkan Savaşı sonrasında geri alınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-12-x1md",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Aşağıdaki kavramlardan hangisi, güçlü devletlerin ekonomik ve siyasi çıkarları için zayıf ülkeler üzerinde egemenlik kurma siyaseti olarak tanımlanır?",
+    "options": [
+      "laiklik",
+      "devletçilik",
+      "halkçılık",
+      "Sömürgecilik",
+      "cumhuriyetçilik"
+    ],
+    "answer_index": 3,
+    "explanation": "İtalya'nın Trablusgarp'a yönelmesinde sömürgecilik anlayışı etkili olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-13-cuku",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Uşi Antlaşması sonrasında On İki Ada'nın Osmanlı Devleti'ne geri verilememesinin temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Balkan Savaşları nedeniyle İtalya'nın adaları boşaltmaması",
+      "Osmanlı Devleti'nin adalardan resmen vazgeçmesi",
+      "Adaların İngiltere'ye devredilmesi",
+      "Yunanistan'ın adaları işgal etmesi",
+      "Rusya'nın adaları yönetmeye başlaması"
+    ],
+    "answer_index": 0,
+    "explanation": "Adaların iadesi Balkan Savaşları sonrasına bırakılmış; İtalya savaş ortamını gerekçe göstererek adalardan çekilmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-14-y0f8",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Trablusgarp Savaşı, - - - - Antlaşması ile sona ermiş; - - - - İtalya'ya bırakılmıştır.",
+    "options": [
+      "Londra / Edirne ve Kırklareli",
+      "Uşi / Trablusgarp ve Bingazi",
+      "Gümrü / Kars ve Ardahan",
+      "Ankara / Maraş ve Urfa",
+      "Lozan / Boğazlar"
+    ],
+    "answer_index": 1,
+    "explanation": "Uşi Antlaşması, Trablusgarp ve Bingazi'nin İtalya'ya bırakılmasını kabul etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-15-n1ml",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Aşağıdaki olayların gerçekleşme sırası hangi seçenekte doğru verilmiştir? I. Trablusgarp Savaşı'nın başlaması II. Uşi Antlaşması'nın imzalanması III. I. Balkan Savaşı'nın başlaması",
+    "options": [
+      "I - III - II",
+      "I - II - III",
+      "II - I - III",
+      "II - III - I",
+      "III - I - II"
+    ],
+    "answer_index": 0,
+    "explanation": "Trablusgarp Savaşı 1911'de başladı; I. Balkan Savaşı Ekim 1912'de başladı; Uşi Antlaşması aynı ayın sonlarında imzalandı.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-16-x3s2",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "On İki Ada'nın coğrafi olarak bulunduğu deniz aşağıdakilerden hangisidir?",
+    "options": [
+      "Karadeniz",
+      "Ege Denizi",
+      "Akdeniz",
+      "Marmara Denizi",
+      "Adriyatik Denizi"
+    ],
+    "answer_index": 1,
+    "explanation": "On İki Ada, Ege Denizi'nde bulunan adalar topluluğudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-17-hmbw",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Aşağıdakilerden hangisi Trablusgarp Savaşı sırasında Osmanlı Devleti'nin savunmasını zorlaştıran bir unsur değildir?",
+    "options": [
+      "Mısır'ın İngiliz denetiminde olması",
+      "Deniz gücünün yetersiz kalması",
+      "Bölgede güçlü bir Osmanlı donanmasının bulunması",
+      "Bölgenin ana vatandan uzak olması",
+      "İtalya'nın deniz üstünlüğüne sahip olması"
+    ],
+    "answer_index": 2,
+    "explanation": "Osmanlı donanması güçlü değildi; bu nedenle deniz yoluyla asker ve malzeme sevkiyatı yapılamadı.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-18-d4ky",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Mustafa Kemal Trablusgarp Savaşı'nda hangi rütbeyle görev yapmıştır?",
+    "options": [
+      "Mirliva",
+      "Müşir",
+      "Yüzbaşı",
+      "Kurmay Binbaşı",
+      "Kaymakam"
+    ],
+    "answer_index": 3,
+    "explanation": "Mustafa Kemal Trablusgarp'ta Kurmay Binbaşı rütbesiyle görev yapmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-19-5hgs",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Trablusgarp Savaşı'nda Osmanlı Devleti'nin bölgeye düzenli ordu gönderememesi, en çok hangi askerî gücün önemini ortaya koymuştur?",
+    "options": [
+      "Hava gücünün",
+      "Demiryolu gücünün",
+      "Zırhlı birliklerin",
+      "Topçu birliklerinin",
+      "Deniz gücünün"
+    ],
+    "answer_index": 4,
+    "explanation": "Deniz yollarının İtalyan denetiminde olması, Osmanlı'nın Trablusgarp'a düzenli sevkiyat yapmasını engellemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-2-bkb7",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Trablusgarp'a gizlice giden Osmanlı subaylarının geçmek zorunda kaldığı ülke aşağıdakilerden hangisidir?",
+    "options": [
+      "Yunanistan",
+      "Sırbistan",
+      "Bulgaristan",
+      "Romanya",
+      "Mısır"
+    ],
+    "answer_index": 4,
+    "explanation": "Osmanlı subayları, İngiliz denetimindeki Mısır üzerinden gizlice Trablusgarp'a ulaşmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-20-ns1u",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Balkan devletlerinin Osmanlı Devleti'ne karşı oluşturduğu birlik aşağıdakilerden hangisidir?",
+    "options": [
+      "Heyet-i Temsiliye",
+      "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "Kuva-yı Milliye",
+      "Balkan İttifakı",
+      "Kuva-yı İnzibatiye"
+    ],
+    "answer_index": 3,
+    "explanation": "Bulgaristan, Sırbistan, Yunanistan ve Karadağ Balkan İttifakı'nı oluşturmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-21-ip1x",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Balkan İttifakı'nın kurulmasında Rusya'nın Balkan Slavlarını destekleyen politikası aşağıdakilerden hangisiyle adlandırılır?",
+    "options": [
+      "Panislamizm",
+      "Turancılık",
+      "Osmanlıcılık",
+      "Liberalizm",
+      "Panslavizm"
+    ],
+    "answer_index": 4,
+    "explanation": "Rusya, Panslavizm politikasıyla Balkan devletlerinin Osmanlı Devleti'ne karşı yakınlaşmasını desteklemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-22-ttc4",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "I. Balkan Savaşı'nın başladığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "29 Eylül 1911",
+      "8 Ekim 1912",
+      "18 Ekim 1912",
+      "23 Ocak 1913",
+      "29 Haziran 1913"
+    ],
+    "answer_index": 1,
+    "explanation": "I. Balkan Savaşı 8 Ekim 1912'de Karadağ'ın Osmanlı Devleti'ne saldırısıyla başlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-23-d9ml",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Londra Antlaşması'nda Ege adalarının geleceğiyle ilgili kesin kararın verilmesi hangi devletlere bırakılmıştır?",
+    "options": [
+      "Balkan İttifakı'na",
+      "Osmanlı Meclis-i Mebusanına",
+      "Büyük Devletlere",
+      "Milletler Cemiyetine",
+      "Rusya'ya"
+    ],
+    "answer_index": 2,
+    "explanation": "Londra Antlaşması, Ege adalarının statüsünü belirleme yetkisini büyük devletlere bırakmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-24-g4ez",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "Midye-Enez hattının iki uç noktası sırasıyla hangi denizlere açılır?",
+    "options": [
+      "Karadeniz ve Ege Denizi",
+      "Marmara Denizi ve Akdeniz",
+      "Karadeniz ve Marmara Denizi",
+      "Ege Denizi ve Akdeniz",
+      "Marmara Denizi ve Ege Denizi"
+    ],
+    "answer_index": 0,
+    "explanation": "Midye Karadeniz kıyısında, Enez ise Ege Denizi kıyısındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-25-awpt",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "I. Balkan Savaşı sonunda bağımsızlığı kabul edilen Balkan devleti aşağıdakilerden hangisidir?",
+    "options": [
+      "Makedonya",
+      "Bosna-Hersek",
+      "Arnavutluk",
+      "Karadağ",
+      "Bulgaristan"
+    ],
+    "answer_index": 2,
+    "explanation": "I. Balkan Savaşı sonrasında Arnavutluk'un bağımsızlığı kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-26-q1gy",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "II. Balkan Savaşı'nın çıkmasında aşağıdakilerden hangisi etkili olmuştur?",
+    "options": [
+      "Makedonya'nın paylaşımı konusunda anlaşmazlık yaşanması",
+      "Trablusgarp'ın İtalya'ya bırakılması",
+      "Boğazların uluslararası yönetime açılması",
+      "Kapitülasyonların kaldırılması",
+      "Musul'un İngiltere'ye bırakılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Balkan devletleri, I. Balkan Savaşı ile elde edilen Makedonya topraklarının paylaşımında anlaşamamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  },
+  {
+    "id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76-mt9sfybz-27-2x83",
+    "topic_id": "t-osmanli-nin-dagilma-donemi-trablusgarp-b-txh76",
+    "prompt": "II. Balkan Savaşı sonunda Romanya'nın elde ettiği önemli bölge aşağıdakilerden hangisidir?",
+    "options": [
+      "Doğu Trakya",
+      "Makedonya",
+      "Girit",
+      "Arnavutluk",
+      "Güney Dobruca"
+    ],
+    "answer_index": 4,
+    "explanation": "Romanya, II. Balkan Savaşı sonunda Güney Dobruca'yı elde etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:29.574485+00:00",
+    "updated_at": "2026-08-26T07:44:29.574485+00:00"
+  }
+]

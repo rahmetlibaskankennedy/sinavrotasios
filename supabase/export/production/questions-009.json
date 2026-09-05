@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-8-yukx",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "Özel eğitim ve rehabilitasyon merkezleri, özel eğitim gerektiren bireyler için hangi amaca yönelik faaliyet gösterir?",
+    "options": [
+      "Belediye hizmetlerinde öğrencilere uygulamalı staj yaptırmak",
+      "Mesleki yeterlilik belgesi düzenleyerek çalışma izni vermek",
+      "Bağımsız yaşam becerilerini geliştirip topluma uyumlarını sağlamak",
+      "Yükseköğretime giriş sınavlarına öğrenci hazırlamak",
+      "Öğrenci yurdu ve barınma hizmeti sunmak"
+    ],
+    "answer_index": 2,
+    "explanation": "5580 sayılı Kanun’un 2 maddesi uyarınca doğru cevap: \"Bağımsız yaşam becerilerini geliştirip topluma uyumlarını sağlamak\". İlgili hüküm: \"Özel eğitim gerektiren bireylerin konuşma ve dil gelişim güçlüğü, ses bozuklukları, zihinsel, fiziksel, duyusal, sosyal, duygusal veya davranış problemlerini ortadan kaldırmak ya da etkilerini en az seviyeye indirmek, yeteneklerini yeniden en üst seviyeye çıkarmak, temel öz bakım becerilerini ve bağımsız yaşam becerilerini geliştirmek ve topluma uyumlarını sağlamak amacıyla faaliyet gösteren özel öğretim kurumlarını, l) Milletlerarası özel öğretim kurumları:\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-amac-kapsam-ve-tanimlar-yomgh-mtn6dj6v-9-udwi",
+    "topic_id": "t-amac-kapsam-ve-tanimlar-yomgh",
+    "prompt": "5580 sayılı Özel Öğretim Kurumları Kanunu’nun 1 inci maddesine göre Kanun’un amacı kapsamında aşağıdakilerden hangisi düzenlenmektedir?",
+    "options": [
+      "Belediyelerin imar uygulamalarının yürütülmesi",
+      "Kamu personelinin aylık ve özlük haklarının belirlenmesi",
+      "Devlet okullarında merkezî sınav yerleştirmelerinin yapılması",
+      "Özel öğretim kurumlarına kurum açma izni verilmesi",
+      "Yükseköğretim kurumlarının akademik takviminin hazırlanması"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 1 maddesi uyarınca doğru cevap: \"Özel öğretim kurumlarına kurum açma izni verilmesi\". İlgili hüküm: \"Bu Kanunun amacı, Türkiye Cumhuriyeti uyruklu gerçek kişiler, özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılacak özel öğretim kurumlarına kurum açma izni verilmesi, kurumun nakli, devri, personel çalıştırılması, kurumlara yapılacak malî destek ve bu kurumların eğitim-öğretim, yönetim, denetim ve gözetimi ile yabancılar tarafından açılmış bulunan özel öğretim kurumlarının; eğitim-öğretim, yönetim, denetim, gözetim ve personel çalıştırılmasına ilişkin usûl ve esasları düzenlemektir.\"",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:30.838867+00:00",
+    "updated_at": "2026-09-04T16:35:30.838867+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-0-3z64",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Kitabı okudu, defteri de yazdı.",
+      "Elbiseyi giydi ve ayakkabıyı.",
+      "Kitabı okudu ve anladı.",
+      "Yemeği yedi ve içti.",
+      "Mektubu yazdı ve gönderdi."
+    ],
+    "answer_index": 1,
+    "explanation": "'Ayakkabıyı' sözcüğünden sonra bir yüklem eksik bırakılmıştır (giydi tekrar edilmemiş).",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-1-3ypy",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmıştır?",
+    "options": [
+      "Daha sonra görüşürüz.",
+      "Yeniden görüşürüz.",
+      "Yeniden tekrar görüşürüz.",
+      "Yarın görüşürüz.",
+      "Tekrar görüşürüz."
+    ],
+    "answer_index": 2,
+    "explanation": "“Yeniden” ve “tekrar” aynı anlamı taşıdığından ikisinden biri gereksizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-10-wacg",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde çatı ve ek uyuşmazlığından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu kitap herkes tarafından okunmalı.",
+      "Bu kitabı herkes okumalı.",
+      "Bu kitabı herkes tarafından okunmalı.",
+      "Bu kitap herkesçe okunuyor.",
+      "Herkes bu kitabı okumalı."
+    ],
+    "answer_index": 2,
+    "explanation": "Edilgen çatılı “okunmalı” fiilinin öznesi yalın hâlde olmalıdır; “bu kitabı” yerine “bu kitap” denmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-11-zwqv",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde deyimlerin karıştırılmasından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Küçük bir olayı abartarak anlattı.",
+      "Küçük bir olayı pireyi deve yaparak anlattı.",
+      "Küçük bir olayı olduğundan büyük anlattı.",
+      "Olayı gereğinden fazla büyüttü.",
+      "Küçük bir olayı pireyi deveye çevirerek anlattı."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru deyim “pireyi deve yapmak”tır; “pireyi deveye çevirmek” kalıplaşmış deyim değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-12-plt4",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde çatı uyumsuzluğundan doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Kitap okundu ve beğenildi.",
+      "Odayı temizledi ve düzenledi.",
+      "Kapıyı açtı ve kapadı.",
+      "Mektubu yazdı ve gönderdi.",
+      "Yemeği yedi ve içti."
+    ],
+    "answer_index": 4,
+    "explanation": "'Yedi' etken, ancak 'içti' de etkendir; nesne uyumu bozulmuştur çünkü 'yemeği' hem yenir hem içilemez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-13-ayx4",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'kadar' sözcüğünün kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      "Senin kadar çalışkanım.",
+      "Senin kadar çalışkan değilim.",
+      "Senden daha çalışkanım.",
+      "Sen kadar çalışkanım.",
+      "Seninle aynı derecede çalışkanım."
+    ],
+    "answer_index": 3,
+    "explanation": "'Kadar' edatı isimlerin ilgi/yalın hâliyle değil, çoğunlukla ilgi hâli ekiyle kullanılır; 'sen kadar' yerine 'senin kadar' denmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-14-o7og",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz yardımcı fiil kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Sınavı kazanma başarısını gösterdi.",
+      "Sınavı kazandı.",
+      "Kitabı okudu.",
+      "Eve gitti.",
+      "Yemek yedi."
+    ],
+    "answer_index": 0,
+    "explanation": "'Kazandı' yerine gereksiz uzatılmış bir ifade ('kazanma başarısını gösterdi') kullanılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-15-3mte",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+    "options": [
+      "Yalnız ve tek başına kaldı.",
+      "Sanırım kesinlikle gelecek.",
+      "Geri iade etti.",
+      "Kitabı okudum ve beğendim.",
+      "Yarın dün oraya gittik."
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-16-xvmg",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'değil' sözcüğünün yanlış kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "O, öğrenci değil öğretmendir.",
+      "O, öğrenci de öğretmen de değildir.",
+      "O, öğrenci değil, öğretmendir.",
+      "O, ne öğrenci ne öğretmendir.",
+      "O, öğrenci değildir öğretmendir."
+    ],
+    "answer_index": 4,
+    "explanation": "'Değildir öğretmendir' yapısı hatalıdır; doğrusu 'değil, öğretmendir' şeklinde olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-17-q9at",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde sözcüğün yanlış anlamda kullanılmasından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu konuda çok tecrübeliyim.",
+      "Bu konuda çok tecrübesizim ama başarılıyım.",
+      "Bu konuda deneyimliyim.",
+      "Bu konuda uzmanım.",
+      "Bu konuda bilgiliyim."
+    ],
+    "answer_index": 1,
+    "explanation": "'Tecrübesiz' ile 'başarılı' ifadesi arasında anlamca bir çelişki oluşmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-18-1dcs",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmıştır?",
+    "options": [
+      "Özgeçmişini gönderdi.",
+      "Kişisel özgeçmişini gönderdi.",
+      "Kişisel bilgilerini gönderdi.",
+      "Başvuru formunu gönderdi.",
+      "Belgelerini gönderdi."
+    ],
+    "answer_index": 1,
+    "explanation": "“Özgeçmiş” zaten kişinin hayat öyküsünü anlattığından “kişisel” sözcüğü gereksizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-19-py9p",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlam belirsizliği vardır?",
+    "options": [
+      "Ali'nin arabası kırmızıdır.",
+      "Ahmet, kendi kitabını ve Ali'nin defterini aldı.",
+      "Öğretmen sınıfa girdi.",
+      "Çocuk topu tuttu.",
+      "Kuş uçtu, gitti."
+    ],
+    "answer_index": 1,
+    "explanation": "'Kendi' zamiri Ahmet'e mi Ali'ye mi ait olduğu belirsizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-2-upzy",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde ek uyuşmazlığından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Kardeşini çok özlüyor.",
+      "Kardeşine kızıyor ve onu özlüyor.",
+      "Kardeşine sık sık kızıyor.",
+      "Kardeşine hem kızıyor hem de özlüyor.",
+      "Kardeşiyle konuşuyor."
+    ],
+    "answer_index": 3,
+    "explanation": "“Kızmak” yönelme, “özlemek” belirtme hâlli tamlayıcı ister: kardeşine kızıyor, kardeşini özlüyor.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-20-brmi",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmıştır?",
+    "options": [
+      "Kesinlikle ve şüphesiz bu işi başaracak.",
+      "Bu işi mutlaka başaracak.",
+      "Bu işi büyük bir istekle yapacak.",
+      "Bu işi yarın tamamlayacak.",
+      "Bu işi tek başına başaracak."
+    ],
+    "answer_index": 0,
+    "explanation": "“Kesinlikle” ve “şüphesiz” aynı anlam alanında kullanıldığı için biri gereksizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-21-6yh6",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlamca çelişen sözcükler birlikte kullanılmıştır?",
+    "options": [
+      "Yaklaşık üç saat bekledik.",
+      "Tam üç saat bekledik.",
+      "Aşağı yukarı tam üç saat bekledik.",
+      "Üç saatten fazla bekledik.",
+      "Kısa süre bekledik."
+    ],
+    "answer_index": 2,
+    "explanation": "“Aşağı yukarı” yaklaşık anlamı verirken “tam” kesinlik bildirir; bu iki ifade birlikte çelişki yaratır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-22-z2yn",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+    "options": [
+      "Bu proje zaman kaybına ve paraya neden oldu.",
+      "Bu proje zaman ve para kaybına neden oldu.",
+      "Bu proje hem zaman hem de para kaybına neden oldu.",
+      "Bu proje hem zaman hem para kaybettirdi.",
+      "Bu proje zaman ve para israfına yol açtı."
+    ],
+    "answer_index": 0,
+    "explanation": "'Para kaybına neden olmak' ile 'paraya neden olmak' arasında eksik/yanlış bağlaç kullanımı anlatımı bozmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-23-oga3",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tamlayıcı eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu olaylara karşı çıktı ancak onları eleştirmedi.",
+      "Bu olayları eleştirmekten vazgeçti.",
+      "Bu olayları hem eleştirdi hem de karşı çıktı.",
+      "Bu olayları eleştirdi ve bu olaylara karşı çıktı.",
+      "Bu olayları dikkatle değerlendirdi."
+    ],
+    "answer_index": 2,
+    "explanation": "“Eleştirdi” fiili belirtme hâlli, “karşı çıktı” fiili ise yönelme hâlli tamlayıcı ister: olayları eleştirdi, olaylara karşı çıktı.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-24-b3xp",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde çelişen sözlerin bir arada kullanılmasından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Belki de gelecek gibi görünüyor.",
+      "Sanırım gelecek.",
+      "Muhtemelen gelecek.",
+      "Kesinlikle gelecek galiba.",
+      "Gelebilir de."
+    ],
+    "answer_index": 3,
+    "explanation": "'Kesinlikle' (kesin) ile 'galiba' (olasılık) çelişmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-25-60a7",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde eş anlamlı sözcüklerin bir arada kullanılmasından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Yemeği yedi.",
+      "Hızlı koştu.",
+      "Kitabı okudu.",
+      "Eve gitti.",
+      "Yalnız ve tek başına kaldı."
+    ],
+    "answer_index": 4,
+    "explanation": "'Yalnız' ve 'tek başına' eş anlamlı olduğundan birlikte kullanılması gereksiz tekrara yol açar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-26-wjxq",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlamca çelişen sözler bir arada kullanılmıştır?",
+    "options": [
+      "İlk kez burada buluşuyoruz.",
+      "Yeniden burada buluşuyoruz.",
+      "İlk kez yeniden burada buluşuyoruz.",
+      "Bugün burada buluşuyoruz.",
+      "Yarın burada buluşacağız."
+    ],
+    "answer_index": 2,
+    "explanation": "“İlk kez” ve “yeniden” ifadeleri aynı eylem için birlikte kullanıldığında çelişir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-27-ob1n",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'rağmen' sözcüğünün kullanımıyla ilgili anlatım bozukluğu vardır?",
+    "options": [
+      "Yağmura rağmen dışarı çıktı.",
+      "Yorgun rağmen çalıştı.",
+      "Çok yorgun olmasına rağmen çalıştı.",
+      "Hasta olmasına rağmen geldi.",
+      "Zor olmasına rağmen başardı."
+    ],
+    "answer_index": 1,
+    "explanation": "'Rağmen' edatından önce isim veya isim soylu bir yapı (-e hâli almış) gelmelidir; 'yorgun rağmen' hatalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-28-bfhj",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'daha' ve 'en' sözcüklerinin bir arada kullanılmasından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu, en güzel çiçektir.",
+      "Bu, daha güzel bir çiçektir.",
+      "Bu, en daha güzel çiçektir.",
+      "Bu, ondan daha güzeldir.",
+      "Bu, hepsinden güzeldir."
+    ],
+    "answer_index": 2,
+    "explanation": "'En' (üstünlük) ile 'daha' (karşılaştırma) aynı anda kullanılamaz; bu, gereksiz pekiştirme yaratır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-29-53se",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlam belirsizliğine yol açan sıralama yanlışlığı vardır?",
+    "options": [
+      "Kırmızı eski bir araba aldı.",
+      "Dün akşam eve geldi.",
+      "Eski kırmızı bir araba aldı.",
+      "Yeni bir kitap okudu.",
+      "Büyük bir ev satın aldı."
+    ],
+    "answer_index": 0,
+    "explanation": "Sıfat sıralaması yanlış olduğunda anlam belirsizliği oluşabilir; doğru sıralama 'eski kırmızı bir araba'dır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-3-p0cf",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde zamirden kaynaklanan anlam belirsizliği vardır?",
+    "options": [
+      "Ayşe kitabı masaya bıraktı.",
+      "Ayşe kendi kitabını Selin'e verdi.",
+      "Ayşe, Selin'in kitabını ona verdi.",
+      "Selin kitabını Ayşe'ye verdi.",
+      "Ayşe, Selin'e kitabını verdi."
+    ],
+    "answer_index": 4,
+    "explanation": "“Kitabını” sözcüğünün Ayşe'nin mi Selin'in mi kitabını anlattığı açık değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-30-strk",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Türkiye'nin ve dünyanın sorunu.",
+      "Okulun bahçesi büyük.",
+      "Kitabın kapağı yırtık.",
+      "Öğrencinin defteri kayıp.",
+      "Annemin çantası yeni."
+    ],
+    "answer_index": 0,
+    "explanation": "'Türkiye'nin sorunu' ve 'dünyanın sorunu' ayrı tamlamalar olduğundan 'sorunu' sözcüğü tek başına ikisine birden bağlanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-31-01bk",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde zaman uyumsuzluğu vardır?",
+    "options": [
+      "Seni aradığımda evdeydin.",
+      "Dün seni aradım.",
+      "Yarın seni arayacağım.",
+      "Yarın seni aradım.",
+      "Yarın seni aramak istiyorum."
+    ],
+    "answer_index": 3,
+    "explanation": "“Yarın” sözü gelecek zamanı, “aradım” fiili ise geçmiş zamanı bildirir; zamanlar uyuşmamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-32-o9hv",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Eve gitti.",
+      "Suyu içti.",
+      "Kitabı okudu.",
+      "Yemeği yedi.",
+      "Geri iade etti."
+    ],
+    "answer_index": 4,
+    "explanation": "'İade etmek' zaten 'geri vermek' anlamına gelir; 'geri' sözcüğü gereksizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-33-zyu7",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kişi bakımından özne-yüklem uyumsuzluğu vardır?",
+    "options": [
+      "Toplantıya öğretmenler ve ben katıldı.",
+      "Toplantıya öğretmenler ve ben katıldık.",
+      "Toplantıya öğretmenler katıldı.",
+      "Toplantıya ben katıldım.",
+      "Toplantıya öğretmen ile ben katıldık."
+    ],
+    "answer_index": 0,
+    "explanation": "Özne içinde “ben” bulunduğunda yüklem birinci çoğul kişiyle çekimlenir: katıldık.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-34-hebq",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde çatı uyumsuzluğundan doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu konu üzerinde uzun süre tartıştılar ve bir karara vardılar.",
+      "Bu konu üzerinde uzun süre tartışıldı ve bir karara vardılar.",
+      "Bu konu üzerinde uzun süre tartışıldı ve bir karara varıldı.",
+      "Bu konu üzerinde kısa süre tartıştılar.",
+      "Bir karara vardılar."
+    ],
+    "answer_index": 1,
+    "explanation": "İlk yüklem edilgen, ikinci yüklem etken çatılıdır; iki yüklem aynı özneye bağlanacak biçimde uyumlu olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-35-gl33",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde eş anlamlı sözcüklerin birlikte kullanılmasından doğan anlatım bozukluğu vardır?",
+    "options": [
+      "Bu sorun ve problem kısa sürede çözüldü.",
+      "Bu sorun kısa sürede çözüldü.",
+      "Bu problem kısa sürede çözüldü.",
+      "Bu mesele kısa sürede çözüldü.",
+      "Bu olay kısa sürede çözüldü."
+    ],
+    "answer_index": 0,
+    "explanation": "“Sorun” ve “problem” eş anlamlıdır; aynı cümlede birlikte kullanılmaları gereksizdir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-36-rqip",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde kesinlik ve olasılık bildiren sözler çelişmektedir?",
+    "options": [
+      "Yarın gelmesi bekleniyor.",
+      "Sanırım yarın gelir.",
+      "Kesinlikle yarın gelir.",
+      "Sanırım kesinlikle yarın gelir.",
+      "Büyük olasılıkla yarın gelir."
+    ],
+    "answer_index": 3,
+    "explanation": "“Sanırım” olasılık, “kesinlikle” ise kesinlik bildirir; aynı yargıda birlikte kullanılmaları çelişir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-37-7o04",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+    "options": [
+      "Kitabı okudum ve beğendim.",
+      "Hem yoruldum hem de acıktım.",
+      "Sanırım kesinlikle haklısın.",
+      "Bugün hava çok güzel.",
+      "Yarın erken kalkacağım."
+    ],
+    "answer_index": 2,
+    "explanation": "'Sanırım' (olasılık) ile 'kesinlikle' (kesinlik) ifadeleri anlamca çelişmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-38-bssp",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğu vardır?",
+    "options": [
+      "Her biri kendi düşüncelerini açıkladılar.",
+      "Her biri kendi düşüncelerini açıkladı.",
+      "Hepsi düşüncelerini açıkladılar.",
+      "Öğrenciler düşüncelerini açıkladılar.",
+      "Her öğrenci düşüncesini açıkladı."
+    ],
+    "answer_index": 0,
+    "explanation": "“Her biri” öznesi tekil kabul edilir; yüklem “açıkladı” olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-39-fvnd",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "“Bu kitabın baskı ve kapağı çok kaliteli.” cümlesindeki anlatım bozukluğu nasıl giderilir?",
+    "options": [
+      "“çok” sözcüğü kaldırılarak",
+      "“kitabın” sözcüğü çıkarılarak",
+      "“kaliteli” sözcüğü çoğul yapılarak",
+      "“baskı” sözcüğü “baskısı” biçiminde kullanılarak",
+      "“kapağı” sözcüğü “kapak” biçimine getirilerek"
+    ],
+    "answer_index": 3,
+    "explanation": "Belirtili isim tamlamasında ikinci unsurun iyelik eki alması gerekir: kitabın baskısı ve kapağı.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-4-jxex",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde birbiriyle çelişen zaman ifadeleri kullanılmıştır?",
+    "options": [
+      "Dün akşam sinemaya gittik.",
+      "Az önce sinemaya gittik.",
+      "Geçen hafta sinemaya gittik.",
+      "Bu sabah sinemaya gittik.",
+      "Yarın dün sinemaya gittik."
+    ],
+    "answer_index": 4,
+    "explanation": "'Yarın' (gelecek) ile 'gittik' (geçmiş zaman) çelişmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-5-sgdg",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğu vardır?",
+    "options": [
+      "Hepimiz bu konuda farklı düşünüyoruz.",
+      "Hepimiz bu konuda farklı düşünüyor.",
+      "Öğrenciler soruları dikkatle çözdü.",
+      "Ben raporu dün teslim ettim.",
+      "Arkadaşım ve ben birlikte çalıştık."
+    ],
+    "answer_index": 1,
+    "explanation": "“Hepimiz” öznesi birinci çoğul kişiyi gerektirir; yüklem “düşünüyoruz” olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-6-p7yb",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğu vardır?",
+    "options": [
+      "Kitaplar rafa dizildiler.",
+      "Öğrenciler sınava girdi.",
+      "Çocuklar bahçede oynuyor.",
+      "Kuşlar uçtu.",
+      "Yapraklar döküldü."
+    ],
+    "answer_index": 0,
+    "explanation": "Cansız çokluk özneler tekil yüklem alır; 'dizildiler' değil 'dizildi' olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-7-e5ef",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'ile' bağlacının gereksiz kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Kalemle yazdı.",
+      "Elle tuttu.",
+      "Arabayla gitti.",
+      "Kitap ile defter ile kalem aldı.",
+      "Gözle gördü."
+    ],
+    "answer_index": 3,
+    "explanation": "'İle' bağlacının gereksiz tekrarı anlatımı bozmaktadır; 'kitap, defter ve kalem aldı' denmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-8-cl4e",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde yüklem eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
+    "options": [
+      "Kitabı aldı ve okudu.",
+      "Kitabı okudu ve beğendi.",
+      "Kitabı okudu, dergiyi de.",
+      "Kitabı verdi ve gitti.",
+      "Kitabı buldu ve sakladı."
+    ],
+    "answer_index": 2,
+    "explanation": "'Dergiyi de' ifadesinden sonra 'okudu' yüklemi tekrar edilmediği için eksiklik hissi doğurur (bazı bağlamlarda kabul edilebilir eksiltili yapı; ancak burada anlam belirsiz kalmıştır).",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-anlatim-bozukluklari-3ey95-mt911oxx-9-m5n1",
+    "topic_id": "t-anlatim-bozukluklari-3ey95",
+    "prompt": "Aşağıdaki cümlelerin hangisinde 'gibi' edatının neden olduğu bir anlatım bozukluğu vardır?",
+    "options": [
+      "Aslan gibi güçlüydü.",
+      "Senin gibi çalışkanım.",
+      "Kuş gibi uçtu.",
+      "Ben senin gibi değil çalışkanım.",
+      "Rüzgar gibi geçti."
+    ],
+    "answer_index": 3,
+    "explanation": "'Senin gibi değil çalışkanım' yapısı anlam karışıklığına yol açar; doğrusu 'senin gibi çalışkan değilim' olmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:33.367733+00:00",
+    "updated_at": "2026-08-25T18:57:33.367733+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-0-zwrp",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinin sayısı aşağıdakilerden hangisidir?",
+    "options": [
+      "Dört",
+      "Beş",
+      "Yedi",
+      "Altı",
+      "Sekiz"
+    ],
+    "answer_index": 3,
+    "explanation": "Atatürkçü düşünce sisteminde cumhuriyetçilik, milliyetçilik, halkçılık, devletçilik, laiklik ve inkılapçılık olmak üzere altı ilke bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-1-z6u4",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinin Cumhuriyet Halk Fırkası programına altı ilke olarak girdiği yıl aşağıdakilerden hangisidir?",
+    "options": [
+      "1923",
+      "1931",
+      "1924",
+      "1928",
+      "1937"
+    ],
+    "answer_index": 1,
+    "explanation": "Altı Atatürk ilkesi Cumhuriyet Halk Fırkası programına 1931'de girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-10-fhde",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Soyadı Kanunu'nun kabul edilmesiyle aşağıdakilerden hangisi amaçlanmıştır?",
+    "options": [
+      "Saltanat ailesinin yetkilerini artırmak",
+      "Her ailenin ortak bir soyadı kullanmasını sağlamak",
+      "Yabancılara vatandaşlık vermek",
+      "Kapitülasyonları düzenlemek",
+      "Sadece devlet memurlarına unvan vermek"
+    ],
+    "answer_index": 1,
+    "explanation": "Soyadı Kanunu ile her Türk ailesinin soyadı kullanması zorunlu hâle getirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-11-f59y",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Tarih Kurumunun kuruluş yılı aşağıdakilerden hangisidir?",
+    "options": [
+      "1931",
+      "1928",
+      "1932",
+      "1934",
+      "1937"
+    ],
+    "answer_index": 0,
+    "explanation": "Türk Tarih Kurumu 1931'de kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-12-s2cd",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Dil Kurumunun kuruluş yılı aşağıdakilerden hangisidir?",
+    "options": [
+      "1937",
+      "1932",
+      "1911",
+      "1912",
+      "1913"
+    ],
+    "answer_index": 1,
+    "explanation": "Türk Dil Kurumu 1932'de kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-13-f9s0",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinin 1924 Anayasası'na eklendiği yıl aşağıdakilerden hangisidir?",
+    "options": [
+      "1913",
+      "1914",
+      "1937",
+      "1915",
+      "1916"
+    ],
+    "answer_index": 2,
+    "explanation": "Atatürk ilkeleri 1937'de Anayasa'ya girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-14-zt2m",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk dönemi devletçilik anlayışının özel girişimi tamamen dışlamaması, hangi ekonomik modeli benimsediğini gösterir?",
+    "options": [
+      "Tam sosyalizm",
+      "Feodal ekonomi",
+      "Sömürge ekonomisi",
+      "Karma ekonomi",
+      "Kapalı ekonomi"
+    ],
+    "answer_index": 3,
+    "explanation": "Devletçilik, özel girişimi reddetmeyen; gerekli alanlarda devletin öncülük ettiği karma ekonomi anlayışıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-15-egjz",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Kabotaj Kanunu hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "23 Nisan 1920",
+      "29 Ekim 1923",
+      "17 Şubat 1926",
+      "1 Kasım 1928",
+      "1 Temmuz 1926"
+    ],
+    "answer_index": 4,
+    "explanation": "Kabotaj Kanunu 1 Temmuz 1926'da yürürlüğe girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-16-w7zz",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Cumhuriyet rejiminde devlet başkanının belirlenmesinde esas alınan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      "Hanedan içinden atanması",
+      "Yabancı devletlerce belirlenmesi",
+      "Askerî komutanın kendiliğinden göreve gelmesi",
+      "TBMM tarafından seçilmesi",
+      "Miras yoluyla göreve gelmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Cumhuriyet rejiminde devlet başkanı, hanedan yoluyla değil millî temsil organı tarafından seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-17-x52b",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi milliyetçilik ilkesi ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Millî birlik ve beraberliği güçlendirmeyi amaçlar.",
+      "Ortak tarih ve kültür bilincini önemser.",
+      "Bağımsızlığı korumayı destekler.",
+      "Yurttaşlık bağını esas alır.",
+      "Irk üstünlüğünü ve başka milletlere egemen olmayı amaçlar."
+    ],
+    "answer_index": 4,
+    "explanation": "Atatürk milliyetçiliği ırk üstünlüğüne değil, ortak tarih, kültür ve yurttaşlık bağlarına dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-18-oi8c",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Halkçılık ilkesi doğrultusunda kanun önünde eşitliğin kabul edilmesi, en çok hangi uygulamayı reddeder?",
+    "options": [
+      "Bilimsel eğitimi",
+      "Zümre ve sınıf ayrıcalıklarını",
+      "Millî egemenliği",
+      "Üretim faaliyetlerini",
+      "Yerel yönetimleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Halkçılık, toplumda ayrıcalıklı sınıf ve zümrelerin bulunmasını reddeder.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-19-a4yv",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Devletçilik ilkesi doğrultusunda maden ve enerji alanında faaliyet göstermek üzere kurulan kuruluş aşağıdakilerden hangisidir?",
+    "options": [
+      "Türk Dil Kurumu",
+      "Halkevleri",
+      "Etibank",
+      "Millet Mektepleri",
+      "Kuva-yı Milliye"
+    ],
+    "answer_index": 2,
+    "explanation": "Etibank, devletçilik ilkesi çerçevesinde maden ve enerji alanında faaliyet göstermek üzere kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-2-kkq3",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Cumhuriyetin ilan edildiği gün Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı seçilen kişi aşağıdakilerden hangisidir?",
+    "options": [
+      "İsmet İnönü",
+      "Kazım Karabekir",
+      "Ali Fuat Cebesoy",
+      "Mustafa Kemal Atatürk",
+      "Fevzi Çakmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Cumhuriyetin ilan edildiği 29 Ekim 1923'te Mustafa Kemal Atatürk ilk Cumhurbaşkanı seçilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-20-16e9",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "1928 Anayasa değişikliği ile “Devletin dini İslam'dır” hükmünün çıkarılması en çok hangi ilkenin güçlenmesine hizmet etmiştir?",
+    "options": [
+      "Laiklik",
+      "Devletçilik",
+      "Milliyetçilik",
+      "Halkçılık",
+      "Cumhuriyetçilik"
+    ],
+    "answer_index": 0,
+    "explanation": "1928'de devletin dini hükmünün Anayasa'dan çıkarılması, laiklik yönünde önemli bir adımdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-21-vfn2",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "İnkılapçılık ilkesi, yapılan yeniliklerin değişen ihtiyaçlara göre sürdürülmesini savunur. Bu yaklaşım aşağıdakilerden hangisini reddeder?",
+    "options": [
+      "Bilimselliği",
+      "Çağdaşlaşmayı",
+      "Durağanlığı",
+      "Yenilenmeyi",
+      "Gelişmeyi"
+    ],
+    "answer_index": 2,
+    "explanation": "İnkılapçılık, yeniliklerin korunup geliştirilmesini öngördüğü için durağanlığı reddeder.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-22-6yo7",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi saltanatın kaldırılmasının sonuçlarından biri YANLIŞTIR?",
+    "options": [
+      "Egemenliğin yeniden Osmanlı hanedanına verilmesi",
+      "Millî egemenlik anlayışının güçlenmesi",
+      "Lozan Konferansı'nda temsil ikiliğinin önlenmesi",
+      "Cumhuriyetin ilanına zemin hazırlanması",
+      "Osmanlı hanedanının siyasi yetkisinin sona ermesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Saltanatın kaldırılması, egemenliği hanedana vermemiş; millî egemenlik anlayışını güçlendirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-23-heh2",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Tevhid-i Tedrisat Kanunu'nun uygulanması sonucunda farklı bakanlıkların eğitim alanındaki yetkileri hangi merkezde toplanmıştır?",
+    "options": [
+      "Şeriye ve Evkaf Vekâletinde",
+      "Harbiye Nezaretinde",
+      "Sadrazamlıkta",
+      "Ayan Meclisinde",
+      "Maarif Vekâletinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Eğitim kurumları Maarif Vekâletine bağlanarak öğretimde birlik sağlanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-24-dfkh",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Medeni Kanunu hangi tarihte kabul edilmiştir?",
+    "options": [
+      "3 Mart 1924",
+      "17 Şubat 1926",
+      "25 Kasım 1925",
+      "1 Kasım 1928",
+      "21 Haziran 1934"
+    ],
+    "answer_index": 1,
+    "explanation": "Türk Medeni Kanunu 17 Şubat 1926'da kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-25-2xom",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Yeni Türk alfabesinde kaç harf bulunmaktadır?",
+    "options": [
+      "24",
+      "26",
+      "31",
+      "29",
+      "34"
+    ],
+    "answer_index": 3,
+    "explanation": "Latin esaslı yeni Türk alfabesi 29 harften oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-26-3zdk",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk kadınlarına muhtar olma ve ihtiyar meclisine seçilme hakkı hangi yıl verilmiştir?",
+    "options": [
+      "1926",
+      "1933",
+      "1928",
+      "1930",
+      "1934"
+    ],
+    "answer_index": 1,
+    "explanation": "Kadınlara muhtar seçme ve seçilme hakkı 1933'te verilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-27-xz35",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk ilkeleri arasında yer almaz?",
+    "options": [
+      "Cumhuriyetçilik",
+      "Laiklik",
+      "Devletçilik",
+      "Monarşizm",
+      "Halkçılık"
+    ],
+    "answer_index": 3,
+    "explanation": "Monarşizm Atatürk ilkeleri arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-28-1wlu",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Şeriye ve Evkaf Vekâletinin kaldırılmasıyla aynı gün kurulan kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "Diyanet İşleri Başkanlığı",
+      "Milletler Cemiyeti",
+      "Sümerbank",
+      "Etibank",
+      "Halk Evleri"
+    ],
+    "answer_index": 0,
+    "explanation": "3 Mart 1924'te Şeriye ve Evkaf Vekâleti kaldırılmış; din hizmetlerini yürütmek üzere Diyanet İşleri Başkanlığı kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-29-ovif",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Sümerbankın kurulması aşağıdaki alanlardan hangisinde devletin öncülük ettiği yatırımlara örnektir?",
+    "options": [
+      "Din eğitimi",
+      "Yargı bağımsızlığı",
+      "Yerel seçimler",
+      "Dış politika",
+      "Sanayileşme"
+    ],
+    "answer_index": 4,
+    "explanation": "Sümerbank, devletçilik ilkesi doğrultusunda sanayileşme hamlesinin önemli kuruluşlarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-3-7mqq",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Saltanatın kaldırılmasından sonra Osmanlı Devleti'nin son padişahı olarak ülkeyi terk eden kişi aşağıdakilerden hangisidir?",
+    "options": [
+      "VI. Mehmet Vahdettin",
+      "V. Mehmet Reşad",
+      "II. Abdülhamid",
+      "Abdülmecid Efendi",
+      "V. Murad"
+    ],
+    "answer_index": 0,
+    "explanation": "Saltanatın kaldırılmasının ardından son padişah VI. Mehmet Vahdettin ülkeden ayrılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-30-40lb",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Halkçılık ilkesiyle doğrudan ilişkilendirilebilecek uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "Hanedan yönetiminin sürmesi",
+      "Yabancı şirketlere imtiyaz verilmesi",
+      "Kanun önünde eşitliğin kabulü",
+      "Dinî mahkemelerin kurulması",
+      "Sınıf ayrıcalıklarının korunması"
+    ],
+    "answer_index": 2,
+    "explanation": "Halkçılık, yurttaşların kanun önünde eşitliğini ve ayrıcalıkların kaldırılmasını savunur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-31-30pv",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Dil Kurumunun kuruluşundaki temel amaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Yabancı dilleri yasaklamak",
+      "Devlet işletmeleri kurmak",
+      "Medreseleri yönetmek",
+      "Askerî birlikleri örgütlemek",
+      "Türk dilini araştırmak ve geliştirmek"
+    ],
+    "answer_index": 4,
+    "explanation": "Türk Dil Kurumu, Türk dilinin zenginliğini araştırmak ve geliştirmek amacıyla kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-32-ip9n",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Türk Medeni Kanunu'nun doğrudan sonuçlarından biri DEĞİLDİR?",
+    "options": [
+      "Resmî nikâhın zorunlu hâle gelmesi",
+      "Tek eşlilik esasının benimsenmesi",
+      "Kapitülasyonların kaldırılması",
+      "Kadınlara hukukî haklar verilmesi",
+      "Laik aile hukukunun kurulması"
+    ],
+    "answer_index": 2,
+    "explanation": "Kapitülasyonlar Lozan Antlaşması ile kaldırılmıştır; Medeni Kanun aile ve kişiler hukukunu düzenlemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-33-asie",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Cumhuriyetin ilanından önce kabul edilen ve yeni devletin egemenlik anlayışını düzenleyen hukukî metin aşağıdakilerden hangisidir?",
+    "options": [
+      "1924 Anayasası",
+      "1928 Harf Kanunu",
+      "1934 Soyadı Kanunu",
+      "1921 Teşkilat-ı Esasiye Kanunu",
+      "1937 Anayasa değişikliği"
+    ],
+    "answer_index": 3,
+    "explanation": "1921 Teşkilat-ı Esasiye Kanunu, Cumhuriyetin ilanından önce millî egemenlik anlayışını hukuken düzenlemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-34-5t38",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk ilkelerinin 1937'de Anayasa'ya girmesinin temel anlamını en iyi açıklar?",
+    "options": [
+      "İlkelerin devletin temel esasları hâline gelmesi",
+      "Saltanatın geri getirilmesi",
+      "Kapitülasyonların kabul edilmesi",
+      "Manda yönetimine geçilmesi",
+      "Boğazların yabancı denetimine bırakılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Altı ilkenin Anayasa'ya alınması, Atatürkçü ilkelerin devlet düzeninin temel esasları olduğunu göstermiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-35-ygkj",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "3 Mart 1924 tarihinde gerçekleştirilen inkılaplardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Soyadı Kanunu'nun kabulü",
+      "Şeriye ve Evkaf Vekâletinin kaldırılması",
+      "Yeni Türk harflerinin kabulü",
+      "Kabotaj Kanunu'nun yürürlüğe girmesi",
+      "Kadınlara milletvekili seçme hakkının verilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "3 Mart 1924'te halifeliğin kaldırılması ve öğretim birliğinin sağlanmasının yanı sıra Şeriye ve Evkaf Vekâleti kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-36-oftk",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Tevhid-i Tedrisat Kanunu ile Türk Medeni Kanunu'nun ortak yönü aşağıdakilerden hangisidir?",
+    "options": [
+      "Toplumsal ve hukukî yaşamı laik esaslara yaklaştırmaları",
+      "Saltanatı güçlendirmeleri",
+      "Yabancı himayeyi kabul etmeleri",
+      "Kapitülasyonları genişletmeleri",
+      "Osmanlıcılık düşüncesini yaymaları"
+    ],
+    "answer_index": 0,
+    "explanation": "Her iki düzenleme de toplumsal ve hukukî yapıyı laikleşme yönünde etkilemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-37-mqkb",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? Yeni Türk harfleri - - - - yılında kabul edilmiş, Atatürk ilkeleri - - - - yılında Anayasa'ya girmiştir.",
+    "options": [
+      "1923 / 1924",
+      "1928 / 1937",
+      "1925 / 1926",
+      "1930 / 1934",
+      "1931 / 1932"
+    ],
+    "answer_index": 1,
+    "explanation": "Yeni Türk harfleri 1928'de kabul edilmiş, Atatürk ilkeleri 1937'de Anayasa'ya eklenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-38-mb23",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk kadınlarına verilen siyasî hakların kronolojik sıralamasında belediye seçimlerinden sonra gelen adım aşağıdakilerden hangisidir?",
+    "options": [
+      "Milletvekili seçme hakkı",
+      "Soyadı alma hakkı",
+      "Muhtar seçme ve seçilme hakkı",
+      "Medeni Kanun'un kaldırılması",
+      "Halifeliğin kaldırılması"
+    ],
+    "answer_index": 2,
+    "explanation": "Kadınlara önce belediye seçimleri, sonra muhtarlık, daha sonra milletvekilliği seçimleri için haklar tanınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-39-xwin",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Cumhuriyet rejiminde yasama organının halk adına karar alması aşağıdaki kavramlardan hangisiyle en yakından ilişkilidir?",
+    "options": [
+      "Teokrasi",
+      "Mutlak monarşi",
+      "Sömürgecilik",
+      "Temsilî demokrasi",
+      "Oligarşi"
+    ],
+    "answer_index": 3,
+    "explanation": "Cumhuriyetçilik, halkın seçtiği temsilciler aracılığıyla yönetime katılmasını esas alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-4-8c1g",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Halifeliğin kaldırılmasından sonra yurt dışına gönderilen son halife aşağıdakilerden hangisidir?",
+    "options": [
+      "Vahdettin",
+      "Abdülaziz",
+      "II. Abdülhamid",
+      "Mehmet Reşad",
+      "Abdülmecid Efendi"
+    ],
+    "answer_index": 4,
+    "explanation": "Halifeliğin kaldırılmasıyla son halife Abdülmecid Efendi yurt dışına gönderilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-40-1hio",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Medeni Kanun'un kabulüyle aile hukukunda gerçekleştirilen değişikliklerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Çok eşliliğin zorunlu tutulması",
+      "Dinî mahkemelerin güçlendirilmesi",
+      "Soyadı kullanımının kaldırılması",
+      "Medreselerin açılması",
+      "Tek eşliliğin esas alınması"
+    ],
+    "answer_index": 4,
+    "explanation": "Türk Medeni Kanunu, aile hukukunda tek eşlilik ve kadın-erkek eşitliği yönünde düzenlemeler getirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-41-4l6u",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Birinci Beş Yıllık Sanayi Planı'nda öncelik verilen sektörlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Uzay teknolojisi",
+      "Otomotiv ithalatı",
+      "Dış borç yönetimi",
+      "Dokuma sanayisi",
+      "Deniz turizmi"
+    ],
+    "answer_index": 3,
+    "explanation": "Birinci Beş Yıllık Sanayi Planı'nda dokuma, kâğıt, cam ve maden gibi temel sanayi alanlarına öncelik verilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-42-fxwg",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Atatürk ilkelerinin Anayasa'ya girmesinden önce parti programında yer alması, ilkelerin hangi niteliğini gösterir?",
+    "options": [
+      "Hiç uygulanmadıklarını",
+      "Yalnız yerel yönetimleri ilgilendirdiklerini",
+      "Saltanat döneminde kabul edildiklerini",
+      "Yabancı devletlerce belirlendiklerini",
+      "Önce siyasî program, sonra anayasal ilke hâline geldiklerini"
+    ],
+    "answer_index": 4,
+    "explanation": "İlkeler 1931'de parti programına, 1937'de Anayasa'ya girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-43-6047",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk dönemindeki toplumsal inkılapların ortak amacını en iyi açıklar?",
+    "options": [
+      "Hanedan yönetimini yeniden güçlendirmek",
+      "Toplumu çağdaş, eşitlikçi ve millî bir yapıya kavuşturmak",
+      "Yabancı devletlere ayrıcalık tanımak",
+      "Dinî kurumların devlet yönetimini belirlemesini sağlamak",
+      "Sınıf ayrıcalıklarını kalıcı hâle getirmek"
+    ],
+    "answer_index": 1,
+    "explanation": "Toplumsal inkılaplar çağdaşlaşma, eşitlik ve millî birlik hedefleri doğrultusunda gerçekleştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-44-7slg",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Aşağıdakilerden hangisi Atatürk ilkelerinin birbirini tamamlayan yönlerinden biridir?",
+    "options": [
+      "Farklı sınıflara ayrı hukuk kuralları uygulamaları",
+      "Saltanatı korumayı amaçlamaları",
+      "Bağımsız, çağdaş ve millî bir devlet düzeni kurmayı hedeflemeleri",
+      "Manda yönetimini savunmaları",
+      "Kapitülasyonları sürdürmeleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Atatürk ilkeleri; bağımsızlık, çağdaşlaşma, millî egemenlik ve toplumsal bütünlük hedeflerinde birbirini tamamlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-45-buj5",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "1934 yılında kabul edilen ve “ağa, hacı, hafız, molla, efendi, bey, paşa” gibi unvanların resmî kullanımını kaldıran kanun aşağıdakilerden hangisidir?",
+    "options": [
+      "Lakap ve Unvanların Kaldırılması Kanunu",
+      "Tevhid-i Tedrisat Kanunu",
+      "Kabotaj Kanunu",
+      "Şapka İktisası Kanunu",
+      "Takrir-i Sükûn Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Lakap ve Unvanların Kaldırılması Kanunu 1934'te kabul edilerek toplumsal eşitliği güçlendirmeyi amaçlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-5-dqdv",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Tevhid-i Tedrisat Kanunu ile medreseler hangi bakanlığa bağlanmıştır?",
+    "options": [
+      "Şeriye ve Evkaf Vekâletine",
+      "Harbiye Nezaretine",
+      "Maarif Vekâletine",
+      "Dahiliye Vekâletine",
+      "Hariciye Vekâletine"
+    ],
+    "answer_index": 2,
+    "explanation": "Tevhid-i Tedrisat Kanunu, medreseler dâhil bütün eğitim kurumlarını Maarif Vekâletine bağlamıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-6-tss5",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Şapka İnkılabı'nın halka tanıtılmasında Atatürk'ün yaptığı konuşmayla öne çıkan şehir aşağıdakilerden hangisidir?",
+    "options": [
+      "Erzurum",
+      "Sivas",
+      "İzmir",
+      "Edirne",
+      "Kastamonu"
+    ],
+    "answer_index": 4,
+    "explanation": "Atatürk, Şapka İnkılabı'nı Kastamonu gezisinde yaptığı konuşmalarla halka tanıtmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-7-ar1r",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk Medeni Kanunu'nun kabul edilmesiyle aşağıdakilerden hangisi amaçlanmıştır?",
+    "options": [
+      "Kapitülasyonları yeniden yürürlüğe koymak",
+      "Saltanat yönetimini güçlendirmek",
+      "Aile ve kişiler hukukunu çağdaş esaslara göre düzenlemek",
+      "Balkan göçlerini önlemek",
+      "Boğazları uluslararası yönetime bırakmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Türk Medeni Kanunu, aile ve kişiler hukukunda çağdaş ve laik düzenlemeler getirmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-8-blv9",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Millet Mekteplerinin Başöğretmeni unvanı kime verilmiştir?",
+    "options": [
+      "İsmet İnönü",
+      "Kazım Karabekir",
+      "Fuat Köprülü",
+      "Mustafa Kemal Atatürk",
+      "Yusuf Akçura"
+    ],
+    "answer_index": 3,
+    "explanation": "Yeni harfleri halka öğretmek amacıyla kurulan Millet Mekteplerinin Başöğretmeni Mustafa Kemal Atatürk'tür.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd-mt9shlyi-9-udvc",
+    "topic_id": "t-ataturk-ilkeleri-ve-siyasi-toplumsal-ink-tyodd",
+    "prompt": "Türk kadınlarının ilk kez milletvekili seçildiği genel seçimde TBMM'ye kaç kadın milletvekili girmiştir?",
+    "options": [
+      "18",
+      "5",
+      "10",
+      "24",
+      "36"
+    ],
+    "answer_index": 0,
+    "explanation": "1935 genel seçimlerinde TBMM'ye 18 kadın milletvekili girmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:45:46.478657+00:00",
+    "updated_at": "2026-08-26T07:45:46.478657+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-0-pxj2",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "1982 Anayasası’nın kabul tarihi aşağıdakilerden hangisidir?",
+    "options": [
+      "12 Eylül 1980",
+      "18 Ekim 1982",
+      "9 Kasım 1982",
+      "7 Kasım 1982",
+      "23 Temmuz 1995"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 18 Ekim 1982. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “18 Ekim 1982”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-1-lm65",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "1982 Anayasası Başlangıç metninde Atatürk’ten hangi sıfatlarla bahsedilmektedir?",
+    "options": [
+      "Ebedi Şef - Başöğretmen",
+      "Başkomutan - Ulu önder - Devlet kurucusu",
+      "Millî Şef - Eşsiz lider - Kahraman asker",
+      "Türkiye Cumhuriyeti’nin kurucusu - Ölümsüz önder - Eşsiz kahraman",
+      "Ölümsüz kahraman - Büyük devlet adamı - Kurucu lider"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Türkiye Cumhuriyeti’nin kurucusu - Ölümsüz önder - Eşsiz kahraman. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Türkiye Cumhuriyeti’nin kurucusu - Ölümsüz önder - Eşsiz kahraman”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-10-4d55",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasa metni yorumlanırken ve uygulanırken aşağıdakilerden hangisi esas alınır?",
+    "options": [
+      "Sadece sözüne bakılır.",
+      "Sadece ruhuna bakılır.",
+      "Dönemin siyasi koşullarına bakılır.",
+      "Sözüne ve ruhuna bu yönde saygı ve mutlak sadakatle yorumlanıp uygulanır.",
+      "Uluslararası normlara öncelik verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Sözüne ve ruhuna bu yönde saygı ve mutlak sadakatle yorumlanıp uygulanır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sözüne ve ruhuna bu yönde saygı ve mutlak sadakatle yorumlanıp uygulanır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-11-jmga",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metnine göre Türk vatandaşları aşağıdakilerden hangisinde ortak DEĞİLDİR?",
+    "options": [
+      "Millî gurur ve iftiharlarda",
+      "Millî sevinç ve kederlerde",
+      "Millî varlığa karşı hak ve ödevlerde",
+      "Nimet ve külfetlerde",
+      "Siyasi parti tercihlerinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Siyasi parti tercihlerinde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Siyasi parti tercihlerinde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-12-k7ma",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde “Yurtta sulh, cihanda sulh” sözü hangi taleple birlikte kullanılmıştır?",
+    "options": [
+      "Sınırsız ekonomik büyüme talebiyle",
+      "Bölgesel üstünlük talebiyle",
+      "Huzurlu bir hayat talebiyle",
+      "Tek parti yönetimi talebiyle",
+      "Askerî genişleme talebiyle"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Huzurlu bir hayat talebiyle. Başlangıç metni, “Yurtta sulh, cihanda sulh” arzu ve inancı içinde huzurlu bir hayat talebine hak bulunduğunu ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-13-w6rj",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasa’nın belirlediği istikamet (amaç) doğrultusunda aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Çağdaş medeniyet düzeyine ulaşma azmi",
+      "Türkiye Cumhuriyeti’nin ebedi varlığı",
+      "Maddî ve manevî mutluluk",
+      "Dünya milletleri ailesinin eşit haklara sahip şerefli bir üyesi olmak",
+      "Bölgesel güç olma hırsı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Bölgesel güç olma hırsı. Başlangıç metninde çağdaş medeniyet düzeyine ulaşma azmi, refah, mutluluk ve millî irade gibi unsurlar yer alır; “bölgesel güç olma hırsı” yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-14-sq9v",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde belirtilen milliyetçilik anlayışı kime atfedilmiştir?",
+    "options": [
+      "Türk Milletine",
+      "Anayasa Komisyonuna",
+      "Osmanlı Devleti’ne",
+      "Atatürk’e",
+      "Ziya Gökalp’e"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Atatürk’e. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Atatürk’e”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-15-gyux",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Millet adına egemenliği kullanmaya yetkili kılınan kişi ve kuruluşlar, aşağıdakilerden hangisinin dışına çıkamaz?",
+    "options": [
+      "Hürriyetçi demokrasi ve hukuk düzeninin",
+      "Hükümet programının",
+      "Uluslararası antlaşmaların",
+      "Gelenek ve göreneklerin",
+      "Siyasi parti tüzüklerinin"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Hürriyetçi demokrasi ve hukuk düzeninin. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hürriyetçi demokrasi ve hukuk düzeninin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-16-gc0i",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Her Türk vatandaşı temel hak ve hürriyetlerden hangi gereklerle yararlanır?",
+    "options": [
+      "Ekonomik gücü oranında",
+      "Eşitlik ve sosyal adalet gereklerince",
+      "Eğitim seviyesine göre",
+      "Vergi ödeme durumuna göre",
+      "Siyasi görüşüne uygun olarak"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Eşitlik ve sosyal adalet gereklerince. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Eşitlik ve sosyal adalet gereklerince”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-17-rti2",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "1982 Anayasası’nın Kanun Numarası kaçtır?",
+    "options": [
+      "1924",
+      "1961",
+      "2709",
+      "3361",
+      "4709"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 2709. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2709”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-18-he07",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Aşağıdakilerden hangisi Başlangıç metninde korunma göremeyeceği belirtilen unsurlardan biri değildir?",
+    "options": [
+      "Türk millî menfaatlerine aykırı faaliyetler",
+      "Türk varlığına aykırı faaliyetler",
+      "Devleti ve ülkesiyle bölünmezliği esasına aykırı faaliyetler",
+      "Atatürk milliyetçiliği, ilke ve inkılaplarına aykırı faaliyetler",
+      "Bilimsel ve sanatsal faaliyetler"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Bilimsel ve sanatsal faaliyetler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Bilimsel ve sanatsal faaliyetler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-19-jj5b",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde Türkiye Cumhuriyeti’nin dünya milletleri ailesi içindeki konumu nasıl tarif edilmiştir?",
+    "options": [
+      "Lider ve yön verici bir üye",
+      "Eşit haklara sahip şerefli bir üye",
+      "Batı medeniyetinin bir parçası",
+      "Stratejik ortak",
+      "Gelişmekte olan bir üye"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Eşit haklara sahip şerefli bir üye. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Eşit haklara sahip şerefli bir üye”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-2-7kb9",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metnine göre, “Kuvvetler ayrımı”nın tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "Belli devlet yetki ve görevlerinin kullanılmasından ibaret medeni bir işbölümü ve işbirliğidir.",
+      "Devlet organları arasında bir üstünlük sıralamasıdır.",
+      "Yasama organının yürütme üzerindeki mutlak hakimiyetidir.",
+      "Yargı organının devletin sahibi olmasıdır.",
+      "Devletin tüm güçlerinin tek bir elde toplanmasıdır."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Belli devlet yetki ve görevlerinin kullanılmasından ibaret medeni bir işbölümü ve işbirliğidir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Belli devlet yetki ve görevlerinin kullanılmasından ibaret medeni bir işbölümü ve işbirliğidir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-20-ogr9",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasanın Başlangıç kısmı, Anayasa metnine dahil midir?",
+    "options": [
+      "Hayır, sadece bir önsözdür.",
+      "Sadece manevî bir değeri vardır.",
+      "Sadece yargıçlara tavsiye niteliğindedir.",
+      "Evet. Başlangıç kısmı Anayasa metnine dahildir.",
+      "Hayır, değiştirilebilir olduğu için dahil değildir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Evet. Başlangıç kısmı Anayasa metnine dahildir. Madde 176, Anayasanın dayandığı temel görüş ve ilkeleri belirten Başlangıç kısmının Anayasa metnine dahil olduğunu açıkça düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-21-24cd",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasa’da Türk vatandaşlarının onurlu bir hayat sürdürme hak ve yetkisine nasıl sahip oldukları belirtilmiştir?",
+    "options": [
+      "Doğuştan sahip olarak",
+      "Kanunla verilerek",
+      "Sonradan kazanılarak",
+      "18 yaşını doldurarak",
+      "Vatandaşlık bağı ile"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Doğuştan sahip olarak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Doğuştan sahip olarak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-22-87ch",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde geçen “Kutsal din duygularının devlet işlerine karıştırılamayacağı” ilkesi, hangi Atatürk ilkesiyle doğrudan ilişkilidir?",
+    "options": [
+      "Devletçilik",
+      "Lâiklik",
+      "Halkçılık",
+      "Cumhuriyetçilik",
+      "İnkılapçılık"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Lâiklik. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Lâiklik”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-23-zvmn",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasa değişikliklerinin halkoylamasına sunulmasıyla ilgili dipnotlarda belirtilen en son değişiklik hangi tarihte yapılmıştır?",
+    "options": [
+      "2017",
+      "2001",
+      "2007",
+      "2010",
+      "2023"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 2017. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2017”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-24-2gtk",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metnine göre Türk Vatanı ve Milletinin varlığı nasıl nitelendirilmiştir?",
+    "options": [
+      "Geçici varlık",
+      "Tarihsel varlık",
+      "Siyasi varlık",
+      "Ebedi varlık",
+      "Hukuki varlık"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Ebedi varlık. Başlangıç metninde “Türk Vatanı ve Milletinin ebedî varlığı” ifadesi kullanılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-3-fpy0",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasanın Başlangıç metni hangi yıl 4121 sayılı Kanunla değiştirilmiştir?",
+    "options": [
+      "1987",
+      "2001",
+      "1995",
+      "2010",
+      "2017"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1995. Anayasa metnindeki dipnota göre Başlangıç metni 23/7/1995 tarihli ve 4121 sayılı Kanunla değiştirilmiştir; 2001’de ayrıca Başlangıçtaki bir ifade yeniden değiştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-4-ph1r",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metnine göre egemenlik kime aittir?",
+    "options": [
+      "Türkiye Büyük Millet Meclisine",
+      "Cumhurbaşkanına",
+      "Anayasa Mahkemesine",
+      "Kayıtsız şartsız Türk Milletine",
+      "Bakanlar Kuruluna"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kayıtsız şartsız Türk Milletine. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kayıtsız şartsız Türk Milletine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-5-oeam",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde yer alan “Lâiklik ilkesinin gereği” olarak belirtilen husus aşağıdakilerden hangisidir?",
+    "options": [
+      "Diyanet İşleri Başkanlığının kurulması",
+      "Herkesin ibadet özgürlüğüne sahip olması",
+      "Devletin tüm dinlere eşit mesafede durması",
+      "Din derslerinin zorunlu olması",
+      "Kutsal din duygularının, Devlet işlerine ve politikaya kesinlikle karıştırılamaması"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kutsal din duygularının, Devlet işlerine ve politikaya kesinlikle karıştırılamaması. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kutsal din duygularının, Devlet işlerine ve politikaya kesinlikle karıştırılamaması”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-6-oesd",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "2001 yılında yapılan değişiklikle (4709 sayılı Kanun), Başlangıç metnindeki “Hiçbir düşünce ve mülahazanın” ibaresi ne şekilde değiştirilmiştir?",
+    "options": [
+      "Hiçbir eylemin",
+      "Hiçbir fikrin",
+      "Hiçbir örgütün",
+      "Hiçbir faaliyetin",
+      "Hiçbir siyasi partinin"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hiçbir faaliyetin. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hiçbir faaliyetin”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-7-5o7b",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metnine göre üstünlük nerede bulunmaktadır?",
+    "options": [
+      "Anayasa ve kanunlarda",
+      "Yasama Meclisinde",
+      "Yüksek Yargı Organlarında",
+      "Cumhurbaşkanlığı Makamında",
+      "Silahlı Kuvvetlerde"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anayasa ve kanunlarda. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa ve kanunlarda”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-8-qv6l",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Anayasa, Türk Milleti tarafından kime emanet ve tevdi olunmuştur?",
+    "options": [
+      "Türk Silahlı Kuvvetlerine",
+      "Türkiye Büyük Millet Meclisine",
+      "Gençliğe",
+      "Demokrasiye âşık Türk evlatlarına",
+      "Cumhurbaşkanına"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Demokrasiye âşık Türk evlatlarına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Demokrasiye âşık Türk evlatlarına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-baslangic-x0svf-mtmyurk8-9-6bo9",
+    "topic_id": "t-baslangic-x0svf",
+    "prompt": "Başlangıç metninde vatandaşların birbirinin hak ve hürriyetlerine karşı tutumu nasıl tanımlanmıştır?",
+    "options": [
+      "Sınırlı hoşgörü",
+      "Yasal zorunluluk çerçevesinde tahammül",
+      "Kesin saygı, karşılıklı içten sevgi ve kardeşlik duyguları",
+      "Devletin belirlediği sınırlar içinde saygı",
+      "Sadece kamusal alanda saygı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kesin saygı, karşılıklı içten sevgi ve kardeşlik duyguları. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kesin saygı, karşılıklı içten sevgi ve kardeşlik duyguları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:04:57.168490+00:00",
+    "updated_at": "2026-09-04T13:04:57.168490+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-0-o24m",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurulda Yargıtay Genel Kurulunun önerdiği adaylar arasından kaç üye seçilir?",
+    "options": [
+      "İki üye",
+      "Bir üye",
+      "Üç üye",
+      "Dört üye",
+      "Hiç üye"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. B seçeneğindeki “Bir üye” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-1-djhj",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurulda Danıştay Genel Kurulunun önerdiği adaylar arasından kaç üye seçilir?",
+    "options": [
+      "Üç üye",
+      "İki üye",
+      "Bir üye",
+      "Dört üye",
+      "Hiç üye"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “Bir üye” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-10-j1bn",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bir şirketin başvurusunda unvanı, adresi ve yetkili kişinin imzası vardır; ancak temsil yetkisini gösteren belge yoktur. Eksik olan unsur hangisidir?",
+    "options": [
+      "Başvurunun konusu",
+      "Erişim maliyeti",
+      "Kurumun adı",
+      "İtiraz yolu",
+      "Yetki belgesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 6. E seçeneğindeki “Yetki belgesi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-11-ccj8",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusunda istenen bilgi veya belgeler nasıl belirtilmelidir?",
+    "options": [
+      "Yaklaşık olarak",
+      "Sözlü biçimde",
+      "Açıkça",
+      "Şifreli olarak",
+      "Kurumun takdirine bırakılarak"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 6. C seçeneğindeki “Açıkça” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-12-uxo7",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuru usulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Dilekçede istenen bilgi veya belgenin belirtilmesine gerek yoktur.",
+      "Gerçek kişi başvurusunda imza aranır.",
+      "Tüzel kişi başvurusunda yetki belgesi aranır.",
+      "İstenen bilgi veya belge açıkça belirtilir.",
+      "Başvuru bilgi veya belgenin bulunduğu kuruma yapılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 6. “Dilekçede istenen bilgi veya belgenin belirtilmesine gerek yoktur.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-13-e91i",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Elektronik ortamda yapılan başvurunun geçerli olabilmesi için Kanunda aranan güvence hangisidir?",
+    "options": [
+      "Başvurunun yalnız mesai saatlerinde yapılması",
+      "Kurulun önceden onay vermesi",
+      "Başvuru sahibinin memur olması",
+      "Kişinin kimliğinin ve imzasının ya da yazının kimden geldiğinin yasal olarak belirlenebilmesi",
+      "Başvurunun noter aracılığıyla gönderilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 6. D seçeneğindeki “Kişinin kimliğinin ve imzasının ya da yazının kimden geldiğinin yasal olarak belirlenebilmesi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-14-tkj3",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusu, kural olarak nereye yapılır?",
+    "options": [
+      "Başvuru sahibinin ikamet ettiği yerdeki mahkemeye",
+      "Bilgi Edinme Değerlendirme Kuruluna",
+      "Cumhuriyet başsavcılığına",
+      "Herhangi bir kamu kurumuna",
+      "İstenen bilgi veya belgenin bulunduğu kurum veya kuruluşa"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 6. E seçeneğindeki “İstenen bilgi veya belgenin bulunduğu kurum veya kuruluşa” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-15-ceqj",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusunun konusu hangi tür bilgi veya belgelere ilişkin olmalıdır?",
+    "options": [
+      "Herhangi bir özel kişinin tahminlerine",
+      "Başvurulan kurumun elinde bulunan veya görevi gereği bulunması gerekenlere",
+      "Sadece yargı kararlarına",
+      "Henüz oluşturulmamış raporlara",
+      "Başka kurumların tüm kayıtlarına"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 7. B seçeneğindeki “Başvurulan kurumun elinde bulunan veya görevi gereği bulunması gerekenlere” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-16-jt7i",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Aşağıdakilerden hangisi kurumun elinde bulunmasa da görevi gereği bulunması gereken bilgi veya belge için doğrudur?",
+    "options": [
+      "Bilgi edinme başvurusuna konu olabilir.",
+      "Yalnız mahkeme kararıyla istenebilir.",
+      "Her durumda başvuru konusu olamaz.",
+      "Sadece Kurul üyesi isteyebilir.",
+      "Ticarî sır sayılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 7. A seçeneğindeki “Bilgi edinme başvurusuna konu olabilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-17-wv66",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum, ayrı veya özel bir çalışma sonucunda oluşturulabilecek bilgi için nasıl cevap verebilir?",
+    "options": [
+      "Mutlaka yeni bilgi üretmek zorundadır.",
+      "Başvuruyu Kurula gönderir.",
+      "Başvurana disiplin cezası verir.",
+      "Olumsuz cevap verebilir.",
+      "Belgeyi yayımlamak zorundadır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 7. D seçeneğindeki “Olumsuz cevap verebilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-18-d3gj",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuru sahibi, kurumdan henüz yapılmamış bir analizle oluşturulacak risk puanını istemektedir. Kurumun bu talebe yaklaşımı ne olabilir?",
+    "options": [
+      "Analizi hemen oluşturmak zorundadır.",
+      "Talepten dolayı mahkemeye başvurur.",
+      "Olumsuz cevap verebilir.",
+      "Tüm kurumlardan görüş toplamak zorundadır.",
+      "İtiraz süresini başlatır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 7. C seçeneğindeki “Olumsuz cevap verebilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-19-0v04",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "İstenecek bilgi veya belgenin niteliğine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kurum, her başvuru için özel bir araştırma yapmak zorundadır.",
+      "Görevi gereği bulunması gereken bilgi talep edilebilir.",
+      "Özel analiz sonucu oluşturulacak bilgi için olumsuz cevap verilebilir.",
+      "Kurumun elindeki bilgi talep edilebilir.",
+      "Başka kurumda bulunan başvuru ilgili kuruma gönderilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 7. “Kurum, her başvuru için özel bir araştırma yapmak zorundadır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-2-tofe",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuru içeriği birden fazla kurum ve kuruluşu ilgilendirmektedir. Bilgiye erişim için uygulanabilecek azami süre hangisidir?",
+    "options": [
+      "Beş iş günü",
+      "On beş iş günü",
+      "Süresiz",
+      "Yirmi iş günü",
+      "Otuz iş günü"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 11. E seçeneğindeki “Otuz iş günü” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-20-1lj6",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "İstenen bilgi başka bir kurumda bulunuyorsa başvuru dilekçesi için ne yapılır?",
+    "options": [
+      "Doğrudan imha edilir.",
+      "Sadece başvuru sahibine iade edilir.",
+      "İlgili kurum veya kuruluşa gönderilir.",
+      "Kurulun kararına bırakılır.",
+      "Yargı merciine sevk edilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 7. C seçeneğindeki “İlgili kurum veya kuruluşa gönderilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-21-ah6n",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuru dilekçesi başka kurum veya kuruluşa gönderildiğinde başvuru sahibine hangi yolla bildirim yapılır?",
+    "options": [
+      "Sadece telefonla",
+      "Yalnız sosyal medya yoluyla",
+      "Sadece sözlü olarak",
+      "Bildirim yapılmadan",
+      "Yazılı olarak"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 7. E seçeneğindeki “Yazılı olarak” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-22-9a7a",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi veya belgenin niteliğine ilişkin;\nI. Kurumun elinde bulunan bilgi başvuruya konu olabilir.\nII. Özel bir analiz sonunda oluşturulabilecek bilgi için olumsuz cevap verilebilir.\nIII. Başka kurumda bulunan dilekçe gönderilmez.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 7. D seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-23-hrig",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurumca yayımlanmış veya kamuya açıklanmış bilgi ve belgeler için bilgi edinme başvurusu bakımından temel kural nedir?",
+    "options": [
+      "Mutlaka onaylı kopyası verilir.",
+      "Başvuruya konu olamazlar.",
+      "Yalnız mahkeme kararıyla verilir.",
+      "Kurul kararıyla gizlenir.",
+      "Her zaman yeniden hazırlanırlar."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 8. B seçeneğindeki “Başvuruya konu olamazlar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-24-05nc",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurumun internet sitesinde yayımladığı bir rapor yeniden istenmiştir. Kurumun başvurana bildirmesi gereken bilgi hangisidir?",
+    "options": [
+      "Raporu kimin yazdığı",
+      "Başvuru sahibinin neden istediği",
+      "Raporun ne şekilde, ne zaman ve nerede yayımlandığı",
+      "Kurulun toplantı tarihi",
+      "Başvuru maliyetinin tahmini"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 8. C seçeneğindeki “Raporun ne şekilde, ne zaman ve nerede yayımlandığı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-25-wn28",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Yayımlanmış veya kamuya açıklanmış bilgi ve belgelerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bu belgeler bilgi edinme başvurularına konu olamaz.",
+      "Kurum, yayımlanmış belgeyi başvurana mutlaka ikinci kez kopyalamalıdır.",
+      "Yayımlanma zamanı başvurana bildirilir.",
+      "Yayımlanma yeri başvurana bildirilir.",
+      "Yayımlanma şekli başvurana bildirilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 8. “Kurum, yayımlanmış belgeyi başvurana mutlaka ikinci kez kopyalamalıdır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-26-s1f6",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Yayımlanmış bilgi veya belge için kurum, başvurana bunun ne şekilde, ne zaman ve ______ yayımlandığını bildirir.",
+    "options": [
+      "Hangi gerekçeyle",
+      "Kim tarafından",
+      "Hangi ücretle",
+      "Kaç nüsha",
+      "Nerede"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 8. E seçeneğindeki “Nerede” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-27-29ii",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "İstenen belgede gizli ve açıklanabilir bilgiler birlikte bulunup ayrılabiliyorsa kurumun yapacağı işlem hangisidir?",
+    "options": [
+      "Belgenin tamamını yok etmek",
+      "Başvuruyu otomatik reddetmek",
+      "Belgeyi başka kuruma göndermek",
+      "Gizli kısımları çıkararak açıklanabilir kısmı sunmak",
+      "Kopyayı ticarî amaçla satmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 9. D seçeneğindeki “Gizli kısımları çıkararak açıklanabilir kısmı sunmak” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-28-or0s",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bir rapordaki bazı satırlar açıklanması yasak, diğer satırlar ise açıktır ve birbirinden ayrılabilmektedir. Başvuru sahibi bakımından hangi yol uygulanır?",
+    "options": [
+      "Yasaklanan kısımlar çıkarıldıktan sonra kalan kısım sunulur.",
+      "Raporun tamamı açıklanır.",
+      "Raporun tamamı imha edilir.",
+      "Başvuru zorunlu olarak yargıya gönderilir.",
+      "Yalnız Kurul üyeleri görür."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 9. A seçeneğindeki “Yasaklanan kısımlar çıkarıldıktan sonra kalan kısım sunulur” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-29-148d",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gizli kısımlar çıkarılarak bilgi veya belge verildiğinde başvurana ayrıca ne bildirilir?",
+    "options": [
+      "Kurul üyelerinin isimleri",
+      "Belgenin maliyeti mutlaka",
+      "Ayırma gerekçesi",
+      "Kurumun bütçesi",
+      "Başvuru sahibinin kimlik bilgileri"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 9. C seçeneğindeki “Ayırma gerekçesi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-3-o1i3",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurula Yargıtay ve Danıştay genel kurullarınca kendi kurumları içinden kaçar aday önerilir?",
+    "options": [
+      "Birer aday",
+      "Dörder aday",
+      "Üçer aday",
+      "İkişer aday",
+      "Beşer aday"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. D seçeneğindeki “İkişer aday” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-30-2n05",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gizli bilgileri ayırarak bilgi veya belge vermeye ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Gizli ve açık bilgiler birlikte bulunabilir.",
+      "Ayırma gerekçesinin bildirilmesine gerek yoktur.",
+      "Gizli kısımlar çıkarılabilir.",
+      "Bilgiler ayrılabiliyorsa açık bölüm sunulur.",
+      "Ayırma gerekçesi yazılı olarak bildirilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 9. “Ayırma gerekçesinin bildirilmesine gerek yoktur.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-31-bkst",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum ve kuruluşlar, istenen belge için başvuru sahibine kural olarak ne verir?",
+    "options": [
+      "Onaylı bir kopya",
+      "Yalnız sözlü özet verir.",
+      "Noter tasdikli yeni belge üretir.",
+      "Belgenin aslını teslim eder.",
+      "Mahkeme kararını bekler."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 10. A seçeneğindeki “Onaylı bir kopya” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-32-jouk",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Yazılı veya basılı belgenin kopyası verilemez ya da kopya çıkarılması aslına zarar verecekse başvuru sahibine ne sağlanır?",
+    "options": [
+      "Belgenin aslını eve götürme imkânı",
+      "Sadece telefonla dinleme imkânı",
+      "Belgeyi değiştirme yetkisi",
+      "Belgeyi ticarî kullanma izni",
+      "Aslı inceleme ve not alma imkânı"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 10/a. E seçeneğindeki “Aslı inceleme ve not alma imkânı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-33-a194",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Ses kaydı şeklindeki bilgi veya belgeye kopya verilemediğinde hangi erişim yolu sağlanır?",
+    "options": [
+      "İzleyebilme",
+      "Belgeyi imzalayabilme",
+      "Aslını inceleyebilme",
+      "Dinleyebilme",
+      "Yalnız not alabilme"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 10/b. D seçeneğindeki “Dinleyebilme” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-34-ssig",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Görüntü kaydı şeklindeki bilgi veya belgeye kopya verilemediğinde hangi erişim yolu sağlanır?",
+    "options": [
+      "İzleyebilme",
+      "Belgeyi teslim alma",
+      "Dinleyebilme",
+      "Yalnız noter incelemesi",
+      "Kurumdan çıkarma"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 10/c. A seçeneğindeki “İzleyebilme” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-35-hu4t",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bir belgenin özel bir cihazla görüntülenmesi mümkündür ve bu yöntem belgeye zarar vermemektedir. Kurumun yaklaşımı ne olmalıdır?",
+    "options": [
+      "Yalnız onaylı kopya vermelidir.",
+      "Başvuruyu mutlaka reddetmelidir.",
+      "Bu erişim olanağını sağlamalıdır.",
+      "Belgeyi yok etmelidir.",
+      "Kurula göndermelidir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 10. C seçeneğindeki “Bu erişim olanağını sağlamalıdır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-36-83gy",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Belgeye zarar vermemek koşuluyla, bilgi veya belge yukarıdakilerden farklı bir şekilde elde edilebiliyorsa ne yapılır?",
+    "options": [
+      "Talep otomatik reddedilir.",
+      "Başvurucu disipline sevk edilir.",
+      "Sadece mahkeme kararı beklenir.",
+      "Bilgi ticarî sır sayılır.",
+      "Bu olanak sağlanır."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 10. E seçeneğindeki “Bu olanak sağlanır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-37-tjhy",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum, erişimine olanak sağladığı bilgi veya belgeler için hangi tutarı tahsil edebilir?",
+    "options": [
+      "İstediği sınırsız tutarı",
+      "Erişimin gerektirdiği maliyet tutarı kadarını",
+      "Yalnız ceza tutarını",
+      "Başvuru sahibinin gelirinin tamamını",
+      "Hiçbir koşulda ücret alamaz."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 10. B seçeneğindeki “Erişimin gerektirdiği maliyet tutarı kadarını” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-38-5ktz",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi veya belgeye erişim için tahsil edilen maliyet tutarı nereye gelir kaydedilir?",
+    "options": [
+      "Başvuru sahibinin hesabına",
+      "Kurul üyelerinin hesabına",
+      "Özel bir fona",
+      "Bütçeye",
+      "Mahkeme veznesine"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 10. D seçeneğindeki “Bütçeye” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-39-9ai6",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Erişim yöntemlerine ilişkin;\nI. Yazılı belge için aslı inceleme ve not alma sağlanabilir.\nII. Ses kaydı için dinleme sağlanabilir.\nIII. Görüntü kaydı için yalnız dinleme sağlanır.\nifadelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 10. C seçeneğindeki “I ve II” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-4-cmu0",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Sürenin uzatılması hâlinde kurumun başvuru sahibine yazılı olarak bildirmesi gerekenler hangisidir?",
+    "options": [
+      "Yalnız Kurul üyelerinin isimleri",
+      "Başvuru sahibinin adresi",
+      "Kurumun bütçe bilgileri",
+      "Belgenin tüm içeriği",
+      "Uzatma ve gerekçesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 11. E seçeneğindeki “Uzatma ve gerekçesi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-40-aze2",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum ve kuruluşlar, başvuru üzerine istenen bilgi veya belgeye erişimi kural olarak kaç iş günü içinde sağlar?",
+    "options": [
+      "Yedi iş günü",
+      "Otuz iş günü",
+      "On iş günü",
+      "Yirmi iş günü",
+      "On beş iş günü"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 11. E seçeneğindeki “On beş iş günü” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-41-wht5",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "İstenen bilgi veya belgenin kurum içindeki başka bir birimden sağlanmasının gerekmesi hâlinde erişim en geç kaç iş günü içinde sağlanır?",
+    "options": [
+      "Beş iş günü",
+      "Otuz iş günü",
+      "Yirmi iş günü",
+      "On beş iş günü",
+      "Kırk beş iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 11. B seçeneğindeki “Otuz iş günü” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-42-b3dx",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuru hakkında başka bir kurum veya kuruluşun görüşünün alınması gerekirse erişim süresi hangi süreye uzayabilir?",
+    "options": [
+      "Otuz iş gününe",
+      "Yedi iş gününe",
+      "On iş gününe",
+      "On beş iş gününe",
+      "Altmış iş gününe"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 11. A seçeneğindeki “Otuz iş gününe” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-43-xj74",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Erişim sürelerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kural süre on beş iş günüdür.",
+      "Bazı hâllerde süre otuz iş gününe uzayabilir.",
+      "Uzatma yazılı olarak bildirilir.",
+      "Uzatma gerekçesi, ilk on beş iş günlük sürenin bitiminden sonra bildirilir.",
+      "Gerekçe de bildirilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 11. “Uzatma gerekçesi, ilk on beş iş günlük sürenin bitiminden sonra bildirilir.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-44-f6c2",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Erişim için gereken maliyet tutarının idare tarafından bildirilmesiyle hangi süre kesilir?",
+    "options": [
+      "Otuz iş günlük itiraz süresi",
+      "Dört yıllık üyelik süresi",
+      "On beş iş günlük süre",
+      "Yedi günlük rıza süresi",
+      "İki aylık açıklama süresi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 11. C seçeneğindeki “On beş iş günlük süre” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-45-y34s",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Maliyet kendisine bildirilen başvuru sahibi, ücreti on beş iş günü içinde ödemezse hangi sonuç doğar?",
+    "options": [
+      "Talebinden vazgeçmiş sayılır.",
+      "Başvurusu Kurula gönderilir.",
+      "Kurum ücreti resen öder.",
+      "Belge kendiliğinden yayımlanır.",
+      "Yargı kararı kesinleşir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 11. A seçeneğindeki “Talebinden vazgeçmiş sayılır” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-46-aa3x",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum ve kuruluşlar bilgi edinme başvurularına ilişkin cevaplarını hangi yollardan biriyle bildirir?",
+    "options": [
+      "Yalnız sözlü olarak",
+      "Sadece noter aracılığıyla",
+      "Yalnız sosyal medya üzerinden",
+      "Yazılı olarak veya elektronik ortamda",
+      "Sadece mahkeme kalemi yoluyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 12. D seçeneğindeki “Yazılı olarak veya elektronik ortamda” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-47-l3ms",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme başvurusunun reddedilmesi hâlinde kararda hangi iki hususun belirtilmesi gerekir?",
+    "options": [
+      "Yalnız başvurucunun mesleği ve adresi",
+      "Yalnız kurumun bütçesi ve personel sayısı",
+      "Yalnız belgenin maliyeti ve sayfa sayısı",
+      "Yalnız Kurul üyelerinin özgeçmişi",
+      "Gerekçesi ve buna karşı başvuru yolları"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 12. E seçeneğindeki “Gerekçesi ve buna karşı başvuru yolları” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-48-k2r5",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Başvuruların cevaplandırılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cevap yazılı olarak verilebilir.",
+      "Ret kararında başvuru yollarının belirtilmesine gerek yoktur.",
+      "Cevap elektronik ortamda verilebilir.",
+      "Ret kararında gerekçe belirtilir.",
+      "Ret kararında başvuru yolları belirtilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 12. “Ret kararında başvuru yollarının belirtilmesine gerek yoktur.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-49-7uft",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum, başvuruyu reddetmiş ancak kararında sadece “uygun görülmemiştir” ifadesine yer vermiştir. Kanun bakımından hangi eksiklik vardır?",
+    "options": [
+      "Ret gerekçesi ve başvuru yolları yeterli biçimde belirtilmemiştir.",
+      "Başvurunun yazılı olması yanlıştır.",
+      "Maliyet talep edilmemiştir.",
+      "Kurul üyesi seçilmemiştir.",
+      "Belge yayımlanmıştır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 12. A seçeneğindeki “Ret gerekçesi ve başvuru yolları yeterli biçimde belirtilmemiştir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-5-s9nw",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gerçek kişinin yazılı bilgi edinme başvurusunda bulunması gereken bilgilerden biri hangisidir?",
+    "options": [
+      "Medeni hâli",
+      "Adı ve soyadı",
+      "Askerlik durumu",
+      "Öğrenim durumu",
+      "Nüfus kayıt örneği"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 6. B seçeneğindeki “Adı ve soyadı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-50-84rn",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi edinme istemi reddedilen başvuru sahibi, yargı yoluna başvurmadan önce nereye itiraz edebilir?",
+    "options": [
+      "Yargıtay Genel Kuruluna",
+      "Türkiye Barolar Birliğine",
+      "Kamu Görevlileri Etik Kuruluna",
+      "Cumhuriyet başsavcılığına",
+      "Bilgi Edinme Değerlendirme Kuruluna"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 13. E seçeneğindeki “Bilgi Edinme Değerlendirme Kuruluna” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-51-krij",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurula itiraz süresi, kararın tebliğinden itibaren kaç gündür?",
+    "options": [
+      "Otuz gün",
+      "Yedi gün",
+      "On gün",
+      "On beş gün",
+      "Altmış gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 13. D seçeneğindeki “On beş gün” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-52-nrbu",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul, itiraz konusundaki kararını kaç iş günü içinde verir?",
+    "options": [
+      "On beş iş günü",
+      "Otuz iş günü",
+      "Kırk beş iş günü",
+      "Altmış iş günü",
+      "Yedi iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 13. B seçeneğindeki “Otuz iş günü” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-53-5mm9",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurum ve kuruluşlar, Kurulun istediği bilgi veya belgeyi kaç iş günü içinde vermekle yükümlüdür?",
+    "options": [
+      "Beş iş günü",
+      "Yedi iş günü",
+      "On beş iş günü",
+      "Otuz iş günü",
+      "Kırk beş iş günü"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 13. C seçeneğindeki “On beş iş günü” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-54-a3aw",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurula itirazın başvuru sahibinin idarî yargıya başvurma süresi üzerindeki etkisi nedir?",
+    "options": [
+      "Süreyi başlatmaz.",
+      "Süreyi kısaltır.",
+      "Süreyi iki katına çıkarır.",
+      "Süreyi durdurur.",
+      "Süreyi ortadan kaldırır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 13. D seçeneğindeki “Süreyi durdurur” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-55-p3vt",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Ret kararının tebliğinden sonra on beş gün içinde Kurula itiraz eden başvuru sahibi için idarî yargıya başvurma süresi bakımından hangi sonuç doğar?",
+    "options": [
+      "Süre durur.",
+      "Süre iki katına çıkar.",
+      "Süre hiç başlamamış sayılır.",
+      "Süre kesin olarak sona erer.",
+      "Süre Kurulun görev süresi kadar uzar."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 13. A seçeneğindeki “Süre durur” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-56-7w58",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu hangi amaçla oluşturulmuştur?",
+    "options": [
+      "Tüm bilgi taleplerini ilk derece olarak karara bağlamak",
+      "Sadece disiplin cezaları vermek",
+      "Kurumların bütçelerini onaylamak",
+      "Yargı kararlarını değiştirmek",
+      "Başvurulara ilişkin itirazlar üzerine verilen kararları incelemek ve bilgi edinme hakkının kullanılmasına ilişkin kararlar vermek"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. E seçeneğindeki “Başvurulara ilişkin itirazlar üzerine verilen kararları incelemek ve bilgi edinme hakkının kullanılmasına ilişkin kararlar vermek” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-57-tfhd",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?",
+    "options": [
+      "Beş üyeden",
+      "Yedi üyeden",
+      "Dokuz üyeden",
+      "On bir üyeden",
+      "On beş üyeden"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “Dokuz üyeden” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-58-ewzh",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyelerini kim seçer?",
+    "options": [
+      "TBMM Başkanı",
+      "Cumhurbaşkanı",
+      "Adalet Bakanı tek başına",
+      "Yargıtay Başkanı",
+      "Danıştay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. B seçeneğindeki “Cumhurbaşkanı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-59-qsfd",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyeliği için profesör veya doçent unvanına sahip kişilerin hangi alanlardan olması öngörülmüştür?",
+    "options": [
+      "Medeni hukuk, vergi hukuku ve ticaret hukuku",
+      "Mühendislik, tıp ve mimarlık",
+      "Sosyoloji, psikoloji ve felsefe",
+      "Ceza hukuku, idare hukuku ve anayasa hukuku",
+      "Eğitim, iktisat ve işletme"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. D seçeneğindeki “Ceza hukuku, idare hukuku ve anayasa hukuku” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-6-kjxd",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gerçek kişinin yazılı başvurusunda adı ve soyadına ek olarak aranacak unsur hangisidir?",
+    "options": [
+      "İmza",
+      "Vekâletname",
+      "İki tanık imzası",
+      "Noter onayı",
+      "Mahkeme kararı"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 6. A seçeneğindeki “İmza” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-60-tria",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Türkiye Barolar Birliğinin Kurul üyeliği için göstereceği adaylar bakımından aranan yeterlilik hangisidir?",
+    "options": [
+      "Baro başkanı seçilme yeterliliği",
+      "Danıştay üyeliği",
+      "Yargıtay üyeliği",
+      "Genel müdürlük",
+      "Noterlik"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. A seçeneğindeki “Baro başkanı seçilme yeterliliği” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-61-7fmt",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurulda en az genel müdür düzeyinde görev yapmakta olanlar arasından kaç üye seçilir?",
+    "options": [
+      "Üç üye",
+      "Bir üye",
+      "İki üye",
+      "Dört üye",
+      "Beş üye"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “İki üye” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-62-azaz",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Adalet Bakanının önerisi üzerine Bakanlıkta idarî görevlerde çalışan hâkimler arasından Kurula kaç üye seçilir?",
+    "options": [
+      "İki üye",
+      "Bir üye",
+      "Dört üye",
+      "Hiç üye",
+      "Üç üye"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. B seçeneğindeki “Bir üye” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-63-lvgq",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyeliğine önerilen adaylar bakımından hangi husus aranır?",
+    "options": [
+      "Noter senedi",
+      "Mal bildirimi",
+      "İkametgâh belgesi",
+      "Yabancı dil belgesi",
+      "Muvafakatları"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. E seçeneğindeki “Muvafakatları” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-64-iojx",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul Başkanı nasıl belirlenir?",
+    "options": [
+      "TBMM Genel Kurulunca seçilir.",
+      "Adalet Bakanınca atanır.",
+      "Kurul üyelerince kendi aralarından seçilir.",
+      "Yargıtay Başkanı tarafından görevlendirilir.",
+      "Danıştay Başkanı tarafından görevlendirilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “Kurul üyelerince kendi aralarından seçilir” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-65-s8t6",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul en az hangi sıklıkla toplanır?",
+    "options": [
+      "Haftada bir",
+      "Üç ayda bir",
+      "Altı ayda bir",
+      "Yılda bir",
+      "Ayda bir defa"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. E seçeneğindeki “Ayda bir defa” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-66-fcms",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Acil değerlendirme ihtiyacı doğmuştur. Kurulun olağan toplantı zamanını beklemeden toplanması nasıl sağlanabilir?",
+    "options": [
+      "Başvuru sahibinin tek taraflı kararıyla",
+      "Başkanın çağrısı üzerine",
+      "Yalnız mahkeme emriyle",
+      "Bakanlık bütçe onayıyla",
+      "Herhangi bir memurun çağrısıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. B seçeneğindeki “Başkanın çağrısı üzerine” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-67-6f53",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyelerinin görev süresi kaç yıldır?",
+    "options": [
+      "Dört yıl",
+      "İki yıl",
+      "Üç yıl",
+      "Beş yıl",
+      "Altı yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. A seçeneğindeki “Dört yıl” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-68-unty",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Görev süresi sona eren Kurul üyelerinin yeniden seçilmesi bakımından hangi kural geçerlidir?",
+    "options": [
+      "Hiçbir şekilde seçilemezler.",
+      "Yalnız bir yıl sonra seçilebilirler.",
+      "Sadece mahkeme kararıyla seçilebilirler.",
+      "Yeniden seçilebilirler.",
+      "Yalnız başka kurumdan seçilebilirler."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. D seçeneğindeki “Yeniden seçilebilirler” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-69-k7dj",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Görev süresi dolmadan ayrılan Kurul üyesinin yerine seçilen kişi ne kadar süre görev yapar?",
+    "options": [
+      "Yerine seçildiği üyenin görev süresini tamamlar.",
+      "Yalnız bir yıl görev yapar.",
+      "Yeni Kurul seçilinceye kadar görev yapmaz.",
+      "Kurul Başkanının belirlediği süre kadar görev yapar.",
+      "Her durumda dört yıl görev yapar."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. A seçeneğindeki “Yerine seçildiği üyenin görev süresini tamamlar” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-7-q9mh",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gerçek kişinin bilgi edinme dilekçesinde adres bakımından hangi bilgilerden biri bulunmalıdır?",
+    "options": [
+      "Yalnız doğum yeri",
+      "Yalnız nüfusa kayıtlı olduğu il",
+      "Yalnız e-posta şifresi",
+      "Oturma yeri veya iş adresi",
+      "Yalnız vergi dairesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 6. D seçeneğindeki “Oturma yeri veya iş adresi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-70-vewm",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Yeni seçilen Kurul göreve başlayıncaya kadar önceki Kurulun durumu nedir?",
+    "options": [
+      "Mahkeme kararı bekler.",
+      "Tüm yetkileri sona erer.",
+      "Sadece sekretarya görevi yapar.",
+      "Yalnız itiraz kabul eder.",
+      "Görevine devam eder."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. E seçeneğindeki “Görevine devam eder” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-71-irjc",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyelerine fiilen görev yaptıkları her gün için ödenecek huzur hakkı hangi gösterge rakamı esas alınarak hesaplanır?",
+    "options": [
+      "1000 gösterge rakamı",
+      "1500 gösterge rakamı",
+      "3000 gösterge rakamı",
+      "5000 gösterge rakamı",
+      "2000 gösterge rakamı"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “3000 gösterge rakamı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-72-b249",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyelerine bir ayda huzur hakkı ödenecek fiilî görev günü sayısı en fazla kaçtır?",
+    "options": [
+      "İki gün",
+      "Üç gün",
+      "Beş gün",
+      "Dört gün",
+      "Yedi gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. D seçeneğindeki “Dört gün” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-73-2pw3",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul üyelerine yapılan huzur hakkı ödemelerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Harcırah Kanunu hükümleri saklıdır.",
+      "Ödemelerden damga vergisi dışında her türlü kesinti yapılır.",
+      "Bir ayda dört günü aşan günler için huzur hakkı ödenmez.",
+      "Damga vergisi hariç kesinti yapılmaz.",
+      "Fiilî görev yapılan günler için ödeme yapılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 14. “Ödemelerden damga vergisi dışında her türlü kesinti yapılır.” ifadesi Kanundaki düzenlemeyle uyumlu değildir; bu nedenle doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-74-a4jx",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul, gerekli gördüğü konularda ne kurabilir?",
+    "options": [
+      "Siyasi partiler",
+      "Yargı daireleri",
+      "Özel şirketler",
+      "Komisyonlar ve çalışma grupları",
+      "İcra müdürlükleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. D seçeneğindeki “Komisyonlar ve çalışma grupları” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-75-ywsj",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurul, belirli bir konuda bilgi almak istemektedir. İlgili bakanlık, diğer kurum ve kuruluşlar ile sivil toplum örgütü temsilcileri için hangi işlem yapılabilir?",
+    "options": [
+      "Kurul üyeliğine otomatik atanırlar.",
+      "Başvuru sahibi sayılırlar.",
+      "Toplantılara davet edilebilirler.",
+      "Ticarî sır kapsamına alınırlar.",
+      "Yargı mensubu kabul edilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 14. C seçeneğindeki “Toplantılara davet edilebilirler” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-76-3btx",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulunun sekretarya hizmetleri hangi kurum tarafından yerine getirilir?",
+    "options": [
+      "Adalet Bakanlığı",
+      "TBMM Başkanlığı",
+      "Danıştay",
+      "Yargıtay",
+      "Türkiye Barolar Birliği"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 14. A seçeneğindeki “Adalet Bakanlığı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-77-q7i2",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kurulun görev ve çalışmalarına ilişkin esas ve usuller hangi işlemle düzenlenir?",
+    "options": [
+      "TBMM içtüzüğüyle",
+      "Yargıtay Genel Kurulu kararıyla",
+      "Bakanlık genelgesiyle",
+      "Kurul Başkanının sözlü talimatıyla",
+      "Cumhurbaşkanlığınca hazırlanarak yürürlüğe konulan yönetmelikle"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. E seçeneğindeki “Cumhurbaşkanlığınca hazırlanarak yürürlüğe konulan yönetmelikle” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-78-mpbq",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Gerçek kişi tarafından yapılan bilgi edinme başvurusunda aşağıdakilerden hangisinin bulunması Kanunda zorunlu tutulmamıştır?",
+    "options": [
+      "Başvuru sahibinin imzası",
+      "Başvuru sahibinin fotoğrafı",
+      "Başvuru sahibinin oturma yeri veya iş adresi",
+      "Başvuru sahibinin adı ve soyadı",
+      "İstenen bilgi veya belgenin açıkça belirtilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 6. Gerçek kişi başvurusunda ad ve soyad, imza, oturma yeri veya iş adresi ile istenen bilgi veya belgenin açıkça belirtilmesi gerekir; fotoğraf aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-79-yipp",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre “itiraz usulü” ile ilgili olarak aşağıdaki hükümlerden hangisi yanlıştır?",
+    "options": [
+      "Bilgi Edinme Değerlendirme Kuruluna itiraz, başvuru sahibinin idarî yargıya başvurma süresini durdurmaz.",
+      "Bilgi edinme istemi reddedilen başvuru sahibi, yargı yoluna başvurmadan önce kararın tebliğinden itibaren on beş gün içinde Bilgi Edinme Değerlendirme Kuruluna itiraz edebilir.",
+      "Kurum ve kuruluşlar, Bilgi Edinme Değerlendirme Kurulunun istediği her türlü bilgi veya belgeyi on beş iş günü içinde vermekle yükümlüdürler.",
+      "Bilgi Edinme Değerlendirme Kurulu, kendisine yapılan itiraz ile ilgili kararını otuz iş günü içinde verir.",
+      "Kurula itiraz, başvuru sahibinin idarî yargıya başvurma süresini durdurur."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 13. Kurula itiraz, başvuru sahibinin idarî yargıya başvurma süresini durdurur; bu nedenle A seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-8-jdvr",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Tüzel kişinin bilgi edinme başvurusunda aşağıdakilerden hangisi aranır?",
+    "options": [
+      "Ortaklarının medeni hâli",
+      "Çalışanlarının tamamının adresi",
+      "Tüzel kişinin unvanı",
+      "Son beş yıllık bilançosu",
+      "Noter tasdikli ticaret sicili sureti"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 6. C seçeneğindeki “Tüzel kişinin unvanı” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-80-qdxr",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "I. Kurum ve kuruluşlar, başvuru sahibine istenen belgenin onaylı bir kopyasını verirler.\nII. Kurum ve kuruluşlar, bilgi edinme başvurularına ilişkin cevaplarını yalnızca elektronik ortamda başvuru sahibine bildirirler.\nIII. Dilekçede, istenen bilgi veya belgeler açıkça belirtilir.\nIV. Başvuru sahibi yirmi iş günü içinde ücreti ödemezse talebinden vazgeçmiş sayılır.\n\n4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre yukarıdaki bilgi edinme sürecine ilişkin ifadelerden hangileri doğrudur?",
+    "options": [
+      "II ve IV",
+      "I ve IV",
+      "II ve III",
+      "III ve IV",
+      "I ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Maddeler 6, 10, 11 ve 12. I ve III numaralı ifadeler doğrudur. Ücret ödeme süresi on beş iş günüdür; cevaplar ise yalnızca elektronik ortamda değil, yazılı olarak da bildirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-81-w5s1",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Kanunda sayılan erişim yöntemlerinden farklı bir yöntemle bilgi veya belgeye erişim mümkünse kurum nasıl hareket eder?",
+    "options": [
+      "Başvuruyu doğrudan reddeder.",
+      "Yalnız onaylı kopya vermek zorundadır.",
+      "Belgeye zarar vermemek koşuluyla bu erişim olanağını sağlar.",
+      "Belgeyi Kurula gönderir.",
+      "Başvuru sahibinden yeni bir dilekçe ister."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Madde 10. Bilgi veya belgenin Kanunda sayılanlardan farklı bir şekilde elde edilmesi mümkünse, belgeye zarar vermemek koşuluyla bu olanak sağlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-82-uacp",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu üyelerinin belirlenmesinde aşağıdakilerden hangisi Kanunda yer alan kaynak veya öneri mercilerinden biri değildir?",
+    "options": [
+      "Türkiye Barolar Birliği",
+      "Yargıtay Genel Kurulu",
+      "Danıştay Genel Kurulu",
+      "Adalet Bakanı",
+      "Sayıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 14. Kurul üyelerinin belirlenmesinde Yargıtay ve Danıştay genel kurulları, Türkiye Barolar Birliği ve Adalet Bakanı Kanunda yer alır; Sayıştay için bir üyelik kontenjanı veya öneri yetkisi öngörülmemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-83-f3bq",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Kanun’a göre bilgi veya belgeye erişim sürelerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Sürenin otuz iş gününe uzatıldığı hâllerde uzatma gerekçesinin başvuru sahibine bildirilmesi zorunlu değildir.",
+      "Erişim için gereken maliyet tutarının başvuru sahibine bildirilmesiyle on beş iş günlük süre kesilir.",
+      "Kural olarak istenen bilgi veya belgeye erişim on beş iş günü içinde sağlanır.",
+      "Başvuru içeriğinin birden fazla kurum ve kuruluşu ilgilendirmesi hâlinde erişim otuz iş günü içinde sağlanır.",
+      "Başvuru sahibi, bildirilen erişim ücretini on beş iş günü içinde ödemezse talebinden vazgeçmiş sayılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Madde 11. Otuz iş günlük sürenin uygulanacağı hâllerde sürenin uzatılması ve bunun gerekçesi, on beş iş günlük sürenin bitiminden önce başvuru sahibine yazılı olarak bildirilir. Bu nedenle A seçeneği yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-84-wvjv",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre başvurunun yapıldığı kurum ve kuruluş, erişimine olanak sağladığı bilgi veya belgeler için başvuru sahibinden erişimin gerektirdiği ne kadarlık bir ücreti bütçeye gelir kaydedilmek üzere tahsil edebilir?",
+    "options": [
+      "Maliyet tutarının iki katı kadar",
+      "Maliyet tutarı kadar",
+      "Maliyet tutarının yarısı kadar",
+      "Maliyet tutarının üç katı kadar",
+      "Maliyet tutarının dört katı kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 10. Kurum ve kuruluş, erişime olanak sağladığı bilgi veya belgeler için erişimin gerektirdiği maliyet tutarı kadar ücreti bütçeye gelir kaydedilmek üzere tahsil edebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-85-np8y",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Bilgi Edinme Değerlendirme Kurulu üyelerine yapılan huzur hakkı ödemelerinde aşağıdaki vergilerden hangisi kesilebilir?",
+    "options": [
+      "Gelir vergisi",
+      "Veraset ve intikal vergisi",
+      "Katma değer vergisi",
+      "Damga vergisi",
+      "Özel tüketim vergisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Madde 14. Huzur hakkı ödemelerinde damga vergisi dışında herhangi bir kesinti yapılmaz; doğru cevap D’dir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50p-9-7bgz",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "Tüzel kişi başvurusunda yetkili kişinin imzasına ek olarak hangi belge aranır?",
+    "options": [
+      "Adli sicil belgesi",
+      "Yetki belgesi",
+      "İkametgâh belgesi",
+      "Diploma sureti",
+      "Tapu kaydı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Madde 6. B seçeneğindeki “Yetki belgesi” ifadesi Kanundaki hükümle uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  },
+  {
+    "id": "t-bilgi-edinme-basvurusu-rpo97-mtn4n50q-100-ha96",
+    "topic_id": "t-bilgi-edinme-basvurusu-rpo97",
+    "prompt": "4982 sayılı Bilgi Edinme Hakkı Kanunu’na göre Bilgi Edinme Değerlendirme Kurulu, bilgi edinme istemi reddedilen başvuru sahibinin itirazı üzerine kararını kaç iş günü içinde verir?",
+    "options": [
+      "15",
+      "90",
+      "45",
+      "60",
+      "30"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Madde 13. Kurul, itiraz hakkındaki kararını otuz iş günü içinde verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:46:59.038166+00:00",
+    "updated_at": "2026-09-04T15:46:59.038166+00:00"
+  }
+]

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-tamlamalar-2woav-mt91110x-9-vlfi",
+    "topic_id": "t-tamlamalar-2woav",
+    "prompt": "Aşağıdakilerden hangisi belirtili isim tamlamasına örnektir?",
+    "options": [
+      "Öğrencinin defteri",
+      "Öğrenci defteri",
+      "Demir kapı",
+      "Güzel çocuk",
+      "Ahmet Bey"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:02.373133+00:00",
+    "updated_at": "2026-08-25T18:57:02.373133+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-0-lh8b",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Genel bütçe kapsamındaki kamu idarelerinin edindiği taşınmazların tescili kural olarak kimin adına yapılır?",
+    "options": [
+      "Sayıştay",
+      "İlgili harcama birimi",
+      "Üst yönetici",
+      "Hazine",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hazine. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-1-n45d",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Taşınırların yönetimi, kaydı ve muhafazası bakımından sorumluluk kime aittir?",
+    "options": [
+      "Sadece muhasebe yetkilisine",
+      "İç denetçiye",
+      "Sadece üst yöneticiye",
+      "Sayıştaya",
+      "Kamu idarelerine"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kamu idarelerine. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-10-ubb9",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye ve tahsisini kaldırmaya aşağıdakilerden hangisi yetkilidir?",
+    "options": [
+      "İlgili idarenin üst yöneticisi",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "Sayıştay"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Çevre ve Şehircilik Bakanlığı. 5018 sayılı Kanun'un 47 nci maddesine göre Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye ve kamu ihtiyaçları için gerekli olmayanların tahsisini kaldırmaya Çevre ve Şehircilik Bakanlığı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-11-mksb",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre kamu idarelerince başka bir kamu idaresine veya köy tüzel kişiliğine tahsis edilen taşınmaz hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İstenilen amaçla kullanılabilir",
+      "Her yıl satılması zorunludur",
+      "Özel mülkiyete dönüştürülür",
+      "Tahsis amacı dışında kullanılamaz",
+      "Tahsisle birlikte mülkiyet kendiliğinden devredilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Tahsis amacı dışında kullanılamaz. Dayanak: 5018 sayılı Kanun, Madde 47.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-12-hpdf",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre genel yönetim kapsamındaki kamu idarelerinin taşınır ve taşınmaz edinmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Yalnızca yurt içinde ve peşin bedelle edinebilirler",
+      "Yalnızca bağış yoluyla edinebilirler",
+      "Sadece kamulaştırma yoluyla edinebilirler",
+      "Taşınmaz edinmeleri yasaktır",
+      "Yurt içinde veya yurt dışında, bedellerini peşin veya taksitle ödeyerek ya da finansal kiralama suretiyle edinebilirler"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Yurt içinde veya yurt dışında, bedellerini peşin veya taksitle ödeyerek ya da finansal kiralama suretiyle edinebilirler. Dayanak: 5018 sayılı Kanun, Madde 45.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-13-bayl",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre kamu hizmetlerinin zorunlu kıldığı taşınır ve taşınmazlar aşağıdaki yöntemlerden hangisiyle edinilemez?",
+    "options": [
+      "Forfaiting",
+      "Finansal kiralama",
+      "Satın alma",
+      "Kamulaştırma",
+      "Taksitle ödeme"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Forfaiting. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-14-cvej",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre kullanılmak üzere taşınır teslim edilen görevliler hangi husustan sorumludur?",
+    "options": [
+      "Taşınırın korunmasından ve taşınıra verilen zararlardan",
+      "Taşınırın bütçeye gelir kaydedilmesinden",
+      "Taşınırın ihale edilmesinden",
+      "Taşınırın vergi değerinin belirlenmesinden",
+      "Taşınırın özel ödeneğe dönüştürülmesinden"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Taşınırın korunmasından ve taşınıra verilen zararlardan. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 48.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-2-el8k",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Kamu idareleri mülkiyetindeki taşınmazları birbirlerine nasıl tahsis edebilirler?",
+    "options": [
+      "Hisse karşılığı",
+      "İpotek karşılığı",
+      "Rayiç bedelli",
+      "Yıllık kira ile",
+      "Bedelsiz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Bedelsiz. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-3-nd8e",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre Hazine adına tescil edilen taşınmazlar hangi bakanlık tarafından yönetilir?",
+    "options": [
+      "Adalet",
+      "Çevre ve Şehircilik",
+      "İçişleri",
+      "Millî Savunma",
+      "Hazine ve Maliye"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Çevre ve Şehircilik. Dayanak: 5018 sayılı Kanun, Madde 45 (Mevzuat metnindeki kanuni adı).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-4-9cax",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "5018 sayılı Kanun'a göre genel bütçe kapsamındaki kamu idarelerinin taşınır ve taşınmazlarının satışına .............. yetkilidir.",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "Millî Emlak Genel Müdürlüğü",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Çevre ve Şehircilik Bakanlığı. Dayanak: 5018 sayılı Kanun, Madde 46 (Mevzuat metnindeki kanuni adı).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-5-kb4c",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğünün taşınırlarının kayda alınması ile bunların yönetim ve iç denetimine ilişkin usul ve esaslar ne ile belirlenir?",
+    "options": [
+      "Millî Savunma Bakanlığı emriyle",
+      "Kanunla",
+      "Cumhurbaşkanı tarafından çıkarılan yönetmelikle",
+      "Genelgeyle",
+      "İç Yönetmelikle"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanı tarafından çıkarılan yönetmelikle. Dayanak: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-6-5rgn",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Genel yönetim kapsamındaki kamu idarelerinin mallarının kaydı ile taşınırların muhafazası ve kullanımına ilişkin usul ve esaslar hangi düzenleme ile belirlenir?",
+    "options": [
+      "TBMM İçtüzüğüyle",
+      "Sayıştay genelgesiyle",
+      "Hazine ve Maliye Bakanı tebliğiyle",
+      "Cumhurbaşkanı tarafından çıkarılan yönetmeliklerle",
+      "İç Denetim Koordinasyon Kurulu kararıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanı tarafından çıkarılan yönetmeliklerle. Dayanak: 5018 sayılı Kanun, Madde 44.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-7-47qd",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Genel bütçe kapsamı dışındaki kamu idarelerinin edindiği taşınmazlar tapu sicilinde kimin adına tescil olunur?",
+    "options": [
+      "Hazine adına",
+      "Çevre ve Şehircilik Bakanlığı adına",
+      "Cumhurbaşkanlığı adına",
+      "Sayıştay adına",
+      "İlgili kamu idaresinin tüzel kişiliği adına"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – İlgili kamu idaresinin tüzel kişiliği adına. Dayanak: 5018 sayılı Kanun, Madde 45.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-8-s6an",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Genel bütçe kapsamındaki kamu idarelerinin taşınır ve taşınmazlarının satışından elde edilen bedeller nereye gelir kaydedilir?",
+    "options": [
+      "Genel bütçeye",
+      "İlgili idarenin özel hesabına",
+      "Yedek ödeneğe",
+      "Döner sermayeye",
+      "Mahallî idare bütçesine"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Genel bütçeye. Dayanak: 5018 sayılı Kanun, Madde 46.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tasinir-ve-tasinmazlar-ydkdt-mtmz99uw-9-owek",
+    "topic_id": "t-tasinir-ve-tasinmazlar-ydkdt",
+    "prompt": "Taşınırların özelliğinden veya olağan kullanımından kaynaklanan yıpranma ile usulüne uygun belirlenen fireler için sorumluluk durumu nedir?",
+    "options": [
+      "Sorumluluk aranmaz",
+      "Her durumda üst yönetici sorumludur",
+      "Muhasebe yetkilisi sorumludur",
+      "Kullanıcıya iki kat tazmin uygulanır",
+      "Sayıştayın iznine bağlıdır"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Sorumluluk aranmaz. Dayanak: 5018 sayılı Kanun, Madde 48.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:16:13.854821+00:00",
+    "updated_at": "2026-09-04T13:16:13.854821+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-0-mc8y",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Misak-ı Millî kararlarının Son Osmanlı Mebusan Meclisinde kabul edildiği tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "19 Mayıs 1919",
+      "4 Eylül 1919",
+      "16 Mart 1920",
+      "23 Nisan 1920",
+      "28 Ocak 1920"
+    ],
+    "answer_index": 4,
+    "explanation": "Misak-ı Millî kararları 28 Ocak 1920'de kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-1-p929",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Misak-ı Millî'nde Batı Trakya'nın geleceğinin belirlenmesinde hangi yöntem öngörülmüştür?",
+    "options": [
+      "Savaş ilanı",
+      "Halk oylaması",
+      "Manda yönetimi",
+      "Padişah fermanı",
+      "Büyük devletlerin kararı"
+    ],
+    "answer_index": 1,
+    "explanation": "Misak-ı Millî'nde Batı Trakya'nın statüsünün halk oylamasıyla belirlenmesi istenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-10-f3t4",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Kuva-yı İnzibatiye'nin halk arasındaki diğer adı aşağıdakilerden hangisidir?",
+    "options": [
+      "Yıldırım Orduları",
+      "Kuva-yı Milliye",
+      "Nizamiye Ordusu",
+      "Halife Ordusu",
+      "Müdafaa Taburları"
+    ],
+    "answer_index": 3,
+    "explanation": "İstanbul Hükûmetinin Millî Mücadele'yi bastırmak için kurduğu Kuva-yı İnzibatiye, Halife Ordusu olarak da anılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-11-84yg",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaları bastırmak için çıkarılan kanun aşağıdakilerden hangisidir?",
+    "options": [
+      "Hıyanet-i Vataniye Kanunu",
+      "Teşkilat-ı Esasiye Kanunu",
+      "Tevhid-i Tedrisat Kanunu",
+      "Kabotaj Kanunu",
+      "Takrir-i Sükûn Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Hıyanet-i Vataniye Kanunu, Millî Mücadele aleyhindeki faaliyetleri cezalandırmak amacıyla çıkarılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-12-vq88",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaları yargılamak üzere kurulan mahkemeler aşağıdakilerden hangisidir?",
+    "options": [
+      "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "İstiklal Mahkemeleri",
+      "Kuva-yı Milliye",
+      "Kuva-yı İnzibatiye",
+      "Meclis-i Mebusan"
+    ],
+    "answer_index": 1,
+    "explanation": "İstiklal Mahkemeleri, ayaklanmaları ve vatana ihanet suçlarını yargılamak için kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-13-1fdu",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan ayaklanmaların yayılmasında İstanbul Hükûmetinin fetva ve propaganda faaliyetleri aşağıdakilerden hangisini amaçlamıştır?",
+    "options": [
+      "Millî Mücadele'nin meşruiyetini zayıflatmayı",
+      "Düzenli orduyu güçlendirmeyi",
+      "Kapitülasyonları kaldırmayı",
+      "Lozan Konferansı'nı toplamayı",
+      "Meclisin yetkisini artırmayı"
+    ],
+    "answer_index": 0,
+    "explanation": "Fetva ve propaganda, halkın TBMM'ye karşı kışkırtılmasında kullanılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-14-plrf",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Hıyanet-i Vataniye Kanunu hangi tarihte kabul edilmiştir?",
+    "options": [
+      "23 Nisan 1920",
+      "29 Nisan 1920",
+      "10 Ağustos 1920",
+      "20 Ocak 1921",
+      "1 Kasım 1922"
+    ],
+    "answer_index": 1,
+    "explanation": "Hıyanet-i Vataniye Kanunu 29 Nisan 1920'de kabul edilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-15-dvc7",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "İstiklal Mahkemelerinin kuruluşunda temel amaç aşağıdakilerden hangisidir?",
+    "options": [
+      "Dış borçları düzenlemek",
+      "Yerel seçimleri yapmak",
+      "Ayaklanma ve vatana ihanet suçlarını süratle yargılamak",
+      "Kapitülasyonları korumak",
+      "Mebusan Meclisini toplamak"
+    ],
+    "answer_index": 2,
+    "explanation": "İstiklal Mahkemeleri, Millî Mücadele'yi tehdit eden suçların hızlı biçimde yargılanması için kurulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-16-rtu4",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Aşağıdakilerden hangisi I. TBMM ile ilgili bir bilgi YANLIŞTIR?",
+    "options": [
+      "Meclis Ankara'da açılmıştır.",
+      "Meclis olağanüstü yetkilere sahiptir.",
+      "Yasama ve yürütme yetkileri mecliste toplanmıştır.",
+      "Meclis, İstanbul Hükûmetinin çağrısıyla açılmıştır.",
+      "Millî egemenlik anlayışını esas almıştır."
+    ],
+    "answer_index": 3,
+    "explanation": "TBMM, Mustafa Kemal'in yayımladığı genelge doğrultusunda millî iradeye dayanarak Ankara'da açılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-17-0r7x",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "1921 Anayasası'nda yasama ve yürütme yetkilerinin TBMM'de toplanması hangi yönetim anlayışını yansıtır?",
+    "options": [
+      "Güçler ayrılığı",
+      "Mutlak monarşi",
+      "Federalizm",
+      "Mandacılık",
+      "Güçler birliği"
+    ],
+    "answer_index": 4,
+    "explanation": "1921 Anayasası güçler birliği esasını benimsemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-18-3sm1",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Kuva-yı İnzibatiye'nin oluşturulmasında İstanbul Hükûmetinin başında bulunan sadrazam aşağıdakilerden hangisidir?",
+    "options": [
+      "Ali Rıza Paşa",
+      "Talat Paşa",
+      "Ahmet İzzet Paşa",
+      "Damat Ferid Paşa",
+      "Said Halim Paşa"
+    ],
+    "answer_index": 3,
+    "explanation": "Kuva-yı İnzibatiye, Damat Ferid Paşa Hükûmeti döneminde oluşturulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-19-jpyf",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "1921 Anayasası'nda egemenliğin millete ait olduğu belirtilirken kullanılan ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Egemenlik padişahındır.",
+      "Yönetim Allah'ın emridir.",
+      "Saltanat millete aittir.",
+      "Devlet yabancı himayesindedir.",
+      "Hâkimiyet bilâ kaydü şart milletindir."
+    ],
+    "answer_index": 4,
+    "explanation": "1921 Anayasası, egemenliğin kayıtsız şartsız millete ait olduğunu kabul etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-2-bnim",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "İstanbul'un resmen işgal edilmesinin ardından Mustafa Kemal Paşa'nın yayımladığı genelge ile hangi şehirde olağanüstü yetkili bir meclisin toplanması kararlaştırılmıştır?",
+    "options": [
+      "Sivas",
+      "Erzurum",
+      "Samsun",
+      "Ankara",
+      "Amasya"
+    ],
+    "answer_index": 3,
+    "explanation": "İstanbul'un işgali üzerine Ankara'da olağanüstü yetkili bir meclisin toplanması kararlaştırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-20-nxqo",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Aşağıdaki boşlukları sırasıyla en uygun biçimde tamamlayan seçenek hangisidir? TBMM, ayaklanmalara karşı - - - - Kanunu'nu çıkarmış ve yargılamalar için - - - - kurmuştur.",
+    "options": [
+      "Tevhid-i Tedrisat / Divan-ı Hümayun",
+      "Hıyanet-i Vataniye / İstiklal Mahkemeleri",
+      "Kabotaj / Meclis-i Mebusan",
+      "Takrir-i Sükûn / Cemiyet-i Akvam",
+      "Aşar / Nizamiye Mahkemeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "TBMM, ayaklanmalara karşı Hıyanet-i Vataniye Kanunu'nu çıkarmış ve İstiklal Mahkemelerini kurmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-21-3ic8",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "I. TBMM'nin yasama ve yürütme güçlerini elinde toplaması aşağıdaki durumlardan hangisiyle açıklanabilir?",
+    "options": [
+      "Saltanatı güçlendirme amacıyla",
+      "Kapitülasyonları koruma isteğiyle",
+      "Savaş koşullarında hızlı karar alma ihtiyacıyla",
+      "Yabancı devletlerin talebiyle",
+      "Yerel yönetimleri kaldırma amacıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "Olağanüstü savaş koşulları, mecliste güçler birliğinin benimsenmesinde etkili olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-22-jco7",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Son Osmanlı Mebusan Meclisinin dağıtılmasından sonra millî iradenin temsil edildiği merkez aşağıdakilerden hangisi olmuştur?",
+    "options": [
+      "Ankara'daki TBMM",
+      "İstanbul'daki Ayan Meclisi",
+      "Sivas Kongresi",
+      "Erzurum Kongresi",
+      "Paris Barış Konferansı"
+    ],
+    "answer_index": 0,
+    "explanation": "İstanbul'un işgali ve Mebusan Meclisinin dağıtılması sonrasında ulusal temsil Ankara'daki TBMM'de toplanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-23-kopb",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "İç ayaklanmaların bastırılması, düzenli ordunun kurulması bakımından hangi sonucu doğurmuştur?",
+    "options": [
+      "Yunan işgalini genişletmiştir.",
+      "İstanbul Hükûmetini güçlendirmiştir.",
+      "Askerî birliklerin cephelerde toplanmasını kolaylaştırmıştır.",
+      "Kapitülasyonları geri getirmiştir.",
+      "Mebusan Meclisini yeniden açmıştır."
+    ],
+    "answer_index": 2,
+    "explanation": "Ayaklanmaların bastırılması, insan ve malzeme kaynaklarının cephe mücadelesine yöneltilmesini kolaylaştırmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-24-c99g",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Misak-ı Millî'nde Boğazlarla ilgili kabul edilen temel ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "İstanbul ve Marmara'nın güvenliğinin sağlanması şartıyla ticarete açık tutulması",
+      "Boğazların tamamen yabancı yönetime bırakılması",
+      "Boğazların kapatılması",
+      "Boğazların Rusya'ya verilmesi",
+      "Boğazların Balkan devletlerince yönetilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Misak-ı Millî, İstanbul ve Marmara'nın güvenliği sağlanmak şartıyla Boğazların dünya ticaretine açık tutulmasını öngörmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-25-rvx1",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM hangi tarihte açılmıştır?",
+    "options": [
+      "23 Nisan 1920",
+      "19 Mayıs 1919",
+      "23 Temmuz 1919",
+      "4 Eylül 1919",
+      "16 Mart 1920"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-26-84pr",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılmasına doğrudan zemin hazırlayan gelişme aşağıdakilerden hangisidir?",
+    "options": [
+      "İstanbul'un işgali ve Meclis-i Mebusan'ın kapatılması",
+      "Mondros Ateşkes Antlaşması'nın imzalanması",
+      "Sivas Kongresi'nin toplanması",
+      "Amasya Genelgesi'nin yayımlanması",
+      "Erzurum Kongresi'nin toplanması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-27-tiah",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin ilk Meclis Başkanı kimdir?",
+    "options": [
+      "Mustafa Kemal Paşa",
+      "Celal Bayar",
+      "İsmet İnönü",
+      "Rauf Orbay",
+      "Fevzi Çakmak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-28-fib6",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin ilk açıldığı dönemde benimsediği yönetim şekli aşağıdakilerden hangisidir?",
+    "options": [
+      "Meclis hükûmeti sistemi (kuvvetler birliği)",
+      "Kuvvetler ayrılığı sistemi",
+      "Başkanlık sistemi",
+      "Yarı başkanlık sistemi",
+      "Cumhuriyet sistemi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-29-rded",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılışıyla birlikte ilan edilen, yasama-yürütme-yargı yetkilerinin mecliste toplandığı ilkeye ne ad verilir?",
+    "options": [
+      "Kuvvetler birliği ilkesi",
+      "Kuvvetler ayrılığı ilkesi",
+      "Egemenlik ilkesi",
+      "Milli irade ilkesi",
+      "Cumhuriyetçilik ilkesi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-3-vrp0",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Mustafa Kemal'in Ankara'da olağanüstü yetkilere sahip bir meclis toplanması için yayımladığı genelge aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+    "options": [
+      "Saltanatın kaldırılması",
+      "Türkiye Büyük Millet Meclisinin açılması",
+      "Lozan Konferansı'nın toplanması",
+      "Cumhuriyetin ilan edilmesi",
+      "Kapitülasyonların kaldırılması"
+    ],
+    "answer_index": 1,
+    "explanation": "19 Mart 1920 genelgesiyle Ankara'da yeni bir meclis toplanması istenmiş, TBMM 23 Nisan 1920'de açılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-30-td6g",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılışından sonra çıkarılan ve TBMM'ye karşı gelenleri, isyanı destekleyenleri cezalandırmayı amaçlayan kanun aşağıdakilerden hangisidir?",
+    "options": [
+      "Hıyanet-i Vataniye Kanunu",
+      "Teşkilat-ı Esasiye Kanunu",
+      "Men-i İsrafat Kanunu",
+      "Tekalif-i Milliye Emirleri",
+      "Nisab-ı Müzakere Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-31-g20z",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Hıyanet-i Vataniye Kanunu'na göre yargılama yapmak üzere kurulan mahkemeler aşağıdakilerden hangisidir?",
+    "options": [
+      "İstiklal Mahkemeleri",
+      "Divan-ı Harp",
+      "Şer'iyye Mahkemeleri",
+      "Nizamiye Mahkemeleri",
+      "Konsolosluk Mahkemeleri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-32-k4ey",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Misak-ı Millî kararları ilk olarak hangi toplantıda alınmıştır?",
+    "options": [
+      "Son Osmanlı Mebuslar Meclisi",
+      "Erzurum Kongresi",
+      "Sivas Kongresi",
+      "TBMM'nin ilk toplantısı",
+      "Amasya Görüşmeleri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-33-mh0r",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Misak-ı Millî kararları TBMM tarafından hangi tarihte kabul edilmiştir?",
+    "options": [
+      "28 Ocak 1920",
+      "23 Nisan 1920",
+      "19 Mayıs 1919",
+      "16 Mart 1920",
+      "10 Ağustos 1920"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-34-fgck",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Aşağıdakilerden hangisi TBMM Hükûmetine karşı çıkan iç ayaklanmalardan biri değildir?",
+    "options": [
+      "Çanakkale Savaşı",
+      "Bozkır Ayaklanması",
+      "Anzavur Ayaklanması",
+      "Konya Ayaklanması",
+      "Milli Aşireti Ayaklanması"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-35-6z9g",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Pontus Rum Ayaklanması'nın amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Karadeniz Bölgesi'nde bağımsız bir Rum devleti kurmak",
+      "Doğu Anadolu'da bağımsız bir devlet kurmak",
+      "İstanbul'u işgal etmek",
+      "Halifeliği güçlendirmek",
+      "Saltanatı yeniden ilan etmek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-36-3t7i",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Koçgiri Ayaklanması hangi bölgede çıkmıştır?",
+    "options": [
+      "Sivas-Erzincan çevresi",
+      "Konya çevresi",
+      "Bolu-Düzce çevresi",
+      "İzmir çevresi",
+      "Antep çevresi"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-37-mzyj",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Anzavur Ayaklanması hangi amaçla desteklenmiştir?",
+    "options": [
+      "İstanbul Hükûmeti ve İngilizler tarafından TBMM'yi zayıflatmak",
+      "TBMM'yi güçlendirmek",
+      "Yunan işgaline karşı direnmek",
+      "Fransız işgaline karşı direnmek",
+      "Sovyet Rusya ile ittifak kurmak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-38-jt1p",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Kuvay-ı İnzibatiye (Halifelik Ordusu) kim tarafından kurulmuştur?",
+    "options": [
+      "İstanbul Hükûmeti",
+      "TBMM Hükûmeti",
+      "İtilaf Devletleri",
+      "Sovyet Rusya",
+      "Yunanistan"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-39-1dig",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Kuvay-ı İnzibatiye'nin kurulma amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Milli Mücadele hareketini bastırmak",
+      "Milli Mücadele hareketini desteklemek",
+      "Yunan ordusuyla savaşmak",
+      "Ermeni saldırılarına karşı koymak",
+      "İtilaf Devletleriyle mücadele etmek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-4-muv1",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin açılış hazırlıkları için milletvekillerinin Ankara'ya çağrılmasını sağlayan genelge hangi tarihte yayımlanmıştır?",
+    "options": [
+      "22 Haziran 1919",
+      "4 Eylül 1919",
+      "16 Mart 1920",
+      "19 Mart 1920",
+      "20 Ocak 1921"
+    ],
+    "answer_index": 3,
+    "explanation": "Mustafa Kemal Paşa, 19 Mart 1920 Genelgesi ile Ankara'da meclis toplanması için çağrı yapmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-40-kfg3",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Demirci Mehmet Efe Ayaklanması hangi bölgede etkili olmuştur?",
+    "options": [
+      "Ege Bölgesi (Kuvay-ı Milliye içinden çıkan bir isyan)",
+      "Karadeniz Bölgesi",
+      "Doğu Anadolu",
+      "Güneydoğu Anadolu",
+      "Trakya"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-41-fo5k",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin iç ayaklanmaları bastırmasında hangi güçler etkili rol oynamıştır?",
+    "options": [
+      "Düzenli ordu birlikleri ve bir kısım Kuvay-ı Milliye güçleri",
+      "Sadece İtilaf Devletleri",
+      "Sadece İstanbul Hükûmeti güçleri",
+      "Sadece Yunan ordusu",
+      "Sadece Sovyet Rusya birlikleri"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-42-pmcf",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'ye karşı çıkan iç ayaklanmaların ortak amacı genel olarak aşağıdakilerden hangisidir?",
+    "options": [
+      "Milli Mücadele hareketini zayıflatmak veya durdurmak",
+      "Cumhuriyeti ilan etmek",
+      "Saltanatı kaldırmak",
+      "Halifeliği kaldırmak",
+      "Yeni bir anayasa hazırlamak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-43-wm4l",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "TBMM'nin ilk anayasası olan Teşkilât-ı Esasiye Kanunu hangi tarihte kabul edilmiştir?",
+    "options": [
+      "20 Ocak 1921",
+      "23 Nisan 1920",
+      "29 Ekim 1923",
+      "20 Nisan 1924",
+      "10 Ağustos 1920"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-44-yqci",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "1921 Teşkilât-ı Esasiye Kanunu'na göre egemenlik kime aittir?",
+    "options": [
+      "Millete",
+      "Padişaha",
+      "Halifeye",
+      "İtilaf Devletlerine",
+      "TBMM Başkanına"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-5-nmsh",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Meclis Hükûmeti Sisteminde bakanların göreve gelme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "Meclis tarafından tek tek seçilmeleri",
+      "Cumhurbaşkanınca atanmaları",
+      "Padişahın fermanıyla belirlenmeleri",
+      "Halk oylamasıyla seçilmeleri",
+      "Yabancı devletlerce görevlendirilmeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Meclis Hükûmeti Sisteminde vekiller meclis tarafından ayrı ayrı seçilirdi.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-6-193e",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "I. TBMM döneminde yürütme görevini yerine getiren kurul aşağıdakilerden hangisidir?",
+    "options": [
+      "Ayan Meclisi",
+      "Meclis-i Âli",
+      "Kuva-yı İnzibatiye",
+      "Müdafaa-i Hukuk Cemiyeti",
+      "İcra Vekilleri Heyeti"
+    ],
+    "answer_index": 4,
+    "explanation": "I. TBMM'de yürütme görevi İcra Vekilleri Heyeti tarafından yürütülmüştür.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-7-u34n",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "1921 Teşkilat-ı Esasiye Kanunu kaç maddeden oluşmuştur?",
+    "options": [
+      "12",
+      "42",
+      "23",
+      "76",
+      "105"
+    ],
+    "answer_index": 2,
+    "explanation": "1921 Anayasası kısa ve çerçeve nitelikli olup 23 maddeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-8-o4kh",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "1921 Anayasası'nda yerel yönetimlerle ilgili öngörülen ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Mutlak merkeziyetçilik",
+      "Saltanat yönetimi",
+      "Mandater yönetim",
+      "Sömürge yönetimi",
+      "Yerinden yönetim"
+    ],
+    "answer_index": 4,
+    "explanation": "1921 Anayasası, yerel yönetimlere geniş yetki tanıyan yerinden yönetim anlayışını benimsemiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp-mt9sgluj-9-dvae",
+    "topic_id": "t-tbmm-nin-acilisi-ve-ayaklanmalar-tydwp",
+    "prompt": "Aşağıdakilerden hangisi I. TBMM'nin özelliklerinden biri değildir?",
+    "options": [
+      "Olağanüstü yetkilere sahip olması",
+      "Güçler birliği ilkesini benimsemesi",
+      "Siyasi partilerden oluşan düzenli bir meclis olması",
+      "Meclis Hükûmeti Sistemini uygulaması",
+      "Millî egemenliği esas alması"
+    ],
+    "answer_index": 2,
+    "explanation": "I. TBMM'de siyasi partiler yoktu; farklı görüşteki milletvekilleri gruplar hâlinde bulunuyordu.",
+    "sort_order": 0,
+    "created_at": "2026-08-26T07:44:59.667554+00:00",
+    "updated_at": "2026-08-26T07:44:59.667554+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-0-uqoc",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, ita amirince onaylanan ihale kararları, onaylandığı günden itibaren en geç kaç iş günü içinde, üzerine ihale yapılana veya vekiline, imzası alınmak suretiyle bildirilir veya iadeli taahhütlü mektupla tebligat adresine postalanır?",
+    "options": [
+      "10",
+      "5",
+      "9",
+      "7",
+      "3"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32'ye göre onaylanan ihale kararları, onaylandığı günden itibaren en geç 5 iş günü içinde istekliye bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-1-5w3b",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Devlet İhale Kanunu kapsamında artırmalarda uygun bedel aşağıdakilerden hangisidir?",
+    "options": [
+      "Teklif edilen bedellerin tercihe layık görülenidir.",
+      "Tahmin edilen bedeli aşmak üzere teklif edilen bedellerin en yükseğidir.",
+      "Tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğidir.",
+      "Teklif edilen bedellerden tahmin edilen bedeli geçmemek şartıyla tercihe layık görülenidir.",
+      "Tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en düşüğüdür."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 28'in birinci fıkrasına göre artırmalarda uygun bedel, tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-10-cmdm",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale yetkilisi (ita amiri), ihale komisyonu kararını iptal ederse bu durumun hukuki sonucu ne olur?",
+    "options": [
+      "İhale otomatik olarak pazarlık usulüne döner.",
+      "Karar Danıştay'a gider.",
+      "İhale hükümsüz sayılır.",
+      "En yüksek ikinci teklif sahibi ile sözleşme yapılır.",
+      "Komisyon tekrar toplanarak yeni bir karar alır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 31'in ikinci fıkrasına göre ita amirince karar iptal edilirse ihale hükümsüz sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-11-henm",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, teklifler verildikten sonra bu Kanunda yazılı hâller dışında yapılan zam veya indirim teklifleri hakkında ne işlem yapılır?",
+    "options": [
+      "Komisyon uygun görürse değerlendirmeye alınır",
+      "İta amirinin onayıyla kabul edilebilir",
+      "Yalnızca artırma ihalelerinde kabul edilir",
+      "Kabul edilmez",
+      "Tutanağa geçirilmek kaydıyla kabul edilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 33'e göre teklifler verildikten sonra, bu Kanunda yazılı hâller dışında zam veya indirim teklifleri kabul edilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-12-n4vz",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale komisyonunca alınan kararlar hangi bilgiler belirtilerek imzalanır?",
+    "options": [
+      "Yalnız komisyon başkanının adı",
+      "Komisyon başkan ve üyelerinin adları, soyadları ve esas görevleri",
+      "İsteklilerin yalnız vergi numaraları",
+      "Sadece ihale tarih ve saati",
+      "Yalnız ita amirinin adı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 30'a göre kararlar, komisyon başkan ve üyelerinin adları, soyadları ve esas görevleri belirtilerek imzalanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-13-q2lh",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "Madde 30'a göre ihale komisyonu kararlarında istekliler bakımından aşağıdakilerden hangileri belirtilir?\nI. İsimleri\nII. Adresleri\nIII. Teklif ettikleri bedeller",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I, II ve III",
+      "II ve III",
+      "I ve II"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 30'a göre kararlarda isteklilerin isimleri, adresleri ve teklif ettikleri bedeller belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-14-gslb",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale komisyonu kararında ihale sonucuna ilişkin hangi hususların belirtilmesi gerekir?",
+    "options": [
+      "Yalnız geçici teminat miktarının",
+      "Yalnız ihale tarihinin",
+      "Sadece kazanan isteklinin adresinin",
+      "İhalenin hangi tarihte ve hangi istekli üzerine hangi gerekçelerle yapıldığı; ihale yapılmamışsa nedenleri",
+      "Sadece ilan tarihinin"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 30'a göre kararda ihalenin hangi tarihte ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamışsa nedenleri belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-2-au7q",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Devlet İhale Kanunu kapsamında uygun bedelin tercihinde kullanılacak kriterler ile eksiltmelerde kabul edilecek azami indirim miktar veya oranları; işin niteliği, nevi ve miktarı, birim fiyatları, istekli tarafından talep edilen avans miktarı ve isteklinin buna benzer teknik ve mali yeterliğiyle ilgili diğer hususlar da göz önünde bulundurulmak ve gerektiğinde diğer bakanlıkların görüşleri alınmak suretiyle her yıl hangi bakanın koordinatörlüğünde oluşturulacak toplantıyla tespit olunarak Resmî Gazete'de yayımlanır?",
+    "options": [
+      "Enerji ve Tabii Kaynaklar Bakanının",
+      "Tarım Orman ve Köy İşleri Bakanının",
+      "Maliye Bakanının",
+      "Milli Savunma Bakanının",
+      "Bayındırlık ve İskan Bakanının"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 28'in son fıkrasına göre uygun bedelin tercihinde kullanılacak kriterler her yıl Bayındırlık ve İskan Bakanının koordinatörlüğünde ilgili bakanlarca tespit olunarak Resmî Gazetede yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-3-jzuc",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, uygun bedelin tespitine ilişkin ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Uygun bedelin tercihinde kullanılacak kriterler ile eksiltmelerde kabul edilecek azami indirim miktar veya oranları; işin niteliği, nevi ve miktarı, birim fiyatları, istekli tarafından talep edilen avans miktarı ve isteklinin buna benzer teknik ve mali yeterliği ile ilgili diğer hususlar da gözönünde bulundurulmak ve gerektiğinde diğer bakanlıkların da görüşleri alınmak suretiyle her yıl Bayındırlık ve İskan Bakanının koordinatörlüğünde Milli Savunma, Maliye ve Gümrük, Tarım Orman ve Köy İşleri, Enerji ve Tabii Kaynaklar Bakanlarınca tespit olunarak Resmî Gazete'de yayımlanır.",
+      "Eksiltmelerde uygun bedel; tahmin edilen bedeli geçmemek şartı ile, teklif edilen bedellerin tercihe layık görülenidir.",
+      "Artırmalarda uygun bedel; tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğidir.",
+      "Kapalı teklif usulüyle yapılan ihalelerde; bedel tahmini yapılmışsa uygun bedel, teklif edilen bedellerden tahmin edilen bedeli geçmemek şartıyla tercihe layık görüleni; bedel tahmini yapılmamışsa uygun bedel, teklif edilen bedellerin tercihe layık görülenidir.",
+      "Milli firmalar lehine hangi orana kadar ayırım yapılabileceği Hazine ve Maliye Bakanlığınca tespit edilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 28'in dördüncü fıkrasına göre milli firmalar lehine hangi orana kadar ayırım yapılabileceğini Cumhurbaşkanı tespit eder; 'Hazine ve Maliye Bakanlığı' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-4-b6rh",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale komisyonu kararları, karar tarihinden itibaren en geç kaç iş günü içinde ita amirince onaylanır veya iptal edilir?",
+    "options": [
+      "30 iş günü",
+      "15 iş günü",
+      "10 iş günü",
+      "5 iş günü",
+      "7 iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 31'e göre ihale komisyonu kararları en geç 15 iş günü içinde ita amirince onaylanır veya iptal edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-5-se95",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhalelerde \"millî firmalar\" lehine ayrım yapılıp yapılmayacağını ve oranını kim tespit eder?",
+    "options": [
+      "İhale Komisyonu",
+      "Hazine ve Maliye Bakanlığı",
+      "Ticaret Bakanlığı",
+      "Sanayi ve Teknoloji Bakanlığı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 28'in dördüncü fıkrasına göre milli firmalar lehine hangi orana kadar ayırım yapılabileceğini Cumhurbaşkanı tespit eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-6-ng6l",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale sırasında hazır bulunmayan ve vekil de göndermeyen bir istekli, ihalenin yapılış tarzına itiraz edebilir mi?",
+    "options": [
+      "Sadece usulsüzlük varsa edebilir.",
+      "Hayır, itiraz edemezler.",
+      "Sadece teminatı yanarsa itiraz edebilir.",
+      "Evet, 7 gün içinde edebilir.",
+      "Evet, ihale kararı onaylanana kadar edebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 34'e göre ihale sırasında hazır bulunmayan veya noterden tasdikli vekaletname ile vekil göndermeyen istekliler, ihalenin yapılış tarzına ve sonucuna itiraz edemezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-7-y28u",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Kanun'a göre, bedel tahmini yapılmamışsa kapalı teklif usulüyle yapılan ihalenin geçerli sayılması neye bağlıdır?",
+    "options": [
+      "Geçerli sayılması ilgili bakanın onayına bağlıdır.",
+      "İhale komisyonunca doğrudan iptal edilir.",
+      "Yeniden ilana çıkılmadan pazarlığa geçilir.",
+      "Tekliflerin ortalaması alınarak karar verilir.",
+      "Teklif edilen bedellerin en yükseği kabul edilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 28'in üçüncü fıkrasının son cümlesine göre, bedel tahmini yapılmamış kapalı teklif usulü ihalelerde ihalenin geçerli sayılması bizzat ilgili bakanın onayına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-8-l90x",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "2886 sayılı Kanun'a göre \"uygun bedel\"in tespitiyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      "Pazarlık usulünde: Tahmin edilen bedellerin aritmetik ortalaması alınır",
+      "Kapalı teklif (bedel tahmini yapılmamış): Teklif edilen en düşük bedeldir",
+      "Eksiltmelerde: Tahmin edilen bedelden aşağı olmamak üzere en düşük bedeldir",
+      "Artırmalarda: Tahmin edilen bedeli geçmemek şartıyla en yüksek bedeldir",
+      "Kapalı teklif (bedel tahmini yapılmış): Tahmini bedeli geçmemek üzere tercihe layık görülendir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 28'e göre artırmalarda uygun bedel teklif edilen bedellerin en yükseği, eksiltmelerde tercihe layık görüleni; kapalı teklif usulünde bedel tahmini yapılmışsa tahmin edilen bedeli geçmemek şartıyla tercihe layık görülenidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-tekliflerin-degerlendirilmesi-2l1yu-mtmzvafi-9-pc3m",
+    "topic_id": "t-tekliflerin-degerlendirilmesi-2l1yu",
+    "prompt": "İhale komisyonunun ihaleyi yapıp yapmamaktaki takdir yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Komisyonun ihaleyi yapmama kararı ita amirinin onayına tabidir.",
+      "Komisyon ihaleyi iptal ederse en düşük teklif sahibine tazminat öder.",
+      "İhaleyi yapmama kararı ancak ilgili bakanlık izniyle alınabilir.",
+      "Komisyon gerekçe belirterek serbesttir; yapmama kararı kesindir.",
+      "Komisyon ihaleyi yapmazsa istekli 5 gün içinde itiraz edebilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 29'a göre komisyonlar gerekçesini belirtmek suretiyle ihaleyi yapıp yapmamakta serbesttir ve komisyonların ihaleyi yapmama kararı kesindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:21.063158+00:00",
+    "updated_at": "2026-09-04T13:33:21.063158+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-0-19np",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme hükümleri, sözleşmenin yapıldığı tarihi takip eden kaç mali yıl için geçerlidir?",
+    "options": [
+      "3 mali yıl",
+      "1 mali yıl",
+      "4 mali yıl",
+      "2 mali yıl",
+      "5 mali yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 28'in üçüncü fıkrasına göre toplu sözleşme hükümleri, sözleşmenin yapıldığı tarihi takip eden iki mali yıl için geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-1-to2e",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, 5510 sayılı Kanun'un 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılık hâli esas alınarak bağlanan yaşlılık, malullük veya ölüm aylıklarında yapılacak artışlar hakkında 5510 sayılı Kanun'un ............... uygulanmaz.",
+    "options": [
+      "55 inci maddesinin ikinci fıkrası",
+      "47 nci maddesinin sekizinci fıkrası",
+      "4 üncü maddesinin birinci fıkrası",
+      "64 üncü maddesi",
+      "ek 15 inci maddesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 28'in son fıkrasına göre, 5510 sayılı Kanun'un 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılık hâli esas alınarak bağlanan yaşlılık, malullük veya ölüm aylıklarında yapılacak artışlar hakkında 5510 sayılı Kanun'un 55 inci maddesinin ikinci fıkrası uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-10-wuam",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplam kamu görevlisi sayısı ile sendika üyesi kamu görevlilerinin sendikalara göre toplam sayılarını gösteren imzalı tutanak, kamu işvereni ve sendikalarca hangi ayın son iş gününe kadar Bakanlığa gönderilir?",
+    "options": [
+      "Ocak",
+      "Mayıs",
+      "Aralık",
+      "Eylül",
+      "Şubat"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 30'un ikinci fıkrasının (a) bendine göre imzalı tutanak, mayıs ayının son iş gününe kadar Çalışma ve Sosyal Güvenlik Bakanlığına gönderilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-11-vpxk",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, üye sayısı tespitine ilişkin Resmî Gazetede yayımlanan sonuçlara karşı, yayım tarihinden itibaren kaç işgünü içinde hangi mahkemeye itiraz edilebilir?",
+    "options": [
+      "3 işgünü içinde Ankara İş Mahkemesine",
+      "15 gün içinde Anayasa Mahkemesine",
+      "5 işgünü içinde Ankara İş Mahkemesine",
+      "5 işgünü içinde Danıştaya",
+      "30 gün içinde İdare Mahkemesine"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 30'un son fıkrasına göre sonuçların yayımı tarihinden itibaren beş işgünü içinde sendika ve konfederasyonlarca Ankara İş Mahkemesine itiraz edilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-12-uoun",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmeleri hangi yıllarda yapılır?",
+    "options": [
+      "İhtiyaç duyulan yıllarda",
+      "Her yıl",
+      "4 yılda bir",
+      "Son rakamı çift olan yıllarda",
+      "Son rakamı tek olan yıllarda"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 31'in birinci fıkrasına göre toplu sözleşme görüşmeleri son rakamı tek olan yıllarda yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-13-mymz",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerine hangi tarihte başlanır?",
+    "options": [
+      "Ağustos ayının ilk işgünü",
+      "Haziran ayının ilk işgünü",
+      "Mayıs ayının ilk işgünü",
+      "Temmuz ayının ilk işgünü",
+      "Eylül ayının ilk işgünü"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 31'in dördüncü fıkrasına göre toplu sözleşme görüşmelerine ağustos ayının ilk işgünü başlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-14-l2cq",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme süreci Kamu Görevlileri Hakem Kurulu kararının alınması dâhil en geç hangi tarihte tamamlanır?",
+    "options": [
+      "30 Ağustos",
+      "15 Ağustos",
+      "20 Ağustos",
+      "1 Eylül",
+      "Ağustos ayının son işgünü"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 31'in dördüncü fıkrasına göre toplu sözleşme süreci en geç ağustos ayının son işgünü tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-15-4vqq",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerine teknik heyet olarak Kamu Görevlileri Sendikaları Heyetinin belirleyeceği temsilciler en fazla kaç kişiyi geçemez?",
+    "options": [
+      "15",
+      "5",
+      "10",
+      "Sayı sınırı yoktur",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 31'in üçüncü fıkrasına göre Kamu Görevlileri Sendikaları Heyetinin teknik heyet olarak belirleyeceği temsilcilerin toplam sayısı onbeşi geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-16-5ldq",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, imzalanan toplu sözleşme metinleri nerede yayımlanır?",
+    "options": [
+      "Sendika internet sitesinde",
+      "Yerel gazetelerde",
+      "Bakanlık bülteninde",
+      "Resmî Gazetede",
+      "Kurum panolarında"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 31'in altıncı fıkrasına göre imzalanan toplu sözleşme metinleri Resmî Gazetede yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-17-px7h",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerine katılmaya yetkili hiçbir konfederasyon temsilcisi görüşmelere katılmaz ve Hakem Kuruluna da başvurulmazsa ne olur?",
+    "options": [
+      "Kamu görevlilerine sonraki iki mali yıl boyunca uygulanacak mali ve sosyal haklar genel hükümlere göre belirlenir",
+      "Görüşmeler bir sonraki mali yıla ertelenir ve yeniden başlatılır",
+      "Önceki toplu sözleşme hükümleri herhangi bir değişiklik olmaksızın aynen uzar",
+      "Cumhurbaşkanı doğrudan karar verir, Hakem Kuruluna başvuruya gerek kalmaz",
+      "Toplu sözleşme kendiliğinden yürürlüğe girer, ayrıca onaya gerek kalmaz"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 31'in son fıkrasına göre bu durumda kamu görevlilerine sonraki iki mali yıl boyunca uygulanacak mali ve sosyal haklar genel hükümlere göre belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-18-oeyf",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesinde, bu madde kapsamında yapılan sözleşmenin Kanun'un uygulanması bakımından hangi nitelikte sayılmayacağı açıkça belirtilmiştir?",
+    "options": [
+      "Mutabakat metni",
+      "Toplu sözleşme",
+      "Mahalli idare ile sendika arasında imzalanan bir sözleşme",
+      "Sosyal denge tazminatı ödenmesine ilişkin bir sözleşme",
+      "Belirli süreli bir sözleşme"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32'ye göre sosyal denge tazminatı tutarını belirlemek üzere yapılan bu sözleşme, bu Kanun'un uygulanması bakımından toplu sözleşme sayılmaz ve bu kapsamda Kamu Görevlileri Hakem Kuruluna başvurulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-19-rcvs",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesi kapsamında belediyelerde ve il özel idarelerinde imzalanan sözleşmenin süresi en fazla hangi tarihe kadar uygulanabilir?",
+    "options": [
+      "2 yıl, süre sonunda yenilenmesi zorunludur",
+      "Belediye başkanının görev süresi bitene kadar",
+      "İzleyen mahalli idareler genel seçimi tarihine kadar",
+      "Mali yıl sonuna kadar",
+      "1 yıl, her yıl yeniden imzalanması gerekir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 32'nin ikinci fıkrasına göre sözleşme süresi hiçbir şekilde izleyen mahalli idareler genel seçimi tarihini geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-2-c2ir",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme ikramiyesi hariç olmak üzere, toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olmayan kamu görevlileri nasıl yararlanırlar?",
+    "options": [
+      "Yararlanamazlar, ayrıca aidat da ödemezler",
+      "Dayanışma aidatı ödeyerek yararlanırlar, sendikaya üye olmaksızın",
+      "Sendika üyesi olanlarla aynı şekilde yararlanırlar, ayrım yapılamaz",
+      "Dilekçe vererek yararlanırlar, kurumun onayına tabidir",
+      "Sadece maaş artışından yararlanırlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 28'in ikinci fıkrasına göre toplu sözleşme ikramiyesi hariç olmak üzere, toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve olmayan kamu görevlileri arasında ayrım yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-20-6n3h",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesi kapsamındaki sözleşme hangi mahalli idare yetkilisi ile en çok üyeye sahip sendikanın temsilcisi arasında imzalanabilir?",
+    "options": [
+      "İçişleri Bakanlığı temsilcisi ile",
+      "Yalnızca il genel meclisi kararıyla, taraf imzası aranmaz",
+      "Belediyelerde meclis başkanı, il özel idarelerinde encümen başkanı",
+      "Belediyelerde belediye başkanı, il özel idarelerinde vali",
+      "Yalnızca belediye meclisi kararıyla, taraf imzası aranmaz"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 32'nin birinci fıkrasına göre sözleşme, belediyelerde belediye başkanı, il özel idarelerinde vali ile en çok üyeye sahip sendikanın yetkilendireceği temsilci arasında imzalanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-21-4xwt",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesi kapsamında yapılan sözleşmeye dayanılarak yapılan ödemeler için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Emekli aylığına esas alınır",
+      "Kazanılmış hak sayılmaz",
+      "Toplu sözleşme ikramiyesi sayılır",
+      "Kazanılmış hak sayılır",
+      "Vergi muafiyeti kapsamındadır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32'nin ikinci fıkrasına göre bu sözleşmeye dayanılarak yapılan ödemeler kazanılmış hak sayılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-22-fxd0",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplantı tutanağının imzalanmasından veya uzlaşmazlığın tespit tutanağıyla belirlenmesinden itibaren kaç işgünü içinde Kamu Görevlileri Hakem Kuruluna başvurulabilir?",
+    "options": [
+      "15 işgünü",
+      "5 işgünü",
+      "10 işgünü",
+      "3 işgünü",
+      "7 işgünü"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 33'ün üçüncü fıkrasına göre bu süre, ilgili tutanağın oluşmasından itibaren üç işgünüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-23-5dv7",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme kapsamına girmeyen konularda Kamu Görevlileri Hakem Kuruluna başvurulabilir mi?",
+    "options": [
+      "Hayır, toplu sözleşme kapsamına girmeyen konularda Hakem Kuruluna başvurulamaz",
+      "Yalnızca Cumhurbaşkanı izniyle başvurulabilir",
+      "Yalnızca genel konularda başvurulabilir, özel konular hariçtir",
+      "Evet, her konuda başvurulabilir, herhangi bir sınır yoktur",
+      "Yalnızca hizmet koluna özgü konularda başvurulabilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 33'ün dördüncü fıkrasına göre toplu sözleşme kapsamına girmeyen konulara ilişkin olarak Kamu Görevlileri Hakem Kuruluna başvurulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-24-fty2",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu kaç üyeden oluşur?",
+    "options": [
+      "15",
+      "11",
+      "7",
+      "9",
+      "13"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 34'ün birinci fıkrasına göre Kurul onbir üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-25-tls7",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu kararları hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Anayasa Mahkemesine iptal davası açılabilir",
+      "Tavsiye niteliğindedir",
+      "Danıştay'a itiraz edilebilir",
+      "Cumhurbaşkanı onaylarsa yürürlüğe girer",
+      "Kesindir ve toplu sözleşme hükmündedir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 34'ün altıncı fıkrasına göre Kurul kararları kesindir ve toplu sözleşme hükmündedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-26-npwq",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu, tarafların başvuru tarihinden itibaren kararını kaç gün içinde verir?",
+    "options": [
+      "15 gün",
+      "5 gün",
+      "3 gün",
+      "30 gün",
+      "7 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 34'ün üçüncü fıkrasına göre Kurul, başvuru tarihinden itibaren beş gün içinde kararını verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-27-obe4",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu, Başkanın çağrısı üzerine Başkan dâhil en az kaç üyenin katılımıyla toplanır?",
+    "options": [
+      "8",
+      "9",
+      "11 (tüm üyeler)",
+      "7",
+      "5"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 34'ün üçüncü fıkrasına göre Kurul, Başkan dâhil en az sekiz üyenin katılımıyla toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-28-1dz4",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu üyeleri oylamalarda çekimser oy kullanabilir mi?",
+    "options": [
+      "Yalnızca akademisyen üyeler çekimser kalabilir",
+      "Oylama gizliyse çekimser kalınabilir",
+      "Evet, serbestçe kullanabilirler",
+      "Başkan izin verirse çekimser kalınabilir",
+      "Hayır, üyeler çekimser oy kullanamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 34'ün dördüncü fıkrasına göre Kurul üyeleri çekimser oy kullanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-29-mco2",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu Başkanı kimler arasından seçilir?",
+    "options": [
+      "Üniversite rektörleri arasından, YÖK'ün göstereceği adaylar arasından belirlenerek",
+      "Bakanlar arasından, Cumhurbaşkanınca doğrudan ve resen atanmak suretiyle",
+      "Baro başkanları arasından, ilgili meslek örgütünün önerisi doğrultusunda",
+      "Yargıtay, Danıştay ve Sayıştay Başkan, Başkanvekili, Başkan Yardımcısı veya Daire Başkanları arasından",
+      "Vali ve kaymakamlar arasından, mülki idare kademesine göre sırayla"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 34/a'ya göre Kurul Başkanı, Yargıtay, Danıştay ve Sayıştay Başkan, Başkanvekili, Başkan Yardımcısı veya Daire Başkanları arasından Cumhurbaşkanınca seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-3-ixid",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi toplu sözleşme kapsamına giren konulardan biri değildir?",
+    "options": [
+      "Disiplin cezalarının türü ve infazı",
+      "Fazla çalışma ücreti",
+      "Yiyecek ve giyecek yardımları",
+      "Doğum, ölüm ve aile yardımı ödenekleri",
+      "Aylık ve ücretler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 28'e göre toplu sözleşme; katsayı ve göstergeler, aylık ve ücretler, zam ve tazminatlar, ek ödeme, fazla çalışma ücreti, harcırah, doğum-ölüm-aile yardımı ödenekleri, cenaze giderleri, yiyecek ve giyecek yardımları ile diğer mali ve sosyal hakları kapsar; disiplin cezalarının türü ve infazı bu kapsamda değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-30-n9j4",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulunda 34 üncü maddenin (c) bendi uyarınca konfederasyonlar tarafından belirlenecek üye sayısı kaçtır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer_index": 2,
+    "explanation": "34 üncü maddenin (c) bendine göre en fazla üyeye sahip konfederasyondan 2, ikinci ve üçüncü sıradaki konfederasyonlardan birer üye olmak üzere toplam 4 üye konfederasyonlar tarafından belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-31-g8qx",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulundaki akademisyen (öğretim üyesi) üyeler en az hangi unvana sahip olmalıdır?",
+    "options": [
+      "En az Doçent",
+      "Araştırma Görevlisi",
+      "Profesör",
+      "Doktor Öğretim Üyesi",
+      "Unvan şartı aranmaz"
+    ],
+    "answer_index": 0,
+    "explanation": "34 üncü maddenin (d) ve (e) bentlerine göre öğretim üyesi olarak görevlendirilecek üyelerin ilgili bilim dallarında en az Doçent unvanını taşıması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-32-vr4t",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu kararları verildikten sonra kaç gün içinde taraflara yazılı olarak bildirilir ve Resmî Gazetede yayımlanır?",
+    "options": [
+      "1 gün",
+      "7 gün",
+      "3 gün",
+      "15 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 34'ün yedinci fıkrasına göre Kurul kararları, verilmesinden itibaren üç gün içinde taraflara bildirilir ve Resmî Gazetede yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-33-0ik9",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu Başkanına ödenecek toplantı ücreti ........... gösterge rakamı üzerinden hesaplanır.",
+    "options": [
+      "4500",
+      "5000",
+      "6000",
+      "4000",
+      "3500"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 34'ün sekizinci fıkrasına göre toplantı ücreti, Başkana (5000), üyelere (4500) gösterge rakamının memur aylık katsayısı ile çarpımı suretiyle hesaplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-34-cmsk",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerine kamu görevlileri adına ........... Heyeti katılır.",
+    "options": [
+      "Sendikalar Konseyi",
+      "Konfederasyonlar Birliği",
+      "Kamu İşveren",
+      "Kamu Personeli",
+      "Kamu Görevlileri Sendikaları"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 29'un birinci fıkrasına göre toplu sözleşme görüşmelerine kamu görevlileri adına Kamu Görevlileri Sendikaları Heyeti katılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-35-dth0",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşmenin kapsamı bakımından aşağıdakilerden hangisi açıkça sayılan mali ve sosyal haklardan biridir?",
+    "options": [
+      "Doğum, ölüm ve aile yardımı ödenekleri",
+      "Kurumların yatırım bütçesi",
+      "Personelin disiplin sicili",
+      "Kadro ihdas usulü",
+      "Kurumların teşkilat yapısı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 28'e göre doğum, ölüm ve aile yardımı ödenekleri toplu sözleşmenin kapsadığı mali ve sosyal haklar arasında sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-36-kxn8",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşmenin kapsamı bakımından aşağıdakilerden hangisi açıkça sayılmıştır?",
+    "options": [
+      "Atama yetkisi",
+      "Kurumların hizmet binası tahsisi",
+      "Disiplin kurulu üyeliği",
+      "Harcırah",
+      "Kadro dağılımı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 28'de harcırah, toplu sözleşmenin kapsadığı mali ve sosyal haklar arasında açıkça sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-37-qjph",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanun'una göre aylık ödenmekte olanların aylıklarının hesabında hangi katsayılar esas alınır?",
+    "options": [
+      "Toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayıları",
+      "Yalnız asgari ücret artış oranı",
+      "Yalnız tüketici fiyat endeksi",
+      "Kurum bütçesinde belirlenen katsayılar",
+      "Sendika tüzüğünde belirlenen katsayılar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 28'e göre 5434 sayılı Kanun'a göre aylık ödenmekte olanların aylıklarının hesabında toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayıları esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-38-wbd0",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme ikramiyesi dışındaki toplu sözleşme hükümlerinin uygulanmasında hangi ayrım yapılamaz?",
+    "options": [
+      "Kadrolu ve sözleşmeli personel ayrımı",
+      "Sendika üyesi olan ve olmayan kamu görevlileri ayrımı",
+      "Merkez ve taşra teşkilatı ayrımı",
+      "Kadın ve erkek personel ayrımı",
+      "Yönetici ve yönetici olmayan personel ayrımı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 28'e göre toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve olmayan kamu görevlileri arasında ayrım yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-39-vkra",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşmenin imzalanan bölümlerine ilişkin olarak hangi kurula başvurulamaz?",
+    "options": [
+      "Kamu Personeli Danışma Kuruluna",
+      "Denetleme kuruluna",
+      "Kurum idarî kuruluna",
+      "Disiplin kuruluna",
+      "Kamu Görevlileri Hakem Kuruluna"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 29'un son fıkrasına göre toplu sözleşmenin imzalanan bölümlerine ilişkin Kamu Görevlileri Hakem Kuruluna başvurulamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-4-7eme",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerine kamu idaresi adına ........... Heyeti katılır.",
+    "options": [
+      "Kamu Yönetimi",
+      "Bakanlıklar",
+      "Devlet Personel",
+      "Maliye",
+      "Kamu İşveren"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 29'un birinci fıkrasına göre toplu sözleşme görüşmelerine kamu idaresi adına Kamu İşveren Heyeti katılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-40-q4qi",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, kurumların taşra teşkilatlarında üye sayısı tespitine ilişkin düzenlenen tutanaklar, 15 Mayıs tarihini takip eden kaç iş günü içinde kurum merkezine gönderilir?",
+    "options": [
+      "Bir iş günü",
+      "İki iş günü",
+      "Üç iş günü",
+      "Beş iş günü",
+      "On iş günü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 30/a'ya göre taşra teşkilatlarında düzenlenen tutanaklar, 15 Mayıs tarihini takip eden iki iş günü içinde kurum merkezine gönderilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-41-3tvu",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, üye sayılarının yanlışlığı iddiasıyla yapılan itirazı Ankara İş Mahkemesi kaç gün içinde karara bağlar?",
+    "options": [
+      "Beş gün",
+      "On gün",
+      "On beş gün",
+      "Otuz gün",
+      "Altmış gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 30'a göre Ankara İş Mahkemesi, üye sayılarının yanlışlığına ilişkin itirazı on beş gün içinde karara bağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-42-urjd",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, kamu görevlilerinin geneline yönelik toplu sözleşme teklifleri kimler tarafından hazırlanır?",
+    "options": [
+      "Kamu Görevlileri Sendikaları Heyetinin konfederasyon temsilcisi üyeleri",
+      "Yalnız Kamu İşveren Heyeti Başkanı",
+      "Her kurumun kamu işveren vekili",
+      "Kamu Görevlileri Hakem Kurulu üyeleri",
+      "Kurum idarî kurulları"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 31'e göre kamu görevlilerinin geneline yönelik toplu sözleşme teklifleri Kamu Görevlileri Sendikaları Heyetinin konfederasyon temsilcisi üyeleri tarafından hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-43-xbtr",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, birden fazla hizmet kolunu ilgilendiren hususlar toplu sözleşme görüşmelerinde nasıl ele alınır?",
+    "options": [
+      "Her hizmet kolunda ayrı ayrı görüşülür",
+      "Kamu görevlilerinin geneline yönelik konular arasında görüşülür",
+      "Görüşme kapsamı dışında bırakılır",
+      "Yalnız Kamu İşveren Heyetince karara bağlanır",
+      "Kurum idarî kurullarına bırakılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 31'e göre birden fazla hizmet kolunu ilgilendiren hususlar kamu görevlilerinin geneline yönelik konular arasında görüşülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-44-wtno",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesine göre, mahalli idarenin vadesi geçmiş vergi, sosyal güvenlik primi ve Hazine Müsteşarlığına olan borç toplamı, gerçekleşen en son yıl bütçe gelirlerinin hangi oranını aşarsa bu madde kapsamında sözleşme yapılamaz?",
+    "options": [
+      "Yüzde beşini",
+      "Yüzde yirmisini",
+      "Yüzde on beşini",
+      "Yüzde onunu",
+      "Yüzde otuzunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 32'ye göre belirtilen borç toplamının gerçekleşen en son yıl bütçe gelirlerinin yüzde onunu aşması hâlinde bu madde kapsamında sözleşme yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-45-pila",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesine göre, ödeme süresi geçtiği hâlde ödenmemiş aylık ve ücret borcu bulunan mahalli idare bakımından hangisi doğrudur?",
+    "options": [
+      "Sözleşme yapılabilir",
+      "Bu madde kapsamında sözleşme yapılamaz",
+      "Yalnız bir yıllık sözleşme yapılabilir",
+      "Sadece Hakem Kurulu kararıyla sözleşme yapılabilir",
+      "Sözleşme için borcun yarısının ödenmesi yeterlidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 32'ye göre ödeme süresi geçtiği hâlde ödenmemiş aylık ve ücret borcu bulunması durumunda bu madde kapsamında sözleşme yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-46-p1qh",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesine göre, gerçekleşen en son yıla ilişkin toplam personel giderinin gerçekleşen en son yıl bütçe gelirlerine oranı belediyelerde hangi oranı aşarsa sözleşme yapılamaz?",
+    "options": [
+      "Yüzde on",
+      "Yüzde yirmi",
+      "Yüzde yirmi beş",
+      "Yüzde otuz",
+      "Yüzde kırk"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 32'ye göre belediyelerde toplam personel giderinin gerçekleşen en son yıl bütçe gelirlerinin yüzde otuzunu aşması hâlinde sözleşme yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-47-3h1s",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'un 32 nci maddesine göre, sözleşme yapıldıktan sonra sözleşme yapılmasına engel koşulların oluşması hâlinde mevcut sözleşmenin durumu ne olur?",
+    "options": [
+      "Aynen devam eder",
+      "Bir yıl askıya alınır",
+      "Kendiliğinden hükümsüz kalır",
+      "Kamu Görevlileri Hakem Kuruluna gönderilir",
+      "Yeni seçim tarihine kadar uygulanır"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 32'ye göre sözleşmenin yapılmasından sonra sözleşme yapılmasına engel koşulların oluşması durumunda mevcut sözleşme kendiliğinden hükümsüz kalır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-48-3e79",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulu Başkanı ve her bir üyesi için ne öngörülmüştür?",
+    "options": [
+      "Aynı usul ve esaslarla birer yedek üye görevlendirilmesi",
+      "Yalnız Başkan için iki yedek üye görevlendirilmesi",
+      "Hiçbir yedek üye görevlendirilmemesi",
+      "Üyelerin yedeklerini kendilerinin seçmesi",
+      "Yedek üyelerin yalnız mahkemece belirlenmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 34'e göre Kamu Görevlileri Hakem Kurulu Başkanı ve her bir üyesi için aynı usul ve esaslar çerçevesinde birer yedek üye görevlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-49-b4vp",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Hakem Kurulunun sekretarya hizmetleri kim tarafından yürütülür?",
+    "options": [
+      "Ankara İş Mahkemesince",
+      "Yalnız Yargıtay Başkanlığınca",
+      "En çok üyeye sahip konfederasyonca",
+      "Cumhurbaşkanı tarafından belirlenecek Cumhurbaşkanı yardımcısı veya bakanlık tarafından",
+      "Sayıştay Başkanlığınca"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 34'e göre Kamu Görevlileri Hakem Kurulunun sekretarya hizmetleri Cumhurbaşkanı tarafından belirlenecek Cumhurbaşkanı yardımcısı veya bakanlık tarafından yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-5-hsu7",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşme görüşmelerinde Kamu İşveren Heyetine kim başkanlık eder?",
+    "options": [
+      "En çok üyeye sahip konfederasyonun başkanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı, doğrudan görevi gereği",
+      "Hazine ve Maliye Bakanı, görevi gereği kendiliğinden",
+      "Cumhurbaşkanının görevlendireceği Cumhurbaşkanı yardımcısı veya bakan",
+      "Devlet Personel Başkanı, Bakanlık adına yetkilendirilerek"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 29'un ikinci fıkrasına göre Kamu İşveren Heyeti, Cumhurbaşkanının görevlendireceği Cumhurbaşkanı yardımcısı veya bakanın başkanlığında oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-6-wgm8",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Kamu Görevlileri Sendikaları Heyeti toplam kaç üyeden oluşur?",
+    "options": [
+      "12",
+      "11",
+      "15",
+      "10",
+      "21"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 29'un üçüncü fıkrasına göre Heyet; heyet başkanı, her hizmet kolundan birer temsilci ve ilk üç konfederasyondan birer temsilci olmak üzere toplam onbeş üyeden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-7-eq5a",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, toplu sözleşmenin kamu görevlilerinin geneline yönelik bölümünü kamu görevlileri adına imzalamaya kim yetkilidir?",
+    "options": [
+      "Kamu İşveren Heyeti Başkanı tek başına",
+      "İlgili hizmet kolu sendika temsilcisi",
+      "Devlet Personel Başkanı",
+      "Kamu Görevlileri Sendikaları Heyeti Başkanı",
+      "Her sendikanın kendi başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 29'un dördüncü fıkrasına göre kamu görevlilerinin geneline yönelik bölüm için Kamu Görevlileri Sendikaları Heyeti Başkanı, hizmet koluna yönelik bölümler için ise ilgili sendika temsilcisi imzaya yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-8-it4l",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, kurumlarca sendika üye sayılarının tespitine ilişkin toplantı her yıl hangi tarihten sonra beş işgünü içinde yapılır?",
+    "options": [
+      "1 Ocak",
+      "1 Ekim",
+      "15 Mart",
+      "15 Temmuz",
+      "15 Mayıs"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 30'un ikinci fıkrasının (a) bendine göre tespit toplantısı, her yıl 15 Mayıs tarihinden sonra beş işgünü içinde yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-toplu-sozlesme-rkljm-mtn02ofs-9-ylou",
+    "topic_id": "t-toplu-sozlesme-rkljm",
+    "prompt": "4688 sayılı Kanun'a göre, Çalışma ve Sosyal Güvenlik Bakanlığı sendika ve konfederasyonların üye sayılarına ilişkin tespit sonuçlarını her yıl hangi ayda Resmî Gazetede yayımlar?",
+    "options": [
+      "Eylül",
+      "Haziran",
+      "Temmuz",
+      "Mayıs",
+      "Ağustos"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 30'un ikinci fıkrasının (b) bendine göre sonuçlar her yıl temmuz ayının ilk haftasında Resmî Gazetede yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:05.806949+00:00",
+    "updated_at": "2026-09-04T13:39:05.806949+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-0-9ug0",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Okul öncesi eğitim kurumlarının nerelerde ve hangi önceliklere göre açılacağı,.......... hazırlanacak bir yönetmelikle düzenlenir. 1739 sayılı Millî Eğitim Temel Kanunu'na göre, yukarıda boş bırakılan alana aşağıdaki ifadelerden hangisi gelmelidir?",
+    "options": [
+      "Cumhurbaşkanlığınca",
+      "Millî Eğitim Bakanlığınca ve Cumhurbaşkanlığınca",
+      "Millî Eğitim Bakanlığınca",
+      "TBMM'ce",
+      "Hazine ve Maliye Bakanlığı ve Millî Eğitim Bakanlığınca"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 21. maddesine göre okul öncesi eğitim kurumlarının nerelerde ve hangi önceliklere göre açılacağı, Millî Eğitim Bakanlığınca hazırlanacak bir yönetmelikle düzenlenir. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-1-943d",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Bütün öğrencilere ortaöğretim seviyesinde asgari ortak bir genel kültür vermek suretiyle kişi ve toplum sorunlarını tanıma ve çözüm yolları arama bilinci kazandırmak hangi eğitim kademesinin amaç ve görevlerindendir?",
+    "options": [
+      "İlköğretim",
+      "Okul Öncesi Eğitim",
+      "Ortaöğretim",
+      "Yükseköğretim",
+      "Yaygın eğitim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 28. maddesine göre bu hüküm ortaöğretimin amaç ve görevleri arasındadır. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-10-s9l3",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Okul öncesi eğitim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bağımsız anaokulu veya ilköğretime bağlı sınıf olarak açılabilir.",
+      "Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamayı amaçlar.",
+      "Mecburi ilköğrenim çağına gelmemiş çocukları kapsar.",
+      "Bu eğitim isteğe bağlıdır.",
+      "Zorunlu eğitimin bir parçasıdır."
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 19. maddesine göre: Okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar. Bu eğitim isteğe bağlıdır. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-11-4u4q",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Aşağıdakilerden hangisi okul öncesi eğitimin amaçlarından biri değildir?",
+    "options": [
+      "Çocuklara okuma-yazma öğretmek",
+      "Çocukları ilköğretime hazırlamak",
+      "Şartları elverişsiz çevrelerden gelen çocuklar için ortak yetişme ortamı yaratmak",
+      "Türkçeyi doğru ve güzel konuşmalarını sağlamak",
+      "Beden, zihin ve duygu gelişimini sağlamak"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre: Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-12-vpyp",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "I. Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak II. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak III. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak IV. Her Türk çocuğunu ilgi, istidat v e kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamak V. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak 1739 sayılı Millî Eğitim Temel Kanunu'na göre yukarıdakilerden hangileri okul öncesi eğitimin amaç ve görevlerindendir?",
+    "options": [
+      "II, IV ve V",
+      "III, IV ve V",
+      "I, II ve V",
+      "I, III ve IV",
+      "I, II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre: Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-13-icwr",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "“Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak.” ifadesi aşağıdaki eğitim kademelerinden hangisinin amaçlarındandır?",
+    "options": [
+      "İlköğretim",
+      "Ortaöğretim",
+      "Yüksek öğretim",
+      "Okul öncesi",
+      "Mesleki eğitim"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak okul öncesi eğitimin amaç ve görevlerindendir. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-14-plot",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, “şartları elverişsiz çevrelerden ve ailelerde gelen çocuklar için ortak bir yetişme ortamı yaratmak” aşağıdaki kurumlardan hangisinin amaç ve görevlerindendir?",
+    "options": [
+      "Yükseköğretim",
+      "Okul Öncesi Eğitim",
+      "Ortaöğret im",
+      "İlköğretim",
+      "Yaygın eğitim"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre: Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-15-c27x",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Okul öncesi eğitim gören çocuklara aşağıdakilerden hangisi yapılamaz?",
+    "options": [
+      "Onları ilk öğretime hazırlamak",
+      "Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak.",
+      "Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için bir yetişme ortamı hazırlamak",
+      "Çocukların Türkçeyi doğru ve güzel konuşmasını sağlamak",
+      "Çocuklarını yazı öğrenmelerini sağlamak"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre: Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-16-mj6b",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre aşağıdakilerden hangisi okul öncesi eğitimin amaç ve görevleri arasında yer almaz?",
+    "options": [
+      "Çocukları ilköğretime hazırlamak",
+      "Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu millî ahlak anlayışına uygun olarak yetiştirmek",
+      "Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak",
+      "Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak",
+      "Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamak"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 20. maddesine göre: Okul öncesi eğitiminin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-17-hh03",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Okul öncesi eğitim kurumlarının nerelerde ve hangi önceliklere göre açılacağı ne ile düzenlenir?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesiyle",
+      "Kanunla",
+      "İl Millî Eğitim kararıyla",
+      "Genelgeyle",
+      "Yönetmelikle"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 21. maddesine göre: Okul öncesi eğitim kurumları, bağımsız anaokulları olarak kurulabileceği gibi, gerekli görülen yerlerde ilköğretim okuluna bağlı anasınıfları halinde veya ilgili diğer öğretim kurumlarına bağlı uygulama sınıfları olarak da açılabilir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-18-cjnc",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İlkokulların birinci sınıflarına kayıt için çocuğun o yılın 31 Aralık tarihinde kaç ayını doldurmuş olması gerekir?",
+    "options": [
+      "80",
+      "60",
+      "72",
+      "66",
+      "69"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 22. maddesine göre: Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Ancak çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-19-w4oy",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, mecburi ilköğretim çağı hangi yaş grubundaki çocukları kapsar?",
+    "options": [
+      "6 - 12",
+      "7 - 13",
+      "5 - 12",
+      "6 - 14",
+      "5 - 13"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 22. maddesine göre: Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Ancak çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-2-jt98",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Örgün Eğitim aşağıdakilerden hangilerini kapsar?",
+    "options": [
+      "Okul öncesi eğitimi, ilköğretim, ortaöğretimi kapsar.",
+      "Yükseköğretim kurumlarını, okul öncesi eğitimi, ilköğretim ve ortaöğretimi kapsar.",
+      "Okul öncesi, ilköğretim ve kursları kapsar.",
+      "Okul öncesi eğitimi, ilköğretim, ortaöğretim, yükseköğretim ve halk eğitim kurumlarını kapsar.",
+      "Yükseköğretim kurumlarını, ilköğretim ve ortaöğretimi kapsar."
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesine göre: Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere, iki anabölümden kurulur. Örgün eğitim, okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar. Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar. İKİNCİ BÖLÜM Örgün Eğitim A) Okul öncesi eğitimi: Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-20-8jth",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre mecburi ilköğretim çağı ne zaman başlar?",
+    "options": [
+      "İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır.",
+      "İlkokulların birinci sınıflarına o yılın 1 Aralık tarihinde 69 ayını dolduran çocukların kaydı yapılır.",
+      "İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 68 ayını dolduran çocukların kaydı yapılır.",
+      "İlkokulların birinci sınıflarına o yılın 31 Haziran tarihinde 72 ayını dolduran çocukların kaydı yapılır.",
+      "İlkokulların birinci sınıflarına o yılın 1 Ocak tarihinde 72 ayını dolduran çocukların kaydı yapılır."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 22. maddesine göre: Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Ancak çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-21-forl",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre \"Mecburi ilköğretim çağı\" aşağıdakilerden hangisinde doğru tanımlanmıştır?",
+    "options": [
+      "Mecburi ilköğretim çağı 6-13 yaş grubundaki çocukları kapsar. Bu çağ çocuğun 5 yaşını bitirdiği yılın kasım ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.",
+      "Mecburi ilköğretim çağı 6-13 yaş grubundaki çocukları kapsar. Bu çağ çocuğun 5 yaşını bitirdiği yılın kasım ayı sonunda başlar, 13 yaşını bitirip 14 yaşına girdiği yılın öğretim yılı sonunda biter.",
+      "Mecburi ilköğretim çağı 7-13 yaş grubundaki çocukları kapsar. Bu çağ çocuğun 6 yaşını bitirdiği yılın kasım ayı sonunda başlar, 13 yaşını bitirip 14 yaşına girdiği yılın öğretim yılı sonunda biter.",
+      "Mecburi ilköğretim çağı 5-13 yaş grubundaki çocukları kapsar. Bu çağ çocuğun 5 yaşını bitirdiği yılın eylül ayı sonunda başlar, 14 yaşını bitirip 15 yaşına girdiği yılın öğretim yılı sonunda biter.",
+      "Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıfına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır."
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 22. maddesine göre: Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Ancak çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-22-emqz",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Mecburi ilköğretim çağı, - - /- - yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın - - - - Aralık tarihinde - - - - ayını dolduran çocukların kaydı yapılır. 1739 sayılı Millî Eğitim Temel Kanunu'na göre yukarıdaki hükümde boş bırakılan yerlere sırasıyla hangisi getirilmelidir?",
+    "options": [
+      "5-13-31-69",
+      "6-14-31-72",
+      "6-14-31-68",
+      "6-14-31-71",
+      "5-14-31-72"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 22. maddesine göre: Mecburi ilköğretim çağı, 6-14 yaş grubundaki çocukları kapsar. İlkokulların birinci sınıflarına o yılın 31 Aralık tarihinde 72 ayını dolduran çocukların kaydı yapılır. Ancak çocuğun gelişim durumuna bağlı olarak okula erken başlaması veya kaydının ertelenmesi ile ilgili hususlar yönetmelikle düzenlenir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-3-kxm5",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "I. Okul öncesi eğitimi II. İlköğretim III. Ortaöğretim IV. Yükseköğretim 1739 sayılı Millî Eğitim Temel Kanunu'na göre örgün eğitim, yukarıdaki kurumlardan hangilerini kapsar?",
+    "options": [
+      "I-II-III-IV",
+      "II-III",
+      "I-II-IV",
+      "I-II-III",
+      "II-III-IV"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesine göre: Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere, iki anabölümden kurulur. Örgün eğitim, okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar. Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar. İKİNCİ BÖLÜM Örgün Eğitim A) Okul öncesi eğitimi: Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-4-gmfd",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Türk Millî Eğitim Sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Zorunlu Eğitim – İsteğe Bağlı Eğitim",
+      "Resmî Eğitim – Özel Eğitim",
+      "Örgün Eğitim – Yaygın Eğitim",
+      "İlköğretim – Ortaöğretim",
+      "Temel Eğitim – Yükseköğretim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesine göre: Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere, iki anabölümden kurulur. Örgün eğitim, okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar. Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar. İKİNCİ BÖLÜM Örgün Eğitim A) Okul öncesi eğitimi: Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-5-vr4j",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Aşağıdakilerden hangisi \"Örgün Eğitim\" kapsamında yer almaz?",
+    "options": [
+      "İlköğretim",
+      "Yükseköğretim",
+      "Ortaöğretim",
+      "Okul Öncesi Eğitim",
+      "Halk Eğitim Kursları"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesine göre: Türk millî eğitim sistemi, örgün eğitim ve yaygın eğitim olmak üzere, iki anabölümden kurulur. Örgün eğitim, okul öncesi eğitimi, ilköğretim, ortaöğretim ve yükseköğretim kurumlarını kapsar. Yaygın eğitim, örgün eğitim yanında veya dışında düzenlenen eğitim faaliyetlerinin tümünü kapsar. İKİNCİ BÖLÜM Örgün Eğitim A) Okul öncesi eğitimi: Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-6-qo4y",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Kanun'a göre \"Yöneltme\" süreci eğitim sisteminin hangi kademesinde başlar?",
+    "options": [
+      "Yaygın Eğitim",
+      "Ortaöğretim",
+      "Yükseköğretim",
+      "İlköğretim",
+      "Okul Öncesi"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 30. maddesine göre yöneltme ilköğretimde başlar ve ortaöğretimde devam eder. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-7-9gvw",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Okul öncesi eğitimi,.......... ilköğrenim çağına gelmemiş çocukların eğitimini kapsar ve bu eğitim isteğe bağlıdır.",
+    "options": [
+      "zorunlu",
+      "mecburi",
+      "opsiyonel",
+      "isteğe bağlı",
+      "seçmeli"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 19. maddesine göre: Okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar. Bu eğitim isteğe bağlıdır. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-8-szgu",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Okul öncesi eğitimi, mecburi ilköğretim çağına gelmemiş çocukların eğitimini kapsar",
+      "İlköğretim görmek her Türk vatandaşının hakkıdır.",
+      "Okul öncesi eğitimi isteğe bağlıdır.",
+      "İlköğretim okullarını bitirenlere lise diploması verilir.",
+      "Okul öncesi eğitim, çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamayı amaçlar."
+    ],
+    "answer_index": 3,
+    "explanation": "19. maddeye göre okul öncesi eğitim mecburi ilköğretim çağına gelmemiş çocukları kapsar ve isteğe bağlıdır; 7. maddeye göre ilköğretim görmek her Türk vatandaşının hakkıdır. D şıkkındaki hüküm Kanunda yoktur. Doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrds-9-0f5g",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre Okul Öncesi Eğitim ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar.",
+      "6 yaşına gelmeyen çocukların eğitimini kapsar.",
+      "Okul öncesi eğitime, mecburi ilköğrenim çağına gelmiş çocukların da kaydı yapılabilir.",
+      "Okul öncesi eğitim zorunludur.",
+      "7 yaşına gelmeyen çocukların eğitimini kapsar."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 19. maddesine göre: Okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğitimini kapsar. Bu eğitim isteğe bağlıdır. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-100-r5ko",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 37. maddesine göre yükseköğretimin bütünlüğü içinde nasıl kuruluşlar bulunur?",
+    "options": [
+      "Yalnız aynı seviyede öğretim yapan kuruluşlar",
+      "Çeşitli görevleri yerine getiren ve farklı seviyelerde öğretim yapan kuruluşlar",
+      "Sadece lisansüstü öğretim yapan kuruluşlar",
+      "Yalnız meslekî öğretim yapan kuruluşlar",
+      "Sadece uzaktan öğretim yapan kuruluşlar"
+    ],
+    "answer_index": 1,
+    "explanation": "37. maddeye göre yükseköğretimin bütünlüğü içinde çeşitli görevleri yerine getiren ve farklı seviyelerde öğretim yapan kuruluşlar bulunur. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-101-zvg3",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 38. maddesine göre bazı alanlar için hangi hükümlerin saklı olduğu belirtilmiştir?",
+    "options": [
+      "Yurt dışı eğitimi yasaklayan hükümlerin",
+      "Yalnız okul öncesi eğitime ilişkin hükümlerin",
+      "Karma eğitimi kaldıran hükümlerin",
+      "İlköğretimi paralı hâle getiren hükümlerin",
+      "Mecburi hizmet karşılığı öğrenci yetiştirilmesine ilişkin hükümlerin"
+    ],
+    "answer_index": 4,
+    "explanation": "38. maddeye göre bazı alanlar için mecburi hizmet karşılığı öğrenci yetiştirilmesi hakkındaki hükümler saklıdır. Doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-102-8j8t",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 39. maddesine göre yükseköğretimde alınacak tedbirlerle aşağıdakilerden hangisinden en verimli şekilde yararlanılması amaçlanır?",
+    "options": [
+      "Sadece ders kitabı fiyatlarından",
+      "Yalnız okul aile birliklerinden",
+      "Öğretim elemanları, tesisler ve öğrencinin zamanından",
+      "Yalnız sınav sonuçlarından",
+      "Sadece özel öğretim kurumlarından"
+    ],
+    "answer_index": 2,
+    "explanation": "39. maddeye göre öğretim elemanlarından, tesislerden ve öğrencinin zamanından en verimli şekilde yararlanmayı mümkün kılacak tedbirler alınır. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-103-bxbv",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 39. maddesine göre alınacak tedbirlerin amaçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Çeşitli bölgelerdeki yükseköğretim kurumlarının dengeli gelişmesini sağlamak",
+      "Bütün yükseköğretim kurumlarını tek bölgede toplamak",
+      "Ortaöğretimle ilişkiyi kaldırmak",
+      "Öğretim elemanı kullanımını azaltmak",
+      "Yükseköğretimi yalnız lisans düzeyiyle sınırlamak"
+    ],
+    "answer_index": 0,
+    "explanation": "39. madde, çeşitli bölgelerdeki yükseköğretim kurumlarının dengeli şekilde gelişmesini sağlayacak tedbirler alınmasını öngörür. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-104-x0df",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'nun 42. maddesine göre genel yaygın eğitim programlarının düzenleniş şekli ne ile tespit edilir?",
+    "options": [
+      "Kanunla",
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Yönergeyle",
+      "Tebliğle"
+    ],
+    "answer_index": 1,
+    "explanation": "42. maddeye göre genel yaygın eğitim programlarının düzenleniş şekli yönetmelikle tespit edilir. Doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-23-sovx",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İlköğretimin son ders yılının ikinci yarısında öğrencilere rehberlik servislerince ne hakkında bilgi verilir?",
+    "options": [
+      "Sınav stresi ile baş etme",
+      "Okul kuralları",
+      "Yaz tatili planları",
+      "Ortaöğretimde devam edilebilecek okul ve programlar ile meslekler",
+      "Sağlıklı beslenme"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 23. maddesine göre: İlköğretimin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu millî ahlak anlayışına uygun olarak yetiştirmek; 2. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-24-2y25",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, ilköğretimde rehberlik servislerince, ortaöğretimde devam edilebilecek okul ve programların hangi mesleklerin yolunu açabileceği ve bu mesleklerin kendilerine sağlayacağı yaşam standardı konusunda tanıtıcı bilgiler verilmesi çalışmaları ne zaman yapılır?",
+    "options": [
+      "İlköğretimin son ders yılının ikinci yarısında",
+      "İlköğretimin son ders yılının birinci yarısında",
+      "Ortaöğretimin ilk ders yılının ikinci yarısında",
+      "İlköğretimin ilk ders yılının ikinci yarısında",
+      "Ortaöğretimin son ders yılının ikinci yarısında"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 23. maddesine göre söz konusu rehberlik çalışmaları ilköğretimin son ders yılının ikinci yarısında yapılır. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-25-p19e",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamak aşağıdaki kurumlardan hangisinin amaç ve görevlerindendir?",
+    "options": [
+      "Yükseköğretim",
+      "Yetişkin Eğitimi",
+      "İlköğretim",
+      "Okul Öncesi",
+      "Ortaöğretim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 23. maddesine göre: İlköğretimin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu millî ahlak anlayışına uygun olarak yetiştirmek; 2. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-26-uwdi",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "I. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu millî ahlak anlayışına uygun olarak yetiştirmek II. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak III. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır IV. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak 1739 sayılı Millî Eğitim Temel Kanunu'na göre, yukarıdakilerden hangileri ilköğretimin amaç ve görevlerindendir?",
+    "options": [
+      "III-IV",
+      "II-IV",
+      "I-II",
+      "I-II-IV",
+      "I-III"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 23. maddesine göre: İlköğretimin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu millî ahlak anlayışına uygun olarak yetiştirmek; 2. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-27-xmtn",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İlköğretim kurumlarının kuruluşunda esas olan nedir?",
+    "options": [
+      "İlkokul ve ortaokulun mutlaka aynı binada olması",
+      "Liselerle birleşik olması",
+      "Pansiyonlu olması",
+      "İlkokul ve ortaokulun bağımsız okullar halinde kurulması",
+      "Her mahallede bir tane olması"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 24. maddesine göre: İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması esastır. Ancak imkân ve şartlara göre ortaokullar, ilkokullarla veya liselerle birlikte de kurulabilir. b) Kuruluş şekilleri: Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-28-mshv",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İlköğretim kurumları aşağıdakilerden hangisinde doğru sınıflandırılmıştır?",
+    "options": [
+      "3 yıl ilkokul + 3 yıl ortaokul",
+      "4 yıl ilkokul + 4 yıl ortaokul",
+      "4 yıl ilkokul + 4 yıl lise",
+      "8 yıl kesintisiz ilköğretim",
+      "5 yıl ilkokul + 3 yıl ortaokul"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-29-h9qu",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaokul ve liselerde aşağıdakilerden hangisi isteğe bağlı seçmeli ders olarak okutulur?",
+    "options": [
+      "Türk Dili ve Edebiyatı",
+      "T. C. İnkılap Tarihi",
+      "Coğrafya",
+      "Matematik",
+      "Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-30-8rco",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, aşağıdakilerden hangisi örgün eğitim değildir?",
+    "options": [
+      "Üniversite",
+      "Meslek Lisesi",
+      "Halk eğitimi",
+      "Anaokulu",
+      "İlköğretim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 18. maddesine göre Türk millî eğitim sistemi örgün eğitim ve yaygın eğitim olmak üzere iki ana bölümden kurulur. Halk eğitimi yaygın eğitim kapsamındadır; bu nedenle örgün eğitim değildir. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-31-k1av",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Nüfusun az ve dağınık olduğu yerlerde köyler gruplaştırılarak kurulan okullara ne ad verilir?",
+    "options": [
+      "İlköğretim Bölge Okulları",
+      "Birleştirilmiş Sınıflı Okul",
+      "Taşımalı Eğitim Merkezi",
+      "Köy Enstitüsü",
+      "Yatılı İlköğretim Bölge Okulu"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-32-2rwv",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde ne oluşturulur?",
+    "options": [
+      "Meslek atölyeleri",
+      "Yaz okulları",
+      "Seçimlik dersler",
+      "Staj programları",
+      "Zorunlu etüt saatleri"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-33-lvc6",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren.......... ile imam-hatip ortaokullarından oluşur.",
+    "options": [
+      "ilkokullar",
+      "meslek okulları",
+      "liseler",
+      "anaokulları",
+      "ortaokullar"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-34-q7g1",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı,.......... ders olarak okutulur.",
+    "options": [
+      "ortak zorunlu",
+      "zorunlu",
+      "zorunlu seçmeli",
+      "isteğe bağlı seçmeli",
+      "ağırlıklı"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-35-balw",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, aşağıda verilen \"İlköğretim kurumları\"na ait bilgilerden hangisi doğru değildir?",
+    "options": [
+      "Bu okullarda okutulacak diğer seçmeli dersler ile imam-hatip ortaokulları ve diğer ortaokullar için oluşturulacak program seçenekleri Bakanlıkça belirlenir.",
+      "Nüfusun az ve dağınık olduğu yerlerde, köyler gruplaştırılarak, merkezi durumda olan köylerde ilköğretim bölge okulları ve bunlara bağlı pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde yatılı ilköğretim bölge okulları kurulur.",
+      "Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı, zorunlu ders olarak okutulur.",
+      "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur.",
+      "Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur."
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-36-778b",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, \"İlköğretim kurumları\" hakkında verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Bu okullarda okutulacak diğer seçmeli dersler ile imam-hatip ortaokulları ve diğer ortaokullar için oluşturulacak program seçenekleri Cumhurbaşkanlığınca belirlenir.",
+      "Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur.",
+      "Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı, isteğe bağlı seçmeli ders olarak okutulur.",
+      "İmkân ve şartlara göre ortaokullar, ilkokullarla veya liselerle birlikte de kurulabilir.",
+      "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-37-kjj5",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, nüfusun az ve dağınık olduğu, gruplaşmanın yapılamadığı yerlerde hangi okul türü kurulur?",
+    "options": [
+      "Pansiyonlu ilköğretim okulu",
+      "Yatılı ilköğretim bölge okulu",
+      "İlköğretim bölge okulları",
+      "İlköğretim okulu",
+      "Gezici ilköğretim okulu"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-38-nygj",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, ilköğretim kurumlarının kuruluş şekilleri ile ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Nüfusun az ve dağınık olduğu yerlerde, köyler gruplaştırılarak, merkezi durumda olan köylerde ilköğretim bölge okulları kurulur.",
+      "Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur.",
+      "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur.",
+      "İmkân ve şartlara göre ortaokullar, ilkokullarla veya liselerle birlikte de kurulabilir.",
+      "İmam-hatip ortaokulları ve diğer ortaokullarda okutulacak seçmeli dersler için oluşturulacak program seçenekleri okul müdürlüklerince belirlenir."
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-39-wad5",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, ilköğretim ile ilgili verilen bilgilerden hangisi doğrudur?",
+    "options": [
+      "Bu okullarda sekiz yıllık kesintisiz eğitim yapılır.",
+      "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur.",
+      "İlköğretim kurumlarında ilkokul ve ortaokulların birlikte kurulması esastır.",
+      "İmkân ve şartlara göre ortaokullar, sadece liselerle birlikte de kurulabilir.",
+      "İlköğretim 5-14 yaşlarındaki çocukların eğitim ve öğretimini kapsar."
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 25. maddesine göre: İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-40-oim1",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre ilköğretim kurumları ve kuruluş şekilleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması zorunludur.",
+      "İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur.",
+      "Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı, isteğe bağlı seçmeli ders olarak okutulur.",
+      "Bu okullarda okutulacak diğer seçmeli dersler ile imamhatip ortaokulları ve diğer ortaokullar için oluşturulacak program seçenekleri Bakanlıkça belirlenir.",
+      "Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur."
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 24. maddesine göre ilkokul ve ortaokulların bağımsız okullar hâlinde kurulması esastır; ancak imkân ve şartlara göre ortaokullar ilkokullarla veya liselerle birlikte de kurulabilir. Bu nedenle bağımsız kurulmanın 'zorunlu' olduğunu söyleyen ifade yanlıştır. 25. madde ise diğer seçeneklerde yer alan ilköğretim kurumu ve program hükümlerini düzenler. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-41-3q0r",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretim ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece akademik liseleri kapsar.",
+      "Zorunlu değildir.",
+      "İlköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim verir.",
+      "Yaygın eğitim kurumudur.",
+      "İlköğretime dayalı üç yıllık eğitimdir."
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 26. maddesine göre ortaöğretim, ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren kurumları kapsar. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-42-sxit",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için şart nedir?",
+    "options": [
+      "2 yıl iş tecrübesi gerekir.",
+      "Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlamaları zorunludur.",
+      "Sadece staj yapmaları yeterlidir.",
+      "Kalfalık belgesi almaları yeterlidir.",
+      "Üniversite sınavına girmeleri gerekir."
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 26. maddesine göre: Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar. Bu okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-43-dr0e",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretim; ilköğretime dayalı.......... yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumlarının tümünü kapsar.",
+    "options": [
+      "dört",
+      "sekiz",
+      "beş",
+      "üç",
+      "altı"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 26. maddesine göre: Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar. Bu okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-44-bj6r",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "I. Okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. II. Mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlaması zorunludur. III. İlköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar 1739 sayılı Millî Eğitim Temel Kanunu'na göre ortaöğretimin kapsamıyla ilgili Yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "I ve III",
+      "II ve III",
+      "I, II ve III",
+      "I ve II"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 26. maddesine göre: Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar. Bu okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-45-gomn",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre yüksek öğretim, ortaöğretime dayalı en az kaç yıllık yükseköğretim veren kurumlarını kapsar?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 34. maddesine göre yükseköğretim, ortaöğretime dayalı en az iki yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-46-gjqa",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre kimler Ortaöğretimden yararlanma hakkına sahiptir?",
+    "options": [
+      "İlköğretimini tamamlayan ve ortaöğretime girmeye hak kazanmış olan her öğrenci",
+      "13 yaşından gün almış birey",
+      "Ortaöğretime girmeye hak kazanmış her öğrenci",
+      "İlköğretimini tamamlayan her öğrenci",
+      "İlköğretimini tamamlayan ve ortaöğretime girmeye hak kazanmış olan her Türk öğrenci"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 27. maddesine göre: İlköğretimini tamamlayan ve ortaöğretime girmeye hak kazanmış olan her öğrenci, ortaöğretime devam etmek ve ortaöğretim imkânlarından ilgi, istidat ve kabiliyetleri ölçüsünde yararlanmak hakkına sahiptir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-47-mvlh",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Yükseköğretim kurumlarına giriş şartlarını kim tespit eder?",
+    "options": [
+      "Cumhurbaşkanlığı",
+      "ÖSYM",
+      "Millî Eğitim Bakanlığı tek başına",
+      "Üniversitelerarası Kurul",
+      "Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 31. maddesine göre: Lise veya dengi okulları bitirenler, yükseköğretim kurumlarına girmek için aday olmaya hak kazanır. Hangi yükseköğretim kurumlarına, hangi programları bitirenlerin nasıl girecekleri, giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-48-t1ak",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "I. Asgari ortak bir genel kültür vermek suretiyle onlara kişi ve toplumun sorunlarını tanımalarını sağlamak II. Yurdun iktisadi, sosyal ve kültürel kalkınmasına katkıda bulunmak bilincini ve gücünü kazandırmak III. Öğrencileri, çeşitli program ve okullarla ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda hayata ve iş alanlarına hazırlamak 1739 sayılı Millî Eğitim Temel Kanunu'na göre, verilenler aşağıdakilerden hangisinin amaç ve görevlerindendir?",
+    "options": [
+      "Yaygın Eğitim",
+      "Yüksek Öğretim",
+      "Orta Öğretim",
+      "Okul Öncesi Eğitim",
+      "İlköğretim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 28. maddesine göre: Ortaöğretimin amaç ve görevleri, Millî Eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Bütün öğrencilere ortaöğretim seviyesinde asgari ortak bir genel kültür vermek suretiyle onlara kişi ve toplum sorunlarını tanımak, çözüm yolları aramak ve yurdun iktisadi sosyal ve kültürel kalkınmasına katkıda bulunmak bilincini ve gücünü kazandırmak, 2. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-49-mi6o",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretim kurumlarının öğrenim süresi, uygulanan programın özelliğine göre kim tarafından tespit edilir?",
+    "options": [
+      "Millî Eğitim Bakanlığı",
+      "Yükseköğretim Kurulu",
+      "Cumhurbaşkanı",
+      "İl Millî Eğitim Müdürlüğü",
+      "Okul müdürlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 29. maddesine göre ortaöğretim kurumlarının öğrenim süresi, uygulanan programın özelliğine göre Millî Eğitim Bakanlığınca tespit edilir. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-50-fygu",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretimde \"Çok Programlı Liseler\" hangi durumlarda kurulabilir?",
+    "options": [
+      "Büyükşehirlerde",
+      "Turistik bölgelerde",
+      "Sanayi bölgelerinde",
+      "Nüfusu az ve dağınık olan yerlerde",
+      "Üniversite kampüslerinde"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 29. maddesine göre: Ortaöğretim, çeşitli programlar uygulayan liseler ile mesleki eğitim merkezlerinden meydana gelir. Nüfusu az ve dağınık olan ve Millî Eğitim Bakanlığınca gerekli görülen yerlerde, ortaöğretimin, genel, mesleki ve teknik öğretim programlarını bir yönetim altında uygulayan çok programlı liseler kurulabilir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-51-vueg",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretim kurumlarının öğrenim süresi, uygulanan programın özelliğine göre,.......... tespit edilir. 1739 sayılı Millî Eğitim Temel Kanunu'na göre, yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "İl Millî Eğitim Müdürlüğünce",
+      "Millî Eğitim Bakanlığınca",
+      "Kaymakamlıkça",
+      "valilikçe",
+      "Cumhurbaşkanlığınca"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 29. maddesine göre: Ortaöğretim, çeşitli programlar uygulayan liseler ile mesleki eğitim merkezlerinden meydana gelir. Nüfusu az ve dağınık olan ve Millî Eğitim Bakanlığınca gerekli görülen yerlerde, ortaöğretimin, genel, mesleki ve teknik öğretim programlarını bir yönetim altında uygulayan çok programlı liseler kurulabilir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-52-ucyd",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, “Yöneltme .......... ortaöğretimde de devam eder.” Boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
+    "options": [
+      "Okul Öncesinde",
+      "Yükseköğretimde",
+      "Örgün eğitimde",
+      "İlköğretimde",
+      "Yaygın eğitimde"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 30. maddesine göre: Yöneltme ilköğretimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder. Yöneltme esasları ve çeşitli programlar veya ortaöğretim okulları arasında yapılacak yatay ve dikey geçiş şartları, Millî Eğitim Bakanlığınca düzenlenir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-53-w85l",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretimde yöneltme yapılırken neyden kaçınılması amaçlanır?",
+    "options": [
+      "Veli şikayetlerinden",
+      "Okul masraflarından",
+      "Yanılmalardan",
+      "Öğretmen yükünden",
+      "Öğrenci sayısının artmasından"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 30. maddesine göre: Yöneltme ilköğretimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder. Yöneltme esasları ve çeşitli programlar veya ortaöğretim okulları arasında yapılacak yatay ve dikey geçiş şartları, Millî Eğitim Bakanlığınca düzenlenir. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-54-f8g3",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Yöneltme ilköğretimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için.......... devam eder.",
+    "options": [
+      "Yükseköğretimde",
+      "İlköğretimde",
+      "Yaygın eğitimde",
+      "ortaöğretimde",
+      "Okul öncesinde"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 30. maddesine göre: Yöneltme ilköğretimde başlar; yanılmaları önlemek ve muhtemel gelişmelere göre yeniden yöneltmeyi sağlamak için ortaöğretimde de devam eder. Yöneltme esasları ve çeşitli programlar veya ortaöğretim okulları arasında yapılacak yatay ve dikey geçiş şartları, Millî Eğitim Bakanlığınca düzenlenir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-55-x78n",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Ortaöğretimden yükseköğretime geçişte \"Aday olmaya hak kazanmak\" için ön şart nedir?",
+    "options": [
+      "Lise veya dengi okulları bitirmek",
+      "Üniversite sınavından barajı geçmek",
+      "Yabancı dil bilmek",
+      "18 yaşını doldurmak",
+      "Staj yapmış olmak"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 31. maddesine göre: Lise veya dengi okulları bitirenler, yükseköğretim kurumlarına girmek için aday olmaya hak kazanır. Hangi yükseköğretim kurumlarına, hangi programları bitirenlerin nasıl girecekleri, giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-56-hkgy",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Lise veya dengi okulları bitirenler,.......... kurumlarına girmek için aday olmaya hak kazanır.",
+    "options": [
+      "ortaöğretim",
+      "ilköğretim",
+      "mesleki eğitim",
+      "yaygın eğitim",
+      "yükseköğretim"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 31. maddesine göre: Lise veya dengi okulları bitirenler, yükseköğretim kurumlarına girmek için aday olmaya hak kazanır. Hangi yükseköğretim kurumlarına, hangi programları bitirenlerin nasıl girecekleri, giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-57-ctxp",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Yükseköğretim kurumlarına giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak.......... tarafından tespit edilir.",
+    "options": [
+      "ÖSYM",
+      "Cumhurbaşkanlığı",
+      "Millî Eğitim Şurası",
+      "Yükseköğretim Kurulu",
+      "Talim Terbiye Kurulu"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 31. maddesine göre: Lise veya dengi okulları bitirenler, yükseköğretim kurumlarına girmek için aday olmaya hak kazanır. Hangi yükseköğretim kurumlarına, hangi programları bitirenlerin nasıl girecekleri, giriş şartları Millî Eğitim Bakanlığı ile işbirliği yapılarak Yükseköğretim Kurulu tarafından tespit edilir. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-58-nmvi",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İmam-hatip liselerinin tanımı kanunda nasıl yapılmıştır?",
+    "options": [
+      "İlköğretim seviyesinde eğitim veren kurumlardır.",
+      "Sadece yükseköğretime hazırlayan kurumlardır.",
+      "Hem mesleğe hem yükseköğrenime hazırlayıcı programlar uygulayan kurumlardır.",
+      "Yaygın eğitim kurumlarıdır.",
+      "Sadece din adamı yetiştiren kurumlardır."
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 32. maddesine göre: İmam - hatip liseleri, imamlık, hatiplik ve Kur'an kursu öğreticiliği gibi dinî hizmetlerin yerine getirilmesi ile görevli elemanları yetiştirmek üzere, Millî Eğitim Bakanlığınca açılan ortaöğretim sistemi içinde, hem mesleğe hem yüksek öğrenime hazırlayıcı programlar uygulayan öğretim kurumlarıdır. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-59-1abz",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "İmam - hatip liseleri, hem mesleğe hem.......... hazırlayıcı programlar uygulayan öğretim kurumlarıdır.",
+    "options": [
+      "yüksek öğrenime",
+      "ilköğretime",
+      "yaygın eğitime",
+      "hayata",
+      "mesleğe"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 32. maddesine göre: İmam - hatip liseleri, imamlık, hatiplik ve Kur'an kursu öğreticiliği gibi dinî hizmetlerin yerine getirilmesi ile görevli elemanları yetiştirmek üzere, Millî Eğitim Bakanlığınca açılan ortaöğretim sistemi içinde, hem mesleğe hem yüksek öğrenime hazırlayıcı programlar uygulayan öğretim kurumlarıdır. Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-60-7wox",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Güzel sanatlar eğitimi ile ilgili olarak, \"Özellikleri dolayısıyla bunların kuruluş, işleyiş ve yetiştirme ile ilgili esasları\" ne ile düzenlenir?",
+    "options": [
+      "Cumhurbaşkanı kararıyla",
+      "Talim Terbiye Kurulu kararıyla",
+      "Kanunla",
+      "Bakanlık genelgesiyle",
+      "Ayrı bir yönetmelikle"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 33. maddesine göre: Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere ilköğretim ve orta öğretim seviyesinde ayrı okullar açılabilir veya ayrı yetiştirme tedbirleri alınabilir. Özellikleri dolayısıyla bunların kuruluş, işleyiş ve yetiştirme ile ilgili esasları ayrı bir yönetmelikle düzenlenir. D) Yükseköğretim: Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-61-pr3x",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları yetiştirmek üzere.......... ve.......... seviyesinde ayrı okullar açılabilir.",
+    "options": [
+      "ilköğretim – orta öğretim",
+      "okul öncesi – ilköğretim",
+      "ilkokul – ortaokul",
+      "ortaöğretim – yükseköğretim",
+      "genel – mesleki"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 33. maddesine göre: Güzel sanatlar alanlarında özel istidat ve kabiliyetleri beliren çocukları küçük yaşlardan itibaren yetiştirmek üzere ilköğretim ve orta öğretim seviyesinde ayrı okullar açılabilir veya ayrı yetiştirme tedbirleri alınabilir. Özellikleri dolayısıyla bunların kuruluş, işleyiş ve yetiştirme ile ilgili esasları ayrı bir yönetmelikle düzenlenir. D) Yükseköğretim: Bu doğrultuda doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-62-b01d",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Yüksek öğretim, orta öğretime dayalı en az.......... yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar.",
+    "options": [
+      "beş",
+      "iki",
+      "üç",
+      "dört",
+      "bir"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 34. maddesine göre: Yüksek öğretim, orta öğretime dayalı en az iki yıllık yüksek öğrenim veren eğitim kurumlarının tümünü kapsar. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-63-y31x",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre “Türk toplumunun genel seviyesini yükseltici ve kamuoyunu aydınlatıcı bilim verilerini sözle, yazı ile halka yaymak ve yaygın eğitim hizmetlerinde bulunmak.” hangi eğitim kurumunun amacıdır?",
+    "options": [
+      "Okul Öncesi",
+      "Yaygın Eğitim",
+      "İlköğretim",
+      "Ortaöğretim",
+      "Yükseköğretim"
+    ],
+    "answer_index": 4,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 35. maddesine göre: Yüksek öğretimin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek; 2. Çeşitli kademelerde bilimsel öğretim yapmak; 3. Bu doğrultuda doğru cevap E şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-64-ipv3",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Millî Eğitim Temel Kanunu'na göre öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek aşağıdakilerden hangisinin amaç ve görevidir?",
+    "options": [
+      "İlköğretim",
+      "Yaygın eğitim",
+      "Ortaöğretim",
+      "Yükseköğretim",
+      "Okul öncesi eğitim"
+    ],
+    "answer_index": 3,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 35. maddesine göre: Yüksek öğretimin amaç ve görevleri, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek; 2. Çeşitli kademelerde bilimsel öğretim yapmak; 3. Bu doğrultuda doğru cevap D şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-65-lksw",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "1739 sayılı Millî Eğitim Temel Kanunu'na göre, aşağıda verilenlerden hangisi \"Yaygın Eğitim\"in amaç ve görevleri arasında yer alır?",
+    "options": [
+      "Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek",
+      "Yurdumuzu ilgilendirenler başta olmak üzere, bütün bilimsel, teknik ve kültürel sorunları çözmek için bilimleri genişletip derinleştirecek inceleme ve araştırmalarda bulunmak",
+      "Çeşitli mesleklerde çalışmakta olanların hizmet içinde ve mesleklerinde gelişmeleri için gerekli bilgi ve becerileri kazandırmak",
+      "Araştırma ve incelemelerinin sonuçlarını gösteren, bilim ve tekniğin ilerlemesini sağlayan her türlü yayınları yapmak",
+      "Öğrencileri, çeşitli program ve okullarla ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yüksek öğretime veya hem mesleğe hem de yüksek öğretime veya hayata ve iş alanlarına hazırlamak"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 40. maddesine göre çeşitli mesleklerde çalışmakta olanların hizmet içinde ve mesleklerinde gelişmeleri için gerekli bilgi ve becerileri kazandırmak yaygın eğitimin amaç ve görevlerindendir. Doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-66-ltiy",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Yükseköğretim kurumlarının amaçları, açılış ve işleyişleri nerede belirlenir?",
+    "options": [
+      "Özel kanunlarında",
+      "1739 sayılı Kanunda",
+      "Anayasada",
+      "Cumhurbaşkanlığı kararnamesinde",
+      "Yönetmeliklerde"
+    ],
+    "answer_index": 0,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 36. maddesine göre yükseköğretim kurumlarının amaçları, açılış, kuruluş ve işleyişleri özel kanunlarında belirlenir. Doğru cevap A şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-67-w6v1",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Aşağıdakilerden hangisi yükseköğrenim kurumları arasından yer almaz?",
+    "options": [
+      "Uygulama ve Araştırma Merkezleri",
+      "Ortaöğretim Kurumları",
+      "Üniversiteler",
+      "Fakülteler",
+      "Meslek yüksekokulları"
+    ],
+    "answer_index": 1,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 36. maddesine göre: Yükseköğretim kurumları şunlardır: 1. Üniversiteler, 2. Fakülteler, 3. Enstitüler, 4. Yüksekokullar, 5. Konservatuvarlar, 6. Meslek yüksekokulları 7. Uygulama ve araştırma merkezleri, Yükseköğretim kurumlarının amaçları, açılış, kuruluş ve işleyişleri ile öğretim elemanlarına ilişkin esaslar ve yükseköğretim kurumları ile ilgili diğer hususlar, özel kanunlarında belirlenir. Bu doğrultuda doğru cevap B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  },
+  {
+    "id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv-mtn0qrdt-68-o14z",
+    "topic_id": "t-turk-milli-egitim-sisteminin-genel-yapis-hnyjv",
+    "prompt": "Mecburi ilköğretim çağı dışına çıkmış vatandaşların okuma-yazma öğrenmesi hangi eğitimin kapsamındadır?",
+    "options": [
+      "Özel Eğitim",
+      "Mesleki Eğitim",
+      "Yaygın Eğitim",
+      "İlköğretim",
+      "Örgün Eğitim"
+    ],
+    "answer_index": 2,
+    "explanation": "1739 sayılı Millî Eğitim Temel Kanunu'nun 40. maddesine göre: Yaygın eğitimin özel amacı, millî eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, örgün eğitim sistemine hiç girmemiş yahut, herhangi bir kademesinde bulunan veya bu kademeden çıkmış vatandaşlara, örgün eğitimin yanında veya dışında, 1. Bu doğrultuda doğru cevap C şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:57:49.504603+00:00",
+    "updated_at": "2026-09-04T13:57:49.504603+00:00"
+  }
+]

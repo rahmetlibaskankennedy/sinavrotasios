@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-idaresistemi-mtn88xu9-112-yb3x",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdarenin kamu yararı amacıyla özel mülkiyetteki taşınmaz mallara, bedelini ödeyerek el atması aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Devletleştirme",
+      "İstimval",
+      "Kamulaştırma",
+      "Geçici işgal",
+      "İmtiyaz"
+    ],
+    "answer_index": 2,
+    "explanation": "Taşınmaz mallara kamu yararı için el atılması kamulaştırma olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-113-rg5n",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Olağanüstü durumlarda (savaş, afet) idarenin taşınır mallara geçici olarak el koyması aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Geçici işgal",
+      "Kamulaştırma",
+      "Devletleştirme",
+      "İstimval",
+      "İmtiyaz"
+    ],
+    "answer_index": 3,
+    "explanation": "Olağanüstü hâllerde taşınır mallara el koyma istimval olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-114-dmtv",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Özel mülkiyetteki bir teşebbüs veya işletmeye kamu yararı gerekçesiyle el konulması aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Ruhsat",
+      "Kamulaştırma",
+      "İstimval",
+      "Geçici işgal",
+      "Devletleştirme"
+    ],
+    "answer_index": 4,
+    "explanation": "Özel bir işletmeye el konulması devletleştirme olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-115-ccb2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belirli bir mesleki güvenceye veya yükselme silsilesine tabi olmadan, Cumhurbaşkanı Kararı ile atanıp görevden alınabilen memur türü aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "İstisnai memur",
+      "Güvenceli meslek memuru",
+      "Sözleşmeli personel",
+      "Geçici personel",
+      "İşçi"
+    ],
+    "answer_index": 0,
+    "explanation": "Mesleki güvencesi olmayan, CBK ile atanan memur türü istisnai memur olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-116-sunb",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belirli eğitim ve sınavlardan geçmesi zorunlu olan, mesleki güvenceye sahip memur türü aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "İstisnai memur",
+      "Güvenceli meslek memuru",
+      "Geçici personel",
+      "Sözleşmeli personel",
+      "İşçi"
+    ],
+    "answer_index": 1,
+    "explanation": "Eğitim ve sınav şartına tabi, mesleki güvenceli memur türü güvenceli meslek memuru olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-117-x7t4",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hizmetlerin merkez dışında, ayrı bütçe ve personele sahip kamu tüzel kişileri tarafından yürütülmesini ifade eden ilke aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Yetki genişliği",
+      "Merkezden yönetim",
+      "Yerinden yönetim (adem-i merkeziyet)",
+      "Hiyerarşi",
+      "İdari vesayet"
+    ],
+    "answer_index": 2,
+    "explanation": "Ayrı tüzel kişiliklerce yürütülen hizmetler yerinden yönetim ilkesiyle tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-118-rz92",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Merkezin taşradaki temsilcisine, merkeze danışmadan merkez adına karar alma ve harcama yapma yetkisi verilmesi aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Hiyerarşi",
+      "Yerinden yönetim",
+      "İdari vesayet",
+      "Yetki genişliği",
+      "Kanunilik"
+    ],
+    "answer_index": 3,
+    "explanation": "Taşra temsilcisine merkez adına karar yetkisi verilmesi yetki genişliği olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-119-cfd8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu hizmetinin, idare tarafından kendi organ ve personeliyle doğrudan yürütülmesi yöntemi aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Müşterek emanet",
+      "İmtiyaz",
+      "Ruhsat",
+      "İltizam",
+      "Emanet"
+    ],
+    "answer_index": 4,
+    "explanation": "İdarenin hizmeti kendi imkânlarıyla doğrudan yürütmesi emanet usulü olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-120-zr1w",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devletin, kamu düzenini (güvenlik, genel sağlık, genel ahlak) suç işlenmeden önce korumaya yönelik faaliyeti aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "İdari kolluk",
+      "Adli kolluk",
+      "Özel kolluk",
+      "Hizmet kolluğu",
+      "Siyasi kolluk"
+    ],
+    "answer_index": 0,
+    "explanation": "Suçtan önce, önleyici nitelikteki kolluk faaliyeti idari kolluk olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-121-3ywm",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devletin, kanun veya Cumhurbaşkanlığı kararnamesiyle kurduğu, kendi bütçesi ve personeli olan, dava açabilen ve kendisine dava açılabilen kuruluş niteliği aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Devlet tüzel kişiliği",
+      "Kamu tüzel kişiliği",
+      "Özel hukuk tüzel kişiliği",
+      "Dernek tüzel kişiliği",
+      "Vakıf tüzel kişiliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Ayrı bütçe ve personele sahip, kanun/CBK ile kurulan kuruluş niteliği kamu tüzel kişiliği olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-122-322h",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aksi yargı kararıyla ortaya konana kadar, bir idari işlemin hukuka uygun kabul edilmesi ilkesi aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Ölçülülük ilkesi",
+      "Kanunilik ilkesi",
+      "Hukuka uygunluk karinesi",
+      "Hukuk devleti ilkesi",
+      "Kamu yararı ilkesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Aksi ispatlanana kadar hukuka uygun sayılma hukuka uygunluk karinesi olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-123-il5a",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "657 sayılı DMK'ya göre görevi terk eden bir memurun yeniden göreve dönme yasağı süresi, en kısadan en uzuna doğru nasıl sıralanır?",
+    "options": [
+      "Devir teslimsiz terk - Usulüne uygun istifa - Usulsüz terk - OHAL'de terk",
+      "OHAL'de terk - Devir teslimsiz terk - Usulsüz terk - Usulüne uygun istifa",
+      "Usulsüz terk - Usulüne uygun istifa - OHAL'de terk - Devir teslimsiz terk",
+      "Usulüne uygun istifa (6 ay) - Usulsüz terk (1 yıl) - Devir teslimsiz terk (3 yıl) - OHAL'de terk (hiçbir zaman)",
+      "Usulüne uygun istifa - OHAL'de terk - Usulsüz terk - Devir teslimsiz terk"
+    ],
+    "answer_index": 3,
+    "explanation": "Süreler artan sırayla 6 ay, 1 yıl, 3 yıl ve hiçbir zaman şeklindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-124-rdi9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Teşkilat kurma yöntemleri, gerekli nüfus eşiğine göre en düşükten en yükseğe doğru nasıl sıralanır?",
+    "options": [
+      "Büyükşehir belediyesi - Köy - Belediye",
+      "Belediye - Köy - Büyükşehir belediyesi",
+      "Büyükşehir belediyesi - Belediye - Köy",
+      "Belediye - Büyükşehir belediyesi - Köy",
+      "Köy (150-2.000) - Belediye (5.000+) - Büyükşehir belediyesi (750.000+)"
+    ],
+    "answer_index": 4,
+    "explanation": "Nüfus eşiği en düşükten yükseğe köy, belediye, büyükşehir belediyesi şeklinde sıralanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-125-s5jl",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir belediye başkanının görevden uzaklaştırılıp kesin olarak düşürülmesi süreci genellikle hangi sırayla ilerler?",
+    "options": [
+      "İçişleri Bakanının geçici uzaklaştırması - Danıştayın kesin düşürme kararı",
+      "Danıştayın kesin düşürme kararı - İçişleri Bakanının geçici uzaklaştırması",
+      "YSK'nin kararı - İçişleri Bakanının uzaklaştırması",
+      "Danıştayın uzaklaştırması - YSK'nin düşürmesi",
+      "İçişleri Bakanının kesin düşürmesi - Danıştayın geçici uzaklaştırması"
+    ],
+    "answer_index": 0,
+    "explanation": "Süreç önce geçici uzaklaştırmayla başlar (İçişleri Bakanı), kesin düşürme kararını Danıştay verir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-126-ugad",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdarenin mal edinme yöntemleri, uygulandığı mal/işletme türüne göre nasıl gruplanır: kamulaştırma - istimval - devletleştirme?",
+    "options": [
+      "Taşınır mal - Taşınmaz mal - Özel teşebbüs",
+      "Taşınmaz mal - Taşınır mal - Özel teşebbüs/işletme",
+      "Özel teşebbüs - Taşınmaz mal - Taşınır mal",
+      "Taşınmaz mal - Özel teşebbüs - Taşınır mal",
+      "Taşınır mal - Özel teşebbüs - Taşınmaz mal"
+    ],
+    "answer_index": 1,
+    "explanation": "Kamulaştırma taşınmaz, istimval taşınır mal, devletleştirme ise özel teşebbüs/işletme içindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-127-hwpv",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir hukuka aykırı emrin uygulanma süreci genellikle hangi sırayla ilerler?",
+    "options": [
+      "Üstün ısrarı - Emrin uygulanması - Astın bildirmesi",
+      "Emrin uygulanması - Astın bildirmesi - Üstün ısrarı",
+      "Astın aykırılığı bildirmesi - Üstün yazılı ısrarı - Emrin uygulanması ve sorumluluğun üste geçmesi",
+      "Sorumluluğun üste geçmesi - Astın bildirmesi - Üstün ısrarı",
+      "Astın bildirmesi - Emrin uygulanması - Üstün ısrarı"
+    ],
+    "answer_index": 2,
+    "explanation": "Süreç önce astın aykırılığı bildirmesiyle başlar, üstün yazılı ısrarıyla devam eder, emrin uygulanmasıyla sonuçlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-128-5esw",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu tüzel kişiliği kavramının incelenmesinde izlenmesi gereken mantıksal sıralama aşağıdakilerden hangisidir?",
+    "options": [
+      "Özellikleri - Liste - İstisnai örnekler - Kuruluş yöntemi",
+      "İstisnai örnekler - Kuruluş yöntemi - Özellikleri - Liste",
+      "Liste - İstisnai örnekler - Kuruluş yöntemi - Özellikleri",
+      "Kuruluş yöntemi - Özellikleri - Olan/olmayan kuruluşlar listesi - İstisnai örnekler (Diyanet, MGK)",
+      "Kuruluş yöntemi - Liste - İstisnai örnekler - Özellikleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Konu genellikle kuruluş yöntemi, temel özellikler, örnek listeler ve istisnai durumlar sırasıyla ele alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-129-okd8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Cumhurbaşkanı, halk tarafından kaç yıllığına seçilir?",
+    "options": [
+      "3 yıl",
+      "4 yıl",
+      "6 yıl",
+      "7 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 4,
+    "explanation": "Cumhurbaşkanı 5 yıl için halk tarafından seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-130-7pl6",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Vali, hangi makamları aynı anda temsil eder?",
+    "options": [
+      "Hem devleti hem Cumhurbaşkanını",
+      "Sadece Cumhurbaşkanını",
+      "Sadece devleti",
+      "Sadece İçişleri Bakanlığını",
+      "TBMM'yi"
+    ],
+    "answer_index": 0,
+    "explanation": "Vali hem devletin hem Cumhurbaşkanının ildeki temsilcisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-131-1lma",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "MİT, Diyanet ve Savunma Sanayii Başkanlığı hangi makama doğrudan bağlıdır?",
+    "options": [
+      "İçişleri Bakanlığına",
+      "Cumhurbaşkanlığına",
+      "TBMM'ye",
+      "Danıştaya",
+      "Millî Savunma Bakanlığına"
+    ],
+    "answer_index": 1,
+    "explanation": "MİT, Diyanet ve Savunma Sanayii Başkanlığı Cumhurbaşkanlığına doğrudan bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-132-3vpw",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Danıştay, Sayıştay ve MGK hangi kategoriye girer?",
+    "options": [
+      "Yerinden yönetim kuruluşları",
+      "Yürütme organları",
+      "Danışma organları",
+      "Bağımsız idari otoriteler",
+      "Yerel yönetimler"
+    ],
+    "answer_index": 2,
+    "explanation": "Danıştay, Sayıştay ve MGK danışma organları arasında sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-133-os74",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köye özgü, ortak emek gücüyle iş görme yetkisi aşağıdakilerden hangisidir?",
+    "options": [
+      "İstimval",
+      "Salma",
+      "Kamulaştırma",
+      "İmece",
+      "Ruhsat"
+    ],
+    "answer_index": 3,
+    "explanation": "İmece, köye özgü ortak emek gücüyle iş görme yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-134-sw3h",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köye özgü, köylülerden ayni veya nakdi katkı toplama yetkisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Ruhsat",
+      "İmece",
+      "Kamulaştırma",
+      "Devletleştirme",
+      "Salma"
+    ],
+    "answer_index": 4,
+    "explanation": "Salma, köye özgü ayni/nakdi katkı toplama yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-135-dpfe",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Büyükşehirlerde hangi yerel yönetim birimi kaldırılmıştır?",
+    "options": [
+      "İl özel idaresi",
+      "Belediye",
+      "Köy",
+      "Muhtarlık",
+      "İl idare kurulu"
+    ],
+    "answer_index": 0,
+    "explanation": "Büyükşehir belediyesi olan illerde il özel idaresi kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-136-5b7i",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Konsolosun memuriyet statüsü aşağıdakilerden hangisidir?",
+    "options": [
+      "İstisnai memur",
+      "Güvenceli meslek memuru",
+      "Sözleşmeli personel",
+      "Geçici personel",
+      "İşçi"
+    ],
+    "answer_index": 1,
+    "explanation": "Konsolos, Büyükelçinin aksine güvenceli meslek memurudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-137-5svi",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir memurun kademe ilerlemesinin durdurulması hangi kategoriye girer?",
+    "options": [
+      "Sosyal hak",
+      "İdari tedbir",
+      "Disiplin cezası",
+      "Genel hak",
+      "Yasak"
+    ],
+    "answer_index": 2,
+    "explanation": "Kademe ilerlemesinin durdurulması 657 sayılı Kanun'da bir disiplin cezasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-138-tl4p",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Görevden uzaklaştırma, hukuki nitelik olarak neyi ifade eder?",
+    "options": [
+      "Bir sosyal hakkı",
+      "Bir disiplin cezasını",
+      "Bir ceza yargılamasını",
+      "İdari bir tedbiri",
+      "Bir emeklilik işlemini"
+    ],
+    "answer_index": 3,
+    "explanation": "Görevden uzaklaştırma bir disiplin cezası değil, idari bir tedbirdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-139-a9jt",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Fakültelerin kamu tüzel kişiliği ile ilgili durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Fakülteler bakanlığa bağlı tüzel kişidir",
+      "Fakültelerin kendine özgü ayrı tüzel kişiliği vardır",
+      "Fakülteler hiçbir tüzel kişiliğe bağlı değildir",
+      "Fakülteler özel hukuk tüzel kişisidir",
+      "Sadece bağlı oldukları üniversitenin tüzel kişiliği vardır"
+    ],
+    "answer_index": 4,
+    "explanation": "Fakültelerin kendine özgü ayrı bir kamu tüzel kişiliği yoktur, sadece üniversitenin tüzel kişiliği vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-140-muxh",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari vesayet yetkisinin sınırları neyle çizilir?",
+    "options": [
+      "Kanunla",
+      "Yönetmelikle",
+      "İdari teamülle",
+      "Genelgeyle",
+      "Doktrinle"
+    ],
+    "answer_index": 0,
+    "explanation": "İdari vesayet istisnai bir yetki olduğundan sınırları kanunla çizilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-141-r94a",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir Cumhurbaşkanlığı Kararnamesi ile bir kanun çeliştiğinde hangisi esas alınır?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Kanun",
+      "İkisi eşit kabul edilir",
+      "Yönetmelik",
+      "Genelge"
+    ],
+    "answer_index": 1,
+    "explanation": "Kanun ile CBK çatıştığında kanun hükümleri esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-142-ct9y",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Geçici işgal, hangi amaçla uygulanan bir yetkidir?",
+    "options": [
+      "Özel teşebbüslere el konulması",
+      "Kalıcı olarak taşınmaz mülkiyetinin devri",
+      "Bayındırlık hizmeti sırasında geçici olarak araziye el konulması",
+      "Taşınır mallara el konulması",
+      "Kamu hizmetinin özel kişilere gördürülmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Geçici işgal, bayındırlık hizmeti için boş araziye geçici olarak el konulmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-143-s5wd",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Adli kolluk hangi makama bağlı olarak çalışır?",
+    "options": [
+      "Belediye başkanına",
+      "İçişleri Bakanına",
+      "Valiye",
+      "Cumhuriyet savcısına",
+      "Danıştaya"
+    ],
+    "answer_index": 3,
+    "explanation": "Adli kolluk Cumhuriyet savcısına bağlı olarak çalışır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-144-tjwn",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir idari işlemin iptal davasına konu olabilmesi neyi gösterir?",
+    "options": [
+      "İdarenin kanundan bağımsız hareket ettiğini",
+      "İdari işlemlerin hiçbir denetime tabi olmadığını",
+      "Sadece düzenleyici işlemlerin denetlenebildiğini",
+      "Bireysel işlemlerin denetlenemeyeceğini",
+      "İdari işlemlerin yargı denetimine tabi olduğunu"
+    ],
+    "answer_index": 4,
+    "explanation": "İptal davasına konu olabilmesi, idari işlemlerin yargı denetimine tabi olduğunu gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-145-2ydb",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu yararı, idare hukukunun hangi unsuruyla doğrudan ilişkilidir?",
+    "options": [
+      "Amacıyla",
+      "Konusuyla",
+      "Kaynaklarıyla",
+      "Yaptırımıyla",
+      "Süjesiyle"
+    ],
+    "answer_index": 0,
+    "explanation": "Kamu yararı, idare hukukunun amacını oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-146-1ulj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "657 sayılı Kanun'a göre memurların temel ilkeleri arasında aşağıdakilerden hangisi sayılır?",
+    "options": [
+      "Sadece kıdem",
+      "Sınıflandırma, kariyer ve liyakat",
+      "Sadece sınav başarısı",
+      "Sadece siyasi tercih",
+      "Sadece eğitim düzeyi"
+    ],
+    "answer_index": 1,
+    "explanation": "657 sayılı Kanun'un temel ilkeleri sınıflandırma, kariyer ve liyakattir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-147-54ch",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Liyakat ilkesi neyi ifade eder?",
+    "options": [
+      "Siyasi bağlantıya göre yükselmeyi",
+      "Kıdeme göre yükselmeyi",
+      "Yeteneğe göre yükselmeyi",
+      "Yaşa göre yükselmeyi",
+      "Eğitim süresine göre yükselmeyi"
+    ],
+    "answer_index": 2,
+    "explanation": "Liyakat ilkesi, yeteneğe göre yükselmeyi ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-148-4bqc",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi Cumhurbaşkanlığına doğrudan bağlı kuruluşlardan biri değildir?",
+    "options": [
+      "Devlet Arşivleri Başkanlığı",
+      "Millî Saraylar",
+      "İletişim Başkanlığı",
+      "Belediye",
+      "MİT"
+    ],
+    "answer_index": 3,
+    "explanation": "Belediye, Cumhurbaşkanlığına doğrudan bağlı değil, yerel yerinden yönetim kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-149-6luv",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Savunma Sanayii Başkanlığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cumhurbaşkanlığına doğrudan bağlıdır",
+      "Kendi kamu tüzel kişiliği vardır",
+      "Doğrudan bağlılar arasında sayılır",
+      "Güncel teşkilat şemasında yer alır",
+      "Bakanlıklar gibi devlet tüzel kişiliği içindedir"
+    ],
+    "answer_index": 4,
+    "explanation": "Savunma Sanayii Başkanlığının kendi ayrı kamu tüzel kişiliği vardır, bakanlıklar gibi devlet tüzel kişiliği içinde değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-150-j3kd",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "KİK, BTK ve KVKK hangi kategoride değerlendirilir?",
+    "options": [
+      "Bağımsız idari otoriteler",
+      "Yerel yönetimler",
+      "Danışma organları",
+      "Yargı organları",
+      "Mülga kurumlar"
+    ],
+    "answer_index": 0,
+    "explanation": "KİK, BTK ve KVKK bağımsız idari otoriteler arasında sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-151-dnwh",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl Genel Meclisi hangi organın karar organıdır?",
+    "options": [
+      "Büyükşehir belediyesinin",
+      "İl özel idaresinin",
+      "Köyün",
+      "İlçe idaresinin",
+      "Bakanlığın"
+    ],
+    "answer_index": 1,
+    "explanation": "İl Genel Meclisi, il özel idaresinin karar organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-152-war8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl Daimi Encümeni hangi kuruluşun bir organıdır?",
+    "options": [
+      "Köyün",
+      "Büyükşehir belediyesinin",
+      "İl özel idaresinin",
+      "Bakanlığın",
+      "TBMM nin"
+    ],
+    "answer_index": 2,
+    "explanation": "İl Daimi Encümeni il özel idaresinin organlarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-153-g4lt",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl ve ilçe kurulması, kaldırılması veya adının değiştirilmesi hangi işlemle yapılır?",
+    "options": [
+      "Vali kararı ile",
+      "Cumhurbaşkanı Kararı ile",
+      "İçişleri Bakanlığı kararı ile",
+      "Kanunla",
+      "Yönetmelikle"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-154-o7w3",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Büyükşehir belediyesi kurulması için hangi düzenleyici işlem gereklidir?",
+    "options": [
+      "Genelge",
+      "Cumhurbaşkanı Kararı",
+      "İçişleri Bakanlığı kararı",
+      "Yönetmelik",
+      "Kanun"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-155-aykj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belediye kurulması için gereken düzenleyici işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanı Kararı",
+      "Kanun",
+      "İçişleri Bakanlığı kararı",
+      "Vali kararı",
+      "Yönetmelik"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-156-ggtk",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köy kurulması hangi makamın kararıyla gerçekleşir?",
+    "options": [
+      "Cumhurbaşkanlığı",
+      "İçişleri Bakanlığı",
+      "TBMM",
+      "Vali",
+      "Kaymakam"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-157-g5a6",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Cumhurbaşkanlığı Hükümet Sisteminde bakanlıkların kurulması hangi işlemle olur?",
+    "options": [
+      "Yönetmelik",
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Bakanlar Kurulu Kararı",
+      "TBMM kararı"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-158-ckt0",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir belediye başkanının geçici olarak görevden uzaklaştırılması yetkisi kime aittir?",
+    "options": [
+      "YSK'ye",
+      "Danıştaya",
+      "Valiye",
+      "İçişleri Bakanına",
+      "TBMM'ye"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-159-qued",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir belediye başkanının kesin olarak görevden düşürülmesi yetkisi kime aittir?",
+    "options": [
+      "Cumhurbaşkanına",
+      "İçişleri Bakanına",
+      "Valiye",
+      "YSK'ye",
+      "Danıştaya"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-16-lhjo",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Merkezden yönetim ilkesinin sakıncaları arasında aşağıdakilerden hangisi sayılmaz?",
+    "options": [
+      "Bürokrasi",
+      "Güçlü devlet yapısı",
+      "Yavaş işleyiş",
+      "Yerel ihtiyaçlara duyarsızlık",
+      "Hizmetlerde gecikme"
+    ],
+    "answer_index": 1,
+    "explanation": "Güçlü devlet yapısı, merkezden yönetimin sakıncası değil faydası olarak sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-160-yhgu",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devlet Denetleme Kurulu hangi makama bağlıdır?",
+    "options": [
+      "Cumhurbaşkanlığına",
+      "İçişleri Bakanlığına",
+      "TBMM'ye",
+      "Danıştaya",
+      "Sayıştaya"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-161-2qg2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Sayıştay, merkezi yönetim bütçesi kapsamındaki kurumları kimin adına denetler?",
+    "options": [
+      "Cumhurbaşkanı adına",
+      "TBMM adına",
+      "İçişleri Bakanı adına",
+      "Danıştay adına",
+      "Kendi adına"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-162-xbzu",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Siyasi partilerin mali denetimini hangi kurum yapar?",
+    "options": [
+      "Danıştay",
+      "Sayıştay",
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "YSK"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-163-gz9i",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Vesayet makamı, denetlediği bir işlemi hukuka aykırı bulursa ne yapabilir?",
+    "options": [
+      "Yerine geçip yeniden düzenleyebilir",
+      "Değiştirebilir",
+      "Emir verebilir",
+      "İptal edebilir",
+      "Hiçbir şey yapamaz"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-164-slg2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hiyerarşik amir, astının işlemini hukuka aykırı bulursa neler yapabilir?",
+    "options": [
+      "Sadece onaylayabilir",
+      "Sadece iptal edebilir",
+      "Sadece emir verebilir",
+      "Hiçbir işlem yapamaz",
+      "İptal edebilir veya değiştirebilir"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-165-p5od",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Valinin atanma ve görevden alınma şekli aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanı Kararı ile",
+      "Kanunla",
+      "İçişleri Bakanlığı onayı ile",
+      "TBMM kararı ile",
+      "Danıştay kararı ile"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-166-hqy4",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kaymakamın atanması hangi onayla gerçekleşir?",
+    "options": [
+      "Vali onayı ile",
+      "Cumhurbaşkanı onayı ile",
+      "İçişleri Bakanlığı Kararı ile",
+      "TBMM kararı ile",
+      "Danıştay kararı ile"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-167-vwx5",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Büyükelçinin memuriyet statüsü aşağıdakilerden hangisidir?",
+    "options": [
+      "Sözleşmeli personel",
+      "Güvenceli meslek memuru",
+      "İstisnai memur",
+      "İşçi",
+      "Geçici personel"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-168-nlt2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamulaştırma bedeli kural olarak nasıl ödenir?",
+    "options": [
+      "Sadece dava sonucunda",
+      "Taksitle",
+      "Hiç ödenmez",
+      "Peşin",
+      "Yıllık taksitlerle zorunlu olarak"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-169-q46z",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devletleştirme işleminin konusu aşağıdakilerden hangisidir?",
+    "options": [
+      "Bir memurun kadrosu",
+      "Bir taşınmaz arsa",
+      "Bir taşınır araç",
+      "Bir kişi hakkı",
+      "Özel bir teşebbüs veya işletme"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-17-dr8w",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Yerinden yönetim (adem-i merkeziyet) ilkesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hizmetlerin tek elden ve merkezden yürütülmesidir",
+      "Valinin merkez adına karar almasıdır",
+      "Hizmetlerin ayrı kamu tüzel kişileri tarafından yürütülmesidir",
+      "Merkezi idarenin taşra teşkilatı kurmasıdır",
+      "Devletin tüzel kişiliğinin ortadan kalkmasıdır"
+    ],
+    "answer_index": 2,
+    "explanation": "Yerinden yönetimde hizmetler, merkezi idareden ayrı kamu tüzel kişileri tarafından yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-170-f600",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "OHAL, savaş veya seferberlik döneminde görevi terk eden memurla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hiçbir zaman memurluğa dönemez",
+      "6 ay sonra dönebilir",
+      "3 yıl sonra dönebilir",
+      "1 yıl sonra dönebilir",
+      "Hemen dönebilir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-171-eak1",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Mal bildiriminin yenilenmesi gereken yıllar hangi rakamla biter?",
+    "options": [
+      "1 ve 6",
+      "0 ve 5",
+      "2 ve 7",
+      "3 ve 8",
+      "4 ve 9"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-172-vwck",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Mal bildirimi yenileme süresi hangi ayın sonuna kadardır?",
+    "options": [
+      "Mart",
+      "Ocak",
+      "Şubat",
+      "Aralık",
+      "Nisan"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-173-hlfd",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aday memurluk süresi için üst sınır kaç yıldır?",
+    "options": [
+      "4 yıl",
+      "1 yıl",
+      "3 yıl",
+      "2 yıl",
+      "6 ay"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-174-ctec",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Adaylığı başarısızlıkla sonlanan bir kişi kaç yıl memur olamaz?",
+    "options": [
+      "6 ay",
+      "1 yıl",
+      "2 yıl",
+      "5 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-175-tiib",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aday memurun başka bir kuruma nakli mümkün müdür?",
+    "options": [
+      "Mümkün değildir",
+      "Serbestçe mümkündür",
+      "Sadece Cumhurbaşkanı onayıyla mümkündür",
+      "Sadece 1 yıl sonra mümkündür",
+      "Sadece disiplin cezası varsa mümkündür"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-176-g86t",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Cumhurbaşkanlığı Hükümet Sisteminde yürütme yetkisi kime aittir?",
+    "options": [
+      "Başbakana",
+      "Bizzat Cumhurbaşkanına",
+      "Bakanlar Kuruluna",
+      "TBMM'ye",
+      "İçişleri Bakanlığına"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-177-8wwl",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Tüzük düzenleyici işleminin yerini günümüzde hangi işlem almıştır?",
+    "options": [
+      "Genelge",
+      "Yönetmelik",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Yönerge",
+      "Kanun"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-178-bpl9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Sıkıyönetimin kaldırılmasından sonra sistemde hangi olağanüstü hal aracı kalmıştır?",
+    "options": [
+      "Genel grev",
+      "Sıkıyönetim",
+      "Seferberlik",
+      "OHAL (olağanüstü hal)",
+      "Kısmi seferberlik"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-179-7mu2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi güncel sistemde hangi durumdadır?",
+    "options": [
+      "Danıştaya bağlanmıştır",
+      "Faaliyetlerini sürdürmektedir",
+      "Sadece savaş zamanı çalışır",
+      "Sadece TSK içinde geçerlidir",
+      "Kaldırılmıştır"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-18-v9wo",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi yerel yerinden yönetim kuruluşlarından biridir?",
+    "options": [
+      "TRT",
+      "YÖK",
+      "MİT",
+      "Belediye",
+      "Emniyet Genel Müdürlüğü"
+    ],
+    "answer_index": 3,
+    "explanation": "Belediye, il özel idaresi ve köy yerel yerinden yönetim kuruluşlarındandır; TRT ve YÖK hizmet yerinden yönetim kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-180-pkbb",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bucak idaresi ne zaman idari teşkilatlanmadan kaldırılmıştır?",
+    "options": [
+      "2014 yılında",
+      "2004 yılında",
+      "1982 yılında",
+      "2010 yılında",
+      "2020 yılında"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-181-xty2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köyün İhtiyar Heyetinde hangi kişiler doğal üyedir?",
+    "options": [
+      "Muhtar ve kaymakam",
+      "Köy imamı ve köy öğretmeni",
+      "Vali ve muhtar",
+      "Belediye başkanı ve imam",
+      "Sadece muhtar"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-182-zmt9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Diyanet İşleri Başkanlığının kamu tüzel kişiliği açısından durumu nedir?",
+    "options": [
+      "Özel hukuk tüzel kişisidir",
+      "Ayrı bir kamu tüzel kişiliği vardır",
+      "Anayasal kuruluştur ama ayrı tüzel kişiliği yoktur",
+      "Yerel yönetim kuruluşudur",
+      "Bağımsız idari otoritedir"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-183-ztzz",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "MGK'nın kamu tüzel kişiliği açısından durumu nedir?",
+    "options": [
+      "Yerinden yönetim kuruluşudur",
+      "Ayrı bir kamu tüzel kişiliği vardır",
+      "Bağımsız idari otoritedir",
+      "Anayasal kuruluştur ama ayrı tüzel kişiliği yoktur",
+      "Yerel yönetimdir"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-184-dy5k",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "RTÜK, SPK, BDDK gibi kuruluşların ortak özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Tüzel kişiliklerinin olmaması",
+      "Kanunla değil teamülle kurulmaları",
+      "Doğrudan Cumhurbaşkanına bağlı olmaları",
+      "Yerel yönetim sayılmaları",
+      "Kendi kamu tüzel kişiliklerinin olması"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-185-ed9v",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "TÜBİTAK'ın kamu tüzel kişiliği açısından durumu nedir?",
+    "options": [
+      "Kamu tüzel kişiliğine sahiptir",
+      "Kamu tüzel kişiliğine sahip değildir",
+      "Özel hukuk tüzel kişisidir",
+      "Bakanlığa bağlı, ayrı tüzel kişiliği yoktur",
+      "Sadece danışma organıdır"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-186-ijsu",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari kolluk uyuşmazlıkları hangi yargı kolunda çözülür?",
+    "options": [
+      "Adli yargıda",
+      "İdari yargıda",
+      "Askerî yargıda",
+      "Anayasa yargısında",
+      "Vergi yargısında"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-187-5dj9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Adli kolluk uyuşmazlıkları hangi yargı kolunda çözülür?",
+    "options": [
+      "Askerî yargıda",
+      "İdari yargıda",
+      "Adli yargıda",
+      "Anayasa yargısında",
+      "Vergi yargısında"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-188-9emr",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Polis, jandarma ve bekçi hangi kolluk türüne örnektir?",
+    "options": [
+      "Hizmet kolluğu",
+      "Adli kolluk",
+      "Özel kolluk",
+      "İdari kolluk",
+      "Siyasi kolluk"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-189-b0ob",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belediye zabıtası ve köy korucusu hangi kolluk türüne örnektir?",
+    "options": [
+      "Hizmet kolluğu",
+      "İdari kolluk",
+      "Adli kolluk",
+      "Siyasi kolluk",
+      "Özel kolluk"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-19-eilu",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi hizmet yerinden yönetim kuruluşuna örnektir?",
+    "options": [
+      "Köy",
+      "İl özel idaresi",
+      "Belediye",
+      "Muhtarlık",
+      "YÖK"
+    ],
+    "answer_index": 4,
+    "explanation": "TRT ve YÖK hizmet yerinden yönetim kuruluşlarına örnektir; köy, il özel idaresi ve belediye yerel yerinden yönetim kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-190-acd2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu hizmetinin bedelsizliği ilkesiyle ilgili genel kural nedir?",
+    "options": [
+      "Kural olarak bedelsizdir, istisnaları vardır",
+      "Her zaman ücretlidir",
+      "Sadece belediyeler için bedelsizdir",
+      "Sadece sağlık hizmetleri için geçerlidir",
+      "Kamu hizmeti kavramıyla ilgisizdir"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-191-gg0p",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu hizmetinin sürekli olması ilkesi neyi ifade eder?",
+    "options": [
+      "Hizmetin sadece belirli saatlerde sunulacağını",
+      "Hizmetin kesintisiz yürütülmesi gerektiğini",
+      "Hizmetin ücretli olacağını",
+      "Hizmetin özelleştirileceğini",
+      "Hizmetin il bazında sınırlı olacağını"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-192-ne3g",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bir idari işlemin icrai olması ne anlama gelir?",
+    "options": [
+      "Sadece düzenleyici işlemler için geçerli olması",
+      "Yargı kararına ihtiyaç duymadan asla uygulanamayacağı",
+      "Uygulanabilir/yürürlüğe konulabilir olması",
+      "Sadece bireysel işlemler için geçerli olması",
+      "Hiçbir hukuki sonuç doğurmaması"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-193-05fk",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari işlemlerin tek taraflı olması ne anlama gelir?",
+    "options": [
+      "Yargı onayı gerektirmesi",
+      "Karşı tarafın rızasının zorunlu olması",
+      "Bir sözleşme niteliğinde olması",
+      "İdarenin tek yanlı iradesiyle hukuki sonuç doğurması",
+      "İki tarafın da imzasının gerekmesi"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-194-qkp9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdare hukukunun 'genç ve dinamik' olarak nitelendirilmesinin nedeni nedir?",
+    "options": [
+      "Sadece özel hukuka dayanması",
+      "Sadece yeni kurulan devletlerde uygulanması",
+      "Sadece dijital ortamda uygulanması",
+      "Anayasadan sonra ortaya çıkmış olması",
+      "Sürekli gelişen, değişen bir hukuk dalı olması"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-195-ckxs",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kanunilik ilkesinin istisnalarından biri olan MGK Genel Sekreterliği hangi işlemle düzenlenir?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Kanun",
+      "Yönetmelik",
+      "Genelge",
+      "Yönerge"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-196-i88n",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Merkezden yönetim ilkesinde devletin nasıl bir tüzel kişiliği vardır?",
+    "options": [
+      "Her bakanlığın ayrı tüzel kişiliği",
+      "Tek ve bütün bir devlet tüzel kişiliği",
+      "Her ilin ayrı tüzel kişiliği",
+      "Tüzel kişiliği yoktur",
+      "Sadece taşrada tüzel kişilik vardır"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-197-aei5",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Yetki genişliği ilkesinde gelir ve gider kime aittir?",
+    "options": [
+      "Valiye kişisel olarak",
+      "Taşra teşkilatına",
+      "Merkeze",
+      "Belediyeye",
+      "Kaymakama"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-198-59zn",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Yerinden yönetim ilkesi hangi iki temel değeri artırdığı kabul edilir?",
+    "options": [
+      "Otorite ve baskı",
+      "Merkeziyetçilik ve güç",
+      "Bürokrasi ve yavaşlık",
+      "Demokrasi ve hız",
+      "Gizlilik ve kontrol"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-199-y1b9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hukuka aykırı olmayan, ancak ast tarafından uygun görülmeyen bir emrin akıbeti nedir?",
+    "options": [
+      "Emir doğrudan iptal edilir",
+      "Ast hiçbir koşulda uygulamaz",
+      "Emir otomatik olarak geçersiz sayılır",
+      "Sadece disiplin kuruluna bildirilir",
+      "Ast, üst yazılı ısrar ederse emri uygular"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-20-m5vc",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu tüzel kişiliğinin özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Sadece özel hukuk sözleşmeleriyle kurulabilmesi",
+      "Ayrı bütçeye sahip olması",
+      "Yönetmelik çıkarabilmesi",
+      "Kamulaştırma yapabilmesi",
+      "Kanun veya Cumhurbaşkanlığı kararnamesiyle kurulması"
+    ],
+    "answer_index": 0,
+    "explanation": "Kamu tüzel kişileri kanun veya Cumhurbaşkanlığı kararnamesiyle kurulur; özel hukuk sözleşmesiyle kurulmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-21-0tok",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kamu tüzel kişiliğine sahip değildir?",
+    "options": [
+      "Belediye",
+      "Valilik",
+      "Üniversite",
+      "Köy",
+      "TRT"
+    ],
+    "answer_index": 1,
+    "explanation": "Valilik, kaymakamlık, emniyet, MİT, mahkemeler ve fakülteler kamu tüzel kişiliğine sahip değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-22-y8yi",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Diyanet İşleri Başkanlığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Anayasal bir kuruluştur ve kamu tüzel kişiliği vardır",
+      "Kanunla değil idari teamülle kurulmuştur",
+      "Anayasal bir kuruluştur ancak kamu tüzel kişiliği yoktur",
+      "Kamu tüzel kişiliği olan kuruluşlar arasında sayılmıştır",
+      "Yerel yerinden yönetim kuruluşudur"
+    ],
+    "answer_index": 2,
+    "explanation": "Diyanet İşleri Başkanlığı anayasal bir kuruluş olmakla birlikte kamu tüzel kişiliği bulunmamaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-23-06hj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hiyerarşi ile idari vesayet arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      "Hiyerarşi farklı tüzel kişilikler arasında, vesayet aynı tüzel kişilik içinde uygulanır",
+      "İkisi de emir verme yetkisi içerir",
+      "İkisi de yalnızca merkezi idarede uygulanır",
+      "Hiyerarşi aynı tüzel kişilik içinde, vesayet farklı tüzel kişilikler arasında uygulanır",
+      "İkisi de yalnızca denetim yetkisi içerir"
+    ],
+    "answer_index": 3,
+    "explanation": "Hiyerarşi aynı tüzel kişilik içindeki üst-ast ilişkisidir; idari vesayet ise merkezi idarenin yerinden yönetim kuruluşları üzerindeki denetim yetkisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-24-huhq",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari vesayet yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İstisnai bir yetkidir",
+      "Kural olarak sadece denetim yetkisi içerir",
+      "Genişletici yoruma tabi tutulamaz",
+      "Farklı tüzel kişilikler arasında uygulanır",
+      "Vesayet makamı astın yerine geçerek işlem yapabilir"
+    ],
+    "answer_index": 4,
+    "explanation": "İdari vesayette vesayet makamı, astın yerine geçerek işlem yapamaz; yetkisi kural olarak sadece denetimle sınırlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-25-qfz1",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hukuka aykırı bir emrin, üst tarafından yazılı olarak ısrarla tekrarlanması hâlinde sorumluluk kime aittir?",
+    "options": [
+      "Emri veren üste",
+      "Emri yerine getiren memura",
+      "Her ikisine eşit olarak",
+      "Sorumluluk tamamen ortadan kalkar",
+      "Bir üst disiplin kuruluna"
+    ],
+    "answer_index": 0,
+    "explanation": "Yazılı ısrar hâlinde emrin sonuçlarından emri veren üst sorumlu olur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-26-4ls2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Suç teşkil eden bir emirle karşılaşan memurun tutumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yazılı emir olduğu için yerine getirilmelidir",
+      "Hiçbir koşulda yerine getirilmemelidir",
+      "Üst yazılı ısrar ederse yerine getirilmelidir",
+      "Sadece disiplin amirine bildirilip yerine getirilmelidir",
+      "Bir üst makamdan onay alınarak yerine getirilmelidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Suç teşkil eden emir, yazılı ısrar olsa dahi hiçbir koşulda yerine getirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-27-aupy",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "- - - - kolluk, suç işlenmeden önce devreye girer ve önleyici niteliktedir; - - - - kolluk ise suçtan sonra devreye girer ve bastırıcı niteliktedir.",
+    "options": [
+      "Özel / Hizmet",
+      "Adli / İdari",
+      "İdari / Adli",
+      "Siyasi / Özel",
+      "Hizmet / Siyasi"
+    ],
+    "answer_index": 2,
+    "explanation": "İdari kolluk önleyici, adli kolluk ise bastırıcı niteliktedir ve suçtan sonra devreye girer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-28-k18h",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Adli kolluğun temel özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Önleyicidir ve idari yargıya bağlıdır",
+      "Belediye zabıtasından oluşur",
+      "Sadece kamu düzenini önceden korur",
+      "Bastırıcıdır ve savcıya bağlı olarak çalışır",
+      "Yalnızca MİT tarafından yürütülür"
+    ],
+    "answer_index": 3,
+    "explanation": "Adli kolluk suçtan sonra devreye girer, bastırıcı niteliktedir ve savcıya bağlı olarak çalışır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-29-qvp4",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi özel kolluk türüne örnektir?",
+    "options": [
+      "Polis",
+      "Jandarma",
+      "Orman muhafaza memurları",
+      "MİT",
+      "Belediye zabıtası"
+    ],
+    "answer_index": 4,
+    "explanation": "Belediye zabıtası ve köy korucusu özel kolluk türüne örnektir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-30-aeey",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Süreklilik II. Eşitlik III. Uyarlama IV. Bedelsizlik\nYukarıdakilerden hangileri kamu hizmetinin ilkelerindendir?",
+    "options": [
+      "I, II, III ve IV",
+      "I, II ve III",
+      "II, III ve IV",
+      "Yalnız I ve II",
+      "Yalnız III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Süreklilik, uyarlama, eşitlik ve bedelsizlik (kural olarak) kamu hizmetinin temel ilkeleri arasında sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-31-togj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamu hizmetinin, özel kişilere belirli bir süre için ayrıcalıklı bir sözleşmeyle gördürülmesi yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "Emanet",
+      "İmtiyaz",
+      "Ruhsat",
+      "İltizam",
+      "Müşterek emanet"
+    ],
+    "answer_index": 1,
+    "explanation": "İmtiyaz, kamu hizmetinin özel kişilere ayrıcalıklı sözleşmeyle gördürülmesi yöntemidir ve imtiyaz sözleşmeleri Danıştay görüşüne tabidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-32-19m7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İmtiyaz sözleşmelerinin geçerliliği için hangi kurumun görüşünün alınması gerekir?",
+    "options": [
+      "Sayıştay",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "Yargıtay",
+      "Rekabet Kurumu"
+    ],
+    "answer_index": 2,
+    "explanation": "İmtiyaz sözleşmeleri, Danıştayın görüşüne tabi tutulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-33-h5l4",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari işlemlerin 'hukuka uygunluk karinesi' özelliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İdari işlemler hiçbir şekilde yargı denetimine tabi değildir",
+      "Bireysel işlemler bu karineden yararlanamaz",
+      "Sadece düzenleyici işlemler için geçerlidir",
+      "Aksi ispatlanana kadar idari işlem hukuka uygun sayılır",
+      "Sadece Cumhurbaşkanlığı kararnameleri için geçerlidir"
+    ],
+    "answer_index": 3,
+    "explanation": "Hukuka uygunluk karinesi, aksi yargı kararıyla ortaya konana kadar idari işlemin hukuka uygun sayılması anlamına gelir; işlem yine de yargı denetimine tabidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-34-x8k1",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Büyükşehir belediyesinin kurulması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Toplam nüfusu 750.000'i geçen illerde kurulur",
+      "Kanunla kurulur",
+      "Kuruluşu için il bütünündeki nüfus esas alınır",
+      "Kurulduğunda ilgili ildeki il özel idaresi kaldırılır",
+      "Büyükşehir belediyesi Cumhurbaşkanı Kararı ile kurulur"
+    ],
+    "answer_index": 4,
+    "explanation": "Büyükşehir belediyesi Kanunla kurulur, Cumhurbaşkanı Kararı ile değil.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-35-0f7g",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belediye kurulmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Belediye kanunla kurulur",
+      "Cumhurbaşkanı Kararı ile kurulur",
+      "Nüfusu 5.000 ve üzerinde olan yerlerde kurulabilir",
+      "Belediyenin tüzel kişiliği vardır",
+      "Belediye yerel yerinden yönetim kuruluşudur"
+    ],
+    "answer_index": 0,
+    "explanation": "Belediye kanunla değil Cumhurbaşkanı Kararı ile kurulur; bu sık düşülen bir tuzaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-36-16w7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köy kurulmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Nüfusu 150 ile 2.000 arası olan yerlerde kurulur",
+      "Köy kanunla kurulur",
+      "Köyün organları arasında muhtar bulunur",
+      "İhtiyar Heyetinde köy imamı doğal üyedir",
+      "İçişleri Bakanlığı kararı ile kurulur"
+    ],
+    "answer_index": 1,
+    "explanation": "Köy, kanunla değil İçişleri Bakanlığı kararı ile kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-37-q12p",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bakanlıkların kurulması ve kaldırılması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cumhurbaşkanlığı Hükümet Sisteminde CBK ile düzenlenir",
+      "Kanunilik ilkesinin bir istisnasıdır",
+      "Bakanlıklar günümüzde kanunla kurulur ve kaldırılır",
+      "Bakanlıkların teşkilatı da CBK ile düzenlenir",
+      "Eski sistemde kanunla düzenleniyordu"
+    ],
+    "answer_index": 2,
+    "explanation": "Bakanlıklar günümüzde kanunla değil Cumhurbaşkanlığı Kararnamesi ile kurulur/kaldırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-38-1my0",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Belediye başkanının görevden alınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Geçici görevden uzaklaştırmaya İçişleri Bakanı yetkilidir",
+      "Kesin (temelli) düşürmeye Danıştay yetkilidir",
+      "Bu, hiyerarşi değil idari vesayet kapsamında değerlendirilir",
+      "YSK, belediye başkanını temelli görevden alabilir",
+      "Geçici uzaklaştırma bir tedbirdir, kesin karar değildir"
+    ],
+    "answer_index": 3,
+    "explanation": "YSK, belediye başkanını temelli görevden alma yetkisine sahip değildir; bu yetki Danıştaya aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-39-p0jp",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devlet Denetleme Kurulu (DDK) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cumhurbaşkanına bağlıdır",
+      "Türk Silahlı Kuvvetlerini denetleyebilir",
+      "Dernekleri ve sendikaları denetleyebilir",
+      "DDK, Cumhurbaşkanının istemi üzerine çalışır",
+      "Yargı organlarını denetleyebilir"
+    ],
+    "answer_index": 4,
+    "explanation": "DDK yargı organlarını denetleyemez; bu, DDK'nın yetki sınırının dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-40-cy3a",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Sayıştayın denetim yetkisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Siyasi partilerin mali denetimini bizzat kendisi yapar",
+      "TBMM adına denetim yapar",
+      "Merkezi yönetim bütçesi kapsamındaki idareleri denetler",
+      "Siyasi partilerin mali denetimi Anayasa Mahkemesi tarafından yapılır",
+      "Sayıştay, siyasi partilerin denetiminde AYM'ye yardımcı olur"
+    ],
+    "answer_index": 0,
+    "explanation": "Siyasi partilerin mali denetimini Sayıştay değil, Sayıştaydan yardım alarak Anayasa Mahkemesi yapar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-41-jkoz",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "RTÜK üyelerinin seçimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "RTÜK bağımsız idari otoritedir",
+      "Üyeleri Cumhurbaşkanı tarafından atanır",
+      "Üyeler TBMM tarafından seçilir",
+      "Seçimde siyasi parti gruplarının üye sayısı oranı esas alınır",
+      "RTÜK üyelerini TBMM'nin seçmesi diğer bağımsız otoritelerden farklı bir durumdur"
+    ],
+    "answer_index": 1,
+    "explanation": "RTÜK üyeleri Cumhurbaşkanı tarafından değil, TBMM tarafından seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-42-tabm",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi köyün organlarından biri değildir?",
+    "options": [
+      "Muhtar",
+      "İhtiyar Heyeti",
+      "İl Genel Meclisi",
+      "Köy Derneği",
+      "Köy imamı (doğal üye olarak)"
+    ],
+    "answer_index": 2,
+    "explanation": "İl Genel Meclisi il özel idaresinin organıdır, köyün organı değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-43-rxki",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hiyerarşi ile idari vesayet arasındaki 'değiştirme yetkisi' farkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Hiyerarşik amir astının işlemini değiştirebilir",
+      "Vesayet makamı denetlediği işlemi iptal edebilir",
+      "Vesayet makamı emir ve talimat veremez",
+      "Vesayet makamı hukuka aykırı işlemi değiştirebilir",
+      "Hem hiyerarşi hem vesayette astın yerine geçilerek ilk elden işlem yapılamaz"
+    ],
+    "answer_index": 3,
+    "explanation": "Vesayet makamı işlemi iptal edebilir ama DEĞİŞTİREMEZ; değiştirme yetkisi sadece hiyerarşik amire aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-44-vdau",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Valinin memuriyet statüsüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İstisnai memurdur",
+      "Belirli bir mesleki güvencesi yoktur",
+      "Cumhurbaşkanı Kararı ile atanır",
+      "Cumhurbaşkanı Kararı ile görevden alınabilir",
+      "Vali güvenceli meslek memurudur"
+    ],
+    "answer_index": 4,
+    "explanation": "Vali istisnai memurdur, güvenceli meslek memuru değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-45-beh3",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kaymakamın memuriyet statüsüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kaymakam istisnai memurdur",
+      "Belirli eğitim ve sınavlardan geçmesi zorunludur",
+      "Cumhurbaşkanı onayı ile atanır",
+      "Güvenceli meslek memurudur",
+      "Kaymakamlık bir meslek yükselme silsilesi gerektirir"
+    ],
+    "answer_index": 0,
+    "explanation": "Kaymakam istisnai memur DEĞİLDİR; güvenceli meslek memurudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-46-28yx",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Büyükelçi ve Konsolos statüleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Büyükelçi istisnai memurdur",
+      "Büyükelçi de Konsolos gibi güvenceli meslek memurudur",
+      "Bu ayrım Vali-Kaymakam ayrımına benzer",
+      "Konsolosun mesleki güvencesi vardır",
+      "Konsolos güvenceli meslek memurudur"
+    ],
+    "answer_index": 1,
+    "explanation": "Büyükelçi istisnai memurdur, Konsolos güvenceli meslek memurudur; ikisi aynı statüde değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-47-i0pa",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Kamulaştırma (istimlak) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Taşınmaz mallar için uygulanır",
+      "Kamu yararı amacıyla yapılır",
+      "Kamulaştırma taşınır mallar için uygulanır",
+      "Bazı büyük projelerde taksitle ödeme yapılabilir",
+      "Bedeli kural olarak peşin ödenir"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamulaştırma sadece taşınmaz mallar (arsa, bina vb.) için uygulanır, taşınır mallar için değil.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-48-xmav",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İstimval ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Olağanüstü hâllerde uygulanır",
+      "Taşınır mallara el konulmasıdır",
+      "Savaş ve afet gibi durumlarda söz konusu olabilir",
+      "İstimval, taşınmaz mallara uygulanan bir yöntemdir",
+      "İş makinesi gibi mallara uygulanabilir"
+    ],
+    "answer_index": 3,
+    "explanation": "İstimval taşınır mallara uygulanır, taşınmaz mallara değil; taşınmaz için kamulaştırma uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-49-y7gd",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devletleştirme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Özel mülkiyetteki bir teşebbüse el konulmasıdır",
+      "Özel bir işletmeyi kapsayabilir",
+      "Kamu yararı gerekçesiyle yapılır",
+      "Elektrik dağıtım şirketi gibi işletmeleri kapsayabilir",
+      "Devletleştirme sadece taşınır mallara uygulanan bir yöntemdir"
+    ],
+    "answer_index": 4,
+    "explanation": "Devletleştirme, taşınır-taşınmaz mal ayrımından çok bir TEŞEBBÜSE/İŞLETMEYE el konulmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-50-e6vf",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulunun üyeleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İl Emniyet Müdürü kurulun üyesidir",
+      "Defterdar kurulun üyesidir",
+      "Millî Eğitim Müdürü kurulun üyesidir",
+      "Hukuk İşleri Müdürü kurulun üyesidir",
+      "Sağlık Müdürü kurulun üyesidir"
+    ],
+    "answer_index": 0,
+    "explanation": "İl Emniyet Müdürü İl İdare Kurulunun üyesi değildir; bu sınavlarda sıkça kullanılan bir tuzaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-51-154g",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulunun üyeleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Çevre ve Şehircilik Müdürü üyedir",
+      "İl Jandarma Komutanı kurulun üyesidir",
+      "Tarım ve Orman Müdürü üyedir",
+      "Kurul valinin danışma ve idari yargı mercii niteliğindedir",
+      "Kurulda toplam 6 müdür bulunur"
+    ],
+    "answer_index": 1,
+    "explanation": "İl Jandarma Komutanı İl İdare Kurulunun üyesi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-52-owkp",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Vali kurulun başkanıdır",
+      "Kurul aynı zamanda idari yargı mercii niteliği taşır",
+      "İl Müftüsü kurulun üyesidir",
+      "Kurulun üyeleri arasında Defterdar bulunur",
+      "Kurul, valiye danışma organı olarak da işlev görür"
+    ],
+    "answer_index": 2,
+    "explanation": "İl Müftüsü İl İdare Kurulunun üyesi değildir; sınavlarda sık kullanılan bir tuzak seçenektir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-53-g5ta",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "657 sayılı DMK'ya göre usulüne uygun istifa eden bir memurun yeniden memurluğa dönüşüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Usulüne uygun istifa eden 6 ay dönemez",
+      "Usulsüz (yerine geleni beklemeden) terk eden 1 yıl dönemez",
+      "Devir teslim yapmadan terk eden 3 yıl dönemez",
+      "Usulüne uygun istifa eden memur istediği an, süre beklemeden dönebilir",
+      "OHAL/savaş/seferberlikte terk eden hiçbir zaman dönemez"
+    ],
+    "answer_index": 3,
+    "explanation": "Usulüne uygun istifa eden memur dahi 6 ay dönemez; süre beklemeden dönebilme ifadesi yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-54-phfj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "657 sayılı DMK'ya göre mal bildirimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Sonu 0 ve 5 ile biten yıllarda yenilenmesi zorunludur",
+      "Yenileme süresi Şubat ayı sonuna kadardır",
+      "2025 ve 2030 yılları bu kapsamdadır",
+      "Mal bildirimi belirli periyotlarla yenilenir",
+      "Mal bildirimi zorunluluğu her yıl için geçerlidir"
+    ],
+    "answer_index": 4,
+    "explanation": "Mal bildirimi yenileme zorunluluğu her yıl değil, sonu 0 ve 5 ile biten yıllarda geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-55-rkyb",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "657 sayılı DMK'ya göre aday memurlukla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Aday memur, adaylık döneminde dilediği kuruma nakledilebilir",
+      "Aday memurluk süresi 2 yıldan çok olamaz",
+      "Aday memur başka bir kuruma nakledilemez",
+      "Adaylığı başarısızlıkla sonlananlar 3 yıl memur olamaz",
+      "Aday memurluk süresi 1 yıldan az olamaz"
+    ],
+    "answer_index": 0,
+    "explanation": "Aday memur, adaylık süresince başka bir kuruma nakledilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-56-14jq",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Türk idari sisteminden tamamen kaldırılan (mülga) kavramlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Başbakanlık makamı kaldırılmıştır",
+      "Tüzük halen yürürlükte olan bir düzenleyici işlem türüdür",
+      "Tüzük kavramı kaldırılmış, yerini CBK almıştır",
+      "Sıkıyönetim kaldırılmış, yerine sadece OHAL kalmıştır",
+      "Bakanlar Kurulu Kararnamesi kaldırılmıştır"
+    ],
+    "answer_index": 1,
+    "explanation": "Tüzük kaldırılmıştır; yerini Cumhurbaşkanlığı Kararnamesi almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-57-5x92",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idarenin mal edinme yöntemlerinden biri değildir?",
+    "options": [
+      "Kamulaştırma",
+      "İstimval",
+      "İmtiyaz",
+      "Geçici işgal",
+      "Devletleştirme"
+    ],
+    "answer_index": 2,
+    "explanation": "İmtiyaz, kamu hizmetinin gördürülme yöntemidir; mal edinme yöntemi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-58-ug2v",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Askerî yargı sistemiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Askerî Yargıtay kaldırılmıştır",
+      "Askerî Yüksek İdare Mahkemesi (AYİM) kaldırılmıştır",
+      "Bu değişiklik güncel sistemin bir parçasıdır",
+      "Askerî Yargıtay ve AYİM günümüzde faaliyetlerini sürdürmektedir",
+      "Sıkıyönetim de aynı süreçte kaldırılmıştır"
+    ],
+    "answer_index": 3,
+    "explanation": "Askerî Yargıtay ve AYİM kaldırılmıştır, günümüzde faaliyet göstermemektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-59-gcab",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bucak idaresiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Anayasa'da madde olarak metni durmaktadır",
+      "2014 yılında çıkarılan kanunla kaldırılmıştır",
+      "Fiilen ve hukuken idari teşkilatlanmadan çıkarılmıştır",
+      "Bucak, mülga bir idari kavram olarak değerlendirilir",
+      "Bucak idaresi günümüzde aktif bir taşra teşkilatı birimidir"
+    ],
+    "answer_index": 4,
+    "explanation": "Bucak idaresi 2014'te kaldırılmıştır; günümüzde aktif bir taşra teşkilatı birimi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-60-yjj7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Cumhurbaşkanı Yardımcılığı makamının boşalması durumuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Vekâlet, en genç Cumhurbaşkanı Yardımcısı tarafından yapılır",
+      "Vekâlet eden, Cumhurbaşkanı Yardımcıları arasından belirlenir",
+      "Vekâlet eden en yaşlı Cumhurbaşkanı Yardımcısıdır",
+      "Bu düzenleme güncel sistemde geçerlidir",
+      "Yenisi seçilene kadar vekâlet edilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Vekâlet, en genç değil en yaşlı Cumhurbaşkanı Yardımcısı tarafından yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-61-8s5p",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Cumhurbaşkanlığı İdari İşler Başkanlığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Cumhurbaşkanlığına doğrudan bağlıdır",
+      "İdari İşler Başkanı, Türkiye'deki en düşük dereceli devlet memurudur",
+      "Güncel teşkilat şemasında yer alır",
+      "MİT ve Diyanet gibi kurumlarla aynı doğrudan bağlılar grubundadır",
+      "Başkanı, Türkiye'deki en yüksek devlet memuru sayılır"
+    ],
+    "answer_index": 1,
+    "explanation": "Cumhurbaşkanlığı İdari İşler Başkanı, en düşük değil en yüksek dereceli devlet memurudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-62-vxul",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Köyün organlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Muhtar köyün organlarındandır",
+      "İhtiyar Heyeti köyün organlarındandır",
+      "Köyün organları arasında Köy Derneği bulunmaz",
+      "Köy öğretmeni İhtiyar Heyetinin doğal üyesidir",
+      "Köy imamı İhtiyar Heyetinin doğal üyesidir"
+    ],
+    "answer_index": 2,
+    "explanation": "Köy Derneği de köyün organları arasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-63-enln",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Bağımsız idari otoritelerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "RTÜK bağımsız idari otoritelerden biridir",
+      "SPK ve BDDK da bu kapsamdadır",
+      "Kendi kamu tüzel kişilikleri vardır",
+      "Bağımsız idari otoritelerin hiçbiri kamu tüzel kişiliğine sahip değildir",
+      "EPDK ve KVKK da bu gruba girer"
+    ],
+    "answer_index": 3,
+    "explanation": "Bağımsız idari otoritelerin (RTÜK, SPK vb.) kendi kamu tüzel kişilikleri vardır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-64-c1n7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl Özel İdaresinin organlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Vali yürütme organıdır",
+      "İl Genel Meclisi karar organıdır",
+      "İl Daimi Encümeni de organları arasındadır",
+      "Büyükşehirlerde il özel idaresi kaldırılmıştır",
+      "İl Özel İdaresi büyükşehirlerde de aynen varlığını sürdürür"
+    ],
+    "answer_index": 4,
+    "explanation": "Büyükşehir belediyesi olan illerde il özel idaresi kaldırılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-65-lnci",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kanunla kurulan teşkilat türlerinden biri değildir?",
+    "options": [
+      "Belediye",
+      "İlçe",
+      "Büyükşehir belediyesi",
+      "İl",
+      "İlçenin adının değiştirilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Belediye, kanunla değil Cumhurbaşkanı Kararı ile kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-66-q5ku",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi Devlet Denetleme Kurulunun (DDK) denetleyebileceği kurumlar arasında sayılmaz?",
+    "options": [
+      "Kamu kurumları",
+      "Yargı organları",
+      "Dernekler",
+      "Türk Silahlı Kuvvetleri",
+      "Sendikalar"
+    ],
+    "answer_index": 1,
+    "explanation": "DDK, yargı organlarını denetleyemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-67-h7cf",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kamu tüzel kişiliğine sahip kuruluşlar arasında sayılmaz?",
+    "options": [
+      "TRT",
+      "TÜBİTAK",
+      "Bakanlıklar",
+      "Belediyeler",
+      "İl özel idareleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Bakanlıklar devlet tüzel kişiliği içindedir, ayrı bir kamu tüzel kişiliğine sahip değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-68-k5bf",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kamu tüzel kişiliğine sahip değildir?",
+    "options": [
+      "Üniversite",
+      "Meslek odaları",
+      "TRT",
+      "Emniyet Genel Müdürlüğü",
+      "Savunma Sanayii Başkanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Emniyet Genel Müdürlüğü devlet tüzel kişiliği içindedir, ayrı kamu tüzel kişiliğine sahip değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-69-10xx",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı DMK'ya göre memurluğa giriş şartlarından biri değildir?",
+    "options": [
+      "Türk vatandaşı olmak",
+      "18 yaşını doldurmak",
+      "Kamu haklarından yoksun olmamak",
+      "Yüz kızartıcı suçtan mahkûm olmamak",
+      "Belirli bir üniversiteden mezun olmak"
+    ],
+    "answer_index": 4,
+    "explanation": "Belirli bir üniversiteden mezuniyet, genel giriş şartları arasında sayılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-70-5opw",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı DMK'ya göre memurlara ilişkin yasaklardan biri değildir?",
+    "options": [
+      "Yıllık izin kullanmak",
+      "Siyasi partiye üye olmak",
+      "Ticaret yapmak",
+      "Hediye almak",
+      "Grev yapmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Yıllık izin kullanmak bir yasak değil, memurun genel bir hakkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-71-rfas",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi 657 sayılı DMK'ya göre disiplin cezalarından biri değildir?",
+    "options": [
+      "Uyarma",
+      "Görevden uzaklaştırma",
+      "Aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması",
+      "Kınama"
+    ],
+    "answer_index": 1,
+    "explanation": "Görevden uzaklaştırma bir disiplin cezası değil, idari bir tedbirdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-72-ll7c",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi güncel Türk idari sisteminde artık kullanılmayan (mülga) bir kavramdır?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Yönetmelik",
+      "Tüzük",
+      "Genelge",
+      "Yönerge"
+    ],
+    "answer_index": 2,
+    "explanation": "Tüzük kavramı kaldırılmıştır, yerini Cumhurbaşkanlığı Kararnamesi almıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-73-ipjb",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi güncel sistemde mülga (kaldırılmış) kurumlardan biri değildir?",
+    "options": [
+      "Başbakanlık",
+      "Bakanlar Kurulu",
+      "Sıkıyönetim",
+      "Cumhurbaşkanlığı",
+      "Askerî Yargıtay"
+    ],
+    "answer_index": 3,
+    "explanation": "Cumhurbaşkanlığı mülga değildir; sistemin merkezindeki güncel makamdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-74-7j86",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi il idaresinin doğrudan bağlıları arasında sayılmaz?",
+    "options": [
+      "MİT",
+      "Diyanet İşleri Başkanlığı",
+      "Savunma Sanayii Başkanlığı",
+      "İletişim Başkanlığı",
+      "Belediye"
+    ],
+    "answer_index": 4,
+    "explanation": "Belediye, Cumhurbaşkanlığına doğrudan bağlı kuruluşlardan değil, yerel yerinden yönetim kuruluşudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-75-p1xa",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kamu hizmetinin gördürülme yöntemlerinden biri değildir?",
+    "options": [
+      "Kamulaştırma",
+      "Ruhsat",
+      "İltizam",
+      "İmtiyaz",
+      "Emanet"
+    ],
+    "answer_index": 0,
+    "explanation": "Kamulaştırma bir mal edinme yöntemidir, kamu hizmetinin gördürülme yöntemi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-76-va10",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi bağımsız idari otoritelerden biri değildir?",
+    "options": [
+      "RTÜK",
+      "Sayıştay",
+      "BDDK",
+      "EPDK",
+      "SPK"
+    ],
+    "answer_index": 1,
+    "explanation": "Sayıştay bir bağımsız idari otorite değil, yüksek denetim organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-77-fc9o",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi hizmet yerinden yönetim kuruluşlarından biri değildir?",
+    "options": [
+      "TRT",
+      "Üniversiteler",
+      "Köy",
+      "Meslek odaları",
+      "KİT'ler"
+    ],
+    "answer_index": 2,
+    "explanation": "Köy, yerel yerinden yönetim kuruluşudur, hizmet yerinden yönetim değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-78-bprf",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi yerel yerinden yönetim kuruluşlarından biri değildir?",
+    "options": [
+      "Belediye",
+      "İl özel idaresi",
+      "Köy",
+      "TÜBİTAK",
+      "Büyükşehir belediyesi"
+    ],
+    "answer_index": 3,
+    "explanation": "TÜBİTAK hizmet yerinden yönetim kuruluşudur, yerel değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-79-6dd8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi vali ve kaymakam arasındaki farklardan biri değildir?",
+    "options": [
+      "Vali istisnai memurdur, Kaymakam güvenceli meslek memurudur",
+      "Vali hem devleti hem Cumhurbaşkanını temsil eder, Kaymakam sadece Cumhurbaşkanını temsil eder",
+      "Vali il idaresinin başıdır, Kaymakam ilçe idaresinin başıdır",
+      "Vali yetki genişliğinden yararlanır, Kaymakam yararlanmaz",
+      "İkisi de aynı şekilde istisnai memur statüsündedir"
+    ],
+    "answer_index": 4,
+    "explanation": "İkisi aynı statüde değildir; Vali istisnai, Kaymakam güvenceli meslek memurudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-80-9kxh",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi il idare kurulunun görevlerinden biri değildir?",
+    "options": [
+      "Belediye meclisi kararlarını onaylamak",
+      "İdari yargı mercii niteliği taşımak",
+      "Bazı idari uyuşmazlıklara bakmak",
+      "Vali başkanlığında toplanmak",
+      "Valiye danışma organı olarak görev yapmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Belediye meclisi kararlarını onaylamak il idare kurulunun bir görevi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-81-3n4e",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi merkezden yönetimin faydalarından biri değildir?",
+    "options": [
+      "Güçlü devlet yönetimi",
+      "Yerel ihtiyaçlara duyarlılık",
+      "Maliyetlerin dengeli dağılımı",
+      "Eşitlik",
+      "Hizmette birlik"
+    ],
+    "answer_index": 1,
+    "explanation": "Yerel ihtiyaçlara duyarlılık merkezden yönetimin faydası değil, yerinden yönetimin avantajıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-82-wiy6",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idari kolluğun özelliklerinden biri değildir?",
+    "options": [
+      "Önleyici olması",
+      "Suç oluşmadan önce devreye girmesi",
+      "Savcıya bağlı olarak çalışması",
+      "Polis, jandarma ve bekçiyi kapsaması",
+      "Uyuşmazlıklarının idari yargıda çözülmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Savcıya bağlı çalışma adli kolluğun özelliğidir, idari kolluğun değil.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-83-wh5j",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi kamu hizmetinin ilkelerinden biri değildir?",
+    "options": [
+      "Süreklilik",
+      "Eşitlik",
+      "Uyarlama",
+      "Kârlılık",
+      "Bedelsizlik (kural olarak)"
+    ],
+    "answer_index": 3,
+    "explanation": "Kârlılık kamu hizmetinin bir ilkesi değildir; kamu hizmeti kâr amacı gütmeden yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-84-ew87",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idari işlemlerin özelliklerinden biri değildir?",
+    "options": [
+      "Tek taraflı olması",
+      "İcrai olması",
+      "Hukuka uygunluk karinesinden yararlanması",
+      "Yargı denetimine tabi olması",
+      "Hiçbir şekilde iptal edilememesi"
+    ],
+    "answer_index": 4,
+    "explanation": "İdari işlemler hukuka aykırılık hâlinde yargı kararıyla iptal edilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-85-pgpj",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. İl ve ilçe kurulması\nII. Büyükşehir belediyesi kurulması\nIII. Belediye kurulması\nIV. Köy kurulması\nYukarıdakilerden hangileri kanunla kurulur?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "I, II ve III",
+      "III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "İl-ilçe ve büyükşehir belediyesi kanunla kurulur; belediye CBK ile, köy İçişleri Bakanlığı kararı ile kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-86-n049",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Belediye başkanının geçici görevden uzaklaştırılması\nII. Belediye başkanının kesin olarak düşürülmesi\nYukarıdaki yetkiler sırasıyla hangi mercilere aittir?",
+    "options": [
+      "Danıştay - İçişleri Bakanı",
+      "İçişleri Bakanı - Danıştay",
+      "YSK - Danıştay",
+      "İçişleri Bakanı - YSK",
+      "Vali - İçişleri Bakanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Geçici uzaklaştırma İçişleri Bakanına, kesin düşürme Danıştaya aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-87-txek",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Kamu kurumları\nII. Sendikalar ve dernekler\nIII. Türk Silahlı Kuvvetleri\nIV. Yargı organları\nYukarıdakilerden hangileri Devlet Denetleme Kurulunun denetim alanına girer?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I, II ve III",
+      "I, II, III ve IV",
+      "Yalnız IV"
+    ],
+    "answer_index": 2,
+    "explanation": "DDK, kamu kurumları, dernek/sendikalar ve TSK'yı denetleyebilir; yargı organlarını denetleyemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-88-p8nr",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Vali\nII. Kaymakam\nIII. Büyükelçi\nIV. Konsolos\nYukarıdakilerden hangileri istisnai memur statüsündedir?",
+    "options": [
+      "Yalnız I",
+      "II ve IV",
+      "I, II ve III",
+      "I ve III",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 3,
+    "explanation": "Vali ve Büyükelçi istisnai memurdur; Kaymakam ve Konsolos güvenceli meslek memurudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-89-nq0v",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Kamulaştırma\nII. İstimval\nIII. Devletleştirme\nYukarıdaki mal edinme yöntemlerinden hangileri taşınmaz değil taşınır ya da işletmeye yöneliktir?",
+    "options": [
+      "Yalnız I",
+      "I, II ve III",
+      "Yalnız II",
+      "I ve III",
+      "II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "İstimval taşınır mallara, devletleştirme özel teşebbüslere yöneliktir; kamulaştırma taşınmaz mallar içindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-90-gd3v",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Hukuk İşleri Müdürü\nII. Defterdar\nIII. İl Emniyet Müdürü\nIV. Millî Eğitim Müdürü\nYukarıdakilerden hangileri İl İdare Kurulunun üyesidir?",
+    "options": [
+      "I, II ve IV",
+      "Yalnız I",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Hukuk İşleri, Defterdar ve Millî Eğitim Müdürü kurul üyesidir; İl Emniyet Müdürü üye değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-91-5pu3",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Başbakanlık\nII. Bakanlar Kurulu\nIII. Cumhurbaşkanlığı Kararnamesi\nIV. Tüzük\nYukarıdakilerden hangileri güncel Türk idari sisteminde mülga (kaldırılmış) kavramlardır?",
+    "options": [
+      "Yalnız I",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Başbakanlık, Bakanlar Kurulu ve Tüzük kaldırılmıştır; Cumhurbaşkanlığı Kararnamesi güncel bir düzenleyici işlemdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-92-843t",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Muhtar\nII. İhtiyar Heyeti\nIII. Köy Derneği\nIV. İl Genel Meclisi\nYukarıdakilerden hangileri köyün organları arasında sayılır?",
+    "options": [
+      "Yalnız I",
+      "I ve IV",
+      "I, II ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 2,
+    "explanation": "Muhtar, İhtiyar Heyeti ve Köy Derneği köyün organlarıdır; İl Genel Meclisi il özel idaresinin organıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-93-rc8v",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Askerî Yargıtay\nII. Askerî Yüksek İdare Mahkemesi\nIII. Danıştay\nIV. Sayıştay\nYukarıdakilerden hangileri güncel sistemde faaliyetini sürdüren kurumlardır?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I, II, III ve IV",
+      "III ve IV",
+      "Yalnız III"
+    ],
+    "answer_index": 3,
+    "explanation": "Askerî Yargıtay ve AYİM kaldırılmıştır; Danıştay ve Sayıştay güncel sistemde faaliyet göstermektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-94-sct8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. RTÜK\nII. SPK\nIII. BDDK\nIV. EPDK\nYukarıdakilerden hangileri bağımsız idari otoritelere örnektir?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I, II ve III",
+      "Yalnız IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 4,
+    "explanation": "RTÜK, SPK, BDDK ve EPDK'nın tümü bağımsız idari otoritelerdendir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-95-atwf",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Usulüne uygun istifa\nII. Usulsüz (yerine geleni beklemeden) terk\nIII. Devir teslim yapmadan terk\nIV. OHAL/savaş/seferberlikte terk\nYukarıdaki durumlardan hangileri, memurun yeniden göreve dönüşünde en uzun bekleme süresini (ya da hiç dönememeyi) gerektirir?",
+    "options": [
+      "Yalnız IV",
+      "Yalnız I",
+      "I ve II",
+      "III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "OHAL/savaş/seferberlikte terk eden memur hiçbir zaman göreve dönemez; bu en ağır durumdur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-96-rvbz",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "I. Yaşama hakkı\nII. TRT\nIII. Belediye\nIV. Üniversite\nYukarıdakilerden hangileri kamu tüzel kişiliğine sahip kuruluşlara örnektir?",
+    "options": [
+      "Yalnız I",
+      "II, III ve IV",
+      "I ve II",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "TRT, belediye ve üniversite kamu tüzel kişiliğine sahiptir; yaşama hakkı bir kuruluş değil, temel bir haktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-97-qgtq",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Toplam nüfusu ---- geçen illerde büyükşehir belediyesi ---- ile kurulur.",
+    "options": [
+      "1.000.000'ı / kanunla",
+      "500.000'i / CBK",
+      "750.000'i / kanunla",
+      "750.000'i / CBK",
+      "250.000'i / kanunla"
+    ],
+    "answer_index": 2,
+    "explanation": "Büyükşehir belediyesi, nüfusu 750.000'i geçen illerde kanunla kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-98-ba0l",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Nüfusu ---- ve üzerinde olan yerleşim yerlerinde belediye, ---- ile kurulur.",
+    "options": [
+      "5.000 / kanun",
+      "2.000 / kanun",
+      "10.000 / kanun",
+      "5.000 / Cumhurbaşkanı Kararı",
+      "2.000 / Cumhurbaşkanı Kararı"
+    ],
+    "answer_index": 3,
+    "explanation": "Belediye, nüfusu 5.000 ve üzerinde olan yerlerde Cumhurbaşkanı Kararı ile kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-99-8xix",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Nüfusu ---- ile ---- arası olan yerlerde köy, İçişleri Bakanlığı kararı ile kurulur.",
+    "options": [
+      "500 / 2.000",
+      "500 / 5.000",
+      "100 / 1.000",
+      "150 / 5.000",
+      "150 / 2.000"
+    ],
+    "answer_index": 4,
+    "explanation": "Köy, nüfusu 150 ile 2.000 arası olan yerlerde İçişleri Bakanlığı kararı ile kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-0-7auj",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir kamu görevlisinin, görevini yaparken siyasi veya dini gerekçelerle ayrım yapması hangi ilkeye aykırıdır?",
+    "options": [
+      "Amaç ve misyona bağlılık",
+      "Nezaket ilkesi",
+      "Savurganlıktan kaçınma",
+      "Kamu malları kullanımı",
+      "Tarafsızlık ilkesi"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-1-7t1b",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdaki ifadelerden hangileri demokratik seçim ilkeleri arasında sayılır?\nI. Genel oy\nII. Eşit oy\nIII. Kısıtlı oy\nIV. Gizli oy",
+    "options": [
+      "Yalnız III",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Kısıtlı oy, demokratik seçim ilkelerine aykırıdır; demokratik seçimler genel, eşit, gizli ve serbest oy esasına dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-10-carb",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İngiltere'de kişi özgürlüğünü güvence altına alan, 1679 tarihli belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Magna Carta",
+      "İnsan ve Yurttaş Hakları Bildirisi",
+      "Bill of Rights",
+      "Petition of Right",
+      "Habeas Corpus Act"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-100-92eh",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Ayrımcılık yasağı ilkesine göre kişiler arasında ----, ----, ırk gibi sebeplerle ayrım yapılamaz.",
+    "options": [
+      "dil / din",
+      "yaş / boy",
+      "meslek / gelir",
+      "eğitim / meslek",
+      "boy / kilo"
+    ],
+    "answer_index": 0,
+    "explanation": "Ayrımcılık yasağı dil, din, ırk gibi sebeplerle ayrım yapılmasını yasaklar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-101-tfqe",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "TİHEK (Türkiye İnsan Hakları ve Eşitlik Kurumu) Kurul üyeleri kim tarafından seçilir/atanır?",
+    "options": [
+      "TBMM",
+      "Yargıtay",
+      "Adalet Bakanı",
+      "Danıştay",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "TİHEK Kurulu, biri Başkan, biri İkinci Başkan olmak üzere 11 üyeden oluşur ve üyelerin tamamı Cumhurbaşkanı tarafından atanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-102-89a6",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının kuşaklara göre sınıflandırılmasında ---- kuşak kişi hak ve özgürlüklerini, ---- kuşak ise sosyal ve ekonomik hakları kapsar.",
+    "options": [
+      "birinci / ikinci",
+      "ikinci / birinci",
+      "üçüncü / birinci",
+      "birinci / üçüncü",
+      "ikinci / üçüncü"
+    ],
+    "answer_index": 0,
+    "explanation": "Birinci kuşak kişi hakları, ikinci kuşak sosyal-ekonomik hakları kapsar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-103-hef2",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Hak arama özgürlüğünün etkili biçimde kullanılabilmesinin ön koşulu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yerel yönetimlerin kaldırılması",
+      "Tek parti yönetimi",
+      "Siyasi yasakların artırılması",
+      "Basının devlet denetiminde olması",
+      "Yargının bağımsız ve tarafsız olması"
+    ],
+    "answer_index": 4,
+    "explanation": "Hak arama özgürlüğü ancak bağımsız ve tarafsız yargı sistemiyle etkin şekilde korunabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-104-f2eu",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının kuşaklara göre sınıflandırılmasında, ortaya çıkış sırasına göre aşağıdaki dizilim hangisinde doğru verilmiştir?",
+    "options": [
+      "Kişi hakları - Sosyal/ekonomik haklar - Dayanışma hakları",
+      "Sosyal/ekonomik haklar - Kişi hakları - Dayanışma hakları",
+      "Dayanışma hakları - Kişi hakları - Sosyal/ekonomik haklar",
+      "Sosyal/ekonomik haklar - Dayanışma hakları - Kişi hakları",
+      "Dayanışma hakları - Sosyal/ekonomik haklar - Kişi hakları"
+    ],
+    "answer_index": 0,
+    "explanation": "Tarihsel süreçte önce kişi hakları, sonra sosyal-ekonomik haklar, en son dayanışma hakları ortaya çıkmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-105-dmm3",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının korunmasında etkili başvuru yolu ilkesinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "İdari işlemleri yargı denetimi dışında bırakmak",
+      "Mahkemelerin görev alanını daraltmak",
+      "Hak arama özgürlüğünü sınırlandırmak",
+      "Yalnızca kamu görevlilerine başvuru hakkı tanımak",
+      "Hak ihlallerinin yargı önüne taşınabilmesini sağlamak"
+    ],
+    "answer_index": 4,
+    "explanation": "Hak ihlaline uğrayan bireyin etkili ve erişilebilir başvuru yollarına sahip olması insan haklarının temel güvencelerindendir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-106-nbz3",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bilgi edinme hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kişilerin kamu kurumlarından bilgi talep edebilmesini sağlar",
+      "Saydamlık ilkesiyle ilişkilidir",
+      "Kanunla düzenlenen istisnaları vardır",
+      "Demokratik katılımı destekler",
+      "Bilgi edinme hakkı kapsamında hiçbir bilgi gizli tutulamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Kanunda belirtilen istisnalar kapsamında bazı bilgiler gizli tutulabilir; tüm bilgiler açık değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-107-qkrv",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Devletin sosyal adaleti sağlama ve gelir dağılımındaki dengesizlikleri azaltma sorumluluğunu ifade eden ilke aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Sosyal devlet ilkesi",
+      "Hukuk devleti ilkesi",
+      "Laiklik ilkesi",
+      "Milliyetçilik ilkesi",
+      "Devletçilik ilkesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Sosyal adaleti sağlama sorumluluğu sosyal devlet ilkesiyle tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-108-ioqp",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi adil yargılanma hakkının unsurlarından biri değildir?",
+    "options": [
+      "Bağımsız ve tarafsız mahkeme",
+      "Makul sürede yargılanma",
+      "Yargılamanın gizli tutulması zorunluluğu",
+      "Silahların eşitliği ilkesi",
+      "Masumiyet karinesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Adil yargılanma hakkı kapsamında kural olarak açık yargılama esastır; gizlilik zorunluluğu bu hakkın unsuru değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-109-40yu",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye'de kadınlara 'milletvekili seçme ve seçilme hakkı' (genel seçimlere katılma) hangi yıl verilmiştir?",
+    "options": [
+      "1926",
+      "1930",
+      "1934",
+      "1933",
+      "1946"
+    ],
+    "answer_index": 2,
+    "explanation": "Kadınlara 1930'da belediye, 1933'te muhtarlık, 1934'te ise milletvekili seçme ve seçilme hakkı tanınmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-11-g4cl",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir bireysel başvurunun Anayasa Mahkemesi'ne ulaşma süreci genellikle hangi sırayla ilerler?",
+    "options": [
+      "Hak ihlali iddiası - olağan yolların tüketilmesi - süresi içinde başvuru - inceleme",
+      "İnceleme - başvuru - hak ihlali iddiası - yolların tüketilmesi",
+      "Başvuru - inceleme - hak ihlali iddiası - yolların tüketilmesi",
+      "Yolların tüketilmesi - inceleme - başvuru - hak ihlali iddiası",
+      "İnceleme - yolların tüketilmesi - başvuru - hak ihlali iddiası"
+    ],
+    "answer_index": 0,
+    "explanation": "Süreç hak ihlali iddiasıyla başlar, olağan yolların tüketilmesi ve süresinde başvuruyla devam eder, incelemeyle sonuçlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-110-njlg",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Devletin bireyin özel alanına müdahale etmemesini talep etme hakkı aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Negatif statü hakları",
+      "Pozitif statü hakları",
+      "Aktif statü hakları",
+      "Sosyal haklar",
+      "Ekonomik haklar"
+    ],
+    "answer_index": 0,
+    "explanation": "Müdahale etmeme talebi negatif statü haklarıyla tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-111-mcbe",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi 1982 Anayasası'na göre temel hakların sınırlanma ölçütlerinden biri değildir?",
+    "options": [
+      "Kanunla sınırlama",
+      "Ölçülülük ilkesi",
+      "Hakkın özüne dokunmama",
+      "Demokratik toplum düzeninin gerekleri",
+      "Yürütme organının keyfi takdiri"
+    ],
+    "answer_index": 4,
+    "explanation": "Sınırlama kanunla yapılır; yürütmenin keyfi takdiri bir sınırlama ölçütü değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-112-dnmc",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Demokrasilerde herkesin hiçbir ayrım gözetilmeksizin (din, dil, ırk, cinsiyet, servet vb.) oy kullanabilme hakkına ne ad verilir?",
+    "options": [
+      "Eşit Oy İlkesi",
+      "Gizli Oy İlkesi",
+      "Genel Oy İlkesi",
+      "Tek Dereceli Seçim",
+      "Açık Sayım ve Döküm"
+    ],
+    "answer_index": 2,
+    "explanation": "Servet, cinsiyet, öğrenim durumu vb. hiçbir ayrım yapılmaksızın tüm vatandaşların oy hakkına sahip olmasına 'Genel Oy' ilkesi denir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-113-qxoe",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Laiklik ilkesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Din ve devlet işlerinin ayrılığını ifade eder",
+      "Din ve vicdan özgürlüğünü güvence altına almayı amaçlar",
+      "Devletin tüm dinlere eşit mesafede durmasını gerektirir",
+      "1982 Anayasası'nın değiştirilemez ilkelerinden biridir",
+      "Laiklik, dinin toplumsal hayattan tamamen yasaklanması anlamına gelir"
+    ],
+    "answer_index": 4,
+    "explanation": "Laiklik, dinin toplumsal hayattan yasaklanması değil, devlet işleyişinin dinden bağımsız olması anlamına gelir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-114-7yp2",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Temel hak ve özgürlüklerin yalnızca kanunla sınırlandırılabilmesi aşağıdaki ilkelerden hangisinin sonucudur?",
+    "options": [
+      "Merkezî yönetim",
+      "Milliyetçilik",
+      "Devletçilik",
+      "Çoğunluk ilkesi",
+      "Hukuki güvenlik"
+    ],
+    "answer_index": 4,
+    "explanation": "Kanunilik ilkesi, bireylerin hangi durumlarda haklarının sınırlandırılacağını önceden bilmelerini sağlayarak hukuki güvenliği teminat altına alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-115-2rg1",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Seçme ve seçilme hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Aktif statü haklarından biridir",
+      "Vatandaşların yönetime katılım aracıdır",
+      "Genel oy ilkesine tabidir",
+      "Kanunla düzenlenen yaş ve diğer şartlara bağlıdır",
+      "Bu hak hiçbir şekilde sınırlandırılamaz, mutlak bir haktır"
+    ],
+    "answer_index": 4,
+    "explanation": "Seçme ve seçilme hakkı da kanunla belirli şart ve sınırlamalara tabi tutulabilir, mutlak değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-116-3rhx",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir ülkede yasaların anayasaya, idari işlemlerin de yasalara uygun olmasını ve idarenin yargısal denetime tabi tutulmasını ifade eden demokrasi güvencesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Sosyal Devlet İlkesi",
+      "Üniter Devlet İlkesi",
+      "Laik Devlet İlkesi",
+      "Demokratik Devlet İlkesi",
+      "Hukuk Devleti İlkesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Hukuk devleti; yönetenlerin de hukuk kurallarıyla bağlı olduğu, idarenin her türlü eylem ve işleminin yargı denetimine açık olduğu devlet modelidir. Temel hakların en büyük güvencesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-117-3pep",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "George Jellinek'in sınıflandırmasına göre devletin müdahale etmemesini talep etme hakkına ----, devletten aktif bir edim talep etme hakkına ise ---- statü hakları denir.",
+    "options": [
+      "negatif / pozitif",
+      "pozitif / negatif",
+      "aktif / pasif",
+      "pasif / aktif",
+      "objektif / sübjektif"
+    ],
+    "answer_index": 0,
+    "explanation": "Negatif statü müdahale etmemeyi, pozitif statü aktif edim talebini ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-118-7ddw",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Aşağıdakilerden hangisi 'ombudsmanlık' kurumunun temel işlevini en iyi tanımlar?",
+    "options": [
+      "Bütçe hazırlamak",
+      "Yasa yapmak",
+      "Yargı kararı vermek",
+      "İdarenin işleyişiyle ilgili şikayetleri bağımsız biçimde incelemek",
+      "Uluslararası anlaşma imzalamak"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-119-qk45",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bir vatandaşın, haksız bir idari işleme karşı mahkemeye başvurabilmesi hangi hakkın gereğidir?",
+    "options": [
+      "Seyahat özgürlüğü",
+      "Hak arama özgürlüğü",
+      "Din özgürlüğü",
+      "Mülkiyet hakkı",
+      "Toplantı özgürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-12-afia",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Türkiye, Avrupa İnsan Hakları Mahkemesi'ne (AİHM) 'Bireysel Başvuru' hakkını hangi yıl kabul etmiştir?",
+    "options": [
+      "1950",
+      "1987",
+      "1954",
+      "1990",
+      "2010"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, AİHS'yi 1954'te onaylamış ancak AİHM'ye bireysel başvuru hakkını 1987 yılında, Mahkemenin zorunlu yargı yetkisini ise 1990 yılında kabul etmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-120-bckv",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Bireylerin devlet memuru olma (kamu hizmetine girme) hakkı 1982 Anayasası'nda hangi hak kategorisinde düzenlenmiştir?",
+    "options": [
+      "Kişi Hakları ve Ödevleri",
+      "Sosyal ve Ekonomik Haklar",
+      "Siyasi Haklar ve Ödevler",
+      "Çekirdek Haklar",
+      "Dayanışma Hakları"
+    ],
+    "answer_index": 2,
+    "explanation": "Kamu hizmetine girme hakkı ve vatan hizmeti (askerlik), vergi ödevi, dilekçe hakkı, seçme seçilme hakkı gibi haklar Siyasi Haklar (Aktif Statü) bölümünde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-121-tm6e",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "Eğitim hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Pozitif statü haklarından biridir",
+      "İlköğretim zorunlu ve parasızdır",
+      "Devletin eğitim olanağı sağlamasını gerektirir",
+      "Sosyal ve ekonomik haklar kapsamında değerlendirilir",
+      "Eğitim hakkı, kişi hak ve ödevleri kategorisinde yer alır"
+    ],
+    "answer_index": 4,
+    "explanation": "Eğitim hakkı, kişi hak ve ödevleri değil sosyal ve ekonomik haklar kategorisinde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  },
+  {
+    "id": "topic-insanhaklari-mt8tpelj-122-8171",
+    "topic_id": "topic-insanhaklari",
+    "prompt": "İnsan haklarının kuşaklara göre sınıflandırılmasında - - - - haklar kişi/siyasi hakları, - - - - haklar ise sosyal/ekonomik hakları kapsar.",
+    "options": [
+      "A) birinci kuşak / ikinci kuşak",
+      "B) ikinci kuşak / birinci kuşak",
+      "C) üçüncü kuşak / birinci kuşak",
+      "D) birinci kuşak / üçüncü kuşak",
+      "E) dördüncü kuşak / ikinci kuşak"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:32:02.366147+00:00",
+    "updated_at": "2026-08-25T15:32:02.366147+00:00"
+  }
+]

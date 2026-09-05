@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-14-o7jg",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik planlamanın katkıları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kurumun uzun vadeli yönünü görünür kılması",
+      "Kaynak önceliklerini belirlemeyi kolaylaştırması",
+      "Risk ve fırsatları değerlendirmeye imkân vermesi",
+      "Birimler arası uyumu desteklemesi",
+      "Günlük faaliyetleri kurumun uzun vadeli amaçlarından bağımsız hâle getirmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Stratejik planlama. Stratejik planlama günlük faaliyetleri uzun vadeli amaçlardan koparmak yerine onlarla ilişkilendirir; kaynak önceliklerini ve uyumu destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-15-uocb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların hem fonksiyonel bir yöneticiye hem de proje yöneticisine bağlı olduğu örgüt yapısına ne ad verilir?",
+    "options": [
+      "Fonksiyonel yapı",
+      "Matris yapı",
+      "Coğrafi yapı",
+      "Hiyerarşik yapı",
+      "Bürokratik yapı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap B seçeneğidir; Matris yapı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fonksiyonel yapı ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-16-dnxv",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "McGregor'un X Kuramı'yla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Çalışanların sorumluluktan kaçınabileceği varsayılır.",
+      "Yakın denetim ve kontrol gereksinimi vurgulanır.",
+      "Çalışanların uygun koşullarda kendi kendini yönlendireceği kabul edilir.",
+      "Çalışmanın çoğu kişi için isteksizlik yaratabileceği varsayımı bulunur.",
+      "Yöneticinin zorlayıcı denetim araçlarına başvurabileceği düşünülür."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: McGregor'un X ve Y Kuramı. Kendi kendini yönlendirme varsayımı Y Kuramına aittir; X Kuramı denetim ve yönlendirme ihtiyacını öne çıkarır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-17-6epd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt kültürüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Paylaşılan değerler davranış beklentilerini etkiler.",
+      "Ortak normlar kurum içindeki etkileşim biçimlerini yönlendirebilir.",
+      "Bütçe kalemleri ortak değer ve inançların yerine geçen kültürel unsurlardır.",
+      "Semboller ve ritüeller kültürün görünür öğeleri olabilir.",
+      "Kültür zaman içinde çalışanların ortak deneyimleriyle güçlenebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Örgüt kültürü. Bütçe kalemleri mali planlama aracıdır, kültürel değer ve inançların yerini tutmaz; normlar ve semboller kültürel unsurlardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-18-he89",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Demokratik liderlik tarzıyla ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Çalışanların görüşleri alınır.\nII. Kararlar mümkün olduğunca katılımla oluşturulur.\nIII. Lider tüm kararları tek başına alır.\nIV. İletişim çift yönlüdür.",
+    "options": [
+      "Yalnız III",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Demokratik liderlik. I, II ve IV demokratik liderlikte beklenir; III numaralı ifade otokratik liderliği açıklar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-19-utnb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Resmî görev kanalları dışında, çalışanların doğal ilişkileriyle kendiliğinden oluşan bilgi akışı hangi iletişim türüdür?",
+    "options": [
+      "Gayri resmi iletişim",
+      "Dikey iletişim",
+      "Yatay iletişim",
+      "Çapraz iletişim",
+      "Resmî iletişim"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Örgütsel iletişim türleri. Gayri resmi iletişim, biçimsel hiyerarşinin dışındaki doğal ilişkilerden doğar; resmî iletişim ise tanımlı kanalları izler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-2-or05",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanları harekete geçirme, yönlendirme ve motive etme işlevi hangi yönetim fonksiyonuyla ilgilidir?",
+    "options": [
+      "Planlama",
+      "Yöneltme",
+      "Örgütleme",
+      "Denetim",
+      "Kadrolama"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap B seçeneğidir; Yöneltme soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Planlama ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-20-6jbt",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çatışmayı yapıcı biçimde yönetmeye yönelik ilk müdahalelerin amaçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Çatışmanın kaynağını anlamak",
+      "Tarafların birbirleriyle iletişim kurmasını engellemek",
+      "Sorunun büyümesini önlemek",
+      "Tarafların ihtiyaçlarını görünür kılmak",
+      "Uygun çözüm yöntemini belirlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Çatışma yönetimi. İlk müdahale iletişimi kesmeyi değil, kaynağı anlamayı ve taraflar arasında çözüm kanalı açmayı hedefler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-21-eruj",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Motivasyonu olumsuz etkileyen etmenler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Adil olmayan uygulamalar",
+      "Başarının görmezden gelinmesi",
+      "Belirsiz beklentiler",
+      "Gelişim fırsatlarının sınırlanması",
+      "Başarı ölçütlerine dayalı, zamanında geri bildirim verilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Motivasyon ilkeleri. Adil geri bildirim ve görünür başarı ölçütleri motivasyonu zayıflatmaz, güçlendirebilir; belirsizlik ve adaletsizlik ise olumsuz etki yaratır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-22-yygz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir değerlendiricinin, çalışanın yalnızca son dönemdeki performansına odaklanmasına ne ad verilir?",
+    "options": [
+      "Halo etkisi",
+      "Merkezi eğilim hatası",
+      "Objektiflik",
+      "Yakınlık (recency) hatası",
+      "Adalet ilkesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Yakınlık (recency) hatası soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Halo etkisi ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-23-lgxm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Değişime karşı dirençle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Belirsizlik yeni uygulamalara karşı kaygı doğurabilir.",
+      "Alışkanlıkların değişmesi bazı çalışanlarda direnç yaratabilir.",
+      "Statü veya yetki kaybı endişesi direnç kaynağı olabilir.",
+      "Yeterli ve açık bilgilendirme yapılması direnci her zaman artırır.",
+      "Sürece katılım olanağı dirençle başa çıkmayı kolaylaştırabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Değişim yönetimi. Açık bilgilendirme direnci artırmak yerine belirsizliği azaltır; katılım ve iletişim değişime uyumu kolaylaştırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-24-i1pi",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Ortak sosyal ihtiyaçlar ve ilişkiler üzerinden, resmî görev ataması olmadan kendiliğinden oluşan grup hangisidir?",
+    "options": [
+      "Komuta grubu",
+      "Resmî çalışma grubu",
+      "Proje takımı",
+      "Bölümler arası komite",
+      "İnformal grup"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Örgüt içi grup türleri. İnformal grup, ortak ilgi veya sosyal bağlarla kendiliğinden oluşur; proje takımı ise belirli bir görev için resmî olarak kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-25-hw7r",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel iletişim engelleriyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Aşırı bilgi yüklemesi anlam kaybına yol açabilir.\nII. Statü farkı açık iletişimi zorlaştırabilir.\nIII. Karşılıklı güvenin yüksek olması iletişimi engeller.\nIV. Ön yargılar mesajın yorumlanmasını etkileyebilir.",
+    "options": [
+      "Yalnız I",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Örgütsel iletişim engelleri. I, II ve IV iletişimi güçleştirebilir; yüksek karşılıklı güven ise iletişimi engellemek yerine kolaylaştırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-26-cxfg",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütte zamanla paylaşılan değerler, normlar, inançlar ve sembollerin bütünü hangi kavramla açıklanır?",
+    "options": [
+      "Örgüt şeması",
+      "Örgüt politikası",
+      "Örgüt kültürü",
+      "Yetki matrisi",
+      "Bütçe sistemi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Örgüt kültürü yaklaşımı. Paylaşılan değer ve normların bütünü örgüt kültürünü oluşturur; örgüt şeması ise yalnızca biçimsel yapıyı gösterir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-27-wlmz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlik ve yöneticilik arasındaki farkı en dengeli biçimde açıklayan ifade hangisidir?",
+    "options": [
+      "Yöneticilik yalnızca karizma, liderlik yalnızca resmî yetki kullanımına dayanır.",
+      "Her yönetici, makamı nedeniyle otomatik olarak etkili liderdir.",
+      "Yöneticilik planlama ve düzeni sürdürme işlevleriyle; liderlik ise insanları etkileme ve değişime yön verme işleviyle ilişkilendirilir.",
+      "Liderlik yalnızca özel sektörde, yöneticilik yalnızca kamu sektöründe görülür.",
+      "Liderlik ile yöneticilik aynı kavramın iki farklı adıdır."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Liderlik ve yöneticilik ayrımı. Yöneticilik biçimsel planlama ve koordinasyonu, liderlik ise etkileme ve yön verme boyutunu öne çıkarır; resmî makam tek başına liderliği garanti etmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-28-lhhx",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir değerlendiricinin, çalışanın tek bir olumlu özelliğinden yola çıkarak genel performansını olumlu değerlendirmesine ne ad verilir?",
+    "options": [
+      "Merkezi eğilim hatası",
+      "Objektif değerlendirme",
+      "Yakınlık hatası",
+      "Halo etkisi",
+      "Adalet ilkesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Halo etkisi soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Merkezi eğilim hatası ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-29-e6uq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Lewin'in Değişim Modeli'nde yeni uygulamaların kalıcı hâle getirilmesi aşamasına ____ denir.",
+    "options": [
+      "Çözülme",
+      "Hareket",
+      "Güç alanı analizi",
+      "Uyarlama",
+      "Yeniden dondurma"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Lewin'in Değişim Modeli. Yeni uygulamaların kurumun olağan işleyişine yerleşmesi yeniden dondurma aşamasıdır; çözülme değişime hazırlığı ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-3-ahru",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdaki gruplardan hangisi kurum içi müşteri kavramı kapsamında değerlendirilmez?",
+    "options": [
+      "İnsan kaynaklarından hizmet alan birim çalışanları",
+      "Bilgi işlem desteği kullanan müdürlükler",
+      "Kurum dışındaki nihai hizmet kullanıcısı",
+      "Satın alma biriminin hizmet verdiği iç kullanıcılar",
+      "Mali işlerden rapor alan yöneticiler"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: İç müşteri kavramı. Kurum içindeki birim ve çalışanlar iç müşteri sayılır; kurum dışındaki nihai hizmet kullanıcısı dış müşteridir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-30-f8zu",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Performans değerlendirme ilkeleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Değerlendirme ölçütlerinin önceden açıklanması tutarlılığı destekler.",
+      "Birden fazla gözlemden yararlanmak tek izlenime bağımlılığı azaltır.",
+      "Geri bildirim, gelişim alanlarını somutlaştırmalıdır.",
+      "Halo etkisi değerlendirme hatasına yol açabilir.",
+      "Objektiflik, performans değerlendirmesinde sistematik bir hata türüdür."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Performans değerlendirme. Objektiflik ulaşılmak istenen ilkedir, hata türü değildir; halo etkisi ise tek olumlu özelliğin tüm değerlendirmeyi etkilemesidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-31-mz2m",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Sürekli mikro yönetim uygulamasının olası sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Çalışanların karar alma özgüveninin azalması",
+      "Yöneticinin ayrıntılara aşırı zaman ayırması",
+      "İnisiyatif kullanma isteğinin zayıflaması",
+      "Yaratıcı çözüm üretme alanının daralması",
+      "Çalışanların özerklik ve sahiplenme duygusunun düzenli biçimde artması"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Mikro yönetim etkileri. Aşırı ayrıntılı kontrol özerklik ve sahiplenmeyi artırmaz, azaltabilir; inisiyatif ve yaratıcılık alanını daraltır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-32-s3d5",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kişinin bir konudaki tutumu ile davranışı arasındaki uyumsuzluğu fark ettiğinde yaşadığı psikolojik gerilim hangi kavramdır?",
+    "options": [
+      "Rol çatışması",
+      "Sosyal kaytarma",
+      "Örgütsel sessizlik",
+      "Bilişsel çelişki",
+      "İş tatmini"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Bilişsel çelişki kavramı. İnanç ile davranış arasındaki tutarsızlığın yarattığı gerilim bilişsel çelişkidir; rol çatışması ise birden fazla rol beklentisinin çakışmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-33-5f37",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Tarafların hem kendi çıkarlarını hem de karşı tarafın çıkarlarını gözeterek ortak çözüm aradığı çatışma yönetim tarzı hangisidir?",
+    "options": [
+      "Rekabet",
+      "Kaçınma",
+      "Baskınlık",
+      "Uyma",
+      "İş birliği"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Çatışma yönetim stilleri. İş birliği, kazan-kazan çözümü için tarafların ihtiyaçlarını birlikte ele alır; kaçınma ise konuyu ertelemeye dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-34-y29e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fayol'a göre aynı amaç için çalışan faaliyetlerin tek plan altında ve tek yönetici tarafından yönlendirilmesini sağlayan ilke ____ birliğidir.",
+    "options": [
+      "Komuta",
+      "Yetki",
+      "Disiplin",
+      "Yöneltme",
+      "Merkeziyet"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Fayol'un yönetim ilkeleri. Aynı amaca yönelik işlerin tek plan ve yönetici altında toplanması yöneltme birliğidir; komuta birliği her astın tek amirden emir almasıyla ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-35-0g0d",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fiedler'in Durumsallık Modeli'nde lider-durum uygunluğunu belirleyen faktörlerle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Lider-üye ilişkileri dikkate alınır.\nII. Görev yapısı dikkate alınır.\nIII. Astların yaşı temel faktördür.\nIV. Makam gücü dikkate alınır.",
+    "options": [
+      "Yalnız III",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Fiedler'in Durumsallık Modeli. Modelde lider-üye ilişkileri, görev yapısı ve makam gücü kullanılır; astların yaşı temel değişkenlerden değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-36-2j4t",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütte hedeflere ulaşmak için yapılacak işlerin önceden belirlenmesi hangi yönetim fonksiyonudur?",
+    "options": [
+      "Planlama",
+      "Denetim",
+      "Örgütleme",
+      "Yöneltme",
+      "Koordinasyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Planlama soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Denetim ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-37-3s8n",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yasal-ussal otorite, biçimsel kurallar ve hiyerarşi üzerine kurulu bürokrasi modelini sistematikleştiren düşünür kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Max Weber",
+      "Henri Fayol",
+      "Elton Mayo",
+      "Kurt Lewin"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Weberyen bürokrasi yaklaşımı. Biçimsel kurallar, hiyerarşi ve kişisel olmayan ilişkiler Weber'in modelinin temelidir; Taylor bilimsel yönetim yaklaşımıyla tanınır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-38-q3ub",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdaki durumlardan hangisi ademi merkeziyetçi yapının göstergesi değildir?",
+    "options": [
+      "Rutin kararların yalnızca en üst yönetim tarafından alınması",
+      "Yerel birimlerin kendi koşullarına göre çözüm geliştirmesi",
+      "Belirli yetkilerin alt kademelere bırakılması",
+      "Kararların uygulama noktasına yakın alınabilmesi",
+      "Alt birim yöneticilerinin tanımlı yetki alanlarına sahip olması"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Merkeziyetçilik ve ademi merkeziyetçilik. Rutin kararların yalnızca üst yönetimde toplanması merkeziyetçi yapıyı gösterir; ademi merkeziyetçilikte yetki alt kademelere yayılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-39-eorb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlik davranışını \"yapıyı harekete geçirme\" ve \"anlayış gösterme\" boyutlarıyla inceleyen araştırma hangisidir?",
+    "options": [
+      "Michigan Üniversitesi Çalışması",
+      "Ohio State Üniversitesi Çalışması",
+      "McGregor'un X ve Y Kuramı",
+      "Fiedler'in Modeli",
+      "House'un Yol-Amaç Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Ohio State liderlik araştırmaları. Bu çalışma liderliği yapıyı harekete geçirme ve anlayış gösterme boyutlarıyla ele alır; Michigan çalışması çalışan ve iş odaklılık ayrımını kullanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-4-eqfy",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş birliği kültürü bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Ortak hedefler ekip üyeleri arasında koordinasyonu kolaylaştırır.",
+      "Bilgi paylaşımı ortak problem çözmeyi destekler.",
+      "Karşılıklı destek ekip bağlılığını güçlendirebilir.",
+      "Görevler arası yardımlaşma iş birliği davranışına örnek olabilir.",
+      "Bilginin kişisel avantaj için saklanması ekip uyumunu güçlendirir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: İş birliği kültürü. Bilgiyi kişisel avantaj için saklamak iş birliğini güçlendirmez, zayıflatır; bilgi paylaşımı ise ortak çözümü destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-40-y9t6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Etkili toplantı yönetimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Gündemin önceden paylaşılması katılımcı hazırlığını artırır.",
+      "Toplantı süresinin belirlenmesi odaklanmayı destekler.",
+      "Alınan kararların kayıt altına alınması izlemeyi kolaylaştırır.",
+      "Katılımcı sayısını gereksiz biçimde artırmak karar kalitesini her durumda yükseltir.",
+      "Toplantı amacının açık olması görüşmelerin dağılmasını azaltır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Toplantı yönetimi. Gereksiz katılımcı sayısı karar kalitesini otomatik artırmaz, süre ve odak kaybına yol açabilir; açık gündem verimliliği destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-41-c0s9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Hawthorne araştırmalarıyla insan ilişkileri yaklaşımını ortaya koyan araştırmacı kimdir?",
+    "options": [
+      "Frederick Taylor",
+      "Max Weber",
+      "Henri Fayol",
+      "Abraham Maslow",
+      "Elton Mayo"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Elton Mayo soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Frederick Taylor ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-42-f5ak",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Maslow'un ihtiyaçlar hiyerarşisini alt basamaktan üst basamağa doğru doğru sıralayan seçenek hangisidir?",
+    "options": [
+      "Fizyolojik - Güvenlik - Sevgi ve ait olma - Saygı - Kendini gerçekleştirme",
+      "Güvenlik - Fizyolojik - Saygı - Sevgi ve ait olma - Kendini gerçekleştirme",
+      "Kendini gerçekleştirme - Saygı - Sevgi ve ait olma - Güvenlik - Fizyolojik",
+      "Sevgi ve ait olma - Fizyolojik - Güvenlik - Kendini gerçekleştirme - Saygı",
+      "Saygı - Sevgi ve ait olma - Güvenlik - Fizyolojik - Kendini gerçekleştirme"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Maslow'un İhtiyaçlar Hiyerarşisi Kuramı. Sıralama fizyolojik ihtiyaçlarla başlar ve kendini gerçekleştirmeye ulaşır; seçenek C ters sıralamadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-43-gkou",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Stratejik düşünme becerisini yansıtmayan yönetici davranışı hangisidir?",
+    "options": [
+      "Olası uzun vadeli etkileri değerlendirmek",
+      "Yalnızca güncel operasyon göstergelerine bakıp gelecek etkileri göz ardı etmek",
+      "Farklı senaryolar için seçenek geliştirmek",
+      "Kaynak kararlarının kurum amaçlarına etkisini incelemek",
+      "Çevresel değişimleri izlemek"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Stratejik düşünme. Yalnızca güncel operasyonlara odaklanmak stratejik bakışı yansıtmaz; uzun vadeli etkiler ve senaryolar birlikte değerlendirilmelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-44-j8ec",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütte üst yönetim ile alt kademeler arasındaki hiyerarşik basamak sayısına ne ad verilir?",
+    "options": [
+      "Yönetim alanı",
+      "Kadrolama",
+      "Koordinasyon",
+      "Delegasyon",
+      "Hiyerarşik derinlik (kademe sayısı)"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Hiyerarşik derinlik (kademe sayısı) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Yönetim alanı ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-45-qi1j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Karar süreçlerine astların da katıldığı liderlik tarzı hangisidir?",
+    "options": [
+      "Otokratik liderlik",
+      "Tam serbesti liderlik",
+      "Demokratik liderlik",
+      "Otoriter liderlik",
+      "Bürokratik liderlik"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Demokratik liderlik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Otokratik liderlik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-46-jhl0",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi 'Dikey İletişim'in bir parçasıdır?",
+    "options": [
+      "Personel Müdürü ile Muhasebe Müdürü arasındaki yazışma",
+      "İki memurun öğle yemeğindeki sohbeti",
+      "Hukuk müşavirinin müdüre bilgi vermesi",
+      "Müdürün şefe verdiği talimat",
+      "Aynı şubedeki memurların iş paylaşımı yapması"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Dikey iletişim, farklı hiyerarşik kademeler (üst-ast) arasındaki bilgi akışıdır. A seçeneğindeki Personel Müdürü ile Muhasebe Müdürü arasındaki yazışma ise soru kökündeki kavramdan farklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-47-12ks",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumun yeni işe başlayan personeline kurumun değerlerini ve kurallarını tanıtma sürecine ne ad verilir?",
+    "options": [
+      "Delegasyon",
+      "Kadrolama",
+      "Denetim",
+      "Sosyalizasyon (oryantasyon)",
+      "Koordinasyon"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Sosyalizasyon (oryantasyon) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Delegasyon ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-48-vikt",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin doğrudan bağlı ast sayısı arttığında aşağıdaki sonuçlardan hangisi yönetim alanının genişlediğini göstermez?",
+    "options": [
+      "Yöneticinin aynı anda daha fazla kişiyi koordine etmesi",
+      "Kontrol alanının sayısal olarak büyümesi",
+      "Yöneticinin doğrudan bağlı ast sayısının azalması",
+      "İletişim ve denetim yükünün artabilmesi",
+      "Yönetim alanının daha geniş tanımlanması"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim alanı. Ast sayısının azalması yönetim alanını genişletmez, daraltır; ast sayısının artması koordinasyon yükünü de artırabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-49-4h7h",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda çalışanların gelişimi için yöneticinin belirli bir performans hedefine odaklanan, kısa vadeli rehberlik sürecine ne ad verilir?",
+    "options": [
+      "Mentorluk",
+      "Kadrolama",
+      "Delegasyon",
+      "Denetim",
+      "Koçluk"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Koçluk soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Mentorluk ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-5-f87l",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kaynak planlaması ilkeleri bakımından aşağıdaki uygulamalardan hangisi uygun değildir?",
+    "options": [
+      "Personel ve bütçe ihtiyacını öncelikleri değerlendirmeden rastlantısal biçimde dağıtmak",
+      "Faaliyet hedeflerine göre insan kaynağı ihtiyacını belirlemek",
+      "Kaynak kullanımını zaman planıyla ilişkilendirmek",
+      "Riskli alanlar için yedek kaynak öngörmek",
+      "Gerçekleşen kullanım verilerini gözden geçirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Kaynak planlaması. Kaynaklar rastlantısal değil, hedefler, ihtiyaçlar ve öncelikler dikkate alınarak dağıtılır; kullanım verilerinin izlenmesi planı güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-50-6ah8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi 'Tam Serbesti Tanıyan (Laissez-Faire)' liderlik tarzının bir özelliğidir?",
+    "options": [
+      "Lider, astlarını işin her aşamasında sıkı biçimde denetler.",
+      "Kararlar mutlaka tüm grup üyeleriyle birlikte ortaklaşa alınır.",
+      "Lider grup üyelerine müdahale etmez, kaynakları sağlar ve geri çekilir.",
+      "Hata yapan çalışanlar istisnasız ağır biçimde cezalandırılır.",
+      "Lider, kurumun geleceği için sürekli yeni vizyon ve hedefler belirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Laissez-faire liderliğinde lider, yetkiyi tamamen astlara bırakır ve sürece minimum düzeyde müdahale eder. A seçeneğindeki Lider, astlarını işin her aşamasında sıkı biçimde denetler. ise soru kökündeki kavramdan farklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-51-2r7j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurt Lewin'in liderlik deneyine göre kararların liderde toplandığı tarz ____; çalışanların karar sürecine katıldığı tarz ise ____ liderliktir.",
+    "options": [
+      "Demokratik / otokratik",
+      "Otokratik / demokratik",
+      "Tam serbesti / otokratik",
+      "Demokratik / tam serbesti",
+      "Otokratik / tam serbesti"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Lewin'in liderlik tarzları. Otokratik liderlikte kararlar liderde toplanır; demokratik liderlikte çalışanların görüş ve katılımına yer verilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-52-i33l",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aynı sayıda çalışan bulunan iki kurumdan birinde her yönetici daha fazla asta bağlıysa, bu kurumun yapısı için aşağıdaki sonuçlardan hangisi beklenir?",
+    "options": [
+      "Hiyerarşik basamak sayısı artar ve yapı daha sivri olur.",
+      "Yetki devri zorunlu olarak ortadan kalkar.",
+      "Kurum yalnızca matris yapıyla yönetilebilir.",
+      "Merkeziyetçilik otomatik olarak artar.",
+      "Hiyerarşik basamak sayısı azalma ve yapı yataylaşma eğilimi gösterir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim alanı ve örgüt yapısı. Yönetim alanı genişledikçe aynı çalışan sayısı için daha az ara kademe gerekir; yapı basıklaşır. Sivri yapı ise dar yönetim alanıyla ilişkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-53-iwdo",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Değişim yönetimi uygulamalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Üst yönetim desteği değişimin meşruiyetini güçlendirebilir.",
+      "Değişim gerekçelerinin açıklanması belirsizliği azaltabilir.",
+      "Çalışanlardan geri bildirim almak uygulama risklerini görünür kılabilir.",
+      "Değişim planı ve etkileri, uygulama bitene kadar çalışanlardan gizlenmelidir.",
+      "Gerekli eğitim ve kaynak desteği uyumu kolaylaştırabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Değişim yönetimi. Değişim planını gizlemek belirsizlik ve direnci artırabilir; iletişim, katılım ve eğitim uyumu destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-54-tpik",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Sürekli iyileştirme anlayışıyla bağdaşmayan uygulama hangisidir?",
+    "options": [
+      "Süreç performansını düzenli gözden geçirmek",
+      "Çalışanlardan geliştirme önerileri almak",
+      "Süreç sonuçlarını değişmez kabul edip geri bildirim kullanmamak",
+      "Küçük ve uygulanabilir geliştirmeleri denemek",
+      "Öğrenilen sonuçları sonraki uygulamalara yansıtmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Sürekli iyileştirme. Geri bildirimi kullanmamak sürekli iyileştirmeye aykırıdır; düzenli gözden geçirme ve küçük geliştirmeler yaklaşımın temelidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-55-tcao",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Deneyimli bir çalışanın bilgi ve deneyimini, daha az deneyimli bir çalışanın mesleki gelişimini desteklemek üzere paylaşmasına ne ad verilir?",
+    "options": [
+      "Koçluk",
+      "Mentorluk",
+      "Delegasyon",
+      "Denetim",
+      "Kadrolama"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Gelişim uygulamaları. Mentorluk, deneyim aktarımı ve uzun vadeli mesleki rehberliğe dayanır; koçluk daha çok belirli performans hedeflerine odaklanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-56-pvcz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Başkalarının liderle özdeşleşme isteğinden ve lidere duyulan hayranlıktan doğan güç türü ____ gücüdür.",
+    "options": [
+      "Ödül",
+      "Zorlayıcı",
+      "Yasal",
+      "Referans",
+      "Uzmanlık"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Güç kaynakları sınıflaması. Referans gücü, bireylerin kişiyle özdeşleşmesinden doğar; uzmanlık gücü ise bilgi ve beceriye dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-57-m8l4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin örgütteki resmi pozisyonundan kaynaklanan güce ne ad verilir?",
+    "options": [
+      "Uzmanlık Gücü",
+      "Ödül Gücü",
+      "Karizmatik Güç",
+      "Yasal (Meşru) Güç",
+      "Zorlayıcı Güç"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Yasal (Meşru) Güç soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Uzmanlık Gücü ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-58-byka",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş birliği ortamını zayıflatan uygulama hangisidir?",
+    "options": [
+      "Birimler için ortak hedef belirlemek",
+      "Bilgi paylaşımı için düzenli toplantılar yapmak",
+      "Görevler arası bağımlılıkları açıklaştırmak",
+      "Kritik bilgileri yalnızca belirli kişilerde tutmak",
+      "Ortak problem çözme için ekipler kurmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: İş birliği kültürü. Kritik bilgileri sınırlı kişilerde tutmak güveni ve koordinasyonu zayıflatır; ortak hedefler ve bilgi paylaşımı iş birliğini güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-59-xeax",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Maslow'un ihtiyaçlar hiyerarşisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Güvenlik ihtiyacı temel ihtiyaç basamaklarından biridir.",
+      "Başarı ihtiyacı Maslow modelinde bağımsız bir temel basamak olarak yer alır.",
+      "Saygı ihtiyacı modelde üst düzey ihtiyaçlardan biridir.",
+      "Kendini gerçekleştirme modelin en üst basamağıdır.",
+      "Sevgi ve ait olma ihtiyacı sosyal ilişkilerle bağlantılıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Maslow'un İhtiyaçlar Hiyerarşisi. Başarı ihtiyacı McClelland'ın kuramında öne çıkar; Maslow'un temel basamaklarından biri değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-6-ekco",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Astların olgunluk/hazır bulunuşluk düzeyine göre liderin davranış tarzını değiştirmesi gerektiğini savunan yaklaşım hangisidir?",
+    "options": [
+      "Fiedler'in Etkin Liderlik Modeli",
+      "McGregor'un X ve Y Kuramı",
+      "Hersey ve Blanchard'ın Durumsallık Yaklaşımı",
+      "Blake ve Mouton'un Matrisi",
+      "Michigan Üniversitesi Çalışması"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Hersey ve Blanchard'ın durumsal liderlik yaklaşımı. Doğru cevap C seçeneğidir; Hersey ve Blanchard'ın Durumsallık Yaklaşımı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fiedler'in Etkin Liderlik Modeli ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-60-kgka",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlik alanındaki klasik yaklaşımlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Michigan Üniversitesi çalışmaları liderlik davranışını çalışan ve iş odaklılık bakımından incelemiştir.",
+      "Ohio State çalışmaları yapıyı harekete geçirme ve anlayış gösterme boyutlarını kullanmıştır.",
+      "Fiedler modeli lider-durum uygunluğuna odaklanır.",
+      "Taylor'un Bilimsel Yönetim yaklaşımı, liderlik davranışlarını açıklamak üzere geliştirilmiş bir modeldir.",
+      "Blake ve Mouton matrisi insan ve üretim yönelimlerini birlikte ele alır."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Klasik yönetim ve liderlik kuramları. Taylor'un yaklaşımı verimlilik ve iş tasarımıyla ilgilidir; liderlik davranış modelinin adı değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-61-my4o",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir şirketteki departman yöneticileri hangi kademe yönetici olarak nitelendirilir?",
+    "options": [
+      "Alt kademe",
+      "Yatay kademe",
+      "Üst kademe",
+      "Alt ya da üst kademe",
+      "Orta kademe"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Orta kademe soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Alt kademe ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-62-e389",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş analiziyle elde edilen bilgiler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Görevin temel sorumlulukları",
+      "İşin gerektirdiği bilgi ve beceriler",
+      "Çalışanın kişisel harcama tercihleri",
+      "Çalışma koşulları",
+      "İşin diğer görevlerle ilişkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: İş analizi. İş analizi görev, sorumluluk, yeterlilik ve çalışma koşullarını inceler; çalışanın kişisel harcama tercihleri iş analizi verisi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-63-qljs",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "French ve Raven'in güç kaynakları sınıflamasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Ödül gücü değerli sonuç sağlayabilmeye dayanır.",
+      "Finansal güç, klasik sınıflamada bağımsız ve zorunlu bir temel güç kaynağıdır.",
+      "Zorlayıcı güç cezalandırma kapasitesiyle ilişkilidir.",
+      "Uzmanlık gücü bilgi ve yetkinlikten doğar.",
+      "Referans gücü kişiyle özdeşleşme isteğinden kaynaklanabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Güç kaynakları sınıflaması. Klasik sınıflamada ödül, zorlayıcı, yasal, uzmanlık ve referans güç bulunur; finansal güç bağımsız temel kategori değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-64-khkc",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderin, astların hedeflerine giden yolu netleştirerek onları motive edebileceğini savunan kuram hangisidir?",
+    "options": [
+      "Fiedler'in Etkin Liderlik Modeli",
+      "Vroom ve Yetton'un Modeli",
+      "McGregor'un X ve Y Kuramı",
+      "Blake ve Mouton'un Matrisi",
+      "House'un Yol-Amaç Kuramı"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: House'un Yol-Amaç Kuramı. Doğru cevap E seçeneğidir; House'un Yol-Amaç Kuramı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fiedler'in Etkin Liderlik Modeli ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-65-5wtq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kriz öncesi hazırlığın doğrudan amaçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Rutin iş akışlarını gereksiz yere karmaşıklaştırmak",
+      "Olası riskleri önceden belirlemek",
+      "Müdahale rollerini netleştirmek",
+      "İletişim kanallarını planlamak",
+      "Kaynak ve senaryo hazırlığı yapmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Kriz yönetimi. Kriz hazırlığı rutin süreçleri gereksiz karmaşıklaştırmayı değil, riskleri ve müdahale kapasitesini önceden yönetmeyi amaçlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-66-x4wl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin astlarına 'Ne yapacaklarını, nasıl yapacaklarını' tek tek söylemesi ve çok sıkı denetlemesi, McGregor’un hangi kuramına sahip olduklarını gösterir?",
+    "options": [
+      "Z Kuramı",
+      "X Kuramı",
+      "Y Kuramı",
+      "Sistem Kuramı",
+      "Durumsallık Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: McGregor'un X ve Y Kuramı. X Kuramı, insanların tembel olduğunu ve ancak baskı/denetim ile çalıştırılabileceğini varsayan klasik yaklaşımdır. A seçeneğindeki Z Kuramı ise soru kökündeki kavramdan farklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-67-7gfk",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Zaman yönetiminde önceliklendirme yapılmadığında beklenmeyecek sonuç hangisidir?",
+    "options": [
+      "Acil olmayan işlerin kritik işleri sıkıştırması",
+      "Görevler arasında geçiş maliyetinin artması",
+      "Son teslim tarihlerinin kaçırılma riskinin yükselmesi",
+      "Önemli işlerin sistematik biçimde zamanında tamamlanması",
+      "Çalışma yükünün düzensiz algılanması"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Zaman yönetimi. Önceliklendirme yoksa önemli işlerin düzenli biçimde zamanında tamamlanması beklenmez; kritik görevler daha kolay ertelenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-68-gy74",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel iletişimle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bilgiyi gereksiz biçimde saklamak şeffaf iletişimi güçlendirir.",
+      "Düzenli geri bildirim mesajların anlaşılmasını kolaylaştırır.",
+      "Açık iletişim belirsizliği azaltabilir.",
+      "Açık kapı uygulamaları üst yönetimle erişimi kolaylaştırabilir.",
+      "Karşılıklı güven bilgi paylaşımını destekler."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Örgütsel iletişim. Bilgi saklama şeffaflığı güçlendirmez, iletişim akışını zayıflatır; geri bildirim ve güven ise iletişimi kolaylaştırır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-69-sehl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi grup halinde karar almanın olası bir dezavantajıdır?",
+    "options": [
+      "Daha fazla bilgiye ulaşılması",
+      "Kararın benimsenmesinin kolaylaşması",
+      "Yaratıcılığın artabilmesi",
+      "Farklı bakış açılarının bir araya gelmesi",
+      "Karar sürecinin uzayabilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Karar sürecinin uzayabilmesi soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Daha fazla bilgiye ulaşılması ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-7-xzaq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Vizyonun kurum içindeki işleviyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Vizyon yalnızca üst yönetimce bilinmeli, çalışanlarla paylaşılması gerekli değildir.",
+      "Vizyon çalışanlara ortak bir yön duygusu sağlayabilir.",
+      "Vizyon, geleceğe dönük hedeflerin anlamlandırılmasına yardımcı olur.",
+      "Vizyonun somut hedef ve stratejilerle desteklenmesi gerekir.",
+      "İkna edici bir vizyon çalışanların sahiplenmesini kolaylaştırır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Vizyon yönetimi. Vizyonun paylaşılması ve benimsetilmesi gerekir; yalnızca üst yönetimin bildiği vizyon ortak yön oluşturamaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-70-7ttd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi informal (gayri resmi) grupların oluşma nedenlerinden biridir?",
+    "options": [
+      "Ortak ilgi alanları ve sosyal ihtiyaçlar",
+      "Örgüt şeması",
+      "Resmi görev tanımı",
+      "Bütçe planlaması",
+      "Yasal zorunluluk"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Ortak ilgi alanları ve sosyal ihtiyaçlar soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Örgüt şeması ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-71-4qhj",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liyakat ilkesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Görevlendirmelerde bilgi, beceri ve yeterlilik dikkate alınmalıdır.",
+      "Görevlendirmelerde kişisel yakınlık, mesleki yeterliliğin önüne geçmelidir.",
+      "Ölçülebilir nitelikler karar sürecini daha denetlenebilir kılar.",
+      "İş gerekleri seçim ölçütlerinin belirlenmesine yardımcı olur.",
+      "Liyakat, kurumsal adalet algısını destekleyebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Liyakat ilkesi. Kişisel yakınlığın yeterliliğin önüne konulması liyakatla bağdaşmaz; bilgi ve beceri temelli ölçütler esastır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-72-fjwv",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fayol'un planlama, örgütleme, emretme, eşgüdüm ve denetim işlevlerinin bütününe ____ süreci denir.",
+    "options": [
+      "Koordinasyon",
+      "Yönetim",
+      "İletişim",
+      "Kadrolama",
+      "Denetim"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Fayol'un yönetim fonksiyonları. Bu işlevlerin bütünü yönetim sürecini oluşturur; koordinasyon bu sürecin yalnızca bir fonksiyonudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-73-u20c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışan öneri sistemlerinin amaçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Süreç geliştirme önerilerini toplamak",
+      "Çalışan katılımını artırmak",
+      "Uygulama sorunlarını görünür kılmak",
+      "İyileştirme fikirlerini değerlendirmek",
+      "Çalışan görüşlerini kayıt altına alıp incelemeden bırakmak"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Katılımcı yönetim. Öneri sisteminin amacı görüşleri yalnızca depolamak değil, değerlendirmek ve uygun önerileri iyileştirme süreçlerine aktarmaktır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-74-689c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, kurum içindeki bilgiyi çalışanlarla paylaşarak şeffaf davranmasına ne ad verilir?",
+    "options": [
+      "Bürokrasi",
+      "Gizlilik",
+      "Merkeziyetçilik",
+      "Saydamlık",
+      "Otorite"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Saydamlık soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Bürokrasi ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-75-yvq0",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlik tarzlarını 9x9'luk bir ızgarada 'insana yönelik' ve 'üretime yönelik' eksenlerle gösteren model hangisidir?",
+    "options": [
+      "Fiedler'in Modeli",
+      "Blake ve Mouton'un Yönetim Tarzı Matrisi",
+      "McGregor'un X-Y Kuramı",
+      "Hersey-Blanchard Modeli",
+      "House'un Yol-Amaç Kuramı"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Blake ve Mouton'un Yönetim Tarzı Matrisi. Doğru cevap B seçeneğidir; Blake ve Mouton'un Yönetim Tarzı Matrisi soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fiedler'in Modeli ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-76-bkba",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Rasyonel karar alma modeliyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Karar vericinin sınırlı bilgiyle ilk yeterli çözümü seçmesi modelin temel varsayımıdır.",
+      "Problemin açık biçimde tanımlanması modelin varsayımlarındandır.",
+      "Alternatiflerin sistematik biçimde değerlendirilmesi beklenir.",
+      "En yüksek faydayı sağlayan seçeneğin tercih edilmesi amaçlanır.",
+      "Karar vericinin mümkün olduğunca nesnel davranacağı varsayılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Rasyonel ve sınırlı rasyonellik modelleri. İlk yeterli çözümü seçme sınırlı rasyonellik yaklaşımına aittir; rasyonel model alternatiflerin kapsamlı değerlendirilmesini öngörür.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-77-wed0",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgüt üyeleri arasındaki karşılıklı güveni, ilişki ağlarını ve iş birliğini kolaylaştıran ortak normları ifade eden kavram hangisidir?",
+    "options": [
+      "Kadrolama",
+      "Bürokrasi",
+      "Merkeziyetçilik",
+      "Sosyal sermaye",
+      "Denetim"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Sosyal sermaye yaklaşımı. Güven ve ilişki ağları sosyal sermayenin temel unsurlarıdır; merkeziyetçilik karar yetkisinin dağılımını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-78-tvx7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Planlama fonksiyonuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Planlama, uygulama tamamlandıktan sonra hedef belirlemeyi gerektirir.",
+      "Planlama çevresel koşulların ve mevcut durumun değerlendirilmesini içerebilir.",
+      "Alternatif yolların belirlenmesi planlamanın parçasıdır.",
+      "Amaçların somutlaştırılması uygulama öncesinde yapılır.",
+      "Planlar izleme sonuçlarına göre güncellenebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Planlama fonksiyonu. Hedefler uygulama sonrasında değil öncesinde belirlenir; çevre analizi ve alternatif geliştirme planlamanın doğal parçalarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-79-1h3n",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Düzenli bire bir gelişim görüşmelerinin beklenen sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Çalışanın geri bildirim ve gelişim ihtiyacını azaltmak",
+      "Hedef ve beklentileri netleştirmek",
+      "Gelişim alanlarını konuşmak",
+      "Çalışanın desteğe ihtiyaç duyduğu konuları görünür kılmak",
+      "Karşılıklı geri bildirim alışverişini güçlendirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Geri bildirim ve gelişim görüşmeleri. Bire bir görüşmeler geri bildirim ihtiyacını azaltmak için değil, bu ihtiyacı sağlıklı biçimde karşılamak için yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-8-8m82",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aynı hiyerarşik düzeyde bulunan birim veya çalışanlar arasında gerçekleşen bilgi akışı hangi iletişim türüdür?",
+    "options": [
+      "Dikey iletişim",
+      "Çapraz iletişim",
+      "Yatay iletişim",
+      "Yukarıdan aşağıya iletişim",
+      "Gayri resmi iletişim"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Örgütsel iletişim türleri. Yatay iletişim, eş düzeydeki birimler arasındaki akıştır; dikey iletişim ise üst-ast kademeleri arasında kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-80-tkq3",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "'Bilimsel Yönetimin Prensipleri' adlı eseri kim yazmıştır?",
+    "options": [
+      "Weber",
+      "Fayol",
+      "Elton Mayo",
+      "Herzberg",
+      "Taylor"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Taylor'un Bilimsel Yönetim yaklaşımı. Doğru cevap E seçeneğidir; Taylor soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Weber ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-81-t8dz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel iletişim yönleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Dikey iletişim farklı hiyerarşik kademeler arasında gerçekleşebilir.",
+      "Yatay iletişim eş düzeydeki birimler arasında kurulabilir.",
+      "Merkezi iletişim, yatay-dikey-çapraz ayrımında standart bir iletişim yönü kategorisidir.",
+      "Çapraz iletişim farklı birim ve kademelerdeki kişiler arasında kurulabilir.",
+      "Gayri resmi iletişim biçimsel kanallar dışındaki ilişkilerden doğabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Örgütsel iletişim yönleri. Standart yön sınıflaması yatay, dikey ve çapraz iletişimi içerir; merkezi iletişim bu sınıflamada bağımsız yön kategorisi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-82-lmny",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin astlarına 'Bu işi nasıl yaparsan yap, sonuç önemli' yaklaşımıyla müdahale etmemesi hangi liderlik tarzına örnektir?",
+    "options": [
+      "Otokratik liderlik",
+      "Demokratik liderlik",
+      "Bürokratik liderlik",
+      "Tam serbesti (laissez-faire) liderlik",
+      "Baskıcı liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Tam serbesti (laissez-faire) liderlik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Otokratik liderlik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-83-48o5",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Eisenhower Matrisi ile ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Acil ve önemli işler öncelikle ele alınır.\nII. Acil olmayan ancak önemli işler planlanır.\nIII. Acil ancak önemli olmayan işler uygun olduğunda devredilebilir.\nIV. Acil olmayan ve önemsiz işler ilk sırada yapılmalıdır.",
+    "options": [
+      "I, II ve III",
+      "I ve IV",
+      "II ve IV",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Eisenhower Matrisi. I, II ve III matristeki doğru yaklaşımlardır; IV numaralı işler mümkünse ertelenir veya elenir, önceliklendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-84-d0pb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Sağlıklı örgüt iklimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Açık iletişim güven duygusunu destekleyebilir.",
+      "Sürekli korku ve baskı ortamı çalışan güvenini ve iş birliğini güçlendirir.",
+      "Adil uygulamalar olumlu iklim algısına katkı sağlar.",
+      "Karşılıklı güven bilgi paylaşımını kolaylaştırır.",
+      "Takdir kültürü çalışan bağlılığını destekleyebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Örgüt iklimi. Korku ve baskı güveni güçlendirmez, psikolojik güvenliği zedeler; adalet ve açık iletişim olumlu iklimi destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-85-soqz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Klasik yönetim kuramcılarından Henri Fayol'un yönetim ilkelerinden biri olan 'Komuta Birliği' ilkesi aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Yetkinin alt kademelere devredilmesini",
+      "Tüm kararların tepe yönetimde alınmasını",
+      "Her astın yalnızca bir üsten emir almasını",
+      "İşlerin uzmanlık alanlarına göre bölünmesini",
+      "Kurumda takım çalışmasının desteklenmesini"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Henri Fayol'un yönetim ilkeleri. Komuta birliği ilkesi, çatışma ve karmaşayı önlemek amacıyla her astın sadece tek bir amire bağlı olması ve ondan emir alması gerektiğini belirtir. A seçeneğindeki Yetkinin alt kademelere devredilmesini ise soru kökündeki kavramdan farklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-86-lwns",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş tanımında normal olarak yer alması beklenmeyen bilgi hangisidir?",
+    "options": [
+      "Görevin temel amacı",
+      "Başlıca sorumluluklar",
+      "İşi yapan kişinin kişisel ücret ve izin bilgileri",
+      "Raporlama ilişkileri",
+      "Görevin diğer pozisyonlarla ilişkisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: İş tanımı. İş tanımı görevi ve sorumlulukları açıklar; kişiye özgü ücret ve izin bilgileri iş tanımının parçası değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-87-a3of",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yetki devriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yönetici yetki devrettiğinde nihai hesap verme sorumluluğunu tamamen ortadan kaldırır.",
+      "Devredilecek görevin sınırları açık biçimde tanımlanmalıdır.",
+      "Görevi üstlenecek kişinin yeterliliği değerlendirilmelidir.",
+      "İzleme ve geri bildirim mekanizması kurulmalıdır.",
+      "Yetki devri çalışan gelişimini destekleyebilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yetki devri ilkeleri. Yetki devredilebilir; ancak nihai hesap verme sorumluluğu yöneticide kalır. Açık sınırlar ve izleme devrin sağlıklı işlemesini sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-88-rnjb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütte bireylerin birbirine sıkı bağlarla bağlı olduğu, ortak bir amaç için birlikte çalıştığı yapıya ne ad verilir?",
+    "options": [
+      "Departman",
+      "Kurul",
+      "Şube",
+      "Komisyon",
+      "Ekip (takım)"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Ekip (takım) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Departman ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-89-vvo2",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Üstün astına görev verme, karar alma ve kaynak kullanma hakkını kullanabilmesini ifade eden kavram ____dir.",
+    "options": [
+      "Sorumluluk",
+      "Yetki",
+      "Görev",
+      "Hesap verebilirlik",
+      "Koordinasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yetki ve sorumluluk kavramları. Yetki karar alma ve emir verme hakkıdır; sorumluluk ise görevin sonucunu üstlenme yükümlülüğüdür.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-9-l3qr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanın görev tanımında zorunlu olmadığı hâlde kurumun işleyişine gönüllü katkı sağlaması hangi davranışı ifade eder?",
+    "options": [
+      "Örgütsel sessizlik",
+      "Örgütsel vatandaşlık davranışı",
+      "Sosyal kaytarma",
+      "Rol çatışması",
+      "İşten yabancılaşma"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Örgütsel vatandaşlık davranışı. Zorunlu rolün ötesine geçen gönüllü katkılar bu davranışın örneğidir; sosyal kaytarma ise grup içinde çabayı azaltmayı ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-90-j7ve",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş analizi sonuçlarının kullanım alanları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Çalışanların işle ilgisiz kişisel verilerini arşivlemek",
+      "Seçim ölçütlerini belirlemek",
+      "Eğitim ihtiyacını saptamak",
+      "Performans standartlarını oluşturmak",
+      "Ücretleme çalışmalarına temel sağlamak"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: İş analizi. İş analizi seçim, eğitim ve performans standartlarına temel olur; işle ilgisiz kişisel verileri arşivleme amacı taşımaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-91-7u81",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Değişim ajanının rolüyle bağdaşmayan uygulama hangisidir?",
+    "options": [
+      "Mevcut durumu korumak için paydaşları süreç bilgisinden uzak tutmak",
+      "Değişim ihtiyacını görünür kılmak",
+      "Paydaşlar arasında iletişimi kolaylaştırmak",
+      "Uygulama risklerini izlemek",
+      "Gerekli desteği harekete geçirmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Değişim ajanı rolü. Değişim ajanı bilgiyi kapatmak yerine iletişimi ve katılımı kolaylaştırır; riskleri izleyip uygulamayı destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-92-76i4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim kurulu ile icra kurulu arasındaki iş bölümü bakımından doğru ifade hangisidir?",
+    "options": [
+      "Yönetim kurulu yalnızca günlük operasyonları yürütür.",
+      "İcra kurulu yalnızca dış denetim raporu hazırlar.",
+      "Yönetim kurulu yön ve gözetim işlevi görür; icra kurulu kararların günlük uygulamasını yürütür.",
+      "Her iki kurulun üyeleri ve görevleri her kurumda zorunlu olarak aynıdır.",
+      "Yönetim kurulu yalnızca personel izin işlemlerinden sorumludur."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetişim ve icra ayrımı. Yönetim kurulu yön, politika ve gözetim boyutunda; icra kurulu uygulama ve operasyon boyutunda görev alır. Günlük uygulama yalnızca yönetim kurulunun işi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-93-f2ap",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yapılan işlerin önceden belirlenen hedeflerle karşılaştırılıp değerlendirilmesi hangi yönetim fonksiyonudur?",
+    "options": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Koordinasyon",
+      "Denetim"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Denetim soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Planlama ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-94-woi6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticinin rol model olma davranışıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yöneticinin kurallara kendisinin de uyması güveni destekler.",
+      "Verilen sözlerin tutulması tutarlılık algısını güçlendirir.",
+      "Yönetici kuralları kendisi görmezden gelirken çalışanlardan eksiksiz uyum beklemelidir.",
+      "Dürüst iletişim rol model olmanın önemli unsurudur.",
+      "Hataları kabul etmek öğrenme kültürünü destekleyebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Etik liderlik ve rol model olma. Yöneticinin kurallara kendisinin uymaması rol model davranışıyla çelişir; tutarlılık güveni güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-95-pm8q",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticilerin karar alırken astları ne ölçüde sürece dahil etmesi gerektiğini inceleyen model hangisidir?",
+    "options": [
+      "Fiedler'in Modeli",
+      "House'un Yol-Amaç Kuramı",
+      "McGregor'un X-Y Kuramı",
+      "Vroom ve Yetton'un Karar Verme Modeli",
+      "Blake ve Mouton'un Matrisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Vroom ve Yetton'un karar verme modeli. Doğru cevap D seçeneğidir; Vroom ve Yetton'un Karar Verme Modeli soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fiedler'in Modeli ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-96-9l2p",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetici, karar vermeden önce çalışanların görüşlerini alıyor ve bu görüşleri seçenekleri değerlendirmede kullanıyorsa hangi karar alma yaklaşımını benimsemektedir?",
+    "options": [
+      "Otokratik karar alma",
+      "Katılımcı karar alma",
+      "Rastlantısal karar alma",
+      "Tam merkezî karar alma",
+      "Sezgisel karar alma"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Katılımcı yönetim. Çalışan görüşlerini karar sürecine katmak katılımcı karar almadır; otokratik yaklaşımda karar liderde yoğunlaşır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-97-82om",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Rol çatışması ve rol belirsizliğiyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Bir çalışanın birbiriyle uyumsuz beklentilerle karşılaşması rol çatışmasıdır.\nII. Çalışanın görev ve beklentilerini net biçimde bilmemesi rol belirsizliğidir.\nIII. Rol belirsizliği, çalışanlar arası koordinasyonu kendiliğinden artırır.\nIV. Rol çatışması ve rol belirsizliği aynı kavramdır.",
+    "options": [
+      "I ve II",
+      "I ve III",
+      "II ve IV",
+      "I, II ve III",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Rol kuramı. I rol çatışmasını, II rol belirsizliğini açıklar; III ve IV doğru değildir çünkü iki durum farklı işlevsel sorunlardır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-98-jn5c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurumsal hafızanın korunmasına hizmet etmeyen uygulama hangisidir?",
+    "options": [
+      "Öğrenilen dersleri kişilerin dağınık kişisel dosyalarında bırakmak",
+      "Karar gerekçelerini kayıt altına almak",
+      "Süreç dokümanlarını güncel tutmak",
+      "Devir teslim bilgisini yapılandırmak",
+      "Erişilebilir bilgi havuzları oluşturmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Kurumsal hafıza. Bilgiyi kişisel ve dağınık dosyalarda bırakmak kurumsal hafızayı zayıflatır; ortak erişilebilir kayıtlar sürekliliği destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sc-99-rcbc",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yönetici ertesi gün yasal son tarihi bulunan rapor, gelecek haftaya ait rutin çalışma ve zamanı belirsiz arşiv düzenleme işiyle karşılaşmıştır. Zaman yönetimi becerisini en iyi gösteren davranış hangisidir?",
+    "options": [
+      "Üç işe de sırayla eşit süre ayırmak",
+      "Önce arşiv düzenleme işini tamamlamak",
+      "Raporu son güne kadar bekletmek",
+      "Yasal son tarihli raporu önceliklendirip diğer işleri takvime yerleştirmek",
+      "İşleri çalışanların gelişine göre ele almak"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Zaman yönetimi. Aciliyet ve önem taşıyan yasal süreli rapor önceliklendirilmelidir; diğer işler planlanarak uygun zamana yerleştirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-122-pf2n",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderlik ve yöneticilik arasındaki ilişkiyle bağdaşmayan ifade hangisidir?",
+    "options": [
+      "Yöneticilik biçimsel planlama ve koordinasyon işlevlerini içerir.",
+      "Liderlik insanları etkileme ve ortak amaç etrafında toplama boyutunu kapsar.",
+      "Bir yönetici liderlik becerilerini geliştirebilir.",
+      "İnformal liderlik örgüt içinde etkili olabilir.",
+      "Biçimsel unvanı olan herkes kendiliğinden etkili liderdir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Liderlik ve yöneticilik ayrımı. Biçimsel unvan etkili liderliği garanti etmez; liderlik etki, güven ve yön verme becerilerini de gerektirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-123-4e7c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Personel seçiminde liyakat ilkesinin uygulanmasının en doğrudan sonucu hangisidir?",
+    "options": [
+      "Seçimin yalnızca kıdeme göre yapılması",
+      "İşin gerektirdiği yeterlilikleri en iyi karşılayan adayın tercih edilmesi",
+      "Kararların kişisel yakınlığa göre verilmesi",
+      "Değerlendirme ölçütlerinin adaylara göre değiştirilmesi",
+      "Atama sürecinde belgesiz kanaatlerin belirleyici olması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Liyakat ilkesi. Liyakat, adayın iş gerekleriyle uyumlu bilgi, beceri ve yetkinlikleri üzerinden değerlendirilmesini gerektirir; kişisel yakınlık ölçüt değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-124-67pr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir işin daha fazla sorumluluk ve karar yetkisiyle zenginleştirilmesine ne ad verilir?",
+    "options": [
+      "İş rotasyonu",
+      "Kadrolama",
+      "İş basitleştirme",
+      "İş zenginleştirme",
+      "Denetim"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; İş zenginleştirme soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki İş rotasyonu ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-125-8ku8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fiedler'in Durumsallık Modeli'ne ilişkin aşağıdaki ifadelerden hangileri doğrudur?\nI. Lider-üye ilişkileri modelde kullanılan değişkenlerdendir.\nII. Görev yapısı durumun elverişliliğini etkiler.\nIII. Makam gücü liderin durum üzerindeki etkisini etkiler.\nIV. Ekip üyelerinin medeni durumu temel değişkendir.",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I, II ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Fiedler'in Durumsallık Modeli. I, II ve III modelin üç temel değişkenidir; IV numaralı kişisel özellik modelin standart değişkenleri arasında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-126-qbue",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi etkili bir yönetici-çalışan ilişkisinin özelliklerinden biridir?",
+    "options": [
+      "Belirsiz beklentiler",
+      "Tek yönlü iletişim",
+      "Karşılıklı saygı",
+      "Güvensizlik",
+      "Sürekli baskı"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Karşılıklı saygı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Belirsiz beklentiler ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-127-lyqb",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Etkili liderliğin özellikleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İletişim becerisi güven kurmayı destekler.",
+      "Empati, çalışanların ihtiyaçlarını anlamayı kolaylaştırır.",
+      "Kararlılık belirsizlikte yön duygusu sağlayabilir.",
+      "Vizyon sahibi olmak ortak amaç oluşturmaya katkı verir.",
+      "Astların inisiyatif kullanmasını sistematik olarak engellemek etkili liderliğin gereğidir."
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Etkili liderlik. İnisiyatif kullanımını sistematik biçimde engellemek güven ve gelişimi zedeler; etkili lider iletişim ve yetkilendirmeyi destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-128-xjb6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin işleri astlarına dağıtırken görev ile birlikte yetki de vermesi gerektiği ilkesine ne ad verilir?",
+    "options": [
+      "Yetki-sorumluluk dengesi",
+      "Merkeziyetçilik",
+      "Bürokrasi",
+      "Kadrolama",
+      "Denetim"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Yetki-sorumluluk dengesi soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Merkeziyetçilik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-129-s4ss",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yapıcı geri bildirim ilkeleriyle bağdaşmayan uygulama hangisidir?",
+    "options": [
+      "Yalnızca hataları vurgulayıp somut davranış örneği ve gelişim yolu vermemek",
+      "Geri bildirimi gözlenebilir davranışlara dayandırmak",
+      "Uygun zamanda görüşmek",
+      "Gelişim için uygulanabilir öneri sunmak",
+      "Çalışanın görüşünü dinlemek"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yapıcı geri bildirim. Sadece hata vurgulamak ve gelişim yolu göstermemek yapıcı değildir; gözlenebilir davranış ve uygulanabilir öneri esastır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-130-yf2e",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yapılandırılmış mülakatın amaçları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Adayların aynı işle ilgili ölçütlerle değerlendirilmesini sağlamak",
+      "Adayın cevapları alınmadan önce sonuç hakkında kesin karar vermek",
+      "Davranışsal örnekler üzerinden yeterliliği değerlendirmek",
+      "Adaylar arasında karşılaştırılabilir bilgi toplamak",
+      "İşe uygunluk hakkında kanıt temelli değerlendirme yapmak"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Personel seçimi. Yapılandırılmış mülakat önceden ölçüt belirlemeyi sağlar; aday dinlenmeden kesin karar vermek nesnel değerlendirmeyle bağdaşmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-131-8euf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yöneticiye verilen görevlerin sonuçlarını açıklama, gerekçelendirme ve hesabını verme yükümlülüğünü ifade eden kavram hangisidir?",
+    "options": [
+      "Hesap verebilirlik",
+      "Yetki",
+      "Delegasyon",
+      "Merkeziyetçilik",
+      "Koordinasyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Hesap verebilirlik. Hesap verebilirlik, alınan karar ve sonuçların gerekçesini açıklama yükümlülüğüdür; yetki karar alma hakkını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-132-qk68",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Benzer işlerin aynı yöntem, kural ve ölçütlere göre yürütülmesini sağlayan örgütleme mekanizması hangisidir?",
+    "options": [
+      "Komuta birliği",
+      "Yönetim alanı",
+      "Yetki devri",
+      "Hiyerarşik derinlik",
+      "Standartlaştırma"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Örgütleme mekanizmaları. Standartlaştırma, benzer işlerde ortak yöntem ve ölçüt kullanmayı sağlar; yönetim alanı ast sayısını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-133-7hsl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kriz anında güvenilir bilgiye dayalı, tutarlı ve zamanında açıklama yapmak aşağıdaki becerilerden hangisini en iyi gösterir?",
+    "options": [
+      "Etkili kriz iletişimi ve yönetimi",
+      "Kararsızlık",
+      "Sorumluluktan kaçınma",
+      "Belirsizliği artırma",
+      "Pasif izleme"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Kriz yönetimi. Güvenilir bilgiye dayalı zamanında iletişim kriz yönetiminin temelidir; belirsizliği artırmak güveni zedeler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-134-qyrx",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Lewin'in güç alanı analizinde değişimin gerçekleşmesini etkileyen temel unsur hangisidir?",
+    "options": [
+      "Yalnızca liderin kişilik özellikleri",
+      "Değişimi destekleyen ve engelleyen güçler arasındaki denge",
+      "Sadece kurum bütçesinin büyüklüğü",
+      "Çalışanların yaş ortalaması",
+      "Yalnızca resmî hiyerarşi"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Lewin'in Güç Alanı Analizi. Değişim, itici ve engelleyici güçler arasındaki dengeye göre kolaylaşır veya zorlaşır; liderin kişiliği tek başına belirleyici değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-135-mla6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "SWOT analiziyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Güçlü ve zayıf yönler iç çevreyle ilişkilidir.\nII. Fırsat ve tehditler dış çevreyle ilişkilidir.\nIII. SWOT yalnızca mali tablolarla yapılabilen bir analizdir.\nIV. Analiz, stratejik seçeneklerin geliştirilmesine katkı sağlayabilir.",
+    "options": [
+      "I ve III",
+      "I, II ve IV",
+      "II ve III",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: SWOT analizi. I, II ve IV doğrudur; SWOT yalnızca mali tablolara değil, iç ve dış çevreye ilişkin nitel ve nicel verilere dayanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-136-h99s",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş doyumu ile motivasyon arasındaki ilişkiyi doğru karşılaştıran ifade hangisidir?",
+    "options": [
+      "İş doyumu yalnızca ücret, motivasyon yalnızca kişilik özelliğidir.",
+      "İş doyumu ve motivasyon aynı kavramdır.",
+      "Motivasyon davranışı harekete geçiren gücü; iş doyumu ise çalışanın işine yönelik genel memnuniyetini ifade eder.",
+      "Motivasyon yalnızca dışsal ödüllerden, iş doyumu yalnızca terfiden oluşur.",
+      "İki kavram arasında hiçbir etkileşim bulunmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Motivasyon ve iş doyumu kavramları. Motivasyon eylemi başlatan ve sürdüren gücü, iş doyumu ise işe yönelik olumlu veya olumsuz tutumu anlatır; kavramlar ilişkili olsa da aynı değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-137-4m5n",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetimde hedeflerin belirlenmesi ____ fonksiyonuyla; gerçekleşen sonuçların hedeflerle karşılaştırılması ise ____ fonksiyonuyla ilgilidir.",
+    "options": [
+      "Örgütleme / yöneltme",
+      "Planlama / denetim",
+      "Denetim / planlama",
+      "Yöneltme / örgütleme",
+      "Kadrolama / koordinasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yönetim fonksiyonları. Hedef ve yol belirleme planlamanın, sonuçları hedeflerle karşılaştırma denetimin işidir; fonksiyonların görev alanları ters değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-138-i3yr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Grup üyelerinin önce bireysel olarak fikir ürettiği, ardından fikirlerin yapılandırılmış biçimde paylaşılıp oylama ile önceliklendirildiği karar tekniği hangisidir?",
+    "options": [
+      "Beyin fırtınası",
+      "Delphi tekniği",
+      "Nominal grup tekniği",
+      "Otokratik karar alma",
+      "Kaçınma"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Grup karar teknikleri. Nominal grup tekniği bireysel fikir üretimi, yapılandırılmış paylaşım ve oylamayı birleştirir; beyin fırtınasında değerlendirme daha serbest aşamada ertelenir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-139-523l",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Hedeflerle yönetim yaklaşımıyla ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Hedeflerin çalışanla yönetici arasında netleştirilmesi önemlidir.\nII. İlerleme belirli dönemlerde gözden geçirilir.\nIII. Hedefler ölçülemez olmalıdır.\nIV. Sonuçlar geri bildirim ve gelişim amacıyla değerlendirilir.",
+    "options": [
+      "I ve III",
+      "II ve III",
+      "I, II ve IV",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Hedeflerle yönetim yaklaşımı. I, II ve IV bu yaklaşımın unsurlarıdır; III numaralı ifade ölçülebilir hedef ilkesine aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-140-qkem",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel adalet ilkesiyle bağdaşmayan yönetici davranışı hangisidir?",
+    "options": [
+      "Benzer durumları tutarlı ölçütlerle değerlendirmek",
+      "Karar gerekçelerini açıklamak",
+      "Görev dağıtımında nesnel verilerden yararlanmak",
+      "İtiraz ve geri bildirim kanalı tanımak",
+      "Benzer durumdaki çalışanlara kişisel yakınlığa göre farklı ölçütler uygulamak"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Örgütsel adalet. Kişisel yakınlığa göre farklı ölçüt uygulamak adaletle bağdaşmaz; tutarlılık ve gerekçelendirme adalet algısını güçlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-141-1xvs",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir faaliyet tamamlandıktan sonra sonuçların değerlendirildiği denetim türüne ne ad verilir?",
+    "options": [
+      "Son (sonuç) denetimi",
+      "Eş zamanlı denetim",
+      "Ön denetim",
+      "İç denetim",
+      "Mali denetim"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Son (sonuç) denetimi soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Eş zamanlı denetim ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-142-tvdm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yetki devriyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Yönetici belirli karar yetkilerini astına devredebilir.\nII. Nihai hesap verme sorumluluğu yöneticide kalır.\nIII. Yetki devri, yöneticinin sonuçları izlemeyi tamamen bırakmasıdır.\nIV. Açık görev sınırları çalışan gelişimini destekleyebilir.",
+    "options": [
+      "I ve II",
+      "I ve III",
+      "II, III ve IV",
+      "I, II ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yetki devri ilkeleri. I, II ve IV doğrudur; III yanlıştır çünkü yetki devri izleme ve hesap verebilirliği ortadan kaldırmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-143-2v61",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, bir işi tamamlamak için ayrılan sürenin uzunluğuna bakılmaksızın işin genişleyip o süreyi doldurma eğilimine ne ad verilir?",
+    "options": [
+      "Pareto ilkesi",
+      "Kaizen",
+      "SWOT analizi",
+      "Parkinson Yasası",
+      "SMART hedef"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Parkinson Yasası soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Pareto ilkesi ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-144-br74",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Açık görev tanımlarının sonuçlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Görev sınırlarını görünür kılar.",
+      "Yetki ve sorumluluk ilişkisini netleştirebilir.",
+      "Hesap verebilirliği destekleyebilir.",
+      "Sorumluluk ve yetki sınırlarını daha belirsiz hâle getirir.",
+      "İşler arası koordinasyon ihtiyacını görünür kılabilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: İş tanımı ve hesap verebilirlik. Açık görev tanımları belirsizliği artırmaz, azaltır; yetki ve sorumlulukların netleşmesine katkı sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-145-b5n4",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda boşalan bir pozisyon için öncelikle kurum içindeki personelin değerlendirilmesine ne ad verilir?",
+    "options": [
+      "Dış kaynak kullanımı",
+      "Denetim",
+      "Kadrolama dışı yöntem",
+      "Delegasyon",
+      "İç kaynak kullanımı"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; İç kaynak kullanımı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Dış kaynak kullanımı ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-146-cosz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Weberyen bürokrasiyle ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Biçimsel kurallar önem taşır.\nII. Görevler kişiden bağımsız, tanımlı rollere dayanır.\nIII. Atamalar öncelikle kişisel yakınlığa göre yapılır.\nIV. Hiyerarşik yetki düzeni bulunur.",
+    "options": [
+      "I ve II",
+      "I, II ve III",
+      "I, II ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Weberyen bürokrasi yaklaşımı. I, II ve IV modelin temel nitelikleridir; III liyakat ve kişisel olmayanlık ilkesiyle çelişir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-147-0iln",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İş tanımı ile iş gerekleri arasındaki farkı doğru yansıtan seçenek hangisidir?",
+    "options": [
+      "İş tanımı görevin içeriğini; iş gerekleri ise işi yapacak kişide bulunması gereken nitelikleri açıklar.",
+      "İş tanımı yalnızca ücret bilgilerini; iş gerekleri izin haklarını açıklar.",
+      "İş gerekleri görevin günlük faaliyetlerini; iş tanımı adayın kişilik özelliklerini açıklar.",
+      "İki belge yalnızca kamu kurumlarında aynı anlama gelir.",
+      "İş tanımı ve iş gerekleri işe alım sürecinde kullanılmaz."
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: İş analizi. İş tanımı görev ve sorumlulukları, iş gerekleri ise işi yapmak için gerekli bilgi, beceri ve nitelikleri açıklar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-148-csgk",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çatışma yönetimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Uzlaşma, tarafların bazı taleplerinden karşılıklı ödün vermesini içerebilir.",
+      "Kaçınma, bazı durumlarda konuyu geçici olarak ertelemeye dayanabilir.",
+      "Kalıcı çözüm için taraflar arası iletişimin kesilmesi gerekir.",
+      "İş birliği, ortak çözüm bulmayı hedefler.",
+      "Ödün verme, ilişkiyi koruma amacıyla kullanılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Çatışma yönetim stilleri. İletişimi kesmek kalıcı çözümün gereği değildir; iş birliği ve uzlaşma diyalog yoluyla çözüm arar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-149-fzqm",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda karar alma sürecinde tüm alternatifleri değerlendirmek yerine 'yeterince iyi' olan ilk çözümün kabul edilmesine ne ad verilir?",
+    "options": [
+      "Rasyonel karar alma",
+      "Grup düşüncesi",
+      "Sınırlı rasyonellik (doyumlama)",
+      "Katılımcı karar alma",
+      "Sezgisel otorite"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Sınırlı rasyonellik (doyumlama) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Rasyonel karar alma ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-150-8kdi",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanları ortak bir vizyon etrafında etkileyerek değişim ve gelişime yönelten liderlik tarzı ____ liderliktir.",
+    "options": [
+      "Etkileşimci",
+      "Pasif",
+      "Otokratik",
+      "Bürokratik",
+      "Dönüşümcü"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Dönüşümcü liderlik yaklaşımı. Ortak vizyonla ilham verme ve değişimi teşvik etme dönüşümcü liderliğin özelliğidir; etkileşimci liderlik daha çok ödül-ceza alışverişine dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-151-oxuf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütün var oluş nedenini ifade eden kavram ____; ulaşmak istediği geleceği ifade eden kavram ise vizyondur.",
+    "options": [
+      "Strateji",
+      "Politika",
+      "Değer",
+      "Misyon",
+      "Bütçe"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Misyon ve vizyon ayrımı. Misyon örgütün varlık nedenini, vizyon ise ulaşmak istediği geleceği açıklar; strateji bu geleceğe ulaşmak için izlenen yoldur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-152-tzxa",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşağıdakilerden hangisi merkeziyetçiliğin bir dezavantajı olabilir?",
+    "options": [
+      "Standardizasyonun sağlanması",
+      "Koordinasyonun kolaylaşması",
+      "Üst yönetimin genel kontrolü sağlaması",
+      "Tutarlılığın artması",
+      "Karar alma sürecinin yavaşlaması"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Karar alma sürecinin yavaşlaması soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Standardizasyonun sağlanması ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-153-5tbt",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Aşırı iş yükü ve uzun süreli stres sonucu ortaya çıkan tükenmişlik hâline ne ad verilir?",
+    "options": [
+      "Motivasyon",
+      "Tükenmişlik (burnout)",
+      "Empati",
+      "Örgütsel bağlılık",
+      "Delegasyon"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap B seçeneğidir; Tükenmişlik (burnout) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Motivasyon ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-154-4cxh",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderin astlarıyla ödül-ceza esasına dayalı bir ilişki kurduğu liderlik tarzına ne ad verilir?",
+    "options": [
+      "Dönüşümcü liderlik",
+      "Vizyoner liderlik",
+      "Karizmatik liderlik",
+      "Hizmetkar liderlik",
+      "Etkileşimci (transaksiyonel) liderlik"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Etkileşimci (transaksiyonel) liderlik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Dönüşümcü liderlik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-155-r6oz",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yenilikçilik kültürünü destekleyen uygulamalarla ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Yeni fikirlerin kontrollü biçimde denenmesi teşvik edilir.\nII. Hatalardan öğrenmeye alan açılır.\nIII. Mevcut uygulamalar hiçbir koşulda sorgulanmaz.\nIV. Farklı birimlerin birlikte fikir üretmesi desteklenir.",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "I, II ve IV",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yenilikçilik kültürü. I, II ve IV yenilikçiliği destekler; III numaralı ifade öğrenme ve gelişim kültürüne aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-156-i07j",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Görev dağılımı ilkeleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Görevin gerektirdiği bilgi ve beceri dikkate alınmalıdır.",
+      "Görevler, çalışanların yeterliliği ve mevcut iş yükü dikkate alınmadan kişisel yakınlığa göre verilmelidir.",
+      "Dağıtımın gerekçesi gerektiğinde açıklanabilmelidir.",
+      "Aşırı yük birikimi erken fark edilmelidir.",
+      "Görevler kurum hedefleriyle uyumlu planlanmalıdır."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Görev dağılımı ve liyakat. Kişisel yakınlığa dayalı, yeterliliği dikkate almayan dağıtım adil ve etkili değildir; beceri ve iş yükü esas alınmalıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-157-oata",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir çalışanın işine karşı duyduğu genel memnuniyet duygusuna ne ad verilir?",
+    "options": [
+      "İş tatmini",
+      "Motivasyon",
+      "Örgüt kültürü",
+      "Yetki",
+      "Denetim"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; İş tatmini soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Motivasyon ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-158-k8yl",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kararların büyük ölçüde lider tarafından alındığı, astların görüşünün alınmadığı liderlik tarzı hangisidir?",
+    "options": [
+      "Demokratik liderlik",
+      "Tam serbesti liderlik",
+      "Otokratik liderlik",
+      "Katılımcı liderlik",
+      "Destekleyici liderlik"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Otokratik liderlik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Demokratik liderlik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-159-8na9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fayol'un yönetim ilkelerinden \"disiplin\" ilkesi en çok hangi durumu ifade eder?",
+    "options": [
+      "Tüm kararların merkezde toplanmasını",
+      "Kuralların, taahhütlerin ve sorumlulukların tutarlı biçimde yerine getirilmesini",
+      "Her astın birden fazla amirden emir almasını",
+      "Yetkinin her durumda tamamen devredilmesini",
+      "Hiyerarşinin kaldırılmasını"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Fayol'un yönetim ilkeleri. Disiplin, kurallara ve taahhütlere uyumu ifade eder; merkeziyetçilik karar yetkisinin nerede toplandığıyla ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-160-bv9f",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Belirsiz bir çevrede farklı olası gelecekleri tasarlayıp her biri için stratejik seçenek geliştirme yaklaşımı hangisidir?",
+    "options": [
+      "Senaryo planlama",
+      "Günlük operasyon planı",
+      "Rutin iş çizelgeleme",
+      "Tepkisel yönetim",
+      "Dar görev tanımı"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Stratejik planlama. Senaryo planlama, belirsiz geleceklere ilişkin alternatif gelişmeleri ve olası stratejik tepkileri değerlendirmeyi sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-161-tp8r",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Faaliyet henüz başlamadan yapılan, hataları önceden engellemeyi amaçlayan denetim türüne ne ad verilir?",
+    "options": [
+      "Dış denetim",
+      "Eş zamanlı denetim",
+      "Son denetim",
+      "Ön (önleyici) denetim",
+      "Mali denetim"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Ön (önleyici) denetim soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Dış denetim ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-162-hfm8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Lewin'in Değişim Modeli'ndeki aşamaları doğru sırayla veren seçenek hangisidir?",
+    "options": [
+      "Yeniden dondurma - Değişim - Çözülme",
+      "Çözülme - Değişim - Yeniden dondurma",
+      "Değişim - Çözülme - Yeniden dondurma",
+      "Yeniden dondurma - Çözülme - Değişim",
+      "Değişim - Yeniden dondurma - Çözülme"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Lewin'in Değişim Modeli. Önce mevcut alışkanlıklar çözülür, sonra yeni uygulama hayata geçirilir ve son olarak kalıcılaştırılır; yeniden dondurma başlangıç aşaması değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-163-lmkq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir çalışanın kendisinden ne beklendiğini net olarak bilmemesine ne ad verilir?",
+    "options": [
+      "Rol belirsizliği",
+      "Rol çatışması",
+      "Rol standardizasyonu",
+      "Rol modellemesi",
+      "Görev tanımı"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Rol belirsizliği soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Rol çatışması ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-164-dppf",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir çalışanın fikirlerini bilinçli olarak yönetimle paylaşmamasına ne ad verilir?",
+    "options": [
+      "Örgütsel vatandaşlık",
+      "Örgütsel bağlılık",
+      "Motivasyon",
+      "İş tatmini",
+      "Örgütsel sessizlik"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Örgütsel sessizlik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Örgütsel vatandaşlık ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-165-m2l9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Belirli, ölçülebilir, ulaşılabilir, ilgili ve zaman sınırlı hedefler ____ hedefler olarak adlandırılır.",
+    "options": [
+      "Kaizen",
+      "SWOT",
+      "Reaktif",
+      "SMART",
+      "Bürokratik"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: SMART hedef yaklaşımı. SMART hedefler belirli, ölçülebilir, ulaşılabilir, ilgili ve zaman sınırlıdır; SWOT ise durum analizi aracıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-166-cdn9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Kurum içindeki bilgi akışının hangi kişiler ve birimler arasında, hangi kanallarla ilerlediğini gösteren düzenek hangi kavramla adlandırılır?",
+    "options": [
+      "İş analizi",
+      "Yönetim alanı",
+      "Performans standardı",
+      "Yetki devri",
+      "İletişim ağı"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Örgütsel iletişim. İletişim ağı, bilgiyi taşıyan kişi-birim ilişkileri ve kanalların bütünüdür; yönetim alanı ise bir yöneticinin ast sayısıyla ilgilidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-167-qk2t",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir işin farklı görevlerle çeşitlendirilerek can sıkıntısının azaltılmasına ne ad verilir?",
+    "options": [
+      "Denetim",
+      "İş basitleştirme",
+      "Kadrolama",
+      "İş rotasyonu",
+      "Delegasyon"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; İş rotasyonu soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Denetim ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-168-wpjd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir grup içinde bireylerin, sorumluluğun dağılması nedeniyle bireysel çabalarını azaltmasına ne ad verilir?",
+    "options": [
+      "Ekip ruhu",
+      "Motivasyon",
+      "Sosyal kaytarma",
+      "Liderlik",
+      "Empati"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Sosyal kaytarma soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Ekip ruhu ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-169-ylq9",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin sahip olduğu uzmanlık bilgisinden kaynaklanan güç türüne ne ad verilir?",
+    "options": [
+      "Yasal Güç",
+      "Ödül Gücü",
+      "Zorlayıcı Güç",
+      "Uzmanlık Gücü",
+      "Karizmatik Güç"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Uzmanlık Gücü soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Yasal Güç ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-170-8ljh",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Çalışanların mevcut yetkinlikleri ile gelecekte üstlenebilecekleri roller arasında planlı gelişim yolu oluşturma uygulaması hangisidir?",
+    "options": [
+      "Kadrolama",
+      "İş basitleştirme",
+      "Denetim",
+      "Örgüt şeması",
+      "Kariyer planlama"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Kariyer yönetimi. Kariyer planlama, çalışanların gelecekteki rol ve gelişim ihtiyaçlarını planlar; kadrolama mevcut pozisyonlara uygun personel sağlama fonksiyonudur.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-171-8t06",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin astlarına, kendi görev alanı üzerinde daha fazla karar yetkisi ve kontrol vermesine ne ad verilir?",
+    "options": [
+      "Merkeziyetçilik",
+      "Bürokrasi",
+      "Denetim",
+      "Güçlendirme (empowerment)",
+      "Hiyerarşi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Güçlendirme (empowerment) soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Merkeziyetçilik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-172-i5r2",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Farklı fikirlerin serbestçe ortaya atılıp değerlendirmenin sonraya bırakıldığı fikir üretim tekniğine ne ad verilir?",
+    "options": [
+      "Grup düşüncesi",
+      "Beyin fırtınası",
+      "Rol çatışması",
+      "Delegasyon",
+      "Sosyal kaytarma"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap B seçeneğidir; Beyin fırtınası soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Grup düşüncesi ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-173-lrpr",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "McGregor'un Y Kuramı'na göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İnsanlar çalışmayı sevmez",
+      "İnsanlar sorumluluktan kaçınır",
+      "İnsanları çalıştırmak için zorlamak gerekir",
+      "Kişi için iş, oyun ve dinlenme kadar doğaldır",
+      "İnsanlar yakından kontrol edilmelidir"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: McGregor'un X ve Y Kuramı. Doğru cevap D seçeneğidir; Kişi için iş, oyun ve dinlenme kadar doğaldır soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki İnsanlar çalışmayı sevmez ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-174-e520",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yönetim bilgi sistemleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Güncel veri karar verme hızını artırabilir.",
+      "Bilginin raporlanması performans takibini destekleyebilir.",
+      "Yönetim bilgi sistemleri, karar kalitesini artırmak için güncel bilgiye erişimi azaltmalıdır.",
+      "Farklı kaynaklardaki verilerin bütünleştirilmesine katkı sağlayabilir.",
+      "Yöneticilerin eğilimleri izlemesini kolaylaştırabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim bilgi sistemleri. Bu sistemler güncel ve bütünleşik bilgiye erişimi azaltmak için değil, artırmak için kullanılır; raporlama karar kalitesini destekler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-175-71ih",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Liderin kişisel çekiciliği, ilham verme gücü ve takipçileri üzerinde güçlü özdeşleşme yaratabilmesiyle açıklanan liderlik türü hangisidir?",
+    "options": [
+      "Etkileşimci liderlik",
+      "Bürokratik liderlik",
+      "Karizmatik liderlik",
+      "Laissez-faire liderlik",
+      "Teknik liderlik"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Karizmatik liderlik. Karizmatik liderlik, liderin kişisel çekiciliği ve takipçilerde yarattığı güçlü özdeşleşmeyle ilişkilidir; etkileşimci liderlik ödül-ceza alışverişine dayanır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-176-ve9g",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Fonksiyonel örgüt yapısı ile ürün temelli örgüt yapısını doğru karşılaştıran ifade hangisidir?",
+    "options": [
+      "Fonksiyonel yapı ürünlere, ürün temelli yapı yalnızca uzmanlık alanlarına göre kurulur.",
+      "Fonksiyonel yapı uzmanlık alanlarına; ürün temelli yapı ürün veya hizmet gruplarına göre birimleşir.",
+      "Her iki yapı da yalnızca geçici proje ekiplerinden oluşur.",
+      "Fonksiyonel yapı hiyerarşiyi tamamen kaldırır, ürün temelli yapı kaldırmaz.",
+      "Ürün temelli yapı karar yetkisinin her zaman merkezde toplanmasını gerektirir."
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: Örgüt tasarımı. Fonksiyonel yapı uzmanlığa göre, ürün temelli yapı ise çıktı veya hizmet gruplarına göre bölümlenir; ürün temelli yapı geçici proje örgütü değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-177-4rp1",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Yol-Amaç Kuramı bağlamında, liderin çalışanların ihtiyaçlarına duyarlılık gösterip onların refahını ve çalışma ortamını iyileştirmeye odaklanması hangi liderlik tarzıdır?",
+    "options": [
+      "Yönerge verici liderlik",
+      "Katılımcı liderlik",
+      "Başarı odaklı liderlik",
+      "Destekleyici liderlik",
+      "Otokratik liderlik"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: House'un Yol-Amaç Kuramı. Destekleyici liderlik çalışanların refahı ve ihtiyaçlarına duyarlılığı öne çıkarır; yönerge verici liderlik görev açıklığını vurgular.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-178-x496",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yönetici yeni kurum vizyonunu açıklarken, bu vizyonun birim hedefleriyle ilişkisini ve çalışanların katkısını da somutlaştırmaktadır. Bu iletişimin temel etkisi hangisidir?",
+    "options": [
+      "Çalışanlar arasındaki rol belirsizliğini artırmak",
+      "Vizyonu yalnızca üst yönetim bilgisi hâline getirmek",
+      "Günlük faaliyetleri ortak amaçtan koparmak",
+      "Ortak amaç duygusunu ve yön birliğini güçlendirmek",
+      "Geri bildirim ihtiyacını ortadan kaldırmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Vizyon iletişimi. Vizyonu birim hedefleri ve çalışan katkısıyla ilişkilendirmek ortak yön duygusunu güçlendirir; vizyonun kapalı tutulması sahiplenmeyi azaltır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-179-xmru",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yönetici, uygulama sonucunda elde edilen bilgiyi çalışanlara iletip onların tepkisini alıyor ve sonraki uygulamayı bu bilgiye göre düzenliyorsa hangi iletişim öğesini kullanmaktadır?",
+    "options": [
+      "Geri bildirim",
+      "Yetki devri",
+      "Merkeziyetçilik",
+      "Komuta birliği",
+      "Sosyal kaytarma"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: İletişim süreci. Geri bildirim, mesajın nasıl anlaşıldığını gösteren ve sonraki uygulamayı düzeltmeye yarayan bilgidir; yetki devri iletişim öğesi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-180-tnrn",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda farklı birimlerin faaliyetlerini ortak amaç doğrultusunda uyumlu hâle getirme işlevi hangisidir?",
+    "options": [
+      "Resmî kural koyma",
+      "İşe alım",
+      "Bütçe tahmini",
+      "Bireysel performans ölçümü",
+      "Koordinasyon"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Koordinasyon. Koordinasyon, farklı birim ve faaliyetlerin ortak amaç doğrultusunda uyumunu sağlar; işe alım personel sağlama işlevine girer.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-181-4h76",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Herzberg'in çift faktör kuramına göre ücret, iş güvenliği ve çalışma koşulları hangi grupta değerlendirilir?",
+    "options": [
+      "Başarı faktörleri",
+      "Gelişim faktörleri",
+      "Hijyen faktörleri",
+      "Kendini gerçekleştirme faktörleri",
+      "Referans güç faktörleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Herzberg'in çift faktör kuramı. Ücret, iş güvenliği ve çalışma koşulları hijyen faktörleridir; başarı ve tanınma ise güdüleyici faktörler arasında değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-182-rxng",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda işlerin, görev ve yetkilerin dağıtılarak yapının kurulmasına ne ad verilen yönetim fonksiyonudur?",
+    "options": [
+      "Planlama",
+      "Yöneltme",
+      "Denetim",
+      "Örgütleme",
+      "Kadrolama"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Örgütleme soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Planlama ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-183-mjet",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Grup dinamikleri ve liderlik tarzları deneyleriyle tanınan sosyal psikolog kimdir?",
+    "options": [
+      "Henri Fayol",
+      "Max Weber",
+      "Elton Mayo",
+      "Frederick Taylor",
+      "Kurt Lewin"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Lewin'in Değişim Modeli ve Güç Alanı Analizi. Doğru cevap E seçeneğidir; Kurt Lewin soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Henri Fayol ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-184-geer",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin çalışan motivasyonunu desteklemek için kullanabileceği en uygun uygulama hangisidir?",
+    "options": [
+      "Başarıyı görmezden gelmek",
+      "Geri bildirimi süresiz ertelemek",
+      "Hedefleri belirsiz bırakmak",
+      "Başarıyı somut ölçütlerle takdir etmek",
+      "Sorumluluk alanlarını sürekli daraltmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Motivasyon ilkeleri. Somut başarıyı takdir etmek olumlu pekiştirme sağlar; hedef belirsizliği ve geri bildirimin ertelenmesi motivasyonu zayıflatabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-185-a011",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Hersey ve Blanchard'ın durumsal liderlik yaklaşımında liderlik tarzının belirlenmesinde aşağıdaki unsurlardan hangisi özellikle önemlidir?",
+    "options": [
+      "Kurum binasının fiziki büyüklüğü",
+      "Yöneticinin yaşı",
+      "Bütçe dönemi",
+      "Örgüt şemasındaki renkler",
+      "Çalışanın yetkinlik ve isteklilik düzeyi"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Hersey ve Blanchard'ın durumsal liderlik yaklaşımı. Lider davranışı çalışanların yetkinlik ve isteklilik düzeyine göre uyarlanır; kurum binasının büyüklüğü belirleyici değişken değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-186-ykv7",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir örgütte karar yetkisinin üst yönetimde toplanmasına ne ad verilir?",
+    "options": [
+      "Ademi merkeziyetçilik",
+      "Katılımcılık",
+      "Yetki devri",
+      "Merkeziyetçilik",
+      "Koordinasyon"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap D seçeneğidir; Merkeziyetçilik soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Ademi merkeziyetçilik ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-187-dzma",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir kurumda iş yükü dengesi uzun süre sağlanmadığında aşağıdaki sonuçlardan hangisi en olasıdır?",
+    "options": [
+      "Tüm çalışanlarda aynı düzeyde gelişim fırsatı oluşması",
+      "İş süreçlerinin kendiliğinden daha adil hâle gelmesi",
+      "Bazı çalışanlarda tükenmişlik, bazılarında ise atıl kapasite görülmesi",
+      "Takım içi güvenin otomatik olarak artması",
+      "Görev önceliklerinin gereksiz hâle gelmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: İş yükü yönetimi. Süreğen dengesizlik bazı çalışanlarda aşırı yük ve tükenmişlik, diğerlerinde atıl kapasite yaratabilir; adil dağılım bu riski azaltır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-188-lyw6",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Benzer işlerin yazılı yöntem, ölçüt ve kurallara göre yürütülmesini ifade eden kavram hangisidir?",
+    "options": [
+      "Standartlaştırma",
+      "Merkeziyetçilik",
+      "Yetki genişliği",
+      "Delegasyon",
+      "Gayri resmîleşme"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Örgütleme mekanizmaları. Standartlaştırma, işlerin ortak yöntem ve ölçütlerle yürütülmesini sağlar; merkeziyetçilik karar yetkisinin nerede toplandığını ifade eder.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-189-rji8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, kurumun uzun vadeli hedeflerine ulaşmak için izlediği genel yol haritasına ne ad verilir?",
+    "options": [
+      "Kadrolama",
+      "Bütçe",
+      "Denetim raporu",
+      "İş tanımı",
+      "Strateji"
+    ],
+    "answer_index": 4,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap E seçeneğidir; Strateji soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Kadrolama ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-190-xw0u",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Maslow'a göre iş güvencesi, sağlık güvencesi gibi ihtiyaçlar hangi kategoriye girer?",
+    "options": [
+      "Fizyolojik ihtiyaçlar",
+      "Saygı",
+      "Sevgi ve ait olma",
+      "Güvenlik ihtiyacı",
+      "Kendini gerçekleştirme"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Maslow'un İhtiyaçlar Hiyerarşisi Kuramı. Doğru cevap D seçeneğidir; Güvenlik ihtiyacı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Fizyolojik ihtiyaçlar ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-191-p5q8",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Güç kaynaklarıyla ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Zorlayıcı güç cezalandırma kapasitesinden doğar.\nII. Ödül gücü değerli sonuç veya imkân sunabilmeye dayanır.\nIII. Uzmanlık gücü yalnızca resmî makamdan kaynaklanır.\nIV. Referans gücü kişiyle özdeşleşme isteğinden doğabilir.",
+    "options": [
+      "I, II ve IV",
+      "I ve III",
+      "II ve III",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Güç kaynakları sınıflaması. I, II ve IV doğrudur; uzmanlık gücü makamdan değil bilgi, deneyim ve yetkinlikten doğar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-192-wneg",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Süreç yönetimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Süreçler girdiler, faaliyetler ve çıktılar bakımından tanımlanabilir.",
+      "Ölçümler iyileştirme alanlarını belirlemeye yardımcı olur.",
+      "Süreç yönetiminde ölçülebilir çıktılara gerek yoktur; bireysel tercihler yeterlidir.",
+      "Süreçler arası devir noktaları koordinasyon açısından önem taşır.",
+      "Standartlaştırma uygun olduğunda değişkenliği azaltabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Süreç yönetimi. Ölçülebilir çıktı ve performans göstergeleri süreç iyileştirmesinin temelidir; bireysel tercihler tek başına yeterli değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-193-q036",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir çalışanın işin kendisinden aldığı tatmin nedeniyle motive olmasına ne ad verilir?",
+    "options": [
+      "İçsel motivasyon",
+      "Dışsal motivasyon",
+      "Olumsuz motivasyon",
+      "Zorunlu motivasyon",
+      "Kısmi motivasyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; İçsel motivasyon soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Dışsal motivasyon ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-194-q3vc",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İnformal liderin ayırt edici özelliği hangisidir?",
+    "options": [
+      "Mutlaka en üst resmî unvana sahip olması",
+      "Resmî bir unvanı olmasa da grup üzerinde etki yaratabilmesi",
+      "Etkisini yalnızca yazılı yetkiden alması",
+      "Örgüt şemasında zorunlu olarak ayrı bir kutuda yer alması",
+      "Görev tanımıyla önceden atanmış olması"
+    ],
+    "answer_index": 1,
+    "explanation": "Dayanak: İnformal liderlik. İnformal lider, resmî unvana sahip olmadan güven, uzmanlık veya ilişki ağı sayesinde etki yaratabilir; biçimsel yetki zorunlu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-195-yapq",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "İşlerin uzmanlık alanlarına göre bölündüğü, her birimin kendi alanında (mali, personel, hukuk vb.) örgütlendiği yapıya ne ad verilir?",
+    "options": [
+      "Matris yapı",
+      "Coğrafi yapı",
+      "Fonksiyonel yapı",
+      "Ürün bazlı yapı",
+      "Ağ yapı"
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap C seçeneğidir; Fonksiyonel yapı soru kökündeki tanım veya ilişkiyle örtüşür. A seçeneğindeki Matris yapı ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-196-d9pd",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Örgütsel gelişim çalışmalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kurumun değişen koşullara uyum kapasitesini artırmayı amaçlayabilir.",
+      "İş birliği ve öğrenmeyi destekleyen müdahaleler içerebilir.",
+      "Örgütsel gelişimin temel amacı mevcut uygulamaları değişmeden korumak ve uyumu engellemektir.",
+      "Süreçlerin ve ilişkilerin iyileştirilmesine odaklanabilir.",
+      "Geri bildirim verilerinden yararlanabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Dayanak: Örgütsel gelişim. Örgütsel gelişim uyumu engellemek için değil, kurumun etkinliğini ve değişime yanıtını artırmak için yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-197-wx8c",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Esnek çalışma uygulamasının uygun tasarım ve koordinasyonla kurum ve çalışanlar açısından sağlayabileceği olası fayda hangisidir?",
+    "options": [
+      "İletişim gereksinimini tamamen ortadan kaldırması",
+      "Performans hedeflerini gereksiz kılması",
+      "Yönetici rolünü yok etmesi",
+      "İş-yaşam dengesini ve çalışan memnuniyetini desteklemesi",
+      "Tüm ekiplerde verimliliği otomatik olarak düşürmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Dayanak: Esnek çalışma uygulamaları. Esnek çalışma uygun koordinasyonla iş-yaşam dengesini ve memnuniyeti destekleyebilir; iletişim ve performans yönetimi ihtiyacını ortadan kaldırmaz.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-198-s56n",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir yöneticinin, kurum hedeflerine ulaşmak için gerekli kaynakları (insan, para, malzeme) en verimli biçimde kullanmasına ne ad verilir?",
+    "options": [
+      "Verimlilik",
+      "Savurganlık",
+      "Bürokrasi",
+      "Merkeziyetçilik",
+      "Delegasyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Yönetim, liderlik ve organizasyonun temel kavramları. Doğru cevap A seçeneğidir; Verimlilik soru kökündeki tanım veya ilişkiyle örtüşür. B seçeneğindeki Savurganlık ise bu kapsamda değerlendirilmez.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetim-liderlik-mt8tp7sd-199-tkas",
+    "topic_id": "yonetim-liderlik",
+    "prompt": "Bir grup, uyumu koruma baskısı nedeniyle alternatifleri yeterince değerlendirmeden tek bir kararı kabul ediyorsa bu durum hangi kavramla açıklanır?",
+    "options": [
+      "Grup düşüncesi",
+      "Sosyal kaytarma",
+      "Beyin fırtınası",
+      "Delegasyon",
+      "Rol belirsizliği"
+    ],
+    "answer_index": 0,
+    "explanation": "Dayanak: Grup karar süreçleri. Grup düşüncesi, uyum baskısı nedeniyle eleştirel değerlendirmeyi azaltır; sosyal kaytarma ise bireysel çabanın grupta azalmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T15:31:53.676533+00:00",
+    "updated_at": "2026-08-25T15:31:53.676533+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-0-9x91",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kurul üyelerinin görev süresi ---- yıldır; süresi dolan üyeler Cumhurbaşkanınca ---- seçilebilir.",
+    "options": [
+      "dört / yeniden",
+      "üç / bir kez",
+      "beş / hiçbir zaman",
+      "altı / yeniden",
+      "iki / tekrar"
+    ],
+    "answer_index": 0,
+    "explanation": "Görev süresi dört yıldır ve süresi dolan üyeler yeniden seçilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-1-m5h0",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi 'Bilgi Verme, Saydamlık ve Katılımcılık' ilkesiyle ilgilidir?",
+    "options": [
+      "Bilgiyi mümkün olduğunca gizli tutmak",
+      "Halkın bilgi edinme hakkını kullanmasına yardımcı olmak",
+      "Kararların gerekçesini paylaşmamak",
+      "Vatandaşı süreçlerden uzak tutmak",
+      "Şeffaflığı önemsememek"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-10-0m4m",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu Görevlileri Etik Kuruluna yapılan başvurular, Kurul tarafından başvurunun kayda alındığı tarihten itibaren en geç ne kadar süre içinde incelenip karara bağlanmak zorundadır?",
+    "options": [
+      "1 ay",
+      "2 ay",
+      "3 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Kurul, kendisine yapılan başvuruları kayda geçtiği tarihten itibaren en geç 3 (üç) ay içinde inceler ve karara bağlar.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-100-5hb1",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir memurun, görevden ayrıldıktan sonra eski çalıştığı kurumdan haksız avantaj sağlaması hangi ilkeye aykırıdır?",
+    "options": [
+      "Nezaket ve saygı",
+      "Savurganlıktan kaçınma",
+      "Kamu malları kullanımı",
+      "Bilgi verme ve saydamlık",
+      "Eski kamu görevlileriyle ilişkiler"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-101-siof",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi yöneticilerin personeline sağlaması gereken bir yükümlülüktür?",
+    "options": [
+      "Etik davranış ilkeleri konusunda eğitim sağlamak",
+      "Personeli bilgilendirmemek",
+      "Denetimden kaçınmak",
+      "Kuralları belirsiz bırakmak",
+      "Rehberlik etmemek"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-102-iy87",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi 'liyakat' ilkesini en iyi tanımlar?",
+    "options": [
+      "Görevlendirmelerin siyasi görüşe göre yapılması",
+      "Görevlendirmelerin akrabalık ilişkisine göre yapılması",
+      "Görevlendirmelerin kişinin bilgi, beceri ve yeterliliğine göre yapılması",
+      "Görevlendirmelerin kıdeme bakılmaksızın rastgele yapılması",
+      "Görevlendirmelerin yalnızca sınav sonucuna bakılmadan yapılması"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-103-e0ld",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik komisyonuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kurum içinden en az üç kişiden oluşur",
+      "Üst yönetici tarafından oluşturulur",
+      "Kurul ile işbirliği içinde çalışır",
+      "Üyelerin bilgileri üç ay içinde Kurula bildirilir",
+      "Etik komisyonu üyeleri mutlaka kurum dışından atanır"
+    ],
+    "answer_index": 4,
+    "explanation": "Etik komisyonu üyeleri kurum İÇİNDEN seçilir, kurum dışından değil.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-104-n5ld",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi etik ihlal bildiren kişinin (ihbarcının) korunmasıyla ilgili doğru bir ifadedir?",
+    "options": [
+      "İhbarcı otomatik olarak cezalandırılır",
+      "Kimliği her zaman açıklanmalıdır",
+      "Hiçbir koruma sağlanmaz",
+      "Koruma yalnızca üst düzey personel için geçerlidir",
+      "Kimliği gizli tutulmalı ve zarar görmemesi için tedbir alınmalıdır"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-105-czgr",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Şikayet edilen kamu görevlisinin savunmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Savunma süresi 10 gündür",
+      "Süre, istem yazısının tebliğini izleyen günden başlar",
+      "Süre sonu resmi tatile denk gelirse izleyen iş günü esas alınır",
+      "Savunma alınmadan karar verilemez",
+      "Savunma süresi hiçbir koşulda uzatılamaz veya değiştirilemez"
+    ],
+    "answer_index": 4,
+    "explanation": "Sürenin son gününün resmi tatile denk gelmesi halinde izleyen çalışma günü esas alınır; bu bir tür uzamadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-106-skuu",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kurula başvuru yetkisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "En az genel müdür seviyesindekiler hakkında Kurula başvurulabilir",
+      "Diğer kamu görevlileri için disiplin kuruluna başvurulur",
+      "Hangi unvanların genel müdür eşiti sayılacağını Kurul belirler",
+      "Yargıda görülen uyuşmazlıklar hakkında başvuru yapılamaz",
+      "Her kamu görevlisi hakkında, unvanına bakılmaksızın doğrudan Kurula başvurulabilir"
+    ],
+    "answer_index": 4,
+    "explanation": "Sadece en az genel müdür seviyesindekiler için doğrudan Kurula başvurulabilir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-107-szcz",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu görevlisinin, görevini kullanarak yakınına iş kayırması hangi ilkeyi ihlal eder?",
+    "options": [
+      "Nezaket ve saygı",
+      "Görev ve yetkilerin menfaat sağlamak amacıyla kullanılmaması",
+      "Bilgi verme ve saydamlık",
+      "Savurganlıktan kaçınma",
+      "Yetkili makamlara bildirim"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-108-qyar",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir toplumun uzun süredir uyguladığı, kırılması güç sayılan davranış kurallarına ne ad verilir?",
+    "options": [
+      "Töre",
+      "Görenek",
+      "Kanun",
+      "Yönetmelik",
+      "Genelge"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-109-rwgu",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir memurun benzer durumdaki iki vatandaşa farklı işlem uygulaması hangi ilkeye aykırıdır?",
+    "options": [
+      "Eşitlik ve adalet ilkesi",
+      "Nezaket ilkesi",
+      "Savurganlıktan kaçınma",
+      "Kamu malları kullanımı",
+      "Amaç ve misyona bağlılık"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-11-h9wc",
+    "topic_id": "yonetimde-etik",
+    "prompt": "İnsanın düşünce, eylem ve dilinde ortaya çıkan ahlaki öğelerin doğasını ve anlamını çözümlemeye çalışan etik türü hangisidir?",
+    "options": [
+      "Normatif Etik",
+      "Meta Etik",
+      "Uygulamalı Etik",
+      "Sosyal Etik",
+      "Bireysel Etik"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-110-vdsy",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu görevlisinin, kurumla ilgili hukuka aykırı bir uygulamayı gördüğünde durumu yetkili makamlara bildirmesi hangi ilkenin gereğidir?",
+    "options": [
+      "Eski kamu görevlileriyle ilişkiler",
+      "Savurganlıktan kaçınma",
+      "Kamu malları kullanımı",
+      "Nezaket ve saygı",
+      "Yetkili makamlara bildirim"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-111-reyf",
+    "topic_id": "yonetimde-etik",
+    "prompt": "5176 sayılı Kanun'a göre Kamu Görevlileri Etik Kurulunun sekretarya hizmetleri hangi kurum tarafından yürütülür?",
+    "options": [
+      "Adalet Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Türkiye Büyük Millet Meclisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Kurulun 2025 yılı Faaliyet Raporunda sekretarya hizmetlerinin Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yürütüldüğü belirtilmektedir. Bu tür idari görevler zaman içinde değişebileceğinden rapor yılı önemlidir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-112-aaj2",
+    "topic_id": "yonetimde-etik",
+    "prompt": "En az genel müdür ve üstü görevliler, aldıkları belirli hediyelerin listesini her yıl hangi aya kadar Kurula bildirmekle yükümlüdür?",
+    "options": [
+      "Haziran",
+      "Mart",
+      "Ocak",
+      "Eylül",
+      "Aralık"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-113-sqwy",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik Sözleşme'yi imzalayan kamu görevlisi, hizmetten yararlananlara karşı nasıl davranmayı taahhüt eder?",
+    "options": [
+      "Ayrım gözeterek davranmayı",
+      "Sadece resmi yazışmalarla iletişim kurmayı",
+      "Hizmet hızını önemsememeyi",
+      "İlgili, nazik, ölçülü ve saygılı davranmayı",
+      "Hiçbir taahhütte bulunmaz"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-114-b5rx",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdaki ifadelerden hangileri Etik Kurul üyeliği için Kanunda sayılan gruplar arasında yer alır?\nI. Bakanlık görevi yapmış olanlar\nII. İl belediye başkanlığı yapmış olanlar\nIII. Aktif görevdeki hakimler\nIV. Üniversitelerde rektörlük/dekanlık yapmış öğretim üyeleri",
+    "options": [
+      "Yalnız I",
+      "I, II ve IV",
+      "I ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Aktif görevdeki hakimler Kanunda sayılan altı üyelik grubunda yer almaz; yargı mensupları zaten Kanun kapsamı dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-115-6075",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi Kamu Görevlileri Etik Davranış İlkeleri Yönetmeliği'nde yer alan ilkelerden biri değildir?",
+    "options": [
+      "Kişisel çıkarları önceleme",
+      "Nezaket ve saygı",
+      "Çıkar çatışmasından kaçınma",
+      "Halka hizmet bilinci",
+      "Saygınlık ve güven"
+    ],
+    "answer_index": 0,
+    "explanation": "Yönetmelik kişisel çıkarların önceliklendirilmesini değil, kamu yararının gözetilmesini öngörür.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-116-npgn",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Sadece aynı memleketten olduğu için bir çalışana ayrıcalık tanınmasına ne ad verilir?",
+    "options": [
+      "Liyakat",
+      "Adalet",
+      "Objektiflik",
+      "Tarafsızlık",
+      "Hemşehri kayırmacılığı"
+    ],
+    "answer_index": 4,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-117-ezd5",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu görevlisinin, seçim kampanyasında kurumunun araç ve imkanlarını kullanması hangi ilkeye aykırıdır?",
+    "options": [
+      "Nezaket ve saygı",
+      "Görev ve yetkilerin menfaat sağlamak amacıyla kullanılmaması",
+      "Bilgi verme ve saydamlık",
+      "Savurganlıktan kaçınma",
+      "Eski kamu görevlileriyle ilişkiler"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-118-ppiz",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Yönetmeliğe göre kamu görevlileri kimlerle ilgili eş, dost, akraba veya hemşehri kayırmacılığı yapamaz?",
+    "options": [
+      "Sadece üstleriyle ilgili",
+      "Görev, unvan ve yetkilerini kullanarak hiç kimseye",
+      "Sadece kendi ailesiyle ilgili",
+      "Sadece iş arkadaşlarıyla ilgili",
+      "Bu konuda bir kısıtlama yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-119-cdx0",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Aşağıdakilerden hangisi Yönetmeliğe göre hediye alma yasağı kapsamında olan bir durumdur?",
+    "options": [
+      "Halka açık bir yarışmada kazanılan ödül",
+      "Herkese dağıtılan sembolik değerli reklam ürünü",
+      "Konferansta verilen hatıra niteliğindeki hediye",
+      "İş ilişkisi olan kişiden alınan ücretsiz konaklama",
+      "Piyasa koşullarına göre finans kurumundan alınan kredi"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-12-l4kr",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kurumda etik kültürünün yerleştirilme süreci, aşağıdaki adımlardan hangi sırayla ilerlemesi beklenir?",
+    "options": [
+      "Personeli bilgilendirme - eğitim - etik sözleşme imzalatma - komisyon oluşturma - izleme",
+      "İzleme - komisyon - eğitim - bilgilendirme",
+      "Komisyon - izleme - bilgilendirme - eğitim",
+      "Eğitim - izleme - komisyon - bilgilendirme",
+      "İzleme - bilgilendirme - eğitim - komisyon"
+    ],
+    "answer_index": 0,
+    "explanation": "Süreç genellikle bilgilendirme, eğitim, sözleşme imzalatma, komisyon oluşturma ve izlemeyle ilerler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-120-vtmt",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Etik Kurul üyeleri, Kurulun yürüttüğü incelemelerle ilgili öğrendikleri gizli bilgi ve belgeleri görevleri sona erdikten sonra açıklayabilirler mi?",
+    "options": [
+      "Evet, emekli olduktan sonra açıklayabilirler.",
+      "Evet, ancak sadece Cumhurbaşkanına açıklayabilirler.",
+      "Hayır, sır saklama yükümlülüğü görevleri sona erse bile devam eder.",
+      "Sadece kitap yazmak amacıyla açıklayabilirler.",
+      "Evet, 5 yıl geçtikten sonra açıklayabilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Etik Kurul başkan ve üyeleri ile sekretarya personeli, görevleri dolayısıyla öğrendikleri gizli kalması gereken bilgi ve belgeleri görevlerinden ayrılsalar dahi ifşa edemezler.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-121-aycp",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Kamu görevlilerinin uyması gereken etik davranış ilkelerini hazırlayan, ihlal iddialarını inceleyen ve etik kültürünü yerleştirmekle görevli organ aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Kamu Görevlileri Etik Kurulu",
+      "Kamu Denetçiliği Kurumu",
+      "Sayıştay",
+      "Danıştay",
+      "Devlet Personel Başkanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Bu görevler 5176 sayılı Kanun'un 3. maddesine göre Kurula aittir.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  },
+  {
+    "id": "yonetimde-etik-mt90hd9b-122-eqx4",
+    "topic_id": "yonetimde-etik",
+    "prompt": "Bir kamu görevlisinin, iş takibini hızlandırmak karşılığında para veya menfaat talep etmesi hangi kavramla ilişkilidir?",
+    "options": [
+      "Rüşvet",
+      "Liyakat",
+      "Tarafsızlık",
+      "Adalet",
+      "Nezaket"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:41:45.276351+00:00",
+    "updated_at": "2026-08-25T18:41:45.276351+00:00"
+  }
+]

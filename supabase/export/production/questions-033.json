@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "topic-guncel-mtn84yac-643-2smo",
+    "topic_id": "topic-guncel",
+    "prompt": "'Tutunamayanlar' adlı eserin yazarı kimdir?",
+    "options": [
+      "Peyami Safa",
+      "Recaizade Mahmut Ekrem",
+      "Refik Halit Karay",
+      "Oğuz Atay",
+      "Reşat Nuri Güntekin"
+    ],
+    "answer_index": 3,
+    "explanation": "'Tutunamayanlar', Oğuz Atay tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-644-amlm",
+    "topic_id": "topic-guncel",
+    "prompt": "'Anayurt Oteli' adlı eserin yazarı kimdir?",
+    "options": [
+      "Ahmet Hamdi Tanpınar",
+      "Halide Edib Adıvar",
+      "Halit Ziya Uşaklıgil",
+      "Kemal Tahir",
+      "Yusuf Atılgan"
+    ],
+    "answer_index": 4,
+    "explanation": "'Anayurt Oteli', Yusuf Atılgan tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-645-9025",
+    "topic_id": "topic-guncel",
+    "prompt": "'Aylak Adam' adlı eserin yazarı kimdir?",
+    "options": [
+      "Yusuf Atılgan",
+      "Ahmet Hamdi Tanpınar",
+      "Halide Edib Adıvar",
+      "Halit Ziya Uşaklıgil",
+      "Kemal Tahir"
+    ],
+    "answer_index": 0,
+    "explanation": "'Aylak Adam', Yusuf Atılgan tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-646-pbo2",
+    "topic_id": "topic-guncel",
+    "prompt": "'Bereketli Topraklar Üzerinde' adlı eserin yazarı kimdir?",
+    "options": [
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat",
+      "Orhan Kemal",
+      "Oğuz Atay",
+      "Peyami Safa",
+      "Recaizade Mahmut Ekrem"
+    ],
+    "answer_index": 1,
+    "explanation": "'Bereketli Topraklar Üzerinde', Orhan Kemal tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-647-n3py",
+    "topic_id": "topic-guncel",
+    "prompt": "'Hanımın Çiftliği' adlı eserin yazarı kimdir?",
+    "options": [
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat",
+      "Oğuz Atay",
+      "Orhan Kemal",
+      "Peyami Safa",
+      "Recaizade Mahmut Ekrem"
+    ],
+    "answer_index": 2,
+    "explanation": "'Hanımın Çiftliği', Orhan Kemal tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-648-pnfd",
+    "topic_id": "topic-guncel",
+    "prompt": "'Kuyucaklı Yusuf' adlı eserin yazarı kimdir?",
+    "options": [
+      "Sait Faik Abasıyanık",
+      "Samipaşazade Sezai",
+      "Yakup Kadri Karaosmanoğlu",
+      "Sabahattin Ali",
+      "Yaşar Kemal"
+    ],
+    "answer_index": 3,
+    "explanation": "'Kuyucaklı Yusuf', Sabahattin Ali tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-649-p225",
+    "topic_id": "topic-guncel",
+    "prompt": "'Devlet Ana' adlı eserin yazarı kimdir?",
+    "options": [
+      "Mehmet Rauf",
+      "Mehmet Âkif Ersoy",
+      "Mithat Cemal Kuntay",
+      "Orhan Kemal",
+      "Kemal Tahir"
+    ],
+    "answer_index": 4,
+    "explanation": "'Devlet Ana', Kemal Tahir tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-650-r2hh",
+    "topic_id": "topic-guncel",
+    "prompt": "'Sinekli Bakkal' adlı eserin yazarı kimdir?",
+    "options": [
+      "Halide Edib Adıvar",
+      "Halit Ziya Uşaklıgil",
+      "Kemal Tahir",
+      "Mehmet Rauf",
+      "Mehmet Âkif Ersoy"
+    ],
+    "answer_index": 0,
+    "explanation": "'Sinekli Bakkal', Halide Edib Adıvar tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-651-02nr",
+    "topic_id": "topic-guncel",
+    "prompt": "'Ateşten Gömlek' adlı eserin yazarı kimdir?",
+    "options": [
+      "Halit Ziya Uşaklıgil",
+      "Halide Edib Adıvar",
+      "Kemal Tahir",
+      "Mehmet Rauf",
+      "Mehmet Âkif Ersoy"
+    ],
+    "answer_index": 1,
+    "explanation": "'Ateşten Gömlek', Halide Edib Adıvar tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-652-6qdl",
+    "topic_id": "topic-guncel",
+    "prompt": "'Yaprak Dökümü' adlı eserin yazarı kimdir?",
+    "options": [
+      "Sabahattin Ali",
+      "Sait Faik Abasıyanık",
+      "Reşat Nuri Güntekin",
+      "Samipaşazade Sezai",
+      "Yakup Kadri Karaosmanoğlu"
+    ],
+    "answer_index": 2,
+    "explanation": "'Yaprak Dökümü', Reşat Nuri Güntekin tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-653-87xo",
+    "topic_id": "topic-guncel",
+    "prompt": "'Kiralık Konak' adlı eserin yazarı kimdir?",
+    "options": [
+      "Yaşar Kemal",
+      "Yusuf Atılgan",
+      "Ahmet Hamdi Tanpınar",
+      "Yakup Kadri Karaosmanoğlu",
+      "Halide Edib Adıvar"
+    ],
+    "answer_index": 3,
+    "explanation": "'Kiralık Konak', Yakup Kadri Karaosmanoğlu tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-654-ly4p",
+    "topic_id": "topic-guncel",
+    "prompt": "'Üç İstanbul' adlı eserin yazarı kimdir?",
+    "options": [
+      "Orhan Kemal",
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat",
+      "Oğuz Atay",
+      "Peyami Safa",
+      "Mithat Cemal Kuntay"
+    ],
+    "answer_index": 4,
+    "explanation": "'Üç İstanbul', Mithat Cemal Kuntay tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-655-of50",
+    "topic_id": "topic-guncel",
+    "prompt": "'Memleket Hikâyeleri' adlı eserin yazarı kimdir?",
+    "options": [
+      "Refik Halit Karay",
+      "Reşat Nuri Güntekin",
+      "Sabahattin Ali",
+      "Sait Faik Abasıyanık",
+      "Samipaşazade Sezai"
+    ],
+    "answer_index": 0,
+    "explanation": "'Memleket Hikâyeleri', Refik Halit Karay tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-656-ssch",
+    "topic_id": "topic-guncel",
+    "prompt": "'Semaver' adlı eserin yazarı kimdir?",
+    "options": [
+      "Samipaşazade Sezai",
+      "Sait Faik Abasıyanık",
+      "Yakup Kadri Karaosmanoğlu",
+      "Yaşar Kemal",
+      "Yusuf Atılgan"
+    ],
+    "answer_index": 1,
+    "explanation": "'Semaver', Sait Faik Abasıyanık tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-657-uqeb",
+    "topic_id": "topic-guncel",
+    "prompt": "'Havada Bulut' adlı eserin yazarı kimdir?",
+    "options": [
+      "Samipaşazade Sezai",
+      "Yakup Kadri Karaosmanoğlu",
+      "Sait Faik Abasıyanık",
+      "Yaşar Kemal",
+      "Yusuf Atılgan"
+    ],
+    "answer_index": 2,
+    "explanation": "'Havada Bulut', Sait Faik Abasıyanık tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-658-skus",
+    "topic_id": "topic-guncel",
+    "prompt": "'Garip' adlı eserin yazarı kimdir?",
+    "options": [
+      "Oğuz Atay",
+      "Peyami Safa",
+      "Recaizade Mahmut Ekrem",
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat",
+      "Refik Halit Karay"
+    ],
+    "answer_index": 3,
+    "explanation": "'Garip', Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-659-819u",
+    "topic_id": "topic-guncel",
+    "prompt": "'Safahat' adlı eserin yazarı kimdir?",
+    "options": [
+      "Mithat Cemal Kuntay",
+      "Orhan Kemal",
+      "Orhan Veli Kanık, Melih Cevdet Anday ve Oktay Rifat",
+      "Oğuz Atay",
+      "Mehmet Âkif Ersoy"
+    ],
+    "answer_index": 4,
+    "explanation": "'Safahat', Mehmet Âkif Ersoy tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-660-yfl1",
+    "topic_id": "topic-guncel",
+    "prompt": "'Don Kişot' adlı eserin yazarı kimdir?",
+    "options": [
+      "Miguel de Cervantes",
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 0,
+    "explanation": "'Don Kişot', Miguel de Cervantes tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-661-bh8i",
+    "topic_id": "topic-guncel",
+    "prompt": "'Sefiller' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Victor Hugo",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 1,
+    "explanation": "'Sefiller', Victor Hugo tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-662-owox",
+    "topic_id": "topic-guncel",
+    "prompt": "'Suç ve Ceza' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Fyodor Dostoyevski",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 2,
+    "explanation": "'Suç ve Ceza', Fyodor Dostoyevski tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-663-eyaj",
+    "topic_id": "topic-guncel",
+    "prompt": "'Savaş ve Barış' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Lev Tolstoy",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 3,
+    "explanation": "'Savaş ve Barış', Lev Tolstoy tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-664-pviv",
+    "topic_id": "topic-guncel",
+    "prompt": "'Hamlet' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway",
+      "William Shakespeare"
+    ],
+    "answer_index": 4,
+    "explanation": "'Hamlet', William Shakespeare tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-665-sdr1",
+    "topic_id": "topic-guncel",
+    "prompt": "'Romeo ve Juliet' adlı eserin yazarı kimdir?",
+    "options": [
+      "William Shakespeare",
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 0,
+    "explanation": "'Romeo ve Juliet', William Shakespeare tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-666-pqkj",
+    "topic_id": "topic-guncel",
+    "prompt": "'İlahi Komedya' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Dante Alighieri",
+      "Antoine de Saint-Exupéry",
+      "Ernest Hemingway",
+      "Franz Kafka"
+    ],
+    "answer_index": 1,
+    "explanation": "'İlahi Komedya', Dante Alighieri tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-667-cynn",
+    "topic_id": "topic-guncel",
+    "prompt": "'Madame Bovary' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Gustave Flaubert",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 2,
+    "explanation": "'Madame Bovary', Gustave Flaubert tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-668-5t40",
+    "topic_id": "topic-guncel",
+    "prompt": "'Dönüşüm' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Franz Kafka",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 3,
+    "explanation": "'Dönüşüm', Franz Kafka tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-669-1ynj",
+    "topic_id": "topic-guncel",
+    "prompt": "'1984' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway",
+      "George Orwell"
+    ],
+    "answer_index": 4,
+    "explanation": "'1984', George Orwell tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-670-k6gd",
+    "topic_id": "topic-guncel",
+    "prompt": "'Hayvan Çiftliği' adlı eserin yazarı kimdir?",
+    "options": [
+      "George Orwell",
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway"
+    ],
+    "answer_index": 0,
+    "explanation": "'Hayvan Çiftliği', George Orwell tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-671-jf8t",
+    "topic_id": "topic-guncel",
+    "prompt": "'Yaşlı Adam ve Deniz' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Ernest Hemingway",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Franz Kafka"
+    ],
+    "answer_index": 1,
+    "explanation": "'Yaşlı Adam ve Deniz', Ernest Hemingway tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-672-hf22",
+    "topic_id": "topic-guncel",
+    "prompt": "'Yabancı' adlı eserin yazarı kimdir?",
+    "options": [
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Albert Camus",
+      "Ernest Hemingway",
+      "Franz Kafka"
+    ],
+    "answer_index": 2,
+    "explanation": "'Yabancı', Albert Camus tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-673-hpf3",
+    "topic_id": "topic-guncel",
+    "prompt": "'Küçük Prens' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Dante Alighieri",
+      "Ernest Hemingway",
+      "Antoine de Saint-Exupéry",
+      "Franz Kafka"
+    ],
+    "answer_index": 3,
+    "explanation": "'Küçük Prens', Antoine de Saint-Exupéry tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-674-mdne",
+    "topic_id": "topic-guncel",
+    "prompt": "'Gurur ve Önyargı' adlı eserin yazarı kimdir?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Dante Alighieri",
+      "Ernest Hemingway",
+      "Jane Austen"
+    ],
+    "answer_index": 4,
+    "explanation": "'Gurur ve Önyargı', Jane Austen tarafından yazılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-675-oo5t",
+    "topic_id": "topic-guncel",
+    "prompt": "Mona Lisa tablosunun ressamı kimdir?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Vincent van Gogh",
+      "Pablo Picasso"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Leonardo da Vinci seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-676-dyqq",
+    "topic_id": "topic-guncel",
+    "prompt": "Guernica adlı tablonun ressamı kimdir?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Edvard Munch",
+      "Rembrandt"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Pablo Picasso seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-677-boln",
+    "topic_id": "topic-guncel",
+    "prompt": "Yıldızlı Gece adlı tablonun ressamı kimdir?",
+    "options": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Henri Matisse"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Vincent van Gogh seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-678-50je",
+    "topic_id": "topic-guncel",
+    "prompt": "Çığlık adlı tablonun ressamı kimdir?",
+    "options": [
+      "Vincent van Gogh",
+      "Gustav Klimt",
+      "Claude Monet",
+      "Edvard Munch",
+      "Paul Gauguin"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Edvard Munch seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-679-x8e9",
+    "topic_id": "topic-guncel",
+    "prompt": "Kaplumbağa Terbiyecisi adlı eserin ressamı kimdir?",
+    "options": [
+      "Şeker Ahmet Paşa",
+      "İbrahim Çallı",
+      "Bedri Rahmi Eyüboğlu",
+      "Fikret Mualla",
+      "Osman Hamdi Bey"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Osman Hamdi Bey seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-680-rfhe",
+    "topic_id": "topic-guncel",
+    "prompt": "Onuncu Yıl Marşı'nın bestecilerinden biri kimdir?",
+    "options": [
+      "Cemal Reşit Rey",
+      "Ulvi Cemal Erkin",
+      "Ahmet Adnan Saygun",
+      "Necil Kâzım Akses",
+      "Hasan Ferit Alnar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Cemal Reşit Rey seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-681-4vil",
+    "topic_id": "topic-guncel",
+    "prompt": "Yunus Emre Oratoryosu'nun bestecisi kimdir?",
+    "options": [
+      "Cemal Reşit Rey",
+      "Ahmet Adnan Saygun",
+      "Ulvi Cemal Erkin",
+      "Necil Kâzım Akses",
+      "Hasan Ferit Alnar"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Ahmet Adnan Saygun seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-682-5tug",
+    "topic_id": "topic-guncel",
+    "prompt": "Kuğu Gölü balesinin bestecisi kimdir?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Pyotr İlyiç Çaykovski",
+      "Johann Sebastian Bach",
+      "Frédéric Chopin"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Pyotr İlyiç Çaykovski seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-683-dbtd",
+    "topic_id": "topic-guncel",
+    "prompt": "Dokuzuncu Senfoni'nin bestecisi kimdir?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Ludwig van Beethoven seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-684-l6gv",
+    "topic_id": "topic-guncel",
+    "prompt": "Dört Mevsim adlı konçerto dizisinin bestecisi kimdir?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Frédéric Chopin",
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Antonio Vivaldi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Antonio Vivaldi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-685-nav8",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": [
+      "Kızılırmak",
+      "Fırat",
+      "Sakarya",
+      "Dicle",
+      "Yeşilırmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Kızılırmak seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-686-tjxb",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": [
+      "Tuz Gölü",
+      "Van Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü",
+      "İznik Gölü"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Van Gölü seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-687-f10t",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin en büyük tatlı su gölü hangisidir?",
+    "options": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü",
+      "İznik Gölü"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Beyşehir Gölü seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-688-gnlu",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Erciyes Dağı",
+      "Süphan Dağı",
+      "Kaçkar Dağı",
+      "Ağrı Dağı",
+      "Uludağ"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Ağrı Dağı seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-689-5f3l",
+    "topic_id": "topic-guncel",
+    "prompt": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+    "options": [
+      "Marmara Denizi ile Ege Denizi",
+      "Ege Denizi ile Akdeniz",
+      "Karadeniz ile Ege Denizi",
+      "Akdeniz ile Karadeniz",
+      "Karadeniz ile Marmara Denizi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Karadeniz ile Marmara Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-690-n1hk",
+    "topic_id": "topic-guncel",
+    "prompt": "Çanakkale Boğazı hangi iki denizi birbirine bağlar?",
+    "options": [
+      "Marmara Denizi ile Ege Denizi",
+      "Karadeniz ile Marmara Denizi",
+      "Ege Denizi ile Akdeniz",
+      "Karadeniz ile Ege Denizi",
+      "Akdeniz ile Marmara Denizi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Marmara Denizi ile Ege Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-691-8cu8",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin yüzölçümü bakımından en büyük ili hangisidir?",
+    "options": [
+      "Ankara",
+      "Konya",
+      "Sivas",
+      "Erzurum",
+      "Antalya"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Konya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-692-bkk5",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "options": [
+      "Ankara",
+      "İzmir",
+      "İstanbul",
+      "Bursa",
+      "Antalya"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap İstanbul seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-693-dfnn",
+    "topic_id": "topic-guncel",
+    "prompt": "Pamukkale travertenleri hangi ildedir?",
+    "options": [
+      "Muğla",
+      "Aydın",
+      "Antalya",
+      "Denizli",
+      "Manisa"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Denizli seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-694-vixx",
+    "topic_id": "topic-guncel",
+    "prompt": "Kapadokya bölgesiyle en çok özdeşleşen il hangisidir?",
+    "options": [
+      "Kayseri",
+      "Niğde",
+      "Aksaray",
+      "Kırşehir",
+      "Nevşehir"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Nevşehir seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-695-1y8r",
+    "topic_id": "topic-guncel",
+    "prompt": "Nemrut Dağı'ndaki anıtsal heykeller hangi il sınırlarındadır?",
+    "options": [
+      "Adıyaman",
+      "Malatya",
+      "Gaziantep",
+      "Şanlıurfa",
+      "Kahramanmaraş"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Adıyaman seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-696-48t8",
+    "topic_id": "topic-guncel",
+    "prompt": "Sümela Manastırı hangi ildedir?",
+    "options": [
+      "Rize",
+      "Trabzon",
+      "Giresun",
+      "Artvin",
+      "Ordu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Trabzon seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-697-af6j",
+    "topic_id": "topic-guncel",
+    "prompt": "Safranbolu hangi ildedir?",
+    "options": [
+      "Kastamonu",
+      "Bolu",
+      "Karabük",
+      "Bartın",
+      "Zonguldak"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Karabük seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-698-7ck2",
+    "topic_id": "topic-guncel",
+    "prompt": "Efes Antik Kenti hangi il sınırlarındadır?",
+    "options": [
+      "Aydın",
+      "Muğla",
+      "Manisa",
+      "İzmir",
+      "Denizli"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap İzmir seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-699-7xdg",
+    "topic_id": "topic-guncel",
+    "prompt": "Troya Antik Kenti hangi il sınırlarındadır?",
+    "options": [
+      "Balıkesir",
+      "Bursa",
+      "Tekirdağ",
+      "İzmir",
+      "Çanakkale"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Çanakkale seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-700-8zub",
+    "topic_id": "topic-guncel",
+    "prompt": "Ani Arkeolojik Alanı hangi il sınırlarındadır?",
+    "options": [
+      "Kars",
+      "Erzurum",
+      "Ardahan",
+      "Ağrı",
+      "Iğdır"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Kars seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-701-jtyo",
+    "topic_id": "topic-guncel",
+    "prompt": "Göbekli Tepe hangi il sınırlarındadır?",
+    "options": [
+      "Gaziantep",
+      "Şanlıurfa",
+      "Mardin",
+      "Diyarbakır",
+      "Adıyaman"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Şanlıurfa seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-702-o2k2",
+    "topic_id": "topic-guncel",
+    "prompt": "Çatalhöyük hangi il sınırlarındadır?",
+    "options": [
+      "Ankara",
+      "Aksaray",
+      "Konya",
+      "Karaman",
+      "Eskişehir"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Konya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-703-j7rz",
+    "topic_id": "topic-guncel",
+    "prompt": "Hattuşa hangi il sınırlarındadır?",
+    "options": [
+      "Yozgat",
+      "Amasya",
+      "Tokat",
+      "Çorum",
+      "Samsun"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Çorum seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-704-97q0",
+    "topic_id": "topic-guncel",
+    "prompt": "Divriği Ulu Camii ve Darüşşifası hangi ildedir?",
+    "options": [
+      "Erzincan",
+      "Malatya",
+      "Kayseri",
+      "Tokat",
+      "Sivas"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Sivas seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-705-o4qr",
+    "topic_id": "topic-guncel",
+    "prompt": "Selimiye Camii hangi ildedir?",
+    "options": [
+      "Edirne",
+      "İstanbul",
+      "Bursa",
+      "Tekirdağ",
+      "Kırklareli"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap Edirne seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-706-39h5",
+    "topic_id": "topic-guncel",
+    "prompt": "Uludağ hangi il sınırlarındadır?",
+    "options": [
+      "Bolu",
+      "Bursa",
+      "Kocaeli",
+      "Sakarya",
+      "Balıkesir"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Bursa seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-707-jec6",
+    "topic_id": "topic-guncel",
+    "prompt": "Erciyes Dağı hangi ildedir?",
+    "options": [
+      "Sivas",
+      "Niğde",
+      "Kayseri",
+      "Nevşehir",
+      "Yozgat"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Kayseri seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-708-s26b",
+    "topic_id": "topic-guncel",
+    "prompt": "Kaçkar Dağları ağırlıklı olarak hangi bölgede yer alır?",
+    "options": [
+      "Doğu Anadolu Bölgesi",
+      "Akdeniz Bölgesi",
+      "Ege Bölgesi",
+      "Karadeniz Bölgesi",
+      "Marmara Bölgesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Karadeniz Bölgesi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-709-ydtg",
+    "topic_id": "topic-guncel",
+    "prompt": "Toros Dağları ağırlıklı olarak hangi bölgede uzanır?",
+    "options": [
+      "Karadeniz Bölgesi",
+      "Marmara Bölgesi",
+      "Güneydoğu Anadolu Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Akdeniz Bölgesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Akdeniz Bölgesi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-710-m49j",
+    "topic_id": "topic-guncel",
+    "prompt": "Tuz Gölü ağırlıklı olarak hangi coğrafi bölgede yer alır?",
+    "options": [
+      "İç Anadolu Bölgesi",
+      "Ege Bölgesi",
+      "Akdeniz Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Marmara Bölgesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap İç Anadolu Bölgesi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-711-78dc",
+    "topic_id": "topic-guncel",
+    "prompt": "Van Gölü hangi coğrafi bölgede yer alır?",
+    "options": [
+      "İç Anadolu Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Karadeniz Bölgesi",
+      "Akdeniz Bölgesi",
+      "Güneydoğu Anadolu Bölgesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Doğu Anadolu Bölgesi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-712-49pp",
+    "topic_id": "topic-guncel",
+    "prompt": "Gediz Nehri hangi denize dökülür?",
+    "options": [
+      "Akdeniz",
+      "Karadeniz",
+      "Ege Denizi",
+      "Marmara Denizi",
+      "Hazar Denizi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Ege Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-713-gfna",
+    "topic_id": "topic-guncel",
+    "prompt": "Sakarya Nehri hangi denize dökülür?",
+    "options": [
+      "Ege Denizi",
+      "Akdeniz",
+      "Marmara Denizi",
+      "Karadeniz",
+      "Hazar Denizi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Karadeniz seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-714-gmm3",
+    "topic_id": "topic-guncel",
+    "prompt": "Meriç Nehri Türkiye'de hangi denize dökülür?",
+    "options": [
+      "Karadeniz",
+      "Akdeniz",
+      "Marmara Denizi",
+      "Hazar Denizi",
+      "Ege Denizi"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Ege Denizi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-715-pecv",
+    "topic_id": "topic-guncel",
+    "prompt": "Malazgirt Meydan Muharebesi hangi yıl yapılmıştır?",
+    "options": [
+      "1071",
+      "1040",
+      "1176",
+      "1243",
+      "1299"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1071 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-716-7xbm",
+    "topic_id": "topic-guncel",
+    "prompt": "Malazgirt Meydan Muharebesi'nde Büyük Selçuklu hükümdarı kimdir?",
+    "options": [
+      "Tuğrul Bey",
+      "Alp Arslan",
+      "Melikşah",
+      "Sencer",
+      "Kılıç Arslan"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Alp Arslan seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-717-l5fl",
+    "topic_id": "topic-guncel",
+    "prompt": "Miryokefalon Savaşı hangi yıl yapılmıştır?",
+    "options": [
+      "1071",
+      "1243",
+      "1176",
+      "1299",
+      "1402"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 1176 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-718-s4aa",
+    "topic_id": "topic-guncel",
+    "prompt": "Osmanlı Devleti'nin kurucusu kimdir?",
+    "options": [
+      "Orhan Gazi",
+      "Ertuğrul Gazi",
+      "I. Murad",
+      "Osman Gazi",
+      "Yıldırım Bayezid"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Osman Gazi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-719-7d58",
+    "topic_id": "topic-guncel",
+    "prompt": "İstanbul'u fetheden Osmanlı padişahı kimdir?",
+    "options": [
+      "II. Murad",
+      "Yıldırım Bayezid",
+      "I. Selim",
+      "I. Süleyman",
+      "II. Mehmed"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap II. Mehmed seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-720-sck5",
+    "topic_id": "topic-guncel",
+    "prompt": "İstanbul'un fethi hangi yıl gerçekleşmiştir?",
+    "options": [
+      "1453",
+      "1402",
+      "1517",
+      "1526",
+      "1571"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1453 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-721-xu3k",
+    "topic_id": "topic-guncel",
+    "prompt": "Çaldıran Savaşı hangi Osmanlı padişahı döneminde yapılmıştır?",
+    "options": [
+      "Fatih Sultan Mehmed",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "II. Bayezid",
+      "IV. Murad"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap Yavuz Sultan Selim seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-722-ah5i",
+    "topic_id": "topic-guncel",
+    "prompt": "Mohaç Meydan Muharebesi hangi yıl yapılmıştır?",
+    "options": [
+      "1453",
+      "1514",
+      "1526",
+      "1571",
+      "1683"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 1526 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-723-dah3",
+    "topic_id": "topic-guncel",
+    "prompt": "Kanuni Sultan Süleyman döneminde 1526'da kazanılan savaş hangisidir?",
+    "options": [
+      "Çaldıran Savaşı",
+      "Otlukbeli Savaşı",
+      "Ankara Savaşı",
+      "Mohaç Meydan Muharebesi",
+      "Niğbolu Savaşı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap Mohaç Meydan Muharebesi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-724-m6nt",
+    "topic_id": "topic-guncel",
+    "prompt": "Osmanlı Devleti'nde Tanzimat Fermanı hangi yıl ilan edilmiştir?",
+    "options": [
+      "1808",
+      "1856",
+      "1876",
+      "1908",
+      "1839"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap 1839 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-725-qy2b",
+    "topic_id": "topic-guncel",
+    "prompt": "Islahat Fermanı hangi yıl ilan edilmiştir?",
+    "options": [
+      "1856",
+      "1839",
+      "1876",
+      "1908",
+      "1921"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1856 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-726-v8rz",
+    "topic_id": "topic-guncel",
+    "prompt": "I. Meşrutiyet hangi yıl ilan edilmiştir?",
+    "options": [
+      "1839",
+      "1876",
+      "1856",
+      "1908",
+      "1920"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 1876 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-727-emrk",
+    "topic_id": "topic-guncel",
+    "prompt": "II. Meşrutiyet hangi yıl ilan edilmiştir?",
+    "options": [
+      "1876",
+      "1905",
+      "1908",
+      "1914",
+      "1919"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 1908 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-728-x919",
+    "topic_id": "topic-guncel",
+    "prompt": "Mondros Ateşkes Antlaşması hangi yıl imzalanmıştır?",
+    "options": [
+      "1914",
+      "1919",
+      "1920",
+      "1918",
+      "1923"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap 1918 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-729-qq8v",
+    "topic_id": "topic-guncel",
+    "prompt": "Amasya Genelgesi hangi yıl yayımlanmıştır?",
+    "options": [
+      "1918",
+      "1920",
+      "1921",
+      "1923",
+      "1919"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap 1919 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-730-jjci",
+    "topic_id": "topic-guncel",
+    "prompt": "Erzurum Kongresi hangi yıl toplanmıştır?",
+    "options": [
+      "1919",
+      "1918",
+      "1920",
+      "1921",
+      "1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1919 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-731-051j",
+    "topic_id": "topic-guncel",
+    "prompt": "Sivas Kongresi hangi yıl toplanmıştır?",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1922",
+      "1923"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 1919 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-732-l93g",
+    "topic_id": "topic-guncel",
+    "prompt": "Misak-ı Millî kararları hangi mecliste kabul edilmiştir?",
+    "options": [
+      "TBMM",
+      "Kurucu Meclis",
+      "Son Osmanlı Mebusan Meclisi",
+      "Danışma Meclisi",
+      "Âyan Meclisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap Son Osmanlı Mebusan Meclisi seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-733-wpb4",
+    "topic_id": "topic-guncel",
+    "prompt": "Sakarya Meydan Muharebesi hangi yıl yapılmıştır?",
+    "options": [
+      "1919",
+      "1920",
+      "1922",
+      "1921",
+      "1923"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap 1921 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-734-dl4a",
+    "topic_id": "topic-guncel",
+    "prompt": "Büyük Taarruz hangi yıl gerçekleştirilmiştir?",
+    "options": [
+      "1920",
+      "1921",
+      "1923",
+      "1924",
+      "1922"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap 1922 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-735-owi0",
+    "topic_id": "topic-guncel",
+    "prompt": "Başkomutanlık Meydan Muharebesi'nin tarihi hangisidir?",
+    "options": [
+      "30 Ağustos 1922",
+      "23 Nisan 1920",
+      "13 Eylül 1921",
+      "29 Ekim 1923",
+      "24 Temmuz 1923"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 30 Ağustos 1922 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-736-tjbr",
+    "topic_id": "topic-guncel",
+    "prompt": "Mudanya Ateşkes Antlaşması hangi yıl imzalanmıştır?",
+    "options": [
+      "1920",
+      "1922",
+      "1921",
+      "1923",
+      "1924"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 1922 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-737-cg0u",
+    "topic_id": "topic-guncel",
+    "prompt": "Lozan Barış Antlaşması hangi tarihte imzalanmıştır?",
+    "options": [
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "24 Temmuz 1923",
+      "30 Ağustos 1922",
+      "3 Mart 1924"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 24 Temmuz 1923 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-738-zg5c",
+    "topic_id": "topic-guncel",
+    "prompt": "Halifelik hangi tarihte kaldırılmıştır?",
+    "options": [
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "1 Kasım 1922",
+      "3 Mart 1924",
+      "17 Şubat 1926"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap 3 Mart 1924 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-739-lykb",
+    "topic_id": "topic-guncel",
+    "prompt": "Türk Medeni Kanunu hangi yıl kabul edilmiştir?",
+    "options": [
+      "1924",
+      "1925",
+      "1928",
+      "1930",
+      "1926"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap 1926 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-740-elnc",
+    "topic_id": "topic-guncel",
+    "prompt": "Harf İnkılabı olarak bilinen yeni Türk harflerinin kabulü hangi yıl gerçekleşmiştir?",
+    "options": [
+      "1928",
+      "1923",
+      "1925",
+      "1930",
+      "1934"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1928 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-741-bu6c",
+    "topic_id": "topic-guncel",
+    "prompt": "Kadınlara belediye seçimlerinde seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+    "options": [
+      "1926",
+      "1930",
+      "1928",
+      "1933",
+      "1934"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 1930 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-742-7nav",
+    "topic_id": "topic-guncel",
+    "prompt": "Kadınlara milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+    "options": [
+      "1930",
+      "1931",
+      "1934",
+      "1933",
+      "1935"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap 1934 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-743-htsy",
+    "topic_id": "topic-guncel",
+    "prompt": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
+    "options": [
+      "1928",
+      "1930",
+      "1933",
+      "1934",
+      "1935"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap 1934 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-744-th3x",
+    "topic_id": "topic-guncel",
+    "prompt": "Atatürk'e 'Başöğretmen' unvanı hangi eğitim hamlesiyle özdeşleşmiştir?",
+    "options": [
+      "Köy Enstitüleri",
+      "Darülfünun",
+      "Enderun",
+      "Halkevleri",
+      "Millet Mektepleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Millet Mektepleri seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-745-v0kr",
+    "topic_id": "topic-guncel",
+    "prompt": "Fransız İhtilali hangi yıl başlamıştır?",
+    "options": [
+      "1789",
+      "1776",
+      "1815",
+      "1848",
+      "1917"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap 1789 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-746-w2ew",
+    "topic_id": "topic-guncel",
+    "prompt": "Amerikan Bağımsızlık Bildirgesi hangi yıl ilan edilmiştir?",
+    "options": [
+      "1789",
+      "1776",
+      "1812",
+      "1861",
+      "1914"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap 1776 seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-747-t4xy",
+    "topic_id": "topic-guncel",
+    "prompt": "Sanayi Devrimi ilk olarak hangi ülkede başlamıştır?",
+    "options": [
+      "Fransa",
+      "Almanya",
+      "İngiltere",
+      "ABD",
+      "İtalya"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap İngiltere seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-748-wo72",
+    "topic_id": "topic-guncel",
+    "prompt": "Rönesans'ın başladığı ülke olarak genel kabul gören ülke hangisidir?",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "Almanya",
+      "İtalya",
+      "İspanya"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap İtalya seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-749-5cnw",
+    "topic_id": "topic-guncel",
+    "prompt": "Reform hareketleriyle özdeşleşen Alman din adamı kimdir?",
+    "options": [
+      "Jean Calvin",
+      "Erasmus",
+      "Thomas More",
+      "Ignatius Loyola",
+      "Martin Luther"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap Martin Luther seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-750-chcp",
+    "topic_id": "topic-guncel",
+    "prompt": "KAAN savaş uçağının ana yüklenicisi/geliştiricisi hangi Türk savunma sanayii kuruluşudur?",
+    "options": [
+      "TUSAŞ",
+      "ASELSAN",
+      "ROKETSAN",
+      "HAVELSAN",
+      "STM"
+    ],
+    "answer_index": 0,
+    "explanation": "KAAN, Türk Havacılık ve Uzay Sanayii (TUSAŞ) tarafından geliştirilen savaş uçağı projesidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-751-8whz",
+    "topic_id": "topic-guncel",
+    "prompt": "HÜRJET hangi kuruluş tarafından geliştirilmektedir?",
+    "options": [
+      "Baykar",
+      "TUSAŞ",
+      "ASELSAN",
+      "ROKETSAN",
+      "STM"
+    ],
+    "answer_index": 1,
+    "explanation": "HÜRJET, TUSAŞ'ın uçak ürün ailesinde yer alan jet eğitim ve hafif taarruz uçağıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-752-uscb",
+    "topic_id": "topic-guncel",
+    "prompt": "T625 GÖKBEY hangi tür hava aracıdır?",
+    "options": [
+      "İnsansız savaş uçağı",
+      "Jet eğitim uçağı",
+      "Genel maksat helikopteri",
+      "Taarruzî insansız hava aracı",
+      "Hava savunma füzesi"
+    ],
+    "answer_index": 2,
+    "explanation": "T625 GÖKBEY, TUSAŞ'ın genel maksat helikopteridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-753-q72j",
+    "topic_id": "topic-guncel",
+    "prompt": "T129 ATAK aşağıdaki platform türlerinden hangisidir?",
+    "options": [
+      "Jet eğitim uçağı",
+      "Nakliye uçağı",
+      "İnsansız deniz aracı",
+      "Taarruz helikopteri",
+      "Hava savunma sistemi"
+    ],
+    "answer_index": 3,
+    "explanation": "T129 ATAK, TUSAŞ ürün ailesinde yer alan taarruz helikopteridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-754-slth",
+    "topic_id": "topic-guncel",
+    "prompt": "ANKA hangi platform sınıfında yer alır?",
+    "options": [
+      "Ana muharebe tankı",
+      "Fırkateyn",
+      "Hava savunma füzesi",
+      "Taarruz helikopteri",
+      "İnsansız hava aracı"
+    ],
+    "answer_index": 4,
+    "explanation": "ANKA, TUSAŞ'ın insansız hava araçları ürün ailesindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-755-g7eg",
+    "topic_id": "topic-guncel",
+    "prompt": "AKSUNGUR hangi kuruluşun insansız hava aracı ürünlerinden biridir?",
+    "options": [
+      "TUSAŞ",
+      "ROKETSAN",
+      "ASELSAN",
+      "HAVELSAN",
+      "MKE"
+    ],
+    "answer_index": 0,
+    "explanation": "AKSUNGUR, TUSAŞ'ın insansız hava aracı ürünlerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-756-ys9o",
+    "topic_id": "topic-guncel",
+    "prompt": "ANKA III aşağıdaki sınıflardan hangisinde yer alır?",
+    "options": [
+      "Helikopter",
+      "İnsansız hava aracı",
+      "Ana muharebe tankı",
+      "Denizaltı",
+      "Hava savunma radarı"
+    ],
+    "answer_index": 1,
+    "explanation": "ANKA III, TUSAŞ tarafından insansız hava aracı kategorisinde sunulmaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-757-j8c0",
+    "topic_id": "topic-guncel",
+    "prompt": "Bayraktar TB2 hangi şirket tarafından geliştirilmiştir?",
+    "options": [
+      "TUSAŞ",
+      "ASELSAN",
+      "Baykar",
+      "ROKETSAN",
+      "STM"
+    ],
+    "answer_index": 2,
+    "explanation": "Bayraktar TB2, Baykar tarafından geliştirilen millî S/İHA platformudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-758-u60b",
+    "topic_id": "topic-guncel",
+    "prompt": "Bayraktar AKINCI'nın platform sınıfı hangisidir?",
+    "options": [
+      "Ana muharebe tankı",
+      "Fırkateyn",
+      "Taarruz helikopteri",
+      "Taarruzî insansız hava aracı (TİHA)",
+      "Hava savunma radarı"
+    ],
+    "answer_index": 3,
+    "explanation": "Bayraktar AKINCI, Baykar'ın taarruzî insansız hava aracı platformudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-759-85fv",
+    "topic_id": "topic-guncel",
+    "prompt": "Bayraktar KIZILELMA aşağıdaki tanımlardan hangisine uyar?",
+    "options": [
+      "Genel maksat helikopteri",
+      "Ana muharebe tankı",
+      "Denizaltı",
+      "Kundağı motorlu obüs",
+      "İnsansız savaş uçağı"
+    ],
+    "answer_index": 4,
+    "explanation": "Baykar, KIZILELMA'yı insansız savaş uçağı olarak geliştirmektedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-760-wmpx",
+    "topic_id": "topic-guncel",
+    "prompt": "Bayraktar TB3'ün geliştiricisi hangi şirkettir?",
+    "options": [
+      "Baykar",
+      "TUSAŞ",
+      "ASELSAN",
+      "HAVELSAN",
+      "ROKETSAN"
+    ],
+    "answer_index": 0,
+    "explanation": "Bayraktar TB3, Baykar'ın insansız hava aracı ürünlerinden biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-761-4r2v",
+    "topic_id": "topic-guncel",
+    "prompt": "MAM-C, MAM-L ve MAM-T mühimmatları hangi kuruluşun ürün ailesinde yer alır?",
+    "options": [
+      "ASELSAN",
+      "ROKETSAN",
+      "TUSAŞ",
+      "HAVELSAN",
+      "STM"
+    ],
+    "answer_index": 1,
+    "explanation": "MAM-C, MAM-L ve MAM-T, ROKETSAN'ın mini akıllı mühimmat ailesindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-762-e9lz",
+    "topic_id": "topic-guncel",
+    "prompt": "ATMACA hangi tür silah sistemidir?",
+    "options": [
+      "Tanksavar füzesi",
+      "Hava-hava füzesi",
+      "Gemisavar füzesi",
+      "Balistik füze savunma radarı",
+      "Torpido"
+    ],
+    "answer_index": 2,
+    "explanation": "ROKETSAN, ATMACA'yı gemisavar füzesi olarak sınıflandırır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-763-vc28",
+    "topic_id": "topic-guncel",
+    "prompt": "SOM aşağıdaki sistemlerden hangisidir?",
+    "options": [
+      "Torpido",
+      "Ana muharebe tankı",
+      "Taarruz helikopteri",
+      "Stand-off mühimmatı / seyir füzesi",
+      "Hava savunma radarı"
+    ],
+    "answer_index": 3,
+    "explanation": "SOM, ROKETSAN'ın seyir füzesi/stand-off mühimmatı ürün ailesindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-764-sx2g",
+    "topic_id": "topic-guncel",
+    "prompt": "KARAOK hangi amaçla geliştirilmiş bir sistemdir?",
+    "options": [
+      "Uzun menzilli hava savunma",
+      "Gemisavar",
+      "Torpido savunma",
+      "Elektronik harp",
+      "Kısa menzilli tanksavar"
+    ],
+    "answer_index": 4,
+    "explanation": "KARAOK, ROKETSAN'ın kısa menzilli tanksavar silah sistemidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-765-w7sv",
+    "topic_id": "topic-guncel",
+    "prompt": "UMTAS'ın temel sınıfı hangisidir?",
+    "options": [
+      "Uzun menzilli tanksavar füze sistemi",
+      "Kısa menzilli hava savunma",
+      "Gemisavar füze",
+      "Torpido",
+      "Balistik füze"
+    ],
+    "answer_index": 0,
+    "explanation": "UMTAS, ROKETSAN tarafından uzun menzilli tanksavar füze sistemi olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-766-7tvv",
+    "topic_id": "topic-guncel",
+    "prompt": "SUNGUR hangi savunma alanında kullanılan bir füze sistemidir?",
+    "options": [
+      "Denizaltı savunma",
+      "Hava savunma",
+      "Tanksavar",
+      "Gemisavar",
+      "Elektronik harp"
+    ],
+    "answer_index": 1,
+    "explanation": "SUNGUR, ROKETSAN'ın hava savunma füze sistemidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-767-fqe0",
+    "topic_id": "topic-guncel",
+    "prompt": "SİPER aşağıdaki tanımlardan hangisine uyar?",
+    "options": [
+      "Kısa menzilli tanksavar sistemi",
+      "Gemisavar füze",
+      "Uzun menzilli bölge hava ve füze savunma sistemi",
+      "Taarruz helikopteri",
+      "İnsansız kara aracı"
+    ],
+    "answer_index": 2,
+    "explanation": "SİPER, uzun menzilli bölge hava ve füze savunma sistemi olarak geliştirilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-768-gt3b",
+    "topic_id": "topic-guncel",
+    "prompt": "HİSAR-A hangi savunma sistemleri ailesindedir?",
+    "options": [
+      "Tanksavar",
+      "Denizaltı savunma",
+      "Elektronik harp",
+      "Hava savunma",
+      "Uydu haberleşme"
+    ],
+    "answer_index": 3,
+    "explanation": "HİSAR-A, hava savunma füzesi ailesinde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-769-6i79",
+    "topic_id": "topic-guncel",
+    "prompt": "HİSAR-O hangi savunma alanına yöneliktir?",
+    "options": [
+      "Gemisavar",
+      "Tanksavar",
+      "Torpido",
+      "Mayın avlama",
+      "Hava savunma"
+    ],
+    "answer_index": 4,
+    "explanation": "HİSAR-O, ROKETSAN'ın hava savunma füzeleri arasında yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-770-il2q",
+    "topic_id": "topic-guncel",
+    "prompt": "AKYA aşağıdaki sistemlerden hangisidir?",
+    "options": [
+      "Ağır sınıf torpido",
+      "Gemisavar füze",
+      "Hava savunma füzesi",
+      "Tanksavar füze",
+      "İnsansız hava aracı"
+    ],
+    "answer_index": 0,
+    "explanation": "AKYA, ROKETSAN'ın yeni nesil ağır sınıf torpidosudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-771-knfn",
+    "topic_id": "topic-guncel",
+    "prompt": "ORKA aşağıdaki sistemlerden hangisidir?",
+    "options": [
+      "Balistik füze",
+      "Hafif sınıf torpido",
+      "Ana muharebe tankı",
+      "Hava savunma radarı",
+      "Taarruz helikopteri"
+    ],
+    "answer_index": 1,
+    "explanation": "ORKA, ROKETSAN'ın yeni nesil hafif sınıf torpidosudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-772-kkjw",
+    "topic_id": "topic-guncel",
+    "prompt": "MİDLAS'ın açılımındaki temel işlev aşağıdakilerden hangisidir?",
+    "options": [
+      "Millî İnsansız Denizaltı Lojistik Aracı",
+      "Müşterek İleri Dalış ve Arama Sistemi",
+      "Millî Dikey Atım Lançer Sistemi",
+      "Mobil İHA Destek Lojistik Ağ Sistemi",
+      "Millî İleri Düzey Lazer Savunması"
+    ],
+    "answer_index": 2,
+    "explanation": "MİDLAS, Millî Dikey Atım Lançer Sistemi'nin kısaltmasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-773-unw8",
+    "topic_id": "topic-guncel",
+    "prompt": "ÇAKIR aşağıdaki hangi silah sınıfındadır?",
+    "options": [
+      "Torpido",
+      "Hava savunma radarı",
+      "Taarruz helikopteri",
+      "Seyir füzesi",
+      "Ana muharebe tankı"
+    ],
+    "answer_index": 3,
+    "explanation": "ÇAKIR, ROKETSAN'ın seyir füzesi ailesinde yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-774-t8tk",
+    "topic_id": "topic-guncel",
+    "prompt": "TAYFUN aşağıdaki kuruluşlardan hangisi tarafından geliştirilen füze sistemleri arasında yer alır?",
+    "options": [
+      "TUSAŞ",
+      "ASELSAN",
+      "HAVELSAN",
+      "STM",
+      "ROKETSAN"
+    ],
+    "answer_index": 4,
+    "explanation": "TAYFUN, ROKETSAN'ın füze sistemleri arasında yer almaktadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-775-lctd",
+    "topic_id": "topic-guncel",
+    "prompt": "Salon voleybolunda bir takım sahada aynı anda kaç oyuncuyla yer alır?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "explanation": "FIVB temel kurallarına göre sahada her takımın altı oyuncusu bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-776-ptrw",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolda ilk dört set normal olarak kaç sayıya oynanır?",
+    "options": [
+      "15",
+      "25",
+      "21",
+      "30",
+      "35"
+    ],
+    "answer_index": 1,
+    "explanation": "FIVB kurallarına göre ilk dört set 25 sayıya oynanır ve iki sayı fark gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-777-5anb",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolda karar seti olan beşinci set normal olarak kaç sayıya oynanır?",
+    "options": [
+      "21",
+      "25",
+      "15",
+      "30",
+      "10"
+    ],
+    "answer_index": 2,
+    "explanation": "FIVB kurallarına göre beşinci set 15 sayıya oynanır ve iki sayı fark gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-778-xkhx",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolda bir takım topu rakip sahaya göndermeden önce en fazla kaç vuruş yapabilir?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer_index": 3,
+    "explanation": "Voleybolda bir takım topu karşı sahaya göndermeden önce en fazla üç takım vuruşu kullanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-779-lsln",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolda farklı renk forma giyen savunma uzmanı oyuncuya ne ad verilir?",
+    "options": [
+      "Pasör",
+      "Smaçör",
+      "Orta oyuncu",
+      "Pasör çaprazı",
+      "Libero"
+    ],
+    "answer_index": 4,
+    "explanation": "FIVB kurallarında libero, farklı renk forma giyen uzman savunma oyuncusudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-780-xmwq",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolda ön ve arka alanı ayıran hücum çizgisi fileden kaç metre uzaktadır?",
+    "options": [
+      "3 metre",
+      "2 metre",
+      "4 metre",
+      "5 metre",
+      "6 metre"
+    ],
+    "answer_index": 0,
+    "explanation": "FIVB temel kurallarında hücum çizgisi üç metre çizgisi olarak da anılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-781-ut36",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybol oyununun temellerini 1895'te atan kişi kimdir?",
+    "options": [
+      "James Naismith",
+      "William G. Morgan",
+      "Pierre de Coubertin",
+      "Thomas Arnold",
+      "Jules Rimet"
+    ],
+    "answer_index": 1,
+    "explanation": "Voleybol, 1895'te William G. Morgan tarafından geliştirildi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-782-6b51",
+    "topic_id": "topic-guncel",
+    "prompt": "Voleybolun ilk adı neydi?",
+    "options": [
+      "Handball",
+      "Netball",
+      "Mintonette",
+      "Volleytennis",
+      "Rallyball"
+    ],
+    "answer_index": 2,
+    "explanation": "William G. Morgan geliştirdiği oyuna başlangıçta 'mintonette' adını vermişti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-783-r08d",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Kadın Millî Voleybol Takımı ilk VNL şampiyonluğunu hangi yıl kazandı?",
+    "options": [
+      "2019",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer_index": 3,
+    "explanation": "Türkiye kadınlarda ilk VNL şampiyonluğunu 2023'te kazandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-784-9ngd",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye, 2023 Kadınlar VNL finalinde hangi takımı yenerek şampiyon oldu?",
+    "options": [
+      "Sırbistan",
+      "İtalya",
+      "ABD",
+      "Brezilya",
+      "Çin"
+    ],
+    "answer_index": 4,
+    "explanation": "Türkiye, 2023 VNL altın madalya maçında Çin'i yenerek şampiyon oldu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-785-acs0",
+    "topic_id": "topic-guncel",
+    "prompt": "2023 Kadınlar VNL'nin en değerli oyuncusu (MVP) kim seçildi?",
+    "options": [
+      "Melissa Vargas",
+      "Zehra Güneş",
+      "Gizem Örge",
+      "Ebrar Karakurt",
+      "Cansu Özbay"
+    ],
+    "answer_index": 0,
+    "explanation": "Melissa Vargas, Türkiye'nin şampiyon olduğu 2023 VNL'de MVP seçildi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-786-1p3x",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye Kadın Millî Voleybol Takımı 2023 Avrupa Şampiyonası finalinde hangi ülkeyi mağlup etti?",
+    "options": [
+      "İtalya",
+      "Sırbistan",
+      "Polonya",
+      "Hollanda",
+      "Almanya"
+    ],
+    "answer_index": 1,
+    "explanation": "Türkiye, 2023 Avrupa Şampiyonası finalinde Sırbistan'ı 3-2 mağlup etti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-787-n4rs",
+    "topic_id": "topic-guncel",
+    "prompt": "Türkiye-Sırbistan 2023 Avrupa Kadınlar Voleybol Şampiyonası finalinin skoru neydi?",
+    "options": [
+      "3-0",
+      "3-1",
+      "3-2",
+      "2-3",
+      "1-3"
+    ],
+    "answer_index": 2,
+    "explanation": "Türkiye, 2023 EuroVolley finalini Sırbistan karşısında 3-2 kazandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-788-6s07",
+    "topic_id": "topic-guncel",
+    "prompt": "2023 Avrupa Kadınlar Voleybol Şampiyonası finalinde Melissa Vargas kaç sayı üretti?",
+    "options": [
+      "26",
+      "31",
+      "35",
+      "41",
+      "45"
+    ],
+    "answer_index": 3,
+    "explanation": "CEV kayıtlarına göre Melissa Vargas finalde 41 sayı üretti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-789-6k30",
+    "topic_id": "topic-guncel",
+    "prompt": "2023 Avrupa Kadınlar Voleybol Şampiyonası'nda MVP seçilen oyuncu kimdir?",
+    "options": [
+      "Tijana Bošković",
+      "Zehra Güneş",
+      "Gizem Örge",
+      "Eda Erdem",
+      "Melissa Vargas"
+    ],
+    "answer_index": 4,
+    "explanation": "Melissa Vargas, Türkiye'nin ilk Avrupa şampiyonluğunda turnuvanın MVP'si seçildi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-790-00fl",
+    "topic_id": "topic-guncel",
+    "prompt": "İlk FIFA Dünya Kupası hangi yıl düzenlenmiştir?",
+    "options": [
+      "1930",
+      "1924",
+      "1928",
+      "1934",
+      "1938"
+    ],
+    "answer_index": 0,
+    "explanation": "İlk FIFA Dünya Kupası 1930 yılında Uruguay'da düzenlendi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-791-dy4u",
+    "topic_id": "topic-guncel",
+    "prompt": "İlk FIFA Dünya Kupası'nın şampiyonu hangi ülkedir?",
+    "options": [
+      "Arjantin",
+      "Uruguay",
+      "Brezilya",
+      "İtalya",
+      "Almanya"
+    ],
+    "answer_index": 1,
+    "explanation": "Uruguay, 1930'daki ilk FIFA Dünya Kupası'nı kazanmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-792-upn9",
+    "topic_id": "topic-guncel",
+    "prompt": "FIFA Dünya Kupası tarihinde en fazla şampiyonluk yaşayan ülke hangisidir?",
+    "options": [
+      "Almanya",
+      "İtalya",
+      "Brezilya",
+      "Arjantin",
+      "Fransa"
+    ],
+    "answer_index": 2,
+    "explanation": "Brezilya, beş FIFA Dünya Kupası şampiyonluğuyla rekor sahibidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-793-6aqr",
+    "topic_id": "topic-guncel",
+    "prompt": "Brezilya FIFA Dünya Kupası'nı kaç kez kazanmıştır?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer_index": 3,
+    "explanation": "Brezilya 1958, 1962, 1970, 1994 ve 2002'de şampiyon olmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-794-bjjr",
+    "topic_id": "topic-guncel",
+    "prompt": "2022 FIFA Dünya Kupası'nı hangi ülke kazanmıştır?",
+    "options": [
+      "Fransa",
+      "Brezilya",
+      "Hırvatistan",
+      "İspanya",
+      "Arjantin"
+    ],
+    "answer_index": 4,
+    "explanation": "Arjantin, Katar 2022 finalinde Fransa'yı penaltılarla yenerek şampiyon oldu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-795-qc5e",
+    "topic_id": "topic-guncel",
+    "prompt": "2022 FIFA Dünya Kupası finalinde Arjantin'in rakibi hangi ülkeydi?",
+    "options": [
+      "Fransa",
+      "Hırvatistan",
+      "Brezilya",
+      "İngiltere",
+      "Fas"
+    ],
+    "answer_index": 0,
+    "explanation": "Katar 2022 finali Arjantin ile Fransa arasında oynandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-796-zu4n",
+    "topic_id": "topic-guncel",
+    "prompt": "2022 FIFA Dünya Kupası'nda Altın Top ödülünü kim kazandı?",
+    "options": [
+      "Kylian Mbappé",
+      "Lionel Messi",
+      "Luka Modrić",
+      "Emiliano Martínez",
+      "Julián Álvarez"
+    ],
+    "answer_index": 1,
+    "explanation": "FIFA, Katar 2022'nin Altın Top ödülünü Lionel Messi'ye verdi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-797-ndbn",
+    "topic_id": "topic-guncel",
+    "prompt": "2022 FIFA Dünya Kupası'nda Altın Ayakkabı ödülünü kim kazandı?",
+    "options": [
+      "Lionel Messi",
+      "Olivier Giroud",
+      "Kylian Mbappé",
+      "Julián Álvarez",
+      "Ángel Di María"
+    ],
+    "answer_index": 2,
+    "explanation": "Kylian Mbappé, Katar 2022'nin en golcü oyuncusu olarak Altın Ayakkabı'yı kazandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-798-pemb",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 FIFA Dünya Kupası'na birlikte ev sahipliği yapan ülkeler hangileridir?",
+    "options": [
+      "ABD, Brezilya ve Kanada",
+      "Meksika, Arjantin ve ABD",
+      "Kanada, İngiltere ve ABD",
+      "Kanada, Meksika ve ABD",
+      "Meksika, İspanya ve Portekiz"
+    ],
+    "answer_index": 3,
+    "explanation": "2026 Dünya Kupası Kanada, Meksika ve ABD'nin ortak ev sahipliğinde düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-799-atcq",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 FIFA Dünya Kupası kaç takımla düzenlenmiştir?",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "64",
+      "48"
+    ],
+    "answer_index": 4,
+    "explanation": "2026 edisyonu, 48 takımın yer aldığı ilk FIFA Dünya Kupasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-800-dclx",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 FIFA Dünya Kupası toplam kaç ev sahibi şehirde düzenlenmiştir?",
+    "options": [
+      "16",
+      "12",
+      "14",
+      "18",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "FIFA'ya göre 2026 turnuvasında üç ülkedeki 16 şehir maçlara ev sahipliği yaptı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-801-bvs1",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 FIFA Dünya Kupası toplam kaç maçtan oluşmuştur?",
+    "options": [
+      "64",
+      "104",
+      "80",
+      "96",
+      "112"
+    ],
+    "answer_index": 1,
+    "explanation": "48 takımlı 2026 Dünya Kupası programında toplam 104 maç yer aldı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-802-zjnu",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 FIFA Dünya Kupası'nın açılış maçı hangi şehirde oynanmıştır?",
+    "options": [
+      "Toronto",
+      "Los Angeles",
+      "Meksiko (Mexico City)",
+      "New York/New Jersey",
+      "Vancouver"
+    ],
+    "answer_index": 2,
+    "explanation": "2026 Dünya Kupası'nın açılış maçı Meksiko'da oynandı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-803-a6gs",
+    "topic_id": "topic-guncel",
+    "prompt": "2026 Dünya Kupası ile turnuvaya üçüncü kez ev sahipliği yapan ilk ülke hangisidir?",
+    "options": [
+      "ABD",
+      "Kanada",
+      "Brezilya",
+      "Meksika",
+      "Almanya"
+    ],
+    "answer_index": 3,
+    "explanation": "Meksika, 1970 ve 1986'dan sonra 2026 ile Dünya Kupası'na üçüncü kez ev sahipliği yapan ilk ülke oldu.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-804-h8ki",
+    "topic_id": "topic-guncel",
+    "prompt": "FIFA Dünya Kupası tarihinde üç kez şampiyon olan tek futbolcu kimdir?",
+    "options": [
+      "Diego Maradona",
+      "Lionel Messi",
+      "Franz Beckenbauer",
+      "Ronaldo Nazário",
+      "Pelé"
+    ],
+    "answer_index": 4,
+    "explanation": "Pelé, 1958, 1962 ve 1970'te Brezilya ile Dünya Kupası kazanarak üç şampiyonluğa ulaşan tek futbolcudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-805-6qch",
+    "topic_id": "topic-guncel",
+    "prompt": "Modern Olimpiyat Oyunları'nın yönetiminden sorumlu uluslararası kuruluş hangisidir?",
+    "options": [
+      "Uluslararası Olimpiyat Komitesi (IOC)",
+      "FIFA",
+      "FIVB",
+      "UEFA",
+      "World Athletics"
+    ],
+    "answer_index": 0,
+    "explanation": "Olimpik Hareket'in merkezindeki yönetim kuruluşu Uluslararası Olimpiyat Komitesidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-806-l5sq",
+    "topic_id": "topic-guncel",
+    "prompt": "Olimpiyat sembolünde kaç halka bulunur?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer_index": 1,
+    "explanation": "Olimpiyat sembolü birbirine geçmiş beş halkadan oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-807-2o6h",
+    "topic_id": "topic-guncel",
+    "prompt": "Basketbolu 1891 yılında icat eden kişi kimdir?",
+    "options": [
+      "William G. Morgan",
+      "Pierre de Coubertin",
+      "James Naismith",
+      "Jules Rimet",
+      "Thomas Arnold"
+    ],
+    "answer_index": 2,
+    "explanation": "Basketbol, 1891'de James Naismith tarafından geliştirildi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-808-otvx",
+    "topic_id": "topic-guncel",
+    "prompt": "Futbolda bir takım sahada kaleci dâhil kaç oyuncuyla başlar?",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "11",
+      "13"
+    ],
+    "answer_index": 3,
+    "explanation": "Futbolda bir takım sahada kaleci dâhil 11 oyuncuyla yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-809-crnb",
+    "topic_id": "topic-guncel",
+    "prompt": "FIFA'nın merkezi hangi İsviçre şehrindedir?",
+    "options": [
+      "Cenevre",
+      "Lozan",
+      "Bern",
+      "Basel",
+      "Zürih"
+    ],
+    "answer_index": 4,
+    "explanation": "FIFA'nın merkezi İsviçre'nin Zürih kentindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-810-mzn6",
+    "topic_id": "topic-guncel",
+    "prompt": "UEFA'nın merkezi hangi İsviçre kentindedir?",
+    "options": [
+      "Nyon",
+      "Zürih",
+      "Lozan",
+      "Bern",
+      "Cenevre"
+    ],
+    "answer_index": 0,
+    "explanation": "UEFA'nın merkezi Nyon, İsviçre'dedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-811-sp39",
+    "topic_id": "topic-guncel",
+    "prompt": "Teniste dört büyük turnuvanın genel adı nedir?",
+    "options": [
+      "Golden League",
+      "Grand Slam",
+      "Masters Cup",
+      "World Series",
+      "Super Four"
+    ],
+    "answer_index": 1,
+    "explanation": "Teniste Avustralya Açık, Roland-Garros, Wimbledon ve ABD Açık turnuvaları Grand Slam olarak anılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-812-m4hn",
+    "topic_id": "topic-guncel",
+    "prompt": "Wimbledon tenis turnuvası hangi ülkede düzenlenir?",
+    "options": [
+      "Fransa",
+      "ABD",
+      "İngiltere",
+      "Avustralya",
+      "İspanya"
+    ],
+    "answer_index": 2,
+    "explanation": "Wimbledon, Londra'da düzenlenen Grand Slam tenis turnuvasıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-813-7bxm",
+    "topic_id": "topic-guncel",
+    "prompt": "Tour de France hangi spor dalının en önemli organizasyonlarından biridir?",
+    "options": [
+      "Atletizm",
+      "Yüzme",
+      "Kürek",
+      "Bisiklet",
+      "Triatlon"
+    ],
+    "answer_index": 3,
+    "explanation": "Tour de France, yol bisikletinin en önemli etap yarışlarından biridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-guncel-mtn84yac-814-4bza",
+    "topic_id": "topic-guncel",
+    "prompt": "Formula 1'de yarışların her birine genel olarak ne ad verilir?",
+    "options": [
+      "Grand Slam",
+      "Stage",
+      "Heat",
+      "Derby",
+      "Grand Prix"
+    ],
+    "answer_index": 4,
+    "explanation": "Formula 1 takvimindeki yarışlar Grand Prix olarak adlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:24:49.844770+00:00",
+    "updated_at": "2026-09-04T17:24:49.844770+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-0-ooq3",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulunda bulunan müdürlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Defterdar",
+      "İl Emniyet Müdürü",
+      "İl Jandarma Komutanı",
+      "İl Müftüsü",
+      "Belediye Başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-1-tju8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulunda bulunan müdürlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "İl Müftüsü",
+      "Millî Eğitim Müdürü",
+      "İl Emniyet Müdürü",
+      "Jandarma Komutanı",
+      "Belediye Meclisi Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-10-ndb2",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdare hukukunun asli kaynakları arasında aşağıdakilerden hangisi sayılmaz?",
+    "options": [
+      "Doktrin",
+      "Kanun",
+      "Milletlerarası antlaşmalar",
+      "Anayasa",
+      "Cumhurbaşkanlığı kararnamesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doktrin, idare hukukunun yardımcı kaynaklarından olup bağlayıcı değildir; asli kaynaklar arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-11-z3gx",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idari fonksiyonun özelliklerinden değildir?",
+    "options": [
+      "Sürekli olması",
+      "Bağımsız yargı kararı verebilmesi",
+      "Kendiliğinden harekete geçebilmesi",
+      "Bireylerle doğrudan ilişkili olması",
+      "Kamu gücü kullanılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Yargısal karar verme, idari fonksiyonun değil yargı fonksiyonunun bir özelliğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-12-uzz7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdarenin kanuniliği ilkesine göre idarenin kuruluşu ve görevleri nasıl düzenlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Kanunla",
+      "İdari teamülle",
+      "Yargı içtihadıyla"
+    ],
+    "answer_index": 2,
+    "explanation": "İdarenin kuruluşu ve görevleri kural olarak kanunla düzenlenir; idare kanundan yetki almadan işlem yapamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-13-qxyg",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idarenin kanuniliği ilkesinin istisnalarından biri değildir?",
+    "options": [
+      "Bakanlıkların teşkilatı",
+      "MGK Genel Sekreterliği",
+      "Devlet Denetleme Kurulu",
+      "İl özel idaresinin kuruluşu",
+      "Üst kademe kamu yöneticileri"
+    ],
+    "answer_index": 3,
+    "explanation": "İl özel idaresinin kuruluşu kanunla düzenlenir; metindeki istisnalar bakanlık teşkilatı, MGK Genel Sekreterliği, Devlet Denetleme Kurulu ve üst kademe yöneticilerdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-14-gabl",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Üst kademe kamu yöneticilerinin düzenlenmesinde, idarenin kanuniliği ilkesinin istisnası olarak hangi düzenleyici işlem kullanılır?",
+    "options": [
+      "Kanun",
+      "Yönetmelik",
+      "Genelge",
+      "Yönerge",
+      "Cumhurbaşkanlığı kararnamesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Üst kademe kamu yöneticileri, kanuniliğin istisnası olarak Cumhurbaşkanlığı kararnamesiyle düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-15-pl8c",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Yetki genişliği ilkesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Taşrada alınan kararlar merkez adınadır",
+      "Yetki genişliği yerinden yönetimle aynı anlama gelir",
+      "Gelir-gider taşra teşkilatına aittir",
+      "Vali merkezin hiyerarşisine tabi değildir",
+      "Yetki genişliği sadece belediyelerde uygulanır"
+    ],
+    "answer_index": 0,
+    "explanation": "Yetki genişliğinde taşrada vali tarafından merkez adına karar alınır; gelir-gider merkeze aittir ve vali merkezin hiyerarşisine tabidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-2-vbhu",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Usulüne uygun istifa eden bir memur kaç ay boyunca memurluğa dönemez?",
+    "options": [
+      "3 yıl",
+      "1 yıl",
+      "6 ay",
+      "2 ay",
+      "12 ay"
+    ],
+    "answer_index": 2,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-3-wcij",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devir teslim yapmadan görevi terk eden memur kaç yıl boyunca dönemez?",
+    "options": [
+      "5 yıl",
+      "6 ay",
+      "1 yıl",
+      "3 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-4-fw69",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idare hukukunun yardımcı kaynaklarından biridir?",
+    "options": [
+      "Kanun",
+      "Yönetmelik",
+      "Cumhurbaşkanlığı kararnamesi",
+      "Milletlerarası antlaşmalar",
+      "Yargı içtihatları"
+    ],
+    "answer_index": 4,
+    "explanation": "Yargı içtihatları, idari teamül ve uygulamalar ile doktrin idare hukukunun yardımcı kaynaklarındandır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-5-edsz",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdare hukukunun tanımıyla ilgili aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "Tam olarak kodifiye edilmiş, tek bir kanunda toplanmış bir hukuk dalıdır",
+      "Kamu hukuku dalıdır",
+      "İdare ile bireyler arasındaki ilişkileri düzenler",
+      "Devletin idari teşkilatını düzenler",
+      "Konusu devlet idaresidir"
+    ],
+    "answer_index": 0,
+    "explanation": "İdare hukuku tedvin edilmemiştir, yani tek bir kanunda toplanmamıştır; dağınık kaynaklara sahiptir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-6-7b57",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari fonksiyon en kısa biçimde aşağıdakilerden hangisiyle ifade edilebilir?",
+    "options": [
+      "Yasama faaliyeti",
+      "Kamu hizmeti faaliyeti",
+      "Yargılama faaliyeti",
+      "Denetim faaliyeti",
+      "Siyasi parti faaliyeti"
+    ],
+    "answer_index": 1,
+    "explanation": "İdari fonksiyon, toplumun ortak ve günlük ihtiyaçlarını karşılamak amacıyla yürütülen kamu hizmeti faaliyetleridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-7-13r6",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdare hukukunun temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "İşlemlerin tek taraflı olması",
+      "Amacının kamu yararı olması",
+      "Uyuşmazlıkların adli yargıda çözülmesi",
+      "İçtihatlara dayanması",
+      "Gelişen ve dinamik bir hukuk dalı olması"
+    ],
+    "answer_index": 2,
+    "explanation": "İdare hukukuna ilişkin uyuşmazlıklar adli yargıda değil idari yargıda çözülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-8-32ku",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aşağıdakilerden hangisi idarenin görev ve yetkilerinden biri değildir?",
+    "options": [
+      "Millî güvenliği sağlamak",
+      "Kamu hizmetlerini yürütmek",
+      "Kolluk faaliyetlerini yerine getirmek",
+      "Yasama faaliyetinde bulunmak",
+      "Teşvik ve destekleme faaliyetleri yapmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Yasama, TBMM'ye ait bir fonksiyon olup idarenin görev ve yetkileri arasında sayılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu8-9-e9c9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdarenin kamuya yönelik olmayan tek faaliyet türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Planlama faaliyetleri",
+      "Kamu hizmeti faaliyetleri",
+      "Kolluk faaliyetleri",
+      "Teşvik faaliyetleri",
+      "İç düzen faaliyetleri"
+    ],
+    "answer_index": 4,
+    "explanation": "İç düzen faaliyetleri, idarenin kendi iç işleyişine yönelik olup kamuya yönelik olmayan tek faaliyet türüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-100-mai9",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Usulüne uygun istifa eden bir memur ---- ay boyunca, usulsüz terk eden bir memur ise ---- yıl boyunca memurluğa dönemez.",
+    "options": [
+      "6 / 1",
+      "3 / 6",
+      "6 / 3",
+      "12 / 2",
+      "1 / 3"
+    ],
+    "answer_index": 0,
+    "explanation": "Usulüne uygun istifa 6 ay, usulsüz terk 1 yıl dönememe süresi getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-101-0oeo",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Devir teslim yapmadan görevi terk eden bir memur ---- yıl, OHAL/savaş/seferberlik döneminde terk eden ise ---- memurluğa dönemez.",
+    "options": [
+      "1 / 5 yıl sonra",
+      "3 / hiçbir zaman",
+      "5 / 10 yıl sonra",
+      "2 / 3 yıl sonra",
+      "3 / 6 ay sonra"
+    ],
+    "answer_index": 1,
+    "explanation": "Devir teslim yapmadan terk 3 yıl, olağanüstü dönemde terk ise hiçbir zaman dönememe sonucu doğurur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-102-y64f",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Mal bildirimi, sonu ---- ve ---- ile biten yılların Şubat ayı sonuna kadar yenilenmesi zorunludur.",
+    "options": [
+      "2 / 7",
+      "1 / 6",
+      "0 / 5",
+      "3 / 8",
+      "4 / 9"
+    ],
+    "answer_index": 2,
+    "explanation": "Mal bildirimi, sonu 0 ve 5 ile biten yıllarda (2025, 2030 gibi) Şubat sonuna kadar yenilenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-103-05sm",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aday memurluk süresi ---- yıldan az, ---- yıldan çok olamaz.",
+    "options": [
+      "2 / 4",
+      "2 / 3",
+      "1 / 3",
+      "1 / 2",
+      "1 / 4"
+    ],
+    "answer_index": 3,
+    "explanation": "Aday memurluk süresi 1 yıldan az, 2 yıldan çok olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-104-rc0c",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Adaylığı başarısızlık sebebiyle sonlandırılan bir kişi, ---- yıl boyunca yeniden Devlet memurluğuna alınamaz.",
+    "options": [
+      "6",
+      "1",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer_index": 4,
+    "explanation": "Adaylığı başarısızlıkla sonlanan kişi 3 yıl boyunca memur olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-105-ksx7",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Hiyerarşide üst, astının işlemini ----; idari vesayette ise vesayet makamı denetlediği işlemi iptal edebilir ama ----.",
+    "options": [
+      "değiştirebilir / değiştiremez",
+      "değiştiremez / değiştirebilir",
+      "onaylayabilir / reddedemez",
+      "reddedebilir / onaylayabilir",
+      "iptal edemez / iptal edebilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Hiyerarşik amir işlemi değiştirebilirken, vesayet makamı sadece iptal edebilir, değiştiremez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-106-71n8",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İdari kolluk suçtan ---- devreye girer ve ---- niteliktedir; adli kolluk ise suçtan ---- devreye girer ve ---- niteliktedir.",
+    "options": [
+      "sonra / bastırıcı / önce / önleyici",
+      "önce / önleyici / sonra / bastırıcı",
+      "önce / bastırıcı / sonra / önleyici",
+      "sonra / önleyici / önce / bastırıcı",
+      "önce / önleyici / önce / bastırıcı"
+    ],
+    "answer_index": 1,
+    "explanation": "İdari kolluk önce ve önleyici, adli kolluk sonra ve bastırıcıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-107-xcn3",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "RTÜK üyeleri, ---- tarafından, ---- oranında seçilir.",
+    "options": [
+      "İçişleri Bakanlığı / il sayısı",
+      "Cumhurbaşkanı / bakanlıkların önerisi",
+      "TBMM / siyasi parti gruplarının üye sayısı",
+      "Danıştay / kıdem",
+      "Anayasa Mahkemesi / üyelik süresi"
+    ],
+    "answer_index": 2,
+    "explanation": "RTÜK üyeleri TBMM tarafından, siyasi parti gruplarının üye sayısı oranında seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-108-1ylx",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Sayıştay, ---- adına merkezi yönetim bütçesini denetlerken, siyasi partilerin mali denetimini Sayıştaydan yardım alarak ---- yapar.",
+    "options": [
+      "Anayasa Mahkemesi / TBMM",
+      "Cumhurbaşkanlığı / Danıştay",
+      "Danıştay / TBMM",
+      "TBMM / Anayasa Mahkemesi",
+      "İçişleri Bakanlığı / Danıştay"
+    ],
+    "answer_index": 3,
+    "explanation": "Sayıştay TBMM adına denetim yapar; siyasi parti mali denetimini ise AYM, Sayıştaydan yardım alarak yapar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-109-18ws",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Merkezi idarenin yerinden yönetim kuruluşları üzerindeki, istisnai nitelikte ve sadece kanunla belirlenen sınırlar içinde kullanılan denetim yetkisi aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Yetki genişliği",
+      "Hiyerarşi",
+      "Kanunilik",
+      "Merkezden yönetim",
+      "İdari vesayet"
+    ],
+    "answer_index": 4,
+    "explanation": "Farklı tüzel kişilikler arası, istisnai denetim yetkisi idari vesayet olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-110-7zub",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "Aynı tüzel kişilik içinde üstün, astı üzerindeki emir verme ve denetleme yetkisi aşağıdakilerden hangisiyle tanımlanır?",
+    "options": [
+      "Hiyerarşi",
+      "İdari vesayet",
+      "Kanunilik",
+      "Yetki genişliği",
+      "Kamulaştırma"
+    ],
+    "answer_index": 0,
+    "explanation": "Aynı tüzel kişilik içindeki üst-ast ilişkisi hiyerarşi olarak tanımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  },
+  {
+    "id": "topic-idaresistemi-mtn88xu9-111-r9ke",
+    "topic_id": "topic-idaresistemi",
+    "prompt": "İl İdare Kurulunda kaç müdür bulunur?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer_index": 1,
+    "explanation": null,
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:27:55.801202+00:00",
+    "updated_at": "2026-09-04T17:27:55.801202+00:00"
+  }
+]

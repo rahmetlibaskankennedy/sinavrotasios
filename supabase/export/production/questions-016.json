@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-68-gxtg",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, sözleşme yapılması konusunda Kanunda belirtilen süre içinde idareye düşen yükümlülüklerin yerine getirilmemesi durumuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İstekli teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır",
+      "İstekli sürenin bitmesini izleyen günden itibaren en geç on gün içinde, onbeş gün süreli bir noter ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir",
+      "Oluşan zarar sebep olanlara tazmin ettirilir",
+      "İsteklinin geçici teminatı geri verilir",
+      "Oluşan zarardan sorumlu olanlar hakkında ayrıca 60 inci madde hükümleri de uygulanır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 45 uyarınca doğru süreler şöyledir: istekli, sürenin bitmesini izleyen günden itibaren en geç BEŞ gün içinde, ON gün süreli bir noter ihbarnamesiyle taahhüdünden vazgeçebilir (B şıkkındaki \"on gün / onbeş gün\" rakamları yanlıştır). Bu durumda geçici teminat geri verilir (D doğru), istekli belgelendirilmiş giderlerini isteyebilir (A doğru), oluşan zarar sebep olanlara tazmin ettirilir ve haklarında 60 inci madde hükümleri uygulanır (C ve E doğru).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-69-4s3f",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Kanun'a göre aşağıdakilerden hangisi bir ihale usulü değildir?",
+    "options": [
+      "Doğrudan Temin",
+      "Belli İstekliler Arasında İhale Usulü",
+      "Pazarlık Usulü",
+      "Açık İhale Usulü",
+      "Hiçbiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A seçeneğidir: \"Doğrudan Temin\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 18, 22.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-7-eekm",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Belli istekliler arasında ihale usulünde, idare tarafından davet edilen istekliler teklif verebilir. Bunun için öncelikle .................... değerlendirmesi yapılır.",
+    "options": [
+      "Ön yeterlik",
+      "Yaklaşık maliyet",
+      "İdari şartname",
+      "Teknik değerlendirme",
+      "Sözleşme tasarısı"
+    ],
+    "answer_index": 0,
+    "explanation": "Cevap: Ön yeterlik. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 20.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-70-qghf",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale yetkilisi, ihale komisyonunun kararını en geç kaç iş günü içinde onaylar veya iptal eder?",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "10",
+      "15"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"5\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-71-23e7",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale kararları kim tarafından onaylanır?",
+    "options": [
+      "İhale Komisyonu Başkanı",
+      "Gerçekleştirme Görevlisi",
+      "Muhasebe Yetkilisi",
+      "İhale Yetkilisi",
+      "Vali/Kaymakam"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"İhale Yetkilisi\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-72-fleu",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale dokümanında değişiklik yapılması hâlinde düzenlenen belgeye ne ad verilir?",
+    "options": [
+      "Ek Sözleşme",
+      "Tutanak",
+      "Zeyilname",
+      "Protokol",
+      "Genelge"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"Zeyilname\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 29.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-73-wy9e",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Teminat mektupları dışındaki teminatlar nereye yatırılır?",
+    "options": [
+      "İhale yetkilisine",
+      "Saymanlık ya da muhasebe müdürlüklerine",
+      "İhale komisyonuna",
+      "Bankaya bloke edilir",
+      "Notere teslim edilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B seçeneğidir: \"Saymanlık ya da muhasebe müdürlüklerine\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-74-bo0n",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale yetkilisi ihale kararını iptal ederse ne olur?",
+    "options": [
+      "Komisyon tekrar toplanır",
+      "İkinci istekli çağrılır",
+      "İhale hükümsüz sayılır",
+      "Sözleşme imzalanır",
+      "KİK devreye girer"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"İhale hükümsüz sayılır.\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-75-3gpa",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale dokümanında değişiklik yapılması zorunlu olursa, bunu gerektiren sebepler bir tutanakla tespit edilerek .................... düzenlenir.",
+    "options": [
+      "Ek sözleşme",
+      "Zeyilname",
+      "Tutanak",
+      "Şartname",
+      "Protokol"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Zeyilname. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 29.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-76-m54e",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Yapılan bütün ihaleler aşağıdakilerden hangisine bağlanır?",
+    "options": [
+      "Protokole",
+      "Tutanağa",
+      "Karara",
+      "Sözleşmeye",
+      "Onaya"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"Sözleşmeye\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 46.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-77-rc4w",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "İhale dokümanı idarede .................... görülebilir.",
+    "options": [
+      "Ücretli",
+      "Bedelsiz",
+      "İzne tabi",
+      "Noter onaylı",
+      "Sadece ihaleyi kazananlarca"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Bedelsiz. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-78-afr1",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Her ne suretle olursa olsun, idarece alınan teminatlar .................... ve üzerlerine ihtiyati tedbir konulamaz.",
+    "options": [
+      "Devredilemez",
+      "Geri verilemez",
+      "Haczedilemez",
+      "İrat kaydedilemez",
+      "Takas edilemez"
+    ],
+    "answer_index": 2,
+    "explanation": "Cevap: Haczedilemez. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-79-zq3n",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 37 nci maddesine göre, teklifin esasını değiştirecek nitelikte olmamak kaydıyla belgelerde bilgi eksikliği bulunması hâlinde aşağıdakilerden hangisi yapılabilir?",
+    "options": [
+      "Her durumda teklif değerlendirme dışı bırakılır",
+      "Geçici teminat gelir kaydedilir",
+      "İstekli hakkında yasaklama kararı verilir",
+      "Belirli sürede bilgi eksikliğinin tamamlatılması istenebilir",
+      "İhale iptal edilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D’dir. Madde 37 uyarınca teklifin esasını değiştirecek nitelikte olmamak kaydıyla belgelerde bilgi eksikliği bulunması hâlinde, idarece belirlenen sürede bu eksik bilgilerin tamamlanması yazılı olarak istenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-8-0abw",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "Belli istekliler arasında ihale usulünde, ihaleye davet edilebilecek aday sayısının kaçtan az olması hâlinde ihale yapılmaz?",
+    "options": [
+      "3",
+      "12",
+      "7",
+      "10",
+      "5"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 20/3 genel kuralına göre davet edilebilecek aday sayısının 5'ten az olması hâlinde ihale yapılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-80-aylg",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, kesinleşen ihale kararının bildirilmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İhale kararının ihale yetkilisi tarafından iptal edilmesi durumunda da isteklilere gerekçeleri belirtilmek suretiyle bildirim yapılır",
+      "Açık ihale usulü ile yapılan bir ihalede ihale sonucunun bütün isteklilere bildiriminden itibaren 10 gün geçmedikçe sözleşme imzalanmaz",
+      "Belli istekliler arasında ihale usulü ile yapılan bir ihalede ihale sonucunun bütün isteklilere bildiriminden itibaren 10 gün geçmedikçe sözleşme imzalanmaz",
+      "İhale kararı ihale yetkilisi tarafından onaylandığı günü izleyen en geç beş iş günü içinde, ihale üzerinde bırakılana bildirilir",
+      "İhale sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya uygun bulunmama gerekçelerine de yer verilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 41 uyarınca ihale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı günü izleyen en geç ÜÇ gün içinde, ihale üzerinde bırakılan dâhil BÜTÜN isteklilere bildirilir. D şıkkı hem süreyi (\"beş iş günü\" yerine üç gün) hem de kapsamı (yalnızca \"ihale üzerinde bırakılana\" değil, bütün isteklilere) yanlış vermektedir; bu nedenle yanlış olan ifade D'dir. Diğer şıklar Madde 41 ile uyumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-81-2tg2",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, aşağıdakilerden hangisi teminat olarak kabul edilecek değerlerden biri değildir?",
+    "options": [
+      "Tedavüldeki Türk parası",
+      "Hisse senetleri",
+      "Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi üzerine Türkiye’de faaliyette bulunan bankaların veya özel finans kurumlarının düzenleyeceği teminat mektupları",
+      "Hazine Müsteşarlığınca ihraç edilen Devlet İç Borçlanma Senetleri",
+      "Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyeceği teminat mektupları"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B’dir: “Hisse senetleri”. Madde 34 uyarınca tedavüldeki Türk parası, teminat mektupları ve Hazine Müsteşarlığınca ihraç edilen Devlet İç Borçlanma Senetleri ile bunların yerine düzenlenen belgeler teminat olarak kabul edilir. Maddede belirtilen şartları taşıyan yabancı banka teminat mektupları ile kontrgarantiye dayalı teminat mektupları da kabul edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-82-gzf7",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 25 inci maddesine göre aşağıdakilerden hangisinin ön yeterlik ilanında belirtilmesi zorunludur?",
+    "options": [
+      "Ön yeterlik değerlendirmesinde uygulanacak kriterler",
+      "İhale komisyonu üyelerinin özgeçmişleri",
+      "İsteklilerin önceki ihalelerdeki teklif bedelleri",
+      "İdarenin yıllık bütçe gerçekleşme oranı",
+      "Sözleşme sonrası denetim takvimi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 25'in (f) bendine göre ön yeterlik değerlendirmesinde uygulanacak kriterlerin ilanda belirtilmesi zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-83-uxso",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "13 üncü maddeye göre yirmi beş ve kırk günlük ilan süresi bulunan ihalelerde, 24 ve 25 inci madde hükümlerine uygun olmayan ilan hataları için düzeltme ilanı, ilanların yayımlanmasını takip eden kaç gün içinde yapılabilir?",
+    "options": [
+      "5 gün",
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "25 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 26 uyarınca yirmi beş ve kırk günlük ilan süresi bulunan ihalelerde düzeltme ilanı, ilanların yayımlanmasını takip eden on beş gün içinde yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-84-522d",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 27 nci maddesine göre aşağıdakilerden hangisinin idari şartnamede belirtilmesi zorunludur?",
+    "options": [
+      "Yüklenicinin sonraki ihalelere katılım planı",
+      "İhale komisyonu üyelerinin maaşları",
+      "İsteklilerin vergi beyannamelerinin tümü",
+      "İdarenin önceki yıl kesin hesabı",
+      "Tekliflerin geçerlilik süresi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 27'nin (g) bendine göre tekliflerin geçerlilik süresi idari şartnamede belirtilmesi zorunlu hususlardandır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-85-6b42",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 31 inci maddesine göre ön yeterliğe katılabilme şartı olarak istenilen bütün belgeler hangi madde esaslarına uygun olarak idareye sunulur?",
+    "options": [
+      "30 uncu maddenin birinci ve üçüncü fıkralarına",
+      "22 nci maddenin yalnız (d) bendine",
+      "39 uncu maddenin son cümlesine",
+      "58 inci maddenin üçüncü fıkrasına",
+      "67 nci maddenin ikinci cümlesine"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 31 uyarınca ön yeterliğe katılabilme şartı olarak istenilen bütün belgeler 30 uncu maddenin birinci ve üçüncü fıkralarındaki esas ve usullere uygun sunulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-86-4lcs",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 39 uncu maddesine göre idare, bütün tekliflerin reddedilmesi nedeniyle nasıl bir yükümlülük altına girer?",
+    "options": [
+      "Her istekliye tazminat öder",
+      "Yalnız geçici teminat tutarı kadar sorumlu olur",
+      "Herhangi bir yükümlülük altına girmez",
+      "İhaleyi aynı gün yenilemek zorundadır",
+      "Kurumdan izin almak zorundadır"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 39 uyarınca idare, bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-87-pfg1",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 49 uncu maddesine göre danışmanlık hizmeti ihalesinde yeterliği tespit edilen adaylardan oluşturulacak kısa listede kaç aday yer alır?",
+    "options": [
+      "En az 2, en fazla 5",
+      "En az 3, en fazla 10",
+      "En az 5, en fazla 15",
+      "En az 10, en fazla 20",
+      "Sayı sınırı yoktur"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 49 uyarınca yeterliği tespit edilenler arasından en az üç, en fazla on adayın yer alacağı kısa liste oluşturulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-88-up2f",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 50 nci maddesine göre danışmanlık hizmeti ihalesinde ihaleye davet edilebilecek aday sayısının üçten az olması hâlinde ne yapılır?",
+    "options": [
+      "Davet mektubu gönderilmez ve ihale yapılmaz",
+      "Mevcut adayların tamamıyla pazarlık yapılır",
+      "Tek aday varsa ihale doğrudan sonuçlandırılır",
+      "İhale komisyonu iki yeni aday belirler",
+      "İhale açık ihale usulüne çevrilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 50 uyarınca ihaleye davet edilebilecek aday sayısının üçten az olması hâlinde davet mektubu gönderilmez ve ihale yapılmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-89-090c",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 51 inci maddesine göre danışmanlık hizmeti ihalesinde isteklinin malî teklifini aşağıdakilerden hangisi oluşturur?",
+    "options": [
+      "Yalnız teknik teklif belgeleri",
+      "Teklif edilen bedelin yer aldığı teklif mektubu ile geçici teminat",
+      "Yalnız iş deneyim belgesi",
+      "Ön yeterlik başvurusu ile faaliyet belgesi",
+      "Teknik teklif ile yaklaşık maliyet cetveli"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 51 uyarınca teklif edilen bedelin yer aldığı teklif mektubu ile geçici teminat isteklinin malî teklifini oluşturur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-9-3doh",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "21 inci maddenin (b), (c) ve (f) bentlerine göre pazarlık usulüyle yapılan ihalelerde ilan yapılması ....................",
+    "options": [
+      "Zorunludur",
+      "Zorunlu değildir",
+      "İsteğe bağlıdır",
+      "İdarenin takdirindedir",
+      "KİK iznine tabidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Zorunlu değildir. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 21.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-sureci-tfyj5-mtn0byuy-90-2kuv",
+    "topic_id": "t-ihale-sureci-tfyj5",
+    "prompt": "4734 sayılı Kanun'un 52 nci maddesine göre danışmanlık hizmeti ihalelerinde tekliflerin değerlendirilmesi hangi iki aşamada yapılır?",
+    "options": [
+      "Ön yeterlik ve sözleşme değerlendirmesi",
+      "İdari ve hukuki değerlendirme",
+      "Teknik ve malî değerlendirme",
+      "Maliyet ve teminat değerlendirmesi",
+      "İlan ve davet değerlendirmesi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 52 uyarınca danışmanlık hizmeti ihalelerinde tekliflerin değerlendirilmesi teknik ve malî değerlendirme olmak üzere iki aşamada yapılır; ilk aşamada teknik teklif, ikinci aşamada malî teklif değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:19.234857+00:00",
+    "updated_at": "2026-09-04T13:46:19.234857+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-0-2dv6",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre aşağıdakilerden hangisi ihale usullerinden biri değildir?",
+    "options": [
+      "Pazarlık usulü",
+      "Yarışma usulü",
+      "Belli istekliler arasında pazarlık usulü",
+      "Açık teklif usulü",
+      "Kapalı teklif usulü"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 35'e göre ihale usulleri kapalı teklif, belli istekliler arasında kapalı teklif, açık teklif, pazarlık ve yarışma usulüdür; 'belli istekliler arasında pazarlık usulü' diye ayrı bir usul yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-1-0wzm",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "I. Kapalı teklif usulünde teklifler yazılı olarak yapılır.\nII. Teklif mektubu bir zarfa konulup kapatıldıktan sonra zarfın üzerine isteklinin \"T.C. kimlik numarası\"nı yazması zorunludur.\nIII. Teklif mektuplarında, istekli tarafından teklif edilen fiyatın yazıyla da açık olarak belirtilmesi zorunludur.\n2886 sayılı Devlet İhale Kanunu'na göre kapalı teklif usulü hakkında yukarıda verilenlerden hangisi veya hangileri yanlıştır?",
+    "options": [
+      "Yalnız I",
+      "II ve III",
+      "I ve III",
+      "Yalnız II",
+      "Yalnız III"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 37'ye göre teklif mektubu üzerine isteklinin adı, soyadı ve açık adresi yazılır (TC Kimlik Numarası değil); teklif edilen fiyatın ise rakam ve yazı ile açık yazılması zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-10-3ibf",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, zorunlu nedenlerle kaçtan az istekliden teklif almak gerektiği takdirde Cumhurbaşkanınca bu hususta ayrıca karar alınması şarttır?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 44'ün ikinci fıkrasına göre zorunlu nedenlerle üçten az istekliden teklif almak gerektiğinde Cumhurbaşkanınca ayrıca karar alınması şarttır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-11-t2u8",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Kanun'da \"esas usul\" olarak kabul edilen ihale usulü hangisidir?",
+    "options": [
+      "Yarışma Usulü",
+      "Kapalı Teklif Usulü",
+      "Açık Teklif Usulü",
+      "Pazarlık Usulü",
+      "Belli İstekliler Arasında Kapalı Teklif Usulü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 36'ya göre bu Kanunun 1 inci maddesinde yazılı işlere ilişkin ihalelerde kapalı teklif usulü esastır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-12-1kbw",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde teklif mektubu ve diğer belgeler kaç zarfa konulur?",
+    "options": [
+      "Belgeler zarfa konulmaz, dosyada sunulur.",
+      "Üç ayrı zarf hazırlanır.",
+      "İç ve Dış olmak üzere iki zarf hazırlanır.",
+      "Sadece teklif mektubu zarfa konulur, diğerleri açıktan verilir.",
+      "Hepsi tek bir zarfa konulur."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 37'ye göre teklif mektubu bir zarfa, bu zarf da geçici teminatla birlikte ikinci bir zarfa konularak iç ve dış olmak üzere iki zarf hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-13-7in4",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde dış zarflar açıldıktan sonra, belgeleri veya teminatı uygun olmayan istekliler için ne yapılır?",
+    "options": [
+      "İhaleye katılımları komisyon kararıyla oylanır.",
+      "Geçici teminatları gelir kaydedilir.",
+      "İç zarfları açılır ancak değerlendirmeye alınmaz.",
+      "İç zarfları açılmadan kendilerine iade edilir.",
+      "Eksikliklerini tamamlamaları için süre verilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 39'a göre belgeleri veya teminatı usulüne uygun ve tam olmayan isteklilerin iş zarfları açılmadan kendilerine veya vekillerine iade olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-14-55b1",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde istekli çıkmazsa idare işi ne kadar süre içinde pazarlıkla yaptırabilir?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "30 gün",
+      "45 gün",
+      "15 gün"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 43'e göre kapalı teklif usulünde istekli çıkmazsa idare, işi ihalenin bitiş tarihinden itibaren 15 gün içinde pazarlıkla yaptırabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-15-9se8",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Aşağıdaki işlerden hangisi \"Belli İstekliler Arasında Kapalı Teklif Usulü\" ile ihale edilebilir?",
+    "options": [
+      "Uçak, harp gemisi, baraj gibi özellikli işler",
+      "Personel taşıma hizmeti",
+      "Kırtasiye malzemesi alımı",
+      "Temizlik hizmeti alımı",
+      "Basit onarım işleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 44'e göre uçak, harp gemisi, baraj gibi özellikli işler belli istekliler arasında kapalı teklif usulüyle ihale edilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-16-j9vb",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulü ile yapılan ihalelerde teklifler nasıl verilir?",
+    "options": [
+      "Yazılı ve kapalı zarf içinde",
+      "Komisyon önünde sözlü olarak",
+      "Sadece elektronik ortamda",
+      "Posta yoluyla gönderilmek zorundadır",
+      "Noter aracılığıyla"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 46'nın birinci fıkrasına göre açık teklif usulünde ihaleler, isteklilerin komisyon önünde tekliflerini sözlü olarak belirtmeleri suretiyle yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-17-8ai1",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Aşağıdakilerden hangisi Pazarlık Usulü ile yapılabilecek işlerden biri değildir?",
+    "options": [
+      "Sadece tek bir firma elinde bulunan malların alımı",
+      "Hava ve deniz kuvvetlerinin acele ihtiyaçları",
+      "Çabuk bozulan malların satımı",
+      "Her yıl bütçe kanununda belirlenen tutarı aşan genel bina inşaatları",
+      "İdarenin paydaş olduğu malların kiraya verilmesi"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 51/a bendine göre pazarlık usulü, her yıl Genel Bütçe Kanununda gösterilecek tutarları AŞMAYAN işler için uygulanır; bu tutarı aşan genel bina inşaatları pazarlık usulüne konu olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-18-d3po",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "\"Milli Güvenlik nedeniyle gizli tutulması zorunluluğu Cumhurbaşkanınca kabul edilen işler\" hangi ihale usulü ile yapılır?",
+    "options": [
+      "Açık Teklif Usulü",
+      "Pazarlık Usulü",
+      "Kapalı Teklif Usulü",
+      "Belli İstekliler Arasında Kapalı Teklif",
+      "Yarışma Usulü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 51/n bendine göre milli güvenlik nedeniyle gizli tutulması zorunluluğu Cumhurbaşkanınca kabul edilen işler pazarlık usulüyle yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-19-iayp",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Pazarlık usulü ile yapılan ihalelerde teklif alma yöntemi nasıldır?",
+    "options": [
+      "Yalnızca güvenli elektronik imza ile alınır.",
+      "Belli bir şekle bağlı değildir; yazılı veya sözlü olabilir.",
+      "Yalnızca sözlü teklif alınması mümkündür.",
+      "Noter huzurunda ve tutanakla yapılır.",
+      "Yalnızca yazılı teklif alınması mümkündür."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 50'ye göre pazarlık usulünde teklif alınması belli bir şekle bağlı değildir; işin nitelik ve gereğine göre bir veya daha fazla istekliden yazılı veya sözlü teklif alınabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-2-h36o",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre kapalı teklif usulü ihalelerde tekliflerin verilmesiyle ilgili olarak aşağıdakilerden hangisi yanlış verilmiştir?",
+    "options": [
+      "Bu takdirde dış zarfın üzerine komisyon başkanlığının adresi ile hangi işe ait olduğu, isteklinin adı ve soyadı ile açık adresi yazılır.",
+      "Komisyon başkanlığına verilen teklifler komisyonun uygun görmesi durumunda geri alınabilir.",
+      "Alındı numarası zarfın üzerine yazılır. Teklifler iadeli taahhütlü olarak da gönderilebilir.",
+      "Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır.",
+      "Teklifler ilanda belirtilen saate kadar, sıra numaralı alındılar karşılığında komisyon başkanlığına verilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 38'in son fıkrasına göre komisyon başkanlığına verilen teklifler herhangi bir sebeple geri alınamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-20-hkco",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "İdarelerin, müştereken sahibi bulundukları taşınmazlardaki paylarını paydaşlara kiraya vermesi hangi usulle yapılır?",
+    "options": [
+      "Yarışma Usulü",
+      "Kapalı Teklif",
+      "Pazarlık Usulü",
+      "Açık Teklif",
+      "Emanet Usulü"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 51/f bendine göre idarelerin müştereken sahibi bulundukları taşınmaz mallardaki paylarının paydaşlara kiraya verilmesi pazarlık usulüyle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-21-afdl",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulü ihalede, isteklilerden biri ihaleden çekilirse (imzadan çekinirse) ne yapılır?",
+    "options": [
+      "Teklifi geçersiz sayılır, ihale ertelenir.",
+      "İhale iptal edilir.",
+      "Teminatı yakılarak ihale salonundan çıkarılır.",
+      "Durum artırma kağıdına yazılır, yeniden teklif veremez.",
+      "Bir sonraki turda tekrar girebilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 47'ye göre ihaleden çekilen isteklilerin durumu artırma ve eksiltme kağıdına yazılır ve imzaları alınır; ihaleden çekilenler yeniden teklifte bulunamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-22-whvk",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Mimarlık ve mühendislik proje yarışmalarıyla ilgili yönetmelik hangi bakanlıkça hazırlanır?",
+    "options": [
+      "Ulaştırma Bakanlığı",
+      "Kültür ve Turizm Bakanlığı",
+      "Bayındırlık Bakanlığı",
+      "Sanayi ve Teknoloji Bakanlığı",
+      "Milli Eğitim Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 52'ye göre mimarlık ve mühendislik proje yarışmalarıyla ilgili yönetmelik Bayındırlık Bakanlığınca hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-23-bod5",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulü artırmalarda, geçerli en yüksek teklifin altında olmamak üzere oturumda hazır bulunanlardan ne alınır?",
+    "options": [
+      "Sözlü veya yazılı son teklif",
+      "Ek teminat",
+      "Taahhütname",
+      "Kefalet senedi",
+      "İhale harcı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 40'ın üçüncü fıkrasına göre kapalı teklif usulü artırmalarında, geçerli en yüksek teklifin altında olmamak üzere oturumda hazır bulunan isteklilerden sözlü veya yazılı son teklif alınmak suretiyle ihale sonuçlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-24-4tgv",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde tekliflerin hazırlanması ve sunulması süreciyle ilgili olarak, aşağıdakilerden hangisi Kanun'a aykırılık teşkil eder?",
+    "options": [
+      "Teklif mektuplarında şartname ve eklerinin tamamen okunup kabul edildiğinin belirtilmesi",
+      "Geçici teminata ait alındı veya banka teminat mektubunun iç zarfa (teklif mektubu zarfına) konulması",
+      "Teklif edilen fiyatın rakam ve yazı ile açık olarak yazılması",
+      "Dış zarfın üzerine isteklinin adı, soyadı, açık adresi ve teklifin hangi işe ait olduğunun yazılması",
+      "Teklif mektubunun bir zarfa konulup kapatıldıktan sonra zarfın üzerine isteklinin adı, soyadı ve açık adresinin yazılması"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 37'ye göre teklif mektubu bir zarfa (iç zarf) konulur; bu zarf, geçici teminata ait alındı veya banka teminat mektubu ve istenilen diğer belgelerle birlikte ikinci bir zarfa (dış zarf) konularak kapatılır. Teminat belgesinin iç zarfa konulması bu düzene aykırıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-25-vqjc",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde \"iç zarfların açılması\" aşamasında (Madde 40) ihale komisyonunun uyguladığı prosedürle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Zarflar numara sırasıyla açılarak teklifler okunur.",
+      "Tüm teklifler eşit çıkarsa ihale iptal edilir ve yeniden ilana çıkılır.",
+      "Geçerli en yüksek teklifin altında olmamak üzere, oturumda hazır bulunan isteklilerden sözlü veya yazılı son teklif alınarak ihale sonuçlandırılır.",
+      "Zarflar açılmadan önce ihaleye katılacaklardan başkası ihale odasından çıkarılır.",
+      "Teklif mektupları şartnameye uymuyorsa veya düzeltme/kazıntı varsa kabul edilmez."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 40'a göre iç zarflar açılmadan önce ihaleye katılacaklardan başkası ihale odasından çıkarılır ve zarflar numara sırasıyla açılır; teklifler eşit çıkarsa Kanunda ihalenin doğrudan iptal edileceğine dair bir hüküm yoktur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-26-sz8f",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde, isteklinin ihale komisyonunda hazır bulunmayıp teklifini posta ile göndermesi durumunda aşağıdakilerden hangisi geçerli olur?",
+    "options": [
+      "Posta ile gelen teklif geçici kabul edilir, istekli 24 saat içinde gelip imzalamalıdır.",
+      "İstekli adına komisyon başkanı temsili artırım yapar.",
+      "Posta ile gönderilen teklifler açık teklif usulünde kabul edilmez.",
+      "Posta ile gönderilen teklif, son ve kesin teklif olarak kabul edilir.",
+      "Komisyon, istekliye ulaşarak telefonla artırım yapmasını ister."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 46'nın son fıkrasına göre teklif sahibi komisyonda hazır bulunmazsa, posta ile gönderilen teklif son ve kesin teklif olarak kabul edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-27-90zv",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Pazarlık usulü ile yapılan ihalelerde tekliflerin alınması ve karara bağlanması süreciyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Teklif alınması belli bir şekle bağlı değildir.",
+      "İşin nitelik ve gereğine göre yazılı veya sözlü teklif alınabilir.",
+      "Pazarlık usulünde geçici teminat alınması zorunludur.",
+      "Pazarlığın ne suretle yapıldığı ve tercih nedenleri kararda gösterilir.",
+      "Komisyon bir veya daha fazla istekliden teklif alabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 50'ye göre pazarlık usulünde teklif alınması belli bir şekle bağlı değildir; komisyon bir veya daha fazla istekliden yazılı veya sözlü teklif alabilir; ancak geçici teminat alınması bu usulde zorunlu değildir, idarelerin takdirindedir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-28-2cac",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulüyle yapılan ihalelerde istekli çıkmaması durumunda idarenin izleyebileceği yol aşağıdakilerden hangisidir?",
+    "options": [
+      "Şartname değiştirilerek doğrudan kapalı teklif usulüne geçilir.",
+      "İhale iptal edilir ve altı ay süreyle yeniden ihaleye çıkılamaz.",
+      "Doğrudan temin yöntemiyle piyasadan alım yapılması gerekir.",
+      "Tahmin edilen bedel %10 artırılarak yeniden ilana çıkılır.",
+      "Aynı usulle ihale açılır veya 15 gün içinde pazarlıkla yaptırılır."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 49'a göre açık teklif usulüyle yapılan ihalelerde istekli çıkmazsa, yeniden aynı usulle ihale açılır veya idare yararı görüldüğü takdirde iş, ihalenin bitiş tarihinden itibaren 15 gün içinde 43 üncü madde esasları dahilinde pazarlıkla yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-29-q9aa",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Kanun'a göre \"yarışma usulü\"nün uygulanabileceği işler aşağıdakilerden hangisiyle sınırlıdır?",
+    "options": [
+      "Tarihi eser restorasyon işleri",
+      "Yüksek teknoloji gerektiren makine alımları",
+      "Sadece mimari proje yarışmaları",
+      "Her türlü etüt, plan, proje ve güzel sanatlara ilişkin işler",
+      "Her türlü yapım, onarım ve tadilat işleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 52'ye göre idareler her türlü etüt, plan, proje ve güzel sanatlara ilişkin işleri yarışma usulüyle yaptırabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-3-ujc1",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre kapalı teklif usulü ihalelerde iç zarfların açılmasıyla ilgili olarak aşağıdakilerden hangisi yanlış verilmiştir?",
+    "options": [
+      "Zarflar numara sırasıyla açılarak teklifler komisyon başkanınca okunur veya okutulur.",
+      "İç zarflar açılmadan önce, ihaleye katılacaklardan başkası ihale odasından çıkarılır.",
+      "Okunan teklif zarflarının komisyonca bir listesi yapılır ve dosyada saklanır.",
+      "Şartnameye uymayan teklif mektupları, ihale komisyonunun uygun bulması durumunda kabul edilir.",
+      "Düzenlenen bu liste, komisyon başkanı ve üyeleri tarafından imzalanır."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 40'ın ikinci fıkrasına göre şartnameye uymayan veya 37 nci maddenin son fıkrasına aykırı teklif mektupları, komisyonun takdirine bakılmaksızın kabul edilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-30-b0qi",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Belli istekliler arasında kapalı teklif usulü ile yapılacak ihalelerde, ihaleye katılacak isteklilerin belirlenmesi için kimin onayı zorunludur?",
+    "options": [
+      "Vali veya Kaymakam",
+      "Bizzat ilgili veya bağlı bulunulan Bakan",
+      "İhale Komisyonu Başkanı",
+      "Cumhurbaşkanı",
+      "İta Amiri"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 44'ün üçüncü fıkrasına göre belli istekliler arasında kapalı teklif usulüyle yapılacak ihalelerde, ihaleye katılacak isteklilerin isimleri belirtilmek suretiyle bizzat ilgili veya bağlı bulunulan bakanın onayının alınması zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-31-ibth",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Aşağıdaki işlerden hangisi için ihale şartnamesi düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunlu değildir?",
+    "options": [
+      "Açık teklif usulüyle yapılan taşınır mal ve araç satışları",
+      "Yabancı ülkelerden sağlanması zorunlu olan her türlü alım işleri",
+      "Devlet ormanlarında yürütülen ağaçlandırma ve bakım işleri",
+      "Bedeli bütçe kanunu sınırını aşan yapım ve onarım işleri",
+      "Süreklilik gösteren temizlik ve personel taşıma hizmetleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 51'in son fıkrasına göre yalnızca (a), (b), (c), (d), (i), (l) ve (p) bentlerinde sayılan işler için şartname düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunlu değildir; bu istisnalardan biri de (p) bendindeki, yabancı ülkelerden sağlanması zorunlu her türlü alım işleridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-32-0py2",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır. Postadaki … nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir. (2886 s. K. m. 38) Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Gecikme",
+      "Hasar",
+      "Adres hatası",
+      "Teminat eksikliği",
+      "Vekaletname noksanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 38'e göre posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır; postadaki gecikme nedeniyle işleme konulmayacak tekliflerin alınış zamanı bir tutanakla tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-33-kqmy",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Kanun'un 36 ncı maddesine göre aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      "44 üncü maddede gösterilen işler — açık teklif usulü",
+      "45 inci maddede gösterilen işler — yarışma usulü",
+      "51 inci maddede sayılan işler — açık teklif usulü",
+      "52 nci maddede gösterilen işler — pazarlık usulü",
+      "44 üncü maddede gösterilen işler — belli istekliler arasında kapalı teklif usulü"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 36'ya göre 44 üncü maddede gösterilen işler belli istekliler arasında kapalı teklif usulüyle yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-34-tn01",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Madde 36'ya göre aşağıdaki usul-madde eşleştirmelerinden hangisi yanlıştır?",
+    "options": [
+      "51 inci madde — yarışma usulü",
+      "51 inci madde — pazarlık usulü",
+      "52 nci madde — yarışma usulü",
+      "44 üncü madde — belli istekliler arasında kapalı teklif usulü",
+      "45 inci madde — açık teklif usulü"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 36'ya göre 51 inci maddede sayılan işler pazarlık usulüyle yaptırılabilir; yarışma usulü 52 nci maddede gösterilen işler içindir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-35-20xs",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde teklif mektubunda zorunlu unsurlardan birine uyulmaması veya teklif üzerinde kazıntı, silinti ya da düzeltme bulunması hâlinde ne olur?",
+    "options": [
+      "Teklif yalnızca eksiltme ihalelerinde geçerli olur.",
+      "Teklif reddedilerek hiç yapılmamış sayılır.",
+      "Teklif şartlı olarak kabul edilir.",
+      "İstekliye oturum sırasında düzeltme yaptırılır.",
+      "Teklif kesin teminat alınarak kabul edilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 37'ye göre zorunlu unsurlara uymayan veya üzerinde kazıntı, silinti ya da düzeltme bulunan teklifler reddedilerek hiç yapılmamış sayılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-36-68ly",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde dış zarfın üzerindeki alındı sıra numarası, dış zarf açıldıktan sonra nereye yazılır?",
+    "options": [
+      "Şartnamenin son sayfasına",
+      "İhale kararının üzerine",
+      "İç zarfın üzerine",
+      "Kesin teminat mektubuna",
+      "Sözleşmenin üzerine"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 39'a göre dış zarfın üzerindeki alındı sıra numarası iç zarfın üzerine de yazılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-37-cvmv",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Teklif mektuplarını taşıyan iç zarflar açılmadan önce ihale odasında kimler bırakılır?",
+    "options": [
+      "İhaleye katılamayacak istekliler",
+      "Yalnız komisyon başkanı",
+      "Sadece posta ile teklif verenler",
+      "İhaleye katılacaklar; bunların dışındakiler çıkarılır.",
+      "Tüm hazır bulunanlar hiçbir ayrım yapılmadan"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 40'a göre iç zarflar açılmadan önce ihaleye katılacaklardan başkası ihale odasından çıkarılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-38-drjp",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulüyle yapılan artırma ihalelerinde geçerli teklif sayısı üçten fazla ise, sözlü veya yazılı yeni teklif alma işlemi kural olarak kimlerle sürdürülür?",
+    "options": [
+      "İhaleye katılamayan isteklilerle",
+      "Bütün isteklilerle zorunlu olarak",
+      "Yalnız en düşük üç teklif sahibiyle",
+      "Sadece ilk teklif sahibiyle",
+      "Geçerli en yüksek üç teklif sahibiyle; üçüncü teklif ile aynı olan diğer istekliler varsa onlar da dâhil edilerek"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 40'a göre geçerli teklif sayısı üçten fazla ise işlem, geçerli en yüksek üç teklif sahibiyle; üçüncü teklif ile aynı olan birden fazla teklif varsa bu istekliler de dâhil edilerek yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-39-8ag7",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "40 ıncı madde gereğince kabul edilen teklifler incelendikten sonra komisyon aşağıdakilerden hangisine karar verebilir?",
+    "options": [
+      "İhalenin yapıldığı ancak ita amirinin onayına bağlı kaldığına",
+      "Sözleşmenin kesin olarak hükümsüz olduğuna",
+      "Geçici teminatın her durumda gelir kaydedileceğine",
+      "İlanın yapılmasına gerek olmadığına",
+      "İhale usulünün kendiliğinden değiştiğine"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 41'e göre komisyon; ihalenin yapıldığı ancak ita amirinin onayına bağlı kaldığına, ayrıntılı inceleme için ihalenin başka güne bırakıldığına veya ihalenin yapılmadığına karar verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-4-5wk9",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre tekliflerin daha ayrıntılı incelenmesi için süreye ihtiyaç duyulduğunda, şartnamelerde daha uzun bir süre öngörülmemişse ihale kaç günü geçmemek üzere başka bir güne bırakılabilir?",
+    "options": [
+      "5",
+      "30",
+      "10",
+      "7",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 41'in (b) bendine göre tekliflerin ayrıntılı incelenmesi için süreye ihtiyaç duyulursa, şartnamede daha uzun süre öngörülmemişse ihale 15 günü geçmemek üzere başka bir güne bırakılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-40-20iw",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Kapalı teklif usulünde ihale yapılamayıp iş pazarlığa bırakılırsa şartnamedeki nitelik ve şartlar bakımından hangi kural uygulanır?",
+    "options": [
+      "Tamamı kaldırılır.",
+      "Aynen muhafaza edilir.",
+      "Yalnız fiyat şartları korunur.",
+      "İsteklilerce yeniden belirlenir.",
+      "Sadece teslim şartları korunur."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 43'e göre işin pazarlığa bırakılması hâlinde şartnamede belirtilen nitelik ve şartların aynen muhafazası zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-41-qfdj",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "İhale, şartnamede belirtilen nitelikte mal bulunmaması sebebiyle geri kalmışsa yeni ihale yapılıncaya kadar günlük ihtiyaçlar nasıl temin edilebilir?",
+    "options": [
+      "Hiçbir şekilde temin edilemez",
+      "Yalnız kapalı teklif usulüyle",
+      "Şartnameye bağlı kalmaksızın",
+      "Sadece yarışma usulüyle",
+      "Yalnız yabancı ülkelerden"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 43'e göre ihale şartnamede belirtilen nitelikte mal bulunmaması sebebiyle geri kalmışsa günlük ihtiyaçlar şartnameye bağlı kalmaksızın temin edilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-42-1e0l",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Kanun'un 1 inci maddesinde yazılı işlerden hangi ihaleler açık teklif usulüyle yapılabilir?",
+    "options": [
+      "Sadece sözleşmesi feshedilen işler",
+      "Tahmin edilen bedeli her durumda sınırsız olanlar",
+      "Yalnız yabancı isteklilerin katıldığı ihaleler",
+      "Tahmin edilen bedeli her yıl Genel Bütçe Kanunu ile tespit edilecek tutarı geçmeyenler",
+      "Yalnız yarışma konusu işler"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 45'e göre Kanunun 1 inci maddesinde yazılı işlerden tahmin edilen bedeli her yıl Genel Bütçe Kanunu ile tespit edilecek tutarı geçmeyen ihaleler açık teklif usulüyle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-43-jwpu",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde ihale saati geldiğinde, isteklilerin belgeleri ve geçici teminatları incelendikten sonra yapılan işlemler nasıl tespit edilir?",
+    "options": [
+      "Kesin kabul tutanağıyla",
+      "Yalnız sözleşmeyle",
+      "Sadece ita amiri kararıyla",
+      "İlan metnine eklenerek",
+      "İstekliler önünde bir tutanakla"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 47'ye göre kimlerin ihaleye katılabileceğinin belirlenmesi ve katılamayacakların belge ve teminatlarının geri verilmesine ilişkin işlemler istekliler önünde bir tutanakla tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-44-eww4",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde ihaleye girebilecek istekliler, tutanaktan sonra hangi sırayla işleme çağrılır?",
+    "options": [
+      "Önce şartnameyi imzaya, sonra sıra ile tekliflerini belirtmeye",
+      "Önce sözleşmeyi imzaya, sonra teminatı geri almaya",
+      "Önce kesin teminat vermeye, sonra ilan hazırlamaya",
+      "Önce tekliften çekilmeye, sonra şartnameyi almaya",
+      "Önce ihale kararını onaylamaya, sonra teklif vermeye"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 47'ye göre diğer istekliler önce şartnameyi imzaya, daha sonra sıra ile tekliflerini belirtmeye çağrılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-45-biyd",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde ilk teklifler tespit edildikten sonra posta ile yapılmış teklifler varsa komisyon başkanı ne yapar?",
+    "options": [
+      "Posta tekliflerini açmadan iade eder.",
+      "Bu teklifleri okutarak artırma ve eksiltme kağıdına yazılmasını sağlar.",
+      "Posta tekliflerini yalnız sözleşmeden sonra değerlendirir.",
+      "Posta tekliflerini kesin olarak geçersiz sayar.",
+      "Posta tekliflerini yalnız ita amirine gönderir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 47'ye göre ilk teklifler tespit edildikten sonra posta ile yapılmış teklifler varsa komisyon başkanı bunları okutarak artırma ve eksiltme kağıdına yazılmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-46-7pjr",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde yapılan indirim veya artırımların işi uzatacağı anlaşılırsa komisyon nasıl hareket edebilir?",
+    "options": [
+      "Yalnız posta ile teklif kabul eder.",
+      "İhaleyi zorunlu olarak iptal eder.",
+      "İsteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmelerini isteyebilir.",
+      "Daha önce çekilen isteklileri yeniden teklif vermeye çağırır.",
+      "Şartnameyi değiştirerek aynı oturumda devam eder."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 47'ye göre tekliflerin işi uzatacağı anlaşılırsa isteklilerden komisyon huzurunda yazılı son teklif istenebilir; daha önce çekilmiş olanlar bu durumda teklif veremez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-47-rbpk",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulünde sözlü veya yazılı son teklifler alındıktan sonra ihale hangi maddeye göre karara bağlanır?",
+    "options": [
+      "51 inci madde",
+      "43 üncü madde",
+      "49 uncu madde",
+      "41 inci madde",
+      "54 üncü madde"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 48'e göre sözlü veya yazılı son teklifler alındıktan sonra ihale 41 inci maddeye göre karara bağlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-48-9e6o",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Açık teklif usulüyle yapılan ihalede istekli çıkmaması veya belgelerin ya da son tekliflerin uygun görülmemesi hâlinde, idare yararı görülürse iş en geç ne kadar süre içinde pazarlıkla yaptırılabilir?",
+    "options": [
+      "Herhangi bir süre olmaksızın",
+      "İhalenin bitiş tarihinden itibaren 45 gün içinde",
+      "İhale tarihinden önce 10 gün içinde",
+      "Sözleşmeden sonra 30 gün içinde",
+      "İhalenin bitiş tarihinden itibaren 15 gün içinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 49'a göre idare yararı görülürse iş, ihalenin bitiş tarihinden itibaren 15 gün içinde 43 üncü maddenin ikinci fıkrasındaki esaslar dâhilinde pazarlıkla yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-49-jfz5",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "Hazinenin veya Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde ya da Devletin hüküm ve tasarrufu altındaki belirtilen yerlerde su ürünleri üretim hakkının kiraya verilmesi, Madde 51'e göre hangi usulle yapılabilir?",
+    "options": [
+      "Pazarlık usulü",
+      "Yarışma usulü",
+      "Yalnız kapalı teklif usulü",
+      "Emanet usulü",
+      "Açık teklif usulü zorunlu olarak"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 51'in (h) bendine göre belirtilen yerlerdeki su ürünleri üretim hakkının Tarım ve Orman Bakanlığınca kiraya verilmesi pazarlık usulüyle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-5-7ny9",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre belli istekliler arasında yapılacak ihaleler ile ilgili olarak \"Uçak, harp gemisi, harp mühimmatı, elektronik cihaz, askeri tesisat ve levazımat, silah ve malzeme sistemleri, savunma sanayii ile ilgili faaliyetler ve bunlara ait her türlü yedek parça alımı; barajlar, enerji santralleri, sulama tesisleri, limanlar, rıhtımlar, hava meydanları, demiryolları, lokomotifler, karayolları, tüneller, köprüler, akaryakıt tesisleri, özelliği bulunan yapım işleri bedii ve teknik hususiyetleri taşıyan sanat işleri, kentlerin ulaşım sistemlerine ilişkin planlar, kentlerin harita, nazım ve imar planları, su, kanalizasyon ve enerji tesisleri ile bunların etüt ve proje işlerinin ihalesi; diğer ihale usulleri yerine teknik yeterlilikleri ve güçleri idarece kabul edilmiş\" en az kaç istekli (zorunlu nedenler hariç) arasından kapalı teklif usulü ile yaptırılabilir?",
+    "options": [
+      "3",
+      "10",
+      "7",
+      "4",
+      "5"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 44'ün birinci fıkrasına göre uçak, harp gemisi, baraj gibi özellikli işler, teknik yeterlilikleri idarece kabul edilmiş en az üç istekli arasında kapalı teklif usulüyle yaptırılabilir; zorunlu nedenlerle üçten az istekliden teklif alınması Cumhurbaşkanı kararına bağlıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-6-n207",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre belli istekliler arasında yapılacak ihalelerde, zorunlu nedenlerle üçten az istekliden teklif almak gerektiği durumlarda yapılacak uygulamalara ilişkin aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Zorunlu nedenlerle üçten az istekliden teklif almak gerektiği takdirde Cumhurbaşkanınca bu hususta ayrıca karar alınması şarttır.",
+      "Zorunlu nedenlerle dahi olsa üçten az istekliden teklif alınarak \"Belli istekliler arasında ihale\" usulüyle ihale yapılamaz.",
+      "Bu ihalelerde ilan yapılması zorunlu değildir.",
+      "Bu madde hükümlerine göre yapılacak ihalelerde, ihaleye katılacak isteklilerin isimleri belirtilmek suretiyle bizzat ilgili veya bağlı bulunulan bakanın onayının alınması zorunludur.",
+      "Gerekli görülen hâllerde ihaleye davet edilecek isteklilerin seçimi için 17, 18 ve 19 uncu maddeleri hükümlerine bağlı kalınmaksızın önseçim ilanı yapılabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 44'ün ikinci fıkrasına göre zorunlu nedenlerle üçten az istekliden teklif almak gerektiğinde Cumhurbaşkanınca ayrıca karar alınması şarttır; bu, ihalenin üçten az istekliyle yapılamayacağı anlamına gelmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-7-zxb2",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre \"açık teklif usulü ile yapılabilecek ihaleler\" ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Açık teklif usulüne göre ihaleler, isteklilerin ihale komisyonları önünde tekliflerini sözlü olarak belirtmeleri suretiyle yapılır.",
+      "İstekliler ilanda belirtilen ihale saatine kadar komisyon başkanlığına ulaşmış olmak şartıyla, 37 nci madde hükümlerine uygun olarak düzenleyecekleri tekliflerini iadeli taahhütlü bir mektupla da gönderebilirler.",
+      "Teklifler yapıldığı sırada, yapılan indirim veya artırımların işi uzatacağı anlaşılırsa; isteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha önce ihaleden çekilmiş olanlar bu durumda yazılı teklif verebilirler.",
+      "Bu Kanunun 1 inci maddesinde yazılı işlerden, tahmin edilen bedeli her yıl Genel Bütçe Kanunu ile tespit edilecek tutarı geçmeyen ihaleler açık teklif usulüyle yapılabilir.",
+      "Teklif sahibi komisyonda hazır bulunmadığı takdirde posta ile gönderilen teklif son ve kesin teklif olarak kabul edilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 47'nin son fıkrasına göre daha önce ihaleden çekilmiş olanlar, komisyon huzurunda son teklif istenen durumda yazılı teklif veremezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-8-wf6a",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre pazarlık usulüyle yapılacak ihalelerden hangileri için şartname düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunludur?",
+    "options": [
+      "Silahlı Kuvvetlerin manevra ve planlı tatbikatlarının gerektirdiği ve acele olarak temini zorunlu her türlü ihtiyaçları; Silahlı Kuvvetler için Genelkurmay Başkanlığınca, güvenlik kuvvetleri için İçişleri Bakanlığınca tespit edilecek özel durumlardaki her türlü ihtiyaçları ve taşıma işleri,",
+      "Önceden düşünülmesi mümkün olmayan ani ve beklenmeyen olayların ortaya çıkması üzerine acele olarak yapılması gerekip, kapalı veya açık teklif usulünün uygulanmasına yeterli süre bulunmayan işler; diğer ihale usulleriyle temin edilemeyeceği açıkça belli olan işler; bilgisayar alımı, kiralanması, bakım ve onarımı; her çeşit araç ve gerecin yetkili servislerine yaptırılacak periyodik bakım ve onarımları; yedek parça ve lastik alımları,",
+      "Tek kişi veya firma elinde bulunan taşınır mal, hak ve hizmetlerle, belirli taşınmaz malların alımı veya kiralanması,",
+      "Çabuk bozulan, saklanması tehlikeli olan, saklama giderleri değerine veya beklemeden doğacak yararına oranla yüksek bulunan malların satımı,",
+      "Yer, özellik (askeri birliklerin kuruluş özellikleri dâhil) ve nitelikleri itibarıyla her yıl Genel Bütçe Kanununda gösterilecek belli tutarları aşmayan ve süreklilik göstermeyen, bu Kanunun 1 inci maddesinde gösterilen işler,"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 51'in son fıkrasına göre yalnızca (a), (b), (c), (d), (i), (l) ve (p) bentlerinde sayılan işler için şartname düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunlu değildir; çabuk bozulan malların satımı (k bendi) bu istisnalar arasında yer almadığından bu işler için söz konusu zorunluluklar geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usulleri-2o8xw-mtmzve3u-9-or6f",
+    "topic_id": "t-ihale-usulleri-2o8xw",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, tekliflerin verilmesine ilişkin aşağıda verilen hususlardan hangisi yanlıştır?",
+    "options": [
+      "Tekliflerin iadeli taahhütlü olarak gönderilmesi zorunludur.",
+      "Alındı numarası zarfın üzerine yazılır.",
+      "Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.",
+      "Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır.",
+      "Teklifler ilanda belirtilen saate kadar, sıra numaralı alındılar karşılığında komisyon başkanlığına verilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 38'e göre teklifler iadeli taahhütlü olarak da gönderilebilir; bu bir zorunluluk değil, seçenektir, dolayısıyla 'zorunludur' ifadesi yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:25.835204+00:00",
+    "updated_at": "2026-09-04T13:33:25.835204+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-0-5jx0",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nda kamu yararına çalışan derneklere taşınmaz malların satımıyla ilgili olarak, taşınmaz mal kaç yıl içinde kuruluş gayesine uygun kullanılmadığı takdirde satış bedeli üzerinden Hazinece geri alınır?",
+    "options": [
+      "30",
+      "15",
+      "10",
+      "20",
+      "5"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 72'nin son fıkrasına göre beş yıl içinde kuruluş gayesine uygun kullanılmadığı takdirde taşınmaz mal, satış bedeli üzerinden Hazinece geri alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-1-4p0r",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihtiyaçların kamu kuruluşlarından karşılanması durumunda ihale işleri, Maliye Bakanlığının uygun görüşü alınarak kıymet takdiri suretiyle yapılır. Buna göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Özel kanun veya Cumhurbaşkanlığı kararnameleri ile kurulan tüzelkişiliğe sahip ve ortaklarının veya kanunların öngördüğü durumlarda ortak olmayanların ürünlerini alan, işleyen, değerlendiren, iyileştiren, satan, üretim ihtiyaçlarına yarayan araç ve gereçleri sağlayan ortaklıklar ve bunlara ait birliklerden",
+      "Bu Kanun kapsamına giren idarelerin kendi aralarında yaptıkları ihale işleri,",
+      "(1) numaralı fıkrada belirtilen idarelerin her türlü ihtiyaçlarının; Bu idarelere bağlı sabit veya döner sermayeli müesseseler ve özel bütçeli idarelerin kurdukları birliklerden,",
+      "(1) numaralı fıkrada belirtilen idarelerin her türlü ihtiyaçlarının Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş olan vakıflar ile sermayesinin yarısından fazlası bu vakıflara ait olan kuruluş, şirket ve müesseselerden,",
+      "(1) numaralı fıkrada belirtilen idarelerin her türlü ihtiyaçlarının Kamu iktisadi teşebbüsleri ile sermayesinin yarısı tek başına veya birlikte Devlete, kamu iktisadi teşebbüslerine veya mahalli idarelere ait kuruluşlardan,"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 71'in ikinci fıkrasının (b) bendinde 'sermayesinin YARISINDAN FAZLASI tek başına veya birlikte Devlete, kamu iktisadi teşebbüslerine veya mahalli idarelere ait kuruluşlar' denilmektedir. E seçeneğindeki 'sermayesinin yarısı' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-10-g5gk",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Emanet suretiyle yapılacak işlerde işçi çalıştırılması ve malzeme alımı hangi organ eliyle yürütülür?",
+    "options": [
+      "Muayene Kabul Komisyonu",
+      "İhale Komisyonu",
+      "Yüklenici Firma",
+      "Emanet Komisyonu",
+      "Saymanlık"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 81'e göre bu işleri yürütmekle görevli emanet komisyonları, geçici süre ile işçi çalıştırabilir; işin bünyesine giren madde, araç ve gereçleri ise ayrı bir hüküm uyarınca öncelikle bunları kendileri üreten veya yapan kamu kuruluşlarından temin eder. Her iki yetki de emanet komisyonuna aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-11-pd2c",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesinde hangi bakanlığın görüşü alınır?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Dışişleri Bakanlığı",
+      "Milli Eğitim Bakanlığı",
+      "Kültür ve Turizm Bakanlığı",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 73'e göre tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesinde Kültür ve Turizm Bakanlığının görüşü alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-12-0wri",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Kızılay Derneğinden yapılacak ilaç ve sağlık gereçleri alımları için hangi usul uygulanır?",
+    "options": [
+      "Açık Teklif Usulü",
+      "Yarışma Usulü",
+      "Pazarlık Usulü",
+      "Kapalı Teklif Usulü",
+      "Doğrudan satın alma"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 77'ye göre Kızılay derneğinde bulunan ilaçlarla sağlık araç ve gereçleri idarelerce doğrudan doğruya satın alınabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-13-7c99",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "İdarelerin yabancı ülkelerdeki kuruluşlarının ihtiyaçları için yönetmeliği hangi bakanlıklar hazırlar?",
+    "options": [
+      "Ticaret ve Maliye Bakanlığı",
+      "Dışişleri, Milli Savunma, Maliye ve Bayındırlık",
+      "Sadece Dışişleri Bakanlığı",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı",
+      "Dışişleri ve İçişleri Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 79'a göre idarelerin yabancı ülkelerdeki kuruluşlarının yerel ihtiyaçları için uygulanacak esaslar Dışişleri, Milli Savunma, Maliye ve Bayındırlık bakanlıklarınca hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-14-e45y",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Emanet komisyonları işçi çalıştırabilir mi?",
+    "options": [
+      "Hayır, kesinlikle çalıştıramaz.",
+      "Sadece teknik personel çalıştırabilir.",
+      "Sadece memur çalıştırabilir.",
+      "Taşeron işçisi kullanabilir.",
+      "Evet, geçici süre ile işçi çalıştırabilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 81'e göre emanet komisyonları, işi yürütmek için geçici süre ile işçi çalıştırabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-15-ukjy",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan taşınmaz malların işgali üzerine fuzuli şagilden alınan 'ecrimisil' ile ilgili olarak, itiraz edilmemesi ve peşin ödenmesi durumunda uygulanan indirim oranları aşağıdakilerden hangisidir?",
+    "options": [
+      "İtiraz edilmemesi hâlinde %15 - Peşin ödenmesi hâlinde ayrıca %20",
+      "İtiraz edilmemesi hâlinde %30 - Peşin ödenmesi hâlinde indirim uygulanmaz",
+      "İtiraz edilmemesi hâlinde %25 - Peşin ödenmesi hâlinde ayrıca %10",
+      "İtiraz edilmemesi hâlinde %20 - Peşin ödenmesi hâlinde ayrıca %15",
+      "İtiraz edilmemesi hâlinde %10 - Peşin ödenmesi hâlinde ayrıca %10"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 75'e göre ecrimisile itiraz edilmemesi hâlinde %20, peşin ödenmesi hâlinde ayrıca %15 indirim uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-16-l442",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Emanet usulüyle yapılacak işler ve komisyonun yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Emanet komisyonları hiçbir suretle geçici işçi çalıştıramaz.",
+      "Köy kalkınması ile ilgili yapım işleri emanet usulüyle yapılabilir.",
+      "Sözleşmenin bozulması nedeniyle yarım kalan ve süratle bitirilmesi gereken işler emaneten yapılabilir.",
+      "Emanet komisyonları ita amirlerince idare görevlilerinden oluşturulur.",
+      "Nevi itibarıyla kısımlara ayrılarak taşeronlara verilen işlerde, gerekli görülen malzeme taşeron tarafından temin edilmek şartıyla iş yaptırılabilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 81 uyarınca emanet komisyonları, yukarıda belirtilen işler için gerektiğinde geçici süre ile işçi çalıştırabilir. Bu nedenle 'hiçbir suretle geçici işçi çalıştıramaz' ifadesi yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-17-oky3",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Devletin özel mülkiyetindeki taşınmazların, 'Kamu Yararına Çalışan Derneklere' satışı ile ilgili özel hüküm (Madde 72) aşağıdakilerden hangisini içermez?",
+    "options": [
+      "Satış ihale komisyonu kararı ve Cumhurbaşkanı onayı ile gerçekleşir.",
+      "Kıymet takdiri suretiyle satış yapılır.",
+      "Bu yolla edinilen taşınmazlar veriliş maksadı dışında kullanılamaz.",
+      "Beş yıl içinde kuruluş gayesine uygun kullanılmazsa Hazinece geri alınır.",
+      "Kuruluş gayelerine uygun kullanılmak üzere satılabilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 72'de kıymet takdiri suretiyle satış, kullanım amacı dışında kullanma/satma yasağı ve beş yıl içinde amaca uygun kullanılmama hâlinde Hazinece geri alma düzenlenmiştir. 'Satış ihale komisyonu kararı ve Cumhurbaşkanı onayı ile gerçekleşir' şeklinde bir hüküm Madde 72'de yer almaz; bu nedenle A seçeneği doğru cevaptır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-18-tprl",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesinde yetkili bakanlık ve alınacak görüş ile ilgili hangisi doğrudur?",
+    "options": [
+      "Çevre ve Şehircilik Bakanlığı yetkilidir; valilik görüşü alınır.",
+      "İl özel idaresi yetkilidir; Maliye Bakanlığının görüşü alınır.",
+      "Maliye Bakanlığı yetkilidir; Kültür ve Turizm Bakanlığının görüşü alınır.",
+      "Vakıflar Genel Müdürlüğü yetkilidir; ayrıca görüş alınmaz.",
+      "Kültür ve Turizm Bakanlığı yetkilidir; Maliye Bakanlığının görüşü alınır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 73'e göre tarihi ve bedii değeri olan taşınmaz mallar, Kültür ve Turizm Bakanlığının görüşü alınarak Maliye Bakanlığınca kiraya verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-19-ontd",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Emanet usulüyle yapılan işlerde, işin bünyesine giren gerekli madde, araç ve gereçlerin 'piyasadan' sağlanabilmesinin şartı nedir?",
+    "options": [
+      "Valilik olurunun önceden alınmış olması şartı",
+      "İhale komisyonunca ayrıca karar alınmış olması şartı",
+      "Doğrudan temin parasal limitleri içinde kalınması şartı",
+      "Devlet Malzeme Ofisinden temin edilememiş olması şartı",
+      "Teklif alınması ve piyasa değerine uygunluğun belgelenmesi şartı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 81'e göre gerekli madde, araç ve gereçler öncelikle bunları kendileri üreten/yapan ve sermayesinin yarıdan fazlası tek başına veya birlikte Devlete, kamu iktisadi teşebbüslerine veya belediyelere ait olan kuruluşlardan doğrudan doğruya alınabilir. Bu şekilde sağlanamayanlar, teklif alınmak ve piyasa satış değerlerine uygunluğu belgelenmek şartıyla piyasadan sağlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-2-i5si",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre kamu yararına çalışan derneklere taşınmaz malların satımı ile ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Kamu yararına çalışan derneklere, Hazinenin özel mülkiyetindeki ve kamu hizmetine tahsisli olmayan taşınmazlar kıymet takdiriyle satılabilir.",
+      "Yirmi yıl geçen taşınmazların ticari amaçla değerlendirilmesine, gelirin %30'u Hazineye verilmek koşuluyla Bakanlar Kurulunca izin verilir.",
+      "Beş yıl içinde kuruluş gayesine uygun kullanılmayan taşınmaz, satış bedeli üzerinden Hazinece geri alınır.",
+      "Bu yolla edinilen taşınmaz mallar, veriliş maksadı dışında kullanılamaz ve satılamaz.",
+      "Yirmi yıl geçen taşınmazların ticari amaçla değerlendirilmesine, gelirin %30'u Hazineye verilmek koşuluyla Maliye Bakanlığınca izin verilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 72'nin ikinci fıkrasına 6009 sayılı Kanunla eklenen cümleye göre, yirmi yıl geçen taşınmazların ticari amaçla değerlendirilmesine, gelirin yüzde otuzunun Hazineye verilmesi koşuluyla Maliye Bakanlığınca belirlenecek usul ve esaslara göre izin verilebilir; 'Bakanlar Kurulunca' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-20-0o7m",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Ecrimisil gelirlerinin köylere aktarılması ile ilgili olarak; köy sınırları içerisindeki hazine taşınmazlarının işgalinden tahsil edilen ecrimisil gelirlerinin yüzde kaçı köye aktarılır ve Maliye Bakanlığı bu oranı ne kadar artırmaya yetkilidir?",
+    "options": [
+      "Aktarılan Pay: %10 - Artırma Yetkisi: Üç katına kadar",
+      "Aktarılan Pay: %5 - Artırma Yetkisi: İki katına kadar",
+      "Aktarılan Pay: %1 - Artırma Yetkisi: On katına kadar",
+      "Aktarılan Pay: %25 - Artırma Yetkisi: Artıramaz",
+      "Aktarılan Pay: %5 - Artırma Yetkisi: Beş katına kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 75'in ek fıkrasına göre köy sınırları içindeki Hazine taşınmazlarının işgalinden tahsil edilen ecrimisil gelirlerinin %5'i ilgili köy tüzel kişiliği hesabına aktarılır; Maliye Bakanlığı bu oranı iki katına kadar artırmaya yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-21-8698",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Kamu yararına çalışan derneklere taşınmaz malların satışı (Madde 72) kapsamında, satış tarihinden itibaren en az 20 yıl geçmiş ve maksadına uygun kullanılmış taşınmazların ticari amaçla değerlendirilmesine izin verilmesi hâlinde, elde edilecek gelirin yüzde kaçı Hazineye verilmelidir?",
+    "options": [
+      "%20",
+      "%40",
+      "%10",
+      "%30",
+      "%50"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 72'nin ikinci fıkrasına 6009 sayılı Kanunla eklenen cümleye göre, satış tarihinden itibaren en az yirmi yıl geçen ve veriliş maksadına uygun kullanılan taşınmazların ticari amaçla değerlendirilmesine, elde edilecek gelirin yüzde otuzunun Hazineye verilmesi koşuluyla Maliye Bakanlığınca izin verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-22-15qu",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Mahalli komisyonların taşınır ve taşınmaz malların satış, kira ve trampa işlemlerinde ihaleye ne miktara kadar yetkili oldukları nerede gösterilir?",
+    "options": [
+      "Her yıl Genel Bütçe Kanunu ile",
+      "Valilik Onayı ile",
+      "Cumhurbaşkanlığı Kararnamesi ile",
+      "Maliye Bakanlığı Genel Tebliği ile",
+      "İl Daimi Encümeni Kararı ile"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 76'ya göre mahalli komisyonların taşınır ve taşınmaz malların satış, kira ve trampa işlemlerinde ne miktara kadar yetkili oldukları her yıl Genel Bütçe Kanununda gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-23-bacj",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Yurt dışında bulunan gemi ve uçakların, bulundukları yerden sağlanması zorunlu olan ihtiyaçlarının alımı ile acele onarımlarına ilişkin esaslar hangi makamlarca belirlenir?",
+    "options": [
+      "Ulaştırma Bakanlığı ve Dışişleri Bakanlığı",
+      "Maliye ve Milli Savunma Bakanlıkları müştereken",
+      "İlgili Büyükelçilik",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı",
+      "Sadece Dışişleri Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 80'e göre yurt dışında bulunan gemi ve uçakların ihtiyaç maddeleri alımı ile acele onarımlarına ilişkin esaslar Maliye ve Milli Savunma bakanlıklarınca müştereken hazırlanacak bir yönetmelikte gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-24-kc0c",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Uluslararası antlaşmalar uyarınca Türkiye'de yapılacak ve karşılıkları yabancı devlet veya uluslararası kuruluşlarca sağlanacak işlerde 2886 sayılı Kanun hükümleri nasıl uygulanır?",
+    "options": [
+      "Sadece Türk firmaları katılabiliyorsa 2886 uygulanır.",
+      "2886 sayılı Kanun hükümleri aynen uygulanır.",
+      "Özel kanun, kararname ve antlaşmalar hükümlerine göre yürütülür.",
+      "İhale yapılmaz, doğrudan temin edilir.",
+      "Yabancı devletin ihale kanunu uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 82'ye göre uluslararası antlaşmalar uyarınca Türkiye'de yapılacak ve karşılıkları yabancı devlet veya uluslararası kuruluşlarca sağlanacak işler, özel kanun, kararname ve antlaşmalar hükümlerine göre yürütülür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-25-z80b",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Kanun gereğince tedavisi sağlanan kişilerin ilaç ve gereçlerinin eczanelerden alınması hâlinde, idarelerle eczaneler arasındaki anlaşmaların esaslarını kim belirler?",
+    "options": [
+      "Sağlık Bakanlığı",
+      "Türk Eczacıları Birliği",
+      "Sosyal Güvenlik Kurumu",
+      "Maliye Bakanlığı",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 78'e göre tedavisi sağlanan kişilerin ilaç ve gereçlerinin eczanelerden alınması hâlinde, idarelerle eczaneler arasındaki anlaşma esasları Maliye Bakanlığınca tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-26-dh6c",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Emanet usulüyle yapılan işlerde, emanet komisyonlarının işin bünyesine giren madde ve malzemeyi öncelikle temin etmesi gereken kaynaklar hangisidir?",
+    "options": [
+      "Bu madde, araç ve gereçleri kendileri üreten veya yapan ve sermayesinin yarıdan fazlası Devlete, KİT'lere veya belediyelere ait kuruluşlar",
+      "Yabancı menşeli malları ithal ederek dağıtan tedarikçi firmalar ve bunların yetkili bayileri",
+      "İhalelere katılmaktan yasaklı olmayan ve sicili temiz bulunan herhangi bir özel sektör firması",
+      "İşin yapıldığı il sınırları içinde faaliyet gösteren yerel esnaf ve zanaatkarlar",
+      "Piyasa araştırmasında en ucuz teklifi veren özel sektör kuruluşları ve tedarikçiler"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 81'e göre emanet komisyonları gerekli madde ve malzemeyi öncelikle, bunları kendileri üreten/yapan ve sermayesinin yarıdan fazlası tek başına veya birlikte Devlete, kamu iktisadi teşebbüslerine veya belediyelere ait olan kuruluşlardan doğrudan doğruya temin eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-27-78rk",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Kanun'un 71. maddesine göre, genel bütçeye dâhil dairelerin 'kendi aralarında' yapacakları ihale işleri hangi usulle ve kimin görüşüyle yapılır?",
+    "options": [
+      "Kıymet takdiri suretiyle - Maliye Bakanlığının uygun görüşü",
+      "Doğrudan teminle - Bakan onayı",
+      "Açık teklif usulüyle - Valilik izni",
+      "Kapalı teklif usulüyle - Sayıştay görüşü",
+      "Pazarlık usulüyle - Cumhurbaşkanı onayı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 71'e göre bu Kanun kapsamına giren idarelerin kendi aralarında yaptıkları ihale işleri, Maliye Bakanlığının uygun görüşü alınarak kıymet takdiri suretiyle yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-28-c15s",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, tarihi ve bedii değeri olanlar hariç Hazinenin özel mülkiyetindeki yerlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi esasları nasıl belirlenir?",
+    "options": [
+      "İl özel idarelerinin encümen kararıyla",
+      "Çevre ve Şehircilik Bakanlığı tebliğiyle",
+      "Cumhurbaşkanlığı kararnamesiyle",
+      "Her yıl Genel Bütçe Kanunuyla",
+      "Maliye Bakanlığınca çıkarılacak yönetmelikle"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 74'e göre tarihi ve bedii değeri olanlar hariç Hazinenin özel mülkiyetindeki yerlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin hüküm ve tasarrufu altındaki yerlerin kiraya verilmesi esasları Maliye Bakanlığınca çıkarılacak yönetmelikte belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-29-mf68",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Madde 71'in (2) numaralı fıkrasının uygulanmasında genel kural olarak ihale konusu mal ve hizmetlerle taşıma işleri bakımından hangi şart aranır?",
+    "options": [
+      "Mutlaka yabancı ülkeden sağlanması",
+      "Bizzat ilgili kuruluşlar tarafından üretilmesi ve yapılması",
+      "Yalnız açık teklif usulüyle alınması",
+      "Sadece özel kişilerce üretilmesi",
+      "İhale yapılmadan ücretsiz sağlanması"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 71'e göre (2) numaralı fıkranın uygulanmasında ihale konusu mal ve hizmetlerle taşıma işlerinin bizzat o kuruluşlar tarafından üretilmesi ve yapılması zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-3-4p9z",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre Devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan taşınmaz mallar ile Vakıflar Genel Müdürlüğü ve idare ve temsil ettiği mazbut vakıflara ait taşınmaz malların gerçek ve tüzel kişilerce işgali üzerine yapılacak işlemlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Kira sözleşmesinin bitim tarihinden itibaren, işgalin devam etmesi hâlinde, sözleşmede hüküm varsa ona göre hareket edilir. Aksi hâlde ecrimisil alınır.",
+      "Bu durumda idareden taşınmaz ve değerleme konusunda işin ehli veya uzmanı üç kişiden oluşan komisyonca tespit tarihinden geriye doğru beş yılı geçmemek üzere tespit ve takdir edilecek ecrimisil istenir.",
+      "İşgal edilen taşınmaz mal, idarenin talebi üzerine, bulunduğu yer mülkiye amirince en geç 30 gün içinde tahliye ettirilerek, idareye teslim edilir.",
+      "Ecrimisil fuzuli şagil tarafından rızaen ödenmez ise, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.",
+      "Ecrimisil'e itiraz edilmemesi hâlinde yüzde yirmi, peşin ödenmesi hâlinde ise ayrıca yüzde onbeş indirim uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 75'in dördüncü fıkrasına göre işgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç 15 gün içinde tahliye ettirilerek idareye teslim edilir; '30 gün' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-30-kuhj",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Madde 71'deki bizzat üretim ve yapım şartına ilişkin istisna bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İstisna yalnız ihale komisyonu üyeleri için geçerlidir.",
+      "Bizzat üretim şartının hiçbir istisnası yoktur.",
+      "Kuruluş amacı temel gıda ve günlük tüketim maddelerini alıp satmak olan kuruluşlar bakımından bu maddeler için bizzat üretim şartı aranmaz.",
+      "İstisna yalnız taşınmaz satışlarına ilişkindir.",
+      "İstisna yalnız yabancı devletlere uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 71'e göre kuruluş amacı temel gıda ve günlük tüketim maddelerini alıp satmak olan kuruluşlar bakımından sözü edilen günlük gıda ve tüketim maddeleri için bizzat üretim şartı aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-31-f8q8",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Bu usulle yapılan alım ve işlerde satış fiyatları Devletçe veya görevli mercilerce tespit edilmişse kıymet takdirinde hangi fiyat esas alınır?",
+    "options": [
+      "Rastgele seçilen piyasa fiyatı",
+      "İsteklinin ilk teklif ettiği fiyat",
+      "Yalnız tahmin edilen bedel",
+      "Tespit edilmiş satış fiyatı",
+      "Sözleşme sonrası oluşan fiyat"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 71'e göre satış fiyatları Devletçe veya görevli mercilerce tespit olunanlar için bu fiyatlar esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-32-5121",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Satış fiyatı Devletçe veya görevli mercilerce tespit edilmiş mallar, dağıtımı yapan kuruluşlarda bulunmadığında hangi şartla en yakın piyasadan aynı fiyatla satın alınabilir?",
+    "options": [
+      "Yalnız yabancı para ile ödeme şartıyla",
+      "Hiçbir belge aranmaksızın",
+      "Yalnız açık teklif usulü yapılması şartıyla",
+      "Sadece Cumhurbaşkanı kararıyla",
+      "Dağıtımı yapan kuruluşlarda bulunmadığının belgelenmesi şartıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 71'e göre dağıtımı yapan kuruluşlarda bulunmadığı belgelenmek şartıyla bu mallar tespit edilmiş fiyatlarla en yakın piyasadan da satın alınabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-33-sapl",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Madde 71'in sonunda idarelere zorunluluk yükleyen özel hükümler bakımından hangi kural yer alır?",
+    "options": [
+      "Bu özel hükümler saklıdır.",
+      "Bu özel hükümler yürürlükten kalkar.",
+      "Yalnız belediyeler için uygulanmaz.",
+      "Sadece taşınır mallarda uygulanır.",
+      "İhale komisyonu kararıyla kaldırılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 71'in son fıkrasına göre idarelere zorunluluk yükleyen özel hükümler saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-34-4nwq",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Aşağıdakilerden hangisi Madde 81'e göre emanet komisyonları eliyle emaneten yaptırılabilecek işlerdendir?",
+    "options": [
+      "Her türlü özel hukuk sözleşmesi",
+      "Can ve mal kaybı tehlikesi nedeniyle acele olarak gerçekleştirilmesi gereken yapım ve onarım işleri",
+      "Bütün taşınmaz satışları",
+      "Her türlü yabancı ülke ilanı",
+      "Bütün kira sözleşmeleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 81'in (g) bendine göre can ve mal kaybı tehlikesi nedeniyle acele olarak gerçekleştirilmesi gereken yapım ve onarım işleri emaneten yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-35-r8gv",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Madde 81'e göre hangi halk katkısı durumunda, idaresince yarar görülmesi hâlinde iş emaneten yaptırılabilir?",
+    "options": [
+      "Hiçbir halk katkısı bulunmaması hâlinde",
+      "Yalnız parasal bağış bulunması hâlinde",
+      "Parasal bağış dışındaki halk katkısının önem taşıması hâlinde",
+      "Sadece yabancı kuruluş katkısı bulunması hâlinde",
+      "Yalnız ihale komisyonu üyelerinin katkısı bulunması hâlinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 81'in (k) bendine göre parasal bağış dışındaki halk katkısının önem taşıması nedeniyle ihaleye konulmadan yaptırılmasında idaresince yarar görülen işler emaneten yaptırılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-4-1cu4",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre köy sınırları içerisinde yer alan Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazların işgalcilerinden tahsil edilen ecrimisil gelirlerinin yüzde kaçı 442 sayılı Köy Kanununda belirlenen görevlerde kullanılmak kaydıyla, tahsilatı izleyen ay içinde bu gelirlerin elde edildiği köy tüzel kişiliği hesabına aktarılmak üzere emanet nitelikli hesaplara kaydedilir?",
+    "options": [
+      "% 30",
+      "% 10",
+      "% 25",
+      "% 5",
+      "% 20"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 75'in ek fıkrasına göre köy sınırları içindeki Hazine taşınmazlarının işgalinden tahsil edilen ecrimisil gelirlerinin yüzde beşi, tahsilatı izleyen ay içinde ilgili köy tüzel kişiliği hesabına aktarılmak üzere emanet nitelikli hesaplara kaydedilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-5-ubxk",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre aşağıdakilerden hangisi emanet komisyonları eliyle emaneten yaptırılabilecek işlerden değildir?",
+    "options": [
+      "Sözleşmenin bozulması veya tasfiye edilmesi nedeniyle bitirilmemiş olup, süratle bitirilmesinde zorunluluk görülen işlerin tamamlanması,",
+      "Tahmin edilen bedeli her yıl Genel Bütçe Kanununda gösterilen miktarı geçen yapım, bakım ve onarım işleri",
+      "İhaleye konulmasına imkan bulunmayan veya ihaleye konulduğu hâlde istekli çıkmayan ve beklemeye de tahammülü olmayan işler",
+      "İdarenin yeterli işgücü, makine, araç, gereç ve taşıtlara sahip olması hâlinde ve ihaleye konulması faydalı görülmeyen yapım ve taşıma işleri,",
+      "Tuz çıkarma işleri"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 81/a bendine göre tahmin edilen bedeli her yıl Genel Bütçe Kanununda gösterilen miktarı GEÇMEYEN yapım, bakım ve onarım işleri emanet usulüyle yaptırılabilir; bu miktarı geçen işler emanet usulüne konu olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-6-b3zq",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, emanet komisyonları eliyle yapılabilecek işlere ait uygulama esasları hangi makam tarafından çıkarılacak bir yönetmelikte gösterilir?",
+    "options": [
+      "Çevre ve Şehircilik Bakanlığınca",
+      "Enerji ve Tabii Kaynaklar Bakanlığınca",
+      "Cumhurbaşkanınca",
+      "Milli Savunma Bakanlığınca",
+      "Maliye Bakanlığınca"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 81'in son fıkrasına göre emanet komisyonları eliyle yapılabilecek işlere ait uygulama esasları Cumhurbaşkanınca çıkarılacak bir yönetmelikte gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-7-zqrg",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Ecrimisil tespit tarihinden geriye doğru en fazla kaç yıllık istenir?",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "1 yıl",
+      "20 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 75'e göre ecrimisil, tespit tarihinden geriye doğru en fazla 5 yılı geçmemek üzere istenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-8-rdr4",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "Ecrimisile itiraz edilmemesi hâlinde yüzde kaç indirim uygulanır?",
+    "options": [
+      "%15",
+      "%20",
+      "%35",
+      "%25",
+      "%10"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 75'e göre ecrimisile itiraz edilmemesi hâlinde %20 indirim uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihale-usullerine-tabi-olmayan-isler-31fib-mtmzvm4r-9-530y",
+    "topic_id": "t-ihale-usullerine-tabi-olmayan-isler-31fib",
+    "prompt": "İşgal edilen taşınmaz mal, idarenin talebi üzerine mülkiye amirince en geç kaç gün içinde tahliye ettirilir?",
+    "options": [
+      "10 gün",
+      "45 gün",
+      "15 gün",
+      "7 gün",
+      "30 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 75'e göre işgal edilen taşınmaz mal, idarenin talebi üzerine mülkiye amirince en geç 15 gün içinde tahliye ettirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:36.247541+00:00",
+    "updated_at": "2026-09-04T13:33:36.247541+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-0-9r3t",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre aşağıdaki durumlardan hangisinde bedel tahmini yapılmadan ihale yapılabilir?",
+    "options": [
+      "Bütün yapım, bakım ve onarım işlerine ilişkin ihalelerde",
+      "Yarışma usulüyle yaptırılacak proje ve güzel sanat işlerinde",
+      "Sınai ve teknolojik zorunlulukların gerektirdiği durumlarda",
+      "Açık teklif usulüyle yapılacak ihale konusu işlerin tamamında",
+      "Pazarlık usulüyle yapılacak ihale konusu işlerin tamamında"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10'a göre sınai ve teknolojik zorunlulukların gerektirdiği durumlarda ilgili bakanın onayı alınmak suretiyle, bedel tahmini yapılmadan kapalı teklif usulüyle ihale yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-1-ywfo",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihale komisyonlarının çalışması ile ilgili olarak aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "İhale komisyonları eksiksiz olarak toplanır.",
+      "Muhalif kalan üye karşı oy gerekçesine kararın altına yazarak imzalamak zorundadır.",
+      "Komisyon başkan ve üyeleri, oy ve kararlarından sorumludurlar.",
+      "Komisyon kararları oybirliği ile alınır.",
+      "Kararlarda çekimser kalınamaz."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 14'e göre ihale komisyonu kararları çoğunlukla alınır, oybirliği aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-10-19s0",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihalesi yapılacak her iş için hazırlanması gereken onay belgesinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+    "options": [
+      "Şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği.",
+      "Avans ve fiyat farkı verilecekse şartları,",
+      "Kesin teminat tutarı,",
+      "Kullanılabilir ödenek tutarı,",
+      "İhalede uygulanacak usul,"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11'e göre onay belgesinde işin nevi/niteliği/miktarı, tahmin edilen bedel, kullanılabilir ödenek tutarı, avans/fiyat farkı şartları, uygulanacak usul ve alınacaksa geçici teminat miktarı belirtilir; kesin teminat tutarı onay belgesinde yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-11-5w4e",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihale komisyonlarıyla ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İta amirleri, ilgili idarenin memurlarından birinin başkanlığında idareden, yapım işlerinde işin ehli veya uzmanı olmak şartıyla, en az bir kişi ve maliye memurunun katılmasıyla kurulacak komisyonları görevlendirirler.",
+      "Askeri ihale komisyonlarının kaç kişiden ibaret olacağı ve nasıl kurulacağı Milli Savunma ve Maliye Bakanlıklarınca birlikte hazırlanacak ve Bakanlar Kurulunca çıkarılacak bir yönetmelik ile tespit edilir.",
+      "Askeri ihale komisyonları ile diğer ihale komisyonlarına katılacak maliye memuru, Maliye Bakanlığınca belirlenecek usule göre tespit edilir",
+      "TBMM, Cumhurbaşkanlığı ve Sayıştay Başkanlığında teşkil edilecek satın alma komisyonlarında maliye memurluğu görevi, bu kuruluşların saymanlık işlerini yürüten muhasebe müdürü veya vazifelendireceği bir memur tarafından yerine getirilir",
+      "Komisyonlara yardımcı olmak üzere, ihale kararlarına katılmamak şartı ile gereği kadar memur ve uzman da görevlendirilebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13'ün ikinci fıkrasına göre askeri ihale komisyonlarının kaç kişiden ibaret olacağı ve nasıl kurulacağı Cumhurbaşkanı kararı ile tespit edilir. B seçeneğindeki 'Milli Savunma ve Maliye Bakanlıklarınca hazırlanacak ve Bakanlar Kurulunca çıkarılacak yönetmelik' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-12-cgrg",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre yapım işleriyle her türlü etüt, proje, kontrollük ve müşavirlik hizmetlerine ait ihalelerde, isteklilerde aranacak niteliklerin ve istenecek belgelerin neler olacağı, ne yolda ve kimlerce verileceği ve müteahhit sicillerinin ne biçimde tutulacağı nasıl gösterilir?",
+    "options": [
+      "İlgili bakanlıkların görüşü alınarak Bayındırlık Bakanlığınca hazırlanacak tüzükte gösterilir.",
+      "İhale komisyonu kararıyla her ihalede ayrıca belirlenir.",
+      "Cumhurbaşkanınca çıkarılan yönetmelikle gösterilir.",
+      "İlgili kamu idaresinin kendi iç yönergesiyle gösterilir.",
+      "Maliye Bakanlığınca hazırlanacak genelge ile gösterilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 16'nın üçüncü fıkrasına göre yapım işleri ile etüt, proje, kontrollük ve müşavirlik hizmetlerinde aranacak nitelik ve belgeler Cumhurbaşkanınca çıkarılan yönetmelikle gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-13-6617",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihalenin ilanıyla ilgili olarak \"Gazete ve internet haber sitesi ile yapılacak ilk ilan ile ihale günü arası … günden, son ilan ile ihale günü arası … günden az olamaz.\" ifadesindeki boşluklara sırasıyla hangileri getirilirse ifade doğru olur?",
+    "options": [
+      "5-10",
+      "7-10",
+      "2-10",
+      "10-2",
+      "10-5"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 17'nin birinci fıkrasına göre gazete ve internet haber sitesi ile yapılacak ilk ilan ile ihale günü arası 10 günden, son ilan ile ihale günü arası 5 günden az olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-14-bdtn",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre tahmin edilen bedeli (2) numaralı fıkra uyarınca belirlenecek miktarın kaç katını aşan ihale konusu işler, ihale tarihinden en az 10 gün önce bir defa Resmî Gazete'de ilan edilir?",
+    "options": [
+      "3",
+      "7",
+      "2",
+      "10",
+      "5"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 17'nin üçüncü fıkrasına göre tahmin edilen bedeli, (2) numaralı fıkra uyarınca belirlenecek miktarın üç katını aşan işler, ihale tarihinden en az 10 gün önce Resmî Gazetede de ilan edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-15-h4ua",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu ile ilgili olarak aşağıda belirtilen maddelerden hangisi yanlıştır?",
+    "options": [
+      "İdarelerince yabancı ülkelerdeki isteklilerin de girmesi yararlı görülen ihaleler için yeterli rekabeti sağlayacak biçimde yabancı ülkelerde ilan yapılabilir. Bu ilan ihale gününden en az 45 gün önce yapılır.",
+      "İlanların geçersizliği ihale yapıldıktan sonra anlaşılırsa, ihale veya sözleşme feshedilir.",
+      "İlan yapıldıktan sonra şartname ve eklerinde değişiklik yapılmasının zorunlu olması hâlinde önceki ilanların değiştirilmemesi esastır.",
+      "İşte ivedilik ve ihalede Devletin yararı varsa, ihale ve sözleşme Maliye Bakanlığının uygun görüşü ve birinci derece ita amirinin onayı ile geçerli sayılabilir.",
+      "Askeri İhaleler ile Emniyet Genel Müdürlüğüne ve Milli İstihbarat Teşkilatına ait ihaleler için yapılacak ilanlarda birinci derece ita amiri tarafından sakıncalı görülen hususlara yer verilmez."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 19'a göre ilan yapıldıktan sonra şartname ve eklerinde değişiklik yapılamaz; değişiklik zorunluysa bir tutanakla tespit edilerek önceki ilanlar geçersiz sayılır ve iş yeniden ilan olunur, 'önceki ilanların değiştirilmemesi esastır' ifadesi bu nedenle yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-16-xwty",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu ile ilgili olarak aşağıda belirtilenlerden hangisi doğrudur?",
+    "options": [
+      "Üzerlerine ihale yapılanların teminat mektupları ihaleden sonra mal sandıklarına teslim edilir.",
+      "Üzerlerine ihale yapılmayan isteklilerin geçici teminatları ihale sonuçlanana kadar banka hesaplarında tutulur.",
+      "Bu Kanun kapsamında teminat olarak kabul edilecek geçici, kesin ve avans teminat mektuplarının kapsam ve şeklini tespite Bakanlar Kurulu yetkilidir.",
+      "İdarece alınan teminatlar haczedilemez ancak üzerine ihtiyati tedbir konulabilir.",
+      "Bankalarca ve özel finans kurumlarınca verilen teminat mektupları dışındaki teminatların istekliler tarafından mal sandıklarına yatırılması zorunlu olup, bunlar komisyonlarca mutlak suretle teslim alınır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 26'nın dördüncü fıkrasına göre üzerlerine ihale yapılanların teminat mektupları ihaleden sonra mal sandıklarına teslim edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-17-sdag",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu ile ilgili olarak teminat mektupları hususunda aşağıda verilenlerden hangisi yanlıştır?",
+    "options": [
+      "Her teminat mektubunda daha önce ilgili banka şubesince verilen teminat mektupları toplamı ile aynı şubenin limitlerinin de gösterilmesi zorunludur.",
+      "Yabancı bankaların ve benzeri kredi kuruluşlarının kontrgarantilerine dayanarak bankaların verecekleri teminat mektupları, yukarıdaki miktarlara dahildir.",
+      "Üzerinde suç unsuru tespit edilen teminat mektupları gerekli kovuşturma yapılması için Maliye Bakanlığına intikal ettirilir",
+      "Bankaların bu Kanun kapsamındaki işler için verecekleri geçici, kesin ve avans teminat mektuplarının sermaye ve yedek akçelerinin durumlarına göre miktar ve kapsamlarını ve şeklini tespite Maliye Bakanlığı yetkilidir.",
+      "Kanun ve diğer mevzuata aykırı olarak düzenlenmiş banka teminat mektupları kabul edilmez."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 27'ye göre banka teminat mektuplarının miktar, kapsam ve şeklini tespite Maliye Bakanlığı yetkilidir; Kanun ve diğer mevzuata aykırı düzenlenen mektuplar kabul edilmez ve yabancı bankaların kontrgarantilerine dayanan teminat mektupları belirtilen miktarlara dâhil değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-18-m1nz",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, sınai ve teknolojik zorunlulukların gerektirdiği durumlarda ilgili bakanın onayı alınmak suretiyle, bedel tahmini yapılmadan hangi teklif usulüyle ihale yapılabilir?",
+    "options": [
+      "Açık",
+      "Doğrudan",
+      "Kapalı",
+      "Yarışma",
+      "Pazarlık"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 10'a göre sınai ve teknolojik zorunlulukların gerektirdiği durumlarda ilgili bakanın onayı alınmak suretiyle bedel tahmini yapılmadan kapalı teklif usulüyle ihale yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-19-ohio",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İdarelerince yabancı ülkelerdeki isteklilerin de girmesi yararlı görülen ihaleler için yeterli rekabeti sağlayacak biçimde yabancı ülkelerde ilan yapılabilir. 2886 sayılı Devlet İhale Kanunu'na göre, bu ilan ihale gününden en az kaç gün önce yapılır?",
+    "options": [
+      "15",
+      "60",
+      "10",
+      "45",
+      "30"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 22'ye göre yabancı ülkelerde ilan yapılacak ihalelerde ilan, ihale gününden en az 45 gün önce yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-2-rkdj",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihale suretiyle yapılacak işler için bir işlem dosyası düzenlenir. İşlem dosyasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Şartname ve ekleri",
+      "Onay belgesi",
+      "Tahmin edilen bedele ilişkin hesap tutanağı",
+      "İlana ilişkin belge ve gazete nüshaları",
+      "İhale komisyonu üyelerinin özgeçmişleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 15'e göre ihale işlem dosyasında onay belgesi, varsa tahmin edilen bedele ilişkin hesap tutanağı, şartname ve ekleri, gerekli projeler, ilana ilişkin belgeler ve sözleşme tasarısı bulunur. 'İhale komisyonu üyelerinin özgeçmişleri' işlem dosyasında sayılan belgeler arasında değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-20-7519",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale komisyonları, başkan dâhil en az kaç kişiden oluşur?",
+    "options": [
+      "7",
+      "4",
+      "9",
+      "3",
+      "5"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13'ün birinci fıkrasına göre ihale komisyonu, ita amirinin görevlendirdiği bir başkan, idareden en az bir üye ve bir maliye memuru olmak üzere en az üç kişiden oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-21-fcrm",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale komisyonunda bulunması zorunlu olan üye aşağıdakilerden hangisidir?",
+    "options": [
+      "Hukuk Müşaviri",
+      "Belediye Encümen Üyesi",
+      "Mülki Amir",
+      "Sendika Temsilcisi",
+      "Maliye Memuru"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13'e göre ihale komisyonuna maliye memurunun katılması zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-22-74w1",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale komisyonu kararları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Çekimser oy kullanılabilir.",
+      "Komisyon eksiksiz toplanır.",
+      "Kararlar çoğunlukla alınır.",
+      "Kararlarda muhalif kalan üye gerekçesini yazar.",
+      "Oyların eşit olması hâlinde başkanın bulunduğu taraf çoğunluk sayılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 14'e göre ihale komisyonlarında çekimser oy kullanılamaz; muhalif kalan üye gerekçesini kararın altına yazarak imzalamak zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-23-1iap",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Kanun'a göre \"Geçici Teminat\" oranı, kural olarak (Ek Madde 1 kapsamındaki mahalli idare taşınmaz ihaleleri hariç) tahmin edilen bedelin yüzde kaçıdır?",
+    "options": [
+      "%5",
+      "%6",
+      "%1",
+      "%10",
+      "%3"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 25'e göre geçici teminat oranı tahmin edilen bedelin %3'üdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-24-wavp",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun 9 uncu maddesine göre tahmin edilen bedel, dayanakları da eklenmek suretiyle hangi belgede gösterilir ve asıl evrak arasında saklanır?",
+    "options": [
+      "Genel Bütçe Kanunu'na ekli cetvelde",
+      "Yalnızca ihale ilanı metninde",
+      "Resmî Gazetede yayımlanan ilanda",
+      "Dayanakları eklenen bir hesap tutanağında",
+      "İdarece hazırlanan sözleşme tasarısında"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9'a göre tahmin edilen bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir ve asıl evrak arasında saklanır. (Bu bedel ayrıca Madde 11 uyarınca onay belgesinde de belirtilir; ancak Madde 9'un aradığı belge hesap tutanağıdır.)",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-25-uryy",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Pazarlık usulü ile yapılacak ihalelerde geçici teminat alma durumu nasıldır?",
+    "options": [
+      "Kesinlikle alınmaz.",
+      "Zorunludur, %6 alınır.",
+      "İdareler alıp almamakta serbesttir.",
+      "Sadece yapım işlerinde zorunludur.",
+      "Zorunludur, %3 alınır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 25'in ikinci fıkrasına göre pazarlık usulü ile yapılacak ihalelerde geçici teminat alıp almamakta idareler serbesttir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-26-bme9",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Tekliflerin açılma zamanı için hangi kurumların saat ayarı esas alınır?",
+    "options": [
+      "Kandilli Rasathanesi",
+      "Jandarma Genel Komutanlığı",
+      "Valilikler",
+      "Belediyeler",
+      "PTT veya TRT"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 24'e göre tekliflerin açılma zamanı için PTT veya TRT idarelerinin saat ayarı esas alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-27-oawp",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Teminat mektupları üzerinde suç unsuru tespit edilirse nereye intikal ettirilir?",
+    "options": [
+      "Maliye Bakanlığına",
+      "Bankacılık Düzenleme ve Denetleme Kurumuna (BDDK)",
+      "Sayıştaya",
+      "Cumhuriyet Savcılığına",
+      "İçişleri Bakanlığına"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 27'ye göre üzerinde suç unsuru tespit edilen teminat mektupları, gerekli kovuşturma yapılması için Maliye Bakanlığına intikal ettirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-28-rchd",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale komisyonu kararlarında oyların eşit çıkması durumunda ne olur?",
+    "options": [
+      "İhale iptal edilir.",
+      "En kıdemli üyenin oyu iki sayılır.",
+      "Başkanın bulunduğu taraf çoğunlukta kabul edilir.",
+      "Kura çekilir.",
+      "Maliye memurunun oyu belirleyicidir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 14'e göre ihale komisyonu kararlarında oyların eşit olması hâlinde başkanın bulunduğu taraf çoğunlukta kabul edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-29-0gm2",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İlanların geçersizliği nedeniyle ihale veya sözleşmenin bozulması (feshi) hâlinde, müteahhit veya müşteriye hangisi verilir?",
+    "options": [
+      "Hiçbir ödeme yapılmaz, teminatı da gelir kaydedilir.",
+      "Tazminat olarak ihale bedelinin %10'u kendisine ödenir.",
+      "Kar mahrumiyeti hesaplanarak toplu hâlde kendisine ödenir.",
+      "Fesih tarihine kadarki gerçek masrafları ve varsa hakedişleri ödenir.",
+      "Sadece vermiş olduğu geçici ve kesin teminatı iade edilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 20'ye göre ilanların geçersizliği ihale yapıldıktan sonra anlaşılırsa ihale veya sözleşme feshedilir. Bu durumda müteahhit veya müşteriye fesih tarihine kadar yaptığı gerçek masrafları ile varsa tahakkuk etmiş hakedişleri verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-3-ezis",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ilanlarda aşağıdaki hususlardan hangisinin belirtilmesi zorunlu değildir?",
+    "options": [
+      "İsteklilerden aranılan niteliklerin neler olduğu",
+      "İhalenin nerede, hangi tarih ve saatte ve hangi usulle yapılacağı",
+      "Varsa tahmin edilen bedel ve geçici teminat miktarı",
+      "Şartname ve eklerinin nereden ve hangi şartlarla alınacağı",
+      "Kapalı teklif usulüyle yapılacak ihalelerde, tekliflerin hangi tarih ve saate kadar nereye verileceği"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 18'e göre ilanlarda işin niteliği/yeri/miktarı, şartname temin şartları, ihalenin yeri/tarihi/usulü, tahmin edilen bedel ve geçici teminat miktarı ile isteklilerden aranılan belgelerin neler olduğu belirtilir; 'aranılan niteliklerin' değil 'aranılan belgelerin' belirtilmesi zorunludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-30-5oad",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İlan yapıldıktan sonra şartname ve eklerinde değişiklik yapılabilir mi?",
+    "options": [
+      "Evet, zeyilname düzenlenerek her zaman yapılabilir.",
+      "Evet, ihale komisyonu kararı ile her zaman yapılabilir.",
+      "Sadece maddi hata niteliğindeki hususlar düzeltilebilir.",
+      "Evet, ihale saatine kadar değişiklik yapmak serbesttir.",
+      "Hayır; yapılamaz, önceki ilanlar geçersiz sayılır ve yenilenir."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 19'a göre ilan yapıldıktan sonra şartname ve eklerinde değişiklik yapılamaz; değişiklik zorunlu olursa önceki ilanlar geçersiz sayılır ve iş yeniden ilan olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-31-qiu4",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Askeri ihaleler ile Emniyet ve MİT ihalelerinde ilanlarda sakıncalı görülen hususlara yer vermemeye kim yetkilidir?",
+    "options": [
+      "Birinci derece ita amiri",
+      "Vali",
+      "İhale Komisyonu",
+      "İl Emniyet Müdürü",
+      "Garnizon Komutanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 21'e göre askeri ihaleler ile Emniyet Genel Müdürlüğü ve Milli İstihbarat Teşkilatına ait ihalelerin ilanlarında sakıncalı görülen hususlara yer vermemeye birinci derece ita amiri yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-32-6blh",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Kanun'a göre, geçici teminatın, teklif edilen bedelin %3'ünden az olamayacağı durum hangisidir?",
+    "options": [
+      "Bedel tahmini yapılamayan (Md. 10) ihalelerde",
+      "Bütün artırma usulü ihalelerinde",
+      "Emanet komisyonlarınca yürütülen işlerde",
+      "Bütün yapım ve onarım işi ihalelerinde",
+      "Pazarlık usulüyle yapılan ihalelerde"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 25'in birinci fıkrasına göre 10 uncu madde uyarınca (bedel tahmini yapılamayan) yapılacak ihalelerde geçici teminat, teklif edilen bedelin %3'ünden az olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-33-yvmp",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale komisyonunda \"maliye memuru\" olarak görev yapacak kişiyi belirleme usulü kime aittir?",
+    "options": [
+      "Belediye Başkanı",
+      "Defterdar",
+      "Vali",
+      "İta Amiri",
+      "Maliye Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13'e göre askeri ihale komisyonları ile diğer ihale komisyonlarına katılacak maliye memuru, Maliye Bakanlığınca belirlenecek usule göre tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-34-i39z",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhalenin yapılacağı yerde gazete çıkmayan veya internet haber sitesi yönetimi bulunmayan yerlerde ilan nasıl yapılır?",
+    "options": [
+      "İlan yapılmaz.",
+      "Basın İlân Kurumu İlan Portalında yayınlanır.",
+      "Muhtarlıklara asılır.",
+      "En yakın ildeki gazetede yapılır.",
+      "Sadece belediye hoparlöründen duyurulur."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 17'nin (1-b) bendine göre gazete çıkmayan veya internet haber sitesi yönetimi bulunmayan yerlerdeki ihalelerin ilanı, Basın İlân Kurumu İlan Portalında yayınlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-35-r2g3",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İstekliler şartnamelerde yazılı belgeleri eksiksiz vermek ve tebligat için ne göstermek zorundadır?",
+    "options": [
+      "Yurt dışında geçerli bir tebligat adresi",
+      "Oda kayıt belgesi",
+      "Banka referans mektubu",
+      "Türkiye'de bir adres",
+      "Kefil"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 16'nın ikinci fıkrasına göre istekliler, şartnamelerde yazılı belgeleri eksiksiz vermek ve Türkiye'de tebligat için adres göstermek zorundadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-36-7g8b",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Kanun'un 9 uncu maddesine göre \"tahmin edilen bedel\"in tespitiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Tahmin edilen bedel, dayanaklarının da eklendiği bir hesap tutanağında gösterilir.",
+      "Bedel tahmini yapılamayan teknolojik işlerde ihale yapılamaz, doğrudan temin yoluna gidilir.",
+      "Yapım işlerinde ilgili dairelerce tespit edilmiş birim fiyatlar varsa bunlar uygulanmak zorundadır.",
+      "Tahmin edilen bedel idarelerce tespit edilir veya ettirilir.",
+      "İşin özelliğine göre gerektiğinde belediye, ticaret odası veya borsadan fiyat soruşturulabilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9'a göre tahmin edilen bedel idarelerce tespit edilir veya ettirilir; gerektiğinde belediye, ticaret/sanayi odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur ve ihale komisyonlarınca tahkik ettirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-37-c17g",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İlan yapıldıktan sonra şartname ve eklerinde değişiklik yapılması zorunluluğu doğarsa, izlenmesi gereken prosedür aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadece katılan isteklilere değişikliğin kabul edildiğine dair imza attırılır.",
+      "İta amirinin onayı ile değişiklik yapılır ve mevcut ilan üzerinden ihaleye devam edilir.",
+      "Değişiklik bir tutanakla tespit edilir, önceki ilanlar geçersiz sayılır ve iş yeniden ilan olunur.",
+      "Zeyilname düzenlenerek isteklilere bildirilir ve ihale tarihi 10 gün ertelenir.",
+      "İhale saatine kadar değişiklik yapılabilir, istekliler ihale anında bilgilendirilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 19'a göre değişiklik zorunlu olursa bunu gerektiren sebep ve zorunluluklar bir tutanakla tespit edilerek önceki ilanlar geçersiz sayılır ve iş yeniden aynı şekilde ilan olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-38-gmiu",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Kanun'a aykırı olarak düzenlenmiş banka teminat mektupları ile ilgili yapılacak işlem nedir?",
+    "options": [
+      "Kabul edilmez.",
+      "Geçici olarak kabul edilir, ihale sonrası değiştirilir.",
+      "İstekliden düzeltmesi istenir.",
+      "%10 eksik değerle kabul edilir.",
+      "İhale komisyonunun takdirine bırakılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 27'ye göre Kanun ve diğer mevzuata aykırı olarak düzenlenmiş banka teminat mektupları kabul edilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-39-88jw",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Teminat olarak kabul edilecek değerler (Madde 26) arasında sayılan \"Devlet iç borçlanma senetleri\"nin teminat olarak değerlendirilmesinde esas alınan ölçüt nedir?",
+    "options": [
+      "Faiz dâhil ihraç edilmişse anaparaya tekabül eden satış değeri esas alınır.",
+      "Senedin üzerinde yazılı olan nominal bedeli esas alınır.",
+      "İstanbul borsasındaki güncel rayiç bedeli esas alınır.",
+      "Merkez Bankasınca belirlenen döviz alış kuru karşılığı esas alınır.",
+      "Bankalarca belirlenen iskonto edilmiş güncel değeri esas alınır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 26/c bendine göre Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri, nominal bedele faiz dâhil edilerek ihraç edilmişse bu işlemlerde anaparaya tekabül eden satış değerleri esas alınarak teminat olarak değerlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-4-efp3",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre aşağıdakilerden hangisi geçici veya kesin teminat olarak kabul edilecek değerlerden biri değildir?",
+    "options": [
+      "Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri",
+      "Ticaret borsalarında işlem gören şirketlere ait hisse senetleri ve tahviller",
+      "Özel finans kurumlarının verecekleri süresiz teminat mektupları",
+      "Tedavüldeki Türk Parası",
+      "Bankaların verecekleri süresiz teminat mektupları"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 26'da teminat olarak kabul edilecek değerler sınırlı sayıda sayılmıştır: tedavüldeki Türk parası, bankaların ve özel finans kurumlarının süresiz teminat mektupları ve Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri (veya bu senetler yerine düzenlenen belgeler). Şirket hisse senetleri ve tahvilleri bu sayımda yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-40-9djr",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İhale şartname ve eklerinin isteklilere verilmesi ile ilgili Kanun hükmü aşağıdakilerden hangisidir?",
+    "options": [
+      "Bedelsiz veya idarece takdir edilecek bedelle verilir; idarede bedelsiz görülebilir.",
+      "Yalnızca elektronik ortamda yayımlanır, fiziki olarak verilmez.",
+      "Yalnızca bedel karşılığı verilir, idarede bedelsiz görülemez.",
+      "Yalnızca ihaleye katılmaya hak kazanan isteklilere verilir.",
+      "İsteyen herkese her durumda bedelsiz olarak verilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12'ye göre şartname ve eklerinin tasdikli örnekleri bedelsiz veya idarece takdir edilecek bir bedel karşılığında isteyenlere verilir; şartname ve ekleri idarede bedelsiz de görülebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-41-rbw0",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İlanın uygun olmaması veya geçersizliğinin ihale yapıldıktan sonra anlaşılması durumunda ihale veya sözleşme feshedilir. Ancak, 'işte ivedilik ve ihalede Devletin yararı varsa' ihalenin geçerli sayılabilmesi için gerekli şartlar nelerdir?",
+    "options": [
+      "Sayıştay vizesi ile ilgili bakanın yazılı onayı",
+      "Üzerine ihale yapılan isteklinin yazılı muvafakati",
+      "Cumhurbaşkanı kararı ile Maliye Bakanlığının vizesi",
+      "İhale komisyonunun oy birliği kararı ve valilik onayı",
+      "Maliye Bakanlığının uygun görüşü ve birinci derece ita amirinin onayı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 20'nin ikinci fıkrasına göre ilanların geçersizliği ihale yapıldıktan sonra anlaşılırsa ihale veya sözleşme feshedilir; ancak işte ivedilik ve Devletin yararı varsa, Maliye Bakanlığının uygun görüşü ve birinci derece ita amirinin onayı ile geçerli sayılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-42-peoc",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Geçici teminatın, üzerine ihale yapılmayan isteklilere geri verilme zamanı nedir?",
+    "options": [
+      "Sözleşme imzalandıktan sonra",
+      "İhale kararının onaylanmasından sonra",
+      "İhaleden hemen sonra",
+      "Mali yıl sona erdikten sonra",
+      "İsteklinin yazılı talebinden 30 gün sonra"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 26 uyarınca üzerine ihale yapılmayan isteklilerin geçici teminatları ihaleden hemen sonra geri verilir. Üzerine ihale yapılan isteklinin teminat mektubu ise ihaleden sonra mal sandığına teslim edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-43-qy2k",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, pazarlık usulü ile yapılacak ihaleler için idarelerin ilan yapıp yapmama konusundaki durumu nedir?",
+    "options": [
+      "İlan yapmaları zorunludur",
+      "İlan yapmaları kesinlikle yasaktır",
+      "İlan yapıp yapmamakta serbesttirler",
+      "Yalnızca Maliye Bakanlığının izniyle ilan yapabilirler",
+      "Yalnızca Resmî Gazetede ilan yapmak zorundadırlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 17'nin son fıkrasına göre pazarlık usulü ile yapılacak ihaleler için idareler ilan yapıp yapmamakta serbesttir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-44-y8dq",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Kanun kapsamındaki işler için bankaların vereceği teminat mektuplarının şeklini belirlemeye … Bakanlığı yetkilidir. (2886 s. K. m. 27) Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "Ticaret",
+      "İçişleri",
+      "Maliye",
+      "Adalet",
+      "Sanayi ve Teknoloji"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 27'ye göre bankaların bu Kanun kapsamındaki işler için verecekleri geçici, kesin ve avans teminat mektuplarının miktar, kapsam ve şeklini tespite Maliye Bakanlığı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-45-hsw5",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre ihalesi yapılacak her iş için aşağıdakilerden hangisi hazırlanır?",
+    "options": [
+      "Muayene raporu",
+      "Kesin kabul tutanağı",
+      "Onay belgesi",
+      "Ecrimisil tespit tutanağı",
+      "Tasfiye raporu"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11'e göre ihalesi yapılacak her iş için bir onay belgesi hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-46-osn4",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Madde 11'e göre onay belgesinde, yapılacaksa ilan ve alınacaksa geçici teminat bakımından hangi bilgiler yer alır?",
+    "options": [
+      "Yalnızca geçici teminatın türü",
+      "İlanın yalnızca yayımlanacağı gün ile kesin teminatın iade tarihi",
+      "Sadece ilanın şekli",
+      "İlanın şekli ve adedi ile geçici teminat miktarı",
+      "İlanın şekli ile sözleşmenin fesih tarihi"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 11'e göre onay belgesinde yapılacaksa ilanın şekli ve adedi, alınacaksa geçici teminat miktarı belirtilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-47-948f",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Onay belgesinde şartname ve ekleri bakımından ayrıca hangi hususun gösterilmesi gerekir?",
+    "options": [
+      "Şartnamenin noterlikçe onaylanıp onaylanmadığı",
+      "Yalnızca şartnamenin kaç sayfa olduğu",
+      "Şartnamenin hangi personelce yazıldığı",
+      "Şartnamenin yayımlanacağı gazete",
+      "Bir bedel karşılığında verilip verilmeyeceği ve bedel karşılığı verilecekse bedelin ne olacağı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 11'in ikinci fıkrasına göre şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği, bedel karşılığı verilecekse bedelin ne olacağı onay belgesinde gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-48-wqdy",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "İdare, ihalelerin en elverişli koşullarla sonuçlandırılmasını sağlamak amacıyla isteklilerde hangi nitelikleri arayabilir ve bunları tespite yarayan belgeleri nerede gösterir?",
+    "options": [
+      "Belirli mali ve teknik yeterlik ve nitelikler; şartnamelerde",
+      "Yalnız mali yeterlik; ihale kararında",
+      "Yalnız teknik yeterlik; sözleşmede",
+      "Sadece ikamet şartı; ilan tutanağında",
+      "Hiçbir yeterlik şartı arayamaz; belge istenemez"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 16'ya göre idare isteklilerde belirli mali ve teknik yeterlik ve nitelikler arayabilir; bunları tespite yarayan belgeler şartnamelerde gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-49-amwf",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Tahmin edilen bedeli Madde 17'nin (2) numaralı fıkrasında belirtilen sınırı aşan ihale konusu işler için, ihalenin yapılacağı yerdeki ilanlara ek olarak ne yapılır?",
+    "options": [
+      "Yalnızca Resmî Gazete'de beş gün önce ilan edilir.",
+      "Bir internet haber sitesi ve Basın-İlan Kurumunca tespit olunacak günlük gazetelerden birinde, ihale tarihinden en az 10 gün önce birer defa daha ilan edilir.",
+      "Sadece idarenin ilan panosunda duyurulur.",
+      "İlan yapılması tamamen yasaktır.",
+      "Yalnızca yabancı ülkelerde ilan yapılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 17'nin (2) numaralı fıkrasına göre belirtilen tutarı aşan işler, (1) numaralı fıkradaki ilanlardan başka bir internet haber sitesi ve Basın-İlan Kurumunca tespit olunacak günlük gazetelerden birinde ihale tarihinden en az 10 gün önce birer defa daha ilan edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-5-ie5r",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, askeri ihale komisyonlarının kaç kişiden ibaret olacağı ve nasıl kurulacağı hangi makam tarafından tespit edilir?",
+    "options": [
+      "Maliye Bakanlığı yönetmeliği ile",
+      "Cumhurbaşkanı kararı ile",
+      "İçişleri Bakanlığı tebliği ile",
+      "Milli Savunma Bakanlığı genelgesi ile",
+      "Genelkurmay Başkanlığı emri ile"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13'ün ikinci fıkrasına göre askeri ihale komisyonlarının kaç kişiden ibaret olacağı ve nasıl kurulacağı Cumhurbaşkanı kararı ile tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-50-enbg",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Kanun'un 17 nci maddesine göre idareler, işin önem ve özelliğine göre zorunlu ilanlara ek olarak ne yapabilir?",
+    "options": [
+      "İhaleyi ilan etmeksizin kapalı teklif usulüne çevirebilir.",
+      "İlan sürelerini kendiliğinden kaldırabilir.",
+      "İlanları yurt içinde ve yurt dışında çıkan başka gazeteler veya internet haber siteleri ya da öteki yayın araçları ile ayrıca yayınlatabilir.",
+      "Resmî Gazete ilanını her durumda kaldırabilir.",
+      "Sadece sözleşme yapıldıktan sonra ilan verebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 17'nin (4) numaralı fıkrasına göre idareler işin önem ve özelliğine göre ilanları başka gazeteler, internet haber siteleri veya öteki yayın araçlarıyla ayrıca yayınlatabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-51-2sp6",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "17 ve 18 inci maddelerdeki hükümlere uygun olmayan ilanlar bakımından ihale yapılabilmesinin şartı nedir?",
+    "options": [
+      "Sözleşmenin önceden imzalanması",
+      "Kesin teminatın artırılması",
+      "İta amirinin tek başına karar vermesi",
+      "İlanın yenilenmesi",
+      "Tekliflerin posta ile alınması"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 20'ye göre 17 ve 18 inci maddelerdeki hükümlere uygun olmayan ilanlar geçersizdir ve ilan yenilenmedikçe ihale yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-52-s6or",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Yabancı ülkelerde yapılacak ilanlarla ilgili usul ve yöntemleri gösteren yönetmelik hangi bakanlıkça çıkarılır?",
+    "options": [
+      "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "Dışişleri Bakanlığı",
+      "Milli Savunma Bakanlığı",
+      "Ticaret Bakanlığı",
+      "Maliye Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 22'ye göre ilanla ilgili usul ve yöntemler, sayılan bakanlıkların görüşü alınarak Maliye Bakanlığınca çıkarılacak yönetmelikte gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-53-krfh",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "Teklifler açılmaya başlandıktan sonra çalışma saati sona ererse işlem nasıl yürütülür?",
+    "options": [
+      "Çalışma saatine bağlı kalmaksızın işleme devam olunur.",
+      "Teklifler kapatılarak ertesi güne bırakılır.",
+      "İhale kendiliğinden iptal edilir.",
+      "Yalnız posta ile gelen teklifler açılır.",
+      "Komisyon yeni bir açılma saati belirlemek zorundadır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 24'e göre teklifler açılmaya başlandıktan sonra çalışma saatine bağlı kalmaksızın işleme devam olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-6-gq1h",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, ihalenin yapılacağı yerde ihaleler hangi araçlarla duyurulur?",
+    "options": [
+      "Belediye hoparlöründen anons ile",
+      "Yalnızca Resmî Gazetede",
+      "Bir gazete ve bir internet haber sitesinde",
+      "Yalnızca mahallî radyo yayınıyla",
+      "Yalnızca idarenin internet sitesinde"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 17'nin birinci fıkrasına göre ihaleler, ihalenin yapılacağı yerde çıkan bir gazete ve bir internet haber sitesinde duyurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-7-fy95",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, ihale için tespit edilen tarihin tatil gününe rastlaması durumunda yapılacak işlem aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Tekrar ilana gerek kalmaksızın tatili takiben ilk iş gününde aynı yer ve saatte yapılır.",
+      "Tekrar ilan çıkılması zorunludur.",
+      "İhale günü tatil gününe rastlasa da aynı gün yapılmak zorundadır.",
+      "Tekrar ilana gerek kalmaksızın tatili takiben ilk iş gününden sonraki gün yapılması esastır.",
+      "Tekrar ilan yapılarak yeni belirlenen tarihte yapılır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 23'e göre ihale için tespit olunan tarih tatil gününe rastlarsa, ihale tekrar ilana gerek kalmaksızın tatili takip eden ilk işgününde aynı yer ve saatte yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-8-mk6l",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre tahmin edilen bedelle ilgili olarak aşağıdakilerden hangisi yanlış verilmiştir?",
+    "options": [
+      "Tahmin edilen bedel, Maliye bakanlığınca tespit edilir veya ettirilir.",
+      "Tahmin edilen bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir.",
+      "Bu bedel gerektiğinde ihale komisyonlarınca tahkik ettirilir.",
+      "İşin özelliğine göre gerektiğinde bu bedel veya bu bedelin hesabında kullanılacak fiyatlar belediye, ticaret odası, sanayi odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur.",
+      "Yapım işlerinde bu işler için kanunların verdiği yetkiye dayanılarak ilgili dairelerce tespit edilmiş birim fiyatları varsa, bunlar uygulanır."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9'a göre tahmin edilen bedel, Maliye Bakanlığınca değil idarelerce tespit edilir veya ettirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-ihaleye-hazirlik-2kl3q-mtmzv6zw-9-zbh0",
+    "topic_id": "t-ihaleye-hazirlik-2kl3q",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'na göre, sınai ve teknolojik zorunlulukların gerektirdiği durumlarda kimin onayı alınmak suretiyle bedel tahmini yapılmadan kapalı teklif usulüyle ihale yapılabilir?",
+    "options": [
+      "Sayıştay'ın",
+      "İlgili Bakanın",
+      "Maliye Bakanlığının",
+      "Kamu İhale Kurulunun",
+      "Bakanlar kurulunun"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 10'a göre bedel tahmini yapılmadan kapalı teklif usulüyle ihale yapılabilmesi için ilgili bakanın onayı alınır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:16.630609+00:00",
+    "updated_at": "2026-09-04T13:33:16.630609+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-0-fw93",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre aşağıdakilerden hangisi valinin emir ve denetimi dışında kalır?",
+    "options": [
+      "Tarım Müdürlüğü",
+      "Adliyeler",
+      "Sağlık ve Sosyal Yardım Müdürlüğü",
+      "Millî Eğitim Müdürlüğü",
+      "Bayındırlık Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 4 ve 9/D: Adli teşkilat valinin emri ve denetimi dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-1-zhhs",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "I. Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.\nII. Valiler, ilin genel idaresinden yalnızca İçişleri Bakanına karşı sorumludur.\nIII. Vali, Cumhuriyet Bayramı’nda ilde yapılacak resmî törenlere başkanlık eder ve tebrikleri kabul eder.\n5442 sayılı İl İdaresi Kanunu’na göre valilerin hukuki durumları ve yetkileriyle ilgili yukarıdaki ifadelerden hangisi veya hangileri yanlıştır?",
+    "options": [
+      "II ve III",
+      "I ve II",
+      "I ve III",
+      "Yalnız II",
+      "I, II ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 11/A, 9/A ve 9/K: Vali, ildeki genel ve özel kolluk kuvvet ve teşkilatının amiridir ve Cumhuriyet Bayramı törenlerine başkanlık eder; ilin genel idaresinden Cumhurbaşkanına karşı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-10-fipy",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, ilde aşağıdakilerden hangisinin temsilcisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Cumhurbaşkanı Yardımcısı",
+      "Devlet",
+      "TBMM Başkanı",
+      "Anayasa Mahkemesi Başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 9: Vali, ilde Cumhurbaşkanının temsilcisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-11-lnsx",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, ilin yönetim, ekonomi, sağlık ve sosyal yardım, kültür ve bayındırlık işleriyle ilgili hizmetlerin ahenkli yürütülmesi için yılda bir defa kimleri toplantıya çağırır?",
+    "options": [
+      "İl idare şube başkanlarını",
+      "Bucak müdürlerini",
+      "Kaymakamları",
+      "Belediye başkanlarını",
+      "İlçe idare kurulu üyelerini"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 25: Kaymakamlar yılda bir defa toplantıya çağrılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-12-r0kk",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, halkın askerlik muameleleri hakkındaki müracaat ve şikâyetlerini kabul ederek aşağıdaki mercilerden hangilerine başvurabilir?",
+    "options": [
+      "Yalnız belediye başkanlığına",
+      "Yalnız Cumhuriyet savcılığına",
+      "Yalnız İl İdare Kuruluna",
+      "Bölge, tümen veya kolordu komutanlıkları ile Millî Savunma Bakanlığına",
+      "Danıştaya"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 11/F kapsamında askerlik şikâyetleri bölge, tümen veya kolordu komutanlıkları ile Millî Savunma Bakanlığına iletilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-13-wjvl",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valiler, ilin genel idaresinden kime karşı sorumludur?",
+    "options": [
+      "İl İdare Kuruluna",
+      "İçişleri Bakanına",
+      "TBMM’ye",
+      "Danıştaya",
+      "Cumhurbaşkanına"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9/A: Valiler, ilin genel idaresinden Cumhurbaşkanına karşı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-14-dtuv",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "I. Vali muavinleri, valinin tayin ve tespit ettiği işlerde valiye yardımcı olur.\nII. Valiliğin yazı işlerinin düzenlenmesinden vali muavini sorumludur.\nIII. Vali muavinleri, valinin bulunmadığı zamanlarda valiye vekâlet eder.\n5442 sayılı İl İdaresi Kanunu’na göre yukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+    "options": [
+      "I, II ve III",
+      "I ve II",
+      "II ve III",
+      "I ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 5: Vali muavinlerinin valiye yardım ve vekâlet görevleri ile valiliğin yazı işlerine ilişkin sorumluluğu düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-15-ush7",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valiliğin yazı işlerinin düzenlenmesinden kim sorumludur?",
+    "options": [
+      "Hukuk İşleri Müdürü",
+      "Vali Muavini",
+      "Defterdar",
+      "Kaymakam",
+      "Tahrirat Katibi"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 5: Valiliğin yazı işlerinin düzenlenmesinden vali muavini sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-16-cvut",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, lüzumu hâlinde suç faillerinin bulunması için gereken emirleri kime verebilir?",
+    "options": [
+      "Kaymakamlara",
+      "İl İdare Kuruluna",
+      "Cumhuriyet savcısına",
+      "Kolluk amir ve memurlarına",
+      "Belediye başkanlarına"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 11/G: Vali, lüzumu hâlinde suç faillerinin bulunması için gereken emirleri kolluk amir ve memurlarına verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-17-a7lq",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "I. Uyarma\nII. Kınama\nIII. Aylıktan kesme\nIV. Kademe ilerlemesinin durdurulması\n5442 sayılı İl İdaresi Kanunu’na göre vali, memurlara Memurin Kanunu’ndaki usule göre savunmalarını aldıktan sonra yukarıdaki cezalardan hangisini veya hangilerini verebilir?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "I, II, III ve IV",
+      "I, II, III"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13/C: Vali, savunmayı aldıktan sonra uyarma, kınama ve beş günlüğe kadar aylıktan kesme cezalarını verir ve uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-18-waba",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valiler, 18 inci maddede sayılan birinci derece sicil amirliği kapsamı dışında kalan diğer memurların kaçıncı derecede sicil amiridirler?",
+    "options": [
+      "İkinci",
+      "Birinci",
+      "Üçüncü",
+      "Dördüncü",
+      "Beşinci"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 18’e göre diğer memurların ikinci derecede sicil amiridir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-19-g91a",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali; idarede birliğin sağlanması, işlerin gözden geçirilerek düzenleştirilmesi ve teşkilatın ahenkli çalışması için gerekli tedbirlerin görüşülmesi amacıyla idare şube başkanlarını yılda kaç defadan az olmamak üzere toplantıya çağırır?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2",
+      "6"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 24: Vali, idare şube başkanlarını yılda dört defadan az olmamak üzere heyet hâlinde toplar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-2-6i76",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre 8 inci maddenin (A) ve (B) fıkralarında yazılı memurların il içindeki nakil ve tahvilleri hangi usulle yapılır?",
+    "options": [
+      "İl İdare Kurulu kararı üzerine Cumhurbaşkanınca yapılır.",
+      "Kaymakamın inhası üzerine ilgili Bakanlıkça yapılır.",
+      "Mensup oldukları il idare şube başkanlarının inhası üzerine valilerce yapılır; sebepleri ilgili Bakanlık veya genel müdürlüğe bildirilir.",
+      "Vali muavininin teklifi üzerine İçişleri Bakanlığınca yapılır.",
+      "İlgili memurun talebi üzerine doğrudan il idare şube başkanınca yapılır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 8/C: (A) ve (B) fıkralarında yazılı memurların il içindeki nakil ve tahvilleri, mensup oldukları il idare şube başkanlarının inhası üzerine valilerce yapılır ve sebepleri ilgili Bakanlık veya genel müdürlüklere bildirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-20-mnp9",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, ilin yönetim, ekonomi, sağlık ve sosyal yardım, kültür ve bayındırlık işleriyle ilgili hizmetlerin ahenkli yürütülmesi için alınacak tedbirleri görüşmek üzere kaymakamları yılda kaç defa toplantıya çağırır?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4",
+      "5"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 25: Yılda bir defa.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-21-i80c",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valinin kamu düzeni ve güvenliğini sağlamak amacıyla verdiği emir ve talimatlar ilgili kamu kurum ve kuruluşlarınca yerine getirilmezse vali ne yapar?",
+    "options": [
+      "İl İdare Kurulunun kararını bekler.",
+      "Konuyu doğrudan Danıştaya gönderir.",
+      "Emir ve talimatlarını kolluk aracılığıyla uygular.",
+      "Yalnızca ilgili Bakanlığa bilgi verir.",
+      "İşlemi kendiliğinden hükümsüz sayar."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/H: Kamu kurum ve kuruluşları valinin bu kapsamdaki emir ve talimatlarını yerine getirmek zorundadır; aksi takdirde vali emir ve talimatlarını kolluk aracılığıyla uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-22-3fs1",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valilerce resen verilen cezalar ne zaman sicile geçer?",
+    "options": [
+      "Tebliğ tarihinden 10 gün sonra",
+      "Tebliğ tarihinden 7 gün sonra",
+      "Tebliğ tarihini izleyen ilk iş günü",
+      "Tebliğ tarihinden itibaren",
+      "Tebliğ tarihinden 15 gün sonra"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13/C: Tebliğ tarihinden itibaren sicile geçer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-23-e7u7",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": [
+      "İl idare şube başkanlarının emri altında çalışanlar ilin birinci derecede memurlarıdır.",
+      "İllerde genel idare teşkilatı il, ilçe ve bucak bölümlerine uygun olarak düzenlenir.",
+      "İl genel idaresinin başı ve mercii validir.",
+      "İllerin idaresi yetki genişliği esasına dayanır.",
+      "Valiliğin yazı işlerinin düzenlenmesinden de vali muavini sorumludur."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 3, 4 ve 5: İllerin idaresi yetki genişliği esasına dayanır; il genel idaresinin başı validir ve vali muavini valiliğin yazı işlerinden sorumludur. Madde 4’e göre il idare şube başkanlarının emrinde çalışanlar ilin ikinci derece memurlarıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-24-5mek",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre valilerin hukuki durumları, görev ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": [
+      "Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır.",
+      "Valiler, ilin genel idaresinden İçişleri Bakanlığına karşı sorumludur.",
+      "Cumhurbaşkanı yardımcıları ve bakanlar, görevlerine ait işleri için valilere resen emir ve talimat verirler.",
+      "Bakanlıklar ve tüzel kişiliği haiz genel müdürlükler, il genel idare teşkilatına ait bütün işleri doğrudan doğruya valiliklere yazarlar.",
+      "Vali, Cumhuriyet Bayramı’nda ilde yapılacak resmî törenlere başkanlık yapar ve tebrikleri kabul eder."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 9 ve 9/A: Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır; ilin genel idaresinden Cumhurbaşkanına karşı sorumludur. Bu nedenle 'İçişleri Bakanlığına karşı sorumludur' ifadesi yanlıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-25-b7gp",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatın verdiği yetkiyi kullanmak ve yüklediği ödevleri yerine getirmek amacıyla aşağıdakilerden hangisini çıkarabilir?",
+    "options": [
+      "Yargı kararı",
+      "Kanun",
+      "Genel emir",
+      "Cumhurbaşkanlığı kararnamesi",
+      "Mahkeme talimatı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9/Ç: Vali, mevzuatın verdiği yetkiyi kullanmak ve yüklediği ödevleri yerine getirmek için genel emirler çıkarabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-26-cxwk",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali aşağıdaki görevlilerden hangisinin amiri değildir?",
+    "options": [
+      "İl Millî Eğitim Müdürü",
+      "Kaymakam",
+      "İlçede görev yapan doktor",
+      "Cumhuriyet savcısı",
+      "İl merkezinde görev yapan öğretmen"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 4 ve 13: Adli teşkilat, valinin emir ve denetimi dışındadır. Cumhuriyet savcısı valinin amiri olduğu personel arasında yer almaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-27-w49q",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre il idare şube başkanları ve kaymakamlar, mevzuatın uygulanması sırasında istizana muhtaç gördükleri hususları kime sorarlar?",
+    "options": [
+      "Cumhurbaşkanına",
+      "İlgili bakana",
+      "Valiye",
+      "Vali muavinine",
+      "İl İdare Kuruluna"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 22: İl idare şube başkanları ve kaymakamlar, mevzuatın uygulanması sırasında istizana muhtaç gördükleri hususları validen sorarlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-28-d2pi",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "İllerde genel idare teşkilatı hangi bölümlere uygun olarak düzenlenir?",
+    "options": [
+      "Bölge – il – ilçe",
+      "İl – ilçe – bucak",
+      "İl – ilçe – köy",
+      "İl – ilçe – belde",
+      "Büyükşehir – ilçe – mahalle"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 3: İllerde genel idare teşkilatı il, ilçe ve bucak bölümlerine uygun olarak düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-29-tban",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "Valinin ildeki adli ve askerî teşkilat üzerindeki yetkisi nasıldır?",
+    "options": [
+      "Doğrudan emir verebilir.",
+      "Denetleyebilir ancak emir veremez.",
+      "Bu teşkilatlar valinin emir ve denetimi dışındadır.",
+      "Yalnız askerî fabrikaları denetleyebilir.",
+      "Vali, Cumhuriyet savcısının amiridir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 4: Maddede sayılan adli ve askerî teşkilat, il genel idare teşkilatının valinin emri altında olmasına ilişkin hükmün dışındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-3-1733",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre il idare şube başkanları, kendi şubelerine ilişkin işlerin yürütülmesinden ve şubeleri emrindeki memur ve müstahdemlerin mevzuata uygun hareket etmesinden kime karşı sorumludur?",
+    "options": [
+      "Cumhurbaşkanına",
+      "İçişleri Bakanına",
+      "İl İdare Kuruluna",
+      "Valiye",
+      "Kaymakama"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 21: İl idare şube başkanları valiye karşı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-30-z35e",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "Vali, il genel idare teşkilatına ait işler hakkında hangi kurumlarla doğrudan yazışabilir?",
+    "options": [
+      "Sadece kendisine bağlı birimlerle",
+      "Sadece Cumhurbaşkanlığı ile",
+      "Sadece İçişleri Bakanlığı ile",
+      "Bakanlıklar ve tüzel kişiliği haiz genel müdürlüklerle",
+      "Sadece diğer valilerle"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9/B: Valilikler, illere ait işler için ilgili Bakanlık veya tüzel kişiliği haiz genel müdürlüklerle doğrudan doğruya muhaberede bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-31-eyhf",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, ilde çıkabilecek veya çıkan olayları emrindeki kuvvetlerle önleyemediği takdirde hangi makamlardan yardım ister?",
+    "options": [
+      "Yalnız belediyeden",
+      "Yalnız İl İdare Kurulundan",
+      "Yalnız kaymakamlıklardan",
+      "Yalnız Cumhurbaşkanlığından",
+      "İçişleri Bakanlığından ve gerekirse en yakın kara, deniz ve hava birlik komutanlığından"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 11/D: Vali, gerekli hâllerde İçişleri Bakanlığından ve gerekirse en yakın kara, deniz ve hava birlik komutanlığından yardım ister.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-32-lf37",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre askerî kuvvetin müstakilen görevlendirilmesi durumunda verilen görev kimin sorumluluğu, emir ve talimatları altında yerine getirilir?",
+    "options": [
+      "Askerî kuvvetin kendi komutanının",
+      "Emniyet müdürünün",
+      "Valinin",
+      "İçişleri Bakanının",
+      "İl Jandarma Komutanının"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 11/D: Askerî kuvvet müstakilen görevlendirilirse görev, kendi komutanının sorumluluğu ile emir ve talimatları altında yerine getirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-33-zugj",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre il idare şube başkanları veya kaymakamlar, valinin resen verdiği emrin mevzuata uygun olmadığını yazılı olarak bildirdikten sonra vali emrin mevzuata uygunluğunda ısrar ederse ne yapar?",
+    "options": [
+      "Emri geri almak zorundadır.",
+      "Emri yazılı olarak verir ve aynı zamanda işi ilgili mercie yazar.",
+      "Emri yalnız sözlü olarak tekrarlar.",
+      "Konuyu doğrudan İl İdare Kuruluna bırakır.",
+      "Emrin uygulanmasını kesin olarak durdurur."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 23: Vali, emrin mevzuata uygun olduğunda ısrar ederse emri yazılı olarak verir ve aynı zamanda işi ilgili mercie yazar; cevap gelinceye kadar emir valinin sorumluluğu altında uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-34-vb0g",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, halkın askerlik işlemleri hakkındaki müracaat ve şikâyetlerine verilen cevabı yeterli görmezse aşağıdakilerden hangisine de müracaat eder?",
+    "options": [
+      "İçişleri Bakanlığına",
+      "Danıştaya",
+      "Millî Savunma Bakanlığına",
+      "Cumhurbaşkanlığına",
+      "İl İdare Kuruluna"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/F: İlgili bölge, tümen veya kolordu komutanlıkları ile Millî Savunma Bakanlığına müracaat edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-35-8d49",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "Yabancı konsolosların müracaatlarını kabul etme yetkisi kime aittir?",
+    "options": [
+      "Kaymakam",
+      "Vali",
+      "Belediye Başkanı",
+      "Emniyet Müdürü",
+      "İl Göç İdaresi Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 12: Yabancıların hukuki durumları ile deniz, kara ve hava ticaretlerini ilgilendiren işlerde konsolosluklarla muhabere ve bunların müracaat ve ziyaretlerini kabul etme yetkisi valilere aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-36-jh9w",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, memurun savunmasını aldıktan sonra aşağıdaki disiplin cezalarından hangisini resen verebilir?",
+    "options": [
+      "15 güne kadar aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması",
+      "5 güne kadar aylıktan kesme",
+      "Devlet memurluğundan çıkarma",
+      "Yer değiştirme"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13/C: Vali, savunmayı aldıktan sonra beş günlüğe kadar aylıktan kesme cezasını resen verebilir ve uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-37-6jy8",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre vali, Devlet, il, belediye, köy ve diğer kamu tüzel kişiliklerine ait genel ve özel mülklerin yangın ve benzeri tehlikelere karşı korunması için ne yapar?",
+    "options": [
+      "İl İdare Kurulunun kararını bekler.",
+      "Bu mülkleri doğrudan Hazineye devreder.",
+      "Yalnız belediye mülkleri için tedbir alır.",
+      "Gerekli tedbirlerin uygulanmasını ilgililerden ister ve denetler.",
+      "Koruma işini kaymakamlara devretmek zorundadır."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9/İ: Vali, Devlet, il, belediye, köy ve diğer kamu tüzel kişiliklerine ait genel ve özel mülklerin yangın ve benzeri tehlikelere karşı korunması, iyi hâlde tutulması, değerlendirilmesi ve iyi idare edilmesi için gerekli tedbirlerin uygulanmasını ilgililerden ister ve denetler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-38-t9df",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’nun 11 inci maddesinin (J) fıkrası kapsamındaki operasyonlarda yetkili birlik komutanının konuta, işyerine veya kamuya açık olmayan kapalı alana girilmesine ilişkin yazılı kararı kaç saat içinde hâkim onayına sunulur?",
+    "options": [
+      "6 saat",
+      "12 saat",
+      "24 saat",
+      "48 saat",
+      "72 saat"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11/J: Yetkili birlik komutanının bu kapsamdaki yazılı kararı yirmi dört saat içinde hâkim onayına sunulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  },
+  {
+    "id": "t-il-idaresi-y5wsz-mtmz4tdz-39-joqv",
+    "topic_id": "t-il-idaresi-y5wsz",
+    "prompt": "Valiler, ilin genel durumu hakkında yıl sonunda kime rapor verirler?",
+    "options": [
+      "MGK Genel Sekreterliğine",
+      "İçişleri Bakanlığına",
+      "Sayıştaya",
+      "TBMM Başkanlığına",
+      "Cumhurbaşkanlığına ve ilgili bakanlıklara"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 26: Valiler, ilin genel durumuna ve Cumhurbaşkanınca alınan karar ve tedbirlerin sonuçlarına ilişkin olarak yıl sonunda veya gerekli gördükleri diğer zamanlarda Cumhurbaşkanlığına ve ilgili Bakanlıklara rapor verirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:45.902813+00:00",
+    "updated_at": "2026-09-04T13:12:45.902813+00:00"
+  }
+]

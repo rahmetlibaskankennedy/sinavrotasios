@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh-mtn6do1n-74-hguf",
+    "topic_id": "t-bolum-madde-amac-kapsam-ve-tanimlar-1-2--yoxkh",
+    "prompt": "5580 sayılı Kanun’a göre bir okul için kurum açma izni sürecindeki başvuru ve inceleme sırası aşağıdakilerden hangisidir?",
+    "options": [
+      "Kaymakamlık - İl millî eğitim müdürlüğü - Valilik",
+      "İlçe millî eğitim müdürlüğü - Kaymakamlık - Valilik",
+      "İlgili millî eğitim müdürlüğü - Bakanlık",
+      "İlgili millî eğitim müdürlüğü - Valilik - Bakanlık",
+      "Kaymakamlık - Valilik - Bakanlık"
+    ],
+    "answer_index": 3,
+    "explanation": "5580 sayılı Kanun’un 3 üncü maddesine göre izin başvurusu ilgili millî eğitim müdürlüğüne yapılır; valilikçe açılması uygun görülen okullara ilişkin başvurular kurum açma izni verilmek üzere Bakanlığa gönderilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T16:35:37.173800+00:00",
+    "updated_at": "2026-09-04T16:35:37.173800+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-0-ng3a",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre coğrafya, ekonomi, güvenlik ve mahallî hizmet bakımlarından aralarında münasebet bulunan kasaba ve köylerden meydana gelen idare bölümünün adı nedir?",
+    "options": [
+      "İlçe",
+      "İl",
+      "Köy",
+      "Kasaba",
+      "Bucak"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 41: Tanım bucaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-1-lwcf",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürlüğü kaç sınıftan oluşur?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 50: Bucak müdürlüğü altı sınıftır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-10-145o",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre köyler ve belediyeler mahallî müşterek işler için birlik kurduklarında, birlik karar ve murakabe heyetlerinin görevlerini hangi organlar yerine getirir?",
+    "options": [
+      "İl ve İlçe İdare Kurulları",
+      "İl Genel Meclisi ve İl İdare Kurulu",
+      "Vali ve Kaymakam",
+      "Belediye meclisleri ve encümenleri",
+      "Bucak Meclisi ve Bucak Komisyonu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 56: Birlik kurulması hâlinde Bucak Meclisi ve Bucak Komisyonu birlik karar ve murakabe heyetlerinin görevlerini yapar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-11-sdq9",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Meclisinin yıllık toplantısının süresini kim belirler?",
+    "options": [
+      "Bucak Meclisinin kendisi",
+      "Kaymakam",
+      "İçişleri Bakanlığı",
+      "Vali",
+      "Bucak Müdürü"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 53: Bucak Meclisi toplantı süresini kendisi belirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-12-ndin",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Meclisinin karar ve isteği üzerine fen ve ihtisaslarından faydalanılmak üzere gönderilecek Devlet ve özel idare memurlarının her türlü masrafı nereden ödenir?",
+    "options": [
+      "Devlet veya özel idare bütçesinden",
+      "Köy bütçesinden",
+      "İçişleri Bakanlığı bütçesinden",
+      "Bucak Meclisi bütçesinden",
+      "Belediye bütçesinden"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 55: Bucak Meclisinin karar ve isteği üzerine gönderilecek Devlet ve özel idare memurlarının her türlü masrafı Devlet veya özel idare bütçesinden ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-13-y4nv",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "Bucak idaresinin başı kimdir?",
+    "options": [
+      "Bucak Müdürü",
+      "Belediye Başkanı",
+      "Jandarma Karakol Komutanı",
+      "Kaymakam",
+      "Muhtar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 42: Bucak müdürü, bucakta en büyük Hükümet memuru ve temsilcisidir ve bucağın genel idaresinden sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-14-uk9i",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürlerini kim tayin eder?",
+    "options": [
+      "Vali",
+      "İçişleri Bakanlığı",
+      "Kaymakam",
+      "İl İdare Kurulu",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 47: Nahiye (bucak) müdürleri İçişleri Vekaletince valilikler emrine tayin olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-15-ie11",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "Bucak Meclisi yılda bir defa ne zaman toplanır?",
+    "options": [
+      "Ocak başında",
+      "Mayıs başında",
+      "Ekim başında",
+      "Aralık başında",
+      "Mali yıl başında"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 53: Bucak Meclisi yılda bir defa Ekim ayının başında toplanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-16-7dqd",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Meclisi, kendi üyeleri arasından Bucak Komisyonuna kaç üye seçer?",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 54’e göre dört üye seçilir; komisyonun başkanı bucak müdürüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-17-y1vp",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "Aşağıdakilerden hangisi bucak müdürünün görevlerinden biridir?",
+    "options": [
+      "Adli yargılama yapmak",
+      "Köy muhtarını atamak",
+      "Vergi oranlarını belirlemek",
+      "Kanun ve kararların uygulanmasını sağlamak",
+      "İmar planı yapmak"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 42/B: Bucak müdürü, kanun, tüzük, yönetmelik ve Hükümet kararlarının yayınlanmasını ve uygulanmasını sağlar; bunların verdiği yetkileri kullanır ve ödevleri yerine getirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-18-ehbj",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre ilk defa bucak müdürü olacaklar için yaş sınırı kaçtır?",
+    "options": [
+      "45",
+      "25",
+      "35",
+      "40",
+      "30"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 48/B: İlk defa bucak müdürü olabilmek için fiilî askerlik hizmetini bitirmiş ve otuz yaşını geçmemiş olmak gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-19-jh8t",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "Bucak Meclisi üyelerinin görev süresi kaç yıldır?",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 52: Bucak Meclisine seçilen üyelerin görevleri dört yıl sürer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-2-q6k3",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürü, bucağa bağlı köy ve kasabaları en az hangi sıklıkla dolaşmak zorundadır?",
+    "options": [
+      "Ayda bir",
+      "Yılda bir",
+      "Altı ayda bir",
+      "Üç ayda bir",
+      "İki yılda bir"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 46: Bucak müdürü, her yıl bucağın bütün köy ve kasabalarını en az birer kere dolaşır; halkın müracaat ve şikâyetlerini dinler, yetkileri içindeki işleri yapar ve yapamadıklarını kaymakama bildirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-20-jnfp",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Komisyonuna seçilen üyeler ne kadar süre için seçilir?",
+    "options": [
+      "6 ay",
+      "4 yıl",
+      "1 yıl",
+      "2 yıl",
+      "3 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 54: Bucak Komisyonuna seçilen üyeler bir yıl için seçilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-21-m7do",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürlüğü meslek kursunun süresi ne kadardır?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "9 ay",
+      "1 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 49: Bucak müdürlüğü meslek kursunun süresi bir yıldır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-22-27zv",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Meclisine seçilecek üye sayısı, kasaba ve köy adedi 12’den az ise en az kaça tamamlanır?",
+    "options": [
+      "15",
+      "8",
+      "10",
+      "5",
+      "12"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 52: Kasaba ve köy adedi 12’den az olursa Bucak Meclisine seçilen üye sayısı 12’den az olmamak üzere tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-23-ujk9",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürünün bucaktaki hukuki konumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Valinin doğrudan temsilcisidir",
+      "En büyük Hükümet memuru ve temsilcisidir",
+      "İlçe İdare Kurulunun başkanıdır",
+      "Adli teşkilatın amiridir",
+      "Belediye teşkilatının başıdır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 42: Bucak müdürü, bucakta en büyük Hükümet memuru ve temsilcisidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-24-w3p5",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre olağanüstü hâllerde kaymakamla muhabere mümkün olmazsa bucak müdürü ne yapar?",
+    "options": [
+      "Bucak Meclisini fesheder.",
+      "Doğrudan Cumhurbaşkanlığına başvurur.",
+      "Yalnız kolluk kuvvetlerine emir verir.",
+      "Hiçbir işlem yapmadan haberleşmenin kurulmasını bekler.",
+      "En yakın idare üstüne durumu bildirir ve valiliğin haberdar edilmesini ister."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 44: Olağanüstü hâllerde kaymakamla muhabere mümkün olmazsa bucak müdürü en yakın idare üstüne durumu bildirir ve valiliğin haberdar edilmesini ister.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-25-zvwe",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucağın güven ve düzeninin korunmasından kim sorumludur?",
+    "options": [
+      "Köy muhtarı",
+      "Kaymakam",
+      "Bucak müdürü",
+      "Belediye başkanı",
+      "İlçe İdare Kurulu"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 43: Bucağın güven ve düzeninin korunmasından bucak müdürü sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-26-uec1",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre genel ve özel kolluk kuvvetleri bucakta kimin emri altındadır?",
+    "options": [
+      "Valinin",
+      "Kaymakamın",
+      "Bucak Meclisinin",
+      "Bucak müdürünün",
+      "Belediye başkanının"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 43: Genel ve özel kolluk kuvvetleri bucak müdürünün emri altındadır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-27-tpfv",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürünün suç işlenmesini önlemeye ilişkin görevi nedir?",
+    "options": [
+      "Ceza vermek",
+      "Yalnız kaymakama rapor vermek",
+      "Mahkeme kararı çıkarmak",
+      "Kolluğu görevden almak",
+      "Gereken tedbirleri almak ve uygulamak"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 43: Bucak müdürü, suç işlenmesini önlemek için gereken tedbirleri alır ve uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-28-6a2t",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürü su baskını, kıtlık, yangın ve deprem gibi afetlerde durumu kime bildirir?",
+    "options": [
+      "Kaymakama",
+      "Valiye",
+      "İçişleri Bakanına",
+      "Bucak Meclisine",
+      "İl İdare Kuruluna"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 44: Bucak müdürü, afetlerde keyfiyeti kaymakama bildirir ve durumun gerektirdiği bütün tedbirleri alır ve uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-29-u2yy",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre olağanüstü olaylarda bucak müdürü, gerekli tedbirleri almanın yanında hangi kuvvetleri harekete geçirir?",
+    "options": [
+      "Askerî birlikleri",
+      "Kolluk kuvvetlerini",
+      "İl İdare Kurulunu",
+      "Bucak Meclisini",
+      "Belediye zabıtasını yalnız başına"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 44: Bucak müdürü olağanüstü olaylarda gerekli tedbirleri alır ve kolluk kuvvetlerini harekete geçirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-3-96mx",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "I. En az lise veya bu dereceli okul mezunu olmak.\nII. Bilfiil askerlik hizmetini bitirmiş ve 30 yaşını geçmemiş olmak.\nIII. Vücutça sağlam olmakla beraber memleketin her ikliminde görev yapmaya ve her vasıtayla dolaşmaya kabiliyetli bulunduğunun hastaneler sağlık kurullarınca tasdik edilmiş olması.\n5442 sayılı İl İdaresi Kanunu’na göre ilk defa bucak müdürü olabilmek için yukarıdaki şartlardan hangisi veya hangileri aranır?",
+    "options": [
+      "I, II ve III",
+      "Yalnız I",
+      "I ve II",
+      "II ve III",
+      "Yalnız II"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 48: İlk defa bucak müdürü olabilmek için en az lise veya bu dereceli okul mezunu olmak; bilfiil askerlik hizmetini bitirmiş ve 30 yaşını geçmemiş olmak; ayrıca vücutça sağlam olup memleketin her ikliminde görev yapmaya ve her vasıtayla dolaşmaya kabiliyetli bulunduğunun hastaneler sağlık kurullarınca tasdik edilmiş olması gerekir. Bu nedenle I, II ve III doğrudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-30-c0yv",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürü, köy ve kasabaları dolaşırken yetkileri içinde olmayan işleri ne yapar?",
+    "options": [
+      "Doğrudan sonuçlandırır",
+      "Bucak Meclisine bırakır",
+      "Kaymakama bildirir",
+      "Valiye havale eder",
+      "İşlemden kaldırır"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 46: Bucak müdürü yetkileri içindeki işleri yapar, yapamadıklarını kaymakama bildirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-31-3ovb",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre adaylık devresinde kifayeti tasdik edilmeyen veya kursta başarı gösteremeyenler hakkında ne yapılır?",
+    "options": [
+      "Başka bir kursa zorunlu olarak gönderilir",
+      "Vali muavini yapılır",
+      "Doğrudan asaleten tayin edilir",
+      "Nahiye müdürlüğüne tayin edilmez ve vazifelerine son verilir",
+      "Bir yıl daha aday tutulur"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 49: Adaylık devresinde kifayeti tasdik edilmeyenler ile kursta başarı gösteremeyenler nahiye müdürlüğüne tayin edilmeyerek vazifelerine son verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-32-f8f6",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucaklarda sayılan görevliler Bakanlıklar tarafından nereye gönderilir?",
+    "options": [
+      "İl İdare Kurulu emrine",
+      "Kaymakamlık emrine",
+      "Bucak Meclisi emrine",
+      "Belediye emrine",
+      "Valilikler emrine"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 51: Bucaklarda ihtiyaç duyulan sayılı görevliler Bakanlıklar tarafından valilikler emrine gönderilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-33-b3lg",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Bucak Meclisinin müzakere usulü kim tarafından yönetmelikle tespit edilir?",
+    "options": [
+      "İçişleri Bakanlığı tarafından",
+      "Vali tarafından",
+      "Kaymakam tarafından",
+      "Bucak müdürü tarafından",
+      "Cumhurbaşkanı tarafından"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 52: Bucak Meclisinin müzakere usulü İçişleri Bakanlığınca yönetmelikle tespit edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-4-mwsx",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak idaresi ve teşkilatıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bucak müdürü, Cumhuriyet Bayramı’nda bucakta yapılacak törene başkanlık eder ve ziyaretleri kabul eder.",
+      "Kaymakamlar, bucağa ait bütün işleri doğrudan doğruya bucak müdürüne yazarlar.",
+      "Bucak müdürü, bucakta en büyük Hükümet memuru ve temsilcisidir.",
+      "Bucak müdürü, her yıl bucağın bütün köy ve kasabalarını en az birer defa dolaşır.",
+      "Bucak müdürleri, bucağın bütün işleri hakkında bağlı bulundukları valiliklerle muhabere ederler."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 42/C ve 42/F ile Madde 46: Bucak müdürü, Cumhuriyet Bayramı’nda bucakta yapılacak törene başkanlık eder ve ziyaretleri kabul eder; her yıl bucağın bütün köy ve kasabalarını en az birer kere dolaşır. Bucak müdürleri bucağın işleri hakkında bağlı bulundukları kaymakamlıklarla muhabere ederler. Bu nedenle yanlış ifade B şıkkıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-5-v9kx",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "I. Uyarma\nII. Kınama\nIII. Aylıktan kesme\n5442 sayılı İl İdaresi Kanunu’na göre bucak müdürü yukarıdaki disiplin cezalarından hangisini tek başına verebilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 42/E: Bucak müdürü yalnız uyarma cezası verir ve uygular.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-6-u11b",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "I. Sabit veya gezici doktor\nII. Ziraat muallimi\nIII. Sabit ve gezici başöğretmenler\nIV. Veteriner\n5442 sayılı İl İdaresi Kanunu’na göre yukarıdakilerden hangileri Bucak Meclisinin tabii üyeleridir?",
+    "options": [
+      "I ve III",
+      "I, II, III ve IV",
+      "I, II ve III",
+      "I, III ve IV",
+      "II ve IV"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 52: Bucak Meclisinin tabii üyeleri arasında doktor, ziraat muallimi, başöğretmenler ve veteriner yer alır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-7-ozbj",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürlüğü adaylık süresi ne kadardır?",
+    "options": [
+      "6 ay",
+      "3 ay",
+      "9 ay",
+      "1 yıl",
+      "2 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 49: Bucak müdürlüğü adaylık süresi altı aydır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-8-1qox",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürünün bucaktaki memurlara doğrudan verebileceği disiplin cezası hangisidir?",
+    "options": [
+      "Aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması",
+      "Uyarma",
+      "Memurluktan çıkarma",
+      "Kınama"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 42: Bucak müdürü uyarma cezası verebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524f-9-be5m",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak müdürü, bucak işleri hakkında hangi makamla muhaberede bulunur?",
+    "options": [
+      "Doğrudan Cumhurbaşkanlığıyla",
+      "Doğrudan bütün bakanlıklarla",
+      "İl İdare Kuruluyla",
+      "Bağlı bulunduğu kaymakamlıkla",
+      "Danıştayla"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 42: Bucak müdürü, bucak işleri hakkında bağlı bulunduğu kaymakamlıkla muhaberede bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-bucak-idaresi-ve-teskilati-y6imi-mtmz524g-34-wgqj",
+    "topic_id": "t-bucak-idaresi-ve-teskilati-y6imi",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre bucak çevresindeki köy ve belediyelerin kurduğu birliğin kuruluşu kimin tasdikiyle tamamlanır?",
+    "options": [
+      "Kaymakamın",
+      "Valinin",
+      "İl İdare Kurulunun",
+      "Bucak müdürünün",
+      "İçişleri Bakanının"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 56: Bu suretle birliğin kuruluşu valinin tasdikiyle tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:12:57.217438+00:00",
+    "updated_at": "2026-09-04T13:12:57.217438+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-0-ag2g",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, bir sendikanın genel kurul kararıyla başka bir sendikaya katılması hâlinde, katılan sendikanın üyelerinin durumu ne olur?",
+    "options": [
+      "Ayrı bir işleme gerek olmaksızın devralan sendikanın üyesi olurlar",
+      "Üyelikleri düşer, yeniden başvurmaları gerekir",
+      "Üyelikleri askıya alınır ve yeniden başvuru yapmaları istenir",
+      "İstifa etmiş sayılırlar ve yeni sendikaya ayrıca başvurmaları gerekir",
+      "Bir ay içinde yazılı beyan vermeleri istenir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 36'nın üçüncü fıkrasına göre katılan veya birleşen sendika ve konfederasyonların üyeleri, ayrı bir işleme gerek olmaksızın devralan veya yeni kurulan sendika veya konfederasyonun üyesi olurlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-1-rqzr",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, birleşme ile ilgili diğer usul ve esaslar sendika veya konfederasyonların ............... gösterilir.",
+    "options": [
+      "genel kurul kararlarında",
+      "tüzüklerinde",
+      "yönetim kurulu kararlarında",
+      "kuruluş dilekçelerinde",
+      "denetleme raporlarında"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 36'nın son fıkrasına göre birleşme ile ilgili diğer usul ve esaslar sendika veya konfederasyonların tüzüklerinde gösterilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-10-6d8w",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, faaliyeti durdurulan sendika veya konfederasyonun mallarının idaresi ve menfaatlerinin korunması kim tarafından sağlanır?",
+    "options": [
+      "Bakanlık tarafından resen atanan bir görevli tarafından",
+      "Mahkeme bizzat kendisi tarafından",
+      "Medenî Kanun hükümleri gereğince tayin olunacak bir veya üç kayyım tarafından",
+      "Valilik tarafından görevlendirilecek bir memur tarafından",
+      "En büyük konfederasyon tarafından"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 39'a göre bu görev, Medenî Kanun hükümleri gereğince tayin olunacak bir veya üç kayyım tarafından yerine getirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-11-on89",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, faaliyeti durdurulan bir sendikanın durdurma süresi sonunda yeniden faaliyete geçebilmesi için kayyım ne yapar?",
+    "options": [
+      "Üyeleri başka bir sendikaya nakleder",
+      "Genel kurul yapılmasını sağlar",
+      "Malları Hazineye devreder",
+      "Yeni bir sendika kurar",
+      "Sendikayı kapatır"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 39'a göre kayyım, durdurma süresi sonunda yeniden faaliyete geçebilmek için genel kurul yapılmasını sağlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-12-qn7z",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, kayyım tayini hangi Kanun'un hükümlerine göre yapılır?",
+    "options": [
+      "6100 sayılı Hukuk Muhakemeleri Kanunu",
+      "2821 sayılı Sendikalar Kanunu",
+      "2908 sayılı Dernekler Kanunu",
+      "5253 sayılı Dernekler Kanunu",
+      "Türk Medenî Kanunu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 39'a göre kayyım, Medenî Kanun hükümleri gereğince tayin olunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-13-xcfh",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, fesih, infisah ve kapatma hâllerinde mal varlıkları hangi Kanun'un ilgili maddesi çerçevesinde tasfiye edilir?",
+    "options": [
+      "2821 sayılı Sendikalar Kanun'unun 46 ncı maddesi",
+      "Türk Medenî Kanun'unun 90 ıncı maddesi",
+      "5253 sayılı Dernekler Kanun'unun 33 üncü maddesi",
+      "2908 sayılı Dernekler Kanun'unun 54 üncü maddesi",
+      "6098 sayılı Türk Borçlar Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 40'ın birinci fıkrasına göre mal varlıkları, 2821 sayılı Sendikalar Kanun'unun 46 ncı maddesindeki hükümler çerçevesinde tasfiye edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-14-2z4p",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, tasfiye sonucunda kalacak para ve mallar kural olarak kime devredilir?",
+    "options": [
+      "Konfederasyona",
+      "Vakıflara",
+      "Üyelerine paylaştırılır",
+      "Hazineye",
+      "Başka bir sendikaya"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 40'ın ikinci fıkrasına göre tasfiye sonucu kalan para ve mallar, tüzükte aksine bir hüküm bulunmadığı takdirde Hazineye devredilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-15-p2fm",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, tasfiye sonucu kalan para ve malların Hazine dışında bir yere devredilebilmesi için ne gerekir?",
+    "options": [
+      "Genel kurulun son anda karar vermesi",
+      "Bakanlık onayı",
+      "Tüzükte bu yönde aksine bir hükmün bulunması",
+      "Mahkeme kararı",
+      "Valilik onayı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 40'ın ikinci fıkrasına göre tüzükte aksine bir hüküm varsa, kalan para ve mallar tüzükte belirtilen yere devredilir; aksi hâlde Hazineye devredilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-16-5kuc",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un uygulanmasına ilişkin yönetmelikler hangi kurumlarca birlikte hazırlanır?",
+    "options": [
+      "Yalnızca Devlet Personel Başkanlığınca tek başına hazırlanır ve yürürlüğe konulur",
+      "Yalnızca Çalışma ve Sosyal Güvenlik Bakanlığınca hazırlanıp Resmî Gazetede yayımlanır",
+      "Yalnızca ilgili konfederasyonlarca hazırlanıp Bakanlığın onayına sunulur",
+      "Maliye Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı ile Devlet Personel Başkanlığınca birlikte",
+      "Cumhurbaşkanlığınca tek başına hazırlanır ve doğrudan yürürlüğe konulur"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 41'in son fıkrasına göre yönetmelikler, konfederasyonların görüşleri alınmak suretiyle Maliye Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı ile Devlet Personel Başkanlığınca birlikte hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-17-cojc",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, uygulama yönetmelikleri Kanun'un yayımı tarihinden itibaren kaç ay içinde hazırlanır?",
+    "options": [
+      "6 ay",
+      "2 ay",
+      "4 ay",
+      "1 ay",
+      "1 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 41'in son fıkrasına göre yönetmelikler, Kanun'un yayımı tarihinden itibaren dört ay içinde hazırlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-18-qwfz",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdakilerden hangisi yönetmelikle düzenlenecek hususlardan biri değildir?",
+    "options": [
+      "Sendika ve konfederasyon üyeliklerine başvuru belgelerinin şekli",
+      "Sendika üye sayıları ve bağlı bulundukları konfederasyonların belirlenmesine ilişkin usul ve esaslar",
+      "Kurumların girecekleri hizmet kolları",
+      "Kamu Personeli Danışma Kurulu ve Hakem Kurulunun çalışma usul ve esasları",
+      "Toplu sözleşmenin imza yetkisi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 41'de sayılan yönetmelik konuları arasında hizmet kolları, üyelik belgeleri, Kurulların çalışma usulleri ve üye sayısı tespiti yer alır; toplu sözleşmenin imza yetkisi ise doğrudan Madde 29'da düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-19-hdx5",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un uygulanmasında, sendika ve konfederasyonların kuruluşu, organlarının oluşumu ve faaliyetleri gibi konularda karşılaşılacak sorunları gidermeye hangi Bakanlık yetkilidir?",
+    "options": [
+      "Adalet Bakanlığı",
+      "Millî Eğitim Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Hazine ve Maliye Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 42/a'ya göre bu konulardaki sorunları gidermeye Çalışma ve Sosyal Güvenlik Bakanlığı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-2-zm0u",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, birleşen sendika veya konfederasyonların bütün hak, borç, yetki ve menfaatleri ne olur?",
+    "options": [
+      "Eski yöneticilere devredilir ve bunlar üzerinde tasarruf hakkı doğar",
+      "Hazineye devredilir ve bu konuda üyelere herhangi bir hak doğmaz",
+      "Bakanlığa devredilir ve Bakanlıkça uygun görülen şekilde kullanılır",
+      "Birleşme sonucu meydana getirdikleri yeni tüzel kişiliğe kendiliğinden geçer",
+      "Üyelere eşit olarak paylaştırılır ve tapuya bu şekilde tescil edilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 36'nın ikinci fıkrasına göre birleşen sendika veya konfederasyonların bütün hak, borç, yetki ve menfaatleri birleşme sonucu oluşan yeni tüzel kişiliğe kendiliğinden geçer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-20-o1b1",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un uygulanmasında, personel konularına ilişkin sorunları Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığının görüşlerini alarak gidermeye hangi kurum yetkilidir?",
+    "options": [
+      "Danıştay",
+      "Devlet Personel Başkanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanlığı İdari İşler Başkanlığı",
+      "Sayıştay"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 42/b'ye göre personel konularına ilişkin sorunları gidermeye Devlet Personel Başkanlığı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-21-tp1u",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanunda hüküm bulunmayan hâllerde, sendika ve konfederasyonlarla ilgili olarak hangi kanunların ilgili hükümleri uygulanır?",
+    "options": [
+      "Yalnızca 657 sayılı Devlet Memurları Kanunu",
+      "Yalnızca 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "4857 sayılı İş Kanunu ile 6098 sayılı Türk Borçlar Kanunu",
+      "2821 sayılı Sendikalar Kanunu, 2908 sayılı Dernekler Kanunu ve 743 sayılı Türk Medenî Kanunu",
+      "5253 sayılı Dernekler Kanunu ile 6102 sayılı Türk Ticaret Kanunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 43'e göre Kanunda hüküm bulunmayan hâllerde 2821 sayılı Sendikalar Kanunu, 2908 sayılı Dernekler Kanunu, 743 sayılı Türk Medenî Kanunu ile ilgili personel kanunlarının hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-22-fxqe",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, sendika ve konfederasyonlarda görev alacaklar hakkında, kendi personel kanunlarındaki hangi hükümler uygulanır?",
+    "options": [
+      "Kamu görevlilerinin tabi oldukları personel kanunlarının ilgili hükümleri",
+      "Yalnızca 4857 sayılı İş Kanunu hükümleri, statü farkı gözetilmeksizin",
+      "Yalnızca Sosyal Sigortalar Kanunu hükümleri, diğer kanunlar uygulanmaksızın",
+      "Yalnızca 657 sayılı Kanun'un disiplin hükümleri, diğer hükümler hariç tutularak",
+      "Hiçbir personel kanunu hükmü uygulanmaz, tamamen sözleşme serbestisi geçerlidir"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 43'e göre sendika ve konfederasyonlarda görev alacaklar hakkında, kamu görevlilerinin tabi oldukları personel kanunlarının ilgili hükümleri de uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-23-2h25",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un 46 ncı madde hükmüne göre, Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Devlet Personel Başkanlığı",
+      "Cumhurbaşkanı tek başına",
+      "TBMM",
+      "Bakanlar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 46'ya göre madde metninde Kanun hükümlerini Bakanlar Kurulunun yürüteceği belirtilmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-24-j1lu",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un Geçici 16 ncı maddesine göre, maddenin yürürlük tarihine kadar Kanun'a veya 375 sayılı KHK'nin ek 15 inci maddesine aykırı olarak sosyal denge tazminatı ödediği tespit edilen il özel idareleri, belediyeler ve bağlı kuruluşlarının sorumluları hakkında ne yapılır?",
+    "options": [
+      "Doğrudan görevden alınırlar ve bir daha kamu görevine dönemezler",
+      "Sadece uyarı cezası verilir, başka bir işlem yapılmaz",
+      "Ağır para cezası uygulanır ve bu ceza kesinleşinceye kadar görevine devam eder",
+      "Konusu suç teşkil etmemek kaydıyla idari veya mali yargılama ve takibat yapılamaz, başlamış olanlar işlemden kaldırılır",
+      "Kurumları kapatılır ve personeli başka kurumlara nakledilir"
+    ],
+    "answer_index": 3,
+    "explanation": "Geçici Madde 16'ya göre, konusu suç teşkil etmemek kaydıyla bu ödemeler nedeniyle idari veya mali yargılama ve takibat yapılamaz; başlamış olanlar işlemden kaldırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-25-54x1",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a en son eklenen (7555 sayılı Kanunla eklenen) geçici madde hangi konuyu düzenlemektedir?",
+    "options": [
+      "Sendika üye sayılarının yeniden tespitini ve buna bağlı bildirim usulünün ne şekilde yapılacağını",
+      "Hakem Kurulu üyelerinin görev süresinin uzatılmasını ve bu üyelerin yeniden ne şekilde atanacağını",
+      "Toplu sözleşme sürelerinin uzatılmasını ve buna bağlı ödemelerin ne şekilde yapılacağını",
+      "Sendika şubelerinin kapatılmasını ve mallarının hangi usulle tasfiye edileceğini",
+      "Kamu görevlilerine usulüne aykırı olarak yapılan giyim, kıyafet veya koruyucu donanım yardımları nedeniyle sorumlular hakkında takibat yapılamayacağını"
+    ],
+    "answer_index": 4,
+    "explanation": "Geçici Madde 17 (Ek: 20/7/2025-7555/10 md.), usul ve esaslara aykırı olarak 31/5/2025 tarihine kadar yapılan giyim, kıyafet ve koruyucu donanım yardımları nedeniyle sorumlular hakkında, konusu suç teşkil etmemek kaydıyla takibat yapılamayacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-26-3itg",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un 41 inci maddesine göre, sendika ve konfederasyon üye sayıları ile bunların bağlı bulundukları konfederasyonların belirlenmesine ilişkin usul ve esaslar ne ile belirlenir?",
+    "options": [
+      "Yönetmelikle",
+      "Toplu sözleşmeyle",
+      "Sendika tüzüğüyle",
+      "Kurum genelgesiyle",
+      "Mahkeme kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 41/d'ye göre sendika üye sayıları ve bunların bağlı bulundukları konfederasyonların belirlenmesine ilişkin usul ve esaslar yönetmelikle belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-27-s6d8",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un Geçici 4 üncü maddesine göre, Kanun'un yayımı tarihine kadar memur temsilcileri ile toplu iş sözleşmesi akdedilmesi nedeniyle kamu görevlileri hakkında takibat yapılmamasının şartlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Sözleşmenin noter huzurunda yapılmış olması gerekir",
+      "Toplu iş sözleşmesi en az bir yıl uygulanmış olmalıdır",
+      "Sendikanın en çok üyeye sahip olması gerekir",
+      "Kamu işvereninin yazılı izni bulunmalıdır",
+      "Fiilin konusu suç teşkil etmemelidir"
+    ],
+    "answer_index": 4,
+    "explanation": "Geçici Madde 4'e göre koruyucu hükmün uygulanması için konunun suç teşkil etmemesi ve kesinleşmiş bir yargı kararına müstenit olmaması gerekir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-28-mted",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un Geçici 14 üncü maddesine göre, 15/3/2012 tarihinden önce belirtilen idareler ile ilgili sendikalar arasında imzalanmış sözleşmelerin uygulanmasına ne zamana kadar devam edilebilir?",
+    "options": [
+      "Sözleşmelerde öngörülen sürelerin sonuna kadar",
+      "Kanun'un yayımından itibaren yalnız bir ay",
+      "İlk mahalli idareler genel seçimine kadar",
+      "Süresiz olarak",
+      "Yalnız 15/3/2012 tarihine kadar"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 14'e göre 15/3/2012 tarihinden önce belirtilen kapsamda imzalanan sözleşmelerin uygulanmasına, söz konusu sözleşmelerde öngörülen sürelerin sonuna kadar devam edilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-29-lggp",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un Geçici 14 üncü maddesine göre, önceki sözleşmelerin uygulanmasına devam edilen dönem için 32 nci madde çerçevesinde ayrıca sözleşme yapılabilir mi?",
+    "options": [
+      "Evet, her durumda yapılabilir",
+      "Hayır, ayrıca sözleşme yapılamaz",
+      "Yalnız Kamu Görevlileri Hakem Kurulu kararıyla yapılabilir",
+      "Yalnız belediyelerde yapılabilir",
+      "Yalnız il özel idarelerinde yapılabilir"
+    ],
+    "answer_index": 1,
+    "explanation": "Geçici Madde 14'e göre anılan sözleşmelerin uygulanmasına devam edildiği dönem için 32 nci madde hükümleri çerçevesinde ayrıca sözleşme yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-3-0oa5",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, faaliyetleri Anayasada belirtilen Cumhuriyetin niteliklerine ve demokratik esaslara aykırı olan sendika veya konfederasyonun kapatma davasını kim açar?",
+    "options": [
+      "Çalışma Bakanı",
+      "Cumhuriyet Başsavcısı",
+      "Emniyet Müdürü",
+      "Devlet Denetleme Kurulu",
+      "Vali"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 37'nin birinci fıkrasına göre kapatma davası, merkezlerinin bulunduğu yer Cumhuriyet Başsavcısının istemi üzerine açılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-30-nv92",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "5198 sayılı Kanun'un 4688 sayılı Kanun'a işlenemeyen Geçici 2 nci maddesine göre, konfederasyonların ve sendikaların yönetim kurulu üyelerinin bu Kanun'un yayımı tarihinden önceki sendikal faaliyetleri ve aylıksız izinleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yalnızca mali takibat yapılamaz; idari takibat yapılabilir",
+      "İdari ve mali takibat yapılır; başlatılmış olanlar sonuçlandırılır",
+      "Yalnızca idari takibat yapılamaz; mali takibat devam eder",
+      "İdari ve mali takibat yapılamaz; başlatılmış olanlar işlemden kaldırılır",
+      "Takibatın yapılıp yapılmayacağı yönetmelikle belirlenir"
+    ],
+    "answer_index": 3,
+    "explanation": "5198 sayılı Kanun'un 4688 sayılı Kanun'a işlenemeyen Geçici 2 nci maddesine göre, konfederasyonların ve sendikaların yönetim kurulu üyelerinin bu Kanun'un yayımı tarihinden önceki sendikal faaliyetleri ve aylıksız izinleri ile ilgili olarak idari ve mali takibat yapılamaz; başlatılmış olanlar işlemden kaldırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-4-dt90",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, kapatma davası hangi mahkemede görülür?",
+    "options": [
+      "İş davalarına bakmakla görevli mahallî mahkeme",
+      "Anayasa Mahkemesi resen inceleme yoluyla",
+      "Danıştay ilk derece mahkemesi sıfatıyla",
+      "Sulh Ceza Mahkemesi basit yargılama usulüyle",
+      "İdare Mahkemesi genel görevi gereği"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 37'nin birinci fıkrasına göre kapatma davası, iş davalarına bakmakla görevli mahallî mahkemede görülür ve mahkeme kararıyla sonuçlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-5-uckc",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, Anayasada belirtilen esaslara aykırı hareket eden sendika şubesi, sendika ve konfederasyonlar hakkında hangi kanun hükümleri uygulanır?",
+    "options": [
+      "5253 sayılı Dernekler Kanunu",
+      "4857 sayılı İş Kanunu",
+      "2821 sayılı Sendikalar Kanunu",
+      "2908 sayılı Dernekler Kanunu'nun 54 üncü maddesi",
+      "657 sayılı Devlet Memurları Kanunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 37'nin ikinci fıkrasına göre bu durumda 2908 sayılı Dernekler Kanun'unun 54 üncü maddesi uyarınca işlem yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-6-9bhc",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un 20, 24 ve 26 ncı maddelerinde yer alan hükümlere aykırı hareket edenlere ne tür bir ceza uygulanır?",
+    "options": [
+      "Görevden uzaklaştırma",
+      "Elli günden az olmamak üzere adli para cezası",
+      "Altı aydan bir yıla kadar hapis cezası",
+      "Sendika üyeliğinden çıkarma",
+      "Kınama cezası"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 38/a'ya göre 20, 24 ve 26 ncı maddelere aykırı hareket edenler altı aydan bir yıla kadar hapis cezası ile cezalandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-7-m0mf",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'un 8, 14, 16 ve 17 nci maddelerinde yer alan hükümlere aykırı hareket eden kişilere ........... cezası uygulanır.",
+    "options": [
+      "Görevden uzaklaştırma",
+      "Sendika üyeliğinden çıkarma",
+      "Altı aydan bir yıla kadar hapis",
+      "Kınama",
+      "Elli günden az olmamak üzere adli para"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 38/b'ye göre 8, 14, 16 ve 17 nci maddelere aykırı hareket eden kişiler elli günden az olmamak üzere adlî para cezası ile cezalandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-8-dyy6",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre, ceza hükümlerinin düzenlendiği madde aşağıdakilerden hangisidir?",
+    "options": [
+      "Madde 43",
+      "Madde 33",
+      "Madde 38",
+      "Madde 40",
+      "Madde 35"
+    ],
+    "answer_index": 2,
+    "explanation": "Ceza hükümleri Madde 38'de düzenlenmiştir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-gecici-ve-son-hukumler-rltuz-mtn02svv-9-cvtt",
+    "topic_id": "t-cesitli-gecici-ve-son-hukumler-rltuz",
+    "prompt": "4688 sayılı Kanun'a göre aşağıdaki madde-ceza eşleştirmelerinden hangisi doğrudur?",
+    "options": [
+      "Madde 20'ye (yasaklar) aykırılık — altı aydan bir yıla kadar hapis cezası",
+      "Madde 26'ya (giderler) aykırılık — yalnızca kınama cezası",
+      "Madde 24'e (gelirler) aykırılık — yalnızca disiplin cezası",
+      "Madde 14'e (üyeliğin kazanılması) aykırılık — hapis cezası",
+      "Madde 17'ye (uluslararası kuruluş üyeliği) aykırılık — hapis cezası"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 38/a'ya göre 20, 24 ve 26 ncı maddelere aykırılık altı aydan bir yıla kadar hapis cezasını gerektirir; 8, 14, 16, 17'ye aykırılık ise adli para cezasını gerektirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:39:11.558499+00:00",
+    "updated_at": "2026-09-04T13:39:11.558499+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-0-im41",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Teslim edilen mal veya yapılan işin muayene ve kabul işlemleri en az kaç kişilik heyet tarafından yapılır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2",
+      "1"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 91'e göre teslim edilen mal, hizmet veya yapım işinin muayene ve kabul işlemleri idarelerce kurulacak en az 3 kişilik heyetler tarafından yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-1-4pkn",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Kanun'da yazılı sürelerin hesaplanmasında hüküm bulunmayan hâllerde hangi kanun hükümleri uygulanır?",
+    "options": [
+      "İdari Yargılama Usulü Kanunu",
+      "Borçlar Kanunu",
+      "Medeni Kanun",
+      "Kamu İhale Kanunu",
+      "Türk Ticaret Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 92'ye göre Kanunda yazılı sürelerin hesaplanmasında hüküm bulunmayan hâllerde Borçlar Kanunu hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-10-obeg",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, taksitli satışlarda kalan tutarın ödenmesi için tanınan azami süre ve taksit sayısı nedir?",
+    "options": [
+      "2 yılda, 12 taksitle",
+      "Süre sınırı yoktur",
+      "3 yılda, 18 taksitle",
+      "5 yılda, 20 taksitle",
+      "1 yılda, 6 taksitle"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 1'in ikinci fıkrasına göre kalan tutar en fazla iki yılda ve en fazla 12 taksitle kanuni faiziyle birlikte ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-11-kcdr",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, taksitli satışta taşınmazın alıcı adına tapuda devredilebilmesi için hangi güvencelerden biri aranır?",
+    "options": [
+      "Taşınmaz değeri kadar düzenlenmiş bir sigorta poliçesi",
+      "Kesin ve süresiz banka teminat mektubu veya kanuni ipotek tesisi",
+      "Herhangi bir güvence aranmaz, devir doğrudan yapılır",
+      "Müteselsil sorumlu iki gerçek kişi kefil gösterilmesi",
+      "Noterde düzenlenmiş taahhüt senedi verilmesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 1'in üçüncü fıkrasına göre kalan tutar ile faiz ve sözleşmeden doğacak alacakları karşılayacak tutarda kesin ve süresiz banka teminat mektubu verilmesi veya taşınmaz üzerinde idare lehine kanuni ipotek tesis edilmesi hâlinde taşınmaz tapuda alıcısı adına devredilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-12-mpc2",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, vadesinde ödenmeyen taksit tutarları hangi Kanun'a göre hesaplanacak faizle birlikte tahsil edilir?",
+    "options": [
+      "2004 sayılı İcra ve İflas Kanunu'nun ilgili faiz hükümleri",
+      "213 sayılı Vergi Usul Kanunu'nun gecikme faizi hükümleri",
+      "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "6098 sayılı Türk Borçlar Kanunu'nun temerrüt faizi hükümleri",
+      "5393 sayılı Belediye Kanunu'nun tahsilata ilişkin hükümleri"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1'in beşinci fıkrasına göre vadesinde ödenmeyen taksit tutarları, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre hesaplanacak faizle birlikte tahsil edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-13-ee1r",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, bu madde kapsamındaki satış, kira, trampa ve sınırlı ayni hak tesisi ihalelerinde alınabilecek geçici teminat oranı nedir?",
+    "options": [
+      "%1 - %10",
+      "Sabit %6",
+      "%5 - %20",
+      "%3 - %30",
+      "%10 - %50"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 1'in altıncı fıkrasına göre bu ihalelerde, taşınmazın tahmin edilen bedelinin yüzde 3'ünden az olmamak üzere yüzde 30'una kadar geçici teminat alınabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-14-0he5",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesinin uygulanmasına ilişkin usul ve esasları belirlemeye ve tereddütleri gidermeye hangi Bakanlık yetkilidir?",
+    "options": [
+      "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+      "Adalet Bakanlığı ile İçişleri Bakanlığı müştereken",
+      "Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığı",
+      "İçişleri Bakanlığı ile ilgili valilikler müştereken",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 1'in son fıkrasına göre bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye ve tereddütleri gidermeye Çevre, Şehircilik ve İklim Değişikliği Bakanlığı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-15-gdij",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Geçici 1 inci maddesine göre, Kanunun yürürlüğe girdiği tarihten önce ilanı yapılmak suretiyle başlamış olan ihale işlemleri nasıl sonuçlandırılır?",
+    "options": [
+      "İlgili olduğu kanun ve usullere göre sonuçlandırılır",
+      "Doğrudan temin usulüne çevrilir",
+      "İptal edilir ve yeniden ihaleye çıkılır",
+      "Cumhurbaşkanı kararıyla sonuçlandırılır",
+      "2886 sayılı Kanun hükümlerine göre yeniden başlatılır"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 1'e göre Kanunun yürürlüğe girdiği tarihten önce ilanı yapılmak suretiyle başlamış olan ihale işlemleri, ilgili olduğu kanun ve usullere göre sonuçlandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-16-662g",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Geçici 2 nci maddesine göre, Kanun'a göre çıkarılacak tüzük, şartname esasları ve yönetmelikler, Kanunun yayımlandığı tarihten itibaren kaç ay içinde hazırlanır?",
+    "options": [
+      "3 ay",
+      "6 ay",
+      "12 ay",
+      "9 ay",
+      "18 ay"
+    ],
+    "answer_index": 1,
+    "explanation": "Geçici Madde 2'ye göre bu düzenlemeler Kanunun yayımlandığı tarihten itibaren altı ay içinde hazırlanır ve Resmî Gazete ile yayımlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-17-ers0",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Geçici 3 üncü maddesine göre, maddenin yürürlüğe girdiği tarihten önce tespit ve takdir edilen ecrimisil alacaklarının, tespit tarihinden geriye doğru beş yılı aşan kısmına ne yapılır?",
+    "options": [
+      "Yeniden değerlemeye tabi tutulur",
+      "İki katına çıkarılarak tahsil edilir",
+      "Düzeltilir veya terkin edilir",
+      "Faiziyle birlikte tahsil edilir",
+      "Mahkemeye intikal ettirilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Geçici Madde 3'e göre bu alacakların tespit tarihinden geriye doğru beş yılı aşan kısmı hangi aşamada olursa olsun düzeltilir veya terkin edilir; tahsil edilmiş olanlar ise iade edilmez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-18-nbmf",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Geçici 4 üncü maddesine göre, bu maddenin yürürlüğe girdiği tarihten önce, tüzel kişilerin şube personeli veya vekillerinin şahsi kusurundan kaynaklanan yasak fiiller nedeniyle haklarında henüz yasaklama kararı verilmemiş olanlar hakkında hangi hüküm uygulanır?",
+    "options": [
+      "85 inci madde hükmü doğrudan uygulanır",
+      "Yalnızca tazminat istenir",
+      "Herhangi bir işlem yapılmaz",
+      "84 üncü maddenin dördüncü fıkrası hükmü",
+      "Süresiz yasaklama uygulanır"
+    ],
+    "answer_index": 3,
+    "explanation": "Geçici Madde 4'e göre bu kişiler hakkında da 84 üncü maddenin dördüncü fıkrası hükmü (tazminatı peşin ödeyenler hakkında yasaklama kararı verilmemesi) uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-19-bnhd",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Madde 89 kapsamında Kanun hükümleri dışında kalınmasına karar verilen ihalelerde uygulanacak usul ve esaslar nasıl belirlenir?",
+    "options": [
+      "Müteahhit tarafından tek başına",
+      "Yalnız ihale komisyonunca sözlü olarak",
+      "İdarelerince hazırlanarak ilgili bakanın onayı ile",
+      "İsteklilerin oybirliğiyle",
+      "Sadece şartnameyi satın alanlarca"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 89'a göre bu ihalelerde uygulanacak usul ve esaslar idarelerince hazırlanarak ilgili bakanın onayı ile belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-2-u1vb",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Şartname ve sözleşmesinde belirtilen süreden önce işin tamamlanması hâlinde müteahhide \"Erken Bitirme Primi\" verilebilir. Bu prim hangi tür işlerde verilir?",
+    "options": [
+      "Sadece Yapım işlerinde",
+      "Sadece Taşıma işlerinde",
+      "Sadece Hizmet işlerinde",
+      "Tüm ihale türlerinde",
+      "Sadece Alım işlerinde"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 88'e göre erken bitirme primi, şartname ve sözleşmesinde tespit edilecek sürelerden önce tamamlanmasında yarar görülen yapım işlerinde müteahhitlere verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-20-05po",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Kanun'un 94 üncü maddesine göre diğer kanunların bu Kanun'a uymayan hükümlerinin yürürlükten kaldırılması bakımından hangi iki kanun istisna tutulmuştur?",
+    "options": [
+      "15/7/1964 tarihli 500 sayılı Kanun ile 2886 sayılı Kanun",
+      "2/6/1934 tarihli 2490 sayılı Kanun ile 15/7/1964 tarihli 500 sayılı Kanun",
+      "2/6/1934 tarihli 2490 sayılı Kanun ile 22/10/1981 tarihli 2542 sayılı Kanun",
+      "15/7/1964 tarihli 500 sayılı Kanun ile 22/10/1981 tarihli 2542 sayılı Kanun",
+      "22/10/1981 tarihli 2542 sayılı Kanun ile 2886 sayılı Kanun"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 94'ün (b) bendine göre 15/7/1964 tarihli 500 sayılı Kanun ile 22/10/1981 tarihli 2542 sayılı Kanun istisna tutulmuştur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-21-947r",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu hükümlerini hangi makam yürütür?",
+    "options": [
+      "İhale komisyonu",
+      "Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "İta amiri",
+      "Bakanlar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 96'ya göre bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-3-ja7g",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Türk Silahlı Kuvvetlerinin Stratejik Hedef Planı'nın gerçekleşmesi için yapılacak alımlarda, bu Kanun hükümlerinin uygulanmamasına (istisna tutulmasına) kim karar verir?",
+    "options": [
+      "Hazine ve Maliye Bakanı",
+      "TBMM",
+      "Genelkurmay Başkanı",
+      "Cumhurbaşkanı",
+      "Milli Savunma Bakanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 89'a göre TSK'nin Stratejik Hedef Planının gerçekleşmesi için temin edilecek mal ve hizmetlerin bu Kanun hükümleri dışında tutulmasına Cumhurbaşkanınca karar verilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-4-1l1z",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Kanunda hüküm bulunmayan hâllerde tebligatlar hangi Kanun'a göre yapılır?",
+    "options": [
+      "Harçlar Kanunu",
+      "İcra İflas Kanunu",
+      "Medeni Kanun",
+      "Tebligat Kanunu",
+      "Borçlar Kanunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 93'e göre Kanunda hüküm bulunmayan hâllerde yapılacak tebliğler hakkında Tebligat Kanunu hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-5-gj3q",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Kanun hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "10 Eylül 1983",
+      "1 Ocak 1984",
+      "1 Ocak 1990",
+      "1 Ocak 1983",
+      "1 Ocak 2002"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 95'e göre bu Kanun 1 Ocak 1984 tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-6-1rvg",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Yapım işlerinde, şartname ve sözleşmesinde tespit edilen süreden önce işin tamamlanması hâlinde müteahhide verilebilecek \"erken bitirme primi\" ile ilgili en önemli kısıtlayıcı hüküm aşağıdakilerden hangisidir?",
+    "options": [
+      "İşin keşif bedelinin %50'sinden az olmaması gerekir.",
+      "Müteahhidin daha önce ceza almamış olması şarttır.",
+      "Sadece pazarlık usulü ile yapılan işlerde verilebilir.",
+      "Prim miktarı ihale bedelinin %10'unu geçemez.",
+      "Süre uzatımı verilen işlerde hiçbir surette erken bitirme primi verilemez."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 88'e göre süresinden önce tamamlanmasında yarar görülen yapım işlerinde erken bitirme primi verilebilir; ancak süre uzatımı verilen işlerde hiçbir surette bu tür prim verilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-7-4i5v",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "Tarım ve orman ürünlerinin satışı, tekel maddelerinin alımı gibi konularda 2886 sayılı Kanun'un yaklaşımı nedir?",
+    "options": [
+      "Sadece kapalı teklif usulü uygulanır.",
+      "Tarım Bakanlığının belirleyeceği fiyat esastır.",
+      "İhale yapılmaz, doğrudan üreticiden alınır.",
+      "Bu işler istisnasız 2886'ya tabidir.",
+      "Özel kanunlardaki hükümler saklıdır."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 90'a göre tarım ve orman ürünlerinin üretim/satışında uygulanacak tercihli usullerle tekel maddelerinin satımı hakkında özel kanunlardaki hükümler saklıdır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-8-epaf",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, il özel idareleri ve belediyeler ile bunlar tarafından kurulan mahallî idare birliklerine ait taşınmazların satış bedeli hangi şekillerde ödenebilir?",
+    "options": [
+      "Yalnızca kredi kartıyla",
+      "Yalnızca kripto varlıkla",
+      "Yalnızca peşin",
+      "Peşin veya taksitle",
+      "Yalnızca taksitle"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 1'in birinci fıkrasına göre bu taşınmazların satış bedeli peşin veya taksitle ödenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-33cn9-mtmzvv9l-9-q6kv",
+    "topic_id": "t-cesitli-hukumler-33cn9",
+    "prompt": "2886 sayılı Devlet İhale Kanunu'nun Ek 1 inci maddesine göre, taksitli satışlarda ihale sonucu belirlenen satış bedelinin en az yüzde kaçı peşin ödenir?",
+    "options": [
+      "10",
+      "30",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 1'in ikinci fıkrasına göre satış bedelinin en az yüzde 25'i peşin, kalanı en fazla iki yılda ve en fazla 12 taksitle kanuni faiziyle birlikte ödenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:33:48.047353+00:00",
+    "updated_at": "2026-09-04T13:33:48.047353+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-0-65p2",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Eşik değerleri hangi kurum günceller ve ilan eder?",
+    "options": [
+      "TÜİK",
+      "Hazine ve Maliye Bakanlığı",
+      "Kamu İhale Kurumu",
+      "Ticaret Bakanlığı",
+      "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C seçeneğidir: \"Kamu İhale Kurumu\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 67.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-1-6apk",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "İhale günü tatil gününe rastlarsa ihale, yeniden ilana gerek kalmaksızın tatili takip eden ilk .................... gününde yapılır.",
+    "options": [
+      "Takvim",
+      "Tatil",
+      "Hafta",
+      "Malî",
+      "İş"
+    ],
+    "answer_index": 4,
+    "explanation": "Cevap: İş. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 62/g.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-10-nfpe",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "İş deneyimi bulunmayan mühendis veya mimarların mezuniyetlerinden sonra geçen her yıl, benzer iş deneyimi olarak dikkate alınabilir. Bu şekilde dikkate alınabilecek toplam süre kaç yılı geçemez?",
+    "options": [
+      "10",
+      "20",
+      "5",
+      "25",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 62/(h) uyarınca bu şekilde değerlendirilecek toplam süre onbeş yılı geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-11-kc18",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, ihale sürecindeki öncelik sıralaması hangi seçenekte doğru verilmiştir?",
+    "options": [
+      "İhale dokümanının hazırlanması - İhalenin ilan edilmesi - İhale kararının onaylanması - Sözleşmenin imzalanması",
+      "İhalenin ilan edilmesi – İhale dokümanının hazırlanması – İhale kararının onaylanması – Sözleşmenin imzalanması",
+      "İhale dokümanının hazırlanması – İhale kararının onaylanması – İhalenin ilan edilmesi – Sözleşmenin imzalanması",
+      "İhale dokümanının hazırlanması – İhalenin ilan edilmesi – Sözleşmenin imzalanması – İhale kararının onaylanması",
+      "Sözleşmenin imzalanması – ihale dokümanının hazırlanması – ilanın yapılması – kararın onaylanması"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A’dır. Madde 62/(f) uyarınca ihale dokümanı hazırlanmadan ilan yapılamaz; Madde 40 ihale kararının ihale yetkilisince onaylanmasını, Madde 46 ise ihalenin sözleşmeye bağlanmasını düzenler. Bu hükümler birlikte değerlendirildiğinde verilen sıra doğrudur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-12-ipab",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Eşik değerler ve parasal limitler her yıl .................... tarihinden geçerli olmak üzere güncellenir.",
+    "options": [
+      "1 Ocak",
+      "1 Şubat",
+      "1 Mart",
+      "1 Nisan",
+      "1 Haziran"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: 1 Şubat. Madde 67 uyarınca eşik değerler ve parasal limitler her yıl 1 Şubat tarihinden geçerli olmak üzere güncellenir ve aynı tarihe kadar Resmî Gazetede ilan edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-13-3u7g",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Bu Kanunda belirtilen eşik değerler ve parasal limitler, olağanüstü hâllerde belirtilen tarih dışında kimin kararıyla güncellenebilir?",
+    "options": [
+      "Kamu İhale Kurulu tek başına",
+      "Hazine ve Maliye Bakanı",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "İhale yetkilisi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 67 uyarınca eşik değerler ve parasal limitler, olağanüstü hâllerde, belirtilen tarihin dışında da Kurumun teklifi üzerine Cumhurbaşkanı kararıyla güncellenebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-14-80o8",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Hizmet alımı ve yapım işi ihalelerinde, ihale dokümanında belirtilmesi kaydıyla yerli istekliler lehine en fazla yüzde kaç oranında fiyat avantajı sağlanabilir?",
+    "options": [
+      "%5",
+      "%10",
+      "%15",
+      "%20",
+      "%25"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C’dir: %15. Madde 63/(b) uyarınca hizmet alımı ve yapım işi ihalelerinde yerli istekliler lehine %15 oranına kadar fiyat avantajı sağlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-15-j5c0",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Hizmet alımı ve yapım işi ihalelerinde yerli istekliler lehine %15 fiyat avantajı sağlanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "İdarenin takdirindedir",
+      "Zorunludur",
+      "KİK iznine tabidir",
+      "Yasaktır",
+      "Sadece pazarlık usulünde olur"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A seçeneğidir: \"İdarenin takdirindedir\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 63/b.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-16-w6ue",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Yapım işlerinde, Kanunda sayılan bazı büyük altyapı projeleri (baraj, karayolu, demiryolu, enerji nakil hattı vb.) hariç olmak üzere, genel kural olarak .................... temin edilmeden ihaleye çıkılamaz.",
+    "options": [
+      "Arsa",
+      "İzin",
+      "Kredi",
+      "Ödenek",
+      "ÇED raporu"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 62/(c) uyarınca, yapım işlerinde arsa temin edilmeden, mülkiyet, kamulaştırma ve gerekli hâllerde imar işlemleri tamamlanmadan ihaleye çıkılamaz. Ancak baraj ve büyük sulama, içmesuyu isale hattı, enerji nakil hattı, trafo, karayolu, liman ve havaalanı, demiryolu, petrol ve doğalgaz boru hattı gibi sayılan projelerde bu şart aranmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-17-bc14",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "İhale dokümanı hazırlanmadan .................... yapılamaz.",
+    "options": [
+      "Ön yeterlik",
+      "Sözleşme",
+      "İlan",
+      "Değerlendirme",
+      "Zeyilname"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap C’dir. Madde 62/(f) uyarınca ihale dokümanı hazırlanmadan ilan yapılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-18-nldb",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Bilim, Sanayi ve Teknoloji Bakanlığınca ilgili kurum ve kuruluşların görüşleri alınarak belirlenen ve Kurum tarafından ilan edilen listede yer alan orta ve yüksek teknolojili sanayi ürünlerinin ihalelerinde, yerli malı teklif eden istekliler lehine %15 oranında fiyat avantajı sağlanması ....................",
+    "options": [
+      "İsteğe bağlıdır",
+      "Yasaktır",
+      "Mecburidir",
+      "İdarenin takdirindedir",
+      "En fazla %10 oranında uygulanabilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 63/(c) uyarınca, Bilim, Sanayi ve Teknoloji Bakanlığı tarafından ilgili kurum ve kuruluşların görüşleri alınarak orta ve yüksek teknolojili sanayi ürünleri arasından belirlenen ve Kurum tarafından ilan edilen listede yer alan malların ihalelerinde, yerli malı teklif eden istekliler lehine %15 oranında fiyat avantajı sağlanması mecburidir (zorunludur). Bu zorunluluk tüm orta/yüksek teknolojili ürünler için değil, yalnızca Kurumca ilan edilen listedeki mallar ve yerli malı teklif eden istekliler için geçerlidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-19-0og1",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Bir iş ortaklığı veya konsorsiyumun yerli istekli sayılabilmesi için ortaklarından kaçının yerli istekli olması gerekir?",
+    "options": [
+      "Bütün ortaklarının",
+      "Yarısından fazlasının",
+      "Pilot ortağının",
+      "En az birinin",
+      "Üçte ikisinin"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 63/(f) uyarınca ortak girişimlerin yerli istekli sayılabilmesi için bütün ortaklarının yerli istekli olması gereklidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-2-a2ua",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Birden fazla yılı kapsayan işlerde ihaleye çıkılabilmesi için, işin süresine uygun olarak yıllar itibariyle .................... bütçede bulunması gerekir.",
+    "options": [
+      "Teminatın",
+      "Ödeneğin",
+      "Sözleşmenin",
+      "Avansın",
+      "Projenin"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Ödeneğin. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 62/a.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-20-x6xx",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Tebligatlar; elden, iadeli taahhütlü mektupla, .................... ortamda veya faksla yapılabilir.",
+    "options": [
+      "Sözlü",
+      "Şifahi",
+      "Kargo",
+      "Kurye",
+      "Elektronik"
+    ],
+    "answer_index": 4,
+    "explanation": "Cevap: Elektronik. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 65.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-21-6cpg",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un uygulanmasında, idarelerce birden fazla yılı kapsayan ve yatırım niteliği taşıyan işlerde (doğal afetler nedeniyle yapılması gerekenler hariç) ihalenin ne zaman sonuçlandırılması esastır?",
+    "options": [
+      "Yılın ilk altı ayında",
+      "Yılın son altı ayında",
+      "Yılın ilk üç ayında",
+      "Yılın ilk dokuz ayında",
+      "Yılın ilk on ayında"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"Yılın ilk dokuz ayında\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 62/b.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-22-e89q",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Bu Kanun kapsamındaki alım, ihale ve sözleşme süreçlerine ilişkin işlem, onay, bildirim ve tebligatlar ile şikâyet ve itirazen şikâyet başvurularının kısmen veya tamamen hangi platform üzerinden gerçekleştirilebildiği, Kurum tarafından kurulan ve işletilen sistemin adıdır?",
+    "options": [
+      "Kamu Harcama ve Muhasebe Bilişim Sistemi (KBS)",
+      "E-Devlet Kapısı",
+      "Elektronik Kamu Alımları Platformu (EKAP)",
+      "Ulusal Elektronik Tebligat Sistemi (UETS)",
+      "Merkezi Yönetim Bütçe Sistemi"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1 uyarınca, ihale ve sözleşme süreçlerine ilişkin her türlü işlem, onay, bildirim ve tebligat ile şikâyet ve itirazen şikâyet başvuruları kısmen veya tamamen Kurum tarafından kurulan ve işletilen Elektronik Kamu Alımları Platformu (EKAP) üzerinden gerçekleştirilebilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-23-ze4p",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Çerçeve anlaşmalar için, teminat alınmasına ilişkin hükümler hariç olmak üzere, en fazla kaç ay süreyle çerçeve anlaşma imzalanabilir?",
+    "options": [
+      "24 (Yirmi dört)",
+      "36 (Otuz altı)",
+      "60 (Altmış)",
+      "48 (Kırk sekiz)",
+      "12 (On iki)"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 2 uyarınca, ihalelerin sözleşmeye bağlanması hakkındaki hükümler çerçevesinde, süresi kırk sekiz ayı geçmemek üzere çerçeve anlaşma imzalanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-24-rnik",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Bedeli yabancı para cinsinden sabit fiyatlarla sözleşmeye bağlanan yapım ve yapımla ilgili hizmet işlerinde fiyat farkı esaslarını belirlemeye ve sözleşmelerin tadil veya tasfiye edilmesine imkân veren kararları almaya kim yetkilidir?",
+    "options": [
+      "Hazine ve Maliye Bakanı",
+      "Kamu İhale Kurulu",
+      "İhale yetkilisi",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 3 uyarınca, bedeli yabancı para cinsinden sabit fiyatlarla sözleşmeye bağlanan yapım ve yapımla ilgili hizmet işlerine uygulanmak üzere fiyat farkı esasları belirlemeye, sözleşmelerin tadil veya tasfiye edilmesine imkan veren kararlar çıkarmaya Cumhurbaşkanı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-25-dj3z",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Piyasada mamul olarak bulunan malların elektronik ortamda alımında kullanılabilen ve kurulmasında açık ihale usulünün uygulandığı sistemin adı nedir?",
+    "options": [
+      "Dinamik alım sistemi",
+      "Çerçeve anlaşma",
+      "Elektronik eksiltme",
+      "Elektronik Kamu Alımları Platformu",
+      "Finansal kiralama sistemi"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 4 uyarınca dinamik alım sistemi, piyasada mamul olarak bulunan malların elektronik ortamda alımında kullanılabilir ve sistemin kurulmasında açık ihale usulü uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-26-m404",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Elektronik eksiltme aşağıdaki ihale türlerinden hangisinde uygulanamaz?",
+    "options": [
+      "Açık ihale usulüyle yapılan mal alımı ihalelerinde",
+      "48 inci madde uyarınca yapılan danışmanlık hizmet alımı ihalelerinde",
+      "Dinamik alım sistemi kapsamında yapılan alımlarda",
+      "Çerçeve anlaşma kapsamında yapılan alımlarda",
+      "Belli istekliler arasında ihale usulüyle yapılan hizmet alımı ihalelerinde"
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 5 uyarınca elektronik eksiltme, açık ihale, belli istekliler arasında ihale, bazı pazarlık usulü hâlleri, dinamik alım sistemi ve çerçeve anlaşma kapsamında uygulanabilirken; 48 inci madde uyarınca yapılan danışmanlık hizmet alımı ihalelerinde uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-27-tb4s",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Kanun kapsamındaki idarelerin finansal kiralama suretiyle yapacakları mal alımlarında uygulanacak esas ve usulleri kim belirler?",
+    "options": [
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanlığı",
+      "Kamu İhale Kurumu",
+      "İlgili idarenin kendisi",
+      "Sayıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 6 uyarınca, Kanun kapsamındaki idarelerin finansal kiralama suretiyle yapacakları mal alımlarında uygulanacak esas ve usuller Kurum tarafından belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-28-26j1",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Birden fazla idarenin ortak ihtiyaçlarının karşılanmasına yönelik tek bir ihale yapılması hâlinde, kesin teminatın alınması ve sözleşmenin imzalanması hariç olmak üzere diğer ihale işlemlerini kim yürütür?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "İçişleri Bakanlığı",
+      "En yüksek bütçeli idare",
+      "Protokolle görevlendirilen idare",
+      "Sayıştay"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 7 uyarınca, ortak ihtiyaç kapsamındaki işler için idareler, aralarında düzenleyecekleri bir protokolle kendi aralarından bir idareyi, kesin teminatın alınması ve sözleşmenin imzalanması hariç diğer ihale işlemlerini bu idareler adına gerçekleştirmek üzere görevlendirir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-29-roba",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "62'nci maddenin birinci fıkrasının (e) bendi kapsamında personel çalıştırılmasına dayalı hizmet alımı ihalesi çerçevesinde çalıştırılan personel hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Mesai saatleri dışında her işte çalıştırılabilir",
+      "Aynı idarenin herhangi bir biriminde serbestçe görevlendirilebilir",
+      "İdarenin takdiriyle başka işlerde de çalıştırılabilir",
+      "Yalnızca acil hâllerde başka işte görevlendirilebilir",
+      "İhale ve sözleşme konusu iş dışında başka bir işte çalıştırılamaz ve görevlendirilemez"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 8 uyarınca, personel çalıştırılmasına dayalı hizmet alımı ihaleleri çerçevesinde çalıştırılan personel, ihale ve sözleşme konusu iş dışında başka bir işte çalıştırılamaz ve görevlendirilemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-3-48a2",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Yılı merkezî yönetim bütçe Kanun'unda belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere, birden fazla yılı kapsayan işlerde ilk yıl için öngörülen ödenek proje maliyetinin yüzde kaçından az olamaz?",
+    "options": [
+      "10",
+      "5",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A’dır: %10. Madde 62/(a) uyarınca, yılı merkezî yönetim bütçe Kanun'unda belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere ilk yıl için öngörülen ödenek proje maliyetinin %10’undan az olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-30-mq5c",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Ek Madde 9 kapsamında, yurtiçinde üretilen malları teklif eden isteklilerin katılımına açık mal alımlarında, bölgesel kalkınma programı uygulanan illerde üretilen malları teklif eden istekliler lehine ne kadar fiyat avantajı sağlanabilir?",
+    "options": [
+      "%15 oranına kadar",
+      "%10 oranına kadar",
+      "%20 oranına kadar",
+      "%25 oranına kadar",
+      "%5 oranına kadar"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 9 uyarınca, yurtiçinde üretilen malları teklif eden isteklilerin katılımına açık olan mal alımlarında, bölgesel kalkınma programı uygulanan illerde üretilen malları teklif eden istekliler lehine %15 oranına kadar fiyat avantajı sağlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-31-9ouq",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "FATİH Projesi kapsamında Millî Eğitim Bakanlığı tarafından yapılacak mal ve hizmet alımları ile yapım işleri hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kanun'un tüm hükümlerine tabidir",
+      "Ceza ve ihalelerden yasaklama hükümleri hariç, bu Kanun hükümlerine tabi değildir",
+      "Yalnızca açık ihale usulüyle yapılabilir",
+      "Sadece doğrudan temin yoluyla yapılır",
+      "Kamu İhale Kurumunun ön onayına tabidir"
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 10 uyarınca, FATİH Projesi kapsamında Millî Eğitim Bakanlığı tarafından yapılacak mal ve hizmet alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri hariç, bu Kanun hükümlerine tabi değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-32-cgz0",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Ek Madde 11 uyarınca, 3 üncü maddenin (b), (d), (e), (f), (h), (i), (j), (k), (l), (n), (u), (y) ve (z) bentlerine ilişkin usul ve esasları belirlemeye kim yetkilidir?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "İlgili bakanlık",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Danıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 11 uyarınca, 3 üncü maddede sayılan ilgili bentlere ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-33-1rpu",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Devlet Malzeme Ofisi Genel Müdürlüğü tarafından idareler adına yapılacak taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımları hangi yöntemlerle yapılabilir?",
+    "options": [
+      "Sadece doğrudan temin yoluyla",
+      "Yalnızca açık ihale usulüyle",
+      "Yalnızca çerçeve anlaşma yoluyla",
+      "Açık/kapalı teklif usulü, belli istekliler arasında ihale usulü veya pazarlık usulüne ilişkin satın alma yöntemleriyle",
+      "Kamu İhale Kurulu kararıyla belirlenen tek bir yöntemle"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 12 uyarınca, bu alımlar; bütün isteklilerin teklif verebildiği açık veya kapalı teklif usulü, davet edilen isteklilerden açık veya kapalı teklif istenmesi yöntemiyle yapılan belli istekliler arasında ihale usulü veya davet edilen istekliyle fiyat müzakeresi yapılan pazarlık usulüne ilişkin satın alma yöntemleriyle yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-34-tavf",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Kamu Alımlarında Mütekabiliyet başlıklı Ek Madde 13 uyarınca, yerli istekliler ve yerli malı lehine tanınan hak ve avantajların mütekabiliyet esasları çerçevesinde Avrupa Birliği üyesi devletlerde yerleşik isteklilere de tanınması hususunda kim yetkilidir?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "Ticaret Bakanlığı",
+      "TBMM",
+      "Dışişleri Bakanlığı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 13 uyarınca, yerli istekliler, yerli malı ve bu malı teklif eden istekliler lehine tanınan hak ve avantajların, Avrupa Birliği üyesi devletlerde yerleşik isteklilere, AB menşeli mala ve bu malı teklif eden isteklilere de mütekabiliyet esasları çerçevesinde kısmen ya da tamamen tanınması hususunda Cumhurbaşkanı yetkilidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-35-ztvd",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un 66 ncı maddesine göre bu Kanun hükümlerine ilişkin değişiklikler nasıl düzenlenebilir?",
+    "options": [
+      "Yalnız yönetmelik çıkarılarak",
+      "Genelge yayımlanarak",
+      "Ancak bu Kanun'a hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle",
+      "İdarelerin ortak kararıyla",
+      "Kamu İhale Kurumu duyurusuyla"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 66 uyarınca Kanun hükümlerine ilişkin değişiklikler ancak bu Kanun'a hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-36-o3ye",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un 68 inci maddesine göre, bu Kanun kapsamında yer alan işlerin ihalelerinde aşağıdaki kanunlardan hangisinin hükümleri uygulanmaz?",
+    "options": [
+      "2886 sayılı Devlet İhale Kanunu",
+      "657 sayılı Devlet Memurları Kanunu",
+      "6245 sayılı Harcırah Kanunu",
+      "4735 sayılı Kamu İhale Sözleşmeleri Kanunu",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 68'in (a) bendine göre bu Kanun kapsamında yer alan işlerin ihalelerinde 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-37-enlq",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un Ek 2 nci maddesine göre çerçeve anlaşmalar aşağıdakilerden hangisine aykırı şekilde kullanılamaz?",
+    "options": [
+      "Açık ihale usulü uygulanarak",
+      "Yaklaşık maliyet belirlenerek",
+      "Rekabeti engelleyici, sınırlayıcı veya bozucu şekilde",
+      "İhtiyaç miktarı ilanda gösterilerek",
+      "Sonuçlar Kamu İhale Bülteninde ilan edilerek"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 2 uyarınca çerçeve anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-38-wksj",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un Ek 4 üncü maddesine göre dinamik alım sisteminde ön tekliflerin değerlendirilmesi, verildikleri tarihten itibaren kaç gün içinde tamamlanır?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 4 uyarınca ön tekliflerin değerlendirilmesi verildikleri tarihten itibaren on beş gün içinde tamamlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-39-jzjy",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un Ek 5 inci maddesine göre elektronik eksiltmeye, davetin gönderildiği tarihten itibaren ne kadar süre geçmeden başlanamaz?",
+    "options": [
+      "Bir iş günü",
+      "On gün",
+      "Üç gün",
+      "Beş iş günü",
+      "İki iş günü"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 5 uyarınca davetin gönderildiği tarihten iki iş günü geçmeden elektronik eksiltmeye başlanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-4-uv7v",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Uygulama projesi bulunan yapım işlerinde .................... götürü bedel teklif alınması zorunludur.",
+    "options": [
+      "Birim fiyat",
+      "Maliyet artı kâr",
+      "Anahtar teslimi",
+      "Karma",
+      "Yüzde indirimli"
+    ],
+    "answer_index": 2,
+    "explanation": "Cevap: Anahtar teslimi. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 62/c.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-40-zriq",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un Ek 12 nci maddesi kapsamındaki alımlarda aşağıdakilerden hangisine ilişkin Kanun hükümleri uygulanmaya devam eder?",
+    "options": [
+      "Ceza hükümleri",
+      "Yaklaşık maliyetin ilanına ilişkin hükümler",
+      "İhale komisyonunun oluşumuna ilişkin bütün hükümler",
+      "Standart ihale usullerinin tamamı",
+      "İlan sürelerinin tamamı"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 12'nin (b) bendine göre ceza, ihalelerden yasaklama ve sonuç bildirimine ilişkin hükümler hariç olmak üzere Kanun hükümleri uygulanmaz; dolayısıyla ceza hükümleri uygulanmaya devam eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-41-v50m",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un Geçici 4 üncü maddesine göre, 3 üncü maddenin (g) bendi kapsamındaki mal ve hizmetleri ilgili kuruluşların talebi üzerine kim belirler?",
+    "options": [
+      "İlgili bakanlık",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "İhaleyi yapan idare",
+      "Kamu İhale Kurumu"
+    ],
+    "answer_index": 4,
+    "explanation": "Geçici Madde 4 uyarınca 3 üncü maddenin (g) bendi kapsamındaki mal ve hizmetler, ilgili kuruluşların talebi üzerine Kamu İhale Kurumu tarafından belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-42-cyxx",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un 70 inci maddesine göre bu Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Kamu İhale Kurulu",
+      "Bakanlar Kurulu",
+      "Hazine ve Maliye Bakanlığı",
+      "Kamu İhale Kurumu Başkanı",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 70'e göre bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-5-umvr",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Yaklaşık maliyeti eşik değerin altında kalan ihalelerde, ihale dokümanında yalnızca hangi isteklilerin katılabileceğine ilişkin düzenleme yapılabilir?",
+    "options": [
+      "Yabancı istekliler",
+      "İş ortaklıkları",
+      "Konsorsiyumlar",
+      "Yerli istekliler",
+      "Danışmanlar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 63/(a) uyarınca yaklaşık maliyeti eşik değerin altında kalan ihalelerde sadece yerli isteklilerin katılabileceğine ilişkin düzenleme yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-6-l9qi",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Mal alımı ihalelerinde hangi malı teklif eden istekliler lehine fiyat avantajı sağlanabilir?",
+    "options": [
+      "İthal malı",
+      "Yabancı sermayeli firma malı",
+      "Kamu üretimi malı",
+      "Standart dışı malı",
+      "Yerli malı"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 63/(c) uyarınca mal alımı ihalelerinde yerli malı teklif eden istekliler lehine %15 oranına kadar fiyat avantajı sağlanabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-7-4z5b",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "4734 sayılı Kanun'un 63 üncü maddesine göre, orta ve yüksek teknolojili sanayi ürünleri bakımından yerli malı teklif eden istekliler lehine %15 fiyat avantajı hangi durumda zorunludur?",
+    "options": [
+      "Kurum tarafından ilan edilen listede yer alan malların ihalelerinde",
+      "Bütün mal alımlarında",
+      "Yalnızca KİT ihalelerinde",
+      "Yalnızca idare isterse",
+      "Yalnızca yapım işlerinde"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A’dır. 4734 sayılı Kanun'un 63 üncü maddesinin (c) bendine göre, ilgili listede yer alan orta ve yüksek teknolojili sanayi ürünlerinin ihalelerinde yerli malı teklif eden istekliler lehine %15 oranında fiyat avantajı sağlanması mecburidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-8-aspy",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Eşik değerlerin güncellenmesinde hangi endeks esas alınır?",
+    "options": [
+      "Tüketici Fiyat Endeksi (TÜFE)",
+      "Asgari ücret artışı",
+      "Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE)",
+      "Döviz Kuru",
+      "Toptan Eşya Fiyat Endeksi (TEFE) oranına göre"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap E’dir. 4734 sayılı Kanun'un 67’nci maddesine göre eşik değerler ve parasal limitler, bir önceki yılın Toptan Eşya Fiyat Endeksi (TEFE) esas alınarak Kamu İhale Kurumu tarafından güncellenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-th55l-mtn0cbrl-9-8tyh",
+    "topic_id": "t-cesitli-hukumler-th55l",
+    "prompt": "Sürelerin hesabında Kanunda hüküm bulunmayan hâllerde hangi kanun hükümleri uygulanır?",
+    "options": [
+      "Türk Ticaret Kanunu",
+      "İdari Yargılama Usulü Kanunu",
+      "Devlet Memurları Kanunu",
+      "Borçlar Kanunu",
+      "Medeni Kanun"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"Borçlar Kanunu\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 64.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:35.924964+00:00",
+    "updated_at": "2026-09-04T13:46:35.924964+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-0-g87i",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Kamu İhale Kanunu'na göre yapılan ihaleler sonucunda düzenlenen sözleşmeler açısından aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "2886 sayılı Devlet İhale Kanunu hükümleri uygulanır.",
+      "2886 sayılı Kanun hükümleri ancak yapım işlerinde uygulanır.",
+      "2886 sayılı Kanun hükümleri uygulanmaz.",
+      "2886 sayılı Kanun ile birlikte uygulanır.",
+      "2886 sayılı Kanun Cumhurbaşkanı kararıyla uygulanabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 39.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-1-qbi6",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 2985 sayılı Toplu Konut Kanunu kapsamında yapılacak sözleşmelerde, cezai yaptırımlar ve katılma yasakları bu Kanuna tabi olmak kaydıyla özel sözleşme usul ve esaslarını belirlemeye yetkili makam aşağıdakilerden hangisidir?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 39.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-10-6nh7",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nda hüküm bulunmayan hâllerde hangi kanun hükümleri uygulanır?",
+    "options": [
+      "Borçlar Kanunu",
+      "Ticaret Kanunu",
+      "Medeni Kanun",
+      "İdari Yargılama Usulü Kanunu",
+      "Devlet İhale Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-11-cra5",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kuruluna başvurulabilmesi için anlaşmazlığın hangi aşamada olmaması gerekir?",
+    "options": [
+      "Geçici kabul aşamasında",
+      "Süre uzatımı talebi aşamasında",
+      "Kesin hesap aşamasında",
+      "İşin yapım aşamasında",
+      "Yargılama veya Sayıştay incelemesi aşamasında"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun Ek md. 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-12-3jc4",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanunda hüküm bulunmayan hâllerde yapılacak tebliğler hakkında hangi kanun uygulanır?",
+    "options": [
+      "Kamu İhale Kanunu",
+      "Medeni Kanun",
+      "Tebligat Kanunu",
+      "Borçlar Kanunu",
+      "İdari Yargılama Usulü Kanunu"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 37.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-13-duzi",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Kamu İhale Kanunu'na göre yapılan ihaleler sonucunda düzenlenen sözleşmeler açısından hangi kanun hükümleri uygulanmaz?",
+    "options": [
+      "2886 sayılı Devlet İhale Kanunu",
+      "Türk Ticaret Kanunu",
+      "Borçlar Kanunu",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "Sayıştay Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 39.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-14-2v4t",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici itirazları, Yüksek Fen Kuruluna gönderilmek üzere idareye en geç hangi aşamaya kadar yapılabilir?",
+    "options": [
+      "İhale aşamasında",
+      "Sözleşme imzalanırken",
+      "Geçici kabul aşamasında",
+      "Kesin kabul aşaması tamamlanıncaya kadar",
+      "Teminat iade edildikten sonra"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek md. 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-15-139c",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulu kararlarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Tavsiye niteliğindedir.",
+      "İlgili idarece uygulanması zorunludur.",
+      "Sadece bakan onayıyla uygulanır.",
+      "Yüklenici isterse uygular.",
+      "Sayıştay onayı gerekir."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun Ek md. 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-16-tqe3",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanunda hüküm bulunmayan genel hâllerde hangi Kanun hükümleri uygulanır?",
+    "options": [
+      "Kamu İhale Kanunu",
+      "Borçlar Kanunu",
+      "Medeni Kanun",
+      "Türk Ticaret Kanunu",
+      "2886 sayılı Devlet İhale Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-17-4q0h",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulu, kendisine gönderilen itirazları en geç ______ gün içinde inceleyerek karara bağlar. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "60",
+      "20",
+      "30",
+      "45",
+      "15"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun Ek md. 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-18-hnqx",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerine ilişkin değişiklikler nasıl düzenlenebilir?",
+    "options": [
+      "Ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle",
+      "Yalnız yönetmelikle",
+      "İdari genelgeyle",
+      "Tip sözleşmeyle",
+      "Kamu İhale Kurulu kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 38.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-19-th9r",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulu Başkanlığı, bu Kanuna göre düzenlenecek hangi sözleşmelerin uygulanmasındaki anlaşmazlıklarda görevli ve yetkilidir?",
+    "options": [
+      "Yalnız mal alımı sözleşmeleri",
+      "Yalnız hizmet alımı sözleşmeleri",
+      "Yalnız kira sözleşmeleri",
+      "Yapım ve yapım ile ilgili danışmanlık hizmet işlerine ilişkin sözleşmeler",
+      "Bütün özel hukuk sözleşmeleri"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-2-1czi",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdaki atıflardan hangisi doğrudur?",
+    "options": [
+      "Teminatlarda Borçlar Kanunu uygulanır.",
+      "Tebligatlarda 4734 sayılı Kanun uygulanır.",
+      "Teminatlarda 4734 sayılı Kamu İhale Kanunu uygulanır.",
+      "Hüküm bulunmayan hâllerde Tebligat Kanunu uygulanır.",
+      "2886 sayılı Kanun hükümleri birlikte uygulanır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 35.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-20-0erd",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Sözleşmede bulunmayan veya fiyatı belirli olmayan işlerin fiyatının tespiti konusundaki sözleşme anlaşmazlıklarını incelemeye hangi merci görevli ve yetkilidir?",
+    "options": [
+      "Sayıştay",
+      "İhale komisyonu",
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Yüksek Fen Kurulu Başkanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-21-4b34",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre İhale dokümanını oluşturan belgeler arasındaki uyumsuzluğa ilişkin sözleşme anlaşmazlıklarını inceleme yetkisi hangi organdadır?",
+    "options": [
+      "Yüksek Fen Kurulu Başkanlığı",
+      "Danıştay",
+      "İhale yetkilisi",
+      "Kamu İhale Kurumu",
+      "Sayıştay"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-22-gl5t",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Aşağıdakilerden hangisi Yüksek Fen Kurulu Başkanlığının inceleyebileceği sözleşme anlaşmazlıklarından biridir?",
+    "options": [
+      "Geçici teminatın teklif aşamasında alınması",
+      "İsteklinin vergi borcu",
+      "İhale ilanının yayımlanması",
+      "İş programı ihtilafları",
+      "Yaklaşık maliyetin gizliliği"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-23-g7aa",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulu Başkanlığı aşağıdaki konulardan hangisine ilişkin sözleşme anlaşmazlıklarını incelemede görevli ve yetkilidir?",
+    "options": [
+      "Geçici ve kesin kabul işlemleri",
+      "İhale komisyonu üye seçimi",
+      "İstekli yeterlik belgeleri",
+      "İhale ilan süresi",
+      "Teklif mektubunun şekli"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun Ek Madde 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-24-3kk2",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici veya idareler sözleşmenin uygulanmasından kaynaklanan anlaşmazlığın çözümü için Yüksek Fen Kuruluna hangi şartla başvurabilir?",
+    "options": [
+      "Sözleşmenin feshedilmiş olması",
+      "Mutlaka dava açılmış olması",
+      "Kesin kabulün üzerinden iki yıl geçmiş olması",
+      "Kamu İhale Kurumunun ön izin vermesi",
+      "Anlaşmazlığın yargılama veya Sayıştay incelemesine konu edilmemiş olması"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-25-a29i",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici itirazları sözleşmeyi düzenleyen idarelere en geç hangi aşamaya kadar yazılı olarak yapılır?",
+    "options": [
+      "Sözleşme imzalanıncaya kadar",
+      "Geçici kabulden önce",
+      "Tasfiye sonrasına kadar",
+      "Kesin kabul aşaması tamamlanıncaya kadar",
+      "Herhangi bir süre sınırı olmaksızın"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-26-1bvb",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici itirazları ilgili idare tarafından en geç kaç gün içinde Yüksek Fen Kuruluna gönderilir?",
+    "options": [
+      "On gün",
+      "On beş gün",
+      "Yirmi gün",
+      "Altmış gün",
+      "Otuz gün"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-27-q7dh",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulu, kendisine gönderilen itirazları en geç kaç gün içinde karara bağlar?",
+    "options": [
+      "On beş gün",
+      "Otuz gün",
+      "Kırk beş gün",
+      "Altmış gün",
+      "Doksan gün"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-28-9xlt",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Yüksek Fen Kurulunun itiraz üzerine verdiği kararlar bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İlgili idarece uygulanır",
+      "Yalnız tavsiye niteliğindedir",
+      "Kamu İhale Kurumunun onayıyla uygulanır",
+      "Mahkeme onayından sonra uygulanır",
+      "Yüklenicinin kabulüne bağlıdır"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-29-0wk6",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre anlaşmazlığın çözümü için Yüksek Fen Kurulunca verilen kararın ilgili idarece uygulanmasından kaynaklanan davalar nerede görülür?",
+    "options": [
+      "İdari yargı mercilerinde",
+      "Vergi mahkemelerinde",
+      "Kamu İhale Kurumunda",
+      "Sayıştayda",
+      "Sözleşmenin tarafları arasında adli yargı mercilerinde"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-3-vmr2",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre teminat konusunda Kanunda hüküm bulunmayan hâllerde hangi Kanun hükümleri uygulanır?",
+    "options": [
+      "Kamu İhale Kanunu",
+      "Tebligat Kanunu",
+      "Borçlar Kanunu",
+      "Türk Ticaret Kanunu",
+      "Devlet İhale Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 35.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-30-lmyz",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Ek Madde 2'nin birinci ve ikinci fıkralarının uygulanmasına ilişkin usul ve esaslar kim tarafından çıkarılacak yönetmelikle belirlenir?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "Cumhurbaşkanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun Ek Madde 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-31-4gni",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu hangi tarihte yürürlüğe girer?",
+    "options": [
+      "1.1.2003",
+      "5.1.2002",
+      "22.1.2002",
+      "1.1.2002",
+      "31.12.2003"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 40.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-32-2cs4",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerini kim yürütür?",
+    "options": [
+      "Kamu İhale Kurumu",
+      "Hazine ve Maliye Bakanlığı",
+      "Cumhurbaşkanı",
+      "İçişleri Bakanlığı",
+      "Bakanlar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 41.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-4-v0kn",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanunda hüküm bulunmayan hâllerde aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Türk Ceza Kanunu",
+      "Borçlar Kanunu",
+      "Tebligat Kanunu",
+      "Sayıştay Kanunu",
+      "2886 sayılı Kanun"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-5-xvck",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanunda hüküm bulunmayan hâllerde yapılacak tebliğler hakkında hangi Kanun hükümleri uygulanır?",
+    "options": [
+      "Borçlar Kanunu",
+      "Kamu İhale Kanunu",
+      "Tebligat Kanunu",
+      "Türk Ticaret Kanunu",
+      "İYUK"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 37.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-6-1y0i",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanunda hüküm bulunmayan hâllerde hangi Kanun hükümleri uygulanır?",
+    "options": [
+      "Kamu İhale Kanunu",
+      "Devlet İhale Kanunu",
+      "Tebligat Kanunu",
+      "Türk Ticaret Kanunu",
+      "Borçlar Kanunu"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 36.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-7-cn5i",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre teminat konusunda bu Kanunda hüküm bulunmayan hâllerde hangi Kanun hükümleri uygulanır?",
+    "options": [
+      "Borçlar Kanunu",
+      "Tebligat Kanunu",
+      "Kamu İhale Kanunu",
+      "Türk Ticaret Kanunu",
+      "Devlet İhale Kanunu"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 35.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-8-hq40",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nda teminatla ilgili hüküm bulunmayan hâllerde aşağıdaki kanunlardan hangisi uygulanır?",
+    "options": [
+      "Kamu İhale Kanunu",
+      "Devlet İhale Kanunu",
+      "Borçlar Kanunu",
+      "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "Tebligat Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 35.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-w6ft5-mtn7xxu0-9-7h7i",
+    "topic_id": "t-cesitli-hukumler-w6ft5",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin uygulanmasından kaynaklanan ve Kanunda sayılan yapım işleri ile yapımla ilgili danışmanlık hizmeti sözleşmelerine ilişkin anlaşmazlıkları inceleyen Yüksek Fen Kurulu hangi bakanlık bünyesindedir?",
+    "options": [
+      "Hazine ve Maliye Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Maliye Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun Ek md. 1.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:22.551069+00:00",
+    "updated_at": "2026-09-04T17:19:22.551069+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-0-4ddi",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun ne zaman yürürlüğe girer?",
+    "options": [
+      "Kabul tarihinden bir ay sonra",
+      "Yayımı tarihinde",
+      "Resmî Gazete’de yayımdan altı ay sonra",
+      "Cumhurbaşkanı kararıyla",
+      "İlk genel seçim tarihinde"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 19’a göre 4483 sayılı Kanun yayımı tarihinde yürürlüğe girer. Bu nedenle doğru cevap B seçeneğidir: “Yayımı tarihinde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-1-0dd6",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Danıştay İkinci Dairesi",
+      "Bakanlar Kurulu",
+      "Yargıtay Cumhuriyet Başsavcısı",
+      "İçişleri Bakanı",
+      "Türkiye Büyük Millet Meclisi Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 20’ye göre 4483 sayılı Kanun hükümlerini Bakanlar Kurulu yürütür. Bu nedenle doğru cevap B seçeneğidir: “Bakanlar Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-10-5iq7",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un 19 uncu maddesine göre, Kanun ne zaman yürürlüğe girer?",
+    "options": [
+      "Kabul edildiği tarihte",
+      "Resmî Gazete’de yayımlandığı tarihten otuz gün sonra",
+      "Yayımlandığı tarihte",
+      "Cumhurbaşkanının onayladığı tarihte",
+      "Yayımlandığı ayı izleyen ilk gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 19’a göre 4483 sayılı Kanun yayımı tarihinde yürürlüğe girer. Bu nedenle doğru cevap C seçeneğidir: “Yayımlandığı tarihte”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-11-hc4y",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un 20 nci maddesine göre, Kanun hükümlerini kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı",
+      "İçişleri Bakanı",
+      "Adalet Bakanı",
+      "Bakanlar Kurulu",
+      "Türkiye Büyük Millet Meclisi Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 20’ye göre 4483 sayılı Kanun hükümlerini Bakanlar Kurulu yürütür. Bu nedenle doğru cevap D seçeneğidir: “Bakanlar Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-12-33rr",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un Geçici Madde 1 hükmüne göre, Kanunun yürürlüğe girmesinden önce Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre başlatılmış işlemler nasıl sonuçlandırılır?",
+    "options": [
+      "4483 sayılı Kanun hükümlerine göre",
+      "Genel hükümlere göre",
+      "Başlatıldığı tarihteki hükümler dikkate alınarak",
+      "İdarenin belirleyeceği usule göre",
+      "Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre"
+    ],
+    "answer_index": 4,
+    "explanation": "Geçici Madde 1’e göre Kanunun yürürlüğe girmesinden önce eski Kanun hükümlerine göre başlatılmış işlemler, adı geçen Kanun hükümlerine göre sonuçlandırılır. Bu nedenle doğru cevap E seçeneğidir: “Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-13-t6nl",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un Geçici Madde 2’ye göre, maddede belirtilen ve Kanunun yürürlüğe girmesinden önce açılmış davalar ne yapılır?",
+    "options": [
+      "Genel hükümlere göre yetkili ve görevli mahkemelere devredilir",
+      "Aynı mahkemelerde görülmeye devam eder",
+      "Danıştay İkinci Dairesine gönderilir",
+      "İçişleri Bakanlığına devredilir",
+      "Cumhuriyet başsavcılığına iade edilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 2’ye göre maddede belirtilen davalar ile Danıştayca itirazen incelenen kararlar, Kanunun yürürlüğünü müteakip genel hükümlere göre yetkili ve görevli mahkemelere devredilir. Bu nedenle doğru cevap A seçeneğidir: “Genel hükümlere göre yetkili ve görevli mahkemelere devredilir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-14-xpww",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un Geçici Madde 3 hükmüne göre, Ek Madde 1 hükmü hangi davalar bakımından da uygulanır?",
+    "options": [
+      "Yalnızca yeni açılacak davalar bakımından",
+      "Görülmekte olan davalar, kesinleşmemiş hükümler ve belirli koşullarda kesinleşen hükümler bakımından",
+      "Yalnızca görülmekte olan davalar bakımından",
+      "Yalnızca kesinleşmiş hükümler bakımından",
+      "Yalnızca tazminat davaları bakımından"
+    ],
+    "answer_index": 1,
+    "explanation": "Geçici Madde 3, Ek Madde 1’in görülmekte olan davalar ve bazı kesinleşmemiş veya kanun yoluna kapalı hükümler bakımından uygulanmasına ilişkin geçiş hükümlerini düzenler. Bu nedenle doğru cevap B seçeneğidir: “Görülmekte olan davalar, kesinleşmemiş hükümler ve belirli koşullarda kesinleşen hükümler bakımından”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-15-y35f",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un Geçici Madde 4 hükmüne göre, bu maddenin yürürlüğe girdiği tarihten önce başlamış işlemler hangi usul ve esaslara göre sonuçlandırılır?",
+    "options": [
+      "Yalnızca güncel 3 üncü madde hükümlerine göre",
+      "Genel hükümlere göre",
+      "703 sayılı Kanun Hükmünde Kararname ile değiştirilen 3, 12 ve 13 üncü maddelerin söz konusu değişikliklerden önceki usul ve esaslarına göre",
+      "Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre",
+      "İdarenin belirleyeceği usule göre"
+    ],
+    "answer_index": 2,
+    "explanation": "Geçici Madde 4, 703 sayılı KHK ile değiştirilen 3, 12 ve 13 üncü maddeler bakımından değişiklik öncesinde başlayan işlemlere uygulanacak geçiş usulünü düzenler. Bu nedenle doğru cevap C seçeneğidir: “703 sayılı Kanun Hükmünde Kararname ile değiştirilen 3, 12 ve 13 üncü maddelerin söz konusu değişikliklerden önceki usul ve esaslarına göre”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-16-d77y",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun’un Geçici Madde 4 hükmüne göre, maddenin yürürlüğe girdiği tarihte müşterek kararla atanmış olanlar hakkında hangi hüküm uygulanır?",
+    "options": [
+      "Güncel 3 üncü maddenin (e) bendi",
+      "Genel hükümler",
+      "703 sayılı Kanun Hükmünde Kararnamenin güncel hükümleri",
+      "3 üncü maddenin değiştirilmeden önceki hâli",
+      "Memurin Muhakematı Hakkında Kanunu Muvakkat hükümleri"
+    ],
+    "answer_index": 3,
+    "explanation": "Geçici Madde 4, 703 sayılı KHK ile değiştirilen 3, 12 ve 13 üncü maddeler bakımından değişiklik öncesinde başlayan işlemlere uygulanacak geçiş usulünü düzenler. Bu nedenle doğru cevap D seçeneğidir: “3 üncü maddenin değiştirilmeden önceki hâli”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-17-6t3y",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanunun yürürlüğe girmesinden önce Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre başlatılmış bulunan işlemler, ______ hükümlerine göre sonuçlandırılır.",
+    "options": [
+      "genel hükümler",
+      "adı geçen Kanun",
+      "4483 sayılı Kanun",
+      "disiplin hükümleri",
+      "Ceza Muhakemeleri Usulü Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “adı geçen Kanun” ifadesiyle tamamlanır. Geçici Madde 1’e göre Kanunun yürürlüğe girmesinden önce eski Kanun hükümlerine göre başlatılmış işlemler, adı geçen Kanun hükümlerine göre sonuçlandırılır. Doğru cevap B seçeneğidir: “adı geçen Kanun”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-18-5gjf",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Geçici Madde 3’te belirtilen, daha önce kanun yoluna başvurulamayan hükümler için maddenin yürürlüğe girdiği tarihten itibaren ______ içinde kanun yollarına başvurulabilir.",
+    "options": [
+      "on gün",
+      "iki hafta",
+      "otuz gün",
+      "on beş gün",
+      "üç ay"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “iki hafta” ifadesiyle tamamlanır. Geçici Madde 3, Ek Madde 1’in görülmekte olan davalar ve bazı kesinleşmemiş veya kanun yoluna kapalı hükümler bakımından uygulanmasına ilişkin geçiş hükümlerini düzenler. Doğru cevap B seçeneğidir: “iki hafta”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-19-bqr7",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4 Şubat 1329 tarihli ______ Hakkında Kanunu Muvakkat, 4483 sayılı Kanunla yürürlükten kaldırılmıştır.",
+    "options": [
+      "Devlet Memurları",
+      "Memurin Muhakematı",
+      "Ceza Muhakemeleri Usulü",
+      "İdari Yargılama Usulü",
+      "Bakanlar Kurulu"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “Memurin Muhakematı” ifadesiyle tamamlanır. Madde 18 ile 4 Şubat 1329 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat yürürlükten kaldırılmıştır. Doğru cevap B seçeneğidir: “Memurin Muhakematı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-2-h6lh",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanun hangi kanunu yürürlükten kaldırmıştır?",
+    "options": [
+      "657 sayılı Devlet Memurları Kanunu",
+      "Memurin Muhakematı Hakkında Kanunu Muvakkat",
+      "Türk Ceza Kanunu",
+      "Ceza Muhakemeleri Usulü Kanunu",
+      "İdare Yargılama Usulü Kanunu"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 18 ile 4 Şubat 1329 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat yürürlükten kaldırılmıştır. Bu nedenle doğru cevap B seçeneğidir: “Memurin Muhakematı Hakkında Kanunu Muvakkat”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-20-fu6y",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Ön inceleme elemanlarının görevleriyle ilgili işlemlerinden dolayı, Kanunda belirtilen sorumluluk hâlleri de dâhil olmak üzere ancak ______ aleyhine tazminat davası açılabilir.",
+    "options": [
+      "görevli",
+      "idare",
+      "şikâyetçi",
+      "Cumhuriyet başsavcılığı",
+      "mahkeme"
+    ],
+    "answer_index": 1,
+    "explanation": "Boşluk “idare” ifadesiyle tamamlanır. Ek Madde 1, ön inceleme ve benzeri idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak ancak idare aleyhine tazminat davası açılabileceğini ve belirli hâllerde idarenin görevliye rücu hakkını düzenler. Doğru cevap B seçeneğidir: “idare”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-21-qspk",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "İdarenin görevliye rücu edebilmesi için Kanunda sayılan durumların kesinleşmiş ______ kararıyla tespit edilmesi gerekir.",
+    "options": [
+      "yalnız yargı",
+      "yalnız disiplin kurulu",
+      "yargı ya da disiplin kurulu",
+      "ön inceleme",
+      "idari merci"
+    ],
+    "answer_index": 2,
+    "explanation": "Boşluk “yargı ya da disiplin kurulu” ifadesiyle tamamlanır. Ek Madde 1, ön inceleme ve benzeri idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak ancak idare aleyhine tazminat davası açılabileceğini ve belirli hâllerde idarenin görevliye rücu hakkını düzenler. Doğru cevap C seçeneğidir: “yargı ya da disiplin kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-22-13v9",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Geçici Madde 3’e göre, bu madde uyarınca yapılan kanun yolu başvuruları üzerine verilen kararlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Tahsil edilmiş tazminat bedelinin geri istenmesi hakkını doğurmaz.",
+      "Tahsil edilmiş tazminat bedelinin geri istenmesi hakkını doğurur.",
+      "Kanun yoluna iki hafta içinde başvurulamaz.",
+      "Ek Madde 1 hükmü görülmekte olan davalara uygulanmaz.",
+      "Davaya görevli mahkemede idare aleyhine devam olunmaz."
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 3’e göre bu fıkra uyarınca yapılan kanun yolu başvuruları üzerine verilen kararlar, tahsil edilmiş tazminat bedelinin geri istenmesi hakkını doğurmaz. Bu nedenle doğru cevap A seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-23-4uys",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Geçici Madde 3’e göre, görevli mahkemede idare aleyhine devam olunacak davada kanun yolları incelemesinde ilk olarak aşağıdakilerden hangisine bakılır?",
+    "options": [
+      "Tahsil edilmiş tazminat bedelinin geri istenip istenemeyeceğine",
+      "Ek Madde 1’de öngörülen dava şartlarının mevcut olup olmadığına",
+      "Davaya idare aleyhine devam olunup olunmayacağına",
+      "Hükmün kesinleşip kesinleşmediğine",
+      "Kanun yoluna iki hafta içinde başvurulup başvurulmadığına"
+    ],
+    "answer_index": 1,
+    "explanation": "Geçici Madde 3’e göre görevli mahkemede idare aleyhine devam olunacak davada, kanun yolları incelemesinde ilk olarak Ek Madde 1’de öngörülen dava şartlarının mevcut olup olmadığına bakılır. Bu nedenle doğru cevap B seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-3-q90z",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Ön inceleme veya denetim yapan görevlilerin, bu görevleri nedeniyle düzenledikleri raporlardan dolayı kişisel kusurları olsa bile kime karşı dava açılabilir?",
+    "options": [
+      "Doğrudan görevliye",
+      "Hem idareye hem görevliye",
+      "Ancak idare aleyhine",
+      "Dava açılamaz",
+      "Sadece amirine"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1’e göre, maddede belirtilen görev ve işlemlerden dolayı kişisel kusur, haksız fiil veya diğer sorumluluk hâlleri de dâhil olmak üzere ancak idare aleyhine tazminat davası açılabilir. Bu nedenle doğru cevap C seçeneğidir: “Ancak idare aleyhine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-4-d76u",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "İdarenin, ödediği tazminatı, suç sayılan eylemleri veya kini/garezi tespit edilen görevliye geri isteme hakkına ne denir?",
+    "options": [
+      "İstinaf",
+      "Temyiz",
+      "Takas",
+      "Rücu",
+      "Müsadere"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 1, ön inceleme ve benzeri idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak ancak idare aleyhine tazminat davası açılabileceğini ve belirli hâllerde idarenin görevliye rücu hakkını düzenler. Bu nedenle doğru cevap D seçeneğidir: “Rücu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-5-odur",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Kanunlarda Memurin Muhakematı Hakkında Kanunu Muvakkatın uygulanacağının belirtildiği hâllerde hangi hükümler uygulanır?",
+    "options": [
+      "Yalnız disiplin hükümleri",
+      "Her durumda genel hükümler",
+      "Sadece Ceza Muhakemeleri Usulü Kanunu",
+      "Yalnız İdari Yargılama Usulü Kanunu",
+      "4483 sayılı Kanun hükümleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 16’ya göre kanunlarda Memurin Muhakematı Hakkında Kanunu Muvakkatın uygulanacağının belirtildiği hâllerde 4483 sayılı Kanun; uygulanmayacağının belirtildiği hâllerde genel hükümler uygulanır. Bu nedenle doğru cevap E seçeneğidir: “4483 sayılı Kanun hükümleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-6-sbjl",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Ek Madde 1’e göre idarenin görevliye rücu hakkının saklı olduğu hâl aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadece zararın oluşması",
+      "Görevlinin kusurunun mahkeme kararıyla tespit edilmesi",
+      "Müfettiş raporu",
+      "Görevlinin suç sayılan eylemleri ile kin, garez ve hatıra dayalı olarak veya baskı ya da telkinle kanaat oluşturduğu ya da değiştirdiğinin kesinleşmiş yargı veya disiplin kurulu kararıyla tespit edilmesi",
+      "İdarenin isteği"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 1’e göre görevlilerin suç sayılan eylemleri ile kin, garez ve hatıra dayalı olarak veya baskı veya telkinle kanaat oluşturduğu ya da değiştirdiği kesinleşmiş yargı ya da disiplin kurulu kararıyla tespit edilirse idarenin görevliye rücu hakkı saklıdır. Bu nedenle doğru cevap D seçeneğidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-7-kdsi",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Bu Kanun’a göre ön inceleme, disiplin soruşturması veya diğer idari soruşturmaları yapanların şahsi kusurlarından dolayı kime dava açılır?",
+    "options": [
+      "Hiç kimseye",
+      "Doğrudan görevliye",
+      "Cumhuriyet Savcılığına",
+      "Müfettişler Kuruluna",
+      "Ancak idare aleyhine"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 1, ön inceleme ve benzeri idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak ancak idare aleyhine tazminat davası açılabileceğini ve belirli hâllerde idarenin görevliye rücu hakkını düzenler. Bu nedenle doğru cevap E seçeneğidir: “Ancak idare aleyhine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-8-0af8",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "Ek Madde 1’e göre, ön inceleme veya diğer idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak tazminat davası kime karşı açılabilir?",
+    "options": [
+      "Görevlendirilen kişi aleyhine doğrudan",
+      "Yalnız izin vermeye yetkili merci aleyhine",
+      "Ancak idare aleyhine",
+      "Sadece Cumhuriyet başsavcılığı aleyhine",
+      "Hem idare hem görevli aleyhine birlikte ve zorunlu olarak"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1, ön inceleme ve benzeri idari soruşturma görevleriyle ilgili işlemlerden dolayı kural olarak ancak idare aleyhine tazminat davası açılabileceğini ve belirli hâllerde idarenin görevliye rücu hakkını düzenler. Bu nedenle doğru cevap C seçeneğidir: “Ancak idare aleyhine”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y2ssq-mtn3d484-9-085n",
+    "topic_id": "t-cesitli-hukumler-y2ssq",
+    "prompt": "4483 sayılı Kanunla yürürlükten kaldırılan düzenleme aşağıdakilerden hangisidir?",
+    "options": [
+      "4 Şubat 1329 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat",
+      "399 sayılı Kanun Hükmünde Kararnamenin tamamı",
+      "Ceza Muhakemeleri Usulü Kanunu",
+      "İdari Yargılama Usulü Kanunu",
+      "657 sayılı Devlet Memurları Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 18 ile 4 Şubat 1329 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat yürürlükten kaldırılmıştır. Bu nedenle doğru cevap A seçeneğidir: “4 Şubat 1329 tarihli Memurin Muhakematı Hakkında Kanunu Muvakkat”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:11:11.705456+00:00",
+    "updated_at": "2026-09-04T15:11:11.705456+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-0-usv0",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "Kamu düzenini sağlamak amacıyla valinin aldığı kararlara uymayanlar hakkında, toplumsal olaylar hariç olmak üzere, hangi hüküm uygulanır?",
+    "options": [
+      "Türk Ceza Kanunu’nun 216. maddesi",
+      "Terörle Mücadele Kanunu",
+      "Disiplin Yönetmeliği",
+      "Kabahatler Kanunu’nun 32. maddesi",
+      "Polis Vazife ve Salahiyet Kanunu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 66: Kanunun verdiği yetkiye dayanılarak alınan ve usulen tebliğ veya ilan olunan karar ve tedbirlere uymayanlar, toplumsal olaylara ilişkin özel hâl dışında, Kabahatler Kanunu'nun 32 nci maddesi uyarınca cezalandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-1-jlw4",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "Toplumsal olaylarda kamu düzenini sağlamak için alınan kararlara uymayanlara verilecek ceza nedir?",
+    "options": [
+      "İdari para cezası",
+      "Kınama",
+      "Kamu hizmetinden men",
+      "1 yıldan 3 yıla kadar hapis",
+      "3 aydan 1 yıla kadar hapis"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 66: Kamu düzenini ve güvenliğini tehlikeye düşürecek toplumsal olaylarda valinin usulüne göre ilan ettiği karar ve tedbirlere aykırı davrananlar üç aydan bir yıla kadar hapis cezasıyla cezalandırılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-10-3u2l",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 1’e göre sivil hava meydanları, limanlar ve sınır kapılarında hizmet veren kuruluşlar kime karşı sorumludur?",
+    "options": [
+      "Görevli mülki idare amirine",
+      "Yalnız kendi bakanlıklarına",
+      "Belediye başkanına",
+      "İl İdare Kuruluna",
+      "Danıştaya"
+    ],
+    "answer_index": 0,
+    "explanation": "Ek Madde 1: Bu yerlerde hizmet veren kuruluşlar, görevli mülki idare amirine karşı sorumludur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-11-7y1o",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 1’e göre kuruluşlar hangi konularda kendi kuruluşları ile doğrudan yazışabilir?",
+    "options": [
+      "Yalnız personel disiplininde",
+      "Teknik, istatistiki bilgileri içeren ve mali konularda",
+      "Yalnız güvenlik konularında",
+      "Her konuda",
+      "Hiçbir konuda"
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 1: Kuruluşlar teknik konularda, istatistiki bilgileri içeren konularda ve mali konularda kendi kuruluşları ile doğrudan yazışırlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-12-a939",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 1’e göre mülki idare amirinin görev, yetki ve sorumluluklarına ilişkin uygulama düzeni hangi düzenleyici işlemle belirlenir?",
+    "options": [
+      "Kanunla",
+      "İl İdare Kurulu kararıyla",
+      "Yönetmelikle",
+      "Genel emirle",
+      "Tebliğle"
+    ],
+    "answer_index": 2,
+    "explanation": "Ek Madde 1: Uygulama düzeni, ilgili görüşler alınarak İçişleri Bakanlığınca hazırlanacak ve Cumhurbaşkanı tarafından yürürlüğe konulacak yönetmelikle düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-13-d8qy",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 2’ye göre ihtiyaç duyulan telefon abone ve konum bilgileri hangi sürede karşılanır?",
+    "options": [
+      "Üç gün içinde",
+      "Yedi gün içinde",
+      "Bir ay içinde",
+      "Gecikmeksizin",
+      "On beş gün içinde"
+    ],
+    "answer_index": 3,
+    "explanation": "Ek Madde 2: İhtiyaç duyulan telefon abone ve konum bilgileri gecikmeksizin karşılanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-14-3i15",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Ek Madde 2’ye göre bu madde uyarınca elde edilen veriler hakkında hangi sınırlama vardır?",
+    "options": [
+      "Süresiz saklanmaları zorunludur",
+      "Yalnız belediyeler kullanabilir",
+      "Her kamu kurumuyla paylaşılır",
+      "Ticari amaçla kullanılabilir",
+      "Başka amaçlar için kullanılamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Ek Madde 2: Bu madde uyarınca elde edilen veriler başka amaçlar için kullanılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-15-083n",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu Geçici Madde 5’e göre belirtilen personele 11 inci maddenin (J) fıkrasının hangi bentlerindeki hükümler uygulanır?",
+    "options": [
+      "Beşinci ve altıncı",
+      "Üçüncü ve dördüncü",
+      "Birinci ve ikinci",
+      "Yedinci ve sekizinci",
+      "Yalnız altıncı"
+    ],
+    "answer_index": 0,
+    "explanation": "Geçici Madde 5: Belirtilen personel hakkında 11 inci maddenin (J) fıkrasının beşinci ve altıncı bentlerinde yer alan hükümler uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-16-406a",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu hangi tarihte yürürlüğe girmiştir?",
+    "options": [
+      "18 Haziran 1949",
+      "31 Temmuz 1949",
+      "1 Ocak 1950",
+      "10 Haziran 1949",
+      "15 Temmuz 1953"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 69: Kanun 31 Temmuz 1949 tarihinde yürürlüğe girer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-17-1gt7",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre Kanunu kim yürütür?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Türkiye Büyük Millet Meclisi",
+      "Bakanlar Kurulu",
+      "İçişleri Bakanı",
+      "Valiler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 70: Kanunu Bakanlar Kurulu yürütür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  },
+  {
+    "id": "t-cesitli-hukumler-y7b41-mtmz594t-2-2cbc",
+    "topic_id": "t-cesitli-hukumler-y7b41",
+    "prompt": "5442 sayılı İl İdaresi Kanunu’na göre sivil hava meydanları, limanlar ve sınır kapılarında güvenliğin sağlanması yetkisi kime aittir?",
+    "options": [
+      "Ulaştırma Bakanına",
+      "Valiye",
+      "Gümrük Müdürüne",
+      "Emniyet Müdürüne",
+      "DHMİ Müdürüne"
+    ],
+    "answer_index": 1,
+    "explanation": "Ek Madde 1: Sivil hava meydanları, limanlar ve sınır kapılarında güvenliğin sağlanması ve ilgili hizmetlerin düzenli yürütülmesi için gerekli önlemleri alma ve uygulama yetkisi valiye aittir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:13:06.287048+00:00",
+    "updated_at": "2026-09-04T13:13:06.287048+00:00"
+  }
+]

@@ -1,0 +1,26 @@
+-- K-02 BELGESİ — SADECE REFERANS, ÜRETİMDE UYGULANMAZ
+-- ─────────────────────────────────────────────────────────────────────────────
+-- Bu migration 11 Ağustos 2026 saat ~16:58 UTC'de canlı Supabase'e uygulandı
+-- ve ~15 saat boyunca (12 Ağustos 08:08 UTC'ye kadar) premium kapısını tamamen
+-- devre dışı bıraktı. Pakette hiçbir iz yoktu; kod incelemesi (MCP) ile tespit
+-- edildi.
+--
+-- Canlıdan okunan gerçek içerik:
+--   create or replace function public.is_premium()
+--   returns boolean language sql security definer set search_path = public
+--   as $$ select true; $$;
+--
+-- YEVMİYE NOTU: Bu değişikliğin kasıtlı (test amaçlı) mı yoksa kaza mı
+-- olduğu netleştirilmeli. O pencerede kayıt olan/premium'a "geçen" kullanıcı
+-- sayısı şu salt-okunur sorguyla kontrol edilebilir:
+--   select count(*), date_trunc('hour', created_at) as saat
+--   from auth.users
+--   where created_at between '2026-08-11 16:58' and '2026-08-12 08:09'
+--   group by saat order by saat;
+-- ─────────────────────────────────────────────────────────────────────────────
+-- BU DOSYA PRODUCTION'A UYGULANMAMALIDIR.
+-- supabase db reset sırasında yanlışlıkla çalışmaması için
+-- içeriği yorum satırı olarak bırakıldı; gerçek SQL tek satıra indirildi
+-- ve production'da zaten 20260812080845 ile geri alındı.
+
+-- (intentionally no runnable SQL — documentation only)

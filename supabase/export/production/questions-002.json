@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-11-itvm",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, çocuğun ailesi yanında kalmasını gerektiren, ailede ölüm, yaralanma, düğün, askere gitme, bağ, bahçe işleri gibi sebeplerle öğrencilere bir yıl içinde okul idarecilerince kaç günü geçmemek üzere izin verilir?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap A) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-12-1m24",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, muhtarlıkça veya mülki amirce yapılan tebliğe rağmen okula göndermeyen veli veya aile başkanlarına, okul idaresince tespit edilen çocuğun okula devam etmediği her gün için kaç TL idari para cezası verilir?",
+    "options": [
+      "5",
+      "15",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap B) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-13-fmud",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre muhtarlıkça veya mülki amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye çocuğun okula devam etmediği beher gün için kaç Türk Lirası idari para cezası verilir?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "25",
+      "50"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap A) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-14-hyqn",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, Muhtarlıkça yapılan tebliğe rağmen çocuğunu okula göndermeyen veliye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için onbeş Türk Lirası idari para cezası verilmesine rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen çocuğun velisine aşağıdaki cezalardan hangisi verilir?",
+    "options": [
+      "Kamu davası açılır.",
+      "Hapis cezası verilir.",
+      "Beş yüz Türk Lirası idari para cezası verilir.",
+      "Veli hakkında kovuşturma yapılır.",
+      "İşlem yapılmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap C) Beş yüz Türk Lirası idari para cezası verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-15-skn7",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’nda yazılı olan idari para cezalarını verme yetkisi aşağıdakilerden hangisine aittir?",
+    "options": [
+      "Mahalli mülki amir",
+      "İlçe Milli Eğitim Müdürlüğü",
+      "İl Milli Eğitim Müdürlüğü",
+      "Milli Eğitim Bakanlığı",
+      "Okul Müdürlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap A) Mahalli mülki amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-16-dayl",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her öğrenci velisi, özrü yüzünden okula gidemeyen çocuğun durumunu en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür?",
+    "options": [
+      "2",
+      "9",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap E) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-17-jhgh",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre öğrenci velisi yahut vasisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özrü yüzünden okula gidemeyen çocuğun durumunu en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap B) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-18-jqyt",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "I. İlköğrenim çağında olup da mecburi ilköğretim kurumlarına devam etmeyenler, hiçbir resmi ve özel iş yerinde veya her ne surette olursa olsun çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar. II. İlköğretim kurumlarına devam ettiklerini belgeleyenler ise, çocukların çalıştırılmasını düzenleyen kanun hükümleri uygulanmak şartıyla ancak ders zamanları dışında bu gibi yerlerde çalıştırılabilirler. III. İlköğretim çağında bulunan ve mecburi ilköğretim kurumlarına devam eden çocukların bu kanunda gösterilen ve Milli Eğitim Bakanlığınca açılmasına izin verilmiş olunanlar dışında, her ne ad altında kurulmuş olursa olsun, özel kurs ve dershanelere kabulü yasaktır. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdaki hükümlere aykırı davrananlara en fazla kaç Türk Lirası idari para cezası verilir?",
+    "options": [
+      "15",
+      "100",
+      "1000",
+      "500",
+      "400"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap C) 1000.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-19-9j5m",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okul idareleri ve mülki amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara kaç Türk Lirası idari para cezası verilmektedir?",
+    "options": [
+      "100",
+      "15",
+      "400",
+      "500",
+      "1000"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap A) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-2-biv2",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için kaç Türk Lirası idarî para cezası verilir?",
+    "options": [
+      "Beş Türk Lirası",
+      "On Türk Lirası",
+      "Elli Türk Lirası",
+      "Yirmi Türk Lirası",
+      "On beş Türk Lirası"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap E) On beş Türk Lirası.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-20-lb42",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen çocuğun veli veya vasisine ne kadar idari para cezası verilir?",
+    "options": [
+      "400 TL",
+      "500 TL",
+      "300 TL",
+      "200 TL",
+      "100 TL"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap B) 500 TL.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-21-1c7q",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her öğrenci velisi yahut vasisi veya aile başkanı özrü yüzünden okula gidemeyen çocuğun durumunu en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür? (2019)",
+    "options": [
+      "İki",
+      "Beş",
+      "Dört",
+      "Üç",
+      "Altı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap D) Üç.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-22-akr6",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’nda okul idareleri ve mülki amirliklerce bu Kanun’a göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara kaç Türk Lirası idari para cezası verilir? (2019)",
+    "options": [
+      "Elli",
+      "İki yüz elli",
+      "Yüz elli",
+      "İki yüz",
+      "Yüz"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap E) Yüz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-23-ts2d",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre bağ, bahçe, tarla ve sürüde tarım ve hastalık savaşı yapılması gibi sebeplerle öğrencilere bir yıl içinde kaç günü geçmemek üzere okul idarelerince izin verilir? (2018)",
+    "options": [
+      "3",
+      "5",
+      "15",
+      "12",
+      "10"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap C) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-24-fkhj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ailede ölüm, yaralanma ve düğün gibi sebeplerle öğrencilere okul idarelerince bir yıl içinde en fazla kaç gün izin verilebilir? (2017)",
+    "options": [
+      "3",
+      "15",
+      "7",
+      "10",
+      "5"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap B) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-25-osdl",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Bir veli, kendisine idari para cezası verilmesine rağmen ortaokul yedinci sınıfa devam eden çocuğunu okula göndermemekte ve göndermeme sebebini de okul idaresine bildirmemektedir. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilgili veliye ne kadar idari para cezası verilir?",
+    "options": [
+      "100 TL",
+      "2000 TL",
+      "1000 TL",
+      "500 TL",
+      "5000 TL"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap D) 500 TL.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-26-t2ef",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’nda yazılı olan idari para cezaları aşağıdakilerden hangisi tarafından verilir?",
+    "options": [
+      "Bakanlık",
+      "Okul Müdürü",
+      "İdare Mahkemesi",
+      "Muhtar",
+      "Mahallî Mülki Amir"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap E) Mahallî Mülki Amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-27-5lox",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "İlköğrenim çağında olup da mecburi ilköğretim kurumlarına devam etmeyenler, hiçbir resmi ve özel iş yerinde veya her ne surette olursa olsun çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar.",
+      "Okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara beşyüz Türk Lirası idarî para cezası verilir.",
+      "Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için onbeş Türk Lirası idarî para cezası verilir.",
+      "Bir öğretim yılı, okulda, derslerinbaşlamasından bir hafta önceki tarihten, son sınıf sınavlarının bittiği güne kadarki süredir.",
+      "Bu Kanunda yazılı olan idari para cezaları mahalli mülki amir tarafından verilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap B) Okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara beşyüz Türk Lirası idarî para cezası verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-28-k9gl",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki bilgilerden hangisi doğru değildir?",
+    "options": [
+      "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 500 ila 1000 metrekarelik bir arazi, öğretmen bahçesi olmak üzere bir yer ayrılır.",
+      "Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için onbeş Türk Lirası idarî para cezası verilir.",
+      "İlköğrenim çağında olup da mecburi ilköğretim kurumlarına devam etmeyenler, hiçbir resmi ve özel iş yerinde veya her ne surette olursa olsun çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar.",
+      "Okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara beşyüz Türk Lirası idarî para cezası verilir.",
+      "Bir öğretim yılı, okulda, derslerin başlamasından bir hafta önceki tarihten, son sınıf sınavlarının bittiği güne kadarki süredir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap D) Okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara beşyüz Türk Lirası idarî para cezası verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-29-y6aw",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre bu Kanunda yazılı olan idarî para cezaları aşağıdakilerden hangisi tarafından verilir?",
+    "options": [
+      "Mahallî mülkî amir",
+      "İlçe Milli Eğitim Müdürü",
+      "Muhtarlar",
+      "İl Milli Eğitim Müdürü",
+      "Maarif Müfettişleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap A) Mahallî mülkî amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-3-tvea",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre muhtarlar ve mülkî amirler, çocuğunu okula göndermeyenlerin durumunu veli, vasi veya aile başkanlarına en geç kaç gün içinde tebliğ eder?",
+    "options": [
+      "3 gün",
+      "5 gün",
+      "7 gün",
+      "9 gün",
+      "10 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap A) 3 gün.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-30-g8dp",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, yukarıda yer alan durumlarla ilgili olarak Muhtarlar ve mülki amirler en geç kaç gün içinde durumun veli veya vasi veya aile başkanlarına tebliğini sağlayarak okulca kabul edilecek geçerli sebepler dışında çocuğun okula gönderilmemesi hâlinde idarî para cezasıyla cezalandırılacağı bildirilir?",
+    "options": [
+      "10",
+      "5",
+      "3",
+      "7",
+      "15"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap C) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-31-n3kn",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, idari para cezaları aşağıdakilerden hangisi tarafından verilir?",
+    "options": [
+      "Mahalli Mülki Amir",
+      "İl Milli Eğitim Müdürü",
+      "İlçe Milli Eğitim Müdürü",
+      "Okul Müdürü",
+      "İlçe Emniyet Amiri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap A) Mahalli Mülki Amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-32-p2yj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, her öğrenci velisi/vasisi/aile başkanı, özrü yüzünden okula gidemeyen çocuğun durumunu en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür?",
+    "options": [
+      "7",
+      "3",
+      "5",
+      "10",
+      "14"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap B) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-33-6wcc",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, okul idareleri ve mülkî amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara ne kadar idarî para cezası verilir?",
+    "options": [
+      "500",
+      "400",
+      "5",
+      "100",
+      "15"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap D) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-34-kdvf",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğretim çağında olup mecburi ilköğretim kurumlarına devam etmeyen çocukların çalıştırılmasına ilişkin aşağıdaki bilgilerden hangisi doğrudur?",
+    "options": [
+      "Özel sektör iş yerlerinde çalıştırılabilirler.",
+      "Tarım işlerinde çalıştırılabilirler.",
+      "Aile işletmelerinde çalıştırılabilirler.",
+      "Resmi ya da özel iş yerlerinde ders zamanları dışında çalıştırılabilirler.",
+      "Resmi ya da özel iş yerlerinde ücretli veya ücretsiz çalıştırılamazlar."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap E) Resmi ya da özel iş yerlerinde ücretli veya ücretsiz çalıştırılamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-35-buyn",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yapılan tebliğe rağmen okulca kabul edilen geçerli sebebi olmaksızın çocuğu okula göndermeyen veli veya vasiye kural olarak aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "İdari para cezası",
+      "Adli para cezası",
+      "Hapis cezası",
+      "Velayet hakkının sınırlandırılması",
+      "Vesayet hakkının sınırlandırılması"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 55-56: Geçerli sebep olmaksızın devam sağlanmazsa idari para cezası uygulanır; Madde 56 günlük 15 TL ve devam eden ihlal için 500 TL cezayı düzenler. Bu nedenle doğru cevap A) İdari para cezası.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-36-wyuf",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre zorlayıcı sebepler dışında çocuğun ailesi yanında kalmasını gerektiren ailede ölüm, düğün ve askere gitme gibi sebeplerle öğrencilere bir yıl içerisinde kaç günü geçmemek üzere okul idarelerince izin verilir?",
+    "options": [
+      "3",
+      "15",
+      "5",
+      "10",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap B) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-37-1bye",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yapılan tebliğe rağmen okulca kabul edilen geçerli sebebi olmaksızın çocuğu okula göndermeyen veli veya vasiye kural olarak aşağıdaki yaptırımlardan hangisi uygulanır?",
+    "options": [
+      "Velayet veya vesayet haklarının sınırlandırılması",
+      "Tazyik hapsi",
+      "Adli para cezası",
+      "Hapis cezası",
+      "İdari para cezası"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 55-56: Geçerli sebep olmaksızın devam sağlanmazsa idari para cezası uygulanır; Madde 56 günlük 15 TL ve devam eden ihlal için 500 TL cezayı düzenler. Bu nedenle doğru cevap E) İdari para cezası.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-38-0t4q",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için on beş Türk Lirası idari para cezası verilmesine rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen çocuğun veli veya vasisine verilecek idari para cezası kaç Türk Lirasıdır?",
+    "options": [
+      "Yüz",
+      "İki yüz",
+      "Beş yüz",
+      "Bin",
+      "Dört yüz"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap C) Beş yüz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-39-iqyj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre çocuğun okula devam etmediği beher gün için verilen idari para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebebini okul idaresine bildirmeyen veli veya vasiye ne kadar idari para cezası verilir?",
+    "options": [
+      "Altı yüz",
+      "Dört yüz",
+      "Beş yüz",
+      "Yedi yüz",
+      "Bin"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap C) Beş yüz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-4-qe49",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki durumlardan hangisinde para cezası verilmez?",
+    "options": [
+      "Çocuğunu okula göndermeyen",
+      "Deprem ve yangın gibi nedenlerle okulu gelemeyenler",
+      "Verilen izin müddetini geçiren",
+      "Okul çevresi dışına çıkarak izini kaybettiren",
+      "Çocuğunun devamsızlık durumunu özürsüz olarak zamanında okul idaresine bildirmeyen"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap B) Deprem ve yangın gibi nedenlerle okulu gelemeyenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-40-jsb1",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “okula devam” ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İlköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamak için mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı veli veya vasilere ve okul idarelerine yardım eder.",
+      "Okula devam etmeyen öğrencilerin devamsızlık sebepleri okul idarelerince ve ilköğretim müfettişlerince araştırılarak devama engel olan maddi ve manevi sebeplerin giderilmesine çalışılır.",
+      "İlköğretim çağında bulunan ve mecburi ilköğretim kurumlarına devam etmeyen çocuklar ücretli veya ücretsiz çalıştırılamazlar.",
+      "Çocuğunu okula göndermeyen veya verilen izin müddetini geçirenlerin durumu veli veya vasi veya aile başkanlarına tebliğ edilir.",
+      "Okul idareleri ve mülki amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara hapis cezası verilir."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap E) Okul idareleri ve mülki amirliklerce bu Kanuna göre usulen sorulacak sorulara cevap vermekten kaçınanlar ile gerçeğe uymayan beyanda bulunanlara hapis cezası verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-41-30kl",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Öğrenci velisi, çocuğunun okula gidemediği durumu en geç kaç gün içinde okul idaresine bildirmek zorundadır?",
+    "options": [
+      "1",
+      "5",
+      "2",
+      "3",
+      "7"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap D) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-42-owle",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Ailede ölüm, düğün, tarım gibi sebeplerle öğrencilere bir yıl içinde okul idaresince en çok kaç gün izin verilebilir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30",
+      "45"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap B) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-43-hap9",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okula devam etmeyen öğrencilerle ilgili yapılan tebliğe rağmen çocuğunu göndermeyen veliye para cezasını kim verir?",
+    "options": [
+      "İlçe Milli Eğitim Müdürü",
+      "Muhtar",
+      "Mahalli Mülki Amir",
+      "Okul Müdürü",
+      "Cumhuriyet Savcısı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap C) Mahalli Mülki Amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-44-9hkb",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okul idareleri ve mülki amirlerce sorulan sorulara gerçeğe aykırı beyanda bulunanlara verilecek ceza türü nedir?",
+    "options": [
+      "Hapis cezası",
+      "İdari para cezası",
+      "Kamu hizmetinden men",
+      "Okuldan uzaklaştırma",
+      "Kınama cezası"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap B) İdari para cezası.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-45-191j",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğrenim çağında olup mecburi ilköğretim kurumlarına devam etmeyenlerin çalıştırılmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Veli izin verirse ders zamanları dışında çalıştırılabilirler.",
+      "Yalnız aile işletmelerinde çalıştırılabilirler.",
+      "Hiçbir resmi ve özel iş yerinde veya çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar.",
+      "Yalnız tarım işlerinde ücretsiz çalıştırılabilirler.",
+      "Hafta sonlarında özel iş yerlerinde çalıştırılabilirler."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap C) Hiçbir resmi ve özel iş yerinde veya çalışmayı gerektiren başka yerlerde ücretli veya ücretsiz çalıştırılamazlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-46-vejz",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Mecburi ilköğretim kurumlarına devam eden öğrencilerin özel kurs ve dershanelere kabulü ile ilgili hüküm nedir?",
+    "options": [
+      "Serbesttir",
+      "Velinin izniyle serbesttir",
+      "Sadece hafta sonu serbesttir",
+      "MEB izni dışında yasaktır",
+      "Sadece yazın serbesttir"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap D) MEB izni dışında yasaktır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-47-echv",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okula devam etmeyen öğrencilerin devamsızlık sebepleri ilk olarak kimler tarafından araştırılır?",
+    "options": [
+      "Muhtar ve Zabıta",
+      "Rehber Öğretmen ve Sınıf Öğretmeni",
+      "Mülki Amir ve Jandarma",
+      "Okul İdaresi ve İlköğretim Müfettişleri",
+      "Okul Aile Birliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 53: Devamsızlık sebepleri okul idareleri ve ilköğretim müfettişlerince araştırılır; giderilemiyorsa köylerde muhtara, diğer yerlerde mülki amire bildirilir. Bu nedenle doğru cevap D) Okul İdaresi ve İlköğretim Müfettişleri.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-48-tpsf",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Çocuğunu okula göndermeyen veliye idari para cezası uygulanabilmesi için öncelikle ne yapılması gerekir?",
+    "options": [
+      "Dava açılması",
+      "Çocuğun kaydının silinmesi",
+      "Müfettiş raporu",
+      "Muhtarın tutanak tutması",
+      "Durumun veliye tebliğ edilmesi"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap E) Durumun veliye tebliğ edilmesi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-49-id11",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okul idaresince kabul edilecek geçerli sebepler dışında çocuğun okula gönderilmemesi halinde uygulanacak yaptırım nedir?",
+    "options": [
+      "İdari para cezası",
+      "Okuldan atılma",
+      "Kamu haklarından men",
+      "Hapis cezası",
+      "Sosyal yardımın kesilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap A) İdari para cezası.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-5-aujj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre özrü yüzünden okula gidemiyen çocuğun durumunu velisi en geç kaç gün içinde okul idaresine bildirmekle yükümlüdür?",
+    "options": [
+      "2 gün",
+      "5 gün",
+      "4 gün",
+      "3 gün",
+      "7 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap D) 3 gün.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-50-lpt3",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "İlköğretim çağında olup okula devam etmeyen çocukları çalıştıran işverenlere verilecek ceza kim tarafından verilir?",
+    "options": [
+      "İş Mahkemesi",
+      "Mahalli Mülki Amir",
+      "Belediye Başkanı",
+      "Çalışma Bakanlığı Bölge Müdürü",
+      "Milli Eğitim Müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap B) Mahalli Mülki Amir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-51-7xml",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Zabıta teşkilatının (Polis/Jandarma) ilköğretimdeki devam konusundaki görevi nedir?",
+    "options": [
+      "Ceza kesmek",
+      "Çocuğu zorla okula götürmek",
+      "Veli ve okul idarelerine yardım etmek ve tedbir almak",
+      "Devamsızlık çizelgesi tutmak",
+      "Okul önünde nöbet tutmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap C) Veli ve okul idarelerine yardım etmek ve tedbir almak.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-52-ydsj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Devamsızlık yapan öğrencinin mazeretinin giderilmesi mümkün değilse (yoksulluk vb.) durum köylerde kime bildirilir?",
+    "options": [
+      "Kaymakama",
+      "Jandarmaya",
+      "Sosyal Yardımlaşma Vakfına",
+      "Muhtara",
+      "Okul Aile Birliğine"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 53: Devamsızlık sebepleri okul idareleri ve ilköğretim müfettişlerince araştırılır; giderilemiyorsa köylerde muhtara, diğer yerlerde mülki amire bildirilir. Bu nedenle doğru cevap D) Muhtara.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-53-uio9",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Aşağıdaki durumlardan hangisinde öğrenci “izinli” sayılır?",
+    "options": [
+      "Velisi okula bildirmeyi unuttuğunda",
+      "Öğrenci ders çalışmak istediğinde",
+      "Hasat zamanında (İzin almaksızın)",
+      "Özel kursa gittiğinde",
+      "Okul idaresince takdir edilecek sel, kar, deprem gibi sebeplerle"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 55: Hastalık, sel, kar, deprem, yangın gibi sebepler izinli sayılmayı sağlar; diğer devamsızlık hâllerinde veliye en geç üç gün içinde tebliğ yapılarak idari para cezası bildirimi yapılır. Bu nedenle doğru cevap E) Okul idaresince takdir edilecek sel, kar, deprem gibi sebeplerle.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-54-8z6m",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "İlköğretim kurumlarına devam ettiklerini belgeleyen çocuklar, ders zamanları dışında çalışsalar bile bu hangi şartla mümkündür?",
+    "options": [
+      "Velinin yazılı izniyle",
+      "Okul müdürünün izniyle",
+      "Günde 10 saati geçmemek şartıyla",
+      "Sadece tarım işlerinde",
+      "Çocukların çalıştırılmasını düzenleyen kanun hükümlerine uymak şartıyla"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap E) Çocukların çalıştırılmasını düzenleyen kanun hükümlerine uymak şartıyla.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-55-22j1",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Çocuğunun okula gidemediği durumlarda veli, en geç .................... gün içinde durumu okul idaresine bildirmelidir.",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "1",
+      "7"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap A) 3.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-56-lopi",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Ailede ölüm, düğün, tarım gibi sebeplerle öğrencilere bir yıl içinde okul idaresince .................... günü geçmemek üzere izin verilebilir.",
+    "options": [
+      "5",
+      "15",
+      "20",
+      "30",
+      "10"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 54: Ailede ölüm, yaralanma, düğün, askere gitme, tarım ve benzeri sebeplerle bir yılda 15 günü geçmemek üzere izin verilebilir. Bu nedenle doğru cevap B) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-57-rj15",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okula devam etmeyen öğrenci velisine idari para cezasını .................... verir.",
+    "options": [
+      "İlçe Eğitim Müdürü",
+      "Okul Müdürü",
+      "Mahalli Mülki Amir (Vali/Kaymakam)",
+      "İl Daimi Komisyonu",
+      "Köy İhtiyar Heyeti"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap C) Mahalli Mülki Amir (Vali/Kaymakam).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-58-nc8c",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "Okul idareleri ve mülki amirlerce sorulan sorulara gerçeğe aykırı beyanda bulunanlara .................... para cezası verilir.",
+    "options": [
+      "Tazmini",
+      "İdari",
+      "Disiplin",
+      "Mali",
+      "Adli"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 57: Usulen sorulan sorulara cevap vermekten kaçınan veya gerçeğe uymayan beyanda bulunanlara 100 TL idari para cezası verilir. Bu nedenle doğru cevap B) İdari.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-59-qkyh",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "İlköğretim çağında olup okula devam etmeyenler, hiçbir işte .................... .",
+    "options": [
+      "Yalnız hafta sonu çalıştırılabilir",
+      "Çalıştırılabilir",
+      "Çalıştırılamaz",
+      "Sadece tarımda çalıştırılabilir",
+      "Veli izniyle çalıştırılabilir"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 59: Devam etmeyen çocukların çalıştırılmasına ve izinsiz kurslara ilişkin yasaklar ile 400-1000 TL idari para cezası düzenlenmiş; Kanundaki idari para cezalarının mahallî mülkî amirce verileceği belirtilmiştir. Bu nedenle doğru cevap C) Çalıştırılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-6-0t9e",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Her öğrenci velisi yahut vaisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özür yüzünden okula gidemeyen çocuğun durumunu en geç 4 gün içinde okul idaresine bildirmekle yükümlüdür.",
+      "Çocuğun ailesi yanında kalmasını gerektiren,ailede ölüm, yaralanma, düğün, askere gitme, bağ,bahçe, tarla gibi sebeplerle öğrencilere bir yıl içinde 15 günü geçmemek üzere okul idarelerince izin verilir.",
+      "Meyhane,kahvehane,kıraathane,bar ve elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az 100 metre uzaklıkta bulunması zorunludur.",
+      "Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere,bir uygulama bahçesi bulunur.",
+      "Okul binalarının tamamı, bir kısmı veya müştemilatı konut olarak kullanılamaz."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap A) Her öğrenci velisi yahut vaisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özür yüzünden okula gidemeyen çocuğun durumunu en geç 4 gün içinde okul idaresine bildirmekle yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-7-s4qj",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere, bir uygulama bahçesi bulunur.",
+      "Çocuğun ailesi yanında kalmasını gerektiren, ailede ölüm,yaralanma, düğün, askere gitme, bağ, bahçe, tarla gibi sebeplerle öğrencilere bir yıl içinde 15 günü geçmemek üzere okul idarelerince izin verilir.",
+      "Meyhane,kahvehane,kıraathane,bar ve elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az 100 metre uzaklıkta bulunması zorunludur.",
+      "Her öğrenci velisi yahut valisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özür yüzünden okula gidemeyen çocuğun durumunu en geç 5 gün içinde okul idaresine bildirmekle yükümlüdür.",
+      "Okullar için tahsis, satın alma veya kamulaştırma yoluyle sağlanan topraklarla bu topraklar üzerinde yapılacak bina veya tesisler, bulundukları yerlere göre köy veya özel idareler adına tapuya tescil edilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 52: Veli/vasi/aile başkanı devamı sağlamak ve özür durumunu en geç üç gün içinde bildirmekle yükümlüdür; mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı yardım ve tedbirle görevlidir. Bu nedenle doğru cevap D) Her öğrenci velisi yahut valisi veya aile başkanı çocuğunun mecburi ilköğretim kurumuna muntazaman devamını sağlamakla ve özür yüzünden okula gidemeyen çocuğun durumunu en geç 5 gün içinde okul idaresine bildirmekle yükümlüdür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-8-n20b",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre muhtarlıkça veya mülki amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye, okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için kaç Türk Lirası idari para cezası verilir?",
+    "options": [
+      "30",
+      "25",
+      "20",
+      "15",
+      "10"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 56: Tebliğe rağmen okula göndermeyen veli veya vasiye her devamsız gün için 15 TL; buna rağmen göndermemeye devam eden veya sebebi bildirmeyene 500 TL idari para cezası verilir. Bu nedenle doğru cevap D) 15.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okula-devam-mtn7c4js-9-p6s3",
+    "topic_id": "law-222-section-okula-devam",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okula devam etmeyen öğrencilerin devamsızlık sebepleri aşağıdakilerden hangisi tarafından “öncelikli” araştırılarak devama engel olan maddi ve manevi sebeplerin giderilmesine çalışılır?",
+    "options": [
+      "Mülki amirler",
+      "Zabıta teşkilatı",
+      "Okul idareleri ve ilköğretim müfettişleri",
+      "Muhtarlar",
+      "Yalnız okul idaresi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 53: Devamsızlık sebepleri okul idareleri ve ilköğretim müfettişlerince araştırılır; giderilemiyorsa köylerde muhtara, diğer yerlerde mülki amire bildirilir. Bu nedenle doğru cevap C) Okul idareleri ve ilköğretim müfettişleri.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:24.909512+00:00",
+    "updated_at": "2026-09-04T17:02:24.909512+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-0-p2km",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her köy okulunun bitişiğinde veya yakınında kaç dekardan az ve kaç dekardan çok olmamak üzere bir uygulama bahçesi bulunur?",
+    "options": [
+      "4 dekardan az ve 14 dekardan çok olmamak üzere",
+      "3 dekardan az ve 12 dekardan çok olmamak üzere",
+      "2 dekardan az ve 10 dekardan çok olmamak üzere",
+      "5 dekardan az ve 15 dekardan çok olmamak üzere",
+      "10 dekardan az ve 20 dekardan çok olmamak üzere"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap C) 2 dekardan az ve 10 dekardan çok olmamak üzere.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-1-xd7q",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okula gelir sağlamak maksadıyla seçilen topraklar kaç dekardan fazla olamaz?",
+    "options": [
+      "10",
+      "200",
+      "100",
+      "50",
+      "1000"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 62: Kamuya ait seçilen arazilerin onayla parasız okula tahsis edilmesi ve okula gelir sağlamak için seçilen toprakların 50 dekardan fazla olamaması düzenlenmiştir. Bu nedenle doğru cevap D) 50.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-10-pydn",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, “uygulama bahçeleri” hakkında verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Uygulama bahçesinde bölge özelliklerine göre kurulacak tesislerin nelerden ibaret olacağı köy ihtiyar heyeti tarafından kararlaştırılır.",
+      "Her köy okulunun bitişiğinde veya yakınında 10 dekardan az olmamak üzere, bir uygulama bahçesi bulunur.",
+      "Uygulama bahçelerinden elde edilen gelir veya ürünler okul ihtiyaçlarına ve öğrenci beslenmesine sarfedilmek üzere köy bütçelerine gelir kaydedilir.",
+      "Uygulama bahçesinin işletilmesi için gerekli tohum, fidan ve tarım araçları gibi ihtiyaçları köy bütçesinden ve okul arazisi gelirinden sağlanır.",
+      "Okulların uygulama bahçesinde tarım dersleri uygulaması yapılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap B) Her köy okulunun bitişiğinde veya yakınında 10 dekardan az olmamak üzere, bir uygulama bahçesi bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-11-nq0k",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okula gelir sağlamak maksadıyla seçilen topraklar en fazla kaç dekar olabilir?",
+    "options": [
+      "50",
+      "30",
+      "40",
+      "25",
+      "100"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 62: Kamuya ait seçilen arazilerin onayla parasız okula tahsis edilmesi ve okula gelir sağlamak için seçilen toprakların 50 dekardan fazla olamaması düzenlenmiştir. Bu nedenle doğru cevap A) 50.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-12-npbs",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her köy okulunun bitişiğinde veya yakınında bulunması gereken uygulama bahçesi en fazla kaç dekar olabilir?",
+    "options": [
+      "25",
+      "10",
+      "40",
+      "50",
+      "100"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap B) 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-13-4hkm",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "“Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için ……. ila ……... Metre karelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır.” 222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelir?",
+    "options": [
+      "200-400",
+      "500-1000",
+      "400-800",
+      "750-1500",
+      "300-600"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap B) 500-1000.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-14-7ej3",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıda verilen bilgilerden hangisi doğru bir ifade değildir?",
+    "options": [
+      "Köy okulları ile öğretmen lojmanlarının şehir ve kasabalarda yaptırılacak ilköğretim okullarının her türlü ihtiyaçları için köy veya kasaba içinde veya civarındaki araziden şahsi haklar mahfuz kalmak şartiyle, tedarik edilecek taş, kum ve kireç gibi yapı gereçlerinden hiçbir resim alınmaz.",
+      "İlköğretim kurumları için yaptırılacak bina ve tesislerle öğretmen lojmanları ve onarma işlerinde gerekli tuğla yapmak, kireç yakmak ve söndürmek, taş çıkarmak, iskele kurmak, kaldırımları işgal etmek gibi hususlarda girişilen işler serbest ve hiçbir resme tabi olmaksızın yapılır. Bu maksatla açılan çukurlar iş bitince kapatılır.",
+      "Uygulama bahçelerinden elde edilen gelir veya ürünler okul ihtiyaçlarına ve öğrenci beslenmesine sarfedilmek üzere köy bütçelerine gelir kaydedilir.",
+      "Her köy okulunun bitişiğinde veya yakınında 10 dekardan az ve 50 dekardan çok olmamak üzere, bir uygulama bahçesi bulunur.",
+      "İlköğretim okulu öğretmenlerinin oturmaları için yapılmış ve yapılacak konutlardan köylerde olanlar, ögretmenlere parasız olarak tahsis olunur ve başka iş için kullanılamaz."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap D) Her köy okulunun bitişiğinde veya yakınında 10 dekardan az ve 50 dekardan çok olmamak üzere, bir uygulama bahçesi bulunur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-15-f5b9",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıda verilen alanlara sahip topraklardan hangisi okula gelir sağlamak maksadıyla seçilen topraklardan olamaz? (2020)",
+    "options": [
+      "15 dekar",
+      "55 dekar",
+      "35 dekar",
+      "45 dekar",
+      "25 dekar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 62: Kamuya ait seçilen arazilerin onayla parasız okula tahsis edilmesi ve okula gelir sağlamak için seçilen toprakların 50 dekardan fazla olamaması düzenlenmiştir. Bu nedenle doğru cevap B) 55 dekar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-16-vy7v",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için - - - - ila - - - - metrekarelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdaki hükümde boş bırakılan yerlere sırasıyla hangileri getirilmelidir? (2020)",
+    "options": [
+      "100 - 500",
+      "250 - 500",
+      "500 - 1000",
+      "400 - 750",
+      "750 - 2000"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap C) 500 - 1000.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-17-nnle",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Bir köy ilkokulunun bitişiğinde bir uygulama bahçesi planlanmaktadır. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre planlanan uygulama bahçesinin alanı ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "10 dekardan az, 50 dekardan fazlaolamaz",
+      "10 dekardan az, 100 dekardan fazla olamaz",
+      "2 dekardan az, 10 dekardan fazla olamaz",
+      "2 dekardan az, 50 dekardan fazla olamaz",
+      "50 dekardan az, 100 dekardan fazla olamaz"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap C) 2 dekardan az, 10 dekardan fazla olamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-18-ol90",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her köy okulunun bitişiğinde veya yakınında bulunan uygulama bahçesi kaç dekardan çok olamaz?",
+    "options": [
+      "2",
+      "3",
+      "10",
+      "5",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap C) 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-19-mblw",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “Satın alma veya kamulaştırmak, köy okulları için,…………………… şehir ve kasaba okulları için………………. özel idareye aittir.” Noktalı yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "Köy Tüzel Kişiliği, Özel İdare",
+      "Özel idare, İl- İlçe Milli Eğitim Müdürlüğü",
+      "Köy Tüzel Kişiliği, İl- İlçe Milli Eğitim Müdürlüğü",
+      "Özel İdare, Büyükşehir Belediye Başkanlığı",
+      "Özel İdare, Milli Emlak Müdürlüğü"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap A) Köy Tüzel Kişiliği, Özel İdare.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-2-pkxl",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az 100 metre uzaklıkta bulunması zorunludur.",
+      "Turizmin yoğun olduğu yörelerdeki okulların tatil olduğu dönemlerde yukarıda belirtilen işyerleri ile okullar arasında 100 metre şartı aranmaz.",
+      "Şehir, kasaba ve köy okulları arsalarıyla köy okullarına gelir sağlayacak arazi ve uygulama bahçeleri için lüzumlu topraklar, il ve ilçelerde bölge ilköğretim müfettişlerinin veya ilçe eğitim müdürünün başkanlığında Tarım, Tapu, Maliye dairelerinden görevlendirilecek birer eleman ile mahalle veya köy muhtarından teşekkül edecek komisyon tarafından seçilir.",
+      "Bununla ilgili esaslar İçişleri, Milli Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacakları yönetmelikle belirlenir.",
+      "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 100 ila 200 metrekarelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap E) Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 100 ila 200 metrekarelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-20-nhmr",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, okul binaları ile belirli umuma açık yerler arasındaki 100 metre mesafe kuralına ilişkin esasları müştereken hazırlayacak bakanlıklar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Milli Eğitim Bakanlığı",
+      "Sağlık Bakanlığı",
+      "Gümrük ve Ticaret Bakanlığı",
+      "Kültür ve Turizm Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap D) Gümrük ve Ticaret Bakanlığı.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-21-vfed",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, ilköğretim okuluna tahsis edilmek üzere komisyonca seçilen Devlete, özel idarelere, belediyelere veya köy tüzel kişiliğine ait arazinin miktar ve yerini gösteren birer tutanak düzenlenerek valilik yolu ile ve arazinin aidiyetine göre Maliye Bakanlığının veya diğer idarelerin yetkili mercilerine gönderilir. Bu makamların tasdiki ile arazi parasız olarak okula tahsis olunur. Okula gelir sağlamak maksadıyla seçilen topraklar en fazla kaç dekardır?",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "150",
+      "500"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 62: Kamuya ait seçilen arazilerin onayla parasız okula tahsis edilmesi ve okula gelir sağlamak için seçilen toprakların 50 dekardan fazla olamaması düzenlenmiştir. Bu nedenle doğru cevap B) 50.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-22-uhzk",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her köy okulunun bitişiğinde veya yakınında kaç dekardan az ve kaç dekardan çok olmamak üzere bir uygulama bahçesi bulunur?",
+    "options": [
+      "5 20",
+      "2 5",
+      "3 10",
+      "2 10",
+      "4 15"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap D) 2 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-23-nsxu",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "I. Köy okulları için muhtara II. Şehir ve kasaba okulları için özel idareye III. Köy okulları için köy tüzel kişiliğine IV. Şehir ve kasaba okulları için belediye başkanına 222 sayılı İlköğretim ve Eğitim Kanunu’na göre okul için gerekli toprakları satın alma veya kamulaştırma yetkisi yukarıda verilenlerden hangilerine aittir?",
+    "options": [
+      "I ve II",
+      "II ve IV",
+      "I ve III",
+      "I ve IV",
+      "II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap E) II ve III.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-24-zt1z",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması zorunludur?",
+    "options": [
+      "500m",
+      "150 m",
+      "200 m",
+      "300 m",
+      "100 m"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap E) 100 m.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-25-zs69",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için kaç metrekare arası bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlayacak araziden ayrılır?",
+    "options": [
+      "100-200",
+      "500-1000",
+      "200-400",
+      "300-500",
+      "100-1500"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap B) 500-1000.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-26-8ytv",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okulun yakınında bulunan uygulama bahçesi kaç dekardan az olamaz?",
+    "options": [
+      "50",
+      "5",
+      "10",
+      "30",
+      "2"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap E) 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-27-2anx",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okul için lüzumlu olduğuna karar verilen toprakların satın alma veya kamulaştırma işleri şehir ve kasaba okulları için aşağıdaki kurumlardan hangisi tarafından yapılır?",
+    "options": [
+      "Valilik",
+      "Özel İdare",
+      "Belediye başkanlığı",
+      "Defterdarlık",
+      "Milli Eğitim Müdürlüğü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap B) Özel İdare.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-28-4l39",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Her köy okulunun bitişiğinde veya yakınında … dekardan az ve … dekardan çok olmamak üzere bir uygulama bahçesi bulunur. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre boşluklara sırasıyla hangisi getirilmelidir?",
+    "options": [
+      "2-12",
+      "1-10",
+      "3-12",
+      "2-10",
+      "3-10"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap D) 2-10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-29-m4a2",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre meyhane, kahvehane, kıraathane ve açık alkollü içki satılan yerlerin (turizmin yoğun olduğu yöreler hariç) okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması şartı aranır?",
+    "options": [
+      "100",
+      "Şart aranmaz",
+      "50",
+      "200",
+      "500"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap A) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-3-khe4",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması zorunludur?",
+    "options": [
+      "100 metre",
+      "50 metre",
+      "150 metre",
+      "200 metre",
+      "500 metre"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap A) 100 metre.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-30-lsdc",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ve açık alkollü içki satılan yerler ile okul binaları arasındaki kapıdan kapıya mesafe kural olarak en az kaç metre olmalıdır?",
+    "options": [
+      "50",
+      "250",
+      "150",
+      "100",
+      "200"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap D) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-31-l7ns",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre okulların arsa ve arazi işleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Uygulama bahçesinde bölge özelliklerine göre kurulacak tesislerin nelerden ibaret olacağı Gıda Tarım ve Hayvancılık İl Müdürlüğü tarafından belirlenir.",
+      "Okula gelir sağlamak maksadıyla seçilen topraklar, 50 dekardan fazla olamaz.",
+      "Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere bir uygulama bahçesi bulunur.",
+      "Satın alma veya kamulaştırmak, köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir.",
+      "Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin okul binalarından kapıdan kapıya en az 100 metre uzaklıkta bulunması zorunludur."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 68: Uygulama bahçesinde tarım dersleri yapılır; gelir/ürün köy bütçesine kaydedilerek okul ihtiyaçları ve öğrenci beslenmesine sarf edilir; tesisleri köy ihtiyar heyeti belirler. Bu nedenle doğru cevap A) Uygulama bahçesinde bölge özelliklerine göre kurulacak tesislerin nelerden ibaret olacağı Gıda Tarım ve Hayvancılık İl Müdürlüğü tarafından belirlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-32-a0ym",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "I. Kahvehane, II. Kıraathane, III. Elektronik oyun merkezi. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre hangileri ile okullar arasında kapıdan kapıya en az 100 metre mesafe olması gerekir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap E) I, II ve III.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-33-8hha",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre uygulama bahçesinde bölge özelliklerine göre kurulacak tesislerin nelerden ibaret olacağı aşağıdakilerden hangisi tarafından kararlaştırılır?",
+    "options": [
+      "Vali",
+      "Köy ihtiyar heyeti",
+      "İl idare kurulu",
+      "Özel idare",
+      "İl milli eğitim müdürü"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 68: Uygulama bahçesinde tarım dersleri yapılır; gelir/ürün köy bütçesine kaydedilerek okul ihtiyaçları ve öğrenci beslenmesine sarf edilir; tesisleri köy ihtiyar heyeti belirler. Bu nedenle doğru cevap B) Köy ihtiyar heyeti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-34-3o74",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Her köy okulunun bitişiğinde veya yakınında … dekardan az ve … dekardan çok olmamak üzere bir uygulama bahçesi bulunur. Boşluklara sırasıyla hangisi getirilmelidir?",
+    "options": [
+      "3-12",
+      "3-10",
+      "1-12",
+      "2-12",
+      "2-10"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap E) 2-10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-35-riln",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “okulların arsa ve arazi işleri” ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 500 ila 1000 metrekarelik bir arazi öğretmen bahçesi olmak üzere ayrılır.",
+      "Okula gelir sağlamak maksadıyla seçilen topraklar 60 dekardan fazla olamaz.",
+      "Her köy okulunun bitişiğinde veya yakınında 1 dekardan az ve 5 dekardan çok olmamak üzere uygulama bahçesi bulunur.",
+      "Satın alma veya kamulaştırmak, köy okulları için köy muhtarlığına aittir.",
+      "Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi yerler ile okullar arasında en az 200 metre mesafe bulunur."
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap A) Köy okullarına bitişik öğretmen lojmanlarıyla müstakil öğretmen lojmanlarının dolayında her ev için 500 ila 1000 metrekarelik bir arazi öğretmen bahçesi olmak üzere ayrılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-36-j7u8",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Meyhane, kahvehane, kıraathane gibi yerlerin okul binalarına kapıdan kapıya en az ne kadar uzaklıkta olması zorunludur?",
+    "options": [
+      "50 metre",
+      "200 metre",
+      "150 metre",
+      "100 metre",
+      "500 metre"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap D) 100 metre.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-37-yb3x",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Turizmin yoğun olduğu yörelerdeki okullar için 100 metre şartı hangi durumda aranmaz?",
+    "options": [
+      "İşletme sahibi izin alırsa",
+      "Turizm sezonu boyunca",
+      "Yabancı turistlere hizmet veriliyorsa",
+      "Okul Aile Birliği onay verirse",
+      "Okulların tatil olduğu dönemlerde"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap E) Okulların tatil olduğu dönemlerde.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-38-zhzi",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Her köy okulunun uygulama bahçesi kaç dekardan az, kaç dekardan çok olamaz?",
+    "options": [
+      "2 - 10",
+      "10 - 20",
+      "5 - 15",
+      "1 - 5",
+      "5 - 50"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap A) 2 - 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-39-xwkb",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okulları lojmanlarına ait öğretmen bahçesi için ayrılan arazi miktarı ne kadardır?",
+    "options": [
+      "100 - 200 m²",
+      "500 - 1000 m²",
+      "1 - 2 dekar",
+      "1000 - 2000 m²",
+      "250 - 500 m²"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap B) 500 - 1000 m².",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-4-psnb",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre şehir, kasaba ve köy okulları arsalarıyla köy okullarına gelir sağlayacak arazi ve uygulama bahçeleri için gerekli toprakları seçmek üzere kurulan komisyonda aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "Tarım dairesinden görevlendirilecek bir eleman",
+      "Öğretmen",
+      "Maliye dairesinden görevlendirilecek bir eleman",
+      "Tapu dairesinden görevlendirilecek bir eleman",
+      "İl ve ilçelerde bölge ilköğretim müfettişi"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap B) Öğretmen.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-40-uz26",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul yapımı için seçilecek arazileri belirleyen komisyona kim başkanlık eder?",
+    "options": [
+      "Vali",
+      "Kaymakam",
+      "Bölge İlköğretim Müfettişi veya İlçe Eğitim Müdürü",
+      "Tapu Müdürü",
+      "Belediye Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap C) Bölge İlköğretim Müfettişi veya İlçe Eğitim Müdürü.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-41-b7yf",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul binalarının ve tesislerinin daimi bakım ve onarım giderleri nereden karşılanır?",
+    "options": [
+      "Bulundukları yere göre Özel İdare veya Köy Bütçesi",
+      "Genel Bütçe",
+      "Vakıflar",
+      "Okul Aile Birliği",
+      "Bağışlar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 65: Okul toprakları ve üzerindeki bina/tesisler köy veya özel idare adına tescil edilir; daimi bakım ve onarım giderleri ilgili köy veya özel idare bütçesinden karşılanır. Bu nedenle doğru cevap A) Bulundukları yere göre Özel İdare veya Köy Bütçesi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-42-mlh4",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına gelir sağlamak üzere tahsis edilen araziden elde edilen gelir nereye kaydedilir?",
+    "options": [
+      "Milli Eğitim Bakanlığına",
+      "İl Özel İdaresine",
+      "Köy bütçesine gelir kaydedilir",
+      "Okul Aile Birliği hesabına",
+      "Öğretmenin hesabına"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap C) Köy bütçesine gelir kaydedilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-43-aks9",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul yapımı için kamulaştırma (istimlak) gerekirse, bu işlem şehir ve kasaba okulları için kime aittir?",
+    "options": [
+      "Özel İdare’ye",
+      "Milli Eğitim Bakanlığı’na",
+      "Okul Aile Birliği’ne",
+      "Belediye’ye",
+      "Vakıflar Genel Müdürlüğü’ne"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap A) Özel İdare’ye.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-44-ze2c",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okulları için kamulaştırma işlemi kime aittir?",
+    "options": [
+      "Muhtara şahsen",
+      "Köy Tüzel Kişiliğine",
+      "İl Özel İdaresine",
+      "Tarım Bakanlığına",
+      "Kaymakamlığa"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap B) Köy Tüzel Kişiliğine.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-45-mgab",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okulların uygulama bahçesinde yapılan tarım dersleri uygulamasından elde edilen gelir nereye kaydedilir?",
+    "options": [
+      "Öğretmenlerin hesabına",
+      "Okulun döner sermayesine",
+      "Köy bütçesine",
+      "İlçe Milli Eğitim hesabına",
+      "Maliye hazinesine"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 68: Uygulama bahçesinde tarım dersleri yapılır; gelir/ürün köy bütçesine kaydedilerek okul ihtiyaçları ve öğrenci beslenmesine sarf edilir; tesisleri köy ihtiyar heyeti belirler. Bu nedenle doğru cevap C) Köy bütçesine.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-46-xy03",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı Kanuna göre, köy okullarının arsa ve arazi işleri komisyonunda aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Okul Müdürü",
+      "Tarım dairesinden bir eleman",
+      "Tapu dairesinden bir eleman",
+      "İlköğretim müfettişi veya İlçe Eğitim Müdürü",
+      "Maliye dairesinden bir eleman"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap A) Okul Müdürü.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-47-wgcp",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına tahsis edilen arazilerin işletilmesi veya kiraya verilmesi kimin kararı ile olur?",
+    "options": [
+      "Okul Müdürü",
+      "Köy İhtiyar Heyeti",
+      "İlçe Milli Eğitim Müdürü",
+      "Kaymakam",
+      "Ziraat Odası"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap B) Köy İhtiyar Heyeti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-48-d9ra",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına ait araziden elde edilen gelir ne için sarf edilir?",
+    "options": [
+      "Köyün yol yapımına",
+      "Muhtarlık giderlerine",
+      "Okul ihtiyaçlarına",
+      "Cami yapımına",
+      "Öğretmenin maaşına"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap C) Okul ihtiyaçlarına.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-49-ryhi",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Aşağıdakilerden hangisi okul arsası seçimi yapılırken dikkat edilecek hususlardan biridir?",
+    "options": [
+      "Sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması",
+      "Şehir merkezine en uzak nokta olması",
+      "Arsanın ucuz olması",
+      "Arsanın manzarası",
+      "Müteahhitlere yakın olması"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap A) Sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-5-ph6t",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, okul arsaları ve arazi seçiminde hangi daireden personel bulunmaz?",
+    "options": [
+      "Maliye",
+      "Tapu",
+      "Özel İdare",
+      "Tarım",
+      "İlçe eğitim müdürünü"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap C) Özel İdare.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-50-3qyr",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı kanuna göre köylerde ilköğretime tahsis edilen gayrimenkullerin tapu işlemleri için ne ödenmez?",
+    "options": [
+      "Emlak vergisi",
+      "Dosya parası",
+      "Döner sermaye ücreti",
+      "Vergi, harç ve resim",
+      "Hizmet bedeli"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap D) Vergi, harç ve resim.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-51-ol26",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okulu arazisinden sağlanan gelirler başka bir amaçla kullanılabilir mi?",
+    "options": [
+      "Hayır, köy bütçesine gelir kaydedilir ancak okul ihtiyaçlarına sarf edilir",
+      "Evet, muhtarlık giderlerinde",
+      "Evet, kaymakam izin verirse",
+      "Evet, cami yapımında",
+      "Evet, ihtiyar heyeti kararıyla yol yapımında"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap A) Hayır, köy bütçesine gelir kaydedilir ancak okul ihtiyaçlarına sarf edilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-52-toui",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre öğretmen bahçeleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Öğretmenler bu bahçelerden parasız faydalanırlar.",
+      "Öğretmenler bu bahçeleri kiraya veya ortaklığa verebilirler.",
+      "Arazi okul arsasından, uygulama bahçesinden veya okula gelir sağlayacak araziden ayrılabilir.",
+      "Öğretmen bahçesi, köy okullarına bitişik veya müstakil öğretmen lojmanlarının dolayında ayrılır.",
+      "Her ev için 500 ila 1000 metrekarelik bir arazi öğretmen bahçesi olarak ayrılır."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap B) Öğretmenler bu bahçeleri kiraya veya ortaklığa verebilirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-53-ey15",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Meyhane, kahvehane gibi yerlerin okul binalarından kapıdan kapıya en az .................... metre uzaklıkta bulunması zorunludur.",
+    "options": [
+      "50",
+      "200",
+      "150",
+      "100",
+      "500"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap D) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-54-lyuu",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarının uygulama bahçesi .................... dekardan az olamaz.",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap E) 2.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-55-s3qj",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okula gelir sağlamak amacıyla seçilen topraklar .................... dekardan fazla olamaz.",
+    "options": [
+      "50",
+      "30",
+      "40",
+      "20",
+      "100"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 62: Kamuya ait seçilen arazilerin onayla parasız okula tahsis edilmesi ve okula gelir sağlamak için seçilen toprakların 50 dekardan fazla olamaması düzenlenmiştir. Bu nedenle doğru cevap A) 50.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-56-7vxf",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul yapımı için seçilecek arazileri belirleyen komisyona .................... veya İlçe Eğitim Müdürü başkanlık eder.",
+    "options": [
+      "Mahalli Mülki Amir (Vali/Kaymakam)",
+      "İlçe Eğitim Müdürü",
+      "Okul Müdürü",
+      "İlköğretim Müfettişi",
+      "İl Daimi Komisyonu"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap D) İlköğretim Müfettişi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-57-kxvb",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul binaları ile kahvehaneler arasındaki 100 metre şartı, .................... yoğun olduğu yörelerde okulların tatil olduğu dönemlerde aranmaz.",
+    "options": [
+      "Sanayinin",
+      "Turizmin",
+      "Tarımın",
+      "Nüfusun",
+      "Ticaretin"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap B) Turizmin.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-58-8rms",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Öğretmen bahçeleri, öğretmenler tarafından .................... verilemez.",
+    "options": [
+      "Satılamaz",
+      "Devredilemez",
+      "Tahsis edilemez",
+      "Kiraya (veya ortaklığa)",
+      "Bağışlanamaz"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap D) Kiraya (veya ortaklığa).",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-59-zzuf",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okullarına gelir sağlayan arazilerin işletilmesi .................... tarafından kararlaştırılır.",
+    "options": [
+      "Okul Müdürü",
+      "Milli Eğitim Bakanlığı",
+      "Valilik",
+      "Yönerge",
+      "Köy İhtiyar Heyeti"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 66: Köy okulu arazileri köy ihtiyar heyeti kararı ve vali/kaymakam onayıyla işletilir veya kiraya verilir; gelir okul ihtiyaçlarına sarf edilmek üzere köy bütçesine kaydedilir; ilgili taşınmaz işlemlerinden vergi, harç ve resim alınmaz. Bu nedenle doğru cevap E) Köy İhtiyar Heyeti.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-6-0e3q",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “Şehir, kasaba ve köy okulları arsalarıyla köy okullarına gelir sağlayacak arazi ve uygulama bahçeleri için lüzumlu topraklar, il ve ilçelerde bölge ilköğretim müfettişlerinin veya ilçe Milli Eğitim Müdürünün Başkanlığında” teşekkül edecek komisyonda aşağıdaki görevlilerden hangisi bulunmaz?",
+    "options": [
+      "Tarım görevlisi",
+      "Tapu görevlisi",
+      "Maliye görevlisi",
+      "Sağlık görevlisi",
+      "Mahalle veya köy muhtarından teşekkül edecek komisyon"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap D) Sağlık görevlisi.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-60-vwww",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Okul arazisi seçimi komisyonunda Tarım, Tapu ve .................... dairelerinden birer eleman bulunur.",
+    "options": [
+      "Mahalli Mülki Amir (Vali/Kaymakam)",
+      "Okul Müdürü",
+      "İlçe Eğitim Müdürü",
+      "İl Daimi Komisyonu",
+      "Maliye"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 60: Okul arsaları ile arazi ve uygulama bahçesi için topraklar; bölge ilköğretim müfettişi veya ilçe eğitim müdürü başkanlığında Tarım, Tapu, Maliye temsilcileri ve muhtardan oluşan komisyonca seçilir. Bu nedenle doğru cevap E) Maliye.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-61-yqsu",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Şehir okulları için kamulaştırma görevi .................... İdaresine aittir.",
+    "options": [
+      "Özel",
+      "Genel",
+      "Belediye",
+      "Köy",
+      "Milli Eğitim"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap A) Özel.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-62-z52b",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okulları için kamulaştırma görevi .................... Tüzel Kişiliğine aittir.",
+    "options": [
+      "İl",
+      "Köy",
+      "İlçe",
+      "Belediye",
+      "Devlet"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap B) Köy.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-63-9w13",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "Köy okulu lojmanları civarında öğretmen bahçesi olmak üzere .................... ile 1000 metrekare arası arazi ayrılır.",
+    "options": [
+      "100",
+      "200",
+      "400",
+      "1000",
+      "500"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 67: Öğretmen lojmanları çevresinde her ev için 500-1000 m² öğretmen bahçesi ayrılır; öğretmenler parasız yararlanır ancak kiraya veya ortaklığa veremez. Bu nedenle doğru cevap E) 500.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-7-f2gh",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre açık alkollü içki satılan yerlerin, (turizmin yoğun olduğu yöreler hariç) okul binalarından kapıdan kapıya en az kaç metre uzaklıkta bulunması zorunludur?",
+    "options": [
+      "50",
+      "400",
+      "150",
+      "200",
+      "100"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 61: Okul binalarının sağlık, eğitim-öğretim ve ulaşım bakımından elverişli olması; belirli işyerleriyle en az 100 metre mesafe; turizm istisnası ve ilgili dört bakanlık düzenlenmiştir. Bu nedenle doğru cevap E) 100.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-8-13xj",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre her köy okulunun bitişiğinde veya yakınında kaç dekardan çok olmamak üzere, bir uygulama bahçesi bulunur?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "15",
+      "50"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 64: Her köy okulunun bitişiğinde veya yakınında 2 dekardan az ve 10 dekardan çok olmamak üzere uygulama bahçesi bulunur. Bu nedenle doğru cevap C) 10.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri-mtn7c9qk-9-2wdv",
+    "topic_id": "law-222-section-okullar-n-arsa-ve-arazi-i-leri",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre, köy okulları için lüzumlu topraklann satın alma veya kamulaştırma işlerini aşağıdakilerden hangisi yapar?",
+    "options": [
+      "Valilik",
+      "Kaymakamlık",
+      "İl Özel idare",
+      "Köy tüzel kişiliği",
+      "Köy ihtiyar heyeti"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 63: Tahsis yoluyla sağlanamayan toprakların satın alınması/kamulaştırılması köy okulları için köy tüzel kişiliğine, şehir ve kasaba okulları için özel idareye aittir. Bu nedenle doğru cevap D) Köy tüzel kişiliği.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:31.555497+00:00",
+    "updated_at": "2026-09-04T17:02:31.555497+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-0-mlnv",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar halinde kurulması esastır.",
+      "Nüfusun az veya dağınık olduğu yerlerde; köyler gruplaştırılarak, merkezi durumda olan veya durumu uygun bulunan köylerde ilköğretim bölge okulları ve bunlara bağlı pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde ise yatılı ilköğretim bölge okulları veya gezici okullar açılabilir.",
+      "Gezici okullarda kadrolu öğretmenler görevlendirilir.",
+      "Şehir ve kasabalarda, ihtiyaca göre yatılı veya pansiyonlu okullar kurulabilir.",
+      "Gezici okullarda yetiştirici sınıflar ve kurslar da açılabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap C) Gezici okullarda kadrolu öğretmenler görevlendirilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-1-ob4u",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır",
+    "options": [
+      "Mecburi öğrenim çağını bitirdiği öğretim yılı sonuna kadar ilköğretim okulunu bitiremeyen çocukların ilköğretimlerini tamamlamak üzere en çok iki öğretim yılı daha okula devam izni verilir.",
+      "Okul öncesi kurumları sadece devlet tarafından açılır.",
+      "Her yıl derslere başlamadan en az 15 gün önce,muhtarlar okul müdürüyle iş birliği yaparak köy ve mahallelerdeki mecburi öğrenim çağında bulunan çocuklanın künyelerini gösterir üç nüsha çizelge hazırlar.",
+      "Birleştirilmiş sınıflarda dahil olmak üzere bir öğretmene düşen öğrenci sayısı 40’tan fazla olamaz.",
+      "Geçici öğretmenler, disiplin işleri bakımından, asıl öğretmenlere uygulanan hükümlere tabidirler."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap B) Okul öncesi kurumları sadece devlet tarafından açılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-10-fpyk",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi mecburi ilköğretim kurumları arasında yer almaz?",
+    "options": [
+      "Yatılı ilköğretim okulları",
+      "Gezici okullar",
+      "Tamamlayıcı sınıflar ve kurslar",
+      "Gündüzlü ilköğretim okulları",
+      "Özel eğitimemuhtaç çocuklar için kurulacak okullar ve sınıflar"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap C) Tamamlayıcı sınıflar ve kurslar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-11-bskc",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi isteğe bağlı ilköğretim kurumları arasında yer almaktadır?",
+    "options": [
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar",
+      "Tamamlayıcı sınıflar ve kurslar",
+      "Yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+      "Gezici okullar",
+      "Yatılı ilköğretim okulları"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap B) Tamamlayıcı sınıflar ve kurslar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-12-ywcx",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre nüfusun az veya dağınık olduğu yerlerde gruplaştırmanın mümkün olmadığı yerlerde aşağıdakilerden hangisi açılabilir?",
+    "options": [
+      "Yalnız okul öncesi eğitim kurumları",
+      "Yalnız tamamlayıcı sınıflar ve kurslar",
+      "İlköğretim bölge okulları ve bunlara bağlı pansiyonlar",
+      "Yatılı ilköğretim bölge okulları veya gezici okullar",
+      "Yalnız liseler"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap D) Yatılı ilköğretim bölge okulları veya gezici okullar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-13-7e2o",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre gruplaştırmanın mümkün olmadığı yerlerde yukarıda belirtilen okullardan hangisi veya hangileri açılabilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap C) I ve II.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-14-b4he",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yetiştirici ve tamamlayıcı sınıflar ve kurslar yukarıdakilerden hangisi veya hangileri tarafından açılabilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "II ve III",
+      "II, III ve IV",
+      "I, II, III, IV ve V"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 11: Yetiştirici ve tamamlayıcı sınıf ve kursların amaçları ile bunları açabilecek gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet sayılmıştır. Bu nedenle doğru cevap E) I, II, III, IV ve V.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-15-3hjw",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdakilerden hangileri ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamak üzere veli, vasi veya aile başkanlarına ve okul idarelerine yardım etmek ve her türlü tedbiri almakla görevlidir?",
+    "options": [
+      "Yalnız I.",
+      "Yalnız I ve II.",
+      "I, II ve III.",
+      "Yalnız I ve III.",
+      "Yalnız II ve III."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap C) I, II ve III.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-16-57vm",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi mecburi ilköğretim kurumlarından biri değildir?",
+    "options": [
+      "Okul öncesi eğitim kurumları",
+      "Yatılı ilköğretim okulları",
+      "Gezici okullar",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar",
+      "Yetiştirici ve tamamlayıcı sınıflar ve kurslar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap A) Okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-17-adc8",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre; I. Mülki amirler, II. Okul idaresi, III. İlköğretim müfettişleri, IV. Zabıta teşkilatı, V. Muhtar; yukarıda verilenlerden hangileri ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla vazifelidirler?",
+    "options": [
+      "II ve III",
+      "I, III ve IV",
+      "I ve III",
+      "I ve V",
+      "III, IV ve V"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap B) I, III ve IV.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-18-axz7",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğretim teşkilatı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "İlköğretim, 4 yıl süreli ve zorunlu ilkokul ile 4 yıl süreli ve zorunlu ortaokuldan oluşan bir milli eğitim ve öğretim kurumudur.",
+      "Şehir ve kasabalarda, ihtiyaca göre yatılı ve pansiyonlu okullar kurulabilir.",
+      "İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar halinde kurulması istisnai hallerde mümkündür.",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar, mecburi ilköğretim kurumları arasında yer alır.",
+      "Okul öncesi eğitim kurumları isteğe bağlı eğitim kurumları arasında yer alır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap C) İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar halinde kurulması istisnai hallerde mümkündür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-19-7hyf",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre yetiştirici ve tamamlayıcı sınıflar ve kurslarla ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Mecburi ilköğretim çağında bulundukları halde öğrenimlerini yaşıtlarıyla birlikte zamanında yapmamış çocuklara kısa yolda ilköğrenim vermek.",
+      "Yetişmelerine lüzum görülen çocukları ilköğretim okuluna hazırlamak.",
+      "İlköğretim okulunu bitirmiş olup da henüz mecburi öğrenim çağında bulunan ve üst dereceli öğrenim kurumlarına gidemeyecek olanların genel bilgilerini artırmak.",
+      "Kendilerini iş ve üretim hayatında faydalı olacak bilgi ve maharetleri kazandırmak.",
+      "İlköğrenim çağı dışına çıkmış olup da üst dereceli öğrenim kurumlarına gidememiş olan yurttaşların genel bilgilerini artırmak."
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 11: Yetiştirici ve tamamlayıcı sınıf ve kursların amaçları ile bunları açabilecek gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet sayılmıştır. Bu nedenle doğru cevap E) İlköğrenim çağı dışına çıkmış olup da üst dereceli öğrenim kurumlarına gidememiş olan yurttaşların genel bilgilerini artırmak.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-2-4w28",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "İlköğretim devlet okullarında parasızdır.",
+      "Mecburi ilköğretim çağı 6-14 yaş grubundaki çocukları kapsar.",
+      "Okul öncesi eğitim kurumları isteğe bağlı eğitim kurumu değildir.",
+      "Dört yıl süreli ve zorunlu ilkokul ile dört yıl süreli ve zorunlu ortaokullardan oluşur.",
+      "Asıl ilköğretim okulu öğretmenliğine geçirilen geçici öğretmenlerin, geçici öğretmenlikteki hizmet süreleri ilk terfilerinde gözönüne alınır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap C) Okul öncesi eğitim kurumları isteğe bağlı eğitim kurumu değildir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-20-wty5",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Okul öncesi eğitim kurumları, II. Yetiştirici ve tamamlayıcı sınıf ve kurslar, III. Özel eğitime muhtaç çocuklar için kurulacak okul ve sınıflar. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre hangileri mecburi olmayıp isteğe bağlıdır?",
+    "options": [
+      "I ve III",
+      "Yalnız I",
+      "Yalnız II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap B) Yalnız I.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-21-3rcz",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Tamamlayıcı sınıflar ve kurslar, II. Yetiştirici ve tamamlayıcı sınıflar ve kurslar, III. Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar. Hangileri isteğe bağlı ilköğretim kurumudur?",
+    "options": [
+      "I, II ve III",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "Yalnız I"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12: Mecburi ilköğrenim çağındaki engelli çocukların özel eğitim ve öğretim görmeleri sağlanır. Bu nedenle doğru cevap E) Yalnız I.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-22-e350",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Gezici okullar, II. Yetiştirici ve tamamlayıcı sınıflar ve kurslar, III. Tamamlayıcı sınıflar ve kurslar. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre hangileri mecburi ilköğretim kurumlarındandır?",
+    "options": [
+      "II ve III",
+      "Yalnız III",
+      "Yalnız I",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap D) I ve II.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-23-zxgj",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. İlköğretim okulları, II. Okul öncesi eğitim kurumları, III. Tamamlayıcı sınıflar ve kurslar, IV. Yetiştirici ve tamamlayıcı sınıflar ve kurslar, V. Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre verilenlerden kaç tanesi isteğe bağlı ilköğretim kurumlarındandır?",
+    "options": [
+      "İki",
+      "Üç",
+      "Bir",
+      "Dört",
+      "Beş"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap A) İki.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-24-84hn",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “teşkilat” ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Şehirlerde yatılı veya pansiyonlu okullar kurulamaz.",
+      "Okul öncesi eğitim kurumları mecburi olan ilköğretim kurumlarındandır.",
+      "Okul öncesi kurumları gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet tarafından açılabilir.",
+      "İmkân ve şartlara göre ilkokullar, liselerle birlikte kurulabilir.",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar isteğe bağlı ilköğretim kurumlarındandır."
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap C) Okul öncesi kurumları gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet tarafından açılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-25-2lnw",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. İlköğretim müfettişleri, II. Zabıta teşkilatı, III. Mülki amirler. 222 sayılı İlköğretim ve Eğitim Kanunu’na göre hangileri ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidirler?",
+    "options": [
+      "Yalnız II",
+      "Yalnız II ve III",
+      "Yalnız I ve III",
+      "I, II ve III",
+      "Yalnız I ve II"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap D) I, II ve III.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-26-i0k2",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi isteğe bağlı olan ilköğretim kurumlarındandır?",
+    "options": [
+      "Okul öncesi eğitim kurumları",
+      "Yatılı ilköğretim okulları",
+      "Gündüzlü ilköğretim okulları",
+      "Pansiyonlu ilköğretim okulları",
+      "Gezici okullar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap A) Okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-27-zx5j",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre “teşkilat” ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Şehirlerde yatılı veya pansiyonlu okullar kurulamaz.",
+      "Okul öncesi eğitim kurumları mecburi olan ilköğretim kurumlarındandır.",
+      "İmkân ve şartlara göre ilkokullar, liselerle birlikte kurulabilir.",
+      "Okul öncesi kurumları gerçek ve tüzel kişilerle belediyeler, özel idareler ve Devlet tarafından açılabilir.",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar isteğe bağlı ilköğretim kurumlarındandır."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap D) Okul öncesi kurumları gerçek ve tüzel kişilerle belediyeler, özel idareler ve Devlet tarafından açılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-28-xiao",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’nun 11 inci maddesinde yetiştirici ve tamamlayıcı sınıflar ve kursları açabilecekler arasında aşağıdakilerden hangisi açıkça sayılmamıştır?",
+    "options": [
+      "Özel idareler",
+      "Belediyeler",
+      "Köy ihtiyar heyetleri",
+      "Gerçek kişiler",
+      "Tüzel kişiler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11: Yetiştirici ve tamamlayıcı sınıf ve kursların amaçları ile bunları açabilecek gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet sayılmıştır. Bu nedenle doğru cevap C) Köy ihtiyar heyetleri.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-29-xqlx",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Aşağıdakilerden hangisi 222 sayılı Kanun’a göre “isteğe bağlı” ilköğretim kurumlarından biridir?",
+    "options": [
+      "İlköğretim okulları",
+      "Okul öncesi eğitim kurumları",
+      "Gezici okullar",
+      "Özel eğitim sınıfları",
+      "Yetiştirici sınıflar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap B) Okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-3-3uvu",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdaki ilköğretim kurumlarından hangisi mecburi ilköğretim kurumlarından biri değildir?",
+    "options": [
+      "okul öncesi eğitim kurumları",
+      "yatılı ilköğretim okulları",
+      "pansiyonlu okullar",
+      "yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+      "gezici okullar"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap A) okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-30-yb55",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Nüfusun az veya dağınık olduğu yerlerde köyler gruplaştırılarak merkezi durumda olan köylerde hangisi açılır?",
+    "options": [
+      "Birleştirilmiş Sınıflı Okul",
+      "Gezici Okullar",
+      "İlköğretim bölge okulları ve bunlara bağlı pansiyonlar",
+      "Lise",
+      "Halk Eğitim Merkezi"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap C) İlköğretim bölge okulları ve bunlara bağlı pansiyonlar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-31-fdcs",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Nüfusu az olan yerlerde “Gezici Okul” açıldığında burada kimler görevlendirilir?",
+    "options": [
+      "Usta öğreticiler",
+      "Vekil öğretmenler",
+      "Emekli öğretmenler",
+      "Köy imamı",
+      "Gezici öğretmenler"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap E) Gezici öğretmenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-32-qgbo",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı Kanuna göre aşağıdakilerden hangisi “mecburi” ilköğretim kurumlarından biri değildir?",
+    "options": [
+      "İlköğretim okulları",
+      "Okul öncesi eğitim kurumları",
+      "Gezici okullar",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar",
+      "Yetiştirici sınıflar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap B) Okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-33-e7mx",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Şehir ve kasabalarda ihtiyaca göre yatılı veya pansiyonlu okulların kurulabilmesi neye bağlıdır?",
+    "options": [
+      "Nüfusun 5000’i geçmesine",
+      "Valinin iznine",
+      "İhtiyaca",
+      "Belediye meclis kararına",
+      "Okul Aile Birliği bütçesine"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap C) İhtiyaca.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-34-z0j0",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Bir köy halkı yayla veya otlak gibi yerlere taşındığında ilköğretim süreci nasıl işler?",
+    "options": [
+      "Eğitim tatil edilir.",
+      "Gezici öğretmen görevlendirilir.",
+      "Çocuklar en yakın YİBO’ya alınır.",
+      "Köy okulu da halkla birlikte göçecek şekilde düzenlenir.",
+      "Taşımalı eğitim yapılır."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10: Köy halkı iş ve üretim hayatı veya olağanüstü sebeplerle göçtüğünde köy okulu da halkla birlikte göçecek şekilde düzenlenir ve görevine devam eder. Bu nedenle doğru cevap D) Köy okulu da halkla birlikte göçecek şekilde düzenlenir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-35-u1pe",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Mecburi öğrenim çağında olup memleket dışında bulunan veya sağlık durumu nedeniyle okula gidemeyenlerden özel eğitim görenler, okula nasıl kabul edilir?",
+    "options": [
+      "Doğrudan yaşıtlarının olduğu sınıfa",
+      "Bir alt sınıfa",
+      "Rehberlik Araştırma Merkezi raporuyla",
+      "İlçe Milli Eğitim Müdürünün kararıyla",
+      "İmtihanla (Sınavla) layık oldukları sınıfa"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12: Mecburi ilköğrenim çağındaki engelli çocukların özel eğitim ve öğretim görmeleri sağlanır. Bu nedenle doğru cevap E) İmtihanla (Sınavla) layık oldukları sınıfa.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-36-onnb",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Aşağıdakilerden hangisi isteğe bağlı tamamlayıcı sınıfların amaçlarından biridir?",
+    "options": [
+      "Genel bilgileri artırmak ve meslek kazandırmak",
+      "İlköğretime hazırlamak",
+      "Yükseköğretime hazırlamak",
+      "Okuma yazma öğretmek",
+      "Yabancı dil öğretmek"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap A) Genel bilgileri artırmak ve meslek kazandırmak.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-37-eatl",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Bu kanuna göre “Yetiştirici ve tamamlayıcı sınıflar” açma yetkisi kimlerde vardır?",
+    "options": [
+      "Sadece Devlet",
+      "Sadece Belediyeler",
+      "Gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet",
+      "Sadece Vakıflar",
+      "Sadece Dernekler"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 11: Yetiştirici ve tamamlayıcı sınıf ve kursların amaçları ile bunları açabilecek gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet sayılmıştır. Bu nedenle doğru cevap C) Gerçek ve tüzel kişiler, belediyeler, özel idareler ve Devlet.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-38-3ii1",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Özel eğitime muhtaç çocukların eğitimi bu kanuna göre nasıldır?",
+    "options": [
+      "İsteğe bağlıdır",
+      "Sadece özel kurslarda verilir",
+      "Evde eğitim zorunludur",
+      "Ailelerin tercihine bırakılmıştır",
+      "Mecburi ilköğrenim çağında iseler özel eğitim görmeleri sağlanır"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 12: Mecburi ilköğrenim çağındaki engelli çocukların özel eğitim ve öğretim görmeleri sağlanır. Bu nedenle doğru cevap E) Mecburi ilköğrenim çağında iseler özel eğitim görmeleri sağlanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-39-cxg3",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Nüfusun az veya dağınık olduğu yerlerde köyler gruplaştırılarak, merkezi durumda olan veya durumu uygun bulunan köylerde .................... ve bunlara bağlı pansiyonlar açılır.",
+    "options": [
+      "Yatılı ilköğretim bölge okulları",
+      "Okul öncesi eğitim kurumları",
+      "Gezici okullar",
+      "İlköğretim bölge okulları",
+      "Tamamlayıcı sınıflar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap D) İlköğretim bölge okulları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-4-e8t3",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. İlköğretim okulları II. Okul öncesi eğitim kurumları III. Yetiştirici ve tamamlayıcı sınıflar ve kurslar IV. Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar 222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdakilerden hangileri mecburi olan ilköğretim kurumlarındandır?",
+    "options": [
+      "I, III ve IV",
+      "I ve IV",
+      "II, III ve IV",
+      "I ve II",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 12: Mecburi ilköğrenim çağındaki engelli çocukların özel eğitim ve öğretim görmeleri sağlanır. Bu nedenle doğru cevap A) I, III ve IV.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-40-d2am",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Gezici okullarda .................... öğretmenler görevlendirilir.",
+    "options": [
+      "Kadrolu",
+      "Sözleşmeli",
+      "Ücretli",
+      "Vekil",
+      "Gezici"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap E) Gezici.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-41-nusw",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğretim hangi yapılardan oluşur?",
+    "options": [
+      "Beş yıl ilkokul ile üç yıl ortaokuldan",
+      "Sekiz yıl süreli tek kademeli ilkokuldan",
+      "Dört yıl zorunlu ilkokul ile dört yıl zorunlu ortaokuldan",
+      "Dört yıl ilkokul ile dört yıl isteğe bağlı ortaokuldan",
+      "Üç yıl ilkokul ile beş yıl ortaokuldan"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 7: İlköğretim, dört yıl süreli ve zorunlu ilkokul ile dört yıl süreli ve zorunlu ortaokuldan oluşur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-42-sig8",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "Bir köy halkının iş ve üretim bakımından göç etmesi hâlinde 222 sayılı İlköğretim ve Eğitim Kanunu’na göre okulun durumu nasıl düzenlenir?",
+    "options": [
+      "Okul kendiliğinden kapatılır.",
+      "Öğrencilerin kayıtları silinir.",
+      "Okul yalnız kış aylarında açık tutulur.",
+      "Okul, göç eden halkla birlikte uygun şekilde düzenlenir ve gidilen yerde görevine devam eder.",
+      "Okulun bütün görevleri komşu köy okuluna devredilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 10: Bir köy halkının iş ve üretim bakımından veya olağanüstü sebeplerle göç etmesi hâlinde okul da göçe uygun şekilde düzenlenir ve gidilen yerde günlük çalışma ve görevine devam eder.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-5-qld1",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Yatılı ilköğretim bölge okulları II. Gezici okullar III. İlköğretim bölge okulları 222 sayılı İlköğretim ve Eğitim Kanunu’na göre nüfusun az veya dağınık olduğu yerlerde gruplaştırmanın mümkün olmadığı yerlerde yukarıdakilerden hangileri açılabilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I, II ve III",
+      "I ve II"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap E) I ve II.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-6-fww1",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Yatılı İlköğretim Bölge Okulları II. Gezici Okullar III. İlköğretim Bölge Okulları 222 sayılı İlköğretim ve Eğitim Kanunu’na göre, gruplaştırmanın mümkün olmadığı yerlerde yukarıdaki okullardan hangisi ya da hangileri açılabilir?",
+    "options": [
+      "I",
+      "II",
+      "I, II ve III",
+      "II ve III",
+      "I ve II"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 9: İlkokul ve ortaokulun bağımsız kurulması esastır; nüfusun az veya dağınık olduğu yerlerde bölge okulları, yatılı bölge okulları veya gezici okullar açılabilir ve gezici öğretmenler görevlendirilir. Bu nedenle doğru cevap E) I ve II.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-7-zg1w",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre ilköğrenim çağı dışına çıkmış olup da üst dereceli öğrenim kurumlarına gidememiş olan yurtdaşlardan genel bilgilerini artırmak ve kendilerinin daha iyi bir iş ve üretim unsuru olarak yetiştirilmeleri amacıyla aşağıdaki uygulamalardan hangisi yapılır?",
+    "options": [
+      "Pansiyonlu Okullar",
+      "Yetiştirici ve tamamlayıcı sınıflar ve kurslar",
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar ve sınıflar",
+      "Gezici Okullar",
+      "İsteğe bağlı tamamlayıcı sınıflarda ve kurslar"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap E) İsteğe bağlı tamamlayıcı sınıflarda ve kurslar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-8-luys",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "I. Mülki amirler II. Zabıta teşkilatı III. İlköğretim müfettişleri 222 sayılı İlköğretim ve Eğitim Kanunu’na göre yukarıdakilerden hangileri ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidirler? (2018)",
+    "options": [
+      "Yalnız I.",
+      "I, II ve III.",
+      "Yalnız I ve III.",
+      "Yalnız II ve III.",
+      "Yalnız I ve II."
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 6: Mecburi ilköğretim kurumları ile isteğe bağlı kurumlar ayrı ayrı sayılmıştır; okul öncesi eğitim kurumları ve tamamlayıcı sınıf/kurslar isteğe bağlıdır. Bu nedenle doğru cevap B) I, II ve III.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-222-section-te-kilat-mtn7bm5i-9-jqxt",
+    "topic_id": "law-222-section-te-kilat",
+    "prompt": "222 sayılı İlköğretim ve Eğitim Kanunu’na göre aşağıdakilerden hangisi isteğe bağlı öğretim kurumları arasında yer alır? (2017)",
+    "options": [
+      "Özel eğitime muhtaç çocuklar için kurulacak okullar",
+      "Gündüzlü okullar",
+      "Pansiyonlu okullar",
+      "Okul öncesi eğitim kurumları",
+      "Gezici okullar"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 13: Okul öncesi eğitim kurumları ve isteğe bağlı tamamlayıcı sınıf/kursların kapsamı ve açılabilmesi düzenlenir. Bu nedenle doğru cevap D) Okul öncesi eğitim kurumları.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:02:01.034078+00:00",
+    "updated_at": "2026-09-04T17:02:01.034078+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-0-xlrv",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "Adaylık eğitim devreleri: temel eğitim, hazırlayıcı eğitim ve stajdan oluşur.",
+      "Adaylık devresi içinde veya sonunda, ilişkileri kesilenler 3 yıl süre ile Devlet memurluğuna atanamazlar.",
+      "Atanmış olan Devlet memurunun adaylık süresi bir yıldan az, iki yıldan çok olamaz.",
+      "Kurumlar, Eğitim ve Öğretim, Sağlık ve Yardımcı Sağlık ve Teknik Hizmetler Sınıflarına dahil memurlardan, kariyerlerinden yararlanmak istediklerini 6 – 8 üncü dereceler arasındaki idari görevlere ait olup kazanılmış hak derecelerinin iki altındaki derecelerden tespit ve ihdas edilmiş kadrolara atayabilirler.",
+      "Cumhurbaşkanı onayıyla yapılan atamalarda Cumhurbaşkanlığı kararnamesinde öngörülen hizmet süresi şartları aranır."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kurumlar, Eğitim ve Öğretim, Sağlık ve Yardımcı Sağlık ve Teknik Hizmetler Sınıflarına dahil memurlardan, kariyerlerinden yararlanmak istediklerini 6 – 8 üncü dereceler arasındaki idari görevlere ait olup kazanılmış hak derecelerinin iki altındaki derecelerden tespit ve ihdas edilmiş kadrolara atayabilirler. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-1-zbzx",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu ile ilgili olarak aşağıdaki seçeneklerden hangisi yanlıştır?",
+    "options": [
+      "Yer değiştirme suretiyle atanmaya tabi memurun atandığı yerde eşinin atanacağı teşkilatın bulunmaması ya da teşkilatı olmakla birlikte niteliğine uygun münhal bir görev bulunmaması ve ilgilinin de talebi hâlinde, bu personele eşinin görev süresi ile sınırlı olmak üzere aşağıdaki şartlarda izin verilebilir.",
+      "Memurların atanamayacakları yerler ve bu yerlerdeki görevler ile kurumların özellik arz eden görevlerine atanabilmeleri için hangi kademelerde ne kadar hizmet etmeleri gerektiği ve yer değiştirme ile ilgili atama esasları Cumhurbaşkanlığınca hazırlanacak bir yönetmelikle belirlenir.",
+      "657 sayılı Devlet Memurları Kanunu’nda öngörülen yönetmelikler Cumhurbaşkanınca yürürlüğe konulur.",
+      "Ücretsiz izin verilenlerin bu sürelerinin emeklilikten sayılabilmesi için kesenek ve kurum karşılıklarının her ay kendileri tarafından T. C. Emekli Sandığına yatırılması gerekir.",
+      "Aynı Kurumun başka başka yerlerde bulunan aynı sınıftaki memurları, karşılıklı olarak yer değiştirme suretiyle atanmalarını isteyebilirler."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Memurların atanamayacakları yerler ve bu yerlerdeki görevler ile kurumların özellik arz eden görevlerine atanabilmeleri için hangi kademelerde ne kadar hizmet etmeleri gerektiği ve yer değiştirme ile ilgili atama esasları Cumhurbaşkanlığınca hazırlanacak bir yönetmelikle belirlenir. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-10-cmf3",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre yer değiştirme suretiyle aynı yerdeki görevlere atananlar, atama emirlerinin kendilerine tebliğinden ne zaman sonra işe başlamak zorundadırlar?",
+    "options": [
+      "Üç gün sonra",
+      "Bir hafta sonra",
+      "15 gün sonra",
+      "İzleyen iş günü",
+      "Hiçbiri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İzleyen iş günü. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-100-rbey",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Bir memurun derece yükselmesi yapabilmesi için üst dereceden boş bir kadronun bulunması şart mıdır?",
+    "options": [
+      "Hayır, kadro şartı aranmaz.",
+      "Evet, şarttır.",
+      "Sadece teknik hizmetler sınıfı için şarttır.",
+      "Sadece sağlık hizmetleri sınıfı için şarttır.",
+      "Sadece GİH sınıfı için şarttır."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Evet, şarttır. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 68.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-101-0l1p",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Aşağıdakilerden hangisi memurluğun sona erme hâllerinden biri değildir?",
+    "options": [
+      "Çekilme",
+      "Memurluktan çıkarılma",
+      "Açığa alınma (Görevden uzaklaştırma)",
+      "Emeklilik",
+      "Ölüm"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Açığa alınma (Görevden uzaklaştırma). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-102-qcot",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Bir göreve vekâleten atanan memurlara (kurum içinden), vekâlet görevinin kaç aydan fazla devam eden süresi için vekâlet aylığı ödenir?",
+    "options": [
+      "1 ay",
+      "2 ay",
+      "3 ay",
+      "6 ay",
+      "Hemen ödenir"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 3 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-103-7r5m",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Yer değiştirme suretiyle atamalarda (rotasyon), memurun atandığı yerde eşinin atanacağı teşkilatın bulunmaması durumunda, memura eşinin görev süresi ile sınırlı olmak üzere ne hakkı verilebilir?",
+    "options": [
+      "İstifa hakkı",
+      "Emeklilik hakkı",
+      "İzin (Aylıksız izin) hakkı",
+      "Nakil hakkı",
+      "Harcırahsız geçici görev hakkı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İzin (Aylıksız izin) hakkı. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 72.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-104-8pxq",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Yabancı memleketlerin resmî kurumlarında veya uluslararası kuruluşlarda görev alacak memurlara, kurumlarının muvafakati ile ne kadar süreyle aylıksız izin verilebilir?",
+    "options": [
+      "5 yıla kadar",
+      "2 yıla kadar",
+      "3 yıla kadar",
+      "Süresiz",
+      "10 yıla kadar (Uluslararası kuruluşlarda 21 yıla kadar)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 10 yıla kadar (Uluslararası kuruluşlarda 21 yıla kadar). Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 77.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-105-74mh",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Bilgilerini artırmak üzere dış memleketlere gönderilen memurlara (burslu veya kurumca) en çok ne kadar süreyle ayrılma müsaadesi verilebilir?",
+    "options": [
+      "2 yıl (gerekirse 1 kat uzatılır)",
+      "1 yıl (gerekirse 1 kat uzatılır)",
+      "3 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 2 yıl (gerekirse 1 kat uzatılır). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-106-tk8d",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Yurt dışına eğitim için gönderilen memurlar, geri döndüklerinde mecburi hizmet yükümlülüklerini yerine getirmezlerse ne olur?",
+    "options": [
+      "Memuriyetten çıkarılırlar.",
+      "Kendilerine yapılan bütün masrafları iki kat olarak öderler.",
+      "Sadece masrafları öderler.",
+      "Bir daha yurt dışına gönderilmezler.",
+      "Kademe ilerlemeleri durdurulur."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kendilerine yapılan bütün masrafları iki kat olarak öderler. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 79.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-107-2da2",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Muvazzaf askerlik görevini tamamlayıp terhis olan memurlar, terhis tarihinden itibaren kaç gün içinde kurumlarına başvurmak zorundadır?",
+    "options": [
+      "15 gün",
+      "20 gün",
+      "45 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 30 gün. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 83.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-108-1txy",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Kurumlar, terhis olup başvuran memurlarını, başvuru tarihinden itibaren en geç kaç gün içinde göreve başlatmak zorundadır?",
+    "options": [
+      "15 gün",
+      "20 gün",
+      "45 gün",
+      "60 gün",
+      "30 gün"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 30 gün. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 83.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-109-q16u",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Askerlikte geçen süreler, memuriyette kademe ve derece intibakında değerlendirilir mi?",
+    "options": [
+      "Ayrıldıkları sırada iktisap ettikleri derecede kademe ilerlemesi yapılmak suretiyle değerlendirilir.",
+      "Hayır, değerlendirilmez.",
+      "Yalnızca emeklilik hizmet süresinde değerlendirilir.",
+      "Sadece derece olarak değerlendirilir.",
+      "Sadece yedek subaylık süresi değerlendirilir."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Ayrıldıkları sırada iktisap ettikleri derecede kademe ilerlemesi yapılmak suretiyle değerlendirilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 83.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-11-f5nr",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na göre, mali, nakdi ve ayni sorumluluğu bulunan saymanlık kadrolarının boşalması hâlinde bu kadrolara vekâleten atanan memurlara vekâlet aylığı verilmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "3 aydan fazla devam süresi için vekâlet aylığı verilir.",
+      "İşe başladıktan 2 ay sonra vekâlet aylığı verilir.",
+      "İşe başladıkları tarihten itibaren vekâlet aylığı verilir.",
+      "Aylıksız vekâlet yapılamaz.",
+      "Hiçbiri"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İşe başladıkları tarihten itibaren vekâlet aylığı verilir. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 86.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-110-8tn8",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Memurlara, görevleri dışında ikinci bir görev verilebilir mi?",
+    "options": [
+      "Asla verilemez.",
+      "Kanunda belirtilen istisnalar (ders görevi, tabiplik vb.) dışında verilemez.",
+      "Sadece amirin takdiriyle verilebilir.",
+      "Ücret ödenmemek kaydıyla her türlü görev verilebilir.",
+      "Valinin izniyle verilebilir."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kanunda belirtilen istisnalar (ders görevi, tabiplik vb.) dışında verilemez. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-111-gt8l",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Bir memurun üstünde birden çok ücretli vekâlet görevi veya ikinci görev bulunabilir mi?",
+    "options": [
+      "Evet, bulunabilir.",
+      "Valinin onayı ile bulunabilir.",
+      "Hayır, bulunamaz.",
+      "Olağanüstü hâllerde bulunabilir.",
+      "Farklı ilçelerde ise bulunabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hayır, bulunamaz. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-112-9pst",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Kadrosu kaldırılan memurlar, en geç ne kadar süre içinde kendi kurumlarında niteliklerine uygun bir kadroya atanırlar?",
+    "options": [
+      "1 ay",
+      "3 ay",
+      "1 yıl",
+      "6 ay",
+      "2 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 6 ay. Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-113-mbep",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Bir göreve atanan memur, atama emrini tebellüğ etmesine rağmen yasal süre içinde işe başlamazsa ataması iptal edilir. Bu durumdaki kişi ne kadar süreyle Devlet memuru olarak istihdam edilemez?",
+    "options": [
+      "6 ay",
+      "2 yıl",
+      "3 yıl",
+      "1 yıl",
+      "5 yıl"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 1 yıl. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-114-h6l3",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "“Kademe” kavramı 657 sayılı Kanun’da nasıl tanımlanmıştır?",
+    "options": [
+      "Derece içinde, görevin önemi veya sorumluluğu artmadan, aylıktaki ilerleme (Yatay ilerleme)",
+      "Memurun yetkisinin artması",
+      "Memurun unvanının değişmesi",
+      "Memurun görev yerinin değişmesi",
+      "Memurun emekliliğe hak kazanması"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Derece içinde, görevin önemi veya sorumluluğu artmadan, aylıktaki ilerleme (Yatay ilerleme). Dayanak: Yalnızca yüklenen 657 sayılı Devlet Memurları Kanunu metnindeki ilgili hüküm.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-115-dyc1",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Aynı yerdeki bir göreve atanan memurlar, atama emrinin tebliğ gününü........................işe başlamak zorundadır.",
+    "options": [
+      "İzleyen iş günü",
+      "Aynı gün",
+      "3 gün içinde",
+      "7 gün içinde",
+      "15 gün içinde"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – İzleyen iş günü. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-116-vvkh",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Başka yerdeki bir göreve atanan memurlar, tebliğ tarihinden itibaren........................gün içinde o yere hareket ederek işe başlamak zorundadır.",
+    "options": [
+      "5",
+      "15",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 15. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-117-aaya",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Memurun bulunduğu kademede en az........................yıl çalışmış olması kademe ilerlemesi için şarttır.",
+    "options": [
+      "6 ay",
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 64.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-118-z9bi",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Son........................yıl içinde herhangi bir disiplin cezası almayan memura, bir kademe ilerlemesi uygulanır.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 8. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 64.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-119-nyzv",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Memuriyet yerinden (ikametgâh dışına) başka bir yere atanan memura........................gün içinde işe başlama süresi verilir.",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "30",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 15. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-12-sjnb",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’na tabi kurumlarda, mali, nakdi ve ayni sorumluluğu bulunan bir sayman başka bir göreve atanması nedeniyle görevinden ayrılmış ve bu görev 4 ay süreyle saymanlık müdür yardımcısı tarafından vekâleten yürütülmüştür. Bu vekâlet işlemiyle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Saymanlık Müdür Yardımcısının ilk bir ay aylıksız, diğer süre için aylıklı vekâleti esastır",
+      "Saymanlık Müdür Yardımcısının ilk iki ay aylıksız, diğer süre için aylıklı vekâleti esastır",
+      "Saymanlık Müdür Yardımcısının ilk üç ayı aylıksız, diğer süre için aylıklı vekâleti esastır",
+      "Hiçbiri",
+      "Vekâlet görevine başlanıldığı tarihten itibaren Saymanlık Müdür Yardımcısının aylıklı vekâleti esastır"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Vekâlet görevine başlanıldığı tarihten itibaren Saymanlık Müdür Yardımcısının aylıklı vekâleti esastır. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 86.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-120-8myo",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Başka yerdeki göreve atanıp 15 gün içinde başlamayanlara, aylıksız........................gün daha süre verilebilir; bu sürede de başlamazsa çekilmiş sayılır.",
+    "options": [
+      "10",
+      "5",
+      "7",
+      "15",
+      "20"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 10. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 62-63.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-121-60pj",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 59. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Atama yapılacak boş kadroların bildirilmesi",
+      "Memurların bir kurumdan diğerine nakilleri",
+      "Günün 24 saatinde devamlılık gösteren hizmetlerde çalışma saat ve usulünün tespiti",
+      "Derece değişikliğinde verilecek aylık",
+      "İstisnai memurluklar"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 59. maddesi “İstisnai memurluklar” konusunu düzenler. Maddeye göre cumhurbaşkanlığı ile Türkiye Büyük Millet Meclisinin memurluklarına, Bakan Yardımcılıklarına,120 (…)121119 (...)122 Savunma Sanayii Müsteşarlığına ait Müsteşar, Müsteşar Yardımcısı, I.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-122-5vr3",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 60. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "İstisnai memurluklara atanmada aranacak şartlar",
+      "Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi",
+      "Emeklilerin yeniden hizmete alınması",
+      "Görevden uzaklaştırma tedbirinin kaldırılmasında amirin takdiri",
+      "Sürekli görevle yurt dışında bulunan memurların aylıkları"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 60. maddesi “İstisnai memurluklara atanmada aranacak şartlar” konusunu düzenler. Maddeye göre i̇stisnai Devlet memurluklarına 48 inci maddede yazılı genel şartları taşıyan kimselerden atanmalar yapılabilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-123-obj0",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 61. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Çekilmede devir ve teslim süresi",
+      "İstisnai memurluklara atananlara bu Kanunun uygulanacak hükümleri",
+      "Görevden uzaklaştıran amirin sorumluluğu",
+      "Açıktan atanmada aylığa hak kazanma",
+      "Öğrenim bursları ve yurtları"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 61. maddesi “İstisnai memurluklara atananlara bu Kanunun uygulanacak hükümleri” konusunu düzenler. Maddeye göre ancak istisnai bir memuriyet kadrosuna atananlar, atandıkları kadronun derece aylığının ilk kademesini kazanılmış hak olarak elde ettikleri tarihten itibaren, haklarında bu kanunun kademe ilerlemesi ve derece yükselmesine dair hükümleri uygulanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-124-gdwz",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 63. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Ceza kovuşturması sırasında görevden uzaklaştırma",
+      "Adayların aylıkları",
+      "İşe başlamama halinde yapılacak işlem",
+      "Yurt dışında görevli memurlardan farklı katsayılı memlekete atananların aylıkları",
+      "Yurt dışında yetiştirme"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 63. maddesi “İşe başlamama halinde yapılacak işlem” konusunu düzenler. Maddeye göre bir göreve ilk defa veya yeniden atananlardan belge ile isbatı mümkün zorlayıcı sebepler olmaksızın 62 nci maddedeki süre içinde işe başlamayanların atanmaları iptal edilir ve bunlar 1 yıl süreyle Devlet memuru olarak istihdam edilemezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-125-g9vd",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 67. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Asaleti onaylanan memurların kademe ilerlemeleri",
+      "Ders ve konferans ücretleri",
+      "Mahrumiyet yerinden başka yere atanan, ölen veya emekliye ayrılanların burs haklarının devamı",
+      "Kadrosuzluk sebebiyle derece yükselmesi yapamayanların aylıkları",
+      "Yurt dışında davranış"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D. 657 sayılı Devlet Memurları Kanunu’nun 67. maddesi “Kadrosuzluk sebebiyle derece yükselmesi yapamayanların aylıkları” konusunu düzenler. Maddeye göre diğer şartları taşımakla birlikte üst derecelerde (...)142 kadro olmadığı için derece yükselmesi yapamayan memurların kazanılmış hak aylıkları, öğrenim durumları itibariyle yükselebilecekleri dereceyi aşmamak şartıyla işgal etmekte oldukları kadroların üst derecelerine yükseltilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-126-zneo",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 69. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Yolluk giderleri ve gündelikleri",
+      "Memurların sosyal tesis ihtiyaçları",
+      "Koordinasyon ve denetleme",
+      "Atama yapılacak boş kadroların bildirilmesi",
+      "İdari görevlere atanma"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E. 657 sayılı Devlet Memurları Kanunu’nun 69. maddesi “İdari görevlere atanma” konusunu düzenler. Maddeye göre kurumlar, Eğitim ve Öğretim, Sağlık ve Yardımcı Sağlık ve Teknik Hizmetler Sınıflarına dahil memurlardan, kariyerlerinden yararlanmak istediklerini 2 - 4 üncü dereceler arasındaki idari görevlere ait olup kazanılmış hak derecelerinin iki altındaki derecelerden tesbit ve ihdas edilmiş kadrolara atayabilirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-127-grl0",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 71. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Bir sınıftan başka bir sınıfa geçme",
+      "Devlet memurları için konut kredisi",
+      "Eğitim birimleri",
+      "Resmî belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve iadesi",
+      "Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A. 657 sayılı Devlet Memurları Kanunu’nun 71. maddesi “Bir sınıftan başka bir sınıfa geçme” konusunu düzenler. Maddeye göre memurların eşit dereceler arasında veya derece yükselmesi suretiyle sınıf değiştirmeleri caizdir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-128-6j4l",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 73. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Eğitim merkezleri",
+      "Karşılıklı olarak yer değiştirme",
+      "Yürürlükten kaldırılan hükümler",
+      "Sınav sonuçları",
+      "Çekilmede devir ve teslim süresi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B. 657 sayılı Devlet Memurları Kanunu’nun 73. maddesi “Karşılıklı olarak yer değiştirme” konusunu düzenler. Maddeye göre aynı Kurumun başka başka yerlerde bulunan aynı sınıftaki memurları, karşılıklı olarak yer değiştirme suretiyle atanmalarını isteyebilirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-129-5wht",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "657 sayılı Devlet Memurları Kanunu’nun 74. maddesinde düzenlenen konu aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanunun yürütülmesi",
+      "Sınıf dışında kadro ihdas edilemeyeceği",
+      "Memurların bir kurumdan diğerine nakilleri",
+      "Bilgilerini artırmak için yabancı memlekete gönderilenlerin hak ve yükümlülükleri",
+      "Ceza kovuşturması sırasında görevden uzaklaştırma"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C. 657 sayılı Devlet Memurları Kanunu’nun 74. maddesi “Memurların bir kurumdan diğerine nakilleri” konusunu düzenler. Maddeye göre memurların bu Kanuna tabi kurumlar arasında, kurumların muvafakatı ile kazanılmış hak dereceleri üzerinden veya 68 inci maddedeki esaslar çerçevesinde derece yükselmesi suretiyle, bulundukları sınıftan veya öğrenim durumları itibariyle girebilecekleri sınıftan, bir kadroya nakilleri mümkündür.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  },
+  {
+    "id": "law-657-section-atanma-ilerleme-yer-degistirme-mtn3v8kc-13-awer",
+    "topic_id": "law-657-section-atanma-ilerleme-yer-degistirme",
+    "prompt": "Aşağıdakilerden hangisi istisnai memur değildir?",
+    "options": [
+      "Özel Kalem Müdürü",
+      "Basın ve Halkla İlişkiler Müşaviri",
+      "Bakanlık Müşaviri",
+      "Hiçbiri",
+      "Genel Müdür"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Genel Müdür. Dayanak: 657 sayılı Devlet Memurları Kanunu, Madde 59.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T15:25:17.293240+00:00",
+    "updated_at": "2026-09-04T15:25:17.293240+00:00"
+  }
+]

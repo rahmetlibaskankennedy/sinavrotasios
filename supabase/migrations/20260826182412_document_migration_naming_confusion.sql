@@ -1,0 +1,20 @@
+-- Kod incelemesinde (Ağustos 2026) tespit edilen iki yanıltıcı migration
+-- adı için açıklayıcı not. Uygulanmış migration dosyalarını yeniden
+-- adlandırmak manifest/checksum riski taşıdığından, önceki projelerdeki
+-- pratiğe uyarak (bkz. topic_question_counts COMMENT) buraya not düşülüyor:
+--
+-- 20260807202502_protect_profiles_admin_role_columns.sql
+--   İsmi "profiles admin role columns koruması" der, ama içeriği bununla
+--   alakasız: topics/card_decks tablolarına source_file sütunu ekler.
+--   Gerçek profil-koruma mantığı iki migration sonra,
+--   20260809081148_protect_privileged_profile_columns.sql içindedir.
+--
+-- 20260808230006_lock_profiles_sensitive_columns.sql
+--   İçeriği yalnızca `select 1;` — fiilen no-op, production migration
+--   history marker olarak eklenmiştir. İsmi kilitleme yapıyormuş izlenimi
+--   verir ama hiçbir şey yapmaz.
+--
+-- production-migrations.json içindeki capturedAt alanı da güncel değil
+-- (2026-08-15 yazıyor ama 16 Ağustos migration'larını da listeliyor) —
+-- bu, repo tarafında ayrıca düzeltilmesi gereken bir metadata hatasıdır.
+select 1;

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-33-8d1i",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Aşağıdakilerden hangisi Yüce Divanda yargılanacaklardan biri değildir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Jandarma Genel Komutanı",
+      "TBMM Başkanı",
+      "Bakanlar",
+      "Hava Kuvvetleri Komutanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Jandarma Genel Komutanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Jandarma Genel Komutanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-34-zzjp",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi kararları aleyhine nereye başvurulabilir?",
+    "options": [
+      "Yargıtaya",
+      "TBMM’ye",
+      "Cumhurbaşkanına",
+      "Avrupa İnsan Hakları Mahkemesine",
+      "Kesindir, başka bir merciye başvurulamaz."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kesindir, başka bir merciye başvurulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kesindir, başka bir merciye başvurulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-35-hz1i",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesinin iptal kararları geriye yürür mü?",
+    "options": [
+      "Evet, yürür.",
+      "Hayır, geriye yürümez.",
+      "Sadece ceza davalarında yürür.",
+      "Sadece vergi davalarında yürür.",
+      "Mahkeme karar verirse yürür."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hayır, geriye yürümez. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, geriye yürümez.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-36-37yp",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi iptal hükmünün yürürlüğe gireceği tarihi erteleyebilir mi? (Erteleyebilirse en çok ne kadar?)",
+    "options": [
+      "Hayır, erteleyemez.",
+      "Evet, en çok 6 ay.",
+      "Evet, en çok 2 yıl.",
+      "Evet, en çok 5 yıl.",
+      "Evet, en çok 1 yıl."
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Evet, en çok 1 yıl. Madde 153’e göre Anayasa Mahkemesi iptal hükmünün yürürlüğe girişini erteleyebilir; belirlenen tarih kararın Resmî Gazetede yayımlandığı günden başlayarak bir yılı geçemez.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-37-pjcu",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Kanunların Anayasaya aykırılığı iddiasıyla Anayasa Mahkemesinde doğrudan iptal davası açma süresi (soyut norm denetimi) kaç gündür?",
+    "options": [
+      "60",
+      "30",
+      "45",
+      "90",
+      "120"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 60. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “60”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-38-ulsu",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Kanunların şekil bakımından denetlenmesi için iptal davası açma süresi kaç gündür?",
+    "options": [
+      "15",
+      "10",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 10. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “10”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-39-xzg5",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Bir davaya bakmakta olan mahkeme, uygulanacak kanun veya Cumhurbaşkanlığı kararnamesi hükmünü Anayasaya aykırı görürse ne yapar?",
+    "options": [
+      "Davayı kesin olarak reddeder",
+      "Doğrudan kanunu iptal eder",
+      "Anayasa Mahkemesinin kararına kadar davayı geri bırakır",
+      "Dosyayı TBMM’ye gönderir",
+      "Cumhurbaşkanından görüş ister"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Anayasa Mahkemesinin kararına kadar davayı geri bırakır. Madde 152’ye göre mahkeme, uygulayacağı kanun veya Cumhurbaşkanlığı kararnamesi hükmünü Anayasaya aykırı görürse Anayasa Mahkemesinin bu konuda vereceği karara kadar davayı geri bırakır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-4-2gqc",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesine bireysel başvuru yapabilmek için neyin tüketilmesi gerekir?",
+    "options": [
+      "İdari yolların",
+      "Tahkim yolunun",
+      "Uzlaşma yolunun",
+      "Arabuluculuk yolunun",
+      "Olağan kanun yollarının"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Olağan kanun yollarının. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Olağan kanun yollarının”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-40-t6qz",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "İtiraz yoluyla gelen bir dosyada Anayasa Mahkemesi işin esasına girerek ret kararı verirse, aynı kanun hükmü için ne kadar süreyle tekrar başvurulamaz?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "5 yıl",
+      "10 yıl",
+      "Süresiz"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 10 yıl. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “10 yıl”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-41-728r",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Adliye mahkemelerince verilen karar ve hükümlerin son inceleme mercii hangisidir?",
+    "options": [
+      "Yargıtay",
+      "İstinaf",
+      "Danıştay",
+      "Anayasa Mahkemesi",
+      "Sayıştay"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yargıtay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargıtay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-42-ka9s",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Yargıtay üyelerini kim seçer?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Adalet Bakanı",
+      "Anayasa Mahkemesi",
+      "Hâkimler ve Savcılar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hâkimler ve Savcılar Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hâkimler ve Savcılar Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-43-rw5f",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Yargıtay Cumhuriyet Başsavcısı ve Vekilini kim seçer?",
+    "options": [
+      "Yargıtay Genel Kurulu",
+      "HSK",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Adalet Bakanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-44-xz15",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "İdari mahkemelerce verilen karar ve hükümlerin son inceleme mercii hangisidir?",
+    "options": [
+      "Danıştay",
+      "Yargıtay",
+      "Sayıştay",
+      "Bölge İdare Mahkemesi",
+      "Uyuşmazlık Mahkemesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Danıştay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Danıştay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-45-f3p1",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Danıştay üyelerinin dörtte birini (1/4) kim seçer?",
+    "options": [
+      "HSK",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-46-01du",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Danıştay üyelerinin dörtte üçünü (3/4) kim seçer?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Adalet Bakanı",
+      "Barolar Birliği",
+      "Hâkimler ve Savcılar Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hâkimler ve Savcılar Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hâkimler ve Savcılar Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-47-nlwn",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Danıştay, kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında düşüncesini kaç ay içinde bildirir?",
+    "options": [
+      "2 ay",
+      "1 ay",
+      "3 ay",
+      "6 ay",
+      "1 yıl"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 2 ay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2 ay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-48-l7j3",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Adli ve idarî yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümleyen mahkeme hangisidir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Uyuşmazlık Mahkemesi",
+      "Danıştay",
+      "Sayıştay"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Uyuşmazlık Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Uyuşmazlık Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-49-vma7",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Diğer mahkemelerle Anayasa Mahkemesi arasındaki görev uyuşmazlıklarında hangisinin kararı esas alınır?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Uyuşmazlık Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "TBMM"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anayasa Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-5-syha",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Yüce Divan sıfatıyla yargılamayı hangi mahkeme yapar?",
+    "options": [
+      "Yargıtay",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "Uyuşmazlık Mahkemesi",
+      "Ağır Ceza Mahkemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Anayasa Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-50-l34e",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hâkimler ve Savcılar Kurulu (HSK) kaç üyeden oluşur?",
+    "options": [
+      "7",
+      "11",
+      "15",
+      "13",
+      "22"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 13. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “13”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-51-ow0x",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK kaç daire hâlinde çalışır?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 2. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “2”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-52-a4an",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK’nın TBMM tarafından seçilen üye sayısı kaçtır?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "5",
+      "10"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 7. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “7”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-53-7uzz",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK’nın Cumhurbaşkanı tarafından seçilen üye sayısı kaçtır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 4. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “4”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-54-nslj",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK’nın meslekten çıkarma cezasına ilişkin olanlar dışındaki kararlarına karşı yargı yolu nasıldır?",
+    "options": [
+      "Kapalıdır",
+      "Açıktır",
+      "Yalnız Anayasa Mahkemesine başvuru açıktır",
+      "Anayasa Mahkemesine gidilebilir",
+      "Cumhurbaşkanına itiraz edilebilir"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kapalıdır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kapalıdır”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-55-pplz",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hâkim ve savcıların denetimini, HSK Başkanının oluru ile kim yapar?",
+    "options": [
+      "Adalet Müfettişleri",
+      "Devlet Denetleme Kurulu",
+      "Sayıştay Denetçileri",
+      "HSK Müfettişleri",
+      "Kamu Denetçisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – HSK Müfettişleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “HSK Müfettişleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-56-akgh",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Adalet hizmetleri ile savcıların idarî görevleri yönünden denetimi kime aittir?",
+    "options": [
+      "HSK’ya",
+      "Yargıtaya",
+      "Cumhurbaşkanlığına",
+      "Valiliklere",
+      "Adalet Bakanlığına"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Adalet Bakanlığına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Adalet Bakanlığına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-57-5jkz",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Sayıştay kararlarına karşı idarî yargı yoluna başvurulabilir mi?",
+    "options": [
+      "Evet, Danıştaya başvurulabilir.",
+      "Evet, Bölge İdare Mahkemesine başvurulabilir.",
+      "Hayır, idarî yargı yoluna başvurulamaz.",
+      "Sadece vergi cezalarında başvurulabilir.",
+      "Cumhurbaşkanı izin verirse başvurulabilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Hayır, idarî yargı yoluna başvurulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, idarî yargı yoluna başvurulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-58-fhq6",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Vergi ve benzeri malî yükümlülükler hakkında Danıştay ile Sayıştay kararları arasında uyuşmazlık çıkarsa hangisinin kararı esas alınır?",
+    "options": [
+      "Sayıştay",
+      "Uyuşmazlık Mahkemesi karar verir",
+      "Anayasa Mahkemesi karar verir",
+      "Maliye Bakanlığı görüşü alınır",
+      "Danıştay"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Danıştay. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Danıştay”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-59-4vcg",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasanın 150. maddesine göre TBMM üye tamsayısının en az kaçta biri Anayasa Mahkemesinde doğrudan iptal davası açabilir?",
+    "options": [
+      "Onda biri",
+      "Beşte biri",
+      "Üçte biri",
+      "Salt çoğunluğu",
+      "Üçte ikisi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Beşte biri. Madde 150, doğrudan iptal davası açma hakkını TBMM üye tamsayısının en az beşte biri tutarındaki üyelere de tanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-6-66wi",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Aşağıdakilerden hangisi Yüce Divanda yargılanmaz?",
+    "options": [
+      "TBMM Başkanı",
+      "Cumhurbaşkanı",
+      "Genelkurmay Başkanı",
+      "Bakanlar",
+      "Emniyet Genel Müdürü"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Emniyet Genel Müdürü. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Emniyet Genel Müdürü”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-60-ei66",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi, Anayasa değişikliklerini hangi açıdan denetleyebilir?",
+    "options": [
+      "Hem şekil hem esas bakımından",
+      "Sadece esas bakımından",
+      "Sadece şekil bakımından",
+      "Denetleyemez",
+      "Sadece halkoylaması sürecini denetler"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Sadece şekil bakımından. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Sadece şekil bakımından”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-61-7dkh",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa değişikliklerinde şekil bakımından denetim neleri kapsar?",
+    "options": [
+      "Teklif ve oylama çoğunluğu ile ivedilikle görüşülemeyeceği şartını",
+      "Milletvekillerinin niteliklerini",
+      "Değişikliğin içeriğini",
+      "Kamu yararını",
+      "Uluslararası antlaşmalara uygunluğu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Teklif ve oylama çoğunluğu ile ivedilikle görüşülemeyeceği şartını. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Teklif ve oylama çoğunluğu ile ivedilikle görüşülemeyeceği şartını”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-62-749g",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Şekil bozukluğuna dayalı iptal davasını kimler açabilir?",
+    "options": [
+      "Herkes",
+      "Cumhurbaşkanı veya TBMM üyelerinin beşte biri (1/5)",
+      "Sadece ana muhalefet partisi",
+      "Sadece Yargıtay Cumhuriyet Başsavcısı",
+      "Sadece Barolar Birliği"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı veya TBMM üyelerinin beşte biri (1/5). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Cumhurbaşkanı veya TBMM üyelerinin beşte biri (1/5)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-63-9w1s",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi kararları Resmî Gazete’de ne zaman yayımlanır?",
+    "options": [
+      "15 gün içinde",
+      "1 ay içinde",
+      "Gerekçe yazılınca",
+      "Meclis onayından sonra",
+      "Hemen"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hemen. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hemen”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-64-laob",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi bir kanunu iptal ederken nasıl hareket edemez?",
+    "options": [
+      "Hukuka uygun",
+      "Gerekçeli",
+      "Kanun koyucu gibi, yeni bir uygulamaya yol açacak biçimde",
+      "Evrensel hukuk ilkelerine göre",
+      "Vicdani kanaatine göre"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kanun koyucu gibi, yeni bir uygulamaya yol açacak biçimde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun koyucu gibi, yeni bir uygulamaya yol açacak biçimde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-65-fl9u",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Yargıtay Birinci Başkanı (Yargıtay Başkanı) kim tarafından seçilir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "HSK",
+      "TBMM",
+      "Yargıtay Genel Kurulu",
+      "Adalet Bakanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Yargıtay Genel Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargıtay Genel Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-66-l094",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK üyelerinin görev süresi kaç yıldır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 4. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “4”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-67-do1m",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Süresi biten HSK üyesi yeniden seçilebilir mi?",
+    "options": [
+      "Hayır, seçilemez.",
+      "Evet, sınırsız seçilebilir.",
+      "Sadece Cumhurbaşkanı atarsa seçilebilir.",
+      "Evet, bir kez daha seçilebilir.",
+      "Sadece Meclis seçerse seçilebilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Evet, bir kez daha seçilebilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Evet, bir kez daha seçilebilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-68-yad4",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Bir mahkemenin kaldırılması veya yargı çevresinin değiştirilmesi konusundaki teklifleri kim karara bağlar?",
+    "options": [
+      "Hâkimler ve Savcılar Kurulu (HSK)",
+      "Adalet Bakanlığı",
+      "TBMM",
+      "Yargıtay",
+      "Anayasa Mahkemesi"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Hâkimler ve Savcılar Kurulu (HSK). 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hâkimler ve Savcılar Kurulu (HSK)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-69-1zd4",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK Genel Sekreteri kim tarafından atanır?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Kurul Genel Kurulu",
+      "Kurul Başkanı",
+      "TBMM Başkanı",
+      "Başbakan"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Kurul Başkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kurul Başkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-7-k3pk",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hakimler ve Savcılar Kurulu (HSK) Başkanı kimdir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM Başkanı",
+      "Anayasa Mahkemesi Başkanı",
+      "Yargıtay Birinci Başkanı",
+      "Adalet Bakanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Adalet Bakanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Adalet Bakanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-70-ezs5",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hâkimler ve savcılar azlolunabilir mi?",
+    "options": [
+      "Evet, Bakan kararıyla.",
+      "Hayır, azlolunamazlar",
+      "Evet, Meclis kararıyla.",
+      "Evet, Valilik kararıyla.",
+      "Evet, halk oylamasıyla."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Hayır, azlolunamazlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Hayır, azlolunamazlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-71-2sli",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Mahkemelerin kuruluşu, görev ve yetkileri neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "Yönetmelikle",
+      "Genelgeyle",
+      "Kararnameyle",
+      "HSK kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanunla. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-72-w8tq",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Adalet hizmetlerinin denetimi kimler eliyle yapılır?",
+    "options": [
+      "Polis",
+      "Adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler",
+      "Jandarma",
+      "Maliye müfettişleri",
+      "Sayıştay denetçileri"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-73-2p3f",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi Genel Kurulu en az kaç üye ile toplanır?",
+    "options": [
+      "7",
+      "9",
+      "12",
+      "15",
+      "10"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – 10. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “10”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-74-2kbp",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi “Yüce Divan” sıfatıyla baktığı davalar dışında kalan işleri kural olarak nasıl inceler?",
+    "options": [
+      "Duruşmalı olarak",
+      "Tanıkları dinleyerek",
+      "Yerinde inceleme yaparak",
+      "Bilirkişi atayarak",
+      "Dosya üzerinde"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Dosya üzerinde. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Dosya üzerinde”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-75-qfaa",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasanın 155. maddesine göre Danıştay hangi konuda düşüncesini bildirir?",
+    "options": [
+      "Ceza davaları hakkında",
+      "Siyasi parti kapatma davaları hakkında",
+      "Bütçe kanunu teklifleri hakkında",
+      "Kamu hizmetleriyle ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında",
+      "Seçim sonuçları hakkında"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kamu hizmetleriyle ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında. Madde 155, Danıştayın kamu hizmetleriyle ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında iki ay içinde düşüncesini bildirmesini görevleri arasında sayar.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-76-7sz8",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Sayıştayın kesin hükümleri hakkında ilgililer kaç gün içinde karar düzeltilmesi isteyebilir?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 15 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “15 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-77-obpe",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK üyeliği seçimleri, üyelerin görev süresi dolmadan önceki kaç gün içinde yapılır?",
+    "options": [
+      "15",
+      "45",
+      "60",
+      "30",
+      "90"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 30. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “30”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-78-1f7i",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hakimler ve savcılar, kanunda belirtilenlerden başka ne yapamazlar?",
+    "options": [
+      "Derneklere üye olamazlar",
+      "Kitap yazamazlar",
+      "Resmî ve özel hiçbir görev alamazlar",
+      "Evlenemezler",
+      "Yurt dışına çıkamazlar"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Resmî ve özel hiçbir görev alamazlar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Resmî ve özel hiçbir görev alamazlar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-79-65rv",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasanın 139. maddesine göre hâkim ve savcılar, bir mahkemenin veya kadronun kaldırılması sebebiyle aylık, ödenek ve diğer özlük haklarından yoksun bırakılabilir mi?",
+    "options": [
+      "Evet, her durumda bırakılabilir",
+      "Yalnız mahkeme başkanı kararıyla bırakılabilir",
+      "Yalnız belediye kararıyla bırakılabilir",
+      "Sadece seçim döneminde bırakılabilir",
+      "Hayır, bırakılamaz"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Hayır, bırakılamaz. Madde 139, bir mahkemenin veya kadronun kaldırılması sebebiyle dahi hâkim ve savcıların aylık, ödenek ve diğer özlük haklarından yoksun kılınamayacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-8-1yj3",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "HSK kararlarına karşı kural olarak yargı yolu kapalıdır. Ancak bir istisna vardır; bu istisna nedir?",
+    "options": [
+      "Meslekten çıkarma cezası",
+      "Yer değiştirme cezası",
+      "Kınama cezası",
+      "Uyarma cezası",
+      "Aylıktan kesme cezası"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Meslekten çıkarma cezası. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Meslekten çıkarma cezası”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-80-g3e5",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasanın 150. maddesine göre aşağıdakilerden hangisi doğrudan iptal davası açma hakkına sahiptir?",
+    "options": [
+      "Herhangi bir belediye meclisi",
+      "Herhangi bir sendika",
+      "Herhangi bir üniversite senatosu",
+      "TBMM’de en fazla üyeye sahip iki siyasi parti grubundan biri",
+      "Herhangi bir il genel meclisi"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – TBMM’de en fazla üyeye sahip iki siyasi parti grubundan biri. Madde 150, doğrudan iptal davası açma hakkını Cumhurbaşkanına, TBMM’de en fazla üyeye sahip iki siyasi parti grubuna ve TBMM üye tamsayısının en az beşte biri tutarındaki üyelere tanır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-81-31nv",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasanın 151. maddesine göre doğrudan iptal davası açma hakkı, ilgili düzenlemenin Resmî Gazetede yayımlanmasından başlayarak kaç gün sonra düşer?",
+    "options": [
+      "Altmış gün sonra",
+      "On gün sonra",
+      "Otuz gün sonra",
+      "Doksan gün sonra",
+      "Bir yıl sonra"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Altmış gün sonra. Madde 151’e göre doğrudan iptal davası açma hakkı yayımdan başlayarak altmış gün sonra düşer.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-82-k7xq",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hâkim ve savcı olup adalet hizmetindeki idarî görevlerde çalışanlar hangi hükümlere tabidir?",
+    "options": [
+      "Yalnızca Devlet memurları hakkındaki hükümlere",
+      "Hâkimler ve savcılar hakkındaki hükümlere",
+      "Yalnızca idarî yargı hükümlerine",
+      "Türkiye Büyük Millet Meclisi üyeleri hakkındaki hükümlere",
+      "Cumhurbaşkanlığı kararnamesi hükümlerine"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 140’a göre hâkim ve savcı olup adalet hizmetindeki idarî görevlerde çalışanlar, hâkimler ve savcılar hakkındaki hükümlere tabidirler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-83-55r4",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Anayasa Mahkemesi üyeliği için Türkiye Büyük Millet Meclisinde yapılan seçimde ikinci oylamada hangi çoğunluk aranır?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu",
+      "Üye tamsayısının beşte üçü",
+      "Üye tamsayısının üçte biri",
+      "Toplantıya katılanların salt çoğunluğu",
+      "Üye tamsayısının üçte ikisi"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 146’ya göre her boş üyelik için ilk oylamada üye tamsayısının üçte ikisi, ikinci oylamada üye tamsayısının salt çoğunluğu aranır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-84-q11x",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Olağanüstü hâllerde ve savaş hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin Anayasa Mahkemesindeki denetimi bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece şekil bakımından Anayasa denetimine tabidir.",
+      "Sadece esas bakımından Anayasa denetimine tabidir.",
+      "İptal davası yalnızca Cumhurbaşkanı tarafından açılabilir.",
+      "Şekil ve esas bakımından Anayasaya aykırılık iddiasıyla dava açılamaz.",
+      "Yalnızca bireysel başvuru yoluyla denetlenebilir."
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 148’e göre olağanüstü hâllerde ve savaş hâllerinde çıkarılan Cumhurbaşkanlığı kararnamelerinin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla Anayasa Mahkemesinde dava açılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-85-5ghp",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Hâkimler ve Savcılar Kurulunun Türkiye Büyük Millet Meclisi tarafından seçilecek üyeliklerine ilişkin başvurular nereye yapılır?",
+    "options": [
+      "Adalet Bakanlığına",
+      "Hâkimler ve Savcılar Kuruluna",
+      "Yargıtaya",
+      "Anayasa Mahkemesine",
+      "Meclis Başkanlığına"
+    ],
+    "answer_index": 4,
+    "explanation": "Madde 159’a göre Kurulun Türkiye Büyük Millet Meclisi tarafından seçilecek üyeliklerine ilişkin başvurular Meclis Başkanlığına yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yargi-x3zwx-mtmyw06a-9-6gzq",
+    "topic_id": "t-yargi-x3zwx",
+    "prompt": "Yargıtay üyelerinin tamamını kim seçer?",
+    "options": [
+      "Cumhurbaşkanı",
+      "HSK",
+      "TBMM",
+      "Adalet Bakanı",
+      "Anayasa Mahkemesi"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – HSK. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “HSK”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:54.808885+00:00",
+    "updated_at": "2026-09-04T13:05:54.808885+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-0-ronz",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "4734 sayılı Kanun'un 60 ıncı maddesine göre, bu Kanun'a aykırı fiil veya davranışlardan dolayı hüküm giyen idare görevlileri, bu Kanun kapsamına giren işlerde ....................",
+    "options": [
+      "Görevlendirilebilirler",
+      "Görevlendirilemezler",
+      "Geçici görevlendirilirler",
+      "İhale komisyonunda yer alabilirler",
+      "Sadece doğrudan teminde görev alabilirler"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Görevlendirilemezler. Madde 60 uyarınca bu Kanun'a aykırı fiil veya davranışlardan dolayı hüküm giyen idare görevlileri, bu Kanun kapsamına giren işlerde görevlendirilemezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-1-1fiu",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Mücbir sebep hâlleri dışında, ihale üzerinde kaldığı halde sözleşme yapmayan istekli hakkında ne kadar süreyle yasaklama kararı verilir?",
+    "options": [
+      "3 ay - 6 ay",
+      "1 yıl - 2 yıl",
+      "2 yıl - 3 yıl",
+      "6 ay - 1 yıl",
+      "Sürekli"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"6 ay - 1 yıl\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 58.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-10-rkq9",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Haklarında 17'nci madde kapsamında kamu davası açılmasına karar verilenler, yargılama sonuna kadar ne yapamaz?",
+    "options": [
+      "Sadece teminat veremez",
+      "Şikâyet başvurusunda bulunamaz",
+      "Sözleşme devredemez",
+      "İhalelere katılamaz",
+      "Alt yüklenici olamaz"
+    ],
+    "answer_index": 3,
+    "explanation": "Madde 59 uyarınca haklarında kamu davası açılmasına karar verilenler, yargılama sonuna kadar Kanun kapsamındaki kamu kurum ve kuruluşlarının ihalelerine katılamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-11-dwom",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "İhale yetkilisi, ihale komisyonlarının başkan ve üyeleri ile ihale sürecinde görev alan diğer ilgililerin görevlerini kanuni gereklere uygun veya tarafsızlıkla yapmadıklarının tespiti hâlinde, haklarında ilgili mevzuatları gereğince .................... cezası uygulanır.",
+    "options": [
+      "Hapis",
+      "Disiplin",
+      "Adli para",
+      "Kınama",
+      "Meslekten men"
+    ],
+    "answer_index": 1,
+    "explanation": "Cevap: Disiplin. Madde 60 uyarınca belirtilen hâllerde ilgililer hakkında ilgili mevzuatları gereğince disiplin cezası uygulanır; ayrıca fiil veya davranışlarının özelliğine göre ceza kovuşturması da yapılır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-12-kpw0",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "4734 sayılı Kanun'un 61 inci maddesine göre görevliler ve danışmanlık hizmeti sunanlar aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "İşin yaklaşık maliyetini ifşa etmek",
+      "İhale dokümanını hazırlamak",
+      "İhale komisyonunda tutanak düzenlemek",
+      "İhale sonucunu mevzuata uygun bildirmek",
+      "İhale işlem dosyası oluşturmak"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 61 uyarınca görevliler ile danışmanlık hizmeti sunanlar işin yaklaşık maliyetini ve gizli kalması gereken bilgi ve belgeleri ifşa edemez veya yararlarına kullanamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-2-l5n8",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "İhalelere katılmaktan yasaklama kararı vermeye belediyelerde hangi makam yetkilidir?",
+    "options": [
+      "Çevre ve Şehircilik Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Maliye Bakanlığı",
+      "Kamu İhale Kurumu",
+      "Belediye Başkanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap A seçeneğidir: \"Çevre ve Şehircilik Bakanlığı\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 58.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-3-d1nc",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "17'nci maddede belirtilen yasak fiil veya davranışlarda bulunanlar hakkında ne kadar süreyle yasaklama kararı verilir?",
+    "options": [
+      "6 aydan az olmamak üzere 1 yıla kadar",
+      "1 yıldan az olmamak üzere 2 yıla kadar",
+      "2 yıldan az olmamak üzere 3 yıla kadar",
+      "1 yıldan az olmamak üzere 3 yıla kadar",
+      "3 aydan az olmamak üzere 6 aya kadar"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 58/1 uyarınca, 17'nci maddede belirtilen fiil veya davranışlarda bulunanlar hakkında bir yıldan az olmamak üzere iki yıla kadar yasaklama kararı verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-4-mzvc",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi izleyen en geç kaç gün içinde verilir?",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D’dir. 4734 sayılı Kanun'un 58 inci maddesine göre yasaklama kararları, fiil veya davranışın tespit edildiği tarihi izleyen en geç kırk beş gün içinde verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-5-znfy",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Sürekli olarak kamu ihalelerine katılmaktan yasaklama kararı kim tarafından verilir?",
+    "options": [
+      "İhale Yetkilisi",
+      "Mahkeme",
+      "İlgili Bakanlık",
+      "İhale Komisyonu",
+      "Kamu İhale Kurumu"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap B seçeneğidir: \"Mahkeme\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 59.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-6-bd43",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "İl özel idareleri ile bunlara bağlı birlik, müessese ve işletmelerde ihalelere katılmaktan yasaklama kararını hangi bakanlık verir?",
+    "options": [
+      "Çevre ve Şehircilik Bakanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Adalet Bakanlığı",
+      "İlgili valilik"
+    ],
+    "answer_index": 2,
+    "explanation": "Madde 58/1 uyarınca il özel idareleri ve bunlara bağlı birlik, müessese ve işletmelerde yasaklama kararı İçişleri Bakanlığı tarafından verilir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-7-7qyv",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Yasaklama kararları, Resmî Gazete'de yayımlanmak üzere en geç kaç gün içinde gönderilir?",
+    "options": [
+      "10",
+      "30",
+      "45",
+      "15",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D seçeneğidir: \"15\". Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 58.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-8-xu2l",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "Yasaklama kararları Resmî Gazete'de .................... tarihinde yürürlüğe girer.",
+    "options": [
+      "Onayı",
+      "Bildirimi",
+      "Tespiti",
+      "Yayımı",
+      "Tebliği"
+    ],
+    "answer_index": 3,
+    "explanation": "Cevap: Yayımı. Dayanak: 4734 sayılı Kamu İhale Kanunu, Madde 58.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd-mtn0c7he-9-6cui",
+    "topic_id": "t-yasaklar-ve-ceza-sorumlulugu-tgnvd",
+    "prompt": "4734 sayılı Kamu İhale Kanunu'na göre, aşağıdakilerden hangisi ihalelere katılmaktan yasaklama kararını verecek mercilerden değildir?",
+    "options": [
+      "İhaleyi yapan bakanlık",
+      "İlgili veya bağlı bulunulan bakanlık",
+      "Özel idarelerde İçişleri Bakanlığı",
+      "Belediyelerde Belediye Başkanı",
+      "Herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu idarelerin ihale yetkilileri"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap D’dir. Madde 58 uyarınca belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde yasaklama kararı Çevre ve Şehircilik Bakanlığı tarafından verilir. Aynı maddede, herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu idarelerin ihale yetkilileri de yasaklama kararı verecek merciler arasında sayılmıştır.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:46:30.389804+00:00",
+    "updated_at": "2026-09-04T13:46:30.389804+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-0-gv3t",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararının verilmesi ve yürürlüğe girmesi sürecine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yasaklama kararı en geç otuz gün içinde verilir.",
+      "Yasaklama kararı verildikten sonra yürürlüğe girmesi için ayrıca onay gerekir.",
+      "Yasaklama kararı Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+      "Yasaklama süresi altı aydan az olamaz.",
+      "Yasaklama kararı yalnızca Kamu İhale Kurumu tarafından verilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-1-s9xc",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre hizmet sunucularının sorumluluğuna ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hizmet sunucuları, taahhütleri çerçevesinde ortaya çıkan zarar ve ziyandan doğrudan sorumludur.",
+      "Hizmet sunucuları yalnızca sözleşme süresince sorumludur.",
+      "Kusurlu veya standartlara uygun olmayan malzeme seçilmesi sorumluluk doğurmaz.",
+      "Hizmet sunucuları hakkında 27 nci madde hükümleri uygulanamaz.",
+      "Zarar ve ziyan hizmet sunucusuna tazmin ettirilemez."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-10-7jx1",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararlarının izlenmesi ve sicillerin tutulmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yasaklama kararlarının sicilini Danıştay tutar.",
+      "Yasaklama kararları Kamu İhale Kurumunca izlenir ve kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.",
+      "Sicil işlemi yapılmadan yasaklama kararı yürürlüğe girmez.",
+      "Sicil yalnızca mahkeme kararları için tutulur.",
+      "Siciller ilgili idarelerin onayıyla tutulur."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-11-nkq7",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre danışmanlık hizmeti sunucularının sorumluluğuna ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sorumluluk yalnızca sözleşme süresince devam eder.",
+      "Sorumluluk 5 yıl sürer.",
+      "Zarar ve ziyan nedeniyle on beş yıl süreyle müteselsilen sorumluluk söz konusu olabilir.",
+      "Danışmanlık hizmeti sunucuları hiçbir şekilde yüklenici ile birlikte sorumlu olmaz.",
+      "Sorumluluk yalnızca idari para cezası ile sınırlıdır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 32.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-12-p530",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararı hangi tarihte yürürlüğe girer?",
+    "options": [
+      "Karar tarihinden itibaren",
+      "İdare onayından itibaren",
+      "Tebliğ edildiği tarihte",
+      "Sicile işlendiği tarihte",
+      "Resmî Gazete'de yayımlandığı tarihte"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-13-pjjn",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanuna aykırı fiil ve davranışları nedeniyle haklarında hüküm giyen idare görevlileri hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece disiplin cezası uygulanır.",
+      "Bir yıl süreyle görevlendirilemezler.",
+      "Bu Kanun kapsamındaki işlerde görevlendirilemezler.",
+      "Yalnızca para cezası uygulanır.",
+      "Görevden uzaklaştırılırlar ancak görevlendirilmeleri mümkündür."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-14-xvhi",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi izleyen en geç kaç gün içinde verilir?",
+    "options": [
+      "45 gün",
+      "30 gün",
+      "15 gün",
+      "60 gün",
+      "90 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-15-a8rk",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararı verilen bir sermaye şirketinde sermayesinin yarısından fazlasına sahip ortak hakkında aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Hiçbir işlem yapılmaz",
+      "Para cezası uygulanır",
+      "Aynı yasaklama kararı uygulanır",
+      "Sadece disiplin cezası",
+      "Teminat artırımı"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-16-yyfq",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre haklarında yasaklama kararı verilen tüzel kişilerin sermaye şirketi olması hâlinde aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece şirket yasaklanır.",
+      "Sermayesinin yarısından fazlasına sahip gerçek veya tüzel kişi ortaklar hakkında da yasaklama kararı verilir.",
+      "Yalnız yönetim kurulu başkanı yasaklanır.",
+      "Bütün ortaklar pay oranına bakılmaksızın yasaklanır.",
+      "Ortaklar hakkında yalnız para cezası uygulanır."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-17-x2v8",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapı denetim görevlilerinin sorumluluk süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "15 yıl",
+      "10 yıl",
+      "5 yıl",
+      "Sözleşme süresi kadar",
+      "Garanti süresi kadar"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 31.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-18-j2fa",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde yüklenici ve alt yüklenicilerin sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Sorumluluk yalnızca hileli malzeme kullanılması hâlinde doğar.",
+      "Kesin kabul onay tarihinden itibaren on beş yıl süreyle müteselsilen sorumludurlar.",
+      "Yüklenici ve alt yükleniciler, yapının tamamı için işe başlama tarihinden kesin kabul tarihine kadar sorumludur.",
+      "Zarar ve ziyan genel hükümlere göre ikmal ve tazmin ettirilir.",
+      "Yapının fen ve sanat kurallarına uygun yapılmaması da sorumluluk doğurur."
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-19-2vub",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde yüklenicinin sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yüklenici, kesin kabul tarihine kadar sorumludur.",
+      "Kesin kabul onay tarihinden itibaren on beş yıl süreyle müteselsilen sorumludur.",
+      "Sorumluluk yalnızca hileli malzeme kullanımı hâlinde doğar.",
+      "Zarar ve ziyan genel hükümlere göre tazmin ettirilir.",
+      "Alt yükleniciler de sorumluluk kapsamındadır."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-2-2285",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenicilere ilişkin gizli kalması gereken bilgi ve belgeleri ifşa eden veya üçüncü kişilerin yararına kullanan görevliler hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece disiplin cezası uygulanır.",
+      "Her durumda yalnızca idari para cezası uygulanır.",
+      "İlgisine göre 26 veya 28 inci madde hükümlerine göre işlem yapılır.",
+      "Sözleşme feshedilir ancak görevliler hakkında işlem yapılmaz.",
+      "Yalnızca uyarı cezası verilebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 29.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-20-mtfj",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasak fiil veya davranışlardan Türk Ceza Kanunu'na göre suç teşkil eden fiiller bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece idari para cezası uygulanır.",
+      "Yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur ve mahkemece ayrıca yasaklama kararı verilebilir.",
+      "Ceza kovuşturması yapılamaz.",
+      "Yalnız disiplin cezası uygulanır.",
+      "Kabul işleminden sonra tespit edilirse işlem yapılamaz."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-21-m8e7",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yasaklama kararları Resmî Gazete'de yayımlanmak üzere en geç on beş gün içinde gönderilir.",
+      "Yasaklama kararı Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+      "Yasaklama kararları Kamu İhale Kurumunca izlenerek sicilleri tutulur.",
+      "Yasaklama kararı verilmeden önce mutlaka yargı kararı gerekir.",
+      "Kararın yürürlüğe girdiği tarihe kadar aynı idarenin ihalelerine iştirak ettirilmezler."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-22-q8r4",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre tedarikçi ve hizmet sunucularının sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kusurlu veya standartlara uygun olmayan malzeme sorumluluk doğurabilir.",
+      "Zarar ve ziyan genel hükümlere göre ikmal ve tazmin ettirilir.",
+      "Tedarikçiler taahhütleri çerçevesinde ortaya çıkan zarardan doğrudan sorumludur.",
+      "Hizmet sunucuları taahhütleri çerçevesinde ortaya çıkan zarardan doğrudan sorumludur.",
+      "Tedarikçiler yalnızca yükleniciye karşı sorumludur; idareye karşı sorumlu değildir."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 33-34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-23-bs7h",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre verilen yasaklama kararları Resmî Gazete'de yayımlanmak üzere en geç kaç gün içinde gönderilir?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-24-vmsz",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasak fiil veya davranışları nedeniyle haklarında mükerrer ceza hükmolunanlar hakkında aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Sürekli olarak kamu ihalelerine katılmaktan yasaklama",
+      "5 yıl süreli yasak",
+      "2 yıl süreli yasak",
+      "Sadece para cezası",
+      "Teminat artırımı"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-25-q8dm",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararları, yasaklamayı gerektiren fiil ve hâllerin tespit edildiği tarihi izleyen en geç kaç gün içinde verilir?",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-26-a37p",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin mahkeme kararları, Kamu İhale Kurumunca bildirimi izleyen kaç gün içinde Resmî Gazete'de yayımlanmak suretiyle duyurulur?",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-27-y1pp",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "I. Mücbir sebepler dışında, ihale dokümanı ve sözleşme hükümlerine uygun olarak taahhüdünü yerine getirmemek.\nII. Taahhüdünü yerine getirirken idareye zarar vermek.\nIII. Sözleşme konusu işin yapılması veya teslimi sırasında hileli malzeme, araç veya usuller kullanmak.\nIV. Hile, vaat, tehdit, nüfuz kullanma, çıkar sağlama, anlaşma, irtikap veya rüşvet suretiyle sözleşmeye ilişkin işlemlere fesat karıştırmak veya buna teşebbüs etmek.\n4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yukarıdakilerden hangileri yasak fiil ve davranışlardandır?",
+    "options": [
+      "I ve II",
+      "II ve III",
+      "I ve III",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-28-tfrd",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "Kamu ihalelerine katılmaktan yasaklı olanlara ait yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi izleyen en geç ______ içinde verilir. 4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "45 gün",
+      "10 gün",
+      "15 gün",
+      "30 gün",
+      "7 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-29-a6pc",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde yüklenici ve alt yükleniciler, kesin kabul onay tarihinden itibaren kaç yıl süreyle müteselsilen sorumludur?",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "15 yıl",
+      "20 yıl",
+      "25 yıl"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-3-z3na",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasak fiiller nedeniyle haklarında mükerrer ceza hükmolunanlar hakkında aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "2 yıl süreli yasak",
+      "Sürekli olarak kamu ihalelerine katılmaktan yasaklama",
+      "5 yıl süreli yasak",
+      "Sadece para cezası",
+      "Teminat artırımı"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-30-uj6z",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre il özel idareleri ve bunlara bağlı birlik, müessese ve işletmelerde ihalelere katılmaktan yasaklama kararı hangi makam tarafından verilir?",
+    "options": [
+      "Valilik",
+      "Hazine ve Maliye Bakanlığı",
+      "Sayıştay",
+      "İçişleri Bakanlığı",
+      "Cumhurbaşkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-31-3k6s",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi yasak fiil veya davranışlardan biri değildir?",
+    "options": [
+      "Hile ve rüşvetle ihaleye fesat karıştırmak.",
+      "Sahte belge düzenlemek.",
+      "Mücbir sebep hâlleri dışında taahhüdü yerine getirmemek.",
+      "İdarenin onayı ile sözleşmeyi devretmek.",
+      "Hatalı ve kusurlu imalat yapmak."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-32-2jdd",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre 25 inci maddede belirtilen yasak fiil veya davranışlarda bulunanlar hakkında verilecek idari yasaklama süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "Altı aydan az olmamak üzere bir yıla kadar",
+      "Bir yıldan az olmamak üzere iki yıla kadar",
+      "Bir yıldan az olmamak üzere üç yıla kadar",
+      "İki yıldan az olmamak üzere beş yıla kadar",
+      "Sürekli yasaklama"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-33-69yf",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi izleyen en geç ______ gün içinde verilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "15",
+      "30",
+      "40",
+      "45",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-34-z387",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapım işlerinde yüklenici, işin fen ve sanat kurallarına uygun yapılmamasından doğan zararlardan, kesin kabul onay tarihinden itibaren kaç yıl süreyle sorumludur?",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "15 yıl",
+      "20 yıl",
+      "Ömür boyu"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-35-69u6",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre verilen yasaklama kararı, Resmî Gazete'de yayımlanmak üzere en geç ______ gün içinde gönderilir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "5",
+      "10",
+      "45",
+      "30",
+      "15"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-36-vq6w",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması hâlinde, yasaklama kararı kimler hakkında da uygulanır?",
+    "options": [
+      "Sadece şirket müdürü hakkında",
+      "Sadece imza yetkilisi hakkında",
+      "Sadece yönetim kurulu hakkında",
+      "Sadece en büyük hisse sahibi hakkında",
+      "Şirket ortaklarının tamamı hakkında"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-37-cclw",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mahkeme kararıyla sürekli olarak kamu ihalelerine katılmaktan yasaklama hangi durumda uygulanır?",
+    "options": [
+      "Yüklenicinin iflas etmesi hâlinde",
+      "Yasak fiillerin mükerrer olarak işlenmesi hâlinde",
+      "İşin süresinde bitirilmemesi hâlinde",
+      "Teminatın yakılması hâlinde",
+      "Sözleşmenin devredilmesi hâlinde"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-38-jzdc",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre gizli kalması gereken bilgi ve belgeleri ifşa eden veya kendisinin ya da üçüncü kişilerin yararına kullanan görevliler ve danışmanlık hizmeti sunanlar hakkında ne uygulanır?",
+    "options": [
+      "Yalnız disiplin cezası uygulanır.",
+      "Yalnız Borçlar Kanunu hükümleri uygulanır.",
+      "İlgisine göre 26 veya 28 inci maddede belirtilen müeyyideler uygulanır.",
+      "Yalnız İş Kanunu hükümleri uygulanır.",
+      "Herhangi bir yaptırım uygulanmaz."
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 29.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-39-3a8t",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yapı denetim görevlileri, denetim eksikliği nedeniyle işin kusurlu yapılmasından kaç yıl süreyle sorumludur?",
+    "options": [
+      "15 yıl",
+      "10 yıl",
+      "5 yıl",
+      "20 yıl",
+      "Sorumlu değildir"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 31.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-4-kazz",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre görevlerini kanunî gereklere uygun veya tarafsızlıkla yapmayan muayene ve kabul komisyonu üyeleri hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Disiplin cezası uygulanabilir.",
+      "Fiilin niteliğine göre ceza kovuşturması yapılabilir.",
+      "Uğranılan zarar ve ziyan genel hükümlere göre kendilerine tazmin ettirilir.",
+      "Bu fiiller nedeniyle haklarında hüküm giyen görevliler bu Kanun kapsamındaki işlerde görevlendirilebilir.",
+      "Taraflardan birinin zararına yol açacak ihmal veya kusur sorumluluk doğurur."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-40-88wp",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre idareler, yasaklamayı gerektiren bir durumla karşılaştıklarında gereğinin yapılması için bu durumu nereye bildirmekle yükümlüdür?",
+    "options": [
+      "Cumhuriyet Savcılığına",
+      "Kamu İhale Kurumuna",
+      "İlgili veya bağlı bulunulan Bakanlığa",
+      "Valiliğe",
+      "Sayıştaya"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-41-xrbx",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre haklarında yasaklama kararı verilenlerin sermaye şirketi olması hâlinde bu karar, şirketin sermayesinin ne kadarına sahip ortaklar hakkında da uygulanır?",
+    "options": [
+      "%10'undan fazlasına",
+      "%25'inden fazlasına",
+      "Yarısından (%50) fazlasına",
+      "Tamamına",
+      "Yönetim kuruluna"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-42-3okd",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mücbir sebepler dışında ihale dokümanı ve sözleşme hükümlerine uygun olarak taahhüdünü yerine getirmemek nasıl nitelendirilir?",
+    "options": [
+      "Görevi kötüye kullanma",
+      "İhaleye fesat karıştırma",
+      "Dolandırıcılık",
+      "Edimin ifasına fesat karıştırma",
+      "Yasak fiil ve davranış"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-43-ha74",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre mahkeme kararıyla yasaklananlar ve haklarında ceza hükmolunanlar, Cumhuriyet savcılıklarınca nereye bildirilir?",
+    "options": [
+      "Yalnız İçişleri Bakanlığına",
+      "Yalnız valiliklere",
+      "Sicillerine işlenmek üzere Kamu İhale Kurumuna ve meslek sicillerine işlenmek üzere ilgili meslek odalarına",
+      "Yalnız Sayıştaya",
+      "Yalnız Hazine ve Maliye Bakanlığına"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-44-75fc",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre danışmanlık hizmeti sunucularının, yapı denetimi hizmetinin sunulduğu hâllerde tasarım hatası veya uygulama yanlışlığı nedeniyle ortaya çıkan zararlardan yüklenici ve alt yüklenicilerle birlikte müteselsilen sorumluluk süresi kaç yıldır?",
+    "options": [
+      "15 yıl",
+      "10 yıl",
+      "5 yıl",
+      "20 yıl",
+      "Süresiz"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 32.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-45-jm6v",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre tedarikçiler, taahhütleri çerçevesinde kusurlu malzeme vermeleri nedeniyle ortaya çıkan zarardan nasıl sorumludur?",
+    "options": [
+      "Sorumlu değildir.",
+      "Doğrudan sorumludur.",
+      "Dolaylı sorumludur.",
+      "Sadece garanti süresince sorumludur.",
+      "İdare sorumludur."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 33.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-46-liu5",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre muayene ve kabul komisyonlarının başkan ve üyelerinin görevlerini kanunî gereklere uygun veya tarafsızlıkla yapmadıklarının tespit edilmesi hâlinde aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Sadece uyarı cezası",
+      "Disiplin cezası ve gerekirse ceza kovuşturması",
+      "Sadece yer değişikliği",
+      "Maaş kesintisi",
+      "Emeklilik işlemi"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-47-13qd",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yüklenici ve alt yükleniciler, yapının fen ve sanat kurallarına uygun olarak yapılmamasından dolayı işe başlama tarihinden itibaren ne zamana kadar sorumludur?",
+    "options": [
+      "Geçici kabule kadar",
+      "Kesin kabule kadar",
+      "Garanti süresi bitene kadar",
+      "Ömür boyu",
+      "5 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 30.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-48-bm0x",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre Türk Ceza Kanunu'na göre suç teşkil eden fiil veya davranışlarda bulunanlar hakkında hükmolunacak cezanın yanı sıra, idarece verilen yasaklama kararının bitiş tarihinden itibaren uygulanmak üzere mahkemece ne kadar süreyle yasaklama kararı verilir?",
+    "options": [
+      "1 yıldan az, 3 yıldan çok olmamak üzere",
+      "2 yıldan az, 5 yıldan çok olmamak üzere",
+      "6 aydan az olmamak üzere",
+      "Süresiz",
+      "Mahkemenin takdirine bağlıdır (süre sınırı yok)"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-49-udxz",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin mahkeme kararları, Kamu İhale Kurumunca bildirimi izleyen kaç gün içinde Resmî Gazete'de yayımlanır?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "45 gün",
+      "30 gün",
+      "15 gün"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 27.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-5-npbf",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi yasak fiil ve davranışlardan biridir?",
+    "options": [
+      "Taahhüdü sözleşme hükümlerine uygun yerine getirmek.",
+      "Sözleşme konusu işte hileli malzeme, araç veya usuller kullanmak.",
+      "İdarenin onayıyla iş programını güncellemek.",
+      "Usulüne uygun süre uzatımı talep etmek.",
+      "Hakediş düzenlemek."
+    ],
+    "answer_index": 1,
+    "explanation": "4735 sayılı Kanun md. 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-50-vezx",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ihalelere katılmaktan yasaklama kararı hangi bakanlık tarafından verilir?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Hazine ve Maliye Bakanlığı",
+      "Maliye Bakanlığı",
+      "Çevre ve Şehircilik Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-51-o7nt",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre sözleşmenin uygulanması sırasında bilgi ve deneyimini idarenin zararına kullanmak hangi niteliktedir?",
+    "options": [
+      "Mücbir sebep sayılır",
+      "Yalnız disiplin ihlalidir",
+      "Sözleşmede serbestçe kararlaştırılabilir",
+      "Sadece danışmanlar için yasaktır",
+      "Yasak fiil veya davranıştır"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 25.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-52-4bvo",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre görevlilerin kusurlu hareketleri nedeniyle tarafların uğradıkları zarar ve ziyan nasıl tazmin ettirilir?",
+    "options": [
+      "Genel hükümlere göre kendilerine tazmin ettirilir",
+      "Yalnız disiplin hükümlerine göre",
+      "Kamu İhale Kurumunca karşılanır",
+      "Hazine tarafından karşılanır",
+      "Tazmin söz konusu değildir"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-53-zfmv",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bu Kanun kapsamına giren işlerden dolayı yargı organlarınca herhangi bir ceza verilmiş olanlar bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kanunun uygulanmasıyla görevli ve yetkili kadrolara atanabilirler",
+      "Yalnız bir yıl süreyle görev alamazlar",
+      "Sadece muayene komisyonunda görev alamazlar",
+      "Kanunun ve ilgili diğer mevzuatın uygulanmasıyla görevli ve yetkili kadrolara atanamaz ve görev alamazlar",
+      "Yalnız aynı idarede görev alamazlar"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 28.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-54-wrdo",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre bilgi ve belgeleri açıklama yasağı kimleri kapsar?",
+    "options": [
+      "Yalnız yüklenicileri",
+      "Yalnız ihale yetkilisini",
+      "Yalnız alt yüklenicileri",
+      "Yalnız muayene ve kabul komisyonunu",
+      "Kanunun uygulanmasında görevliler ile danışmanlık hizmeti sunanları"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 29.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-55-l97f",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre danışmanlık hizmetlerinde yapı denetimi hizmetinin sunulmadığı durumda meydana gelen zarar ve ziyandan hizmet sunucusunun sorumluluğu nasıldır?",
+    "options": [
+      "Doğrudan sorumludur",
+      "Yalnız yükleniciyle birlikte sorumludur",
+      "Sorumlu değildir",
+      "Yalnız idarenin kusuru varsa sorumludur",
+      "Sadece alt yüklenici sorumludur"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 32.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-56-9luv",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre hizmet sunucularının neden olduğu zarar ve ziyan nasıl tazmin ettirilir?",
+    "options": [
+      "Kamu İhale Kurumuna tazmin ettirilir",
+      "İdare tarafından karşılanır",
+      "Yalnız sigortadan karşılanır",
+      "Genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir",
+      "Tazmin edilmez"
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-57-chul",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre hizmet sunucuları hakkında sorumlulukları nedeniyle ayrıca hangi madde hükümleri uygulanır?",
+    "options": [
+      "20 nci madde",
+      "22 nci madde",
+      "25 inci madde",
+      "31 inci madde",
+      "27 nci madde"
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 34.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-6-hasc",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre tedarikçilerin sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "Kusurlu malzeme verilmesi hâlinde doğrudan sorumludur.",
+      "Zarar genel hükümlere göre tazmin ettirilir.",
+      "Haklarında 27 nci madde hükümleri uygulanabilir.",
+      "Tedarikçiler yalnızca yükleniciye karşı sorumludur; idareye karşı sorumlu değildir.",
+      "Standartlara uygun olmayan malzeme verilmesi sorumluluk doğurur."
+    ],
+    "answer_index": 3,
+    "explanation": "4735 sayılı Kanun md. 33.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-7-tocw",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Yasaklama kararları Resmî Gazete'de yayımlanmak üzere en geç on beş gün içinde gönderilir.",
+      "Yasaklama kararı Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+      "Yasaklama kararları Kamu İhale Kurumunca sicile işlenir.",
+      "Yasaklama kararının yürürlüğe girdiği tarihe kadar aynı idare tarafından yapılacak ihalelere iştirak ettirilmezler.",
+      "Yasaklama kararı verilmeden önce mutlaka yargı kararı gerekir."
+    ],
+    "answer_index": 4,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-8-ob74",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre aşağıdakilerden hangisi on beş yıllık müteselsil sorumluluk kapsamında yer alır?",
+    "options": [
+      "Yüklenici, yapı denetim görevlileri ve danışmanlık hizmeti sunucuları",
+      "Yalnız yapı denetim görevlileri",
+      "Yalnız danışmanlık hizmeti sunucuları",
+      "Yüklenici ve yapı denetim görevlileri",
+      "Yalnız yüklenici"
+    ],
+    "answer_index": 0,
+    "explanation": "4735 sayılı Kanun md. 30, 31 ve 32.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasaklar-ve-sorumluluklar-w6094-mtn7xs54-9-ww6n",
+    "topic_id": "t-yasaklar-ve-sorumluluklar-w6094",
+    "prompt": "4735 sayılı Kamu İhale Sözleşmeleri Kanunu'na göre yasaklama kararları Resmî Gazete'de yayımlanmak üzere en geç kaç gün içinde gönderilir?",
+    "options": [
+      "7",
+      "10",
+      "15",
+      "30",
+      "45"
+    ],
+    "answer_index": 2,
+    "explanation": "4735 sayılı Kanun md. 26.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T17:19:15.211346+00:00",
+    "updated_at": "2026-09-04T17:19:15.211346+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-0-mq59",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletvekili seçilebilmek için kaç yaşını doldurmuş olmak gerekir?",
+    "options": [
+      "21",
+      "25",
+      "18",
+      "30",
+      "40"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 18. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “18”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-1-gisd",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Aşağıdakilerden hangisi milletvekili seçilmeye engel değildir?",
+    "options": [
+      "Kısıtlı olmak",
+      "Zimmet suçundan hüküm giymek",
+      "Kamu hizmetinden yasaklı olmak",
+      "Taksirli suçlardan hüküm giymek",
+      "İlkokul mezunu olmamak"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Taksirli suçlardan hüküm giymek. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Taksirli suçlardan hüküm giymek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-10-zn2r",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletvekilliğinin düşmesi kararlarından hangisi TBMM Genel Kurulu oylaması ile olur?",
+    "options": [
+      "Ölüm",
+      "Cumhurbaşkanı seçilme",
+      "İstifa",
+      "Kesin hüküm giyme",
+      "Kısıtlanma"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – İstifa. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “İstifa”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-11-jtts",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM toplantı yeter sayısı kaçtır?",
+    "options": [
+      "151",
+      "184",
+      "276",
+      "200",
+      "301"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 200. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “200”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-12-cudi",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM karar yeter sayısı, hiçbir şekilde üye tamsayısının yüzde kaçından az olamaz?",
+    "options": [
+      "%10",
+      "%20",
+      "%50’sinin 1 fazlası (301)",
+      "%100",
+      "Üye tamsayısının dörtte birinin bir fazlası (151)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Üye tamsayısının dörtte birinin bir fazlası (151). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının dörtte birinin bir fazlası (151)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-13-6c1t",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Cumhurbaşkanı, TBMM’den gelen kanunları kaç gün içinde yayımlar veya geri gönderir?",
+    "options": [
+      "7",
+      "15",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 15. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “15”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-14-gxnh",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Cumhurbaşkanı, hangi kanunu TBMM’ye geri gönderemez (veto edemez)?",
+    "options": [
+      "Bütçe Kanunu",
+      "Ceza Kanunu",
+      "Medeni Kanun",
+      "Borçlar Kanunu",
+      "Ticaret Kanunu"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Bütçe Kanunu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Bütçe Kanunu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-15-57df",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM, geri gönderilen kanunu hangi çoğunlukla kabul ederse Cumhurbaşkanı yayımlamak zorundadır?",
+    "options": [
+      "Toplantıya katılanların salt çoğunluğu",
+      "Üye tamsayısının 3/5’i",
+      "Üye tamsayısının salt çoğunluğu (301)",
+      "Üye tamsayısının 2/3’ü",
+      "Oy birliği"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Üye tamsayısının salt çoğunluğu (301). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının salt çoğunluğu (301)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-16-u6q9",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Savaş ilanına kim karar verir?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Genelkurmay Başkanı",
+      "Millî Güvenlik Kurulu",
+      "Millî Savunma Bakanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-17-arx8",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletlerarası andlaşmaların onaylanmasını uygun bulma yetkisi kime aittir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Dışişleri Bakanı",
+      "Anayasa Mahkemesi",
+      "TBMM",
+      "Danıştay"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-18-eb7z",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunlar çatışırsa hangisi esas alınır?",
+    "options": [
+      "Kanunlar",
+      "Önceki tarihli olan",
+      "Milletlerarası andlaşmalar",
+      "Sonraki tarihli olan",
+      "Anayasa Mahkemesi kararı beklenir"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Milletlerarası andlaşmalar. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Milletlerarası andlaşmalar”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-19-1uuv",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM bir yasama yılında en çok kaç ay tatil yapabilir?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 3. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “3”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-2-49d1",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üye sayısı kaçtır?",
+    "options": [
+      "500",
+      "450",
+      "600",
+      "550",
+      "650"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 600. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “600”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-20-hoo6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM her yıl hangi ayın ilk günü kendiliğinden toplanır?",
+    "options": [
+      "Eylül",
+      "Kasım",
+      "Ocak",
+      "Ekim",
+      "Mart"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Ekim. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Ekim”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-21-3wd5",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Aşağıdakilerden hangisi TBMM Başkanlık Divanı üyesi değildir?",
+    "options": [
+      "Meclis Başkanı",
+      "Başkanvekilleri",
+      "Katip Üyeler",
+      "İdare Amirleri",
+      "Siyasi Parti Grup Başkanvekilleri"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Siyasi Parti Grup Başkanvekilleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Siyasi Parti Grup Başkanvekilleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-22-ua4w",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Başkanı seçimi en fazla kaç turda tamamlanır?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 4. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “4”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-23-m86e",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM, savaş halleri dışında genel ve özel af ilan edebilir mi?",
+    "options": [
+      "Hayır, sadece Cumhurbaşkanı edebilir.",
+      "Hayır, anayasaya aykırıdır.",
+      "Evet, 3/5 (360) çoğunlukla edebilir.",
+      "Evet, salt çoğunlukla edebilir.",
+      "Sadece özel af ilan edebilir."
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Evet, 3/5 (360) çoğunlukla edebilir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Evet, 3/5 (360) çoğunlukla edebilir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-24-ax3f",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yüksek Seçim Kurulu (YSK) kararlarına karşı yargı yolu nasıldır?",
+    "options": [
+      "Danıştaya gidilebilir.",
+      "Kararları kesindir, başka bir mercie başvurulamaz.",
+      "Anayasa Mahkemesine gidilebilir.",
+      "İtiraz üzerine TBMM karar verir.",
+      "Cumhurbaşkanı onayı ile kesinleşir."
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Kararları kesindir, başka bir mercie başvurulamaz. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kararları kesindir, başka bir mercie başvurulamaz.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-25-wo3a",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "YSK üyelerini kim seçer?",
+    "options": [
+      "Yargıtay ve Danıştay Genel Kurulları",
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Adalet Bakanı",
+      "HSK"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yargıtay ve Danıştay Genel Kurulları. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargıtay ve Danıştay Genel Kurulları”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-26-zja9",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Seçimler ve halkoylaması kimin yönetim ve denetimi altında yapılır?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Adalet Bakanlığı",
+      "Yargı",
+      "TBMM",
+      "Hükümet"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yargı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yargı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-27-egsc",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM ve Cumhurbaşkanlığı seçimleri kaç yılda bir yapılır?",
+    "options": [
+      "3 yılda bir",
+      "5 yılda bir",
+      "4 yılda bir",
+      "7 yılda bir",
+      "2 yılda bir"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 5 yılda bir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “5 yılda bir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-28-2if2",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Ara seçim her seçim döneminde kural olarak kaç defa yapılır?",
+    "options": [
+      "1 defa",
+      "Hiç yapılmaz",
+      "2 defa",
+      "3 defa",
+      "İhtiyaç duyuldukça sınırsız"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 1 defa. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “1 defa”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-29-a6l6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Genel seçimlere ne kadar süre kala ara seçime gidilemez?",
+    "options": [
+      "3 ay",
+      "1 yıl",
+      "6 ay",
+      "18 ay",
+      "2 yıl"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 1 yıl. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “1 yıl”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-3-ix33",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Bir ilin veya seçim çevresinin TBMM’de üyesinin kalmaması hâlinde yapılan seçime ne ad verilir?",
+    "options": [
+      "Erken seçim",
+      "Genel seçim",
+      "Yerel seçim",
+      "Kısmi seçim",
+      "Ara seçim"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Ara seçim. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Ara seçim”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-30-57xh",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Seçimlerin genel yönetim ve denetimi hangi organa aittir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Yüksek Seçim Kurulu",
+      "Danıştay",
+      "İçişleri Bakanlığı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Yüksek Seçim Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Yüksek Seçim Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-31-cwdu",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yüksek Seçim Kurulu (YSK) kaç üyeden oluşur?",
+    "options": [
+      "11 asıl, 4 yedek",
+      "7 asıl, 4 yedek",
+      "5 asıl, 2 yedek",
+      "15 asıl, 5 yedek",
+      "6 asıl, 5 yedek"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 7 asıl, 4 yedek. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “7 asıl, 4 yedek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-32-boke",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyeleri kimi temsil eder?",
+    "options": [
+      "Seçildikleri bölgeyi",
+      "Kendilerini seçenleri",
+      "Bağlı oldukları siyasi partiyi",
+      "Sadece kendi seçmenlerini",
+      "Bütün Milleti"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Bütün Milleti. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Bütün Milleti”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-33-aqhz",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyeleri göreve başlarken ne yaparlar?",
+    "options": [
+      "And içerler",
+      "Mazbata alırlar",
+      "Parti rozeti takarlar",
+      "Kayıt yaptırırlar",
+      "Genel Kurul’u selamlarlar"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – And içerler. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “And içerler”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-34-ojz4",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasanın 82. maddesine göre aşağıdakilerden hangisi milletvekilliğiyle bağdaşmayan işlerden biridir?",
+    "options": [
+      "Bir kitap yayımlamak",
+      "Bilimsel makale yazmak",
+      "Seçmenlerle toplantı yapmak",
+      "Meclis komisyonunda görev yapmak",
+      "Devlet ve diğer kamu tüzel kişilerinde görev almak"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Devlet ve diğer kamu tüzel kişilerinde görev almak. Madde 82, TBMM üyelerinin Devlet ve diğer kamu tüzel kişilerinde ve maddede sayılan bağlı kuruluş, teşebbüs ve kuruluşlarda görev alamayacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-35-in5c",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Dokunulmazlığın kaldırılması veya üyeliğin düşmesi kararlarına karşı Anayasa Mahkemesi kaç gün içinde kesin karar verir?",
+    "options": [
+      "7 gün",
+      "15 gün",
+      "10 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 15 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “15 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-36-hx4f",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletvekilliğinin istifa nedeniyle düşmesine kim karar verir?",
+    "options": [
+      "TBMM Başkanı",
+      "YSK",
+      "Anayasa Mahkemesi",
+      "Cumhurbaşkanı",
+      "TBMM Genel Kurulu"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – TBMM Genel Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM Genel Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-37-1uem",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içerisinde toplam kaç birleşim günü katılmayan milletvekilinin üyeliği düşürülebilir?",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "10",
+      "15"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 5. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “5”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-38-fwdl",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM’nin görev ve yetkileri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kanun koymak, değiştirmek, kaldırmak",
+      "Para basılmasına karar vermek",
+      "Savaş ilanına karar vermek",
+      "Genel ve özel af ilanına karar vermek",
+      "Kanun Hükmünde Kararname çıkarmak"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Kanun Hükmünde Kararname çıkarmak. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun Hükmünde Kararname çıkarmak”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-39-5mz5",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Kanun teklif etmeye kim yetkilidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Bakanlar",
+      "Yüksek Yargı Organları",
+      "Milletvekilleri",
+      "Sivil Toplum Kuruluşları"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Milletvekilleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Milletvekilleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-4-t2nc",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM seçimleri savaş sebebiyle ne kadar süreyle geriye bırakılabilir?",
+    "options": [
+      "6 ay",
+      "2 yıl",
+      "1 yıl",
+      "3 yıl",
+      "Süresiz"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – 1 yıl. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “1 yıl”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-40-5zip",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Milletlerarası andlaşmaların onaylanması TBMM’nin ne yapmasına bağlıdır?",
+    "options": [
+      "Karar almasına",
+      "Bildiri yayınlamasına",
+      "Referanduma sunmasına",
+      "Anayasa Mahkemesine göndermesine",
+      "Onaylamayı bir kanunla uygun bulmasına"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Onaylamayı bir kanunla uygun bulmasına. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Onaylamayı bir kanunla uygun bulmasına”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-41-jygd",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmalar ne hükmündedir?",
+    "options": [
+      "Yönetmelik",
+      "Genelge",
+      "Anayasa",
+      "Kanun",
+      "Kararname"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Kanun. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanun”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-42-xdc2",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine izin verme yetkisi kime aittir?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Genelkurmay Başkanı",
+      "Millî Güvenlik Kurulu",
+      "Dışişleri Bakanı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-43-nhfc",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM tatildeyken ülkenin ani bir silahlı saldırıya uğraması durumunda TSK’nın kullanılmasına kim karar verebilir?",
+    "options": [
+      "Meclis Başkanı",
+      "Cumhurbaşkanı",
+      "Başkomutan",
+      "Millî Savunma Bakanı",
+      "Genelkurmay Başkanı"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – Cumhurbaşkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-44-pgka",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Ara verme veya tatil sırasında TBMM’yi kim toplantıya çağırabilir?",
+    "options": [
+      "Sadece Cumhurbaşkanı",
+      "Sadece Meclis Başkanı",
+      "Başbakan",
+      "Cumhurbaşkanı veya Meclis Başkanı",
+      "Anayasa Mahkemesi Başkanı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Cumhurbaşkanı veya Meclis Başkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Cumhurbaşkanı veya Meclis Başkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-45-cxs6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyelerinin beşte birinin yazılı istemi üzerine Meclisi kim toplantıya çağırır?",
+    "options": [
+      "Cumhurbaşkanı",
+      "En yaşlı üye",
+      "Meclis Başkanı",
+      "Siyasi parti grup başkanvekilleri",
+      "Genel Sekreter"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Meclis Başkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Meclis Başkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-46-31iv",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Başkanlık Divanı kimlerden oluşur?",
+    "options": [
+      "Meclis Başkanı ve Parti Liderleri",
+      "Meclis Başkanı ve Komisyon Başkanları",
+      "Meclis Başkanı ve Genel Sekreter",
+      "Meclis Başkanı, Başkanvekilleri, Katip Üyeler, İdare Amirleri",
+      "Meclis Başkanı ve Cumhurbaşkanı Yardımcısı"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Meclis Başkanı, Başkanvekilleri, Katip Üyeler, İdare Amirleri. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Meclis Başkanı, Başkanvekilleri, Katip Üyeler, İdare Amirleri”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-47-pjsl",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Siyasi parti grupları en az kaç üyeden meydana gelir?",
+    "options": [
+      "10",
+      "20",
+      "15",
+      "25",
+      "30"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – 20. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “20”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-48-2b9f",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Siyasi parti grupları TBMM Başkanlığı için aday gösterebilirler mi?",
+    "options": [
+      "Evet, gösterebilirler.",
+      "Sadece iktidar partisi gösterebilir.",
+      "Sadece muhalefet partileri gösterebilir.",
+      "Hayır, siyasi parti grupları Başkanlık için aday gösteremezler.",
+      "Ortak aday gösterebilirler."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Hayır, siyasi parti grupları Başkanlık için aday gösteremezler. Madde 94, siyasi parti gruplarının TBMM Başkanlığı için aday gösteremeyeceğini açıkça düzenler. Bu yasak Başkanlık Divanındaki tüm üyeliklere genellenmemelidir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-49-q41i",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Başkanı seçiminde ilk iki oylamada aranan çoğunluk nedir?",
+    "options": [
+      "Üye tamsayısının 2/3’ü (400)",
+      "Salt çoğunluk",
+      "Üye tamsayısının 3/5’i",
+      "Katılanların salt çoğunluğu",
+      "Basit çoğunluk"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Üye tamsayısının 2/3’ü (400). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 2/3’ü (400)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-5-qevq",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yasama sorumsuzluğu neyi ifade eder?",
+    "options": [
+      "Milletvekilinin meclis çalışmalarındaki oy ve sözlerinden sorumlu tutulmamasını",
+      "Milletvekilinin tutuklanamamasını",
+      "Milletvekilinin yargılanamamasını",
+      "Milletvekilinin askerlikten muaf olmasını",
+      "Milletvekilinin vergi vermemesini"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Milletvekilinin meclis çalışmalarındaki oy ve sözlerinden sorumlu tutulmamasını. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Milletvekilinin meclis çalışmalarındaki oy ve sözlerinden sorumlu tutulmamasını”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-50-7wzg",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM, Anayasa’da başkaca bir hüküm yoksa hangi çoğunlukla toplanır (Toplantı Yeter Sayısı)?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu",
+      "Üye tamsayısının 1/4’ü",
+      "Üye tamsayısının 3/5’i",
+      "184 milletvekili",
+      "Üye tamsayısının 1/3’ü (200)"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Üye tamsayısının 1/3’ü (200). 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Üye tamsayısının 1/3’ü (200)”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-51-v07a",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM’de karar yeter sayısı (Anayasa’da başkaca hüküm yoksa) kural olarak nedir?",
+    "options": [
+      "Toplantıya katılanların salt çoğunluğu",
+      "Üye tamsayısının salt çoğunluğu",
+      "200 milletvekili",
+      "301 milletvekili",
+      "360 milletvekili"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Toplantıya katılanların salt çoğunluğu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Toplantıya katılanların salt çoğunluğu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-52-3ho6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Meclis araştırması nedir?",
+    "options": [
+      "Hükümeti düşürme yöntemidir.",
+      "Bakanları yargılama yöntemidir.",
+      "Kanun teklifi hazırlama sürecidir.",
+      "Belli bir konuda bilgi edinmek için yapılan incelemedir.",
+      "Cumhurbaşkanını denetleme yoludur."
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Belli bir konuda bilgi edinmek için yapılan incelemedir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Belli bir konuda bilgi edinmek için yapılan incelemedir.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-53-qy9g",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yazılı soru önergeleri en geç kaç gün içinde cevaplanmalıdır?",
+    "options": [
+      "15 gün",
+      "7 gün",
+      "10 gün",
+      "30 gün",
+      "60 gün"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – 15 gün. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “15 gün”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-54-pwvs",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM’nin kolluk ve yönetim hizmetleri kim tarafından düzenlenir ve yürütülür?",
+    "options": [
+      "İçişleri Bakanlığı",
+      "Emniyet Genel Müdürlüğü",
+      "Valilik",
+      "Jandarma",
+      "Meclis Başkanlığı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Meclis Başkanlığı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Meclis Başkanlığı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-55-hta6",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yasama dokunulmazlığının istisnası olan “ağır cezayı gerektiren suçüstü hali” dışında, seçimden önce soruşturmasına başlanılmış olmak kaydıyla hangi maddedeki durumlar dokunulmazlık kapsamı dışındadır?",
+    "options": [
+      "Madde 10",
+      "Madde 38 (Suç ve cezalar)",
+      "Madde 14",
+      "Madde 2 (Cumhuriyetin nitelikleri)",
+      "Madde 5 (Devletin amaçları)"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Madde 14. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “Madde 14”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-56-yc8q",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM üyelerinin ödenek ve yollukları neyle düzenlenir?",
+    "options": [
+      "Kanunla",
+      "İçtüzükle",
+      "Kararnameyle",
+      "Bütçe kanunuyla",
+      "Meclis kararıyla"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Kanunla. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Kanunla”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-57-vavv",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Genel Kurulundaki görüşmelerin tutanak dergisinde tam olarak yayımlanması zorunlu mudur?",
+    "options": [
+      "Evet, açıktır ve tam olarak yayımlanır.",
+      "Hayır, özetlenebilir.",
+      "Sadece kanun görüşmeleri yayımlanır.",
+      "Başkanlık Divanı kararına bağlıdır.",
+      "Sadece TRT’de yayınlanır."
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Evet, açıktır ve tam olarak yayımlanır. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Evet, açıktır ve tam olarak yayımlanır.”",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-58-a8ag",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Aşağıdakilerden hangisi TBMM’nin bilgi edinme ve denetim yollarından biri değildir?",
+    "options": [
+      "Meclis Araştırması",
+      "Genel Görüşme",
+      "Meclis Soruşturması",
+      "Gensoru",
+      "Yazılı Soru"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Gensoru. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Gensoru”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-59-u58r",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Cumhurbaşkanı, kanunları tekrar görüşülmek üzere TBMM’ye geri gönderirken ne yapmak zorundadır?",
+    "options": [
+      "Basın toplantısı yapmak",
+      "Parti liderleriyle görüşmek",
+      "Gerekçe göstermek",
+      "Referandum kararı almak",
+      "Anayasa Mahkemesine danışmak"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Gerekçe göstermek. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Gerekçe göstermek”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-6-f3cm",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Yasama dokunulmazlığını kaldırma yetkisi kime aittir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Cumhurbaşkanı",
+      "TBMM Genel Kurulu",
+      "Adalet Bakanlığı",
+      "TBMM Başkanı"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – TBMM Genel Kurulu. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM Genel Kurulu”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-60-ptju",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM İçtüzüğünü kim yapar?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Adalet Bakanlığı",
+      "Yargıtay"
+    ],
+    "answer_index": 1,
+    "explanation": "Doğru cevap: B – TBMM. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “TBMM”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-61-5k7z",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM’nin bütün bina ve tesislerinde kolluk hizmetlerini kim düzenler?",
+    "options": [
+      "İçişleri Bakanı",
+      "Ankara Valisi",
+      "Emniyet Genel Müdürü",
+      "Başkanlık Divanı",
+      "Meclis Başkanı"
+    ],
+    "answer_index": 4,
+    "explanation": "Doğru cevap: E – Meclis Başkanı. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Meclis Başkanı”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-62-xzmi",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "TBMM Genel Kurulundaki görüşmelerin yayımı, Başkanlık Divanı teklifi üzerine Meclisce karar alınmadıkça nasıldır?",
+    "options": [
+      "Yasaktır",
+      "İzne tabidir",
+      "Ücrete tabidir",
+      "Serbesttir",
+      "Sadece resmî kanaldan yapılır"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Serbesttir. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Serbesttir”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-63-vuk9",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasanın 81. maddesine göre TBMM üyeleri ne zaman andiçerler?",
+    "options": [
+      "Adaylık başvurusunda",
+      "Seçim kampanyası başlarken",
+      "Göreve başlarken",
+      "İlk kanun teklifini verirken",
+      "Görev süreleri sona ererken"
+    ],
+    "answer_index": 2,
+    "explanation": "Doğru cevap: C – Göreve başlarken. Madde 81, Türkiye Büyük Millet Meclisi üyelerinin göreve başlarken Anayasada yazılı metinle andiçeceklerini düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-64-7py0",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasanın 82. maddesine göre TBMM üyeleri aşağıdakilerden hangisinde görev alamazlar?",
+    "options": [
+      "TBMM komisyonlarında",
+      "Genel Kurul çalışmalarında",
+      "Meclis Başkanlık Divanında seçildikleri görevlerde",
+      "Devletin doğrudan veya dolaylı olarak katıldığı teşebbüs ve ortaklıklarda",
+      "Milletvekili sıfatıyla parti grup toplantılarında"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – Devletin doğrudan veya dolaylı olarak katıldığı teşebbüs ve ortaklıklarda. Madde 82, TBMM üyelerinin Devletin veya diğer kamu tüzel kişilerinin doğrudan ya da dolaylı katıldığı teşebbüs ve ortaklıklarda görev alamayacağını düzenler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-65-a43y",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasanın 86. maddesine göre TBMM üyelerinin yolluğu, ödenek miktarının en fazla ne kadarı olabilir?",
+    "options": [
+      "Yarısı",
+      "Dörtte biri",
+      "Üçte biri",
+      "İki katı",
+      "Tamamının üç katı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Yarısı. Madde 86’ya göre TBMM üyelerinin yolluğu, ödenek miktarının yarısını aşamaz.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-66-8z0n",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasanın 88. maddesine göre kanun tekliflerinin TBMM’de görüşülme usul ve esasları neyle düzenlenir?",
+    "options": [
+      "Genelgeyle",
+      "Cumhurbaşkanlığı kararnamesiyle",
+      "Yönetmelikle",
+      "İçtüzükle",
+      "Yargıtay içtihadıyla"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – İçtüzükle. Madde 88, kanun tekliflerinin TBMM’de görüşülme usul ve esaslarının İçtüzükle düzenleneceğini belirtir.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-67-lilc",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasa’nın 76. maddesine göre hâkimler ve savcıların milletvekili adayı olabilmeleri için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      "Görevlerinden çekilmeleri",
+      "İzinli sayılmaları",
+      "Cumhurbaşkanının onayı",
+      "Türkiye Büyük Millet Meclisinin kararı",
+      "Görevlerine devam etmeleri"
+    ],
+    "answer_index": 0,
+    "explanation": "Madde 76’ya göre hâkimler ve savcılar, görevlerinden çekilmedikçe aday olamazlar ve milletvekili seçilemezler.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-68-zzd0",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Türkiye Büyük Millet Meclisi Başkanlık Divanı, siyasi parti gruplarının Divana katılımı bakımından nasıl kurulur?",
+    "options": [
+      "Her siyasi parti grubuna eşit üye verilerek",
+      "Siyasi parti gruplarının üye sayısı oranında katılımını sağlayacak şekilde",
+      "Yalnızca en fazla üyeye sahip siyasi parti grubundan",
+      "Başkanın belirlediği oranlarda",
+      "Siyasi parti grupları dikkate alınmadan"
+    ],
+    "answer_index": 1,
+    "explanation": "Madde 94’e göre Başkanlık Divanı, Meclisteki siyasi parti gruplarının üye sayısı oranında Divana katılmalarını sağlayacak şekilde kurulur.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-7-stqj",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Dokunulmazlığı kaldırılan milletvekili kaç gün içinde itiraz edebilir?",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "7",
+      "15"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 7. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “7”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-8-h9im",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Dokunulmazlığın kaldırılmasına itirazı inceleyen merci hangisidir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "Bölge Adliye Mahkemesi",
+      "Adalet Bakanlığı"
+    ],
+    "answer_index": 0,
+    "explanation": "Doğru cevap: A – Anayasa Mahkemesi. 2709 sayılı Türkiye Cumhuriyeti Anayasası metnindeki doğru karşılık: “Anayasa Mahkemesi”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yasama-x3e3e-mtmyvsa7-9-8vat",
+    "topic_id": "t-yasama-x3e3e",
+    "prompt": "Anayasa Mahkemesi, dokunulmazlık itirazını kaç gün içinde kesin karara bağlar?",
+    "options": [
+      "7",
+      "10",
+      "30",
+      "15",
+      "60"
+    ],
+    "answer_index": 3,
+    "explanation": "Doğru cevap: D – 15. 2709 sayılı Türkiye Cumhuriyeti Anayasası metninde ilgili süre, oran, sayı veya ölçüt: “15”.",
+    "sort_order": 0,
+    "created_at": "2026-09-04T13:05:44.564167+00:00",
+    "updated_at": "2026-09-04T13:05:44.564167+00:00"
+  },
+  {
+    "id": "t-yazim-ve-noktalama-2xbz3-mt911ioh-0-7ljq",
+    "topic_id": "t-yazim-ve-noktalama-2xbz3",
+    "prompt": "Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
+    "options": [
+      "Öğretmen: “Sorularınızı çekinmeden sorabilirsiniz dedi.”",
+      "Öğretmen “Sorularınızı, çekinmeden sorabilirsiniz.” dedi.",
+      "Öğretmen, Sorularınızı çekinmeden sorabilirsiniz dedi.",
+      "Öğretmen, “Sorularınızı çekinmeden sorabilirsiniz.” dedi.",
+      "Öğretmen, “Sorularınızı çekinmeden sorabilirsiniz dedi.”"
+    ],
+    "answer_index": 3,
+    "explanation": "Başkasından aynen aktarılan sözler tırnak içinde verilir; konuşma cümlesinin noktalaması tırnak içinde kalır.",
+    "sort_order": 0,
+    "created_at": "2026-08-25T18:57:25.245885+00:00",
+    "updated_at": "2026-08-25T18:57:25.245885+00:00"
+  }
+]
