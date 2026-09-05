@@ -528,17 +528,6 @@ function getWeeklyFlowBars(range) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const goal = getDailyGoal();
-  // NOT (2026-09-05): dailyAnswers sadece TOPLAM soru sayısını tutuyor,
-  // günlük doğru/yanlış ayrımını değil (bunun için progress-sync.js'teki
-  // CRDT shard yapısına yeni bir alan eklemek gerekirdi). Bunun yerine genel
-  // doğruluk oranını (progress.correctAnswers/answers) o günün toplamına
-  // uygulayarak YAKLAŞIK bir doğru/yanlış kırılımı veriyoruz — gerçek günlük
-  // veri değil ama grafikte anlamlı bir fikir veriyor.
-  const accuracy = progress.answers ? progress.correctAnswers / progress.answers : 0;
-  const withSplit = bar => {
-    const correct = Math.round(bar.count * accuracy);
-    return { ...bar, correct, wrong: bar.count - correct };
-  };
 
   if (range === 'month') {
     const bars = [];
@@ -550,12 +539,12 @@ function getWeeklyFlowBars(range) {
       end.setDate(start.getDate() + 6);
       const cappedEnd = end > today ? today : end;
       const count = sumDailyAnswersBetween(start, cappedEnd);
-      bars.push(withSplit({
+      bars.push({
         label: `${start.getDate()}-${end.getDate()} ${MONTH_LABELS[end.getMonth()]}`,
         detail: `${start.toLocaleDateString('tr-TR')} – ${end.toLocaleDateString('tr-TR')} · ${count} soru`,
         count, isToday: w === 0, isFuture: false,
         compliance: goal ? Math.min(1, count / (goal * 7)) : 0
-      }));
+      });
     }
     return { bars, unit: 'hafta', periodLabel: 'Bu ay' };
   }
@@ -568,12 +557,12 @@ function getWeeklyFlowBars(range) {
       const cappedEnd = monthEnd > today ? today : monthEnd;
       const count = sumDailyAnswersBetween(monthDate, cappedEnd);
       const daysInMonth = Math.round((cappedEnd - monthDate) / 86400000) + 1;
-      bars.push(withSplit({
+      bars.push({
         label: MONTH_LABELS[monthDate.getMonth()],
         detail: `${MONTH_LABELS[monthDate.getMonth()]} ${monthDate.getFullYear()} · ${count} soru`,
         count, isToday: m === 0, isFuture: false,
         compliance: goal && daysInMonth > 0 ? Math.min(1, count / (goal * daysInMonth)) : 0
-      }));
+      });
     }
     return { bars, unit: 'ay', periodLabel: 'Bu yıl' };
   }
@@ -585,12 +574,12 @@ function getWeeklyFlowBars(range) {
     d.setDate(monday.getDate() + i);
     const isFuture = d > today;
     const count = isFuture ? 0 : Number(progress.dailyAnswers[dateKey(d)] || 0);
-    bars.push(withSplit({
+    bars.push({
       label: WEEKDAY_LABELS[i],
       detail: `${d.toLocaleDateString('tr-TR', { weekday: 'long' })} · ${count} soru`,
       count, isToday: !isFuture && d.getTime() === today.getTime(), isFuture,
       compliance: goal ? Math.min(1, count / goal) : 0
-    }));
+    });
   }
   return { bars, unit: 'gün', periodLabel: 'Bu hafta' };
 }
@@ -625,19 +614,11 @@ function renderWeeklyFlowCard() {
       </div>
     </div>
     <div class="flow-chart">
-      ${bars.map((bar, idx) => {
-        const wrongH = Math.max(bar.wrong ? 4 : 0, Math.round(bar.wrong / maxCount * 130));
-        const correctH = Math.max(bar.correct ? 4 : 0, Math.round(bar.correct / maxCount * 130));
-        return `<button class="flow-day${bar.isToday ? ' today' : ''}" data-flow-bar="${idx}" type="button">
-        <span class="flow-bar-stack" style="height:${wrongH + correctH}px">
-          <span class="flow-bar flow-bar-correct" style="height:${correctH}px"></span>
-          <span class="flow-bar flow-bar-wrong" style="height:${wrongH}px"></span>
-        </span>
+      ${bars.map((bar, idx) => `<button class="flow-day${bar.isToday ? ' today' : ''}" data-flow-bar="${idx}" type="button">
+        <span class="flow-bar" style="--h:${Math.max(6, Math.round(bar.count / maxCount * 130))}px"></span>
         <small>${escapeHtml(bar.label)}</small>
-      </button>`;
-      }).join('')}
+      </button>`).join('')}
     </div>
-    <div class="flow-legend"><span class="flow-legend-item"><i class="flow-dot flow-dot-correct"></i>Doğru</span><span class="flow-legend-item"><i class="flow-dot flow-dot-wrong"></i>Yanlış</span></div>
     <div class="flow-note">${escapeHtml(note)}</div>
   </section>`;
 }
@@ -2697,7 +2678,7 @@ function renderQuiz() {
                 iconHtml = `<svg class="status-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
               }
               return `
-              <button class="${className}" data-answer-index="${index}" type="button" ${answered ? 'disabled' : ''}>
+              <button class="${className}" data-answer-index="${index}" type="button">
                 <span class="quiz-option-letter">${letters[index] || index + 1}</span>
                 <span class="quiz-option-text">${escapeHtml(option)}</span>
                 ${iconHtml}
@@ -2969,6 +2950,7 @@ function openQuizNav() {
     return `<button class="${className}" data-jump-index="${index}" type="button">${index + 1}</button>`;
   }).join('');
   grid.querySelectorAll('[data-jump-index]').forEach(button => button.addEventListener('click', () => {
+    finalizeQuestionAnswer(quiz.questions[quiz.index]);
     quiz.index = Number(button.dataset.jumpIndex);
     overlay.classList.remove('open');
     renderQuiz();
@@ -2984,10 +2966,28 @@ function exitQuizToReturnView() {
   timerInterval = null;
   const quiz = state.quiz;
   if (!quiz) return;
+  finalizeQuestionAnswer(quiz.questions[quiz.index]);
   const returnView = quiz.returnView;
   state.quiz = null;
   topicSheet.classList.remove('quiz-active');
   returnView();
+}
+
+// NOT (2026-09-05 düzeltme): eskiden bir şıkka basar basmaz cevap hem
+// ekranda kilitleniyor (disabled) hem de recordAnswer ile KALICI olarak
+// sayılıyordu — kullanıcı fikrini değiştirip başka bir şıkka basamıyordu,
+// haklı olarak "saçma" buldu. Artık bir soruyu görüntülerken şıklar hiç
+// kilitlenmiyor; asıl sayım (recordAnswer) SADECE o sorudan ayrılırken
+// (sonraki/önceki soruya geçerken, soru haritasından zıplarken ya da
+// sınavdan çıkarken) o an ekranda seçili olan şıkka göre yapılıyor. Bu
+// sayede istediği kadar fikir değiştirebiliyor, sadece son seçimi sayılıyor.
+// Ertelenen (random/kadro-exam) türlerde zaten ayrı bir toplu kayıt akışı
+// var (revealDeferredQuizAndFinish), o yüzden bu fonksiyon onlara dokunmaz.
+function finalizeQuestionAnswer(question) {
+  if (!question || question.userSelected === null || question.answerRecorded) return;
+  const quiz = state.quiz;
+  if (quiz && DEFERRED_REVEAL_KINDS.includes(quiz.kind)) return;
+  recordAnswer(question, question.userSelected);
 }
 
 function bindQuizEvents() {
@@ -3002,26 +3002,22 @@ function bindQuizEvents() {
   topicList.querySelectorAll('[data-answer-index]').forEach(button => {
     button.addEventListener('click', () => {
       const current = quiz.questions[quiz.index];
-      if (current.userSelected !== null) return;
       const selected = Number(button.dataset.answerIndex);
       current.userSelected = selected;
-      if (DEFERRED_REVEAL_KINDS.includes(quiz.kind)) {
-        haptic(16);
-      } else {
-        recordAnswer(current, selected);
-        haptic(selected === current.answerIndex ? 16 : [12, 40, 12]);
-      }
+      haptic(DEFERRED_REVEAL_KINDS.includes(quiz.kind) ? 16 : (selected === current.answerIndex ? 16 : [12, 40, 12]));
       renderQuiz();
     });
   });
   
   document.getElementById('quizPrevButton')?.addEventListener('click', () => {
     if (quiz.index < 1) return;
+    finalizeQuestionAnswer(quiz.questions[quiz.index]);
     quiz.index -= 1;
     renderQuiz();
   });
   
   document.getElementById('quizNextButton')?.addEventListener('click', () => {
+    finalizeQuestionAnswer(quiz.questions[quiz.index]);
     if (quiz.index < quiz.questions.length - 1) {
       quiz.index += 1;
       renderQuiz();
