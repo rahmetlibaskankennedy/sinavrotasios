@@ -536,5 +536,13 @@ const ContentRepo = (() => {
     return Number(data) || 0;
   }
 
-  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, revealQuizSession, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts, fetchDueFlashcards, fetchTotalQuestionCount };
+  // Sınav tarihi artık kullanıcıya özel değil, herkes için tek/paylaşılan bir
+  // ayar (bkz. app_settings tablosu — sadece admin yazabilir, herkes okuyabilir).
+  async function fetchExamDate() {
+    const { data, error } = await client.from('app_settings').select('value').eq('key', 'exam_date').maybeSingle();
+    if (error) throw error;
+    return data?.value || null;
+  }
+
+  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, revealQuizSession, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts, fetchDueFlashcards, fetchTotalQuestionCount, fetchExamDate };
 })();

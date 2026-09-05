@@ -82,7 +82,8 @@ const state = {
   totalDueFlashcards: 0,
   weeklyFlowRange: 'week',
   weeklyFlowNote: '',
-  totalQuestionCount: 0
+  totalQuestionCount: 0,
+  sharedExamDate: null
 };
 
 // Rota Ayarları State'i
@@ -212,14 +213,13 @@ function haptic(duration = 18) {
 }
 
 function defaultProgress() {
-  return { userId: null, answers: 0, correctAnswers: 0, dailyAnswers: {}, counterShards: {}, completedSections: {}, completedTests: [], flaggedQuestions: {}, reportedQuestions: {}, selectedRole: null, purchasedRoles: [], wrongQuestions: {}, dailyGoal: DEFAULT_DAILY_GOAL, docStats: {}, lastActivity: null, examDate: null };
+  return { userId: null, answers: 0, correctAnswers: 0, dailyAnswers: {}, counterShards: {}, completedSections: {}, completedTests: [], flaggedQuestions: {}, reportedQuestions: {}, selectedRole: null, purchasedRoles: [], wrongQuestions: {}, dailyGoal: DEFAULT_DAILY_GOAL, docStats: {}, lastActivity: null };
 }
 
 function sanitizeProgress(saved, fallbackUserId = null) {
   if (!saved || typeof saved !== 'object') return defaultProgress();
   const parsedGoal = Number(saved.dailyGoal);
   const safeGoal = Number.isFinite(parsedGoal) && parsedGoal >= DAILY_GOAL_MIN && parsedGoal <= DAILY_GOAL_MAX ? Math.round(parsedGoal) : DEFAULT_DAILY_GOAL;
-  const safeExamDate = typeof saved.examDate === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(saved.examDate) ? saved.examDate : null;
   const sanitized = {
     ...defaultProgress(), ...saved,
     userId: saved.userId || fallbackUserId || null,
@@ -233,8 +233,7 @@ function sanitizeProgress(saved, fallbackUserId = null) {
     wrongQuestions: saved.wrongQuestions || {},
     dailyGoal: safeGoal,
     docStats: (saved.docStats && typeof saved.docStats === 'object') ? saved.docStats : {},
-    lastActivity: (saved.lastActivity && typeof saved.lastActivity === 'object') ? saved.lastActivity : null,
-    examDate: safeExamDate
+    lastActivity: (saved.lastActivity && typeof saved.lastActivity === 'object') ? saved.lastActivity : null
   };
   return window.SRProgressSync.normalizeProgressCounters(sanitized, fallbackUserId);
 }
@@ -468,31 +467,14 @@ function setDailyGoal(rawValue) {
   return true;
 }
 
+// NOT (2026-09-05 düzeltme): sınav tarihi kullanıcıya özel bir ayar değil —
+// "Görevde Yükselme" sınavının resmi tarihi herkes için aynı. Eskiden her
+// kullanıcı kendi profilinden kendi tarihini giriyordu (progress.examDate);
+// bu hem yanlıştı hem de kafa karıştırıcı olurdu (herkes farklı bir "sınava
+// kalan" görürdü). Artık paylaşılan/genel bir ayar (bkz. app_settings tablosu,
+// content-repo.js fetchExamDate — sadece admin yazabilir, herkes okuyabilir).
 function getExamDate() {
-  return progress.examDate || null;
-}
-
-function setExamDate(rawValue) {
-  if (!rawValue) {
-    progress.examDate = null;
-    saveProgress();
-    showToast('Sınav tarihi kaldırıldı.');
-    return true;
-  }
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(rawValue)) {
-    showToast('Lütfen geçerli bir tarih seç.');
-    return false;
-  }
-  const picked = new Date(`${rawValue}T00:00:00`);
-  const today = new Date(); today.setHours(0, 0, 0, 0);
-  if (Number.isNaN(picked.getTime()) || picked < today) {
-    showToast('Sınav tarihi bugünden ileri bir tarih olmalı.');
-    return false;
-  }
-  progress.examDate = rawValue;
-  saveProgress();
-  showToast('Sınav tarihi kaydedildi.');
-  return true;
+  return state.sharedExamDate || null;
 }
 
 function getDaysUntilExam() {
@@ -516,8 +498,8 @@ function getExamCountdownMessage(days) {
   return 'Temelini sağlam at.';
 }
 
-const WEEKDAY_LABELS = ['Pzt', 'Sal', 'Çar', 'Per', 'Cum', 'Cmt', 'Paz'];
-const MONTH_LABELS = ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz', 'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara'];
+const WEEKDAY_LABELS = ['Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar'];
+const MONTH_LABELS = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
 
 function startOfWeek(date) {
   const d = new Date(date);
@@ -546,6 +528,17 @@ function getWeeklyFlowBars(range) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const goal = getDailyGoal();
+  // NOT (2026-09-05): dailyAnswers sadece TOPLAM soru sayısını tutuyor,
+  // günlük doğru/yanlış ayrımını değil (bunun için progress-sync.js'teki
+  // CRDT shard yapısına yeni bir alan eklemek gerekirdi). Bunun yerine genel
+  // doğruluk oranını (progress.correctAnswers/answers) o günün toplamına
+  // uygulayarak YAKLAŞIK bir doğru/yanlış kırılımı veriyoruz — gerçek günlük
+  // veri değil ama grafikte anlamlı bir fikir veriyor.
+  const accuracy = progress.answers ? progress.correctAnswers / progress.answers : 0;
+  const withSplit = bar => {
+    const correct = Math.round(bar.count * accuracy);
+    return { ...bar, correct, wrong: bar.count - correct };
+  };
 
   if (range === 'month') {
     const bars = [];
@@ -557,12 +550,12 @@ function getWeeklyFlowBars(range) {
       end.setDate(start.getDate() + 6);
       const cappedEnd = end > today ? today : end;
       const count = sumDailyAnswersBetween(start, cappedEnd);
-      bars.push({
+      bars.push(withSplit({
         label: `${start.getDate()}-${end.getDate()} ${MONTH_LABELS[end.getMonth()]}`,
         detail: `${start.toLocaleDateString('tr-TR')} – ${end.toLocaleDateString('tr-TR')} · ${count} soru`,
         count, isToday: w === 0, isFuture: false,
         compliance: goal ? Math.min(1, count / (goal * 7)) : 0
-      });
+      }));
     }
     return { bars, unit: 'hafta', periodLabel: 'Bu ay' };
   }
@@ -575,12 +568,12 @@ function getWeeklyFlowBars(range) {
       const cappedEnd = monthEnd > today ? today : monthEnd;
       const count = sumDailyAnswersBetween(monthDate, cappedEnd);
       const daysInMonth = Math.round((cappedEnd - monthDate) / 86400000) + 1;
-      bars.push({
+      bars.push(withSplit({
         label: MONTH_LABELS[monthDate.getMonth()],
         detail: `${MONTH_LABELS[monthDate.getMonth()]} ${monthDate.getFullYear()} · ${count} soru`,
         count, isToday: m === 0, isFuture: false,
         compliance: goal && daysInMonth > 0 ? Math.min(1, count / (goal * daysInMonth)) : 0
-      });
+      }));
     }
     return { bars, unit: 'ay', periodLabel: 'Bu yıl' };
   }
@@ -592,12 +585,12 @@ function getWeeklyFlowBars(range) {
     d.setDate(monday.getDate() + i);
     const isFuture = d > today;
     const count = isFuture ? 0 : Number(progress.dailyAnswers[dateKey(d)] || 0);
-    bars.push({
+    bars.push(withSplit({
       label: WEEKDAY_LABELS[i],
       detail: `${d.toLocaleDateString('tr-TR', { weekday: 'long' })} · ${count} soru`,
       count, isToday: !isFuture && d.getTime() === today.getTime(), isFuture,
       compliance: goal ? Math.min(1, count / goal) : 0
-    });
+    }));
   }
   return { bars, unit: 'gün', periodLabel: 'Bu hafta' };
 }
@@ -632,11 +625,19 @@ function renderWeeklyFlowCard() {
       </div>
     </div>
     <div class="flow-chart">
-      ${bars.map((bar, idx) => `<button class="flow-day${bar.isToday ? ' today' : ''}" data-flow-bar="${idx}" type="button">
-        <span class="flow-bar" style="--h:${Math.max(6, Math.round(bar.count / maxCount * 130))}px"></span>
+      ${bars.map((bar, idx) => {
+        const wrongH = Math.max(bar.wrong ? 4 : 0, Math.round(bar.wrong / maxCount * 130));
+        const correctH = Math.max(bar.correct ? 4 : 0, Math.round(bar.correct / maxCount * 130));
+        return `<button class="flow-day${bar.isToday ? ' today' : ''}" data-flow-bar="${idx}" type="button">
+        <span class="flow-bar-stack" style="height:${wrongH + correctH}px">
+          <span class="flow-bar flow-bar-correct" style="height:${correctH}px"></span>
+          <span class="flow-bar flow-bar-wrong" style="height:${wrongH}px"></span>
+        </span>
         <small>${escapeHtml(bar.label)}</small>
-      </button>`).join('')}
+      </button>`;
+      }).join('')}
     </div>
+    <div class="flow-legend"><span class="flow-legend-item"><i class="flow-dot flow-dot-correct"></i>Doğru</span><span class="flow-legend-item"><i class="flow-dot flow-dot-wrong"></i>Yanlış</span></div>
     <div class="flow-note">${escapeHtml(note)}</div>
   </section>`;
 }
@@ -833,12 +834,12 @@ function renderBankProgressWidget(stats) {
         <div class="bank-progress-nodes">${nodesHtml}</div>
       </div>
     </div>
-    <div class="bank-countdown" data-stat-target="profile" role="button" tabindex="0">
-      ${svg('calendar')}
-      <span class="bank-countdown-label">SINAVA KALAN</span>
+    <div class="bank-countdown bank-countdown-leaf" data-stat-target="profile" role="button" tabindex="0">
+      <div class="bank-countdown-leaf-head">SINAV GÜNÜ</div>
       <strong class="bank-countdown-value">${countdownValue}</strong>
-      <span class="bank-countdown-unit">${days === null ? '' : 'gün'}</span>
-      <span class="bank-countdown-msg">${escapeHtml(countdownMsg)}</span>
+      <span class="bank-countdown-unit">${days === null ? '' : 'gün kaldı'}</span>
+      <div class="bank-countdown-leaf-tear"></div>
+      <span class="bank-countdown-msg">${days === null ? escapeHtml(countdownMsg) : 'Her gün bir tanesi düşer'}</span>
     </div>
   </section>`;
 }
@@ -860,8 +861,7 @@ function homeView() {
 
   return `<section class="screen home-screen">
     ${renderBankProgressWidget(stats)}
-    <div class="stats">
-      ${statCard('squareCheck', '', stats.completedSections, 'Konu<br>Tamamlandı', 'profile')}
+    <div class="stats stats-3">
       ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
       ${statCard('award', 'amber', stats.completedMocks, 'Deneme<br>Tamamlandı', 'bank')}
       ${statCard('flame', 'accent', stats.streak, 'Günlük<br>Seri', 'profile')}
@@ -1436,25 +1436,19 @@ function profileView() {
   const fullName = user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Aday';
   const email = user?.email || '';
   const initial = fullName.trim().charAt(0).toUpperCase() || '?';
-  return `<section class="screen content-screen"><article class="profile-summary"><div class="profile-summary-avatar">${escapeHtml(initial)}</div><div><strong>${escapeHtml(fullName)}</strong><span>${escapeHtml(email)}</span></div></article>
-  <section class="profile-goal-card">
-    <div class="profile-goal-head"><span>GÜNLÜK ÇALIŞMA HEDEFİ</span><strong>${stats.dailyGoal} soru / gün</strong></div>
-    <p class="profile-goal-desc">Her gün çözmek istediğin soru sayısını belirle, ana sayfadaki ilerleme halkası buna göre hesaplanır.</p>
-    <div class="profile-goal-edit">
-      <input type="number" id="profileDailyGoalInput" class="goal-edit-input" min="${DAILY_GOAL_MIN}" max="${DAILY_GOAL_MAX}" step="1" inputmode="numeric" value="${stats.dailyGoal}" aria-label="Günlük hedef soru sayısı">
-      <button class="reader-primary" id="profileDailyGoalSaveButton" type="button">Kaydet</button>
-    </div>
-  </section>
-  <section class="profile-goal-card">
-    <div class="profile-goal-head"><span>SINAV TARİHİ</span>${stats.examDate ? `<strong>${stats.daysUntilExam} gün kaldı</strong>` : ''}</div>
-    <p class="profile-goal-desc">Sınav tarihini gir, ana sayfada geri sayımı ve o güne göre değişen öneriyi gör.</p>
-    <div class="profile-goal-edit">
-      <input type="date" id="profileExamDateInput" class="goal-edit-input" value="${stats.examDate || ''}" aria-label="Sınav tarihi">
-      <button class="reader-primary" id="profileExamDateSaveButton" type="button">Kaydet</button>
-    </div>
-  </section>
-  <div class="stats">
-    ${statCard('squareCheck', '', stats.completedSections, 'Konu<br>Tamamlandı', 'profile')}
+  return `<section class="screen content-screen">
+  <div class="profile-header-row">
+    <article class="profile-summary"><div class="profile-summary-avatar">${escapeHtml(initial)}</div><div><strong>${escapeHtml(fullName)}</strong><span>${escapeHtml(email)}</span></div></article>
+    <section class="profile-goal-card">
+      <div class="profile-goal-head"><span>GÜNLÜK ÇALIŞMA HEDEFİ</span><strong>${stats.dailyGoal} soru / gün</strong></div>
+      <p class="profile-goal-desc">Her gün çözmek istediğin soru sayısını belirle, ana sayfadaki ilerleme halkası buna göre hesaplanır.</p>
+      <div class="profile-goal-edit">
+        <input type="number" id="profileDailyGoalInput" class="goal-edit-input" min="${DAILY_GOAL_MIN}" max="${DAILY_GOAL_MAX}" step="1" inputmode="numeric" value="${stats.dailyGoal}" aria-label="Günlük hedef soru sayısı">
+        <button class="reader-primary" id="profileDailyGoalSaveButton" type="button">Kaydet</button>
+      </div>
+    </section>
+  </div>
+  <div class="stats stats-3">
     ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
     ${statCard('award', 'amber', stats.completedMocks, 'Deneme<br>Tamamlandı', 'bank')}
     ${statCard('flame', 'accent', stats.streak, 'Günlük<br>Seri', 'profile')}
@@ -1502,10 +1496,6 @@ function bindViewEvents() {
   const profileGoalSaveButton = document.getElementById('profileDailyGoalSaveButton');
   profileGoalSaveButton?.addEventListener('click', () => { if (profileGoalInput) setDailyGoal(profileGoalInput.value); });
   profileGoalInput?.addEventListener('keydown', event => { if (event.key === 'Enter') { event.preventDefault(); profileGoalSaveButton?.click(); } });
-
-  const profileExamDateInput = document.getElementById('profileExamDateInput');
-  const profileExamDateSaveButton = document.getElementById('profileExamDateSaveButton');
-  profileExamDateSaveButton?.addEventListener('click', () => { if (profileExamDateInput) setExamDate(profileExamDateInput.value); });
 
   app.querySelectorAll('[data-flow-range]').forEach(button => {
     button.addEventListener('click', () => {
@@ -1557,13 +1547,11 @@ function resetProgress() {
   const selectedRole = progress.selectedRole;
   const purchasedRoles = progress.purchasedRoles;
   const dailyGoal = progress.dailyGoal;
-  const examDate = progress.examDate;
   progress = defaultProgress();
   progress.userId = userId;
   progress.selectedRole = selectedRole;
   progress.purchasedRoles = purchasedRoles;
   progress.dailyGoal = dailyGoal;
-  progress.examDate = examDate;
   saveProgress();
   showToast('İlerleme verisi sıfırlandı.');
 }
@@ -2632,9 +2620,16 @@ function recordAnswer(question, selected) {
   if (question.answerRecorded) return;
   question.answerRecorded = true;
   const isCorrect = selected === question.answerIndex;
+  // NOT (2026-09-05): "Gerçek Sınav Formatı" (kind: 'kadro-exam') yanlışları
+  // kalıcı "Yanlışlarım" havuzuna eklenmiyor — o havuz konu bazlı tekrar
+  // içindir, tam kapsamlı bir deneme sınavının yanlışları oraya karışınca
+  // hangi KONUDA zayıf olduğunu değil, "sınavda ne kaçırdığını" gösteriyordu.
+  // Sınavın kendi sonuç ekranı (renderQuizResult/mistakeItemHTML) zaten
+  // quiz.questions üzerinden bağımsız çalışıyor, bu değişiklik ondan etkilenmez.
+  const skipWrongPool = state.quiz?.kind === 'kadro-exam';
   if (isCorrect) {
     delete progress.wrongQuestions[question.id];
-  } else {
+  } else if (!skipWrongPool) {
     progress.wrongQuestions[question.id] = {
       id: question.id, prompt: question.prompt, options: question.options, answerIndex: question.answerIndex,
       sectionId: question.topicId || null, documentId: question.documentId || null,
@@ -3233,6 +3228,14 @@ async function loadCatalogue() {
     ContentRepo.fetchTotalQuestionCount()
       .then(total => {
         state.totalQuestionCount = total;
+        if (state.view === 'home') render();
+      })
+      .catch(() => {});
+    // Sınav tarihi artık paylaşılan/genel bir ayar (bkz. app_settings) —
+    // her kullanıcı için aynı, admin dışında kimse değiştiremiyor.
+    ContentRepo.fetchExamDate()
+      .then(examDate => {
+        state.sharedExamDate = examDate;
         if (state.view === 'home') render();
       })
       .catch(() => {});
