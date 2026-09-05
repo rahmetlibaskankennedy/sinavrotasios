@@ -1,5 +1,11 @@
 const STORAGE_KEY = 'sinavrotasi-study-progress-v2';
 const EXAM_KINDS = ['mock', 'kadro-exam'];
+// NOT (2026-09-05): "Gerçek Sınav Formatı" (kadro-exam) da tıpkı Rastgele
+// Test gibi gerçek bir sınav ortamını taklit etmeli — cevap verirken anında
+// doğru/yanlış rengi göstermemeli, sadece sınav bitince toplu açılmalı.
+// Eskiden bu davranış (deferReveal) sadece 'random' için vardı; 'kadro-exam'
+// anında renk gösteriyordu, bu da "Gerçek Sınav Formatı" adıyla çelişiyordu.
+const DEFERRED_REVEAL_KINDS = ['random', 'kadro-exam'];
 const DEFAULT_DAILY_GOAL = 20;
 const DAILY_GOAL_MIN = 1;
 const DAILY_GOAL_MAX = 500;
@@ -648,8 +654,41 @@ function homeView() {
 // merge_unique_manual_deneme_pool_questions_into_questions migration'ı), (3)
 // otomatik üretim resmi ağırlık dağılımını zaten uyguluyor ve tekrar
 // denemelerde aynı soruların ezberlenmesini önlüyor.
+function getCompletedKadroExams(limit = 15) {
+  return progress.completedTests
+    .filter(test => test.kind === 'kadro-exam')
+    .slice()
+    .sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt))
+    .slice(0, limit);
+}
+
+function formatCompletedDate(iso) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return '';
+  return date.toLocaleDateString('tr-TR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+}
+
 function bankView() {
   const stats = getStats();
+  // NOT (2026-09-05): tamamlanan kadro sınavları zaten progress.completedTests'e
+  // kaydediliyordu (recordQuizCompletion) ama hiçbir ekranda listelenmiyordu —
+  // sadece sayısı (stats.completedMocks) gösteriliyordu. Bu bölüm o geçmişi
+  // görünür kılıyor.
+  const completedExams = getCompletedKadroExams();
+  const completedExamsHtml = completedExams.length ? `
+    <div class="section-head" style="margin-top:18px"><h3>Çözülen Denemeler</h3></div>
+    <div class="solved-exams-list">
+      ${completedExams.map(test => {
+        const percentage = test.total ? Math.round((test.score / test.total) * 100) : 0;
+        return `<div class="solved-exam-row">
+          <div class="solved-exam-row-top">
+            <span class="solved-exam-title">${escapeHtml(test.title)}</span>
+            <span class="solved-exam-score">${test.score}/${test.total}</span>
+          </div>
+          <span class="solved-exam-caption">%${percentage} başarı • ${formatCompletedDate(test.completedAt)}</span>
+        </div>`;
+      }).join('')}
+    </div>` : '';
 
   return `<section class="screen content-screen">
     <div class="page-heading"><h2>Deneme Sınavları</h2><p>Aktif soru bankalarından oluşan denemelerle performansını ölç.</p></div>
@@ -659,6 +698,7 @@ function bankView() {
       <div><h3>Kadro Bazlı Gerçek Sınav</h3><p>Seçtiğin kadronun konu ağırlıklarına göre otomatik deneme oluştur.</p></div>
       <button class="reader-primary" id="startKadroExamButton" type="button">Başlat</button>
     </article>
+    ${completedExamsHtml}
   </section>`;
 }
 
@@ -1848,7 +1888,7 @@ async function openRandomQuiz(documentItem, categoryKey) {
     // Rastgele seçim VE ücretsiz hak sayacı (konu başına 2 deneme) sunucuda
     // (start_random_test RPC) uygulanıyor — tarayıcıya asla hakkından fazla
     // soru inmiyor. Cevap/açıklama de artık quiz bitene kadar hiç inmiyor
-    // (bkz. revealRandomQuizAndFinish, content-repo.js reveal_quiz_session).
+    // (bkz. revealDeferredQuizAndFinish, content-repo.js reveal_quiz_session).
     const { sessionId, questions: rawQuestions } = await ContentRepo.fetchRandomTestQuestions(documentItem.questionFile);
     const questions = tagQuestions(rawQuestions, documentItem, categoryKey);
     if (!questions.length) return showToast('Bu başlık için henüz soru bulunmuyor.');
@@ -2398,7 +2438,7 @@ function renderQuiz() {
               let className = 'quiz-option';
               let iconHtml = '';
               const answered = current.userSelected !== null;
-              const deferReveal = quiz.kind === 'random' && !quiz.revealed;
+              const deferReveal = DEFERRED_REVEAL_KINDS.includes(quiz.kind) && !quiz.revealed;
               if (deferReveal) {
                 if (current.userSelected === index) className += ' selected';
               } else if (answered && index === current.answerIndex) {
@@ -2674,7 +2714,7 @@ function openQuizNav() {
     let className = 'quiz-nav-cell';
     if (index === quiz.index) className += ' current';
     else if (question.userSelected !== null) {
-      if (quiz.kind === 'random' && !quiz.revealed) className += ' answered';
+      if (DEFERRED_REVEAL_KINDS.includes(quiz.kind) && !quiz.revealed) className += ' answered';
       else className += question.userSelected === question.answerIndex ? ' answered-correct' : ' answered-wrong';
     }
     if (progress.flaggedQuestions[question.id]) className += ' flagged';
@@ -2717,7 +2757,7 @@ function bindQuizEvents() {
       if (current.userSelected !== null) return;
       const selected = Number(button.dataset.answerIndex);
       current.userSelected = selected;
-      if (quiz.kind === 'random') {
+      if (DEFERRED_REVEAL_KINDS.includes(quiz.kind)) {
         haptic(16);
       } else {
         recordAnswer(current, selected);
@@ -2737,8 +2777,8 @@ function bindQuizEvents() {
     if (quiz.index < quiz.questions.length - 1) {
       quiz.index += 1;
       renderQuiz();
-    } else if (quiz.kind === 'random' && !quiz.revealed) {
-      revealRandomQuizAndFinish();
+    } else if (DEFERRED_REVEAL_KINDS.includes(quiz.kind) && !quiz.revealed) {
+      revealDeferredQuizAndFinish();
     } else {
       renderQuizResult();
     }
@@ -2774,32 +2814,40 @@ function recordQuizCompletion(quiz) {
   saveProgress();
 }
 
-// "Rastgele Test" (kind: 'random') sırasında cevaplar client'a hiç inmiyor
-// (bkz. content-repo.js start_random_test). Quiz bitince tek seferlik
-// reveal_quiz_session RPC'siyle SADECE bu oturumun sorularının cevabı açılır,
-// sonra normal recordAnswer/progress akışı (artık gerçek answerIndex ile)
-// çalıştırılıp sonuç ekranına geçilir.
-async function revealRandomQuizAndFinish() {
+// "Rastgele Test" (kind: 'random') VE "Gerçek Sınav Formatı" (kind:
+// 'kadro-exam') sırasında ekranda anlık doğru/yanlış rengi gösterilmez —
+// gerçek bir sınav gibi, sonuç sadece bitince topluca açılır. 'random'da
+// cevap anahtarı client'a hiç inmemişti (bkz. content-repo.js
+// start_random_test), quiz bitince tek seferlik reveal_quiz_session RPC'siyle
+// SADECE bu oturumun sorularının cevabı açılır. 'kadro-exam'da ise answerIndex
+// zaten baştan client'ta var (buildKadroExamPool premium'a özel, sunucudan
+// tam soru çekiyor) — orada RPC'ye gerek yok, sadece görsel geri bildirimi
+// erteliyoruz. İkisinde de sonunda normal recordAnswer/progress akışı çalışıp
+// sonuç ekranına geçilir.
+async function revealDeferredQuizAndFinish() {
   const quiz = state.quiz;
   if (!quiz || quiz.revealed) return renderQuizResult();
-  showToast('Sonuçlar hazırlanıyor…');
-  try {
-    const reveal = await ContentRepo.revealQuizSession(quiz.sessionId);
-    const byId = new Map(reveal.map(row => [row.id, row]));
-    quiz.questions.forEach(question => {
-      const info = byId.get(question.id);
-      if (!info) return;
-      question.answerIndex = info.answerIndex;
-      question.explanation = info.explanation;
-    });
-    quiz.revealed = true;
-    quiz.questions.forEach(question => {
-      if (question.userSelected !== null) recordAnswer(question, question.userSelected);
-    });
-    renderQuizResult();
-  } catch (error) {
-    showToast('Sonuçlar alınamadı, tekrar dene.');
+  if (quiz.kind === 'random') {
+    showToast('Sonuçlar hazırlanıyor…');
+    try {
+      const reveal = await ContentRepo.revealQuizSession(quiz.sessionId);
+      const byId = new Map(reveal.map(row => [row.id, row]));
+      quiz.questions.forEach(question => {
+        const info = byId.get(question.id);
+        if (!info) return;
+        question.answerIndex = info.answerIndex;
+        question.explanation = info.explanation;
+      });
+    } catch (error) {
+      showToast('Sonuçlar alınamadı, tekrar dene.');
+      return;
+    }
   }
+  quiz.revealed = true;
+  quiz.questions.forEach(question => {
+    if (question.userSelected !== null) recordAnswer(question, question.userSelected);
+  });
+  renderQuizResult();
 }
 
 function renderQuizResult() {
@@ -2825,6 +2873,14 @@ function renderQuizResult() {
       // kullanamayız, yeni bir start_random_test çağrısı (yeni session) gerekiyor.
       const categoryKey = quiz.questions[0]?.categoryKey || null;
       openRandomQuiz(quiz.documentItem, categoryKey);
+      return;
+    }
+    if (quiz.kind === 'kadro-exam') {
+      // NOT (2026-09-05): kadro-exam da her seferinde havuzdan taze bir
+      // seçim yapıyor (buildKadroExamPool) — eski (artık revealed=true,
+      // answerIndex açılmış) soru kümesini tekrar kullanmak hem "gerçek
+      // sınav" hissini bozar hem de renk gösterimini yeniden erteleyemez.
+      startKadroExam();
       return;
     }
     const retry = { ...quiz, questions: quiz.sourceQuestions };
