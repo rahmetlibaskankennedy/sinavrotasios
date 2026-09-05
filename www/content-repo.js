@@ -528,5 +528,13 @@ const ContentRepo = (() => {
     return result;
   }
 
-  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, revealQuizSession, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts, fetchDueFlashcards };
+  // Ana sayfadaki "Genel İlerleme %" widget'i için toplam soru bankası
+  // büyüklüğü (bkz. supabase migration get_total_question_count).
+  async function fetchTotalQuestionCount() {
+    const { data, error } = await client.rpc('get_total_question_count');
+    if (error) throw error;
+    return Number(data) || 0;
+  }
+
+  return { fetchCatalogue, fetchQuestionsByPath, fetchQuestionsByPathExact, fetchFlashcardsByPath, fetchFlashcardDecks, fetchCardsByTopicId, fetchExamTaxonomy, fetchExamBlueprint, fetchRandomTestQuestions, revealQuizSession, fetchQuestionCount, fetchQuestionCountByTopicId, fetchFlashcardProgress, rateFlashcard, fetchDueFlashcardCounts, fetchDueFlashcards, fetchTotalQuestionCount };
 })();

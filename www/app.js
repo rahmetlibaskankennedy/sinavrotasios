@@ -79,7 +79,10 @@ const state = {
   quiz: null,
   cardStudy: null,
   expandedMistakeGroup: null,
-  totalDueFlashcards: 0
+  totalDueFlashcards: 0,
+  weeklyFlowRange: 'week',
+  weeklyFlowNote: '',
+  totalQuestionCount: 0
 };
 
 // Rota Ayarları State'i
@@ -131,35 +134,41 @@ let searchScrollTop = null;
 if (!window.SRProgressSync) throw new Error('İlerleme senkronizasyon modülü yüklenemedi.');
 let progress = loadProgress();
 
+// NOT (2026-09-05): tüm ikonlar Lucide'ın resmi, güncel path verileriyle
+// değiştirildi (lucide-icons/lucide reposundan doğrudan çekildi) — eskiden
+// elle çizilmiş, tutarsız/amatör duran path'ler kullanılıyordu. Teknik
+// (fill="none" stroke="currentColor", svg() fonksiyonu) aynı kaldı, sadece
+// path verisi değişti — yeni bağımlılık/ağ isteği yok.
 const iconPaths = {
-  alertX: '<circle cx="12" cy="12" r="9"/><path d="m9.5 9.5 5 5m0-5-5 5"/>',
-  scale: '<path d="M12 3v18"/><path d="M6 6h12"/><path d="m6 6-4 7h8L6 6Z"/><path d="m18 6-4 7h8l-4-7Z"/><path d="M8 21h8"/>',
-  landmark: '<path d="m3 10 9-6 9 6"/><path d="M5 10h14"/><path d="M6 10v8M10 10v8M14 10v8M18 10v8"/><path d="M4 18h16M3 22h18"/>',
-  schoolbook: '<path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3V4Z"/><path d="M8 4v16"/><path d="M12 8h4M12 12h4"/><path d="m14 15 .7 1.4 1.6.2-1.2 1.1.3 1.6-1.4-.8-1.4.8.3-1.6-1.2-1.1 1.6-.2L14 15Z"/>',
-  gavel: '<path d="m14 13-7.5 7.5a1 1 0 0 1-3-3L11 10"/><path d="m16 16 6-6"/><path d="m8 8 6-6 4 4-6 6-4-4Z"/>',
+  alertX: '<circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/>',
+  scale: '<path d="M12 3v18"/><path d="m19 8 3 8a5 5 0 0 1-6 0zV7"/><path d="M3 7h1a17 17 0 0 0 8-2 17 17 0 0 0 8 2h1"/><path d="m5 8 3 8a5 5 0 0 1-6 0zV7"/><path d="M7 21h10"/>',
+  landmark: '<path d="M10 18v-7"/><path d="M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z"/><path d="M14 18v-7"/><path d="M18 18v-7"/><path d="M3 22h18"/><path d="M6 18v-7"/>',
+  schoolbook: '<path d="M12 5v16"/><path d="M20.001 19A2 2 0 0 0 22 17V5a2 2 0 0 0-1.999-2L16 3.002A5 5 0 0 0 12 5a5 5 0 0 0-4-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 1.999 2H8a5 5 0 0 1 4 2 5 5 0 0 1 4-2z"/>',
+  gavel: '<path d="m14 13-8.381 8.38a1 1 0 0 1-3.001-3l8.384-8.381"/><path d="m16 16 6-6"/><path d="m21.5 10.5-8-8"/><path d="m8 8 6-6"/><path d="m8.5 7.5 8 8"/>',
   arrow: '<path d="m9 18 6-6-6-6"/>',
   back: '<path d="m15 18-6-6 6-6"/>',
-  bookmark: '<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>',
+  bookmark: '<path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/>',
   clock: '<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
-  arrowRight: '<path d="M5 12h14M12 5l7 7-7 7"/>',
-  arrowLeft: '<path d="M19 12H5M12 19l-7-7 7-7"/>',
+  arrowRight: '<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>',
+  arrowLeft: '<path d="m12 19-7-7 7-7"/><path d="M19 12H5"/>',
   target: '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
-  book: '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/>',
-  trophy: '<path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/>',
-  flame: '<path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/>',
-  check: '<path d="m5 12 4 4L19 6"/>',
-  chart: '<path d="M3 3v18h18"/><path d="m7 15 4-4 3 2 5-6"/>',
-  refresh: '<path d="M20 11a8.1 8.1 0 0 0-15.5-2M4 5v4h4"/><path d="M4 13a8.1 8.1 0 0 0 15.5 2M20 19v-4h-4"/>',
-  lock: '<rect x="5" y="10" width="14" height="10" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/>',
-  statTopics: '<rect x="4.5" y="4.5" width="15" height="15" rx="4"/><path d="m8.5 12.5 2.5 2.5 4.5-5"/>',
-  statQuestions: '<circle cx="12" cy="12" r="8.5"/><path d="m8 12.3 2.7 2.7 5.3-5.7"/>',
-  statTrials: '<path d="M12 3.2 13.7 5l2.5-.5.6 2.5 2.4.9-.9 2.4 1.7 1.9-1.7 1.9.9 2.4-2.4.9-.6 2.5-2.5-.5-1.7 1.8-1.7-1.8-2.5.5-.6-2.5-2.4-.9.9-2.4L4 12.2l1.7-1.9-.9-2.4 2.4-.9.6-2.5 2.5.5Z"/><path d="M9 13.5 12.5 21l1-4"/><path d="m15 13.5-1.8 3.7"/>',
-  idcard: '<rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M6 15.5c.7-1 2-1.5 3-1.5s2.3.5 3 1.5"/><path d="M15 9h3M15 12h3M15 15h3"/>',
-  clipboard: '<rect x="6" y="4" width="12" height="16" rx="2"/><path d="M9 3.5h6a1 1 0 0 1 1 1V6H8V4.5a1 1 0 0 1 1-1Z"/><path d="m9.5 11 1.5 1.5L14.5 9M9.5 15 11 16.5 14.5 13"/>',
-  calculator: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M8 7h8"/><path d="M8 11h.01M12 11h.01M16 11h.01M8 15h.01M12 15h.01M16 15h.01"/><path d="M8 19h8"/>',
-  squareCheck: '<rect x="3" y="3" width="18" height="18" rx="4"/><path d="m8 12 2.5 2.5L16 9"/>',
-  circleCheckBig: '<circle cx="12" cy="12" r="10"/><path d="m8 12 2.5 2.5L16 9"/>',
-  award: '<circle cx="12" cy="8" r="6"/><path d="M15.5 12.9 17 21.5l-5-3-5 3 1.5-8.6"/>',
+  book: '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/>',
+  trophy: '<path d="M10 14.66V17a1 1 0 0 1-1 1 2 2 0 0 0-2 2v2"/><path d="M14 14.66V17a1 1 0 0 0 1 1 2 2 0 0 1 2 2v2"/><path d="M17.916 10H19.5A2.5 2.5 0 0 0 22 7.5V5a1 1 0 0 0-1-1h-3"/><path d="M4 22h16"/><path d="M6 9a6 6 0 0 0 12 0V3a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"/><path d="M6.084 10H4.5A2.5 2.5 0 0 1 2 7.5V5a1 1 0 0 1 1-1h3"/>',
+  flame: '<path d="M12 3q1 4 4 6.5t3 5.5a1 1 0 0 1-14 0 5 5 0 0 1 1-3 1 1 0 0 0 5 0c0-2-1.5-3-1.5-5q0-2 2.5-4"/>',
+  check: '<path d="M20 6 9 17l-5-5"/>',
+  chart: '<path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="m19 9-5 5-4-4-3 3"/>',
+  refresh: '<path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/>',
+  lock: '<rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/>',
+  statTopics: '<path d="M21 10.656V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h12.344"/><path d="m9 11 3 3L22 4"/>',
+  statQuestions: '<path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11 3 3L22 4"/>',
+  statTrials: '<path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15"/><path d="M11 12 5.12 2.2"/><path d="m13 12 5.88-9.8"/><path d="M8 7h8"/><circle cx="12" cy="17" r="5"/><path d="M12 18v-2h-.5"/>',
+  idcard: '<path d="M16 10h2"/><path d="M16 14h2"/><path d="M6.17 15a3 3 0 0 1 5.66 0"/><circle cx="9" cy="11" r="2"/><rect x="2" y="5" width="20" height="14" rx="2"/>',
+  clipboard: '<rect width="8" height="4" x="8" y="2" rx="1" ry="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="m9 14 2 2 4-4"/>',
+  calculator: '<rect width="16" height="20" x="4" y="2" rx="2"/><line x1="8" x2="16" y1="6" y2="6"/><line x1="16" x2="16" y1="14" y2="18"/><path d="M16 10h.01"/><path d="M12 10h.01"/><path d="M8 10h.01"/><path d="M12 14h.01"/><path d="M8 14h.01"/><path d="M12 18h.01"/><path d="M8 18h.01"/>',
+  squareCheck: '<rect width="18" height="18" x="3" y="3" rx="2"/><path d="m16 9-5.5 5.5L8 12"/>',
+  circleCheckBig: '<path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11 3 3L22 4"/>',
+  award: '<path d="m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526"/><circle cx="12" cy="8" r="6"/>',
+  calendar: '<path d="M8 2v3"/><path d="M16 2v3"/><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18"/>',
 };
 
 function svg(name, className = 'ui-icon') {
@@ -203,13 +212,14 @@ function haptic(duration = 18) {
 }
 
 function defaultProgress() {
-  return { userId: null, answers: 0, correctAnswers: 0, dailyAnswers: {}, counterShards: {}, completedSections: {}, completedTests: [], flaggedQuestions: {}, reportedQuestions: {}, selectedRole: null, purchasedRoles: [], wrongQuestions: {}, dailyGoal: DEFAULT_DAILY_GOAL, docStats: {}, lastActivity: null };
+  return { userId: null, answers: 0, correctAnswers: 0, dailyAnswers: {}, counterShards: {}, completedSections: {}, completedTests: [], flaggedQuestions: {}, reportedQuestions: {}, selectedRole: null, purchasedRoles: [], wrongQuestions: {}, dailyGoal: DEFAULT_DAILY_GOAL, docStats: {}, lastActivity: null, examDate: null };
 }
 
 function sanitizeProgress(saved, fallbackUserId = null) {
   if (!saved || typeof saved !== 'object') return defaultProgress();
   const parsedGoal = Number(saved.dailyGoal);
   const safeGoal = Number.isFinite(parsedGoal) && parsedGoal >= DAILY_GOAL_MIN && parsedGoal <= DAILY_GOAL_MAX ? Math.round(parsedGoal) : DEFAULT_DAILY_GOAL;
+  const safeExamDate = typeof saved.examDate === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(saved.examDate) ? saved.examDate : null;
   const sanitized = {
     ...defaultProgress(), ...saved,
     userId: saved.userId || fallbackUserId || null,
@@ -223,7 +233,8 @@ function sanitizeProgress(saved, fallbackUserId = null) {
     wrongQuestions: saved.wrongQuestions || {},
     dailyGoal: safeGoal,
     docStats: (saved.docStats && typeof saved.docStats === 'object') ? saved.docStats : {},
-    lastActivity: (saved.lastActivity && typeof saved.lastActivity === 'object') ? saved.lastActivity : null
+    lastActivity: (saved.lastActivity && typeof saved.lastActivity === 'object') ? saved.lastActivity : null,
+    examDate: safeExamDate
   };
   return window.SRProgressSync.normalizeProgressCounters(sanitized, fallbackUserId);
 }
@@ -457,11 +468,185 @@ function setDailyGoal(rawValue) {
   return true;
 }
 
+function getExamDate() {
+  return progress.examDate || null;
+}
+
+function setExamDate(rawValue) {
+  if (!rawValue) {
+    progress.examDate = null;
+    saveProgress();
+    showToast('Sınav tarihi kaldırıldı.');
+    return true;
+  }
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(rawValue)) {
+    showToast('Lütfen geçerli bir tarih seç.');
+    return false;
+  }
+  const picked = new Date(`${rawValue}T00:00:00`);
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  if (Number.isNaN(picked.getTime()) || picked < today) {
+    showToast('Sınav tarihi bugünden ileri bir tarih olmalı.');
+    return false;
+  }
+  progress.examDate = rawValue;
+  saveProgress();
+  showToast('Sınav tarihi kaydedildi.');
+  return true;
+}
+
+function getDaysUntilExam() {
+  const examDate = getExamDate();
+  if (!examDate) return null;
+  const target = new Date(`${examDate}T00:00:00`);
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  return Math.round((target - today) / 86400000);
+}
+
+// Ana sayfadaki "Sınava Kalan" kartında, kalan güne göre değişen kısa
+// motivasyon mesajı ("Değişen Koç Mesajı" — üç sabit istatistik kartından
+// (halka/nefes/kum saati) farklı olarak veri değil, ton/zamanlama değiştiriyor).
+function getExamCountdownMessage(days) {
+  if (days === null) return 'Sınav tarihini profilinden ekleyebilirsin.';
+  if (days < 0) return 'Sınav geride kaldı — umarız iyi geçmiştir!';
+  if (days === 0) return 'Bugün sınav günü. Başarılar!';
+  if (days <= 7) return 'Son düzlük, tekrara odaklan.';
+  if (days <= 30) return 'Son sprint — tekrara ağırlık ver.';
+  if (days <= 90) return 'Tempoyu koru, düzenli çalış.';
+  return 'Temelini sağlam at.';
+}
+
+const WEEKDAY_LABELS = ['Pzt', 'Sal', 'Çar', 'Per', 'Cum', 'Cmt', 'Paz'];
+const MONTH_LABELS = ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz', 'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara'];
+
+function startOfWeek(date) {
+  const d = new Date(date);
+  const day = d.getDay();
+  const diff = day === 0 ? -6 : 1 - day;
+  d.setDate(d.getDate() + diff);
+  d.setHours(0, 0, 0, 0);
+  return d;
+}
+
+function sumDailyAnswersBetween(start, end) {
+  let total = 0;
+  const cursor = new Date(start);
+  while (cursor <= end) {
+    total += Number(progress.dailyAnswers[dateKey(cursor)] || 0);
+    cursor.setDate(cursor.getDate() + 1);
+  }
+  return total;
+}
+
+// "Haftalık Akış" kartı (profileView) için gerçek verilerden bar listesi
+// üretir. Üç aralık desteklenir: hafta (7 gün), ay (son 5 hafta), yıl (son
+// 12 ay) — hepsi tek veri kaynağından (progress.dailyAnswers) türetiliyor,
+// yeni bir senkron alanı gerekmiyor.
+function getWeeklyFlowBars(range) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const goal = getDailyGoal();
+
+  if (range === 'month') {
+    const bars = [];
+    const thisMonday = startOfWeek(today);
+    for (let w = 4; w >= 0; w -= 1) {
+      const start = new Date(thisMonday);
+      start.setDate(thisMonday.getDate() - w * 7);
+      const end = new Date(start);
+      end.setDate(start.getDate() + 6);
+      const cappedEnd = end > today ? today : end;
+      const count = sumDailyAnswersBetween(start, cappedEnd);
+      bars.push({
+        label: `${start.getDate()}-${end.getDate()} ${MONTH_LABELS[end.getMonth()]}`,
+        detail: `${start.toLocaleDateString('tr-TR')} – ${end.toLocaleDateString('tr-TR')} · ${count} soru`,
+        count, isToday: w === 0, isFuture: false,
+        compliance: goal ? Math.min(1, count / (goal * 7)) : 0
+      });
+    }
+    return { bars, unit: 'hafta', periodLabel: 'Bu ay' };
+  }
+
+  if (range === 'year') {
+    const bars = [];
+    for (let m = 11; m >= 0; m -= 1) {
+      const monthDate = new Date(today.getFullYear(), today.getMonth() - m, 1);
+      const monthEnd = new Date(monthDate.getFullYear(), monthDate.getMonth() + 1, 0);
+      const cappedEnd = monthEnd > today ? today : monthEnd;
+      const count = sumDailyAnswersBetween(monthDate, cappedEnd);
+      const daysInMonth = Math.round((cappedEnd - monthDate) / 86400000) + 1;
+      bars.push({
+        label: MONTH_LABELS[monthDate.getMonth()],
+        detail: `${MONTH_LABELS[monthDate.getMonth()]} ${monthDate.getFullYear()} · ${count} soru`,
+        count, isToday: m === 0, isFuture: false,
+        compliance: goal && daysInMonth > 0 ? Math.min(1, count / (goal * daysInMonth)) : 0
+      });
+    }
+    return { bars, unit: 'ay', periodLabel: 'Bu yıl' };
+  }
+
+  const monday = startOfWeek(today);
+  const bars = [];
+  for (let i = 0; i < 7; i += 1) {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    const isFuture = d > today;
+    const count = isFuture ? 0 : Number(progress.dailyAnswers[dateKey(d)] || 0);
+    bars.push({
+      label: WEEKDAY_LABELS[i],
+      detail: `${d.toLocaleDateString('tr-TR', { weekday: 'long' })} · ${count} soru`,
+      count, isToday: !isFuture && d.getTime() === today.getTime(), isFuture,
+      compliance: goal ? Math.min(1, count / goal) : 0
+    });
+  }
+  return { bars, unit: 'gün', periodLabel: 'Bu hafta' };
+}
+
+function renderWeeklyFlowCard() {
+  const range = state.weeklyFlowRange || 'week';
+  const { bars, periodLabel } = getWeeklyFlowBars(range);
+  const total = bars.reduce((sum, bar) => sum + bar.count, 0);
+  const consideredBars = bars.filter(bar => !bar.isFuture);
+  const compliance = consideredBars.length
+    ? Math.round(consideredBars.reduce((sum, bar) => sum + bar.compliance, 0) / consideredBars.length * 100)
+    : 0;
+  const maxCount = Math.max(1, ...bars.map(bar => bar.count));
+  const strongest = bars.reduce((best, bar) => (bar.count > (best?.count || 0) ? bar : best), null);
+  const periodWord = range === 'week' ? 'günün' : range === 'month' ? 'haftan' : 'ayın';
+  const note = state.weeklyFlowNote || (strongest && strongest.count > 0
+    ? `✨ ${strongest.label} en güçlü ${periodWord}. Sütunlara dokunarak ayrıntıyı görebilirsin.`
+    : 'Sütunlara dokunarak ayrıntıyı görebilirsin.');
+
+  return `<section class="profile-goal-card">
+    <div class="profile-goal-head"><span>HAFTALIK AKIŞ</span></div>
+    <p class="profile-goal-desc">Son yedi gündeki çalışma ritmin ve günlük hedeflerin.</p>
+    <div class="flow-toolbar">
+      <div class="flow-tabs" role="tablist" aria-label="Zaman aralığı">
+        <button class="flow-tab${range === 'week' ? ' active' : ''}" data-flow-range="week" type="button">Haftalık</button>
+        <button class="flow-tab${range === 'month' ? ' active' : ''}" data-flow-range="month" type="button">Aylık</button>
+        <button class="flow-tab${range === 'year' ? ' active' : ''}" data-flow-range="year" type="button">Yıllık</button>
+      </div>
+      <div class="flow-total">
+        <strong>${total} soru</strong>
+        <span>${periodLabel} · %${compliance} uyum</span>
+      </div>
+    </div>
+    <div class="flow-chart">
+      ${bars.map((bar, idx) => `<button class="flow-day${bar.isToday ? ' today' : ''}" data-flow-bar="${idx}" type="button">
+        <span class="flow-bar" style="--h:${Math.max(6, Math.round(bar.count / maxCount * 130))}px"></span>
+        <small>${escapeHtml(bar.label)}</small>
+      </button>`).join('')}
+    </div>
+    <div class="flow-note">${escapeHtml(note)}</div>
+  </section>`;
+}
+
 function getStats() {
   const completedSections = Object.keys(progress.completedSections).length;
   const completedMocks = progress.completedTests.filter(test => EXAM_KINDS.includes(test.kind)).length;
   const todayAnswers = Number(progress.dailyAnswers[dateKey()] || 0);
   const dailyGoal = getDailyGoal();
+  const examDate = getExamDate();
   return {
     completedSections,
     solvedQuestions: Number(progress.answers || 0),
@@ -470,7 +655,11 @@ function getStats() {
     todayAnswers,
     dailyGoal,
     dailyPercentage: Math.min(100, Math.round((todayAnswers / dailyGoal) * 100)),
-    accuracy: progress.answers ? Math.round((progress.correctAnswers / progress.answers) * 100) : 0
+    accuracy: progress.answers ? Math.round((progress.correctAnswers / progress.answers) * 100) : 0,
+    examDate,
+    daysUntilExam: getDaysUntilExam(),
+    totalQuestionCount: state.totalQuestionCount || 0,
+    bankPercentage: state.totalQuestionCount ? Math.min(100, Math.round((Number(progress.answers || 0) / state.totalQuestionCount) * 100)) : 0
   };
 }
 
@@ -608,6 +797,52 @@ function statCard(icon, colorClass, number, label, target) {
   return `<button class="stat stat-button" data-stat-target="${target}" type="button"><span class="stat-icon ${colorClass}">${svg(icon)}</span><strong>${number}</strong><span>${label}</span></button>`;
 }
 
+function renderBankProgressWidget(stats) {
+  const bankPct = stats.bankPercentage;
+  const checkpoints = [
+    { pct: 0, label: 'Başlangıç' },
+    { pct: 25, label: null },
+    { pct: 50, label: null },
+    { pct: 75, label: null },
+    { pct: 100, label: 'Tamamlandı' }
+  ];
+  let currentIdx = checkpoints.findIndex((cp, i) => i > 0 && bankPct < cp.pct);
+  if (currentIdx === -1) currentIdx = checkpoints.length - 1;
+  const nodesHtml = checkpoints.map((cp, i) => {
+    if (i < currentIdx || (i === checkpoints.length - 1 && bankPct >= 100)) {
+      return `<div class="bank-node done"><span class="bank-node-circle">${svg('check')}</span><small>${escapeHtml(cp.label || '')}</small></div>`;
+    }
+    if (i === currentIdx) {
+      return `<div class="bank-node current"><span class="bank-node-circle"><strong>%${bankPct}</strong></span><small>Şu an</small></div>`;
+    }
+    return `<div class="bank-node"><span class="bank-node-circle">%${cp.pct}</span><small>${escapeHtml(cp.label || '')}</small></div>`;
+  }).join('');
+
+  const days = stats.daysUntilExam;
+  const countdownValue = days === null ? '—' : Math.max(0, days);
+  const countdownMsg = getExamCountdownMessage(days);
+
+  return `<section class="bank-progress-card">
+    <div class="bank-progress-main">
+      <div class="bank-progress-head">
+        <div><span>GENEL İLERLEME</span><strong class="bank-progress-percent">%${bankPct}</strong></div>
+        <div class="bank-progress-title"><h4>Soru Bankası İlerlemen</h4><small>${stats.totalQuestionCount ? `${stats.totalQuestionCount.toLocaleString('tr-TR')} sorudan ${stats.solvedQuestions.toLocaleString('tr-TR')}'ini çözdün` : `${stats.solvedQuestions} soru çözdün`}</small></div>
+      </div>
+      <div class="bank-progress-path">
+        <div class="bank-progress-track"><div class="bank-progress-track-fill" style="width:${bankPct}%"></div></div>
+        <div class="bank-progress-nodes">${nodesHtml}</div>
+      </div>
+    </div>
+    <div class="bank-countdown" data-stat-target="profile" role="button" tabindex="0">
+      ${svg('calendar')}
+      <span class="bank-countdown-label">SINAVA KALAN</span>
+      <strong class="bank-countdown-value">${countdownValue}</strong>
+      <span class="bank-countdown-unit">${days === null ? '' : 'gün'}</span>
+      <span class="bank-countdown-msg">${escapeHtml(countdownMsg)}</span>
+    </div>
+  </section>`;
+}
+
 function homeView() {
   if (!state.catalogue) return state.catalogueError ? errorView() : loadingView();
   const stats = getStats();
@@ -624,6 +859,7 @@ function homeView() {
   }).join('');
 
   return `<section class="screen home-screen">
+    ${renderBankProgressWidget(stats)}
     <div class="stats">
       ${statCard('squareCheck', '', stats.completedSections, 'Konu<br>Tamamlandı', 'profile')}
       ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
@@ -1210,15 +1446,20 @@ function profileView() {
     </div>
   </section>
   <section class="profile-goal-card">
-    <div class="profile-goal-head"><span>ÇALIŞMALARIM</span><strong>İlerlemen</strong></div>
-    <p class="profile-goal-desc">Bu değerler cevapların ve tamamladığın testlerle otomatik güncellenir.</p>
-    <div class="study-grid">
-      <article><span>Çözülen soru</span><strong>${stats.solvedQuestions}</strong></article>
-      <article><span>Doğruluk oranı</span><strong>%${stats.accuracy}</strong></article>
-      <article><span>Tamamlanan bölüm</span><strong>${stats.completedSections}</strong></article>
-      <article><span>Günlük seri</span><strong>${stats.streak} gün</strong></article>
+    <div class="profile-goal-head"><span>SINAV TARİHİ</span>${stats.examDate ? `<strong>${stats.daysUntilExam} gün kaldı</strong>` : ''}</div>
+    <p class="profile-goal-desc">Sınav tarihini gir, ana sayfada geri sayımı ve o güne göre değişen öneriyi gör.</p>
+    <div class="profile-goal-edit">
+      <input type="date" id="profileExamDateInput" class="goal-edit-input" value="${stats.examDate || ''}" aria-label="Sınav tarihi">
+      <button class="reader-primary" id="profileExamDateSaveButton" type="button">Kaydet</button>
     </div>
   </section>
+  <div class="stats">
+    ${statCard('squareCheck', '', stats.completedSections, 'Konu<br>Tamamlandı', 'profile')}
+    ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
+    ${statCard('award', 'amber', stats.completedMocks, 'Deneme<br>Tamamlandı', 'bank')}
+    ${statCard('flame', 'accent', stats.streak, 'Günlük<br>Seri', 'profile')}
+  </div>
+  ${renderWeeklyFlowCard()}
   <div class="profile-notice">İstatistiklerin hesabına otomatik olarak senkronize ediliyor; başka bir cihazdan giriş yaptığında da seninle gelir.</div><section class="profile-account-actions"><button class="reset-progress" id="resetProgressButton" type="button">${svg('refresh')}<span>İlerleme verisini sıfırla</span></button><button class="signout-btn" id="signOutButton" type="button">${svg('lock')}<span>Çıkış Yap</span></button></section></section>`;
 }
 
@@ -1261,6 +1502,28 @@ function bindViewEvents() {
   const profileGoalSaveButton = document.getElementById('profileDailyGoalSaveButton');
   profileGoalSaveButton?.addEventListener('click', () => { if (profileGoalInput) setDailyGoal(profileGoalInput.value); });
   profileGoalInput?.addEventListener('keydown', event => { if (event.key === 'Enter') { event.preventDefault(); profileGoalSaveButton?.click(); } });
+
+  const profileExamDateInput = document.getElementById('profileExamDateInput');
+  const profileExamDateSaveButton = document.getElementById('profileExamDateSaveButton');
+  profileExamDateSaveButton?.addEventListener('click', () => { if (profileExamDateInput) setExamDate(profileExamDateInput.value); });
+
+  app.querySelectorAll('[data-flow-range]').forEach(button => {
+    button.addEventListener('click', () => {
+      if (state.weeklyFlowRange === button.dataset.flowRange) return;
+      state.weeklyFlowRange = button.dataset.flowRange;
+      state.weeklyFlowNote = '';
+      render();
+    });
+  });
+  app.querySelectorAll('[data-flow-bar]').forEach(button => {
+    button.addEventListener('click', () => {
+      const { bars } = getWeeklyFlowBars(state.weeklyFlowRange || 'week');
+      const bar = bars[Number(button.dataset.flowBar)];
+      if (!bar) return;
+      state.weeklyFlowNote = bar.detail;
+      render();
+    });
+  });
 }
 
 function updateHeader() {
@@ -1294,11 +1557,13 @@ function resetProgress() {
   const selectedRole = progress.selectedRole;
   const purchasedRoles = progress.purchasedRoles;
   const dailyGoal = progress.dailyGoal;
+  const examDate = progress.examDate;
   progress = defaultProgress();
   progress.userId = userId;
   progress.selectedRole = selectedRole;
   progress.purchasedRoles = purchasedRoles;
   progress.dailyGoal = dailyGoal;
+  progress.examDate = examDate;
   saveProgress();
   showToast('İlerleme verisi sıfırlandı.');
 }
@@ -2962,6 +3227,15 @@ async function loadCatalogue() {
         })
         .catch(() => {}); // widget süsleme, sessizce geç
     }
+    // Ana sayfadaki "Genel İlerleme" halkası için toplam soru bankası
+    // büyüklüğü — aynı "arka planda çek, hazır olunca sessizce yeniden
+    // render et" deseni.
+    ContentRepo.fetchTotalQuestionCount()
+      .then(total => {
+        state.totalQuestionCount = total;
+        if (state.view === 'home') render();
+      })
+      .catch(() => {});
   } catch (error) {
     state.catalogueError = error.message || 'Konu verisi yüklenemedi.';
     render();
