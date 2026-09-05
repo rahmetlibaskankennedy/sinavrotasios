@@ -489,7 +489,7 @@ function getDaysUntilExam() {
 // motivasyon mesajı ("Değişen Koç Mesajı" — üç sabit istatistik kartından
 // (halka/nefes/kum saati) farklı olarak veri değil, ton/zamanlama değiştiriyor).
 function getExamCountdownMessage(days) {
-  if (days === null) return 'Sınav tarihini profilinden ekleyebilirsin.';
+  if (days === null) return 'Sınav tarihi yakında eklenecek.';
   if (days < 0) return 'Sınav geride kaldı — umarız iyi geçmiştir!';
   if (days === 0) return 'Bugün sınav günü. Başarılar!';
   if (days <= 7) return 'Son düzlük, tekrara odaklan.';
@@ -837,9 +837,7 @@ function renderBankProgressWidget(stats) {
     <div class="bank-countdown bank-countdown-leaf" data-stat-target="profile" role="button" tabindex="0">
       <div class="bank-countdown-leaf-head">SINAV GÜNÜ</div>
       <strong class="bank-countdown-value">${countdownValue}</strong>
-      <span class="bank-countdown-unit">${days === null ? '' : 'gün kaldı'}</span>
-      <div class="bank-countdown-leaf-tear"></div>
-      <span class="bank-countdown-msg">${days === null ? escapeHtml(countdownMsg) : 'Her gün bir tanesi düşer'}</span>
+      <span class="bank-countdown-unit">${days === null ? escapeHtml(countdownMsg) : 'gün kaldı'}</span>
     </div>
   </section>`;
 }
@@ -861,11 +859,6 @@ function homeView() {
 
   return `<section class="screen home-screen">
     ${renderBankProgressWidget(stats)}
-    <div class="stats stats-3">
-      ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
-      ${statCard('award', 'amber', stats.completedMocks, 'Deneme<br>Tamamlandı', 'bank')}
-      ${statCard('flame', 'accent', stats.streak, 'Günlük<br>Seri', 'profile')}
-    </div>
     <div class="section-head"><h3>Test Kategorileri</h3></div>
     <section class="categories">${categories}</section>
     
@@ -1447,11 +1440,6 @@ function profileView() {
         <button class="reader-primary" id="profileDailyGoalSaveButton" type="button">Kaydet</button>
       </div>
     </section>
-  </div>
-  <div class="stats stats-3">
-    ${statCard('circleCheckBig', 'accent', stats.solvedQuestions, 'Soru<br>Çözüldü', 'profile')}
-    ${statCard('award', 'amber', stats.completedMocks, 'Deneme<br>Tamamlandı', 'bank')}
-    ${statCard('flame', 'accent', stats.streak, 'Günlük<br>Seri', 'profile')}
   </div>
   ${renderWeeklyFlowCard()}
   <div class="profile-notice">İstatistiklerin hesabına otomatik olarak senkronize ediliyor; başka bir cihazdan giriş yaptığında da seninle gelir.</div><section class="profile-account-actions"><button class="reset-progress" id="resetProgressButton" type="button">${svg('refresh')}<span>İlerleme verisini sıfırla</span></button><button class="signout-btn" id="signOutButton" type="button">${svg('lock')}<span>Çıkış Yap</span></button></section></section>`;
