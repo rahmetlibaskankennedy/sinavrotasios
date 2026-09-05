@@ -3057,6 +3057,15 @@ async function loadExamTopicBank(topicId, excludeTopicIds = []) {
   if (state.questionBanks.has(cacheKey)) return state.questionBanks.get(cacheKey);
 
   const collected = new Map();
+  // NOT (2026-09-05 DÜZELTME 2): blueprint bazen kısa/eski bir id kullanıyor
+  // (ör. "anayasa"), gerçek questions.topic_id ise "law-anayasa" gibi farklı
+  // bir değer — bu ikisi arasındaki çözümleme SADECE fetchQuestionsByPathExact
+  // içinde (source_file üzerinden) yapılıyor ve dışarı hiç sızmıyordu. İlk
+  // sürümde alt konu genişletmesini dışarıdaki (çözülmemiş) topicId ile
+  // yapıyordum — bu yüzden RPC hep boş dönüyordu, sessizce, hiçbir etkisi
+  // olmadan. Şimdi gerçek id'yi (resolvedTopicId) fetchQuestionsByPathExact'ın
+  // döndüğü topicId'den yakalayıp alt konu genişletmesinde ONU kullanıyoruz.
+  let resolvedTopicId = topicId;
 
   try {
     // Önce JSON dosyasından dene
@@ -3066,6 +3075,7 @@ async function loadExamTopicBank(topicId, excludeTopicIds = []) {
         // burada SADECE tam konu eşleşmesi alınır; alt konu genişletmesi
         // aşağıda ayrı ve kontrollü bir adımda yapılıyor (bkz. alt not).
         const data = await ContentRepo.fetchQuestionsByPathExact(topic.questionFile);
+        if (data.topicId) resolvedTopicId = data.topicId;
         const questions = Array.isArray(data.questions) ? data.questions : [];
         questions.forEach(q => collected.set(q.id, q));
       } catch (jsonError) {
@@ -3079,7 +3089,7 @@ async function loadExamTopicBank(topicId, excludeTopicIds = []) {
       const { data, error } = await supabaseClient
         .from('questions')
         .select('id,prompt,options,answer_index')
-        .eq('topic_id', topicId)
+        .eq('topic_id', resolvedTopicId)
         .order('sort_order', { ascending: true });
       if (error) throw error;
       (data || []).forEach(q => collected.set(q.id, {
@@ -3097,11 +3107,12 @@ async function loadExamTopicBank(topicId, excludeTopicIds = []) {
     // varsa doğar). Şimdi: alt bölümlere iniyoruz ama excludeTopicIds'teki
     // (yani bu kadronun blueprint'inde zaten kendi satırı olan) konuları
     // hariç tutuyoruz — o riski yeniden açmadan içeriği kurtarır.
+    // resolvedTopicId kullanılıyor (yukarıdaki not) — topicId DEĞİL.
     try {
-      const { data: descendantIds, error: descError } = await supabaseClient.rpc('get_topic_descendant_ids', { p_root_topic_id: topicId });
+      const { data: descendantIds, error: descError } = await supabaseClient.rpc('get_topic_descendant_ids', { p_root_topic_id: resolvedTopicId });
       if (!descError && Array.isArray(descendantIds)) {
-        const excludeSet = new Set(excludeTopicIds.filter(id => id !== topicId));
-        const extraIds = descendantIds.filter(id => id !== topicId && !excludeSet.has(id));
+        const excludeSet = new Set(excludeTopicIds.filter(id => id !== topicId && id !== resolvedTopicId));
+        const extraIds = descendantIds.filter(id => id !== resolvedTopicId && !excludeSet.has(id));
         if (extraIds.length) {
           const { data: extraData, error: extraError } = await supabaseClient
             .from('questions')
