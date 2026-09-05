@@ -95,6 +95,8 @@
     "20260904192952_merge_unique_manual_deneme_pool_questions_into_questions.sql",
     "20260904194030_drop_legacy_dual_deneme_tables.sql",
     "20260904195639_consolidate_tf_pool_select_policies.sql",
-    "20260905120000_add_quiz_reveal_sessions.sql"
+    "20260905082115_add_quiz_reveal_sessions.sql",
+    "20260905093600_fix_start_random_test_ambiguous_id.sql",
+    "20260905100237_add_topic_descendant_ids_rpc.sql"
   ]
 }

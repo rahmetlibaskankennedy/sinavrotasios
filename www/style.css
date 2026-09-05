@@ -842,14 +842,6 @@ body{background:var(--bg)}
 .plan-points span{display:flex;align-items:center;gap:7px;font-size:10px;color:var(--navy2);font-weight:700}
 .plan-points svg{width:15px;height:15px;color:var(--green)}
 .practice-card{display:grid;grid-template-columns:42px 1fr auto;gap:11px;align-items:center;padding:14px;border:1px solid #d9e4f5;border-radius:16px;background:#fff;box-shadow:0 5px 14px rgba(13,33,68,.04);margin-top:16px}
-.weak-topics-card{display:flex;flex-direction:column;gap:8px}
-.weak-topic-row{padding:12px 14px;background:#fff;border:1px solid var(--line);border-radius:14px;cursor:pointer}
-.weak-topic-row-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:8px}
-.weak-topic-title{font-size:13.5px;font-weight:600;color:var(--text);line-height:1.35}
-.weak-topic-percent{font-size:12.5px;font-weight:700;flex-shrink:0}
-.weak-topic-bar{height:6px;border-radius:3px;background:var(--line);overflow:hidden}
-.weak-topic-bar-fill{height:100%;border-radius:3px}
-.weak-topic-caption{display:block;font-size:11.5px;color:var(--muted);margin-top:6px}
 .practice-card-icon{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:#edf3fb;color:var(--blue)}
 .practice-card-icon svg{width:21px;height:21px}
 .practice-card span{display:block;font-size:8px;font-weight:800;color:var(--red);letter-spacing:.65px;margin-bottom:3px}

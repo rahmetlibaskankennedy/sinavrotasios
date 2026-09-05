@@ -705,32 +705,16 @@ function getMistakeCategories() {
 
 function mistakesView() {
   const totalCount = Object.keys(progress.wrongQuestions).length;
-  const weakTopics = getWeakTopicsSummary();
-  const weakTopicsHtml = weakTopics.length ? `
-    <div class="section-head"><h3>Zayıf Noktaların</h3></div>
-    <div class="weak-topics-card">
-      ${weakTopics.map((w, idx) => `
-        <div class="weak-topic-row" role="button" tabindex="0" data-weak-topic-index="${idx}">
-          <div class="weak-topic-row-top">
-            <span class="weak-topic-title">${escapeHtml(w.title)}</span>
-            <span class="weak-topic-percent" style="color:${weakTopicColor(w.wrongPercent)}">%${w.wrongPercent}</span>
-          </div>
-          <div class="weak-topic-bar"><div class="weak-topic-bar-fill" style="width:${w.wrongPercent}%;background:${weakTopicColor(w.wrongPercent)}"></div></div>
-          <span class="weak-topic-caption">${w.wrongCount} yanlış / ${w.totalCount} soru</span>
-        </div>`).join('')}
-    </div>` : '';
   if (!totalCount) {
     return `<section class="screen content-screen">
       <div class="page-heading"><h2>Yanlışlarım</h2><p>Daha önce yanlış yaptığın tüm sorular burada birikir.</p></div>
-      ${weakTopicsHtml}
       <div class="empty-inline">Henüz yanlış yaptığın bir soru yok.</div>
     </section>`;
   }
   const categories = getMistakeCategories();
   return `<section class="screen content-screen">
     <div class="page-heading"><span>TEKRAR HAVUZU</span><h2>Yanlışlarım</h2><p>Daha önce yanlış yaptığın tüm sorular burada birikir.</p></div>
-    ${weakTopicsHtml}
-    <article class="practice-card" style="margin-top:18px">
+    <article class="practice-card">
       <div class="practice-card-icon">${svg('flame')}</div>
       <div><span>TEKRAR HAVUZU</span><h3>${totalCount} soru</h3><p>Tüm yanlış sorularını sırasıyla tekrar çöz.</p></div>
       <button class="reader-primary" id="startWrongPoolButton" type="button">Başlat</button>
@@ -744,19 +728,6 @@ function mistakesView() {
       </article>`).join('')}
     </section>
   </section>`;
-}
-
-function openWeakTopic(index) {
-  const weakTopics = getWeakTopicsSummary();
-  const entry = weakTopics[index]?.entry;
-  if (!entry) return;
-  clearInterval(timerInterval);
-  timerInterval = null;
-  closeAllSheets(topicSheet);
-  topicSheet.classList.add('open');
-  topicSheet.setAttribute('aria-hidden', 'false');
-  topicBackdrop.classList.add('open');
-  renderDocumentHub(entry.item, entry.categoryKey);
 }
 
 function openMistakeCategorySheet(categoryKey) {
@@ -1235,11 +1206,6 @@ function bindViewEvents() {
   document.getElementById('openDueFlashcardsButton')?.addEventListener('click', openDueReviewSession);
   
   document.getElementById('startWrongPoolButton')?.addEventListener('click', startWrongPool);
-  app.querySelectorAll('[data-weak-topic-index]').forEach(element => {
-    const open = () => openWeakTopic(Number(element.dataset.weakTopicIndex));
-    element.addEventListener('click', open);
-    element.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') open(); });
-  });
   app.querySelectorAll('[data-open-mistake-category]').forEach(element => {
   element.addEventListener('click', () => openMistakeCategorySheet(element.dataset.openMistakeCategory));
   element.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') openMistakeCategorySheet(element.dataset.openMistakeCategory); });
@@ -1278,9 +1244,21 @@ function updateHeader() {
 
 function resetProgress() {
   if (!window.confirm('Tüm yerel çalışma ilerlemesi sıfırlansın mı?')) return;
+  // NOT (2026-09-05 düzeltme): eskiden progress = defaultProgress() TÜM
+  // progress'i (selectedRole, purchasedRoles dahil) sıfırlıyordu. Bunlar
+  // "çalışma ilerlemesi" değil, hesap/kadro ayarı — kullanıcı reset sonrası
+  // kadrosunun sıfırlandığını görüyordu (bir sonraki açılışta window.
+  // currentUserRole'den otomatik geri doluyordu ama o ana kadar boş
+  // görünüyordu). Şimdi sadece gerçek ilerleme alanları sıfırlanıyor.
   const userId = progress.userId;
+  const selectedRole = progress.selectedRole;
+  const purchasedRoles = progress.purchasedRoles;
+  const dailyGoal = progress.dailyGoal;
   progress = defaultProgress();
   progress.userId = userId;
+  progress.selectedRole = selectedRole;
+  progress.purchasedRoles = purchasedRoles;
+  progress.dailyGoal = dailyGoal;
   saveProgress();
   showToast('İlerleme verisi sıfırlandı.');
 }
@@ -2203,31 +2181,6 @@ function getWeakEntries(entries, limit = 5) {
     .map(x => x.entry);
 }
 
-// "Zayıf Noktaların" kartı (mistakesView) için: getWeakEntries'in aksine
-// burada yüzdeyi/soru sayılarını da göstermemiz gerekiyor, o yüzden
-// docStats'ı ayrıca taşıyan kendi listesini üretir. buildWeakPool/
-// getWeakEntries'e dokunmadan (Bugünkü Rota'yı etkilememek için) ayrı tutuldu.
-function getWeakTopicsSummary(limit = 5) {
-  return getActiveDocuments()
-    .map(entry => ({ entry, stats: progress.docStats[entry.item.id] }))
-    .filter(x => x.stats && x.stats.attempts >= 3 && x.stats.correct < x.stats.attempts)
-    .map(x => ({
-      entry: x.entry,
-      title: x.entry.item.title,
-      wrongCount: x.stats.attempts - x.stats.correct,
-      totalCount: x.stats.attempts,
-      wrongPercent: Math.round((x.stats.attempts - x.stats.correct) / x.stats.attempts * 100)
-    }))
-    .sort((a, b) => b.wrongPercent - a.wrongPercent)
-    .slice(0, limit);
-}
-
-function weakTopicColor(percent) {
-  if (percent >= 35) return 'var(--red)';
-  if (percent >= 20) return 'var(--amber)';
-  return 'var(--muted)';
-}
-
 function getUnseenEntries(entries, exclude = []) {
   return entries.filter(entry =>
     (!progress.docStats[entry.item.id] || progress.docStats[entry.item.id].attempts === 0) &&
@@ -3096,48 +3049,77 @@ async function loadExamConfig() {
   examBlueprints = blueprintData;
 }
 
-async function loadExamTopicBank(topicId) {
+async function loadExamTopicBank(topicId, excludeTopicIds = []) {
   const topic = examTopicRegistry?.[topicId];
   if (!topic) return [];
-  
-  const cacheKey = `exam-topic:${topicId}`;
+
+  const cacheKey = `exam-topic:${topicId}:${excludeTopicIds.slice().sort().join(',')}`;
   if (state.questionBanks.has(cacheKey)) return state.questionBanks.get(cacheKey);
-  
+
+  const collected = new Map();
+
   try {
     // Önce JSON dosyasından dene
     if (topic.questionFile) {
       try {
         // NOT: fetchQuestionsByPathExact kullanılıyor (fetchQuestionsByPath DEĞİL) —
-        // sınav havuzu alt konuların sorularını katmamalı, aksi halde blueprint'in
-        // beklediği sayı yerine çok daha büyük/karışık bir havuzdan seçim yapılır
-        // ve alt konu başka bir blueprint girdisinde de varsa aynı soru sınavda
-        // iki kez çıkabilir (bkz. 2026-08-15 kadro sınavı soru sayısı hatası).
+        // burada SADECE tam konu eşleşmesi alınır; alt konu genişletmesi
+        // aşağıda ayrı ve kontrollü bir adımda yapılıyor (bkz. alt not).
         const data = await ContentRepo.fetchQuestionsByPathExact(topic.questionFile);
         const questions = Array.isArray(data.questions) ? data.questions : [];
-        state.questionBanks.set(cacheKey, questions);
-        return questions;
+        questions.forEach(q => collected.set(q.id, q));
       } catch (jsonError) {
         console.warn(`Sınav JSON dosyası yüklenemedi: ${topic.questionFile}`);
       }
     }
 
-    // Veritabanından yükle. NOT: questions tablosu RLS ile korunuyor
-    // (questions_premium_read → is_premium()); doğrudan seçim güvenli.
-    const { data, error } = await supabaseClient
-      .from('questions')
-      .select('id,prompt,options,answer_index')
-      .eq('topic_id', topicId)
-      .order('sort_order', { ascending: true });
-    
-    if (error) throw error;
-    
-    const questions = (data || []).map(q => ({
-      id: q.id,
-      prompt: q.prompt,
-      options: q.options,
-      answerIndex: q.answer_index
-    }));
-    
+    if (!collected.size) {
+      // Veritabanından yükle. NOT: questions tablosu RLS ile korunuyor
+      // (questions_premium_read → is_premium()); doğrudan seçim güvenli.
+      const { data, error } = await supabaseClient
+        .from('questions')
+        .select('id,prompt,options,answer_index')
+        .eq('topic_id', topicId)
+        .order('sort_order', { ascending: true });
+      if (error) throw error;
+      (data || []).forEach(q => collected.set(q.id, {
+        id: q.id, prompt: q.prompt, options: q.options, answerIndex: q.answer_index
+      }));
+    }
+
+    // NOT (2026-09-05 içerik eksikliği düzeltmesi): bazı konuların (T.C.
+    // Anayasası, 657 sayılı Kanun, 5442, 4734, 4735, Atatürk İlkeleri ve
+    // İnkılap Tarihi) TÜM soruları alt bölümlere etiketli — ana konunun
+    // kendisinde neredeyse hiç soru yoktu, "Bazı konularda içerik eksik"
+    // uyarısı hep bunlar için çıkıyordu. Eskiden burası bilerek alt konulara
+    // hiç inmiyordu (2026-08-15: aynı sorunun iki kez seçilmesini önlemek
+    // için — risk SADECE alt konu blueprint'te AYRI bir satır olarak da
+    // varsa doğar). Şimdi: alt bölümlere iniyoruz ama excludeTopicIds'teki
+    // (yani bu kadronun blueprint'inde zaten kendi satırı olan) konuları
+    // hariç tutuyoruz — o riski yeniden açmadan içeriği kurtarır.
+    try {
+      const { data: descendantIds, error: descError } = await supabaseClient.rpc('get_topic_descendant_ids', { p_root_topic_id: topicId });
+      if (!descError && Array.isArray(descendantIds)) {
+        const excludeSet = new Set(excludeTopicIds.filter(id => id !== topicId));
+        const extraIds = descendantIds.filter(id => id !== topicId && !excludeSet.has(id));
+        if (extraIds.length) {
+          const { data: extraData, error: extraError } = await supabaseClient
+            .from('questions')
+            .select('id,prompt,options,answer_index')
+            .in('topic_id', extraIds);
+          if (extraError) throw extraError;
+          (extraData || []).forEach(q => {
+            if (!collected.has(q.id)) {
+              collected.set(q.id, { id: q.id, prompt: q.prompt, options: q.options, answerIndex: q.answer_index });
+            }
+          });
+        }
+      }
+    } catch (descError) {
+      console.warn(`Alt konu genişletmesi başarısız (${topicId}):`, descError);
+    }
+
+    const questions = Array.from(collected.values());
     state.questionBanks.set(cacheKey, questions);
     return questions;
   } catch (error) {
@@ -3173,6 +3155,7 @@ async function buildKadroExamPool(roleKey) {
   const blueprint = examBlueprints?.[roleKey];
   if (!blueprint) throw new Error('Bu kadro için sınav planı tanımlı değil.');
   const flatEntries = expandBlueprintEntries(blueprint.topics);
+  const allBlueprintTopicIds = flatEntries.map(entry => entry.topicId);
   const missingTopics = [];
   const pool = [];
   // NOT (2026-08-15 performans düzeltmesi): önceden bu döngü sıralıydı
@@ -3180,7 +3163,7 @@ async function buildKadroExamPool(roleKey) {
   // 20+ konulu blueprint'lerde 20+ ardışık ağ isteği birikip "Başlat" düğmesini
   // birkaç saniye geciktiriyordu. Konular birbirinden bağımsız olduğu için
   // hepsini paralel çekiyoruz.
-  const banks = await Promise.all(flatEntries.map(({ topicId }) => loadExamTopicBank(topicId)));
+  const banks = await Promise.all(flatEntries.map(({ topicId }) => loadExamTopicBank(topicId, allBlueprintTopicIds)));
   flatEntries.forEach(({ topicId, count }, i) => {
     const topicMeta = examTopicRegistry[topicId];
     const bank = banks[i];

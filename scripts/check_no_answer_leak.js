@@ -12,8 +12,11 @@
  * Bu script, answerIndex/answer_index alanı taşıyan HERHANGİ bir JSON
  * dosyasının istemciye giden dizinlere (www/, android assets) tekrar
  * sızmadığını doğrular. CI'da ve `npm run build` öncesinde çalıştırılmalı.
- * Kök dizindeki sorular/ ve cards/ KASITLI olarak taranmaz — onlar yalnızca
- * scripts/generate_seed.py için seed-kaynağıdır ve istemciye hiç gitmez.
+ * NOT (2026-09-05): sorular/, cards/ ve exam-blueprint/ kök klasörleri
+ * kaldırıldı — hiçbir aktif kod yolu (www/, generate_seed.py,
+ * export_production_snapshot.py) onları okumuyordu; içerik zaten Supabase
+ * tablolarında (questions, card_questions, exam_topics, exam_blueprint_items)
+ * yaşıyor. generate_seed.py kaynağı supabase/export/production/'dır.
  */
 const fs = require('fs');
 const path = require('path');
