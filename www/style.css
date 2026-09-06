@@ -899,6 +899,20 @@ body{background:var(--bg)}
 .profile-header-row .profile-summary{margin-bottom:0;flex:1 1 160px}
 .profile-header-row .profile-goal-card{margin-top:0;flex:2 1 220px}
 .profile-summary{display:flex;align-items:center;gap:12px;padding:14px;background:#fff;border:1px solid var(--line);border-radius:15px}
+.profile-role-chip{display:inline-block;margin-top:6px;border:0;background:#eef2f8;color:var(--navy);font-size:10px;font-weight:700;padding:4px 10px;border-radius:20px;cursor:pointer}
+.badge-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.badge-item{display:flex;flex-direction:column;align-items:center;gap:7px;padding:6px 2px}
+.badge-shield{position:relative;display:block;width:46px;height:52px;clip-path:polygon(50% 0,100% 20%,100% 65%,50% 100%,0 65%,0 20%);background:#eef0f4;padding:2px}
+.badge-item.unlocked .badge-shield{background:conic-gradient(from 180deg,#f0c04a,#ffe28a,#d99019,#f0c04a);box-shadow:0 4px 10px rgba(217,144,25,.35)}
+.badge-shield-inner{position:relative;display:grid;place-items:center;width:100%;height:100%;clip-path:polygon(50% 0,100% 20%,100% 65%,50% 100%,0 65%,0 20%);background:#f5f6f9;color:#c2c8d4;overflow:hidden}
+.badge-item.unlocked .badge-shield-inner{background:linear-gradient(145deg,#fff6df,#ffe9b8);color:#a8710c}
+.badge-image{width:26px;height:26px;object-fit:contain;position:relative;z-index:1;filter:grayscale(1) opacity(.55)}
+.badge-item.unlocked .badge-image{filter:none}
+.badge-item.unlocked .badge-shield-inner::after{content:'';position:absolute;top:0;left:-60%;width:40%;height:100%;background:rgba(255,255,255,.6);transform:rotate(25deg);animation:badgeShine 2.6s ease-in-out infinite}
+@keyframes badgeShine{0%{left:-60%}100%{left:160%}}
+.badge-item small{font-size:8px;font-weight:700;color:var(--text);text-align:center;line-height:1.25}
+.badge-item:not(.unlocked) small{color:#a9b0bd;font-weight:600}
+.delete-account-link{display:block;text-align:center;margin-top:14px;font-size:11px;color:var(--muted);text-decoration:underline}
 .profile-summary-avatar{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--navy);color:#fff;font-size:16px;font-weight:800}
 .profile-summary strong{display:block;font-size:16px;color:var(--navy);margin-bottom:4px}
 .profile-summary span{display:block;font-size:10.5px;color:var(--muted)}
@@ -1162,7 +1176,8 @@ body.auth-page{
 /* KADRO SEÇİM KAPISI (zorunlu, tam ekran) */
 .role-gate{position:fixed;inset:0;z-index:1000;background:var(--bg);display:flex;align-items:center;justify-content:center;padding:28px 20px;overflow-y:auto}
 .role-gate[aria-hidden="true"]{display:none}
-.role-gate-card{width:100%;max-width:420px}
+.role-gate-card{width:100%;max-width:420px;position:relative}
+.role-gate-close{position:absolute;top:-6px;right:0;width:32px;height:32px;border-radius:50%;border:0;background:#f0f4f8;color:var(--navy);font-size:16px;display:none;align-items:center;justify-content:center;cursor:pointer}
 .role-gate-dots{display:flex;gap:8px;justify-content:center;margin-bottom:22px}
 .role-gate-dots .dot{width:9px;height:9px;border-radius:50%;background:#d7dce4}
 .role-gate-dots .dot:nth-child(1){background:var(--navy)}

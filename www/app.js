@@ -24,6 +24,26 @@ const ROLES = [
   { key: 'sube-mudur', label: 'Şube Müdürü' }
 ];
 
+// Profildeki "Rozetlerim" için — tamamen var olan istatistiklerden (seri,
+// çözülen soru, tamamlanan deneme) hesaplanıyor, yeni bir veri alanı gerekmez.
+const BADGE_DEFS = [
+  { id: 'streak-3', image: 'images/rozet-seri.png', label: '3 Gün Seri', unit: 'gün', target: 3, value: s => s.streak },
+  { id: 'streak-7', image: 'images/rozet-seri.png', label: '7 Gün Seri', unit: 'gün', target: 7, value: s => s.streak },
+  { id: 'streak-30', image: 'images/rozet-seri.png', label: '30 Gün Seri', unit: 'gün', target: 30, value: s => s.streak },
+  { id: 'solved-100', image: 'images/rozet-soru.png', label: '100 Soru', unit: 'soru', target: 100, value: s => s.solvedQuestions },
+  { id: 'solved-500', image: 'images/rozet-soru.png', label: '500 Soru', unit: 'soru', target: 500, value: s => s.solvedQuestions },
+  { id: 'solved-1000', image: 'images/rozet-soru.png', label: '1000 Soru', unit: 'soru', target: 1000, value: s => s.solvedQuestions },
+  { id: 'exam-1', image: 'images/rozet-deneme.png', label: 'İlk Deneme', unit: 'deneme', target: 1, value: s => s.completedMocks },
+  { id: 'exam-5', image: 'images/rozet-deneme.png', label: '5 Deneme', unit: 'deneme', target: 5, value: s => s.completedMocks }
+];
+
+function getBadges(stats) {
+  return BADGE_DEFS.map(def => {
+    const value = Math.min(def.target, def.value(stats));
+    return { ...def, value, unlocked: value >= def.target };
+  });
+}
+
 const ROLE_ICONS = { memur: 'idcard', sef: 'clipboard', sayman: 'calculator', 'sube-mudur': 'landmark' };
 
 // --- BİLGİ KARTLARI KATALOĞU ---
@@ -1411,9 +1431,17 @@ function profileView() {
   const fullName = user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Aday';
   const email = user?.email || '';
   const initial = fullName.trim().charAt(0).toUpperCase() || '?';
+  const roleLabel = ROLES.find(r => r.key === progress.selectedRole)?.label || '';
+  const badges = getBadges(stats);
   return `<section class="screen content-screen">
   <div class="profile-header-row">
-    <article class="profile-summary"><div class="profile-summary-avatar">${escapeHtml(initial)}</div><div><strong>${escapeHtml(fullName)}</strong><span>${escapeHtml(email)}</span></div></article>
+    <article class="profile-summary">
+      <div class="profile-summary-avatar">${escapeHtml(initial)}</div>
+      <div>
+        <strong>${escapeHtml(fullName)}</strong><span>${escapeHtml(email)}</span>
+        <button class="profile-role-chip" id="changeRoleButton" type="button">${escapeHtml(roleLabel)} · Değiştir</button>
+      </div>
+    </article>
     <section class="profile-goal-card">
       <div class="profile-goal-head"><span>GÜNLÜK ÇALIŞMA HEDEFİ</span><strong>${stats.dailyGoal} soru / gün</strong></div>
       <p class="profile-goal-desc">Her gün çözmek istediğin soru sayısını belirle, ana sayfadaki ilerleme halkası buna göre hesaplanır.</p>
@@ -1423,8 +1451,24 @@ function profileView() {
       </div>
     </section>
   </div>
+  <section class="profile-goal-card">
+    <div class="profile-goal-head"><span>ROZETLERİM</span></div>
+    <p class="profile-goal-desc">Çalışma alışkanlığın büyüdükçe yeni rozetler açılır.</p>
+    <div class="badge-grid">
+      ${badges.map(badge => `<div class="badge-item${badge.unlocked ? ' unlocked' : ''}">
+        <span class="badge-shield"><span class="badge-shield-inner"><img src="${badge.image}" alt="" class="badge-image"></span></span>
+        <small>${badge.unlocked ? escapeHtml(badge.label) : `${badge.value}/${badge.target} ${escapeHtml(badge.unit)}`}</small>
+      </div>`).join('')}
+    </div>
+  </section>
   ${renderWeeklyFlowCard()}
-  <div class="profile-notice">İstatistiklerin hesabına otomatik olarak senkronize ediliyor; başka bir cihazdan giriş yaptığında da seninle gelir.</div><section class="profile-account-actions"><button class="reset-progress" id="resetProgressButton" type="button">${svg('refresh')}<span>İlerleme verisini sıfırla</span></button><button class="signout-btn" id="signOutButton" type="button">${svg('lock')}<span>Çıkış Yap</span></button></section></section>`;
+  <div class="profile-notice">İstatistiklerin hesabına otomatik olarak senkronize ediliyor; başka bir cihazdan giriş yaptığında da seninle gelir.</div>
+  <section class="profile-account-actions">
+    <button class="reset-progress" id="resetProgressButton" type="button">${svg('refresh')}<span>İlerleme verisini sıfırla</span></button>
+    <button class="signout-btn" id="signOutButton" type="button">${svg('lock')}<span>Çıkış Yap</span></button>
+  </section>
+  <a class="delete-account-link" id="deleteAccountLink" href="https://ORAYA-GERCEK-URL-GELECEK/hesapsilme.html" target="_blank" rel="noopener">Hesabımı silmek istiyorum</a>
+</section>`;
 }
 
 function render() {
@@ -1457,6 +1501,7 @@ function bindViewEvents() {
     });
   document.getElementById('startKadroExamButton')?.addEventListener('click', startKadroExam);
   document.getElementById('resetProgressButton')?.addEventListener('click', resetProgress);
+  document.getElementById('changeRoleButton')?.addEventListener('click', () => openRoleGate(true));
   document.getElementById('signOutButton')?.addEventListener('click', async () => {
     await flushProgressSync();
     window.signOut();
@@ -3296,17 +3341,20 @@ function renderRoleGate() {
   });
 }
 
-function openRoleGate() {
+function openRoleGate(allowClose = false) {
   pendingRoleSelection = null;
   renderRoleGate();
   roleGateContinue.disabled = true;
   roleGateContinue.classList.remove('enabled');
+  const closeBtn = document.getElementById('roleGateClose');
+  if (closeBtn) closeBtn.style.display = allowClose ? 'flex' : 'none';
   roleGate.setAttribute('aria-hidden', 'false');
 }
 
 function closeRoleGate() {
   roleGate.setAttribute('aria-hidden', 'true');
 }
+document.getElementById('roleGateClose')?.addEventListener('click', closeRoleGate);
 
 roleGateContinue?.addEventListener('click', async () => {
   if (!pendingRoleSelection) return;
