@@ -455,13 +455,13 @@ const ContentRepo = (() => {
   async function fetchFlashcardDecks() {
     const { data, error } = await client
       .from('card_decks')
-      .select('id, title, category_id, source_file')
+      .select('id, title, category_id, source_file, kadrolar')
       .eq('deck_type', 'flashcard')
       .order('sort_order');
     if (error) throw error;
     return (data || [])
       .filter(row => row.category_id && row.source_file)
-      .map(row => ({ id: row.id, title: row.title, categoryId: row.category_id, cardFile: row.source_file }));
+      .map(row => ({ id: row.id, title: row.title, categoryId: row.category_id, cardFile: row.source_file, kadrolar: row.kadrolar || null }));
   }
 
   // ---- Kart modu: topic_id'ye göre soruları kart formatına çevirir ----------

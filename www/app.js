@@ -44,15 +44,16 @@ function getCardCatalogue() {
     // get_topic_card_preview RPC'siyle çekiliyor (bkz. content-repo.js) —
     // bu RPC sunucu tarafında zaten free kullanıcıya 5 satırla sınırlıyor,
     // bu yüzden burada "free: false" ile önden tamamen kapatmaya gerek yok.
+    const role = progress.selectedRole;
     const flashcardDecks = (state.flashcardDecks || [])
-      .filter(d => d.categoryId === key)
+      .filter(d => d.categoryId === key && (!role || !d.kadrolar || d.kadrolar.includes(role)))
       .map(d => ({ id: d.id, title: d.title, cardFile: d.cardFile, free: true }));
     // Aynı başlık için flashcard destesi zaten varsa quiz-derived kopyasını
     // eklemiyoruz — aksi halde aynı konu listede iki kez görünüyordu.
     const normalizeTitle = (title) => (title || '').trim().toLocaleLowerCase('tr-TR');
     const flashcardTitles = new Set(flashcardDecks.map(d => normalizeTitle(d.title)));
     const quizDerived = (cat.topics || [])
-      .filter(t => (t.questionCount || 0) > 0 && !flashcardTitles.has(normalizeTitle(t.title)))
+      .filter(t => (t.questionCount || 0) > 0 && !flashcardTitles.has(normalizeTitle(t.title)) && (!role || !t.kadrolar || t.kadrolar.includes(role)))
       .map(t => ({ id: t.id, title: t.title, topicId: t.id, free: true }));
     result[key] = {
       title: cat.title,
@@ -781,28 +782,32 @@ function statCard(icon, colorClass, number, label, target) {
 
 function renderBankProgressWidget(stats) {
   const bankPct = stats.bankPercentage;
-  const checkpoints = [
+  // Sabit duraklar (0/25/50/75/100) hep yerinde, hep 5 tane — hiç değişmez.
+  // Gerçek ilerleme ise çizginin ÜZERİNDE, konumu yüzdeye göre kayan, yanıp
+  // sönen küçük bir nokta ile gösterilir; tam bir durağa denk geldiğinde
+  // (0/25/50/75/100) gizlenir (o durak zaten "done" olur), aradaki her
+  // noktada tekrar belirir.
+  const fixedStops = [
     { pct: 0, label: 'Başlangıç' },
     { pct: 25, label: null },
     { pct: 50, label: null },
     { pct: 75, label: null },
     { pct: 100, label: 'Tamamlandı' }
   ];
-  let currentIdx = checkpoints.findIndex((cp, i) => i > 0 && bankPct < cp.pct);
-  if (currentIdx === -1) currentIdx = checkpoints.length - 1;
-  const nodesHtml = checkpoints.map((cp, i) => {
-    if (i < currentIdx || (i === checkpoints.length - 1 && bankPct >= 100)) {
-      return `<div class="bank-node done"><span class="bank-node-circle">${svg('check')}</span><small>${escapeHtml(cp.label || '')}</small></div>`;
+  const isExactStop = fixedStops.some(stop => stop.pct === bankPct);
+  const nodesHtml = fixedStops.map(stop => {
+    if (bankPct >= stop.pct) {
+      return `<div class="bank-node done"><span class="bank-node-circle">${svg('check')}</span><small>${escapeHtml(stop.label || '')}</small></div>`;
     }
-    if (i === currentIdx) {
-      return `<div class="bank-node current"><span class="bank-node-circle"><strong>%${bankPct}</strong></span><small>Şu an</small></div>`;
-    }
-    return `<div class="bank-node"><span class="bank-node-circle">%${cp.pct}</span><small>${escapeHtml(cp.label || '')}</small></div>`;
+    return `<div class="bank-node"><span class="bank-node-circle">%${stop.pct}</span><small>${escapeHtml(stop.label || '')}</small></div>`;
   }).join('');
-
-  const days = stats.daysUntilExam;
-  const countdownValue = days === null ? '—' : Math.max(0, days);
-  const countdownMsg = getExamCountdownMessage(days);
+  // Sabit bir durağa çok yakınken (%6'dan az mesafe) noktayı hiç gösterme —
+  // yoksa etiketi ("Şu an") durağın kendi etiketiyle ("Başlangıç" vb.) üst
+  // üste biniyor.
+  const nearestStopDistance = Math.min(...fixedStops.map(stop => Math.abs(bankPct - stop.pct)));
+  const liveMarkerHtml = (!isExactStop && bankPct > 0 && bankPct < 100 && nearestStopDistance >= 6)
+    ? `<div class="bank-progress-live" style="left:${bankPct}%"><span class="bank-progress-live-dot"></span><small>Şu an</small></div>`
+    : '';
 
   return `<section class="bank-progress-card">
     <div class="bank-progress-main">
@@ -811,14 +816,9 @@ function renderBankProgressWidget(stats) {
         <div class="bank-progress-title"><h4>Soru Bankası İlerlemen</h4><small>${stats.totalQuestionCount ? `${stats.totalQuestionCount.toLocaleString('tr-TR')} sorudan ${stats.solvedQuestions.toLocaleString('tr-TR')}'ini çözdün` : `${stats.solvedQuestions} soru çözdün`}</small></div>
       </div>
       <div class="bank-progress-path">
-        <div class="bank-progress-track"><div class="bank-progress-track-fill" style="width:${bankPct}%"></div></div>
+        <div class="bank-progress-track"><div class="bank-progress-track-fill" style="width:${bankPct}%"></div>${liveMarkerHtml}</div>
         <div class="bank-progress-nodes">${nodesHtml}</div>
       </div>
-    </div>
-    <div class="bank-countdown bank-countdown-leaf" data-stat-target="profile" role="button" tabindex="0">
-      <div class="bank-countdown-leaf-head">SINAV GÜNÜ</div>
-      <strong class="bank-countdown-value">${countdownValue}</strong>
-      <span class="bank-countdown-unit">${days === null ? escapeHtml(countdownMsg) : 'gün kaldı'}</span>
     </div>
   </section>`;
 }
@@ -1222,8 +1222,9 @@ async function openCardDeck(doc, categoryKey) {
 // Ana ekrandaki "N kart tekrar" sayacını yeniden hesaplar (tekrar oturumu
 // bittikten sonra sayının güncel kalması için). flashcardDecks state'te hazır.
 function refreshDueFlashcardCount() {
-  const decks = state.flashcardDecks;
-  if (!window.currentUser || !decks || !decks.length) { state.totalDueFlashcards = 0; if (state.view === 'home') render(); return; }
+  const role = progress.selectedRole;
+  const decks = (state.flashcardDecks || []).filter(d => !role || !d.kadrolar || d.kadrolar.includes(role));
+  if (!window.currentUser || !decks.length) { state.totalDueFlashcards = 0; if (state.view === 'home') render(); return; }
   ContentRepo.fetchDueFlashcardCounts(decks.map(d => d.id))
     .then(counts => {
       state.totalDueFlashcards = Object.values(counts).reduce((sum, n) => sum + n, 0);
@@ -1487,6 +1488,15 @@ function bindViewEvents() {
 
 function updateHeader() {
   const stats = getStats();
+  const days = stats.daysUntilExam;
+  const examDays = document.getElementById('headerExamDays');
+  if (examDays) {
+    examDays.textContent = days === null ? '—' : days <= 0 ? (days === 0 ? 'BUGÜN' : 'TAMAMLANDI') : String(days);
+    document.getElementById('headerExamUnit').textContent = days !== null && days <= 0 ? '' : 'GÜN';
+    document.getElementById('headerExamLabel').textContent = days !== null && days <= 0 ? 'SINAV' : 'BÜYÜK GÜNE';
+    document.getElementById('headerExamMessage').textContent = days === null || days <= 0 ? getExamCountdownMessage(days) : 'Her soru seni hedefine yaklaştırır.';
+    document.getElementById('headerContinueButton').onclick = openRouteSheet;
+  }
   const roleBadge = document.getElementById('userRoleBadge');
   if (roleBadge) roleBadge.textContent = ROLES.find(r => r.key === progress.selectedRole)?.label || '';
   const ring = document.getElementById('dailyGoalCircle');
@@ -3199,7 +3209,9 @@ async function loadCatalogue() {
     // kart sayısı — katalog render edildikten SONRA arka planda çekiliyor,
     // ana ekranın açılışını bloke etmesin diye ayrı bir render() ile gelir.
     if (window.currentUser && flashcardDecks.length) {
-      ContentRepo.fetchDueFlashcardCounts(flashcardDecks.map(d => d.id))
+      const role = progress.selectedRole;
+      const roleFilteredDecks = flashcardDecks.filter(d => !role || !d.kadrolar || d.kadrolar.includes(role));
+      ContentRepo.fetchDueFlashcardCounts(roleFilteredDecks.map(d => d.id))
         .then(counts => {
           state.totalDueFlashcards = Object.values(counts).reduce((sum, n) => sum + n, 0);
           if (state.view === 'home') render();

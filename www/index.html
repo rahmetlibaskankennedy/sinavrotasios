@@ -35,6 +35,7 @@
               <button class="round-btn" id="openSearchButton" aria-label="Ara" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></button>
           </div>
         </div>
+        <div class="header-study-row">
         <div class="goal-card">
           <div class="goal-card-top">
             <div class="goal-ring-wrap"><svg class="circular-chart" viewBox="0 0 36 36"><path class="circle-bg" d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831"/><path class="circle" id="dailyGoalCircle" stroke-dasharray="0, 100" d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831"/></svg><div class="ring-content"><span id="dailyGoalPercent">%0</span></div></div>
@@ -49,6 +50,12 @@
               </div>
             </div>
           </div>
+        </div>
+        <section class="exam-target-card" aria-label="Sınava geri sayım">
+          <div class="exam-target-copy"><span class="exam-target-eyebrow" id="headerExamLabel">BÜYÜK GÜNE</span><div class="exam-target-number"><strong id="headerExamDays">—</strong><span id="headerExamUnit">GÜN</span></div><p id="headerExamMessage">Sınav tarihi yakında eklenecek.</p></div>
+          <img class="exam-target-icon" src="images/hedef-karti.png" alt="" decoding="async">
+          <button class="exam-target-action" id="headerContinueButton" type="button">Çalışmaya devam et <span aria-hidden="true">›</span></button>
+        </section>
         </div>
       </header>
       <main id="app" class="app-scroll"></main>

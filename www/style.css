@@ -84,7 +84,7 @@ body{background:var(--bg)}
 .goal-edit-cancel:hover{background:rgba(255,255,255,.18);color:#fff}
 
 /* STATS */
-.bank-progress-card{display:grid;grid-template-columns:1fr 108px;background:#fff;border-radius:16px;margin-bottom:10px;overflow:hidden;box-shadow:0 4px 12px rgba(13,33,68,.05)}
+.bank-progress-card{display:block;background:#fff;border-radius:16px;margin-bottom:10px;overflow:hidden;box-shadow:0 4px 12px rgba(13,33,68,.05)}
 .bank-progress-main{padding:14px 12px}
 .bank-progress-head{display:flex;gap:16px;align-items:baseline;margin-bottom:14px}
 .bank-progress-head>div:first-child span{display:block;font-size:8.5px;font-weight:800;letter-spacing:.06em;color:var(--muted)}
@@ -94,6 +94,9 @@ body{background:var(--bg)}
 .bank-progress-title small{display:block;font-size:9.5px;color:var(--muted);margin-top:2px;line-height:1.3}
 .bank-progress-path{position:relative;padding:0 2px}
 .bank-progress-track{position:absolute;left:18px;right:18px;top:17px;height:2px;background:var(--line);border-radius:2px}
+.bank-progress-live{position:absolute;top:50%;transform:translate(-50%,-50%);display:flex;flex-direction:column;align-items:center;z-index:2}
+.bank-progress-live-dot{width:11px;height:11px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px #fff;animation:bankNodePulse 1.6s ease-in-out infinite}
+.bank-progress-live small{margin-top:23px;font-size:8.5px;font-weight:800;color:var(--red);white-space:nowrap}
 .bank-progress-track-fill{height:100%;background:linear-gradient(90deg,var(--red),var(--navy));border-radius:2px}
 .bank-progress-nodes{position:relative;display:flex;justify-content:space-between}
 .bank-node{display:flex;flex-direction:column;align-items:center;gap:5px;width:36px}
@@ -105,15 +108,6 @@ body{background:var(--bg)}
 .bank-node.current .bank-node-circle{width:38px;height:38px;background:var(--navy);border:0;color:#fff;font-size:13px;font-weight:700;animation:bankNodePulse 2.2s ease-in-out infinite}
 .bank-node.current small{color:var(--navy);font-weight:800}
 @keyframes bankNodePulse{0%,100%{box-shadow:0 0 0 3px rgba(233,50,56,.10),0 0 8px 3px rgba(233,50,56,.10)}50%{box-shadow:0 0 0 6px rgba(233,50,56,.20),0 0 12px 5px rgba(233,50,56,.18)}}
-.bank-countdown{background:linear-gradient(165deg,#0a2a5c,var(--navy));padding:14px 8px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:2px;border:0;cursor:pointer}
-.bank-countdown svg{width:15px;height:15px;color:#9fb4de;margin-bottom:2px}
-.bank-countdown-label{font-size:8px;font-weight:800;letter-spacing:.06em;color:#9fb4de}
-.bank-countdown-unit{font-size:9.5px;color:#c6d5ea;margin-bottom:4px}
-.bank-countdown-msg{font-size:8.5px;color:#9fb4de;line-height:1.35}
-.bank-countdown-leaf{background:#fff;padding:0 0 10px;justify-content:flex-start;gap:0}
-.bank-countdown-leaf-head{width:100%;background:var(--red);color:#fff;font-size:8.5px;font-weight:800;letter-spacing:.05em;padding:6px 0;margin-bottom:8px}
-.bank-countdown-leaf .bank-countdown-value{font-size:28px;font-weight:700;color:var(--navy);line-height:1}
-.bank-countdown-leaf .bank-countdown-unit{color:var(--muted);margin-bottom:8px}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);background:#fff;border-radius:14px;padding:10px 4px 9px;margin-bottom:10px;box-shadow:0 4px 12px rgba(13,33,68,.03)}
 .stats.stats-3{grid-template-columns:repeat(3,1fr)}
 .stat{text-align:center;position:relative;padding:0 4px;display:flex;flex-direction:column;align-items:center;gap:4px}
@@ -931,10 +925,8 @@ body{background:var(--bg)}
 .flow-total span{display:block;font-size:10px;color:var(--muted);margin-top:1px}
 .flow-chart{display:flex;align-items:flex-end;gap:6px;height:150px;padding:0 2px}
 .flow-day{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;border:0;background:transparent;cursor:pointer;padding:0}
-.flow-day .flow-bar-stack{display:flex;flex-direction:column-reverse;width:100%;max-width:26px;border-radius:8px 8px 4px 4px;overflow:hidden}
-.flow-day .flow-bar{display:block;width:100%;transition:.15s}
-.flow-day .flow-bar-correct{background:linear-gradient(180deg,#22b591,var(--green))}
-.flow-day .flow-bar-wrong{background:linear-gradient(180deg,#f2545f,#c62430)}
+.flow-day .flow-bar{display:block;width:100%;max-width:26px;height:var(--h);min-height:6px;border-radius:8px 8px 4px 4px;background:linear-gradient(180deg,#f2545f,#c62430);transition:.15s}
+.flow-day.today .flow-bar{background:linear-gradient(180deg,#22b591,var(--green))}
 .flow-day.today .flow-bar-correct{background:linear-gradient(180deg,#22b591,var(--green))}
 .flow-day small{font-size:8px;font-weight:600;color:var(--muted);line-height:1.2;text-align:center}
 .flow-day.today small{color:var(--green);font-weight:800}
@@ -1801,3 +1793,22 @@ body.auth-page{
     height: 56px;
   }
 }
+/* Hedef kartı: günlük ilerleme solda, sınav sayacı sağda. */
+.header-study-row{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:10px;margin-top:12px;align-items:stretch}
+.app-header .header-study-row .goal-card{margin:0;min-width:0;display:flex;align-items:center;padding:10px;border-radius:14px}
+.header-study-row .goal-card-top{width:100%;min-width:0}
+.header-study-row .goal-copy{min-width:0}
+.header-study-row .goal-copy h3{white-space:normal;line-height:1.3;font-size:12px}
+.exam-target-card{position:relative;isolation:isolate;display:grid;grid-template-columns:minmax(0,1fr) 52px;align-items:center;gap:4px 8px;min-width:0;padding:10px;border:1px solid #ffffff12;border-radius:14px;background:radial-gradient(ellipse at top right,#ec344840,transparent 65%),linear-gradient(110deg,#0b254b,#142443);overflow:hidden}
+.exam-target-icon{width:52px;height:52px;grid-column:2;grid-row:1/3;justify-self:end;object-fit:contain}
+.exam-target-copy{grid-column:1;min-width:0}
+.exam-target-eyebrow{font-size:8.5px;letter-spacing:.15em;font-weight:700;color:#dbe4f2}
+.exam-target-number{display:flex;align-items:baseline;gap:5px;margin:2px 0;font-variant-numeric:tabular-nums}
+.exam-target-number strong{font-size:20px;line-height:1.1;letter-spacing:-.03em;overflow-wrap:anywhere}
+.exam-target-number span{font-size:11px;font-weight:800}
+.exam-target-copy p{margin:2px 0 6px;font-size:9.5px;line-height:1.3;color:#d4ddeb}
+.exam-target-action{justify-self:start;grid-column:1;border:0;border-radius:8px;padding:0 10px;background:#ed303f;color:#fff;font-size:9.5px;font-weight:700;cursor:pointer;height:26px;min-height:26px;display:inline-flex;align-items:center;gap:4px;width:fit-content}
+.exam-target-action span{margin-left:2px;font-size:12px}
+.exam-target-action:hover{background:#ff4250}
+.exam-target-action:focus-visible{outline:3px solid white;outline-offset:3px}
+@media(max-width:700px){.exam-target-number strong{font-size:18px}}
