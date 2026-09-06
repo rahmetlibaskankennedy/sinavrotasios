@@ -2616,14 +2616,21 @@ function recordAnswer(question, selected) {
       explanation: question.explanation || null
     };
   }
-  window.SRProgressSync.recordAnswer(
-    progress,
-    getProgressDeviceId(),
-    isCorrect,
-    dateKey(),
-    question.documentId || null,
-    progress.userId
-  );
+  // NOT (2026-09-05): "Gerçek Sınav Formatı" (kind: 'kadro-exam') soruları
+  // genel "Soru Bankası İlerlemen" / "çözülen soru" sayacına da dahil
+  // edilmiyor — o sayaç gerçek çalışma/pratik hacmini göstermeli, tam
+  // kapsamlı bir deneme denemesi (60-100+ soru) tek seferde bu sayıyı
+  // yapay şekilde şişirmemeli. skipWrongPool ile aynı koşulu paylaşıyor.
+  if (!skipWrongPool) {
+    window.SRProgressSync.recordAnswer(
+      progress,
+      getProgressDeviceId(),
+      isCorrect,
+      dateKey(),
+      question.documentId || null,
+      progress.userId
+    );
+  }
   saveProgress();
 }
 function quizScore(quiz) {
@@ -2714,6 +2721,7 @@ function renderQuiz() {
         <div class="quiz-nav-sheet">
           <div class="quiz-nav-head"><strong>Sorular</strong><button type="button" id="quizNavClose" aria-label="Kapat">×</button></div>
           <div class="quiz-nav-grid" id="quizNavGrid"></div>
+          <button class="quiz-finish-early" id="quizFinishEarlyButton" type="button">Sınavı Bitir</button>
         </div>
       </div>
       <div class="quiz-nav-overlay" id="reportModalOverlay">
@@ -3047,6 +3055,27 @@ function bindQuizEvents() {
   
   document.getElementById('quizNavOverlay')?.addEventListener('click', event => {
     if (event.target.id === 'quizNavOverlay') event.currentTarget.classList.remove('open');
+  });
+
+  // NOT (2026-09-05): eskiden sınavı tamamlamanın tek yolu son soruya kadar
+  // "Sonraki Soru"ya basmaktı — kullanıcı erken bitiremiyordu. Bu buton,
+  // "Sorular" panelinden, geri kalan soruları boş bırakarak sonuç ekranına
+  // geçmeyi sağlıyor (boş bırakılanlar zaten yanlış sayılıyor, quizScore
+  // zaten userSelected===null'ı otomatik "yanlış" kabul ediyor).
+  document.getElementById('quizFinishEarlyButton')?.addEventListener('click', () => {
+    const answeredCount = quiz.questions.filter(q => q.userSelected !== null).length;
+    const remaining = quiz.questions.length - answeredCount;
+    const confirmMsg = remaining > 0
+      ? `${remaining} soru boş kalacak, yine de sınavı bitirmek istiyor musun?`
+      : 'Sınavı bitirmek istediğine emin misin?';
+    if (!window.confirm(confirmMsg)) return;
+    document.getElementById('quizNavOverlay')?.classList.remove('open');
+    finalizeQuestionAnswer(quiz.questions[quiz.index]);
+    if (DEFERRED_REVEAL_KINDS.includes(quiz.kind) && !quiz.revealed) {
+      revealDeferredQuizAndFinish();
+    } else {
+      renderQuizResult();
+    }
   });
 }
 
