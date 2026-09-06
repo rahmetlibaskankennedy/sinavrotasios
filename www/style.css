@@ -508,6 +508,8 @@ body{background:var(--bg)}
   opacity: .55;
   cursor: default;
 }
+.topbar-finish{width:auto !important;height:32px !important;border-radius:16px !important;padding:0 14px;background:var(--red) !important;color:#fff !important;font-size:11.5px;font-weight:700}
+.topbar-finish:hover{filter:brightness(1.08)}
 
 .quiz-premium-titles {
   text-align: center;
@@ -797,8 +799,6 @@ body{background:var(--bg)}
 .quiz-nav-cell.answered-correct { border-color: var(--green); background: var(--green2); color: var(--green); }
 .quiz-nav-cell.answered-wrong { border-color: var(--red); background: var(--red2); color: var(--red); }
 .quiz-nav-cell.flagged { box-shadow: 0 0 0 2px var(--amber) inset; }
-.quiz-finish-early{display:block;width:100%;margin-top:16px;padding:12px;border:1.5px solid var(--red);border-radius:12px;background:#fff;color:var(--red);font-size:12.5px;font-weight:700;cursor:pointer}
-.quiz-finish-early:hover{background:var(--red2)}
 
 /* GENELLEŞTİRİLMİŞ İÇERİK VE İLERLEME EKRANLARI */
 .bottom-nav button>svg{width:24px;height:24px}

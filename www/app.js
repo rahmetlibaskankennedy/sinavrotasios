@@ -2659,6 +2659,7 @@ function renderQuiz() {
             <h2>${escapeHtml(quiz.title)}</h2>
           </div>
           <div class="quiz-premium-top-actions">
+            <button type="button" class="topbar-action topbar-finish" id="quizFinishEarlyButton" aria-label="Sınavı Bitir">Bitir</button>
             <button type="button" class="topbar-action ${progress.reportedQuestions[current.id] ? 'active' : ''}" id="quizReportButton" aria-label="${progress.reportedQuestions[current.id] ? 'Bildirimi Geri Al' : 'Soruyu Bildir'}">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
             </button>
@@ -2721,7 +2722,6 @@ function renderQuiz() {
         <div class="quiz-nav-sheet">
           <div class="quiz-nav-head"><strong>Sorular</strong><button type="button" id="quizNavClose" aria-label="Kapat">×</button></div>
           <div class="quiz-nav-grid" id="quizNavGrid"></div>
-          <button class="quiz-finish-early" id="quizFinishEarlyButton" type="button">Sınavı Bitir</button>
         </div>
       </div>
       <div class="quiz-nav-overlay" id="reportModalOverlay">
