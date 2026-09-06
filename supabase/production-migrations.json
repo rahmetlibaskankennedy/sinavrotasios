@@ -98,6 +98,8 @@
     "20260905082115_add_quiz_reveal_sessions.sql",
     "20260905093600_fix_start_random_test_ambiguous_id.sql",
     "20260905100237_add_topic_descendant_ids_rpc.sql",
-    "20260905140015_add_get_total_question_count_rpc.sql"
+    "20260905140015_add_get_total_question_count_rpc.sql",
+    "20260905144843_add_app_settings_shared_exam_date.sql",
+    "20260905203217_add_kadrolar_to_card_decks.sql"
   ]
 }
