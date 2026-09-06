@@ -759,7 +759,8 @@ function isRolePurchased(role = progress.selectedRole) {
 }
 
 function getDocumentProgress(documentItem) {
-  const sections = documentItem.children || [];
+  const role = progress.selectedRole;
+  const sections = (documentItem.children || []).filter(section => !role || !section.kadrolar || section.kadrolar.includes(role));
   if (!sections.length) return 0;
   const completed = sections.filter(section => progress.completedSections[section.id]).length;
   return Math.round((completed / sections.length) * 100);
@@ -1912,7 +1913,14 @@ function renderSections(documentItem, categoryKey) {
   applySheetHeader({ title: 'Bölüm Seçimi', subtitle: 'Bir bölüme dokunarak karma sorularla başla.', eyebrow: 'MADDE MADDE ÇALIŞ', icon: 'gavel', iconClass: categoryCardMeta(categoryKey).iconClass });
   renderBreadcrumb(documentItem.title, () => renderDocumentHub(documentItem, categoryKey));
   setSheetProgress('Henüz çalışılmadı', getDocumentProgress(documentItem));
-  const sections = documentItem.children || [];
+  // NOT (2026-09-06 düzeltme): bölümler (documentItem.children) daha önce
+  // kadroya göre hiç süzülmüyordu — getCategoryItems() üst-düzey konuları
+  // doğru süzüyordu ama TEK bir belgenin İÇİNDEKİ bölümler bu filtreden hiç
+  // geçmiyordu. Sonuç: örn. Memur, "MEB Yönetmelikleri" belgesini açınca
+  // sadece Şef'e ait olması gereken bölümleri (Disiplin Amirleri, İmza
+  // Yetkileri) de görüyordu.
+  const role = progress.selectedRole;
+  const sections = (documentItem.children || []).filter(section => !role || !section.kadrolar || section.kadrolar.includes(role));
   topicList.innerHTML = `<div class="document-section-head"><span>BÖLÜM TESTLERİ</span><strong>Bölüme tıkla, test başlasın</strong></div><div class="document-section-list">${sections.map((section, index) => {
     const completed = progress.completedSections[section.id];
     const childCount = (section.children || []).length;
@@ -1966,7 +1974,8 @@ function renderSummary(documentItem, categoryKey) {
   applySheetHeader({ title: 'Özet ve Kritik Noktalar', subtitle: documentItem.title, eyebrow: 'HIZLI TEKRAR', icon: 'trophy', iconClass: categoryCardMeta(categoryKey).iconClass });
   renderBreadcrumb(documentItem.title, () => renderDocumentHub(documentItem, categoryKey));
   setSheetProgress('Henüz çalışılmadı', getDocumentProgress(documentItem));
-  const sections = documentItem.children || [];
+  const role = progress.selectedRole;
+  const sections = (documentItem.children || []).filter(section => !role || !section.kadrolar || section.kadrolar.includes(role));
   topicList.innerHTML = `<div class="summary-list">${sections.map(section => {
     const hasOwnSummary = Boolean(section.summary || (section.keyPoints || []).length);
     const ownBlock = hasOwnSummary ? `${section.summary ? `<p class="summary-text">${escapeHtml(section.summary)}</p>` : ''}${(section.keyPoints || []).length ? `<ul>${section.keyPoints.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>` : ''}` : '';
