@@ -5,7 +5,7 @@ const EXAM_KINDS = ['mock', 'kadro-exam'];
 // doğru/yanlış rengi göstermemeli, sadece sınav bitince toplu açılmalı.
 // Eskiden bu davranış (deferReveal) sadece 'random' için vardı; 'kadro-exam'
 // anında renk gösteriyordu, bu da "Gerçek Sınav Formatı" adıyla çelişiyordu.
-const DEFERRED_REVEAL_KINDS = ['random', 'kadro-exam'];
+const DEFERRED_REVEAL_KINDS = ['random', 'kadro-exam', 'section'];
 const DEFAULT_DAILY_GOAL = 20;
 const DAILY_GOAL_MIN = 1;
 const DAILY_GOAL_MAX = 500;
