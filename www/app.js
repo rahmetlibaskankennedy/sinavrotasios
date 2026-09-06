@@ -27,14 +27,14 @@ const ROLES = [
 // Profildeki "Rozetlerim" için — tamamen var olan istatistiklerden (seri,
 // çözülen soru, tamamlanan deneme) hesaplanıyor, yeni bir veri alanı gerekmez.
 const BADGE_DEFS = [
-  { id: 'streak-3', image: 'images/rozet-seri.png', label: '3 Gün Seri', unit: 'gün', target: 3, value: s => s.streak },
-  { id: 'streak-7', image: 'images/rozet-seri.png', label: '7 Gün Seri', unit: 'gün', target: 7, value: s => s.streak },
-  { id: 'streak-30', image: 'images/rozet-seri.png', label: '30 Gün Seri', unit: 'gün', target: 30, value: s => s.streak },
-  { id: 'solved-100', image: 'images/rozet-soru.png', label: '100 Soru', unit: 'soru', target: 100, value: s => s.solvedQuestions },
-  { id: 'solved-500', image: 'images/rozet-soru.png', label: '500 Soru', unit: 'soru', target: 500, value: s => s.solvedQuestions },
-  { id: 'solved-1000', image: 'images/rozet-soru.png', label: '1000 Soru', unit: 'soru', target: 1000, value: s => s.solvedQuestions },
-  { id: 'exam-1', image: 'images/rozet-deneme.png', label: 'İlk Deneme', unit: 'deneme', target: 1, value: s => s.completedMocks },
-  { id: 'exam-5', image: 'images/rozet-deneme.png', label: '5 Deneme', unit: 'deneme', target: 5, value: s => s.completedMocks }
+  { id: 'streak-3', image: 'images/rozet-seri-3.png', label: '3 Gün Seri', unit: 'gün', target: 3, value: s => s.streak },
+  { id: 'streak-7', image: 'images/rozet-seri-7.png', label: '7 Gün Seri', unit: 'gün', target: 7, value: s => s.streak },
+  { id: 'streak-30', image: 'images/rozet-seri-30.png', label: '30 Gün Seri', unit: 'gün', target: 30, value: s => s.streak },
+  { id: 'solved-100', image: 'images/rozet-soru-100.png', label: '100 Soru', unit: 'soru', target: 100, value: s => s.solvedQuestions },
+  { id: 'solved-500', image: 'images/rozet-soru-500.png', label: '500 Soru', unit: 'soru', target: 500, value: s => s.solvedQuestions },
+  { id: 'solved-1000', image: 'images/rozet-soru-1000.png', label: '1000 Soru', unit: 'soru', target: 1000, value: s => s.solvedQuestions },
+  { id: 'exam-1', image: 'images/rozet-deneme-1.png', label: 'İlk Deneme', unit: 'deneme', target: 1, value: s => s.completedMocks },
+  { id: 'exam-5', image: 'images/rozet-deneme-5.png', label: '5 Deneme', unit: 'deneme', target: 5, value: s => s.completedMocks }
 ];
 
 function getBadges(stats) {
@@ -1456,7 +1456,7 @@ function profileView() {
     <p class="profile-goal-desc">Çalışma alışkanlığın büyüdükçe yeni rozetler açılır.</p>
     <div class="badge-grid">
       ${badges.map(badge => `<div class="badge-item${badge.unlocked ? ' unlocked' : ''}">
-        <span class="badge-shield"><span class="badge-shield-inner"><img src="${badge.image}" alt="" class="badge-image"></span></span>
+        <span class="badge-image-wrap"><img src="${badge.image}" alt="" class="badge-image"></span>
         <small>${badge.unlocked ? escapeHtml(badge.label) : `${badge.value}/${badge.target} ${escapeHtml(badge.unit)}`}</small>
       </div>`).join('')}
     </div>
