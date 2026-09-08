@@ -3,6 +3,12 @@
 // burada set ediyoruz; app-guard.js ilk açılışta oturum yoksa bu bayrağa bakıp
 // login.html yerine bu sayfaya yönlendiriyor.
 (function () {
+  // Bu sayfa native ilk açılışta (Capacitor splash sonrası) gösterilen ilk
+  // ekran olabileceği için splash'i burada da kapatmak gerekiyor — aksi halde
+  // login.html/signup.html'e hiç gelinmeden splash sonsuza kadar açık kalır.
+  window.NativeUX?.init({ statusBarStyle: 'LIGHT' });
+  window.NativeUX?.hideSplash();
+
   const SEEN_KEY = 'sinavrotasi-onboarding-seen-v1';
   const track = document.getElementById('obTrack');
   const dots = Array.from(document.querySelectorAll('.ob-dot'));
