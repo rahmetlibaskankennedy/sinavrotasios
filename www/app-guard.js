@@ -50,7 +50,12 @@ supabaseClient.auth.onAuthStateChange((_event, session) => {
 });
 supabaseClient.auth.getSession().then(async ({ data }) => {
   if (!data.session) {
-    window.location.href = 'login.html';
+    // İlk açılışta ve hiç oturum yoksa, önce tanıtım ekranlarını göster.
+    // Onboarding.html "Atla" veya "Hemen Başla" ile bu bayrağı zaten set ediyor,
+    // o yüzden daha sonraki ziyaretlerde direkt login.html'e düşülüyor.
+    let onboardingSeen = null;
+    try { onboardingSeen = localStorage.getItem('sinavrotasi-onboarding-seen-v1'); } catch (e) { /* gizli modda sorun değil */ }
+    window.location.href = onboardingSeen ? 'login.html' : 'onboarding.html';
     return;
   }
   // Oturum var görünüyor ama kullanıcı gerçekten Supabase'de duruyor mu, sunucudan doğrula

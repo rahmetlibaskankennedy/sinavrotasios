@@ -1,0 +1,149 @@
+/* ================= ONBOARDING (ilk açılış tanıtım ekranları) =================
+   style.css'teki :root değişkenlerini (--navy, --red, --blue, --muted, --line, --bg)
+   ve auth ekranlarındaki arka plan/kart dilini kullanır; ayrı bir tema açmaz.
+   Başlık/gövde fontu olarak self-hosted Inter kullanılıyor (fonts-inter.css). */
+
+.onboarding-page{ font-family:'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif; }
+
+html, body.onboarding-page{ height:auto; }
+body.onboarding-page{
+  min-height:100dvh;
+  background:
+    linear-gradient(rgba(255,255,255,.82),rgba(255,255,255,.82)),
+    url("images/background.png");
+  background-size:cover;
+  background-position:center;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  overflow:hidden;
+}
+
+.ob-shell{
+  height:100dvh;
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  padding:calc(16px + env(safe-area-inset-top)) 0 calc(18px + env(safe-area-inset-bottom));
+  position:relative;
+}
+
+.ob-skip{
+  position:absolute;
+  top:calc(16px + env(safe-area-inset-top));
+  right:20px;
+  z-index:5;
+  background:none;
+  border:none;
+  color:var(--muted);
+  font-family:inherit;
+  font-size:13px;
+  font-weight:700;
+  cursor:pointer;
+  padding:8px 6px;
+}
+.ob-skip:hover{ color:var(--navy); }
+
+.ob-track{
+  flex:1;
+  display:flex;
+  width:500%;
+  transform:translateX(0%);
+  transition:transform .38s cubic-bezier(.65,0,.35,1);
+  touch-action:pan-y;
+}
+
+.ob-slide{
+  width:20%;
+  flex-shrink:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:56px 32px 0;
+  box-sizing:border-box;
+}
+
+.ob-art{
+  width:min(184px, 50vw);
+  margin:0 0 clamp(16px,3vh,28px);
+  filter:drop-shadow(0 18px 30px rgba(13,33,68,.16));
+}
+.ob-art img{ width:100%; display:block; }
+
+.ob-slide h1{
+  font-size:clamp(17px,2.6vh,19px);
+  color:var(--navy);
+  font-weight:700;
+  letter-spacing:-.1px;
+  margin:0 0 8px;
+  max-width:280px;
+}
+.ob-slide p{
+  font-size:12.5px;
+  color:var(--muted);
+  line-height:1.5;
+  max-width:260px;
+  margin:0;
+}
+
+.ob-footer{
+  flex-shrink:0;
+  width:100%;
+  max-width:400px;
+  margin:0 auto;
+  padding:22px 24px 0;
+  box-sizing:border-box;
+}
+
+.ob-dots{
+  display:flex;
+  justify-content:center;
+  gap:7px;
+  margin-bottom:20px;
+}
+.ob-dot{
+  width:7px; height:7px; border-radius:50%;
+  background:var(--line);
+  transition:width .25s ease, background .25s ease;
+}
+.ob-dot.active{
+  width:22px;
+  border-radius:4px;
+  background:var(--red);
+}
+
+.ob-next{
+  width:100%;
+  margin-top:0;
+  color:#fff;
+  font-family:inherit;
+  font-size:14.5px;
+  font-weight:700;
+  cursor:pointer;
+  border:none;
+  height:clamp(44px,7vh,52px);
+  border-radius:14px;
+  background:var(--blue);
+  box-shadow:0 10px 24px rgba(45,126,247,.28);
+  transition:.2s;
+}
+.ob-next:hover{ filter:brightness(1.05); }
+.ob-next:active{ transform:scale(.98); }
+
+.ob-switch{
+  text-align:center;
+  color:var(--muted);
+  font-size:12.5px;
+  margin-top:16px;
+}
+.ob-switch a{
+  color:var(--blue);
+  font-weight:700;
+  text-decoration:none;
+}
+
+@media (min-width:760px){
+  .ob-shell{ align-items:center; }
+  .ob-art{ width:240px; }
+}
