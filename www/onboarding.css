@@ -1,149 +1,351 @@
-/* ================= ONBOARDING (ilk açılış tanıtım ekranları) =================
-   style.css'teki :root değişkenlerini (--navy, --red, --blue, --muted, --line, --bg)
-   ve auth ekranlarındaki arka plan/kart dilini kullanır; ayrı bir tema açmaz.
-   Başlık/gövde fontu olarak self-hosted Inter kullanılıyor (fonts-inter.css). */
-
-.onboarding-page{ font-family:'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif; }
-
-html, body.onboarding-page{ height:auto; }
-body.onboarding-page{
-  min-height:100dvh;
-  background:
-    linear-gradient(rgba(255,255,255,.82),rgba(255,255,255,.82)),
-    url("images/background.png");
-  background-size:cover;
-  background-position:center;
-  background-attachment:fixed;
-  background-repeat:no-repeat;
+:root{
+  --navy:#071f49;
+  --navy-deep:#061229;
+  --blue:#2d7ef7;
+  --red:#ff4c4f;
+  --green:#1f9d62;
+  --amber:#d99019;
+  --text:#10213f;
+  --muted:#778196;
+  --line:#e7ebf1;
+  --bg:#f5f7fb;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body.ob-body{
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Arial,sans-serif;
+  background:var(--bg);
   overflow:hidden;
+  -webkit-tap-highlight-color:transparent;
 }
 
 .ob-shell{
-  height:100dvh;
+  position:relative;
   width:100%;
+  max-width:480px;
+  height:100vh;
+  height:100svh;
+  margin:0 auto;
+  overflow:hidden;
+  background:var(--bg);
+  transition:background-color .45s ease;
   display:flex;
   flex-direction:column;
-  padding:calc(16px + env(safe-area-inset-top)) 0 calc(18px + env(safe-area-inset-bottom));
-  position:relative;
 }
+.ob-shell.is-dark{background:var(--navy)}
 
+/* ---------- Atla ---------- */
 .ob-skip{
   position:absolute;
-  top:calc(16px + env(safe-area-inset-top));
-  right:20px;
-  z-index:5;
+  top:calc(env(safe-area-inset-top) + 16px);
+  right:16px;
+  z-index:20;
   background:none;
-  border:none;
-  color:var(--muted);
-  font-family:inherit;
+  border:0;
   font-size:13px;
-  font-weight:700;
-  cursor:pointer;
+  font-weight:600;
+  color:var(--muted);
   padding:8px 6px;
+  cursor:pointer;
+  transition:color .3s ease, opacity .25s ease;
 }
-.ob-skip:hover{ color:var(--navy); }
+.ob-shell.is-dark .ob-skip{color:rgba(255,255,255,.6)}
+.ob-skip:active{opacity:.6}
+.ob-skip.is-hidden{opacity:0;pointer-events:none}
 
-.ob-track{
-  flex:1;
+/* ---------- Rota göstergesi ---------- */
+.ob-route{
+  position:relative;
+  z-index:20;
   display:flex;
-  width:500%;
-  transform:translateX(0%);
-  transition:transform .38s cubic-bezier(.65,0,.35,1);
+  align-items:center;
+  justify-content:center;
+  gap:0;
+  padding:calc(env(safe-area-inset-top) + 20px) 48px 0;
+  flex-shrink:0;
+}
+.ob-route-node{
+  width:9px;height:9px;border-radius:50%;
+  background:rgba(17,33,68,.15);
+  border:0;padding:0;flex-shrink:0;cursor:pointer;
+  transition:background-color .3s ease, transform .3s ease;
+}
+.ob-shell.is-dark .ob-route-node{background:rgba(255,255,255,.22)}
+.ob-route-node.is-done{background:var(--blue)}
+.ob-route-node.is-active{background:var(--red);transform:scale(1.35)}
+.ob-route-seg{
+  flex:1 1 auto;
+  max-width:34px;
+  height:2px;
+  background:rgba(17,33,68,.12);
+  margin:0 4px;
+  position:relative;
+  overflow:hidden;
+  border-radius:2px;
+}
+.ob-shell.is-dark .ob-route-seg{background:rgba(255,255,255,.16)}
+.ob-route-seg i{
+  position:absolute;inset:0;
+  background:var(--blue);
+  transform:scaleX(0);
+  transform-origin:left;
+  transition:transform .45s ease;
+  display:block;
+}
+.ob-route-seg.is-done i{transform:scaleX(1)}
+
+/* ---------- Track / slaytlar ---------- */
+.ob-track-wrap{
+  flex:1;
+  position:relative;
+  overflow:hidden;
   touch-action:pan-y;
 }
+.ob-track{
+  display:flex;
+  height:100%;
+  will-change:transform;
+}
+.ob-track.is-dragging{transition:none !important}
+.ob-track:not(.is-dragging){transition:transform .42s cubic-bezier(.22,.61,.36,1)}
 
 .ob-slide{
-  width:20%;
-  flex-shrink:0;
+  flex:0 0 100%;
+  width:100%;
   display:flex;
   flex-direction:column;
   align-items:center;
-  justify-content:center;
+  padding:18px 30px 6px;
   text-align:center;
-  padding:56px 32px 0;
-  box-sizing:border-box;
+  color:var(--text);
 }
+.ob-slide--dark{color:#fff}
 
 .ob-art{
-  width:min(184px, 50vw);
-  margin:0 0 clamp(16px,3vh,28px);
-  filter:drop-shadow(0 18px 30px rgba(13,33,68,.16));
+  flex:1 1 auto;
+  min-height:0;
+  width:100%;
+  max-width:300px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:relative;
 }
-.ob-art img{ width:100%; display:block; }
+.ob-art--hero{flex-direction:column}
 
-.ob-slide h1{
-  font-size:clamp(17px,2.6vh,19px);
-  color:var(--navy);
-  font-weight:700;
-  letter-spacing:-.1px;
-  margin:0 0 8px;
-  max-width:280px;
-}
-.ob-slide p{
-  font-size:12.5px;
-  color:var(--muted);
-  line-height:1.5;
-  max-width:260px;
-  margin:0;
-}
-
-.ob-footer{
+.ob-copy{
   flex-shrink:0;
   width:100%;
-  max-width:400px;
+  padding-bottom:18px;
+}
+.ob-eyebrow{
+  font-size:11px;
+  font-weight:800;
+  letter-spacing:.06em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin:0 0 8px;
+}
+.ob-slide--dark .ob-eyebrow{color:#ff8385}
+.ob-copy h1,.ob-copy h2{
+  font-size:23px;
+  font-weight:800;
+  line-height:1.24;
+  letter-spacing:-.3px;
+  margin:0 0 10px;
+}
+.ob-desc{
+  font-size:13.5px;
+  line-height:1.55;
+  color:var(--muted);
   margin:0 auto;
-  padding:22px 24px 0;
-  box-sizing:border-box;
+  max-width:280px;
 }
+.ob-slide--dark .ob-desc{color:#a9b6cf}
 
-.ob-dots{
+/* ---------- Alt bar / ilerleme butonu ---------- */
+.ob-footer{
+  flex-shrink:0;
   display:flex;
-  justify-content:center;
-  gap:7px;
-  margin-bottom:20px;
+  justify-content:flex-end;
+  padding:0 24px calc(env(safe-area-inset-bottom) + 20px);
 }
-.ob-dot{
-  width:7px; height:7px; border-radius:50%;
-  background:var(--line);
-  transition:width .25s ease, background .25s ease;
-}
-.ob-dot.active{
-  width:22px;
-  border-radius:4px;
-  background:var(--red);
-}
-
 .ob-next{
-  width:100%;
-  margin-top:0;
+  width:56px;height:56px;border-radius:50%;border:0;
+  background:var(--blue);
   color:#fff;
-  font-family:inherit;
-  font-size:14.5px;
+  display:grid;place-items:center;
+  cursor:pointer;
+  box-shadow:0 12px 26px rgba(45,126,247,.32);
+  transition:transform .2s ease, opacity .25s ease;
+}
+.ob-next svg{width:22px;height:22px}
+.ob-next:active{transform:scale(.92)}
+.ob-footer.is-hidden .ob-next{opacity:0;pointer-events:none;transform:scale(.8)}
+
+.ob-cta{
+  width:100%;
+  margin-top:6px;
+  height:52px;
+  border-radius:14px;
+  border:0;
+  background:var(--blue);
+  color:#fff;
+  font-size:15px;
   font-weight:700;
   cursor:pointer;
-  border:none;
-  height:clamp(44px,7vh,52px);
-  border-radius:14px;
-  background:var(--blue);
-  box-shadow:0 10px 24px rgba(45,126,247,.28);
-  transition:.2s;
+  box-shadow:0 12px 26px rgba(45,126,247,.32);
+  transition:transform .2s ease, filter .2s ease;
 }
-.ob-next:hover{ filter:brightness(1.05); }
-.ob-next:active{ transform:scale(.98); }
+.ob-cta:active{transform:scale(.98)}
 
-.ob-switch{
-  text-align:center;
-  color:var(--muted);
-  font-size:12.5px;
-  margin-top:16px;
+/* =====================================================================
+   Slayt 1 — Hoş geldin: kıvrılan rota + bayrak
+   ===================================================================== */
+.ob-svg{width:100%;height:auto;max-height:230px}
+.ob-road{
+  fill:none;stroke:rgba(255,255,255,.9);stroke-width:3.5;stroke-linecap:round;
+  stroke-dasharray:520;stroke-dashoffset:520;
 }
-.ob-switch a{
-  color:var(--blue);
+.ob-slide[data-index="0"].is-active .ob-road{
+  animation:obDrawRoad 1.1s .15s cubic-bezier(.4,0,.2,1) forwards;
+}
+@keyframes obDrawRoad{to{stroke-dashoffset:0}}
+.ob-road-dot{fill:#fff;opacity:0;transform-origin:center}
+.ob-road-dot--3{fill:var(--red)}
+.ob-slide[data-index="0"].is-active .ob-road-dot--1{animation:obPop .35s .15s ease forwards}
+.ob-slide[data-index="0"].is-active .ob-road-dot--2{animation:obPop .35s .75s ease forwards}
+.ob-slide[data-index="0"].is-active .ob-road-dot--3{animation:obPop .4s 1.15s ease forwards}
+@keyframes obPop{0%{opacity:0;transform:scale(0)}70%{transform:scale(1.3)}100%{opacity:1;transform:scale(1)}}
+.ob-flag{opacity:0}
+.ob-slide[data-index="0"].is-active .ob-flag{animation:obPop .4s 1.3s ease forwards}
+.ob-logo{margin-top:2px;filter:drop-shadow(0 8px 18px rgba(0,0,0,.35))}
+
+/* =====================================================================
+   Slayt 2 — Günlük hedef halkası + rota modu etiketleri
+   ===================================================================== */
+.ob-ring-wrap{position:relative;width:150px;height:150px}
+.ob-ring{width:100%;height:100%;transform:rotate(-90deg)}
+.ob-ring-bg{fill:none;stroke:var(--line);stroke-width:9}
+.ob-ring-fill{
+  fill:none;stroke:var(--red);stroke-width:9;stroke-linecap:round;
+  stroke-dasharray:327;stroke-dashoffset:327;
+}
+.ob-slide[data-index="1"].is-active .ob-ring-fill{
+  animation:obRing 1.2s .2s cubic-bezier(.3,.8,.3,1) forwards;
+}
+@keyframes obRing{to{stroke-dashoffset:78.5}}
+.ob-ring-label{
+  position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;
+}
+.ob-ring-label span{font-size:24px;font-weight:800;color:var(--navy)}
+.ob-ring-label small{font-size:10px;color:var(--muted);margin-top:2px}
+.ob-chip{
+  position:absolute;
+  background:#fff;
+  border:1px solid var(--line);
+  color:var(--navy);
+  font-size:10.5px;
   font-weight:700;
-  text-decoration:none;
+  padding:6px 10px;
+  border-radius:20px;
+  box-shadow:0 8px 18px rgba(13,33,68,.1);
+  opacity:0;
+  white-space:nowrap;
+}
+.ob-chip--1{top:2px;left:-6px}
+.ob-chip--2{bottom:22px;left:-18px}
+.ob-chip--3{bottom:-4px;right:-14px}
+.ob-slide[data-index="1"].is-active .ob-chip--1{animation:obFloatIn .4s .5s ease forwards}
+.ob-slide[data-index="1"].is-active .ob-chip--2{animation:obFloatIn .4s .68s ease forwards}
+.ob-slide[data-index="1"].is-active .ob-chip--3{animation:obFloatIn .4s .86s ease forwards}
+@keyframes obFloatIn{0%{opacity:0;transform:translateY(8px) scale(.9)}100%{opacity:1;transform:translateY(0) scale(1)}}
+
+/* =====================================================================
+   Slayt 3 — Deneme kağıdı + kronometre
+   ===================================================================== */
+.ob-svg--exam{max-width:260px}
+.ob-sheet{fill:#0f2a5c;stroke:rgba(255,255,255,.14);stroke-width:1.5}
+.ob-sheet-line{stroke:rgba(255,255,255,.28);stroke-width:5;stroke-linecap:round;stroke-dasharray:90;stroke-dashoffset:90}
+.ob-slide[data-index="2"].is-active .ob-l1{animation:obLine .5s .2s ease forwards}
+.ob-slide[data-index="2"].is-active .ob-l2{animation:obLine .5s .32s ease forwards}
+.ob-slide[data-index="2"].is-active .ob-l3{animation:obLine .5s .44s ease forwards}
+@keyframes obLine{to{stroke-dashoffset:0}}
+.ob-check{stroke:var(--green);stroke-dasharray:60;stroke-dashoffset:60}
+.ob-slide[data-index="2"].is-active .ob-check{animation:obLine .45s .7s ease forwards}
+.ob-clock-face{fill:#fff;stroke:var(--amber);stroke-width:4}
+.ob-clock-hand-h,.ob-clock-hand-m{stroke:var(--navy);stroke-width:3;stroke-linecap:round;transform-origin:0 0}
+.ob-slide[data-index="2"].is-active .ob-clock-hand-m{animation:obTick 1.6s .9s linear infinite}
+@keyframes obTick{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+
+/* =====================================================================
+   Slayt 4 — Kart yığını + çarpı rozeti
+   ===================================================================== */
+.ob-cards{position:relative;width:190px;height:150px}
+.ob-card{
+  position:absolute;inset:0;margin:auto;width:150px;height:110px;top:14px;
+  border-radius:16px;
+  box-shadow:0 10px 26px rgba(13,33,68,.14);
+}
+.ob-card--back{background:#dbe6fb;transform:rotate(-11deg);top:22px}
+.ob-card--mid{background:#a9c8fb;transform:rotate(-4deg);top:18px}
+.ob-card--front{
+  background:var(--blue);
+  display:flex;align-items:center;justify-content:center;
+  color:#fff;
+  transform:rotate(0) translateY(6px);
+  opacity:0;
+}
+.ob-card--front svg{width:34px;height:34px}
+.ob-slide[data-index="3"].is-active .ob-card--front{animation:obCardIn .5s .25s cubic-bezier(.3,.9,.4,1) forwards}
+@keyframes obCardIn{to{opacity:1;transform:rotate(0) translateY(0)}}
+.ob-x-badge{
+  position:absolute;top:6px;right:10px;
+  width:34px;height:34px;border-radius:50%;
+  background:var(--red);color:#fff;
+  display:flex;align-items:center;justify-content:center;
+  box-shadow:0 8px 16px rgba(255,76,79,.4);
+  opacity:0;transform:scale(0);
+}
+.ob-x-badge svg{width:16px;height:16px}
+.ob-slide[data-index="3"].is-active .ob-x-badge{animation:obPop .35s .7s ease forwards}
+
+/* =====================================================================
+   Slayt 5 — Rozetler + geri sayım
+   ===================================================================== */
+.ob-art--badges{position:relative;height:210px}
+.ob-badge{position:absolute;opacity:0}
+.ob-badge--seri{top:6px;left:18px;transform:rotate(-8deg)}
+.ob-badge--soru{bottom:26px;right:14px;transform:rotate(9deg)}
+.ob-slide[data-index="4"].is-active .ob-badge--seri{animation:obBadgeIn .5s .15s cubic-bezier(.3,.9,.4,1) forwards}
+.ob-slide[data-index="4"].is-active .ob-badge--soru{animation:obBadgeIn .5s .38s cubic-bezier(.3,.9,.4,1) forwards}
+@keyframes obBadgeIn{0%{opacity:0;transform:scale(.4) rotate(0)}100%{opacity:1}}
+.ob-countdown{
+  position:absolute;left:50%;top:50%;
+  transform:translate(-50%,-50%);
+  display:flex;flex-direction:column;align-items:center;
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(255,255,255,.18);
+  border-radius:20px;
+  padding:14px 26px;
+  opacity:0;
+}
+.ob-slide[data-index="4"].is-active .ob-countdown{animation:obFloatIn .5s .55s ease forwards}
+.ob-countdown span{font-size:34px;font-weight:800;color:#fff;line-height:1}
+.ob-countdown small{font-size:9.5px;letter-spacing:.08em;color:#a9b6cf;margin-top:4px;font-weight:700}
+
+/* ---------- Erişilebilirlik: hareket azaltma ---------- */
+@media (prefers-reduced-motion:reduce){
+  .ob-road,.ob-road-dot,.ob-flag,.ob-ring-fill,.ob-chip,.ob-sheet-line,.ob-check,
+  .ob-clock-hand-m,.ob-card--front,.ob-x-badge,.ob-badge,.ob-countdown{
+    animation:none !important;
+    opacity:1 !important;
+    stroke-dashoffset:0 !important;
+    transform:none !important;
+  }
 }
 
-@media (min-width:760px){
-  .ob-shell{ align-items:center; }
-  .ob-art{ width:240px; }
+@media (max-height:680px){
+  .ob-copy h1,.ob-copy h2{font-size:20px}
+  .ob-art{max-width:250px}
 }

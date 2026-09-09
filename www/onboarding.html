@@ -1,72 +1,76 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#f5f7fb">
-  <title>SınavRotası'na Hoş Geldin</title>
-  <link rel="stylesheet" href="style.css?v=21">
-  <link rel="stylesheet" href="onboarding.css?v=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#071f49">
+<title>SınavRotası — Hoş geldin</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}body{background:#e7ebf2;color:#122747}button{font:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible{outline:3px solid #f1707b;outline-offset:5px}svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}.symbols{position:absolute;width:0;height:0;overflow:hidden}
+.app{position:relative;width:100%;max-width:460px;margin:auto;min-height:100svh;isolation:isolate;--ink:#f8faff;--muted:#aabbd6;--line:#ffffff20;--panel:#ffffff09;--accent:#a8c4ff;color:var(--ink);background:#071f49;transition:background .5s,color .5s;overflow:hidden}
+.app.light{--ink:#10264b;--muted:#63738d;--line:#0b285916;--panel:#ffffffc9;--accent:#3467bf;background:#fff}
+.top{height:84px;padding:24px 26px 12px;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:5}.brand{display:flex;gap:9px;align-items:center;font-size:15px;font-weight:700;letter-spacing:-.5px}.brand svg{width:26px;height:26px}.brand em{font-style:normal;font-weight:400;opacity:.78}.skip{border:0;background:none;color:var(--muted);padding:12px 0 12px 18px;font-size:13px}.skip[hidden]{display:none}
+.slide{display:none;position:relative;padding:0 30px;min-height:calc(100svh - 204px);flex-direction:column}.slide.active{display:flex}.slide::before{content:"";position:absolute;z-index:-1;inset:-84px -30px -120px;pointer-events:none}.s1::before{background:radial-gradient(ellipse at 80% 22%,#254d866b,transparent 55%),linear-gradient(150deg,#0c2954,#071f49 55%,#040f28)}.s2::before{background:radial-gradient(ellipse at 100% 35%,#dce8ffba,transparent 60%),linear-gradient(155deg,#fff 30%,#f3f6fc)}.s3::before{background:radial-gradient(ellipse at 0% 32%,#3157a166,transparent 57%),radial-gradient(ellipse at 100% 80%,#54478930,transparent 50%),linear-gradient(140deg,#071f49,#06142f)}.s4::before{background:radial-gradient(ellipse at 15% 25%,#e3ecff,transparent 52%),radial-gradient(ellipse at 95% 80%,#ffe9ec77,transparent 50%),linear-gradient(160deg,#fff,#f7f9fd)}
+.visual{flex:1;min-height:285px;display:flex;align-items:center;justify-content:center;position:relative;padding:22px 0 24px}.copy{padding:10px 0 22px}.eyebrow{display:flex;align-items:center;gap:10px;font-size:12px;letter-spacing:1.8px;font-weight:600;text-transform:uppercase;color:var(--accent);margin:0 0 15px}.eyebrow::before{content:"";width:20px;height:2px;background:#f26472}.copy h1,.copy h2{font-size:clamp(30px,8.5vw,39px);line-height:1.13;font-weight:650;letter-spacing:-1.5px;margin:0 0 17px}.copy h1 span,.copy h2 span{color:var(--accent)}.copy p:last-child{font-size:16px;line-height:1.65;color:var(--muted);margin:0;max-width:355px}
+.footer{position:relative;z-index:5;padding:3px 30px max(24px,env(safe-area-inset-bottom));height:120px}.navigation{display:flex;justify-content:space-between;align-items:center;margin-bottom:19px}.steps{display:flex;gap:7px}.step{padding:10px 0;border:0;background:none;width:24px}.step span{display:block;height:3px;border-radius:3px;background:var(--line);transition:background .3s}.step[aria-current="step"] span{background:#f16b79}.page-number{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:2px}.actions{display:flex;gap:10px}.next{height:52px;flex:1;display:flex;align-items:center;justify-content:space-between;padding:0 20px;border:1px solid #ffffff6b;border-radius:16px;background:linear-gradient(110deg,#fff,#e4ecfc);box-shadow:0 8px 24px #00000010;color:#112b54;font-size:15px;font-weight:600}.light .next{background:linear-gradient(115deg,#153971,#071f49);color:#fff;border-color:#173568;box-shadow:0 8px 20px #071f491c}.next svg{width:20px;height:20px}.back{width:52px;height:52px;border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);display:grid;place-items:center}.back[hidden]{display:none}.next:active,.back:active{transform:scale(.98)}
+/* Tek çizgi kalınlığı ve metalik yüzeylerle ortak ikon sistemi. */
+.icon{width:54px;height:54px;border-radius:17px;display:grid;place-items:center;background:linear-gradient(140deg,#fafdff,#dce6f7);color:#244978;border:1px solid #ffffffb0;box-shadow:inset 0 1px 1px #fff,0 9px 18px #00000014}.icon svg{width:27px;height:27px}.icon.coral{background:linear-gradient(145deg,#ffeaed,#f6b7c0);color:#a6344a}.icon.blue{background:linear-gradient(140deg,#f2f7ff,#c5d8ff);color:#3159a0}.icon.small{width:43px;height:43px;border-radius:13px}.icon.small svg{width:23px;height:23px}
+.overview{width:100%;position:relative}.overview-title{font-size:12px;color:#9bb0d0;letter-spacing:2px;text-align:center;margin-bottom:22px}.feature-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;transform:rotate(-4deg)}.feature-tile{padding:21px 16px 17px;border:1px solid #ffffff20;border-radius:23px;background:linear-gradient(135deg,#ffffff10,#ffffff03);box-shadow:inset 0 1px 0 #ffffff0a;min-height:133px}.feature-tile:nth-child(even){transform:translateY(14px)}.feature-tile .icon{margin-bottom:15px}.feature-tile b{font-size:14px;font-weight:500;color:#e6efff}.feature-tile:nth-child(3) .icon{background:linear-gradient(140deg,#ebedff,#b9bce2);color:#454982}.overview .label{margin-top:35px;justify-content:center;color:#afc1df}.label{display:flex;align-items:center;gap:7px;font-size:12px}.label svg{width:14px;height:14px;color:#e98b99}
+.question-panel{width:100%;border:1px solid #fff;border-radius:25px;background:linear-gradient(140deg,#ffffffed,#ffffffa3);padding:23px;box-shadow:0 24px 50px #25467312,0 4px 10px #25467306;transform:rotate(-3deg)}.panel-heading{display:flex;align-items:center;gap:12px;margin-bottom:23px}.panel-heading b{display:block;font-size:16px;font-weight:650;letter-spacing:-.4px}.panel-heading small{display:block;font-size:12px;color:#77869c;margin-top:4px}.rule{height:1px;background:#e7ecf4;margin:0 -1px 18px}.module{display:flex;align-items:center;gap:10px;margin-top:16px;font-size:14px}.module svg{width:17px;height:17px;color:#4873b8}.module span{margin-left:auto;color:#8192ab;font-size:12px}.mode-row{display:flex;gap:8px;margin-top:22px}.mode-row span{flex:1;text-align:center;font-size:12px;background:#eef3fb;border:1px solid #e1e8f5;border-radius:10px;padding:10px 4px;color:#46628b}.mode-row span:last-child{background:#fff5f6;color:#b85667;border-color:#f5e1e6}
+.repeat-panel{width:100%;padding:24px;border-radius:26px;border:1px solid #ffffff29;background:linear-gradient(125deg,#ffffff13,#ffffff04);box-shadow:0 24px 50px #0000001c}.repeat-panel .panel-heading{margin-bottom:22px}.repeat-panel small{color:#adbbd5}.repeat-panel .rule{background:#ffffff16}.repeat-row{display:flex;gap:12px;align-items:center;padding:16px 0}.repeat-row+ .repeat-row{border-top:1px solid #ffffff12}.repeat-row svg{color:#a8bdea;flex-shrink:0}.repeat-row b{display:block;font-size:14px;font-weight:500}.repeat-row small{display:block;font-size:12px;color:#93a8ca;margin-top:4px}.repeat-row .tag{font-size:11px;margin-left:auto;color:#f5bac5;border:1px solid #ed93aa30;background:#f58dab0a;padding:6px 9px;border-radius:8px}.repeat-footer{margin-top:8px;border-radius:12px;padding:11px;text-align:center;font-size:12px;letter-spacing:.3px;color:#adc2e4;background:#ffffff05}
+.motivation{width:100%}.achievement{display:flex;align-items:center;gap:16px;background:linear-gradient(125deg,#fff,#f4f7fd);border:1px solid #fff;border-radius:22px;padding:21px;box-shadow:0 15px 35px #1437680c;transform:rotate(-3deg);margin:0 4px 18px}.achievement .icon{width:66px;height:66px;border-radius:21px;background:linear-gradient(145deg,#fff8e8,#e7c57f);color:#916523}.achievement .icon svg{width:32px;height:32px}.achievement b{display:block;font-size:17px;letter-spacing:-.3px}.achievement small{display:block;color:#71819b;font-size:12px;margin-top:5px}.countdown{display:flex;align-items:center;justify-content:space-between;padding:20px 23px;border-radius:22px;background:linear-gradient(130deg,#fff,#eaf0fb);border:1px solid #fff;box-shadow:0 18px 40px #1437680b;transform:rotate(3deg);margin:0 4px}.countdown b{font-size:58px;letter-spacing:-4px;font-weight:600;line-height:1}.countdown b span{font-size:14px;letter-spacing:0;font-weight:500;margin-left:5px;color:#6d7e99}.countdown .caption{font-size:14px;line-height:1.55;color:#536988}.countdown .caption svg{display:block;margin-bottom:7px;color:#b96779;width:21px;height:21px}.sample{text-align:center;font-size:12px;color:#8290a5;margin:18px 0 0}
+.active .visual>*{animation:arrive .7s cubic-bezier(.2,.7,.2,1) both}.active .copy{animation:arrive .6s .09s both}@keyframes arrive{from{opacity:0;translate:0 16px}to{opacity:1;translate:0 0}}
+@media(max-height:740px) and (max-width:499px){.top{height:68px;padding-top:15px}.slide{min-height:calc(100svh - 176px);padding:0 25px}.visual{min-height:235px;padding:12px 0}.feature-tile{padding:14px;min-height:108px}.feature-tile .icon{margin-bottom:9px}.overview-title{margin-bottom:13px}.overview .label{margin-top:25px}.icon{width:43px;height:43px;border-radius:14px}.copy h1,.copy h2{font-size:30px;margin-bottom:12px}.copy{padding-bottom:12px}.copy p:last-child{font-size:14px;line-height:1.5}.eyebrow{margin-bottom:10px}.footer{height:108px;padding:0 25px 16px}.navigation{margin-bottom:10px}.question-panel,.repeat-panel{padding:18px}.repeat-row{padding:12px 0}.achievement{padding:16px}.countdown{padding:16px 20px}}
+@media(prefers-reduced-motion:reduce){*,*::before{animation:none!important;transition:none!important}}
+.feature-tile small{display:block;color:#aabbd6;font-size:12px;line-height:1.4;margin-top:6px}.feature-tile b{display:block}.s1 .feature-grid{gap:10px}.s1 .feature-tile{padding:16px 13px}.study-row{display:flex;align-items:center;gap:13px;padding:15px 0}.study-row+.study-row{border-top:1px solid #e7ecf4}.study-row b{display:block;font-size:15px;font-weight:600}.study-row small{display:block;color:#71819b;font-size:12px;margin-top:5px;line-height:1.4}.study-row .icon{flex-shrink:0}.s2 .question-panel{padding:12px 22px}.s3 .repeat-panel{padding:12px 22px}.s3 .repeat-row{padding:20px 0;gap:13px}.s3 .repeat-row .icon{flex-shrink:0}.s3 .repeat-row .icon svg{color:inherit}.s3 .repeat-row small{line-height:1.45}.statistics{background:linear-gradient(130deg,#fff,#eaf0fb);border:1px solid #fff;box-shadow:0 18px 40px #1437680b;transform:rotate(3deg);margin:0 4px;padding:22px;border-radius:22px}.statistics-head{display:flex;align-items:center;gap:14px}.statistics b{display:block;font-size:17px;letter-spacing:-.3px}.statistics small{display:block;color:#71819b;font-size:12px;line-height:1.45;margin-top:5px}.stats-labels{display:flex;gap:6px;border-top:1px solid #dce4f1;margin-top:18px;padding-top:14px;justify-content:space-between;color:#597195;font-size:12px}.s4 .achievement b{font-size:17px}.s4 .achievement small{line-height:1.45}@media(max-width:350px){.feature-tile b{font-size:13px}.s3 .repeat-panel{padding:8px 16px}.s3 .repeat-row{gap:10px}.stats-labels{font-size:11px}}
+</style>
 </head>
-<body class="onboarding-page">
-
-  <main class="ob-shell">
-    <button class="ob-skip" id="obSkip" type="button">Atla</button>
-
-    <div class="ob-track" id="obTrack">
-
-      <section class="ob-slide" data-slide="0">
-        <div class="ob-art"><img src="images/onboarding-hosgeldin.png" alt=""></div>
-        <h1>SınavRotası'na Hoş Geldin</h1>
-        <p>Görevde yükselme sınavına, dağınık notlar yerine tek bir rotada hazırlan.</p>
-      </section>
-
-      <section class="ob-slide" data-slide="1">
-        <div class="ob-art"><img src="images/onboarding-soru-bankasi.png" alt=""></div>
-        <h1>Binlerce Soruyla Çalış</h1>
-        <p>Konu konu ayrılmış soru bankasında pratik yap, her sorudan sonra doğru cevabı ve açıklamasını anında gör.</p>
-      </section>
-
-      <section class="ob-slide" data-slide="2">
-        <div class="ob-art"><img src="images/onboarding-deneme-sinavi.png" alt=""></div>
-        <h1>Gerçek Sınav Temposunda Dene</h1>
-        <p>Süreli deneme sınavlarıyla kendini sına, sonuç ekranında hangi konularda eksik olduğunu net olarak gör.</p>
-      </section>
-
-      <section class="ob-slide" data-slide="3">
-        <div class="ob-art"><img src="images/onboarding-yanlislarim.png" alt=""></div>
-        <h1>Yanlışlarını Tek Yerden Çöz</h1>
-        <p>Soru bankasında ya da denemede yanlış yaptığın her soru otomatik olarak tek bir listede birikir; hepsini aynı yerden tekrar çözüp pekiştirebilirsin.</p>
-      </section>
-
-      <section class="ob-slide" data-slide="4">
-        <div class="ob-art"><img src="images/onboarding-rozetler.png" alt=""></div>
-        <h1>İlerlemeni Rozetlerle Taçlandır</h1>
-        <p>Çalışma serini koru, rozet kazan, sınav gününe kadar kararlı adımlarla ilerlediğini her gün gör.</p>
-      </section>
-
-    </div>
-
-    <div class="ob-footer">
-      <div class="ob-dots" id="obDots">
-        <span class="ob-dot active" data-dot="0"></span>
-        <span class="ob-dot" data-dot="1"></span>
-        <span class="ob-dot" data-dot="2"></span>
-        <span class="ob-dot" data-dot="3"></span>
-        <span class="ob-dot" data-dot="4"></span>
-      </div>
-      <button class="primary-btn ob-next" id="obNext" type="button">Devam Et</button>
-      <div class="ob-switch">Zaten hesabın var mı? <a href="login.html">Giriş Yap</a></div>
-    </div>
-  </main>
-
-  <script src="vendor/capacitor/capacitor.js"></script>
-  <script src="vendor/capacitor/app.js"></script>
-  <script src="vendor/capacitor/haptics.js"></script>
-  <script src="vendor/capacitor/status-bar.js"></script>
-  <script src="vendor/capacitor/splash-screen.js"></script>
-  <script src="vendor/capacitor/keyboard.js"></script>
-  <script src="native-ux.js"></script>
-  <script src="onboarding.js?v=2"></script>
-</body>
-</html>
+<body>
+<svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+<symbol id="book" viewBox="0 0 24 24"><path d="M12 6C9 4 5 4 2 5v14c4-1 7-1 10 1 3-2 6-2 10-1V5c-3-1-7-1-10 1Zm0 0v14"/><path d="m5 9 4 .5M5 13l4 .5m6-4.5 4-.5m-4 5 4-.5" opacity=".45"/></symbol>
+<symbol id="document" viewBox="0 0 24 24"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9Z"/><path d="M14 3v6h6M8 13h8m-8 4h5"/></symbol>
+<symbol id="cards" viewBox="0 0 24 24"><rect x="7" y="3" width="14" height="16" rx="3"/><path d="M3 7v12a3 3 0 0 0 3 3h11M11 8h6m-6 4h4"/></symbol>
+<symbol id="award" viewBox="0 0 24 24"><circle cx="12" cy="8" r="5"/><path d="m8.5 12-2 9 5.5-3 5.5 3-2-9"/><path d="m10 8 1.4 1.4L14 7"/></symbol>
+<symbol id="arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6"/></symbol>
+<symbol id="check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+<symbol id="clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="repeat" viewBox="0 0 24 24"><path d="m17 2 4 4-4 4M3 11V8a2 2 0 0 1 2-2h16M7 22l-4-4 4-4m14-1v3a2 2 0 0 1-2 2H3"/></symbol>
+<symbol id="bookmark" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4Z"/></symbol>
+<symbol id="shuffle" viewBox="0 0 24 24"><path d="M3 6h3c4 0 8 12 12 12h3m-4-4 4 4-4 4M3 18h3c1.5 0 3-1.8 4.5-4M14 8c1.5-1.5 2.5-2 4-2h3m-4-4 4 4-4 4"/></symbol>
+<symbol id="chart" viewBox="0 0 24 24"><path d="M4 3v17h17M8 15v-4m5 4V6m5 9v-7"/></symbol>
+<symbol id="route" viewBox="0 0 24 24"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="18" r="2"/><path d="M7 6h9a3 3 0 0 1 0 6H8a3 3 0 0 0 0 6h9"/></symbol>
+</defs></svg>
+<main class="app" id="app" aria-label="SınavRotası tanıtımı">
+<header class="top"><div class="brand"><svg aria-hidden="true"><use href="#book"/></svg><span>Sınav<em>Rotası</em></span></div><button class="skip" id="skip">Tanıtımı geç</button></header>
+<section class="slide s1 active" aria-labelledby="title1">
+<div class="visual"><div class="overview"><div class="overview-title">ÖĞRENMENİN DÖRT YOLU</div><div class="feature-grid">
+<div class="feature-tile"><div class="icon"><svg aria-hidden="true"><use href="#book"/></svg></div><b>Madde madde çalış</b><small>Mevzuatı adım adım öğren.</small></div><div class="feature-tile"><div class="icon coral"><svg aria-hidden="true"><use href="#shuffle"/></svg></div><b>Rastgele 20 soru</b><small>Karma sorularla pratik yap.</small></div><div class="feature-tile"><div class="icon"><svg aria-hidden="true"><use href="#document"/></svg></div><b>Özetler</b><small>Konunun özüne ulaş.</small></div><div class="feature-tile"><div class="icon blue"><svg aria-hidden="true"><use href="#bookmark"/></svg></div><b>Kritik notlar</b><small>Önemli ayrıntıları yakala.</small></div></div><div class="label"><svg aria-hidden="true"><use href="#check"/></svg>İhtiyacın olan bilgi, bir arada.</div></div></div>
+<div class="copy"><p class="eyebrow">Çalış & öğren</p><h1>Konuyu kavra.<br><span>Bilgini güçlendir.</span></h1><p>Mevzuattan sorulara, özetlerden kritik notlara; hazırlığını sana uygun biçimde sürdür.</p></div></section>
+<section class="slide s2" aria-labelledby="title2" hidden>
+<div class="visual"><div class="question-panel"><div class="study-row"><div class="icon blue"><svg aria-hidden="true"><use href="#cards"/></svg></div><div><b>Flash kartlar</b><small>Kısa bilgilerle hızlı tekrar.</small></div></div><div class="study-row"><div class="icon"><svg aria-hidden="true"><use href="#check"/></svg></div><div><b>Doğru / Yanlış</b><small>Bilgini kısa ifadelerle yokla.</small></div></div><div class="study-row"><div class="icon coral"><svg aria-hidden="true"><use href="#bookmark"/></svg></div><div><b>Yanlışlarım</b><small>Takıldığın sorulara yeniden dön.</small></div></div></div></div>
+<div class="copy"><p class="eyebrow">Tekrar & pekiştirme</p><h2>Hatırla.<br><span>Kalıcı hâle getir.</span></h2><p>Kısa tekrarlarla öğrendiklerini tazele, yanlışlarının üzerinden geçerek eksiklerini tamamla.</p></div></section>
+<section class="slide s3" aria-labelledby="title3" hidden>
+<div class="visual"><div class="repeat-panel"><div class="repeat-row"><div class="icon"><svg aria-hidden="true"><use href="#document"/></svg></div><div><b>Deneme sınavları</b><small>Gerçek sınav formatına göre hazırlanmış denemeler.</small></div></div><div class="repeat-row"><div class="icon coral"><svg aria-hidden="true"><use href="#route"/></svg></div><div><b>Bugünkü rota</b><small>Günün çalışma akışı bir arada.</small></div></div><div class="repeat-row"><div class="icon blue"><svg aria-hidden="true"><use href="#repeat"/></svg></div><div><b>Leitner</b><small>Aralıklı tekrarlarla bilgini koru.</small></div></div></div></div>
+<div class="copy"><p class="eyebrow">Deneme & düzen</p><h2>Hazırlığına<br><span>ritim kazandır.</span></h2><p>Denemelerle kendini değerlendir. Günlük çalışma ve aralıklı tekrarlarla düzenini sürdür.</p></div></section>
+<section class="slide s4" aria-labelledby="title4" hidden>
+<div class="visual"><div class="motivation"><div class="achievement"><div class="icon"><svg aria-hidden="true"><use href="#award"/></svg></div><div><b>Rozetler</b><small>Çabanı başarılarla taçlandır.</small></div></div><div class="statistics"><div class="statistics-head"><div class="icon blue"><svg aria-hidden="true"><use href="#chart"/></svg></div><div><b>İstatistikler</b><small>Çalışmalarının karşılığını gör.</small></div></div><div class="stats-labels"><span>İlerleme</span><span>Performans</span><span>Gelişim</span></div></div></div></div>
+<div class="copy"><p class="eyebrow">Motivasyon & gelişim</p><h2>Emeğini gör.<br><span>İlerlemene tanık ol.</span></h2><p>Rozetlerle motivasyonunu canlı tut. İstatistiklerinle gelişimini takip et.</p></div></section>
+<footer class="footer"><div class="navigation"><nav class="steps" aria-label="Tanıtım slaytları"></nav><span class="page-number" aria-live="polite">01 / 04</span></div><div class="actions"><button class="back" id="back" aria-label="Önceki slayt" hidden><svg style="transform:rotate(180deg)" aria-hidden="true"><use href="#arrow"/></svg></button><button class="next" id="next"><span>Devam et</span><svg aria-hidden="true"><use href="#arrow"/></svg></button></div></footer>
+</main>
+<script src="vendor/capacitor/capacitor.js"></script>
+<script src="vendor/capacitor/app.js"></script>
+<script src="vendor/capacitor/haptics.js"></script>
+<script src="vendor/capacitor/status-bar.js"></script>
+<script src="vendor/capacitor/splash-screen.js"></script>
+<script src="vendor/capacitor/keyboard.js"></script>
+<script src="native-ux.js"></script>
+<script>
+(()=>{'use strict';
+// Native (Capacitor) kabukta açılış ekranını kapat — index.html/login.html/signup.html
+// ile aynı davranış. Web'de window.NativeUX yoksa hiçbir şey yapmaz.
+window.NativeUX?.init({ statusBarStyle: 'LIGHT' });
+window.NativeUX?.hideSplash();
+const SEEN_KEY='sr_onboarding_seen_v1';
+const app=document.getElementById('app'),slides=[...document.querySelectorAll('.slide')],nav=document.querySelector('.steps'),next=document.getElementById('next'),back=document.getElementById('back'),skip=document.getElementById('skip');let current=0;const labels=['Çalış ve öğren','Tekrar ve pekiştirme','Deneme ve düzen','Motivasyon ve gelişim'];slides.forEach((slide,i)=>{slide.querySelector('h1,h2').id='title'+(i+1);const btn=document.createElement('button');btn.type='button';btn.className='step';btn.setAttribute('aria-label',(i+1)+'. slayt: '+labels[i]);btn.innerHTML='<span></span>';btn.onclick=()=>show(i);nav.append(btn)});function show(i){current=Math.max(0,Math.min(3,i));app.classList.toggle('light',current%2===1);document.querySelector('meta[name="theme-color"]').content=current%2?'#ffffff':'#071f49';slides.forEach((s,n)=>{s.hidden=n!==current;s.classList.toggle('active',n===current)});[...nav.children].forEach((b,n)=>{if(n===current)b.setAttribute('aria-current','step');else b.removeAttribute('aria-current')});document.querySelector('.page-number').textContent='0'+(current+1)+' / 04';back.hidden=current===0;skip.hidden=current===3;next.querySelector('span').textContent=current===3?'SınavRotası’na başlayalım':'Devam et'}function finish(){try{localStorage.setItem(SEEN_KEY,'1')}catch(e){}window.location.href='login.html'}next.onclick=()=>current<3?show(current+1):finish();back.onclick=()=>show(current-1);skip.onclick=finish;document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'){e.preventDefault();show(current+1)}if(e.key==='ArrowLeft'){e.preventDefault();show(current-1)}});let x=null,y=null;app.addEventListener('pointerdown',e=>{if(e.target.closest('button'))return;x=e.clientX;y=e.clientY});app.addEventListener('pointerup',e=>{if(x===null)return;const dx=e.clientX-x,dy=e.clientY-y;if(Math.abs(dx)>55&&Math.abs(dx)>Math.abs(dy))show(current+(dx<0?1:-1));x=null;y=null});app.addEventListener('pointercancel',()=>{x=null;y=null});show(0)})();
+</script>
+</body></html>

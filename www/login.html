@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f5f7fb">
   <title>Giriş Yap — SınavRotası</title>
+  <script>
+    // İlk açılışta kullanıcıyı önce tanıtım (onboarding) akışına yönlendir.
+    // Onboarding tamamlanınca / atlanınca bayrak set edilip buraya geri döner.
+    try {
+      if (!localStorage.getItem('sr_onboarding_seen_v1')) {
+        window.location.replace('onboarding.html');
+      }
+    } catch (e) { /* localStorage yoksa sessizce devam et */ }
+  </script>
   <link rel="stylesheet" href="style.css?v=21">
 </head>
 <body class="auth-page">

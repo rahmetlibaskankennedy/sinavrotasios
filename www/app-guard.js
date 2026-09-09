@@ -55,7 +55,9 @@ supabaseClient.auth.getSession().then(async ({ data }) => {
     // o yüzden daha sonraki ziyaretlerde direkt login.html'e düşülüyor.
     let onboardingSeen = null;
     try { onboardingSeen = localStorage.getItem('sinavrotasi-onboarding-seen-v1'); } catch (e) { /* gizli modda sorun değil */ }
-    window.location.href = onboardingSeen ? 'login.html' : 'onboarding.html';
+    // Görsel/sıra değişikliklerinin eski WebView önbelleğinden gelmemesi için
+    // onboarding sayfasını sürüm parametresiyle aç.
+    window.location.href = onboardingSeen ? 'login.html' : 'onboarding.html?v=32';
     return;
   }
   // Oturum var görünüyor ama kullanıcı gerçekten Supabase'de duruyor mu, sunucudan doğrula
