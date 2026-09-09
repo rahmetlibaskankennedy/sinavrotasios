@@ -5,7 +5,7 @@
 function friendlyAuthError(message = '') {
   if (/Invalid login credentials/i.test(message)) return 'E-posta veya şifre hatalı.';
   if (/User already registered/i.test(message)) return 'Bu e-posta ile zaten bir hesap var.';
-  if (/Password should be at least|password.*(weak|requirement)/i.test(message)) return 'Şifre en az 12 karakter olmalı; büyük harf, küçük harf, rakam ve sembol içermeli.';
+  if (/Password should be at least|password.*(weak|requirement)/i.test(message)) return 'Şifre en az 8 karakter olmalı; büyük harf, küçük harf, rakam ve sembol içermeli.';
   if (/Email not confirmed/i.test(message)) return 'Lütfen e-postana gelen doğrulama bağlantısına tıkla.';
   if (/provider is not enabled/i.test(message)) return 'Bu giriş yöntemi şu anda kullanılamıyor. Lütfen e-posta ile devam et.';
   if (/redirect_to.*not allowed|requested path is invalid/i.test(message)) return 'Bu giriş yöntemi henüz yapılandırılmadı.';
@@ -19,8 +19,8 @@ function setFormBusy(button, busy, idleLabel) {
 }
 
 function passwordRequirementError(password) {
-  if (typeof password !== 'string' || password.length < 12) {
-    return 'Şifre en az 12 karakter olmalı.';
+  if (typeof password !== 'string' || password.length < 8) {
+    return 'Şifre en az 8 karakter olmalı.';
   }
   if (!/[a-zçğıöşü]/.test(password)) return 'Şifre en az bir küçük harf içermeli.';
   if (!/[A-ZÇĞİÖŞÜ]/.test(password)) return 'Şifre en az bir büyük harf içermeli.';

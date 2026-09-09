@@ -25,15 +25,7 @@ body{background:var(--bg)}
 .topbar{display:flex;justify-content:space-between;align-items:center;gap:10px}
 .topbar-user{display:flex;align-items:center;gap:10px; flex:1;}
 .avatar-wrap{position:relative;flex-shrink:0;min-width:48px;min-height:48px;display:flex;align-items:center;justify-content:center}
-.avatar-wrap img{
-  width:48px;
-  height:48px;
-  border-radius:50%;
-  object-fit:cover;
-  object-position:center;
-  display:block;
-  transform:scale(1.12);
-}
+.avatar-wrap img{width:40px;height:40px;border-radius:50%;object-fit:cover;display:block}
 .avatar-dot{position:absolute;top:0;right:0;width:11px;height:11px;border-radius:50%;background:#ff4d52;border:2px solid #061229}
 .user-text h1{font-size:14.5px;margin:0 0 2px;font-weight:400}
 .user-text h1 b{font-weight:600}
@@ -1823,12 +1815,12 @@ body.auth-page{
 .exam-target-icon{width:78px;height:78px;grid-column:2;grid-row:1/3;justify-self:end;object-fit:contain}
 .exam-target-copy{grid-column:1;min-width:0}
 .exam-target-eyebrow{font-size:8.5px;letter-spacing:.15em;font-weight:700;color:#dbe4f2}
-.exam-target-number{display:flex;align-items:baseline;gap:5px;margin:2px 0;font-variant-numeric:tabular-nums}
-.exam-target-number strong{font-size:20px;line-height:1.1;letter-spacing:-.03em;overflow-wrap:anywhere}
-.exam-target-number span{font-size:11px;font-weight:800}
+.exam-target-number{display:flex;flex-direction:column;align-items:flex-start;gap:0;margin:2px 0;font-variant-numeric:tabular-nums}
+.exam-target-number strong{display:block;max-width:100%;font-size:clamp(15px,5.5vw,20px);line-height:1.08;letter-spacing:-.03em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.exam-target-number span{font-size:10px;font-weight:800;margin-top:1px}
 .exam-target-copy p{margin:2px 0 6px;font-size:9.5px;line-height:1.3;color:#d4ddeb}
 .exam-target-action{justify-self:start;grid-column:1;border:0;border-radius:8px;padding:0 10px;background:#ed303f;color:#fff;font-size:9.5px;font-weight:700;cursor:pointer;height:26px;min-height:26px;display:inline-flex;align-items:center;gap:4px;width:fit-content}
 .exam-target-action span{margin-left:2px;font-size:12px}
 .exam-target-action:hover{background:#ff4250}
 .exam-target-action:focus-visible{outline:3px solid white;outline-offset:3px}
-@media(max-width:700px){.exam-target-number strong{font-size:18px}}
+@media(max-width:700px){.exam-target-number strong{font-size:clamp(14px,5vw,18px)}}
