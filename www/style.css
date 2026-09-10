@@ -338,6 +338,10 @@ body{background:var(--bg)}
 .tf-bookmark-inline{width:34px;height:34px;background:#f4f6fa;color:var(--muted)}
 .tf-bookmark-inline:hover{background:#e9edf5}
 .tf-bookmark-inline.is-active{background:var(--blue);color:#fff}
+.tf-card-top-actions{display:flex;align-items:center;gap:8px}
+.tf-report-inline{width:34px;height:34px;background:#f4f6fa;color:var(--muted)}
+.tf-report-inline:hover{background:#e9edf5}
+.tf-report-inline.is-active{background:var(--red2);color:var(--red)}
 
 /* Soru kökü ve "iddia edilen cevap" artık ayrı, etiketli bloklar halinde
    gösterilir — önceki sürümde tek paragrafta birleşip cevap kısmı bir

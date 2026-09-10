@@ -369,6 +369,26 @@ async function pushProgressToCloud() {
   }
 }
 
+// Basit kullanım analitiği: hangi olayın ne sıklıkla tetiklendiğini
+// user_events tablosuna kaydeder. Kasıtlı olarak "ateşle ve unut" —
+// hata olursa sessizce yutulur, kullanıcı deneyimini asla bloklamaz veya
+// bozmaz. Kullanıcıya gösterilen bir özellik değil, sadece Sait'in
+// Supabase Studio'dan ihtiyaç oldukça bakacağı ham veri.
+function logEvent(eventType, eventData) {
+  try {
+    if (!progress.userId) return; // misafir/oturumsuz kullanım loglanmaz
+    supabaseClient.from('user_events').insert({
+      user_id: progress.userId,
+      event_type: eventType,
+      event_data: eventData || {},
+    }).then(({ error }) => {
+      if (error) console.warn('logEvent başarısız:', eventType, error.message);
+    });
+  } catch (_) {
+    // Analitik hiçbir zaman uygulamayı kesintiye uğratmamalı.
+  }
+}
+
 function saveProgress() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
   scheduleCloudSync();
@@ -1468,7 +1488,7 @@ function profileView() {
     <button class="reset-progress" id="resetProgressButton" type="button">${svg('refresh')}<span>İlerleme verisini sıfırla</span></button>
     <button class="signout-btn" id="signOutButton" type="button">${svg('lock')}<span>Çıkış Yap</span></button>
   </section>
-  <a class="delete-account-link" id="deleteAccountLink" href="https://ORAYA-GERCEK-URL-GELECEK/hesapsilme.html" target="_blank" rel="noopener">Hesabımı silmek istiyorum</a>
+  <a class="delete-account-link" id="deleteAccountLink" href="https://sinavrotasi.github.io/sinavrotasi-legal/hesapsilme.html" target="_blank" rel="noopener">Hesabımı silmek istiyorum</a>
 </section>`;
 }
 
@@ -2241,6 +2261,7 @@ async function openTrueFalseMode(documentItem, categoryKey) {
     const selected = shuffle(pool).slice(0, Math.min(20, pool.length));
     const tfQuestions = selected.map(q => ({
       id: q.id,
+      feedbackQuestionId: `tf_${q.id}`,
       prompt: '',
       displayAnswer: q.statement,
       isCorrectShown: q.isTrue,
@@ -2302,7 +2323,12 @@ function renderTrueFalse() {
           <div class="tf-content-box">
             <div class="tf-card-top">
               <span class="tf-topic-tag"><span class="tf-topic-icon">${svg(tagMeta.icon)}</span>${escapeHtml(tagLabel)}</span>
-              <button type="button" class="tf-icon-btn tf-bookmark-inline${bookmarked ? ' is-active' : ''}" id="tfBookmark" aria-label="Soruyu kaydet" aria-pressed="${bookmarked}">${svg('bookmark')}</button>
+              <div class="tf-card-top-actions">
+                <button type="button" class="tf-icon-btn tf-report-inline${progress.reportedQuestions[q.id] ? ' is-active' : ''}" id="tfReport" aria-label="${progress.reportedQuestions[q.id] ? 'Bildirimi Geri Al' : 'Soruyu Bildir'}">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+                </button>
+                <button type="button" class="tf-icon-btn tf-bookmark-inline${bookmarked ? ' is-active' : ''}" id="tfBookmark" aria-label="Soruyu kaydet" aria-pressed="${bookmarked}">${svg('bookmark')}</button>
+              </div>
             </div>
             ${q.prompt ? `<span class="tf-prompt-label">SORU</span><p class="tf-prompt">${escapeHtml(q.prompt)}</p>` : ''}
             <span class="tf-answer-label">${q.prompt ? 'GÖSTERİLEN CEVAP' : 'İFADE'}</span>
@@ -2344,6 +2370,8 @@ function renderTrueFalse() {
     btn.setAttribute('aria-pressed', String(nowBookmarked));
     showToast(nowBookmarked ? 'Soru kaydedildi' : 'Kaydedilenlerden çıkarıldı');
   };
+
+  document.getElementById('tfReport').onclick = () => reportQuestion(q, renderTrueFalse);
 
   const wrongBtn = document.getElementById('tfWrong');
   const correctBtn = document.getElementById('tfCorrect');
@@ -2439,6 +2467,8 @@ function renderTrueFalseResult() {
   const tf = state.tfQuiz;
   const total = tf.questions.length;
   const pct = Math.round((tf.score / total) * 100);
+
+  logEvent('tf_completed', { category: tf.categoryKey, score: tf.score, total, pct });
 
   topicList.innerHTML = `
     <div class="tf-shell">
@@ -2892,6 +2922,7 @@ async function purchasePremiumProduct(productId, buttonEl) {
   try {
     const purchase = await billing.purchase({ productId });
     const result = await verifyPlayPurchase(purchase.productId || productId, purchase.purchaseToken);
+    logEvent('purchase_success', { product_id: purchase.productId || productId });
     showToast('Premium aktif edildi!');
     if (window.currentUserIsPremium !== undefined) window.currentUserIsPremium = true;
     return result;
@@ -2939,7 +2970,8 @@ async function restoreUnverifiedPurchases() {
   } catch (_) { /* Play Billing kullanılamıyorsa (ör. web) sessizce geç */ }
 }
 
-function reportQuestion(question) {
+function reportQuestion(question, rerender) {
+  const doRerender = typeof rerender === 'function' ? rerender : renderQuiz;
   const overlay = document.getElementById('reportModalOverlay');
   if (!overlay) return;
 
@@ -2964,7 +2996,7 @@ function reportQuestion(question) {
     haptic(14);
     saveProgress();
     closeModal();
-    renderQuiz();
+    doRerender();
 
     try {
       await sendQuestionReport({
@@ -2974,7 +3006,7 @@ function reportQuestion(question) {
     } catch (err) {
       progress.reportedQuestions[question.id] = previousReportState || true;
       saveProgress();
-      renderQuiz();
+      doRerender();
       showToast('Bildirim geri alınamadı, tekrar dene.');
       return;
     }
@@ -2988,7 +3020,7 @@ function reportQuestion(question) {
     progress.reportedQuestions[question.id] = true;
     haptic(14);
     saveProgress();
-    renderQuiz();
+    doRerender();
 
     try {
       await sendQuestionReport({
@@ -3000,7 +3032,7 @@ function reportQuestion(question) {
     } catch (err) {
       delete progress.reportedQuestions[question.id];
       saveProgress();
-      renderQuiz();
+      doRerender();
       showToast('Bildirim gönderilemedi, tekrar dene.');
     }
   };
@@ -3193,11 +3225,12 @@ function renderQuizResult() {
   const quiz = state.quiz;
   if (!quiz) return;
   recordQuizCompletion(quiz);
-  topicSheet.classList.remove('quiz-active');
-  topicSheet.classList.add('document-flow');
   const score = quizScore(quiz);
   const total = quiz.questions.length;
   const percentage = total ? Math.round((score / total) * 100) : 0;
+  logEvent('quiz_completed', { kind: quiz.kind || 'standard', score, total, pct: percentage });
+  topicSheet.classList.remove('quiz-active');
+  topicSheet.classList.add('document-flow');
   applySheetHeader({ title: quiz.title, subtitle: 'Test tamamlandı', eyebrow: 'SONUÇ', icon: 'trophy', iconClass: 'red' });
   topicBreadcrumbWrap.innerHTML = '';
   setSheetProgress('Henüz yanıtlanmış soru yok', percentage, 'başarı');
